@@ -1,0 +1,547 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1993,Round 1,"Friday, 12th March, 1993",,6365,4,"16,814","Canberra
+RAIDERS",,8,7,"St George
+DRAGONS",,22,4
+0,NSWRL 1993,Round 1,"Saturday, 13th March, 1993",,6366,7,"6,724","Balmain
+TIGERS",,14,16,"Canterbury Bankstown
+BULLDOGS",,19,5
+0,NSWRL 1993,Round 1,"Saturday, 13th March, 1993",,6367,19,"6,047","Western Suburbs
+MAGPIES",,14,13,"Gold Coast
+SEAGULLS",,10,9
+0,NSWRL 1993,Round 1,"Sunday, 14th March, 1993",,6371,9,"8,200","Cronulla Sutherland
+SHARKS",,10,14,"Brisbane
+BRONCOS",,19,9
+0,NSWRL 1993,Round 1,"Sunday, 14th March, 1993",,6368,21,"14,721","Illawarra
+STEELERS",,19,6,"South Sydney
+RABBITOHS",,0,7
+0,NSWRL 1993,Round 1,"Sunday, 14th March, 1993",,6372,11,"15,640","Newcastle
+KNIGHTS",,10,6,"Eastern Suburbs
+ROOSTERS",,20,5
+0,NSWRL 1993,Round 1,"Sunday, 14th March, 1993",,6369,25,"17,691","North Sydney
+BEARS",,19,8,"Manly Warringah
+SEA EAGLES",,4,4
+0,NSWRL 1993,Round 1,"Sunday, 14th March, 1993",,6370,3,"10,782","Penrith
+PANTHERS",,10,8,"Parramatta
+EELS",,11,11
+0,NSWRL 1993,Round 2,"Friday, 19th March, 1993",,6373,114,"16,236","Canterbury Bankstown
+BULLDOGS",,20,8,"Brisbane
+BRONCOS",,10,8
+0,NSWRL 1993,Round 2,"Saturday, 20th March, 1993",,6374,34,"7,000","Gold Coast
+SEAGULLS",,4,9,"Illawarra
+STEELERS",,5,9
+0,NSWRL 1993,Round 2,"Saturday, 20th March, 1993",3:05pm (local time),6375,4,"11,186","Canberra
+RAIDERS",12,18,8,"Penrith
+PANTHERS",8,8,9
+0,NSWRL 1993,Round 2,"Sunday, 21st March, 1993",,6378,9,"5,359","Cronulla Sutherland
+SHARKS",,0,8,"Parramatta
+EELS",,14,8
+0,NSWRL 1993,Round 2,"Sunday, 21st March, 1993",,6379,1,"9,050","Eastern Suburbs
+ROOSTERS",,10,4,"North Sydney
+BEARS",,10,12
+0,NSWRL 1993,Round 2,"Sunday, 21st March, 1993",,6376,5,"10,017","Manly Warringah
+SEA EAGLES",,30,10,"South Sydney
+RABBITOHS",,10,10
+0,NSWRL 1993,Round 2,"Sunday, 21st March, 1993",,6377,11,"12,194","Newcastle
+KNIGHTS",,18,12,"Western Suburbs
+MAGPIES",,9,6
+0,NSWRL 1993,Round 2,"Sunday, 21st March, 1993",,6380,23,"9,616","St George
+DRAGONS",,14,10,"Balmain
+TIGERS",,6,4
+0,NSWRL 1993,Round 3,"Friday, 26th March, 1993",,6381,7,"7,300","Balmain
+TIGERS",,10,6,"Canberra
+RAIDERS",,17,6
+0,NSWRL 1993,Round 3,"Saturday, 27th March, 1993",,6382,19,"5,028","Western Suburbs
+MAGPIES",,12,5,"Eastern Suburbs
+ROOSTERS",,22,4
+0,NSWRL 1993,Round 3,"Sunday, 28th March, 1993",,6384,13,"51,517","Brisbane
+BRONCOS",,8,6,"Parramatta
+EELS",,12,8
+0,NSWRL 1993,Round 3,"Sunday, 28th March, 1993",,6385,9,"10,563","Cronulla Sutherland
+SHARKS",,12,12,"St George
+DRAGONS",,24,4
+0,NSWRL 1993,Round 3,"Sunday, 28th March, 1993",,6383,21,"14,689","Illawarra
+STEELERS",,2,8,"Manly Warringah
+SEA EAGLES",,23,9
+0,NSWRL 1993,Round 3,"Sunday, 28th March, 1993",,6386,25,"5,548","North Sydney
+BEARS",,22,9,"Gold Coast
+SEAGULLS",,14,10
+0,NSWRL 1993,Round 3,"Sunday, 28th March, 1993",,6388,3,"8,996","Penrith
+PANTHERS",,8,11,"Canterbury Bankstown
+BULLDOGS",,21,6
+0,NSWRL 1993,Round 3,"Sunday, 28th March, 1993",,6387,1,"8,706","South Sydney
+RABBITOHS",,10,7,"Newcastle
+KNIGHTS",,16,8
+0,NSWRL 1993,Round 4,"Friday, 2nd April, 1993",,6389,3,"11,829","Penrith
+PANTHERS",,26,13,"Balmain
+TIGERS",,10,11
+0,NSWRL 1993,Round 4,"Saturday, 3rd April, 1993",,6390,25,"6,676","North Sydney
+BEARS",,22,4,"Western Suburbs
+MAGPIES",,9,6
+0,NSWRL 1993,Round 4,"Sunday, 4th April, 1993",,6393,13,"46,001","Brisbane
+BRONCOS",,12,5,"Canberra
+RAIDERS",,10,7
+0,NSWRL 1993,Round 4,"Sunday, 4th April, 1993",,6395,9,"8,109","Cronulla Sutherland
+SHARKS",,2,10,"Canterbury Bankstown
+BULLDOGS",,28,9
+0,NSWRL 1993,Round 4,"Sunday, 4th April, 1993",,6396,21,"13,096","Illawarra
+STEELERS",,18,7,"Eastern Suburbs
+ROOSTERS",,10,4
+0,NSWRL 1993,Round 4,"Sunday, 4th April, 1993",,6391,5,"14,045","Manly Warringah
+SEA EAGLES",,22,5,"Newcastle
+KNIGHTS",,4,9
+0,NSWRL 1993,Round 4,"Sunday, 4th April, 1993",,6392,8,"23,007","Parramatta
+EELS",,12,3,"St George
+DRAGONS",,14,9
+0,NSWRL 1993,Round 4,"Sunday, 4th April, 1993",,6394,1,"6,318","South Sydney
+RABBITOHS",,36,5,"Gold Coast
+SEAGULLS",,24,7
+0,NSWRL 1993,Round 5,"Friday, 9th April, 1993",,6397,1,"26,433","Eastern Suburbs
+ROOSTERS",,18,6,"South Sydney
+RABBITOHS",,4,4
+0,NSWRL 1993,Round 5,"Saturday, 10th April, 1993",,6398,7,"7,522","Balmain
+TIGERS",,6,3,"Brisbane
+BRONCOS",,12,7
+0,NSWRL 1993,Round 5,"Sunday, 11th April, 1993",,6401,4,"13,837","Canberra
+RAIDERS",,46,4,"Cronulla Sutherland
+SHARKS",,6,6
+0,NSWRL 1993,Round 5,"Sunday, 11th April, 1993",,6399,34,"11,481","Gold Coast
+SEAGULLS",,8,6,"Manly Warringah
+SEA EAGLES",,14,8
+0,NSWRL 1993,Round 5,"Sunday, 11th April, 1993",,6400,11,"16,412","Newcastle
+KNIGHTS",,4,6,"North Sydney
+BEARS",,16,9
+0,NSWRL 1993,Round 5,"Sunday, 11th April, 1993",,6403,23,"12,676","St George
+DRAGONS",,15,4,"Penrith
+PANTHERS",,4,7
+0,NSWRL 1993,Round 5,"Sunday, 11th April, 1993",,6402,19,"10,168","Western Suburbs
+MAGPIES",,2,6,"Illawarra
+STEELERS",,24,7
+0,NSWRL 1993,Round 5,"Monday, 12th April, 1993",,6404,27,"27,804","Canterbury Bankstown
+BULLDOGS",,42,5,"Parramatta
+EELS",,6,8
+0,NSWRL 1993,Round 6,"Friday, 16th April, 1993",,6405,5,"14,177","Manly Warringah
+SEA EAGLES",,0,7,"Eastern Suburbs
+ROOSTERS",,6,3
+0,NSWRL 1993,Round 6,"Saturday, 17th April, 1993",,6407,9,"12,850","Cronulla Sutherland
+SHARKS",,18,6,"Balmain
+TIGERS",,4,5
+0,NSWRL 1993,Round 6,"Saturday, 17th April, 1993",,6406,34,"4,994","Gold Coast
+SEAGULLS",,22,6,"Newcastle
+KNIGHTS",,6,8
+0,NSWRL 1993,Round 6,"Saturday, 17th April, 1993",,6408,8,"9,249","Parramatta
+EELS",,10,5,"Canberra
+RAIDERS",,8,6
+0,NSWRL 1993,Round 6,"Sunday, 18th April, 1993",,6411,13,"35,904","Brisbane
+BRONCOS",,34,5,"Penrith
+PANTHERS",,8,3
+0,NSWRL 1993,Round 6,"Sunday, 18th April, 1993",,6412,27,"22,771","Canterbury Bankstown
+BULLDOGS",,14,3,"St George
+DRAGONS",,18,6
+0,NSWRL 1993,Round 6,"Sunday, 18th April, 1993",,6409,21,"14,957","Illawarra
+STEELERS",,2,4,"North Sydney
+BEARS",,7,8
+0,NSWRL 1993,Round 6,"Sunday, 18th April, 1993",,6410,1,"8,701","South Sydney
+RABBITOHS",,18,8,"Western Suburbs
+MAGPIES",,12,6
+0,NSWRL 1993,Round 7,"Saturday, 24th April, 1993",,6413,4,"13,280","Canberra
+RAIDERS",10,27,6,"Canterbury Bankstown
+BULLDOGS",10,10,6
+0,NSWRL 1993,Round 7,"Sunday, 25th April, 1993",,6415,7,"10,159","Balmain
+TIGERS",,26,11,"Parramatta
+EELS",,2,3
+0,NSWRL 1993,Round 7,"Sunday, 25th April, 1993",,6416,1,"7,874","Eastern Suburbs
+ROOSTERS",,14,5,"Gold Coast
+SEAGULLS",,12,11
+0,NSWRL 1993,Round 7,"Sunday, 25th April, 1993",,6417,11,"14,352","Newcastle
+KNIGHTS",,19,4,"Illawarra
+STEELERS",,18,8
+0,NSWRL 1993,Round 7,"Sunday, 25th April, 1993",,6414,25,"11,454","North Sydney
+BEARS",,18,5,"South Sydney
+RABBITOHS",,20,8
+0,NSWRL 1993,Round 7,"Sunday, 25th April, 1993",,6420,3,"8,002","Penrith
+PANTHERS",,12,5,"Cronulla Sutherland
+SHARKS",,26,6
+0,NSWRL 1993,Round 7,"Sunday, 25th April, 1993",,6419,23,"17,025","St George
+DRAGONS",,14,7,"Brisbane
+BRONCOS",,20,2
+0,NSWRL 1993,Round 7,"Sunday, 25th April, 1993",,6418,19,"12,062","Western Suburbs
+MAGPIES",,4,5,"Manly Warringah
+SEA EAGLES",,11,7
+0,NSWRL 1993,Round 8,"Friday, 30th April, 1993",7:30pm (local time),6421,34,"6,817","Gold Coast
+SEAGULLS",4,4,9,"Canterbury Bankstown
+BULLDOGS",15,35,11
+0,NSWRL 1993,Round 8,"Saturday, 1st May, 1993",,6422,1,"8,512","South Sydney
+RABBITOHS",,12,5,"Cronulla Sutherland
+SHARKS",,16,10
+0,NSWRL 1993,Round 8,"Sunday, 2nd May, 1993",,6423,5,"15,262","Manly Warringah
+SEA EAGLES",,10,2,"Parramatta
+EELS",,12,8
+0,NSWRL 1993,Round 8,"Friday, 7th May, 1993",,6424,32,"20,436","Canberra
+RAIDERS",,15,5,"Eastern Suburbs
+ROOSTERS",,10,3
+0,NSWRL 1993,Round 8,"Saturday, 8th May, 1993",,6425,23,"7,041","St George
+DRAGONS",,16,14,"Newcastle
+KNIGHTS",,12,4
+0,NSWRL 1993,Round 8,"Sunday, 9th May, 1993",,6426,7,"8,209","Balmain
+TIGERS",,20,5,"Western Suburbs
+MAGPIES",,24,8
+0,NSWRL 1993,Round 8,"Sunday, 9th May, 1993",,6427,13,"28,126","Brisbane
+BRONCOS",,24,4,"Illawarra
+STEELERS",,22,9
+0,NSWRL 1993,Round 8,"Sunday, 9th May, 1993",,6428,3,"5,798","Penrith
+PANTHERS",,18,12,"North Sydney
+BEARS",,20,5
+0,NSWRL 1993,Round 9,"Friday, 14th May, 1993",,6429,8,"16,020","Parramatta
+EELS",,2,5,"South Sydney
+RABBITOHS",,15,9
+0,NSWRL 1993,Round 9,"Saturday, 15th May, 1993",,6430,9,"10,241","Cronulla Sutherland
+SHARKS",,18,6,"Newcastle
+KNIGHTS",,6,11
+0,NSWRL 1993,Round 9,"Saturday, 15th May, 1993",,6431,19,"5,110","Western Suburbs
+MAGPIES",,24,6,"Penrith
+PANTHERS",,10,5
+0,NSWRL 1993,Round 9,"Sunday, 16th May, 1993",,6432,27,"17,055","Canterbury Bankstown
+BULLDOGS",,21,8,"Manly Warringah
+SEA EAGLES",,12,6
+0,NSWRL 1993,Round 9,"Friday, 21st May, 1993",7:30pm (local time),6433,21,"17,527","Illawarra
+STEELERS",,5,7,"St George
+DRAGONS",,9,8
+0,NSWRL 1993,Round 9,"Saturday, 22nd May, 1993",3:05pm (local time),6434,1,"9,671","Eastern Suburbs
+ROOSTERS",,7,12,"Balmain
+TIGERS",,18,6
+0,NSWRL 1993,Round 9,"Sunday, 23rd May, 1993",3:00pm (local time),6435,4,"8,782","Canberra
+RAIDERS",,48,6,"Gold Coast
+SEAGULLS",,4,8
+0,NSWRL 1993,Round 9,"Sunday, 23rd May, 1993",3:00pm (local time),6436,25,"20,378","North Sydney
+BEARS",,40,2,"Brisbane
+BRONCOS",,20,5
+0,NSWRL 1993,Round 10,"Friday, 28th May, 1993",,6437,1,"24,258","South Sydney
+RABBITOHS",,14,4,"Canterbury Bankstown
+BULLDOGS",,30,8
+0,NSWRL 1993,Round 10,"Saturday, 29th May, 1993",,6438,3,"6,516","Penrith
+PANTHERS",,10,6,"Eastern Suburbs
+ROOSTERS",,26,10
+0,NSWRL 1993,Round 10,"Sunday, 30th May, 1993",,6439,11,"17,530","Newcastle
+KNIGHTS",,28,4,"Parramatta
+EELS",,8,9
+0,NSWRL 1993,Round 10,"Friday, 4th June, 1993",7:30pm (local time),6440,23,,"St George
+DRAGONS",0,2,7,"North Sydney
+BEARS",4,9,9
+0,NSWRL 1993,Round 10,"Saturday, 5th June, 1993",,6441,21,"10,674","Illawarra
+STEELERS",,30,4,"Cronulla Sutherland
+SHARKS",,0,3
+0,NSWRL 1993,Round 10,"Sunday, 6th June, 1993",,6442,7,"5,238","Balmain
+TIGERS",,12,4,"Gold Coast
+SEAGULLS",,6,9
+0,NSWRL 1993,Round 10,"Sunday, 6th June, 1993",,6443,13,"40,733","Brisbane
+BRONCOS",,36,8,"Western Suburbs
+MAGPIES",,16,8
+0,NSWRL 1993,Round 10,"Sunday, 6th June, 1993",,6444,5,"17,146","Manly Warringah
+SEA EAGLES",6,10,2,"Canberra
+RAIDERS",0,21,1
+0,NSWRL 1993,Round 11,"Friday, 11th June, 1993",,6445,12,"11,822","St George
+DRAGONS",,20,7,"Western Suburbs
+MAGPIES",,8,8
+0,NSWRL 1993,Round 11,"Saturday, 12th June, 1993",,6446,9,"8,509","Cronulla Sutherland
+SHARKS",,20,5,"North Sydney
+BEARS",,8,6
+0,NSWRL 1993,Round 11,"Saturday, 12th June, 1993",,6447,1,"10,450","Eastern Suburbs
+ROOSTERS",,22,9,"Brisbane
+BRONCOS",,26,7
+0,NSWRL 1993,Round 11,"Sunday, 13th June, 1993",,6449,4,"13,398","Canberra
+RAIDERS",,41,11,"South Sydney
+RABBITOHS",,10,6
+0,NSWRL 1993,Round 11,"Sunday, 13th June, 1993",,6450,27,"13,235","Canterbury Bankstown
+BULLDOGS",,30,6,"Newcastle
+KNIGHTS",,0,7
+0,NSWRL 1993,Round 11,"Sunday, 13th June, 1993",,6448,34,"6,806","Gold Coast
+SEAGULLS",,18,3,"Penrith
+PANTHERS",,30,7
+0,NSWRL 1993,Round 11,"Sunday, 13th June, 1993",,6452,5,"13,041","Manly Warringah
+SEA EAGLES",,22,10,"Balmain
+TIGERS",,18,5
+0,NSWRL 1993,Round 11,"Sunday, 13th June, 1993",,6451,8,"9,306","Parramatta
+EELS",,6,5,"Illawarra
+STEELERS",,34,4
+0,NSWRL 1993,Round 12,"Friday, 18th June, 1993",,6453,13,"57,212","Brisbane
+BRONCOS",,14,3,"Gold Coast
+SEAGULLS",,6,5
+0,NSWRL 1993,Round 12,"Friday, 18th June, 1993",,6454,21,"13,073","Illawarra
+STEELERS",,2,4,"Canterbury Bankstown
+BULLDOGS",,4,8
+0,NSWRL 1993,Round 12,"Saturday, 19th June, 1993",,6455,25,"7,515","North Sydney
+BEARS",,36,5,"Parramatta
+EELS",,8,3
+0,NSWRL 1993,Round 12,"Saturday, 19th June, 1993",,6456,19,"5,168","Western Suburbs
+MAGPIES",,16,8,"Cronulla Sutherland
+SHARKS",,8,6
+0,NSWRL 1993,Round 12,"Sunday, 20th June, 1993",,6460,24,"24,732","Balmain
+TIGERS",8,19,8,"South Sydney
+RABBITOHS",10,18,5
+0,NSWRL 1993,Round 12,"Sunday, 20th June, 1993",,6458,11,"12,332","Newcastle
+KNIGHTS",,28,6,"Canberra
+RAIDERS",,14,8
+0,NSWRL 1993,Round 12,"Sunday, 20th June, 1993",,6457,3,"7,020","Penrith
+PANTHERS",,8,7,"Manly Warringah
+SEA EAGLES",,22,4
+0,NSWRL 1993,Round 12,"Sunday, 20th June, 1993",,6459,23,"10,618","St George
+DRAGONS",,46,3,"Eastern Suburbs
+ROOSTERS",,0,7
+0,NSWRL 1993,Round 13,"Saturday, 26th June, 1993",,6461,4,"8,692","Canberra
+RAIDERS",,36,5,"Illawarra
+STEELERS",,18,4
+0,NSWRL 1993,Round 13,"Saturday, 26th June, 1993",,6462,9,"8,995","Cronulla Sutherland
+SHARKS",,8,7,"Eastern Suburbs
+ROOSTERS",,20,5
+0,NSWRL 1993,Round 13,"Saturday, 26th June, 1993",,6463,5,"12,203","Manly Warringah
+SEA EAGLES",,24,8,"Brisbane
+BRONCOS",,8,7
+0,NSWRL 1993,Round 13,"Sunday, 27th June, 1993",,6464,34,"7,954","Gold Coast
+SEAGULLS",,18,7,"St George
+DRAGONS",,26,12
+0,NSWRL 1993,Round 13,"Sunday, 27th June, 1993",,6468,11,"16,140","Newcastle
+KNIGHTS",,21,9,"Balmain
+TIGERS",,14,6
+0,NSWRL 1993,Round 13,"Sunday, 27th June, 1993",,6465,8,"10,029","Parramatta
+EELS",,22,10,"Western Suburbs
+MAGPIES",,6,4
+0,NSWRL 1993,Round 13,"Sunday, 27th June, 1993",,6467,1,"6,857","South Sydney
+RABBITOHS",,26,9,"Penrith
+PANTHERS",,30,5
+0,NSWRL 1993,Round 13,"Sunday, 27th June, 1993",3:00pm (local time),6466,27,"19,292","Canterbury Bankstown
+BULLDOGS",,17,5,"North Sydney
+BEARS",,18,8
+0,NSWRL 1993,Round 14,"Friday, 2nd July, 1993",,6469,13,"31,896","Brisbane
+BRONCOS",,54,5,"South Sydney
+RABBITOHS",,8,4
+0,NSWRL 1993,Round 14,"Saturday, 3rd July, 1993",,6471,34,"5,493","Gold Coast
+SEAGULLS",,2,8,"Cronulla Sutherland
+SHARKS",,24,4
+0,NSWRL 1993,Round 14,"Saturday, 3rd July, 1993",,6470,23,"13,070","St George
+DRAGONS",,21,11,"Manly Warringah
+SEA EAGLES",,20,10
+0,NSWRL 1993,Round 14,"Sunday, 4th July, 1993",,6472,7,"6,288","Balmain
+TIGERS",,13,5,"Illawarra
+STEELERS",,18,8
+0,NSWRL 1993,Round 14,"Sunday, 4th July, 1993",,6473,1,"9,258","Eastern Suburbs
+ROOSTERS",,2,7,"Parramatta
+EELS",,18,8
+0,NSWRL 1993,Round 14,"Sunday, 4th July, 1993",,6474,3,"7,343","Penrith
+PANTHERS",,24,7,"Newcastle
+KNIGHTS",,13,4
+0,NSWRL 1993,Round 14,"Sunday, 4th July, 1993",,6476,19,"11,380","Western Suburbs
+MAGPIES",,12,5,"Canterbury Bankstown
+BULLDOGS",,24,5
+0,NSWRL 1993,Round 14,"Sunday, 4th July, 1993",3:00pm (local time),6475,25,"22,536","North Sydney
+BEARS",4,20,2,"Canberra
+RAIDERS",8,24,1
+0,NSWRL 1993,Round 15,"Friday, 9th July, 1993",,6477,32,"18,053","Manly Warringah
+SEA EAGLES",,26,6,"Cronulla Sutherland
+SHARKS",,6,4
+0,NSWRL 1993,Round 15,"Saturday, 10th July, 1993",,6478,27,"10,203","Canterbury Bankstown
+BULLDOGS",,10,5,"Eastern Suburbs
+ROOSTERS",,6,3
+0,NSWRL 1993,Round 15,"Sunday, 11th July, 1993",,6480,4,"13,408","Canberra
+RAIDERS",,38,8,"Western Suburbs
+MAGPIES",,2,13
+0,NSWRL 1993,Round 15,"Sunday, 11th July, 1993",,6479,21,"11,648","Illawarra
+STEELERS",,16,9,"Penrith
+PANTHERS",,8,9
+0,NSWRL 1993,Round 15,"Sunday, 11th July, 1993",,6484,11,"12,604","Newcastle
+KNIGHTS",,2,5,"Brisbane
+BRONCOS",,31,4
+0,NSWRL 1993,Round 15,"Sunday, 11th July, 1993",,6483,25,"14,148","North Sydney
+BEARS",,16,8,"Balmain
+TIGERS",,27,4
+0,NSWRL 1993,Round 15,"Sunday, 11th July, 1993",,6481,8,"9,536","Parramatta
+EELS",,32,6,"Gold Coast
+SEAGULLS",,10,5
+0,NSWRL 1993,Round 15,"Sunday, 11th July, 1993",,6482,1,"13,428","South Sydney
+RABBITOHS",,6,11,"St George
+DRAGONS",,42,7
+0,NSWRL 1993,Round 16,"Friday, 16th July, 1993",,6485,8,"13,191","Parramatta
+EELS",,4,7,"Penrith
+PANTHERS",,22,5
+0,NSWRL 1993,Round 16,"Saturday, 17th July, 1993",,6486,34,"5,183","Gold Coast
+SEAGULLS",,22,5,"Western Suburbs
+MAGPIES",,32,10
+0,NSWRL 1993,Round 16,"Saturday, 17th July, 1993",,6487,1,"5,135","South Sydney
+RABBITOHS",,12,3,"Illawarra
+STEELERS",,24,8
+0,NSWRL 1993,Round 16,"Sunday, 18th July, 1993",,6492,114,"8,374","Eastern Suburbs
+ROOSTERS",,22,6,"Newcastle
+KNIGHTS",,18,8
+0,NSWRL 1993,Round 16,"Sunday, 18th July, 1993",,6489,13,"31,270","Brisbane
+BRONCOS",,38,11,"Cronulla Sutherland
+SHARKS",,34,8
+0,NSWRL 1993,Round 16,"Sunday, 18th July, 1993",,6491,33,"20,246","Canberra
+RAIDERS",,30,7,"St George
+DRAGONS",,2,5
+0,NSWRL 1993,Round 16,"Sunday, 18th July, 1993",,6490,27,"17,208","Canterbury Bankstown
+BULLDOGS",,24,15,"Balmain
+TIGERS",,6,5
+0,NSWRL 1993,Round 16,"Sunday, 18th July, 1993",,6488,5,"24,381","Manly Warringah
+SEA EAGLES",,26,8,"North Sydney
+BEARS",,10,6
+0,NSWRL 1993,Round 17,"Friday, 23rd July, 1993",7:30pm (local time),6493,25,"15,753","North Sydney
+BEARS",7,15,5,"Eastern Suburbs
+ROOSTERS",0,10,5
+0,NSWRL 1993,Round 17,"Saturday, 24th July, 1993",3:05pm (local time),6494,7,"7,105","Balmain
+TIGERS",,16,6,"St George
+DRAGONS",,18,8
+0,NSWRL 1993,Round 17,"Sunday, 25th July, 1993",3:00pm (local time),6495,13,"54,751","Brisbane
+BRONCOS",,38,5,"Canterbury Bankstown
+BULLDOGS",,18,11
+0,NSWRL 1993,Round 17,"Sunday, 25th July, 1993",3:00pm (local time),6496,21,"8,926","Illawarra
+STEELERS",,26,8,"Gold Coast
+SEAGULLS",,0,6
+0,NSWRL 1993,Round 17,"Sunday, 25th July, 1993",3:00pm (local time),6500,8,"6,349","Parramatta
+EELS",,12,9,"Cronulla Sutherland
+SHARKS",,14,6
+0,NSWRL 1993,Round 17,"Sunday, 25th July, 1993",3:00pm (local time),6499,3,"8,725","Penrith
+PANTHERS",,10,5,"Canberra
+RAIDERS",,16,8
+0,NSWRL 1993,Round 17,"Sunday, 25th July, 1993",3:00pm (local time),6497,1,"8,059","South Sydney
+RABBITOHS",14,10,6,"Manly Warringah
+SEA EAGLES",0,38,4
+0,NSWRL 1993,Round 17,"Sunday, 25th July, 1993",3:00pm (local time),6498,19,"4,537","Western Suburbs
+MAGPIES",,11,10,"Newcastle
+KNIGHTS",,20,7
+0,NSWRL 1993,Round 18,"Friday, 30th July, 1993",,6501,8,"10,047","Parramatta
+EELS",,8,4,"Brisbane
+BRONCOS",,15,6
+0,NSWRL 1993,Round 18,"Saturday, 31st July, 1993",,6502,27,"7,647","Canterbury Bankstown
+BULLDOGS",,26,5,"Penrith
+PANTHERS",,14,8
+0,NSWRL 1993,Round 18,"Sunday, 1st August, 1993",,6507,4,"15,650","Canberra
+RAIDERS",,32,5,"Balmain
+TIGERS",,32,4
+0,NSWRL 1993,Round 18,"Sunday, 1st August, 1993",,6505,1,"6,959","Eastern Suburbs
+ROOSTERS",,40,4,"Western Suburbs
+MAGPIES",,24,9
+0,NSWRL 1993,Round 18,"Sunday, 1st August, 1993",,6503,34,"6,752","Gold Coast
+SEAGULLS",,16,8,"North Sydney
+BEARS",,46,5
+0,NSWRL 1993,Round 18,"Sunday, 1st August, 1993",,6506,5,"15,171","Manly Warringah
+SEA EAGLES",,18,7,"Illawarra
+STEELERS",,4,5
+0,NSWRL 1993,Round 18,"Sunday, 1st August, 1993",,6504,11,"15,919","Newcastle
+KNIGHTS",,26,6,"South Sydney
+RABBITOHS",,10,9
+0,NSWRL 1993,Round 18,"Sunday, 1st August, 1993",,6508,23,"12,388","St George
+DRAGONS",,6,11,"Cronulla Sutherland
+SHARKS",,18,5
+0,NSWRL 1993,Round 19,"Friday, 6th August, 1993",7:30pm (local time),6509,4,"24,801","Canberra
+RAIDERS",,20,7,"Brisbane
+BRONCOS",,4,3
+0,NSWRL 1993,Round 19,"Saturday, 7th August, 1993",3:05pm (local time),6511,1,"5,021","Eastern Suburbs
+ROOSTERS",,20,8,"Illawarra
+STEELERS",,12,9
+0,NSWRL 1993,Round 19,"Saturday, 7th August, 1993",7:30pm (local time),6510,27,"14,223","Canterbury Bankstown
+BULLDOGS",,12,7,"Cronulla Sutherland
+SHARKS",,0,10
+0,NSWRL 1993,Round 19,"Sunday, 8th August, 1993",3:00pm (local time),6513,7,"5,461","Balmain
+TIGERS",,28,6,"Penrith
+PANTHERS",,12,7
+0,NSWRL 1993,Round 19,"Sunday, 8th August, 1993",3:00pm (local time),6512,34,"5,000","Gold Coast
+SEAGULLS",1,13,9,"South Sydney
+RABBITOHS",8,16,8
+0,NSWRL 1993,Round 19,"Sunday, 8th August, 1993",3:00pm (local time),6514,11,"15,639","Newcastle
+KNIGHTS",,14,6,"Manly Warringah
+SEA EAGLES",,16,9
+0,NSWRL 1993,Round 19,"Sunday, 8th August, 1993",3:00pm (local time),6516,23,"10,024","St George
+DRAGONS",,36,7,"Parramatta
+EELS",,4,5
+0,NSWRL 1993,Round 19,"Sunday, 8th August, 1993",3:00pm (local time),6515,19,"4,606","Western Suburbs
+MAGPIES",,26,4,"North Sydney
+BEARS",,18,5
+0,NSWRL 1993,Round 20,"Friday, 13th August, 1993",,6517,13,"39,193","Brisbane
+BRONCOS",,50,6,"Balmain
+TIGERS",,0,7
+0,NSWRL 1993,Round 20,"Saturday, 14th August, 1993",,6518,9,"8,194","Cronulla Sutherland
+SHARKS",6,12,7,"Canberra
+RAIDERS",26,42,7
+0,NSWRL 1993,Round 20,"Saturday, 14th August, 1993",,6519,24,"9,817","South Sydney
+RABBITOHS",,38,7,"Eastern Suburbs
+ROOSTERS",,20,5
+0,NSWRL 1993,Round 20,"Sunday, 15th August, 1993",,6520,21,"8,037","Illawarra
+STEELERS",,36,5,"Western Suburbs
+MAGPIES",,12,10
+0,NSWRL 1993,Round 20,"Sunday, 15th August, 1993",,6522,5,"10,691","Manly Warringah
+SEA EAGLES",,46,8,"Gold Coast
+SEAGULLS",,0,5
+0,NSWRL 1993,Round 20,"Sunday, 15th August, 1993",,6523,25,"7,186","North Sydney
+BEARS",,34,7,"Newcastle
+KNIGHTS",,4,6
+0,NSWRL 1993,Round 20,"Sunday, 15th August, 1993",,6524,8,"11,003","Parramatta
+EELS",,12,6,"Canterbury Bankstown
+BULLDOGS",,19,9
+0,NSWRL 1993,Round 20,"Sunday, 15th August, 1993",,6521,3,"12,270","Penrith
+PANTHERS",,18,5,"St George
+DRAGONS",,14,5
+0,NSWRL 1993,Round 21,"Friday, 20th August, 1993",7:30pm (local time),6525,24,"35,641","St George
+DRAGONS",7,23,8,"Canterbury Bankstown
+BULLDOGS",4,8,9
+0,NSWRL 1993,Round 21,"Saturday, 21st August, 1993",3:05pm (local time),6526,25,"6,018","North Sydney
+BEARS",,8,9,"Illawarra
+STEELERS",,28,5
+0,NSWRL 1993,Round 21,"Saturday, 21st August, 1993",7:30pm (local time),6527,3,"16,810","Penrith
+PANTHERS",,14,7,"Brisbane
+BRONCOS",,34,6
+0,NSWRL 1993,Round 21,"Sunday, 22nd August, 1993",3:00pm (local time),6528,7,"5,193","Balmain
+TIGERS",,12,6,"Cronulla Sutherland
+SHARKS",,14,7
+0,NSWRL 1993,Round 21,"Sunday, 22nd August, 1993",3:00pm (local time),6529,4,"20,411","Canberra
+RAIDERS",,68,5,"Parramatta
+EELS",,0,6
+0,NSWRL 1993,Round 21,"Sunday, 22nd August, 1993",3:00pm (local time),6530,1,"12,629","Eastern Suburbs
+ROOSTERS",,14,3,"Manly Warringah
+SEA EAGLES",,22,2
+0,NSWRL 1993,Round 21,"Sunday, 22nd August, 1993",3:00pm (local time),6531,11,"13,886","Newcastle
+KNIGHTS",,50,4,"Gold Coast
+SEAGULLS",,6,9
+0,NSWRL 1993,Round 21,"Sunday, 22nd August, 1993",3:00pm (local time),6532,19,"6,444","Western Suburbs
+MAGPIES",,32,6,"South Sydney
+RABBITOHS",,10,5
+0,NSWRL 1993,Round 22,"Friday, 27th August, 1993",,6533,13,"58,593","Brisbane
+BRONCOS",,10,3,"St George
+DRAGONS",,16,9
+0,NSWRL 1993,Round 22,"Saturday, 28th August, 1993",,6535,27,"20,149","Canterbury Bankstown
+BULLDOGS",,32,7,"Canberra
+RAIDERS",,8,7
+0,NSWRL 1993,Round 22,"Saturday, 28th August, 1993",,6534,9,"5,456","Cronulla Sutherland
+SHARKS",,6,5,"Penrith
+PANTHERS",,10,11
+0,NSWRL 1993,Round 22,"Saturday, 28th August, 1993",,6536,34,"5,756","Gold Coast
+SEAGULLS",,10,5,"Eastern Suburbs
+ROOSTERS",,24,10
+0,NSWRL 1993,Round 22,"Sunday, 29th August, 1993",,6537,21,"8,186","Illawarra
+STEELERS",,10,6,"Newcastle
+KNIGHTS",,18,9
+0,NSWRL 1993,Round 22,"Sunday, 29th August, 1993",,6538,5,"15,122","Manly Warringah
+SEA EAGLES",,26,3,"Western Suburbs
+MAGPIES",,12,3
+0,NSWRL 1993,Round 22,"Sunday, 29th August, 1993",,6540,8,"15,283","Parramatta
+EELS",,22,6,"Balmain
+TIGERS",,16,10
+0,NSWRL 1993,Round 22,"Sunday, 29th August, 1993",,6539,1,"7,964","South Sydney
+RABBITOHS",,16,6,"North Sydney
+BEARS",,36,5
+0,NSWRL 1993,Major Prelim Semi,"Saturday, 4th September, 1993",,6541,1,"31,429","St George
+DRAGONS",,31,8,"Canberra
+RAIDERS",,10,3
+0,NSWRL 1993,Minor Prelim Semi,"Sunday, 5th September, 1993",,6542,1,"38,432","Brisbane
+BRONCOS",,36,6,"Manly Warringah
+SEA EAGLES",,10,7
+0,NSWRL 1993,Minor Semi,"Saturday, 11th September, 1993",,6543,1,"33,893","Brisbane
+BRONCOS",,30,3,"Canberra
+RAIDERS",,12,4
+0,NSWRL 1993,Major Semi,"Sunday, 12th September, 1993",,6544,1,"41,384","St George
+DRAGONS",10,27,5,"Canterbury Bankstown
+BULLDOGS",0,12,7
+0,NSWRL 1993,Prelim Final,"Sunday, 19th September, 1993",,6545,1,"34,821","Brisbane
+BRONCOS",10,23,8,"Canterbury Bankstown
+BULLDOGS",16,16,4
+0,NSWRL 1993,Grand Final,"Sunday, 26th September, 1993",,6546,1,"42,329","Brisbane
+BRONCOS",10,14,6,"St George
+DRAGONS",2,6,3

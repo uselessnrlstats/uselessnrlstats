@@ -1,0 +1,229 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1961,Round 1,"Saturday, 15th April, 1961",3:00pm (local time),11771,24,"12,513",CANTERBURY BANKSTOWN,,9,,"Manly Warringah
+SEA EAGLES",,15,
+0,NSWRFL 1961,Round 1,"Saturday, 15th April, 1961",3:00pm (local time),11770,76,"5,410",NEWTOWN,,15,,"Western Suburbs
+MAGPIES",,25,
+0,NSWRFL 1961,Round 1,"Saturday, 15th April, 1961",3:00pm (local time),11772,25,"6,777","North Sydney
+BEARS",,19,,"Balmain
+TIGERS",,21,
+0,NSWRFL 1961,Round 1,"Sunday, 16th April, 1961",3:00pm (local time),11773,23,"12,397","St George
+DRAGONS",13,18,,"Parramatta
+EELS",5,8,
+0,NSWRFL 1961,Round 1,"Sunday, 16th April, 1961",3:00pm (local time),11774,109,"17,485","South Sydney
+RABBITOHS",2,11,,EASTERN SUBURBS,10,25,
+0,NSWRFL 1961,Round 2,"Saturday, 22nd April, 1961",3:00pm (local time),11776,24,"21,146","Balmain
+TIGERS",7,12,,"St George
+DRAGONS",12,23,
+0,NSWRFL 1961,Round 2,"Saturday, 22nd April, 1961",3:00pm (local time),11775,5,"4,173","Manly Warringah
+SEA EAGLES",10,16,,"South Sydney
+RABBITOHS",12,19,
+0,NSWRFL 1961,Round 2,"Saturday, 22nd April, 1961",3:00pm (local time),11777,111,"5,810","Parramatta
+EELS",17,43,,NEWTOWN,0,10,
+0,NSWRFL 1961,Round 2,"Saturday, 22nd April, 1961",3:00pm (local time),11778,112,"6,764","Western Suburbs
+MAGPIES",4,36,,CANTERBURY BANKSTOWN,4,14,
+0,NSWRFL 1961,Round 2,"Sunday, 23rd April, 1961",3:00pm (local time),11779,109,"5,302",EASTERN SUBURBS,16,34,,"North Sydney
+BEARS",5,21,
+0,NSWRFL 1961,Round 3,"Tuesday, 25th April, 1961",3:00pm (local time),11781,7,"2,330","Balmain
+TIGERS",4,6,,"Parramatta
+EELS",2,9,
+0,NSWRFL 1961,Round 3,"Tuesday, 25th April, 1961",3:00pm (local time),11782,27,"7,087",CANTERBURY BANKSTOWN,,18,,NEWTOWN,,13,
+0,NSWRFL 1961,Round 3,"Tuesday, 25th April, 1961",3:00pm (local time),11783,25,"5,302","North Sydney
+BEARS",5,17,,"Manly Warringah
+SEA EAGLES",9,9,
+0,NSWRFL 1961,Round 3,"Tuesday, 25th April, 1961",3:00pm (local time),11784,24,"19,386","St George
+DRAGONS",5,13,,EASTERN SUBURBS,5,7,
+0,NSWRFL 1961,Round 3,"Tuesday, 25th April, 1961",3:00pm (local time),11780,44,"8,700","South Sydney
+RABBITOHS",2,9,,"Western Suburbs
+MAGPIES",3,17,
+0,NSWRFL 1961,Round 4,"Saturday, 29th April, 1961",3:00pm (local time),11785,5,"5,067","Manly Warringah
+SEA EAGLES",9,14,,"St George
+DRAGONS",4,11,
+0,NSWRFL 1961,Round 4,"Saturday, 29th April, 1961",3:00pm (local time),11788,111,"7,549","Parramatta
+EELS",4,11,,CANTERBURY BANKSTOWN,15,25,
+0,NSWRFL 1961,Round 4,"Saturday, 29th April, 1961",3:00pm (local time),11786,44,"7,543","South Sydney
+RABBITOHS",3,12,,NEWTOWN,8,13,
+0,NSWRFL 1961,Round 4,"Saturday, 29th April, 1961",3:00pm (local time),11787,24,"14,414","Western Suburbs
+MAGPIES",7,15,,"North Sydney
+BEARS",7,12,
+0,NSWRFL 1961,Round 4,"Sunday, 30th April, 1961",3:00pm (local time),11789,109,"19,039",EASTERN SUBURBS,13,36,,"Balmain
+TIGERS",2,12,
+0,NSWRFL 1961,Round 5,"Saturday, 6th May, 1961",3:00pm (local time),11790,76,"2,659",NEWTOWN,2,13,,"North Sydney
+BEARS",10,21,
+0,NSWRFL 1961,Round 5,"Saturday, 6th May, 1961",3:00pm (local time),11792,111,"6,009","Parramatta
+EELS",4,6,,EASTERN SUBURBS,4,14,
+0,NSWRFL 1961,Round 5,"Saturday, 6th May, 1961",3:00pm (local time),11791,24,"26,114","St George
+DRAGONS",9,12,,"Western Suburbs
+MAGPIES",7,9,
+0,NSWRFL 1961,Round 5,"Sunday, 7th May, 1961",3:00pm (local time),11793,7,"10,934","Balmain
+TIGERS",8,11,,"Manly Warringah
+SEA EAGLES",15,33,
+0,NSWRFL 1961,Round 5,"Sunday, 7th May, 1961",3:00pm (local time),11794,109,"10,113",CANTERBURY BANKSTOWN,3,10,,"South Sydney
+RABBITOHS",0,19,
+0,NSWRFL 1961,Round 6,"Saturday, 13th May, 1961",3:00pm (local time),11797,24,"20,985","Manly Warringah
+SEA EAGLES",8,15,,EASTERN SUBURBS,7,12,
+0,NSWRFL 1961,Round 6,"Saturday, 13th May, 1961",3:00pm (local time),11796,25,"5,632","North Sydney
+BEARS",8,26,,CANTERBURY BANKSTOWN,0,12,
+0,NSWRFL 1961,Round 6,"Saturday, 13th May, 1961",3:00pm (local time),11795,44,"7,243","South Sydney
+RABBITOHS",10,21,,"Parramatta
+EELS",7,10,
+0,NSWRFL 1961,Round 6,"Sunday, 14th May, 1961",3:00pm (local time),11798,76,"5,429",NEWTOWN,0,12,,"St George
+DRAGONS",10,24,
+0,NSWRFL 1961,Round 6,"Sunday, 14th May, 1961",3:00pm (local time),11799,109,"13,651","Western Suburbs
+MAGPIES",5,25,,"Balmain
+TIGERS",2,2,
+0,NSWRFL 1961,Round 7,"Saturday, 20th May, 1961",3:00pm (local time),11800,7,"3,408","Balmain
+TIGERS",,16,,NEWTOWN,,36,
+0,NSWRFL 1961,Round 7,"Saturday, 20th May, 1961",3:00pm (local time),11801,111,"6,201","Parramatta
+EELS",2,2,,"Manly Warringah
+SEA EAGLES",5,30,
+0,NSWRFL 1961,Round 7,"Saturday, 20th May, 1961",3:00pm (local time),11802,24,"24,601","Western Suburbs
+MAGPIES",5,19,,EASTERN SUBURBS,10,12,
+0,NSWRFL 1961,Round 7,"Sunday, 21st May, 1961",3:00pm (local time),11804,23,"9,527","St George
+DRAGONS",18,27,,CANTERBURY BANKSTOWN,8,8,
+0,NSWRFL 1961,Round 7,"Sunday, 21st May, 1961",3:00pm (local time),11803,109,"19,152","South Sydney
+RABBITOHS",7,14,17,"North Sydney
+BEARS",7,19,8
+0,NSWRFL 1961,Round 8,"Saturday, 27th May, 1961",3:00pm (local time),11807,27,"3,504",CANTERBURY BANKSTOWN,6,11,,"Balmain
+TIGERS",15,15,
+0,NSWRFL 1961,Round 8,"Saturday, 27th May, 1961",3:00pm (local time),11805,25,"5,594","North Sydney
+BEARS",18,23,,"Parramatta
+EELS",3,11,
+0,NSWRFL 1961,Round 8,"Saturday, 27th May, 1961",3:00pm (local time),11806,24,"27,783","Western Suburbs
+MAGPIES",5,26,,"Manly Warringah
+SEA EAGLES",4,4,
+0,NSWRFL 1961,Round 8,"Sunday, 28th May, 1961",3:00pm (local time),11809,76,"5,375",NEWTOWN,12,14,,EASTERN SUBURBS,7,16,
+0,NSWRFL 1961,Round 8,"Sunday, 28th May, 1961",3:00pm (local time),11808,109,"18,522","St George
+DRAGONS",7,14,,"South Sydney
+RABBITOHS",2,2,
+0,NSWRFL 1961,Round 9,"Saturday, 17th June, 1961",3:00pm (local time),11811,27,"3,228",CANTERBURY BANKSTOWN,2,12,,EASTERN SUBURBS,7,9,
+0,NSWRFL 1961,Round 9,"Saturday, 17th June, 1961",3:00pm (local time),11810,109,"12,862","North Sydney
+BEARS",5,7,,"St George
+DRAGONS",4,9,
+0,NSWRFL 1961,Round 9,"Saturday, 17th June, 1961",3:00pm (local time),11812,112,"5,847","Western Suburbs
+MAGPIES",5,34,,"Parramatta
+EELS",5,7,
+0,NSWRFL 1961,Round 9,"Sunday, 18th June, 1961",3:00pm (local time),11813,7,"8,881","Balmain
+TIGERS",18,35,,"South Sydney
+RABBITOHS",4,13,
+0,NSWRFL 1961,Round 9,"Sunday, 18th June, 1961",3:00pm (local time),11814,76,"5,107",NEWTOWN,2,5,,"Manly Warringah
+SEA EAGLES",0,2,
+0,NSWRFL 1961,Round 10,"Saturday, 24th June, 1961",3:00pm (local time),11817,5,"3,836","Manly Warringah
+SEA EAGLES",5,5,,CANTERBURY BANKSTOWN,5,16,
+0,NSWRFL 1961,Round 10,"Saturday, 24th June, 1961",3:00pm (local time),11815,111,"4,978","Parramatta
+EELS",7,12,,"St George
+DRAGONS",12,32,
+0,NSWRFL 1961,Round 10,"Saturday, 24th June, 1961",3:00pm (local time),11816,24,"14,737","Western Suburbs
+MAGPIES",13,39,,NEWTOWN,8,11,
+0,NSWRFL 1961,Round 10,"Sunday, 25th June, 1961",3:00pm (local time),11818,7,"10,313","Balmain
+TIGERS",8,19,,"North Sydney
+BEARS",5,5,
+0,NSWRFL 1961,Round 10,"Sunday, 25th June, 1961",3:00pm (local time),11819,109,"12,330",EASTERN SUBURBS,10,12,,"South Sydney
+RABBITOHS",5,7,
+0,NSWRFL 1961,Round 11,"Saturday, 1st July, 1961",3:00pm (local time),11820,76,"2,266",NEWTOWN,3,11,,"Parramatta
+EELS",2,10,
+0,NSWRFL 1961,Round 11,"Saturday, 1st July, 1961",3:00pm (local time),11823,25,"4,918","North Sydney
+BEARS",2,9,,EASTERN SUBURBS,7,30,
+0,NSWRFL 1961,Round 11,"Saturday, 1st July, 1961",3:00pm (local time),11822,24,"17,513","St George
+DRAGONS",8,16,,"Balmain
+TIGERS",0,10,
+0,NSWRFL 1961,Round 11,"Saturday, 1st July, 1961",3:00pm (local time),11821,44,"4,571","South Sydney
+RABBITOHS",2,16,,"Manly Warringah
+SEA EAGLES",14,14,
+0,NSWRFL 1961,Round 11,"Sunday, 2nd July, 1961",3:00pm (local time),11824,109,"10,329",CANTERBURY BANKSTOWN,5,7,,"Western Suburbs
+MAGPIES",10,25,
+0,NSWRFL 1961,Round 12,"Saturday, 8th July, 1961",3:00pm (local time),11826,24,"17,174",EASTERN SUBURBS,5,12,,"St George
+DRAGONS",2,5,
+0,NSWRFL 1961,Round 12,"Saturday, 8th July, 1961",3:00pm (local time),11825,5,"3,425","Manly Warringah
+SEA EAGLES",10,24,,"North Sydney
+BEARS",0,4,
+0,NSWRFL 1961,Round 12,"Saturday, 8th July, 1961",3:00pm (local time),11828,111,"4,507","Parramatta
+EELS",4,8,,"Balmain
+TIGERS",6,11,
+0,NSWRFL 1961,Round 12,"Saturday, 8th July, 1961",3:00pm (local time),11827,112,"6,578","Western Suburbs
+MAGPIES",11,26,,"South Sydney
+RABBITOHS",5,12,
+0,NSWRFL 1961,Round 12,"Sunday, 9th July, 1961",3:00pm (local time),11829,76,"5,027",NEWTOWN,5,23,,CANTERBURY BANKSTOWN,3,9,
+0,NSWRFL 1961,Round 13,"Saturday, 15th July, 1961",3:00pm (local time),11832,24,"16,497","Balmain
+TIGERS",4,14,,EASTERN SUBURBS,4,9,
+0,NSWRFL 1961,Round 13,"Saturday, 15th July, 1961",3:00pm (local time),11833,27,"3,388",CANTERBURY BANKSTOWN,5,11,,"Parramatta
+EELS",0,8,
+0,NSWRFL 1961,Round 13,"Saturday, 15th July, 1961",3:00pm (local time),11830,76,"3,540",NEWTOWN,6,16,,"South Sydney
+RABBITOHS",6,19,
+0,NSWRFL 1961,Round 13,"Saturday, 15th July, 1961",3:00pm (local time),11831,25,"6,858","North Sydney
+BEARS",2,13,,"Western Suburbs
+MAGPIES",5,10,
+0,NSWRFL 1961,Round 13,"Sunday, 16th July, 1961",3:00pm (local time),11834,109,"7,832","St George
+DRAGONS",5,9,,"Manly Warringah
+SEA EAGLES",0,0,
+0,NSWRFL 1961,Round 14,"Saturday, 22nd July, 1961",3:00pm (local time),11837,5,"4,235","Manly Warringah
+SEA EAGLES",7,15,,"Balmain
+TIGERS",0,6,
+0,NSWRFL 1961,Round 14,"Saturday, 22nd July, 1961",3:00pm (local time),11835,25,"5,137","North Sydney
+BEARS",10,24,,NEWTOWN,0,6,
+0,NSWRFL 1961,Round 14,"Saturday, 22nd July, 1961",3:00pm (local time),11836,24,"26,776","Western Suburbs
+MAGPIES",9,16,11,"St George
+DRAGONS",8,13,13
+0,NSWRFL 1961,Round 14,"Sunday, 23rd July, 1961",3:00pm (local time),11838,109,"3,511",EASTERN SUBURBS,9,9,16,"Parramatta
+EELS",8,13,13
+0,NSWRFL 1961,Round 14,"Sunday, 23rd July, 1961",3:00pm (local time),11839,44,"4,409","South Sydney
+RABBITOHS",12,15,,CANTERBURY BANKSTOWN,2,4,
+0,NSWRFL 1961,Round 15,"Saturday, 29th July, 1961",3:00pm (local time),11841,24,"18,047","Balmain
+TIGERS",10,13,,"Western Suburbs
+MAGPIES",2,11,
+0,NSWRFL 1961,Round 15,"Saturday, 29th July, 1961",3:00pm (local time),11842,27,"3,772",CANTERBURY BANKSTOWN,5,13,,"North Sydney
+BEARS",2,10,
+0,NSWRFL 1961,Round 15,"Saturday, 29th July, 1961",3:00pm (local time),11840,111,"6,243","Parramatta
+EELS",7,15,,"South Sydney
+RABBITOHS",12,22,
+0,NSWRFL 1961,Round 15,"Sunday, 30th July, 1961",3:00pm (local time),11843,109,"14,843",EASTERN SUBURBS,6,11,,"Manly Warringah
+SEA EAGLES",7,15,
+0,NSWRFL 1961,Round 15,"Sunday, 30th July, 1961",3:00pm (local time),11844,23,"7,800","St George
+DRAGONS",23,65,,NEWTOWN,2,9,
+0,NSWRFL 1961,Round 16,"Saturday, 5th August, 1961",3:00pm (local time),11847,27,"4,705",CANTERBURY BANKSTOWN,6,6,,"St George
+DRAGONS",5,12,
+0,NSWRFL 1961,Round 16,"Saturday, 5th August, 1961",3:00pm (local time),11845,5,"3,688","Manly Warringah
+SEA EAGLES",15,42,,"Parramatta
+EELS",2,7,
+0,NSWRFL 1961,Round 16,"Saturday, 5th August, 1961",3:00pm (local time),11848,76,"3,472",NEWTOWN,0,10,,"Balmain
+TIGERS",19,32,
+0,NSWRFL 1961,Round 16,"Saturday, 5th August, 1961",3:00pm (local time),11846,24,"17,413","North Sydney
+BEARS",5,12,16,"South Sydney
+RABBITOHS",8,10,12
+0,NSWRFL 1961,Round 16,"Sunday, 6th August, 1961",3:00pm (local time),11849,109,"18,262",EASTERN SUBURBS,7,7,,"Western Suburbs
+MAGPIES",8,8,
+0,NSWRFL 1961,Round 17,"Saturday, 12th August, 1961",3:00pm (local time),11850,24,"20,462","Manly Warringah
+SEA EAGLES",5,10,,"Western Suburbs
+MAGPIES",8,21,
+0,NSWRFL 1961,Round 17,"Saturday, 12th August, 1961",3:00pm (local time),11851,111,"4,850","Parramatta
+EELS",10,15,,"North Sydney
+BEARS",8,18,
+0,NSWRFL 1961,Round 17,"Sunday, 13th August, 1961",3:00pm (local time),11852,7,"6,779","Balmain
+TIGERS",8,10,,CANTERBURY BANKSTOWN,2,7,
+0,NSWRFL 1961,Round 17,"Sunday, 13th August, 1961",3:00pm (local time),11853,109,"5,395",EASTERN SUBURBS,14,30,,NEWTOWN,3,12,
+0,NSWRFL 1961,Round 17,"Sunday, 13th August, 1961",3:00pm (local time),11854,44,"13,560","South Sydney
+RABBITOHS",0,10,17,"St George
+DRAGONS",21,31,6
+0,NSWRFL 1961,Round 18,"Saturday, 19th August, 1961",3:00pm (local time),11855,5,"3,033","Manly Warringah
+SEA EAGLES",8,31,,NEWTOWN,2,7,
+0,NSWRFL 1961,Round 18,"Saturday, 19th August, 1961",3:00pm (local time),11856,111,"7,044","Parramatta
+EELS",8,8,,"Western Suburbs
+MAGPIES",5,28,
+0,NSWRFL 1961,Round 18,"Saturday, 19th August, 1961",3:00pm (local time),11857,24,"17,535","St George
+DRAGONS",17,33,,"North Sydney
+BEARS",9,13,
+0,NSWRFL 1961,Round 18,"Saturday, 19th August, 1961",3:00pm (local time),11858,44,"9,100","South Sydney
+RABBITOHS",6,6,,"Balmain
+TIGERS",14,36,
+0,NSWRFL 1961,Round 18,"Sunday, 20th August, 1961",3:00pm (local time),11859,109,"11,302",EASTERN SUBURBS,0,5,,CANTERBURY BANKSTOWN,0,5,
+0,NSWRFL 1961,Minor Semi,"Sunday, 27th August, 1961",3:00pm (local time),11860,109,"20,842","Balmain
+TIGERS",2,10,16,"Manly Warringah
+SEA EAGLES",5,5,8
+0,NSWRFL 1961,Major Semi,"Saturday, 2nd September, 1961",3:00pm (local time),11861,24,"47,964","St George
+DRAGONS",7,9,,"Western Suburbs
+MAGPIES",2,4,
+0,NSWRFL 1961,Prelim Final,"Saturday, 9th September, 1961",3:00pm (local time),11862,24,"40,726","Western Suburbs
+MAGPIES",5,7,,"Balmain
+TIGERS",3,5,
+0,NSWRFL 1961,Grand Final,"Saturday, 16th September, 1961",3:00pm (local time),11863,24,"61,196","St George
+DRAGONS",17,22,11,"Western Suburbs
+MAGPIES",0,0,14

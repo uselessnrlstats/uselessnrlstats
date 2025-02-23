@@ -1,0 +1,487 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1987,Round 1,"Friday, 27th February, 1987",8:00pm (local time),5472,44,"9,126","South Sydney
+RABBITOHS",0,2,12,"Illawarra
+STEELERS",9,25,12
+0,NSWRL 1987,Round 1,"Saturday, 28th February, 1987",3:00pm (local time),5474,27,"5,417","Canterbury Bankstown
+BULLDOGS",20,28,7,"North Sydney
+BEARS",0,8,8
+0,NSWRL 1987,Round 1,"Saturday, 28th February, 1987",7:30pm (local time),5473,48,"7,007","Canberra
+RAIDERS",,19,9,"Cronulla Sutherland
+SHARKS",,2,12
+0,NSWRL 1987,Round 1,"Sunday, 1st March, 1987",3:00pm (local time),5475,3,"5,135","Penrith
+PANTHERS",,18,11,"Western Suburbs
+MAGPIES",,8,13
+0,NSWRL 1987,Round 1,"Sunday, 1st March, 1987",3:00pm (local time),5477,27,"10,650","St George
+DRAGONS",0,4,13,"Manly Warringah
+SEA EAGLES",0,4,15
+0,NSWRL 1987,Round 1,"Sunday, 1st March, 1987",6:30pm (local time),5476,8,"10,394","Parramatta
+EELS",6,6,10,"Balmain
+TIGERS",12,30,7
+0,NSWRL 1987,Round 2,"Friday, 6th March, 1987",8:00pm (local time),5478,76,"7,000","Eastern Suburbs
+ROOSTERS",2,14,6,"Illawarra
+STEELERS",0,8,11
+0,NSWRL 1987,Round 2,"Saturday, 7th March, 1987",3:00pm (local time),5479,19,"10,057","Western Suburbs
+MAGPIES",12,32,5,"Parramatta
+EELS",4,16,11
+0,NSWRL 1987,Round 2,"Sunday, 8th March, 1987",3:00pm (local time),5483,27,"15,107","Canterbury Bankstown
+BULLDOGS",4,8,12,"Balmain
+TIGERS",5,11,13
+0,NSWRL 1987,Round 2,"Sunday, 8th March, 1987",3:00pm (local time),5481,9,"5,047","Cronulla Sutherland
+SHARKS",6,12,7,"North Sydney
+BEARS",4,6,12
+0,NSWRL 1987,Round 2,"Sunday, 8th March, 1987",3:00pm (local time),5480,5,"6,374","Manly Warringah
+SEA EAGLES",20,42,7,"Penrith
+PANTHERS",0,18,10
+0,NSWRL 1987,Round 2,"Sunday, 8th March, 1987",3:00pm (local time),5482,44,"11,195","South Sydney
+RABBITOHS",,12,8,"St George
+DRAGONS",,17,16
+0,NSWRL 1987,Round 3,"Saturday, 14th March, 1987",3:00pm (local time),5484,21,"5,340","Illawarra
+STEELERS",6,16,12,"Canberra
+RAIDERS",18,29,8
+0,NSWRL 1987,Round 3,"Sunday, 15th March, 1987",3:00pm (local time),5485,7,"12,198","Balmain
+TIGERS",10,42,17,"South Sydney
+RABBITOHS",8,10,9
+0,NSWRL 1987,Round 3,"Sunday, 15th March, 1987",3:00pm (local time),5489,25,"12,831","North Sydney
+BEARS",2,4,13,"Eastern Suburbs
+ROOSTERS",4,5,9
+0,NSWRL 1987,Round 3,"Sunday, 15th March, 1987",3:00pm (local time),5487,3,"10,659","Penrith
+PANTHERS",,10,9,"Canterbury Bankstown
+BULLDOGS",,16,11
+0,NSWRL 1987,Round 3,"Sunday, 15th March, 1987",3:00pm (local time),5488,24,"7,696","St George
+DRAGONS",12,14,6,"Cronulla Sutherland
+SHARKS",10,22,8
+0,NSWRL 1987,Round 3,"Sunday, 15th March, 1987",3:00pm (local time),5486,19,"8,822","Western Suburbs
+MAGPIES",8,11,11,"Manly Warringah
+SEA EAGLES",12,22,5
+0,NSWRL 1987,Round 4,"Friday, 20th March, 1987",7:30pm (local time),5490,24,"11,831","St George
+DRAGONS",2,2,10,"Eastern Suburbs
+ROOSTERS",26,44,15
+0,NSWRL 1987,Round 4,"Saturday, 21st March, 1987",3:00pm (local time),5493,9,"7,088","Cronulla Sutherland
+SHARKS",4,8,11,"Balmain
+TIGERS",2,15,8
+0,NSWRL 1987,Round 4,"Saturday, 21st March, 1987",7:00pm (local time),5491,48,"8,628","Canberra
+RAIDERS",2,8,8,"North Sydney
+BEARS",0,10,9
+0,NSWRL 1987,Round 4,"Saturday, 21st March, 1987",7:30pm (local time),5492,27,"11,880","Canterbury Bankstown
+BULLDOGS",18,26,11,"Western Suburbs
+MAGPIES",10,16,7
+0,NSWRL 1987,Round 4,"Sunday, 22nd March, 1987",3:00pm (local time),5494,5,"17,757","Manly Warringah
+SEA EAGLES",10,26,9,"Parramatta
+EELS",4,4,6
+0,NSWRL 1987,Round 4,"Sunday, 22nd March, 1987",3:00pm (local time),5495,44,"6,908","South Sydney
+RABBITOHS",,13,15,"Penrith
+PANTHERS",,6,12
+0,NSWRL 1987,Round 5,"Saturday, 28th March, 1987",3:00pm (local time),5496,7,"9,500","Balmain
+TIGERS",6,8,6,"Eastern Suburbs
+ROOSTERS",10,21,10
+0,NSWRL 1987,Round 5,"Sunday, 29th March, 1987",3:00pm (local time),5497,25,"7,362","North Sydney
+BEARS",10,28,8,"Illawarra
+STEELERS",8,14,5
+0,NSWRL 1987,Round 5,"Sunday, 29th March, 1987",3:00pm (local time),5500,8,"19,171","Parramatta
+EELS",8,20,11,"Canterbury Bankstown
+BULLDOGS",0,8,8
+0,NSWRL 1987,Round 5,"Sunday, 29th March, 1987",3:00pm (local time),5501,3,"5,216","Penrith
+PANTHERS",8,8,13,"Cronulla Sutherland
+SHARKS",6,10,6
+0,NSWRL 1987,Round 5,"Sunday, 29th March, 1987",3:00pm (local time),5499,24,"5,545","St George
+DRAGONS",,14,8,"Canberra
+RAIDERS",,22,5
+0,NSWRL 1987,Round 5,"Sunday, 29th March, 1987",3:00pm (local time),5498,19,"11,258","Western Suburbs
+MAGPIES",,11,8,"South Sydney
+RABBITOHS",,14,7
+0,NSWRL 1987,Round 6,"Saturday, 4th April, 1987",3:00pm (local time),5502,8,"5,870","Penrith
+PANTHERS",,23,7,"Eastern Suburbs
+ROOSTERS",,12,13
+0,NSWRL 1987,Round 6,"Sunday, 5th April, 1987",3:00pm (local time),5507,48,"12,961","Canberra
+RAIDERS",,18,13,"Balmain
+TIGERS",,26,6
+0,NSWRL 1987,Round 6,"Sunday, 5th April, 1987",3:00pm (local time),5504,27,"13,553","Canterbury Bankstown
+BULLDOGS",4,18,10,"Manly Warringah
+SEA EAGLES",0,6,10
+0,NSWRL 1987,Round 6,"Sunday, 5th April, 1987",3:00pm (local time),5505,9,"6,891","Cronulla Sutherland
+SHARKS",,34,7,"Western Suburbs
+MAGPIES",,22,7
+0,NSWRL 1987,Round 6,"Sunday, 5th April, 1987",3:00pm (local time),5503,21,"9,970","Illawarra
+STEELERS",,20,4,"St George
+DRAGONS",,16,10
+0,NSWRL 1987,Round 6,"Sunday, 5th April, 1987",3:00pm (local time),5506,44,"15,248","South Sydney
+RABBITOHS",,6,10,"Parramatta
+EELS",,19,8
+0,NSWRL 1987,Round 7,"Saturday, 11th April, 1987",3:00pm (local time),5508,103,"24,000","North Sydney
+BEARS",8,18,10,"St George
+DRAGONS",8,16,6
+0,NSWRL 1987,Round 7,"Sunday, 12th April, 1987",3:00pm (local time),5510,7,"7,109","Balmain
+TIGERS",,29,6,"Illawarra
+STEELERS",,8,9
+0,NSWRL 1987,Round 7,"Sunday, 12th April, 1987",3:00pm (local time),5509,5,"14,601","Manly Warringah
+SEA EAGLES",10,18,14,"South Sydney
+RABBITOHS",8,28,7
+0,NSWRL 1987,Round 7,"Sunday, 12th April, 1987",3:00pm (local time),5512,8,"14,755","Parramatta
+EELS",12,24,8,"Cronulla Sutherland
+SHARKS",24,26,7
+0,NSWRL 1987,Round 7,"Sunday, 12th April, 1987",3:00pm (local time),5511,3,"5,511","Penrith
+PANTHERS",2,4,10,"Canberra
+RAIDERS",4,11,10
+0,NSWRL 1987,Round 7,"Sunday, 12th April, 1987",3:00pm (local time),5513,19,"6,349","Western Suburbs
+MAGPIES",12,17,12,"Eastern Suburbs
+ROOSTERS",4,4,6
+0,NSWRL 1987,Round 8,"Saturday, 18th April, 1987",3:00pm (local time),5514,44,"4,769","South Sydney
+RABBITOHS",6,10,6,"Canterbury Bankstown
+BULLDOGS",2,6,7
+0,NSWRL 1987,Round 8,"Sunday, 19th April, 1987",3:00pm (local time),5516,48,"6,140","Canberra
+RAIDERS",24,46,9,"Western Suburbs
+MAGPIES",5,11,4
+0,NSWRL 1987,Round 8,"Sunday, 19th April, 1987",3:00pm (local time),5515,21,"6,913","Illawarra
+STEELERS",4,8,9,"Penrith
+PANTHERS",8,18,11
+0,NSWRL 1987,Round 8,"Sunday, 19th April, 1987",3:00pm (local time),5517,25,"14,517","North Sydney
+BEARS",,6,8,"Balmain
+TIGERS",,26,10
+0,NSWRL 1987,Round 8,"Sunday, 19th April, 1987",3:00pm (local time),5518,8,"16,334","Parramatta
+EELS",12,16,14,"Eastern Suburbs
+ROOSTERS",14,28,4
+0,NSWRL 1987,Round 8,"Monday, 20th April, 1987",3:00pm (local time),5519,9,"13,897","Cronulla Sutherland
+SHARKS",4,18,4,"Manly Warringah
+SEA EAGLES",12,13,13
+0,NSWRL 1987,Round 9,"Saturday, 25th April, 1987",3:00pm (local time),5520,5,"10,247","Manly Warringah
+SEA EAGLES",,18,15,"Eastern Suburbs
+ROOSTERS",,10,7
+0,NSWRL 1987,Round 9,"Sunday, 26th April, 1987",3:00pm (local time),5521,7,"13,359","Balmain
+TIGERS",14,32,12,"St George
+DRAGONS",16,18,15
+0,NSWRL 1987,Round 9,"Sunday, 26th April, 1987",3:00pm (local time),5522,27,"12,884","Canterbury Bankstown
+BULLDOGS",14,26,9,"Cronulla Sutherland
+SHARKS",6,10,4
+0,NSWRL 1987,Round 9,"Sunday, 26th April, 1987",3:00pm (local time),5525,8,"14,020","Parramatta
+EELS",0,30,6,"Canberra
+RAIDERS",22,22,4
+0,NSWRL 1987,Round 9,"Sunday, 26th April, 1987",3:00pm (local time),5524,3,"5,144","Penrith
+PANTHERS",13,19,10,"North Sydney
+BEARS",6,10,7
+0,NSWRL 1987,Round 9,"Sunday, 26th April, 1987",3:00pm (local time),5523,19,"5,011","Western Suburbs
+MAGPIES",12,12,13,"Illawarra
+STEELERS",2,32,8
+0,NSWRL 1987,Round 10,"Saturday, 2nd May, 1987",3:00pm (local time),5526,48,"4,885","Canberra
+RAIDERS",,10,5,"Manly Warringah
+SEA EAGLES",,18,5
+0,NSWRL 1987,Round 10,"Sunday, 3rd May, 1987",3:00pm (local time),5529,9,"12,463","Cronulla Sutherland
+SHARKS",16,28,8,"South Sydney
+RABBITOHS",2,18,5
+0,NSWRL 1987,Round 10,"Sunday, 3rd May, 1987",3:00pm (local time),5531,76,"9,992","Eastern Suburbs
+ROOSTERS",6,16,7,"Canterbury Bankstown
+BULLDOGS",4,14,8
+0,NSWRL 1987,Round 10,"Sunday, 3rd May, 1987",3:00pm (local time),5527,21,"12,926","Illawarra
+STEELERS",,16,6,"Parramatta
+EELS",,8,7
+0,NSWRL 1987,Round 10,"Sunday, 3rd May, 1987",3:00pm (local time),5528,25,"8,283","North Sydney
+BEARS",,20,2,"Western Suburbs
+MAGPIES",,24,9
+0,NSWRL 1987,Round 10,"Sunday, 3rd May, 1987",3:00pm (local time),5530,24,"6,128","St George
+DRAGONS",16,20,5,"Penrith
+PANTHERS",8,12,8
+0,NSWRL 1987,Round 11,"Saturday, 9th May, 1987",3:00pm (local time),5532,8,"9,162","Parramatta
+EELS",2,12,9,"North Sydney
+BEARS",5,5,7
+0,NSWRL 1987,Round 11,"Sunday, 10th May, 1987",3:00pm (local time),5536,27,"6,895","Canterbury Bankstown
+BULLDOGS",10,23,11,"Canberra
+RAIDERS",2,4,4
+0,NSWRL 1987,Round 11,"Sunday, 10th May, 1987",3:00pm (local time),5533,5,"7,053","Manly Warringah
+SEA EAGLES",10,22,12,"Illawarra
+STEELERS",10,12,5
+0,NSWRL 1987,Round 11,"Sunday, 10th May, 1987",3:00pm (local time),5535,3,"8,458","Penrith
+PANTHERS",16,16,9,"Balmain
+TIGERS",6,10,10
+0,NSWRL 1987,Round 11,"Sunday, 10th May, 1987",3:00pm (local time),5537,44,"8,615","South Sydney
+RABBITOHS",7,14,6,"Eastern Suburbs
+ROOSTERS",2,4,12
+0,NSWRL 1987,Round 11,"Sunday, 10th May, 1987",3:00pm (local time),5534,19,"6,490","Western Suburbs
+MAGPIES",0,0,13,"St George
+DRAGONS",14,34,5
+0,NSWRL 1987,Round 12,"Sunday, 17th May, 1987",3:00pm (local time),5538,7,"6,726","Balmain
+TIGERS",2,16,7,"Western Suburbs
+MAGPIES",12,12,8
+0,NSWRL 1987,Round 12,"Sunday, 17th May, 1987",3:00pm (local time),5539,48,"4,751","Canberra
+RAIDERS",,6,13,"South Sydney
+RABBITOHS",,2,8
+0,NSWRL 1987,Round 12,"Sunday, 17th May, 1987",3:00pm (local time),5543,76,"7,000","Eastern Suburbs
+ROOSTERS",14,24,7,"Cronulla Sutherland
+SHARKS",10,22,5
+0,NSWRL 1987,Round 12,"Sunday, 17th May, 1987",3:00pm (local time),5542,21,"7,470","Illawarra
+STEELERS",2,13,11,"Canterbury Bankstown
+BULLDOGS",0,0,11
+0,NSWRL 1987,Round 12,"Sunday, 17th May, 1987",3:00pm (local time),5540,25,"11,391","North Sydney
+BEARS",,22,7,"Manly Warringah
+SEA EAGLES",,30,11
+0,NSWRL 1987,Round 12,"Sunday, 17th May, 1987",3:00pm (local time),5541,24,"14,168","St George
+DRAGONS",,20,9,"Parramatta
+EELS",,21,7
+0,NSWRL 1987,Round 13,"Saturday, 23rd May, 1987",3:00pm (local time),5544,27,"8,309","Canterbury Bankstown
+BULLDOGS",4,4,9,"St George
+DRAGONS",10,29,10
+0,NSWRL 1987,Round 13,"Sunday, 24th May, 1987",3:00pm (local time),5546,48,"7,292","Canberra
+RAIDERS",6,6,4,"Eastern Suburbs
+ROOSTERS",12,21,8
+0,NSWRL 1987,Round 13,"Sunday, 24th May, 1987",3:00pm (local time),5547,9,"9,769","Cronulla Sutherland
+SHARKS",16,32,5,"Illawarra
+STEELERS",6,12,8
+0,NSWRL 1987,Round 13,"Sunday, 24th May, 1987",3:00pm (local time),5549,5,"25,448","Manly Warringah
+SEA EAGLES",20,48,6,"Balmain
+TIGERS",8,14,3
+0,NSWRL 1987,Round 13,"Sunday, 24th May, 1987",3:00pm (local time),5545,8,"20,002","Parramatta
+EELS",12,23,5,"Penrith
+PANTHERS",10,10,6
+0,NSWRL 1987,Round 13,"Sunday, 24th May, 1987",3:00pm (local time),5548,44,"7,568","South Sydney
+RABBITOHS",,22,9,"North Sydney
+BEARS",,18,12
+0,NSWRL 1987,Round 14,"Saturday, 30th May, 1987",3:00pm (local time),5550,21,"6,876","Illawarra
+STEELERS",6,6,12,"South Sydney
+RABBITOHS",15,21,7
+0,NSWRL 1987,Round 14,"Sunday, 31st May, 1987",3:00pm (local time),5552,9,"7,687","Cronulla Sutherland
+SHARKS",,6,12,"Canberra
+RAIDERS",,32,1
+0,NSWRL 1987,Round 14,"Sunday, 31st May, 1987",3:00pm (local time),5551,19,"5,020","Western Suburbs
+MAGPIES",6,16,5,"Penrith
+PANTHERS",2,8,9
+0,NSWRL 1987,Round 14,"Saturday, 6th June, 1987",3:00pm (local time),5553,25,"5,012","North Sydney
+BEARS",,8,9,"Canterbury Bankstown
+BULLDOGS",,2,7
+0,NSWRL 1987,Round 14,"Sunday, 7th June, 1987",3:00pm (local time),5555,7,"11,532","Balmain
+TIGERS",,19,8,"Parramatta
+EELS",,0,7
+0,NSWRL 1987,Round 14,"Sunday, 7th June, 1987",3:00pm (local time),5554,5,"12,041","Manly Warringah
+SEA EAGLES",14,20,7,"St George
+DRAGONS",6,6,11
+0,NSWRL 1987,Round 15,"Saturday, 13th June, 1987",3:00pm (local time),5556,24,"7,377","St George
+DRAGONS",0,12,9,"South Sydney
+RABBITOHS",12,21,5
+0,NSWRL 1987,Round 15,"Sunday, 14th June, 1987",3:00pm (local time),5558,7,"10,101","Balmain
+TIGERS",9,15,7,"Canterbury Bankstown
+BULLDOGS",14,18,6
+0,NSWRL 1987,Round 15,"Sunday, 14th June, 1987",3:00pm (local time),5561,21,"7,425","Illawarra
+STEELERS",6,6,8,"Eastern Suburbs
+ROOSTERS",4,20,1
+0,NSWRL 1987,Round 15,"Sunday, 14th June, 1987",3:00pm (local time),5560,25,"7,662","North Sydney
+BEARS",16,16,5,"Cronulla Sutherland
+SHARKS",6,6,8
+0,NSWRL 1987,Round 15,"Sunday, 14th June, 1987",3:00pm (local time),5557,8,"15,031","Parramatta
+EELS",22,35,12,"Western Suburbs
+MAGPIES",10,16,12
+0,NSWRL 1987,Round 15,"Sunday, 14th June, 1987",3:00pm (local time),5559,3,"8,287","Penrith
+PANTHERS",2,10,9,"Manly Warringah
+SEA EAGLES",10,12,9
+0,NSWRL 1987,Round 16,"Saturday, 20th June, 1987",3:00pm (local time),5562,27,"5,720","Canterbury Bankstown
+BULLDOGS",,20,9,"Penrith
+PANTHERS",,10,9
+0,NSWRL 1987,Round 16,"Sunday, 21st June, 1987",3:00pm (local time),5564,48,"3,197","Canberra
+RAIDERS",,22,5,"Illawarra
+STEELERS",,15,8
+0,NSWRL 1987,Round 16,"Sunday, 21st June, 1987",3:00pm (local time),5565,9,"12,151","Cronulla Sutherland
+SHARKS",8,8,6,"St George
+DRAGONS",4,12,10
+0,NSWRL 1987,Round 16,"Sunday, 21st June, 1987",3:00pm (local time),5566,76,"5,350","Eastern Suburbs
+ROOSTERS",8,14,11,"North Sydney
+BEARS",10,13,6
+0,NSWRL 1987,Round 16,"Sunday, 21st June, 1987",3:00pm (local time),5563,5,"10,732","Manly Warringah
+SEA EAGLES",10,26,6,"Western Suburbs
+MAGPIES",17,25,11
+0,NSWRL 1987,Round 16,"Monday, 22nd June, 1987",7:37pm (local time),5567,24,"14,663","South Sydney
+RABBITOHS",8,16,8,"Balmain
+TIGERS",12,12,8
+0,NSWRL 1987,Round 17,"Saturday, 27th June, 1987",3:00pm (local time),5568,7,"4,720","Balmain
+TIGERS",2,26,6,"Cronulla Sutherland
+SHARKS",26,32,10
+0,NSWRL 1987,Round 17,"Sunday, 28th June, 1987",3:00pm (local time),5571,25,"5,886","North Sydney
+BEARS",8,12,12,"Canberra
+RAIDERS",12,18,9
+0,NSWRL 1987,Round 17,"Sunday, 28th June, 1987",3:00pm (local time),5570,8,"25,139","Parramatta
+EELS",14,22,4,"Manly Warringah
+SEA EAGLES",24,30,4
+0,NSWRL 1987,Round 17,"Sunday, 28th June, 1987",3:00pm (local time),5569,3,"11,608","Penrith
+PANTHERS",4,2,10,"South Sydney
+RABBITOHS",0,4,9
+0,NSWRL 1987,Round 17,"Sunday, 28th June, 1987",3:00pm (local time),5572,19,"11,033","Western Suburbs
+MAGPIES",,8,6,"Canterbury Bankstown
+BULLDOGS",,24,9
+0,NSWRL 1987,Round 17,"Monday, 29th June, 1987",7:37pm (local time),5573,24,"13,085","St George
+DRAGONS",7,14,6,"Eastern Suburbs
+ROOSTERS",6,7,13
+0,NSWRL 1987,Round 18,"Saturday, 4th July, 1987",3:00pm (local time),5574,9,"5,167","Cronulla Sutherland
+SHARKS",12,30,3,"Penrith
+PANTHERS",6,10,5
+0,NSWRL 1987,Round 18,"Sunday, 5th July, 1987",3:00pm (local time),5576,48,"9,332","Canberra
+RAIDERS",4,22,10,"St George
+DRAGONS",5,5,9
+0,NSWRL 1987,Round 18,"Sunday, 5th July, 1987",3:00pm (local time),5577,27,"18,532","Canterbury Bankstown
+BULLDOGS",10,22,9,"Parramatta
+EELS",2,6,8
+0,NSWRL 1987,Round 18,"Sunday, 5th July, 1987",3:00pm (local time),5578,24,"11,852","Eastern Suburbs
+ROOSTERS",10,12,10,"Balmain
+TIGERS",0,12,9
+0,NSWRL 1987,Round 18,"Sunday, 5th July, 1987",3:00pm (local time),5575,21,"5,248","Illawarra
+STEELERS",,12,12,"North Sydney
+BEARS",,10,10
+0,NSWRL 1987,Round 18,"Monday, 6th July, 1987",7:37pm (local time),5579,24,"8,234","Western Suburbs
+MAGPIES",0,4,10,"South Sydney
+RABBITOHS",4,4,8
+0,NSWRL 1987,Round 19,"Saturday, 11th July, 1987",3:00pm (local time),5580,7,"3,814","Balmain
+TIGERS",8,28,9,"Canberra
+RAIDERS",0,0,7
+0,NSWRL 1987,Round 19,"Sunday, 12th July, 1987",3:00pm (local time),5582,5,"16,252","Manly Warringah
+SEA EAGLES",16,32,9,"Canterbury Bankstown
+BULLDOGS",2,2,4
+0,NSWRL 1987,Round 19,"Sunday, 12th July, 1987",3:00pm (local time),5584,3,"6,126","Penrith
+PANTHERS",8,14,5,"Eastern Suburbs
+ROOSTERS",0,15,6
+0,NSWRL 1987,Round 19,"Sunday, 12th July, 1987",3:00pm (local time),5581,24,"5,339","St George
+DRAGONS",,37,9,"Illawarra
+STEELERS",,20,7
+0,NSWRL 1987,Round 19,"Sunday, 12th July, 1987",3:00pm (local time),5583,19,"4,583","Western Suburbs
+MAGPIES",,28,7,"Cronulla Sutherland
+SHARKS",,28,10
+0,NSWRL 1987,Round 19,"Monday, 13th July, 1987",7:30pm (local time),5585,8,"18,263","Parramatta
+EELS",2,8,10,"South Sydney
+RABBITOHS",4,12,8
+0,NSWRL 1987,Round 20,"Saturday, 18th July, 1987",3:00pm (local time),5586,9,"7,170","Cronulla Sutherland
+SHARKS",4,16,6,"Parramatta
+EELS",0,4,8
+0,NSWRL 1987,Round 20,"Sunday, 19th July, 1987",3:00pm (local time),5588,48,"4,704","Canberra
+RAIDERS",8,24,9,"Penrith
+PANTHERS",0,6,8
+0,NSWRL 1987,Round 20,"Sunday, 19th July, 1987",3:00pm (local time),5589,76,"5,300","Eastern Suburbs
+ROOSTERS",4,15,12,"Western Suburbs
+MAGPIES",0,6,11
+0,NSWRL 1987,Round 20,"Sunday, 19th July, 1987",3:00pm (local time),5587,25,"7,046","North Sydney
+BEARS",8,26,6,"St George
+DRAGONS",23,23,9
+0,NSWRL 1987,Round 20,"Sunday, 19th July, 1987",3:00pm (local time),5590,44,"23,257","South Sydney
+RABBITOHS",13,13,9,"Manly Warringah
+SEA EAGLES",8,16,12
+0,NSWRL 1987,Round 20,"Monday, 20th July, 1987",7:30pm (local time),5591,27,"3,993","Balmain
+TIGERS",8,16,8,"Illawarra
+STEELERS",4,14,12
+0,NSWRL 1987,Round 21,"Saturday, 25th July, 1987",3:00pm (local time),5592,8,"9,233","Parramatta
+EELS",16,32,7,"Eastern Suburbs
+ROOSTERS",2,2,10
+0,NSWRL 1987,Round 21,"Sunday, 26th July, 1987",3:00pm (local time),5593,7,"8,736","Balmain
+TIGERS",8,28,9,"North Sydney
+BEARS",0,14,8
+0,NSWRL 1987,Round 21,"Sunday, 26th July, 1987",3:00pm (local time),5596,5,"14,323","Manly Warringah
+SEA EAGLES",4,30,8,"Cronulla Sutherland
+SHARKS",6,8,5
+0,NSWRL 1987,Round 21,"Sunday, 26th July, 1987",3:00pm (local time),5594,3,"3,887","Penrith
+PANTHERS",10,22,9,"Illawarra
+STEELERS",14,20,6
+0,NSWRL 1987,Round 21,"Sunday, 26th July, 1987",3:00pm (local time),5595,19,"3,047","Western Suburbs
+MAGPIES",,12,8,"Canberra
+RAIDERS",,30,6
+0,NSWRL 1987,Round 21,"Monday, 27th July, 1987",7:35pm (local time),5597,27,"15,490","Canterbury Bankstown
+BULLDOGS",6,6,7,"South Sydney
+RABBITOHS",2,4,10
+0,NSWRL 1987,Round 22,"Saturday, 1st August, 1987",3:05pm (local time),5598,9,"8,219","Cronulla Sutherland
+SHARKS",2,4,7,"Canterbury Bankstown
+BULLDOGS",8,16,12
+0,NSWRL 1987,Round 22,"Sunday, 2nd August, 1987",3:00pm (local time),5601,48,"7,240","Canberra
+RAIDERS",4,4,4,"Parramatta
+EELS",8,20,10
+0,NSWRL 1987,Round 22,"Sunday, 2nd August, 1987",3:00pm (local time),5602,76,"6,573","Eastern Suburbs
+ROOSTERS",20,26,5,"Manly Warringah
+SEA EAGLES",0,16,5
+0,NSWRL 1987,Round 22,"Sunday, 2nd August, 1987",3:00pm (local time),5599,21,"3,841","Illawarra
+STEELERS",12,24,9,"Western Suburbs
+MAGPIES",14,14,6
+0,NSWRL 1987,Round 22,"Sunday, 2nd August, 1987",3:00pm (local time),5600,25,"3,000","North Sydney
+BEARS",6,13,8,"Penrith
+PANTHERS",10,10,4
+0,NSWRL 1987,Round 22,"Monday, 3rd August, 1987",7:30pm (local time),5603,24,"8,260","St George
+DRAGONS",10,18,10,"Balmain
+TIGERS",8,14,12
+0,NSWRL 1987,Round 23,"Saturday, 8th August, 1987",3:00pm (local time),5604,3,"4,881","Penrith
+PANTHERS",8,10,9,"St George
+DRAGONS",0,10,10
+0,NSWRL 1987,Round 23,"Sunday, 9th August, 1987",3:00pm (local time),5607,5,"9,114","Manly Warringah
+SEA EAGLES",,20,6,"Canberra
+RAIDERS",,18,7
+0,NSWRL 1987,Round 23,"Sunday, 9th August, 1987",3:00pm (local time),5605,8,"10,088","Parramatta
+EELS",10,17,8,"Illawarra
+STEELERS",4,14,8
+0,NSWRL 1987,Round 23,"Sunday, 9th August, 1987",3:00pm (local time),5608,44,"7,334","South Sydney
+RABBITOHS",10,16,10,"Cronulla Sutherland
+SHARKS",0,10,10
+0,NSWRL 1987,Round 23,"Sunday, 9th August, 1987",3:00pm (local time),5606,19,"3,007","Western Suburbs
+MAGPIES",6,18,7,"North Sydney
+BEARS",10,20,5
+0,NSWRL 1987,Round 23,"Monday, 10th August, 1987",7:30pm (local time),5609,27,"8,184","Canterbury Bankstown
+BULLDOGS",6,20,8,"Eastern Suburbs
+ROOSTERS",14,22,12
+0,NSWRL 1987,Round 24,"Saturday, 15th August, 1987",3:00pm (local time),5610,48,"6,881","Canberra
+RAIDERS",14,22,9,"Canterbury Bankstown
+BULLDOGS",4,4,6
+0,NSWRL 1987,Round 24,"Sunday, 16th August, 1987",3:00pm (local time),5614,76,"17,562","Eastern Suburbs
+ROOSTERS",16,18,8,"South Sydney
+RABBITOHS",12,32,9
+0,NSWRL 1987,Round 24,"Sunday, 16th August, 1987",3:00pm (local time),5611,21,"10,740","Illawarra
+STEELERS",12,17,10,"Manly Warringah
+SEA EAGLES",4,28,5
+0,NSWRL 1987,Round 24,"Sunday, 16th August, 1987",3:00pm (local time),5612,25,"11,314","North Sydney
+BEARS",,27,8,"Parramatta
+EELS",,10,4
+0,NSWRL 1987,Round 24,"Sunday, 16th August, 1987",3:00pm (local time),5613,24,"4,980","St George
+DRAGONS",8,21,10,"Western Suburbs
+MAGPIES",0,2,8
+0,NSWRL 1987,Round 24,"Monday, 17th August, 1987",7:30pm (local time),5615,7,"4,247","Balmain
+TIGERS",6,22,11,"Penrith
+PANTHERS",0,6,10
+0,NSWRL 1987,Round 25,"Saturday, 22nd August, 1987",3:00pm (local time),5616,9,"7,047","Cronulla Sutherland
+SHARKS",6,14,5,"Eastern Suburbs
+ROOSTERS",4,18,8
+0,NSWRL 1987,Round 25,"Sunday, 23rd August, 1987",3:00pm (local time),5617,5,"13,913","Manly Warringah
+SEA EAGLES",20,30,6,"North Sydney
+BEARS",12,32,10
+0,NSWRL 1987,Round 25,"Sunday, 23rd August, 1987",3:00pm (local time),5618,8,"15,210","Parramatta
+EELS",14,34,3,"St George
+DRAGONS",10,16,12
+0,NSWRL 1987,Round 25,"Sunday, 23rd August, 1987",3:00pm (local time),5620,44,"18,572","South Sydney
+RABBITOHS",2,2,6,"Canberra
+RAIDERS",10,26,8
+0,NSWRL 1987,Round 25,"Sunday, 23rd August, 1987",3:00pm (local time),5619,19,"9,134","Western Suburbs
+MAGPIES",6,14,11,"Balmain
+TIGERS",8,10,12
+0,NSWRL 1987,Round 25,"Monday, 24th August, 1987",7:30pm (local time),5621,27,"6,293","Canterbury Bankstown
+BULLDOGS",22,28,11,"Illawarra
+STEELERS",6,16,10
+0,NSWRL 1987,Round 26,"Saturday, 29th August, 1987",3:05pm (local time),5622,76,"5,000","Eastern Suburbs
+ROOSTERS",12,18,10,"Canberra
+RAIDERS",8,22,7
+0,NSWRL 1987,Round 26,"Sunday, 30th August, 1987",3:00pm (local time),5624,7,"13,557","Balmain
+TIGERS",4,8,10,"Manly Warringah
+SEA EAGLES",8,26,9
+0,NSWRL 1987,Round 26,"Sunday, 30th August, 1987",3:00pm (local time),5626,21,"5,726","Illawarra
+STEELERS",6,24,8,"Cronulla Sutherland
+SHARKS",4,4,5
+0,NSWRL 1987,Round 26,"Sunday, 30th August, 1987",3:00pm (local time),5623,25,"14,341","North Sydney
+BEARS",,22,7,"South Sydney
+RABBITOHS",,14,9
+0,NSWRL 1987,Round 26,"Sunday, 30th August, 1987",3:00pm (local time),5625,24,"10,062","St George
+DRAGONS",,16,11,"Canterbury Bankstown
+BULLDOGS",,14,13
+0,NSWRL 1987,Round 26,"Monday, 31st August, 1987",7:30pm (local time),5627,3,"8,155","Penrith
+PANTHERS",0,4,4,"Parramatta
+EELS",4,30,7
+0,NSWRL 1987,Minor Prelim Semi,"Saturday, 5th September, 1987",3:00pm (local time),5628,24,"22,134","South Sydney
+RABBITOHS",8,15,9,"Balmain
+TIGERS",10,12,11
+0,NSWRL 1987,Major Prelim Semi,"Sunday, 6th September, 1987",3:00pm (local time),5629,24,"15,852","Eastern Suburbs
+ROOSTERS",12,25,7,"Canberra
+RAIDERS",12,16,6
+0,NSWRL 1987,Minor Semi,"Saturday, 12th September, 1987",3:00pm (local time),5630,24,"24,744","Canberra
+RAIDERS",28,46,7,"South Sydney
+RABBITOHS",6,12,7
+0,NSWRL 1987,Major Semi,"Sunday, 13th September, 1987",3:00pm (local time),5631,24,"36,399","Manly Warringah
+SEA EAGLES",8,10,10,"Eastern Suburbs
+ROOSTERS",0,6,8
+0,NSWRL 1987,Prelim Final,"Sunday, 20th September, 1987",3:00pm (local time),5632,24,"26,790","Canberra
+RAIDERS",14,32,5,"Eastern Suburbs
+ROOSTERS",14,24,5
+0,NSWRL 1987,Grand Final,"Sunday, 27th September, 1987",3:00pm (local time),5633,24,"50,201","Manly Warringah
+SEA EAGLES",6,18,6,"Canberra
+RAIDERS",0,8,9

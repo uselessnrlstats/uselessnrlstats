@@ -1,0 +1,390 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1976,Round 1,"Saturday, 20th March, 1976",3:00pm (local time),13568,44,"12,017","South Sydney
+RABBITOHS",0,10,7,"St George
+DRAGONS",14,31,15
+0,NSWRFL 1976,Round 1,"Sunday, 21st March, 1976",3:00pm (local time),13569,7,"12,700","Balmain
+TIGERS",10,24,11,CANTERBURY BANKSTOWN,2,25,18
+0,NSWRFL 1976,Round 1,"Sunday, 21st March, 1976",3:00pm (local time),13570,9,"7,629","Cronulla Sutherland
+SHARKS",12,15,12,"Manly Warringah
+SEA EAGLES",9,27,8
+0,NSWRFL 1976,Round 1,"Sunday, 21st March, 1976",3:00pm (local time),13571,111,"7,159","Parramatta
+EELS",15,25,7,"Newtown
+JETS",18,28,8
+0,NSWRFL 1976,Round 1,"Sunday, 21st March, 1976",3:00pm (local time),13572,3,"6,414","Penrith
+PANTHERS",20,43,8,"North Sydney
+BEARS",0,9,8
+0,NSWRFL 1976,Round 1,"Sunday, 21st March, 1976",3:00pm (local time),13573,110,"8,538","Western Suburbs
+MAGPIES",0,8,9,"Eastern Suburbs
+ROOSTERS",0,5,10
+0,NSWRFL 1976,Round 2,"Saturday, 27th March, 1976",3:00pm (local time),13574,76,"2,777","Newtown
+JETS",5,10,8,"North Sydney
+BEARS",11,19,8
+0,NSWRFL 1976,Round 2,"Sunday, 28th March, 1976",3:00pm (local time),13577,27,"11,024",CANTERBURY BANKSTOWN,17,20,13,"Cronulla Sutherland
+SHARKS",5,20,5
+0,NSWRFL 1976,Round 2,"Sunday, 28th March, 1976",3:00pm (local time),13578,109,"10,220","Eastern Suburbs
+ROOSTERS",2,16,6,"Penrith
+PANTHERS",10,12,6
+0,NSWRFL 1976,Round 2,"Sunday, 28th March, 1976",3:00pm (local time),13575,5,"12,059","Manly Warringah
+SEA EAGLES",5,17,10,"Western Suburbs
+MAGPIES",8,13,14
+0,NSWRFL 1976,Round 2,"Sunday, 28th March, 1976",3:00pm (local time),13576,111,"9,019","Parramatta
+EELS",7,21,12,"South Sydney
+RABBITOHS",2,4,6
+0,NSWRFL 1976,Round 2,"Sunday, 28th March, 1976",3:00pm (local time),13579,23,"12,270","St George
+DRAGONS",9,9,11,"Balmain
+TIGERS",12,22,9
+0,NSWRFL 1976,Round 3,"Saturday, 3rd April, 1976",3:00pm (local time),13580,7,"10,029","Balmain
+TIGERS",12,28,10,"Parramatta
+EELS",4,12,9
+0,NSWRFL 1976,Round 3,"Sunday, 4th April, 1976",3:00pm (local time),13583,27,"16,046",CANTERBURY BANKSTOWN,3,21,10,"Manly Warringah
+SEA EAGLES",18,31,8
+0,NSWRFL 1976,Round 3,"Sunday, 4th April, 1976",3:00pm (local time),13585,76,"5,379","Newtown
+JETS",8,13,3,"Eastern Suburbs
+ROOSTERS",8,17,4
+0,NSWRFL 1976,Round 3,"Sunday, 4th April, 1976",3:00pm (local time),13581,25,"5,941","North Sydney
+BEARS",7,14,14,"South Sydney
+RABBITOHS",12,19,9
+0,NSWRFL 1976,Round 3,"Sunday, 4th April, 1976",3:00pm (local time),13582,3,"11,744","Penrith
+PANTHERS",12,18,7,"Western Suburbs
+MAGPIES",8,18,12
+0,NSWRFL 1976,Round 3,"Sunday, 4th April, 1976",3:00pm (local time),13584,23,"10,083","St George
+DRAGONS",3,15,13,"Cronulla Sutherland
+SHARKS",7,12,10
+0,NSWRFL 1976,Round 4,"Saturday, 10th April, 1976",3:00pm (local time),13586,110,"9,075","Western Suburbs
+MAGPIES",7,19,11,CANTERBURY BANKSTOWN,7,12,9
+0,NSWRFL 1976,Round 4,"Sunday, 11th April, 1976",3:00pm (local time),13588,7,"9,152","Balmain
+TIGERS",8,18,8,"North Sydney
+BEARS",7,10,14
+0,NSWRFL 1976,Round 4,"Sunday, 11th April, 1976",3:00pm (local time),13589,9,"7,609","Cronulla Sutherland
+SHARKS",6,9,11,"Parramatta
+EELS",18,28,10
+0,NSWRFL 1976,Round 4,"Sunday, 11th April, 1976",3:00pm (local time),13587,5,"18,077","Manly Warringah
+SEA EAGLES",5,30,7,"St George
+DRAGONS",4,4,13
+0,NSWRFL 1976,Round 4,"Sunday, 11th April, 1976",3:00pm (local time),13590,3,"8,747","Penrith
+PANTHERS",11,22,8,"Newtown
+JETS",7,17,11
+0,NSWRFL 1976,Round 4,"Sunday, 11th April, 1976",3:00pm (local time),13591,44,"13,617","South Sydney
+RABBITOHS",5,16,12,"Eastern Suburbs
+ROOSTERS",6,15,11
+0,NSWRFL 1976,Round 5,"Saturday, 17th April, 1976",3:00pm (local time),13592,25,"4,293","North Sydney
+BEARS",6,18,11,"Cronulla Sutherland
+SHARKS",19,32,9
+0,NSWRFL 1976,Round 5,"Sunday, 18th April, 1976",3:00pm (local time),13596,24,"26,385","Eastern Suburbs
+ROOSTERS",0,8,11,"Balmain
+TIGERS",6,13,8
+0,NSWRFL 1976,Round 5,"Sunday, 18th April, 1976",3:00pm (local time),13593,76,"5,773","Newtown
+JETS",4,4,8,"Western Suburbs
+MAGPIES",12,28,8
+0,NSWRFL 1976,Round 5,"Sunday, 18th April, 1976",3:00pm (local time),13594,111,"14,543","Parramatta
+EELS",0,8,11,"Manly Warringah
+SEA EAGLES",0,5,8
+0,NSWRFL 1976,Round 5,"Sunday, 18th April, 1976",3:00pm (local time),13595,44,"10,610","South Sydney
+RABBITOHS",4,26,10,"Penrith
+PANTHERS",5,15,4
+0,NSWRFL 1976,Round 5,"Monday, 19th April, 1976",3:00pm (local time),13597,23,"13,700","St George
+DRAGONS",6,8,10,CANTERBURY BANKSTOWN,3,10,6
+0,NSWRFL 1976,Round 6,"Saturday, 24th April, 1976",3:00pm (local time),13598,27,"13,057",CANTERBURY BANKSTOWN,20,20,9,"Parramatta
+EELS",3,13,10
+0,NSWRFL 1976,Round 6,"Sunday, 25th April, 1976",3:00pm (local time),13600,7,"13,208","Balmain
+TIGERS",6,18,14,"Penrith
+PANTHERS",4,4,9
+0,NSWRFL 1976,Round 6,"Sunday, 25th April, 1976",3:00pm (local time),13601,9,"15,380","Cronulla Sutherland
+SHARKS",5,11,12,"Eastern Suburbs
+ROOSTERS",20,22,11
+0,NSWRFL 1976,Round 6,"Sunday, 25th April, 1976",3:00pm (local time),13599,5,"13,057","Manly Warringah
+SEA EAGLES",12,38,9,"North Sydney
+BEARS",10,13,6
+0,NSWRFL 1976,Round 6,"Sunday, 25th April, 1976",3:00pm (local time),13602,110,"14,536","Western Suburbs
+MAGPIES",15,23,7,"St George
+DRAGONS",5,13,7
+0,NSWRFL 1976,Round 6,"Monday, 26th April, 1976",3:00pm (local time),13603,44,"13,803","South Sydney
+RABBITOHS",17,28,9,"Newtown
+JETS",2,10,9
+0,NSWRFL 1976,Round 7,"Saturday, 1st May, 1976",3:00pm (local time),13604,24,"22,861","Eastern Suburbs
+ROOSTERS",17,19,10,"Manly Warringah
+SEA EAGLES",3,18,6
+0,NSWRFL 1976,Round 7,"Sunday, 2nd May, 1976",3:00pm (local time),13607,76,"5,188","Newtown
+JETS",0,13,10,"Balmain
+TIGERS",23,26,7
+0,NSWRFL 1976,Round 7,"Sunday, 2nd May, 1976",3:00pm (local time),13608,25,"5,188","North Sydney
+BEARS",0,13,12,CANTERBURY BANKSTOWN,18,30,8
+0,NSWRFL 1976,Round 7,"Sunday, 2nd May, 1976",3:00pm (local time),13609,3,"9,053","Penrith
+PANTHERS",7,20,6,"Cronulla Sutherland
+SHARKS",12,28,10
+0,NSWRFL 1976,Round 7,"Sunday, 2nd May, 1976",3:00pm (local time),13605,23,"7,689","St George
+DRAGONS",17,24,10,"Parramatta
+EELS",3,8,12
+0,NSWRFL 1976,Round 7,"Sunday, 2nd May, 1976",3:00pm (local time),13606,110,"17,425","Western Suburbs
+MAGPIES",2,17,9,"South Sydney
+RABBITOHS",3,13,6
+0,NSWRFL 1976,Round 8,"Saturday, 8th May, 1976",3:00pm (local time),13610,5,"9,314","Manly Warringah
+SEA EAGLES",10,27,4,"Penrith
+PANTHERS",9,14,14
+0,NSWRFL 1976,Round 8,"Sunday, 9th May, 1976",3:00pm (local time),13612,7,"17,306","Balmain
+TIGERS",6,22,11,"South Sydney
+RABBITOHS",5,5,10
+0,NSWRFL 1976,Round 8,"Sunday, 9th May, 1976",3:00pm (local time),13613,27,"18,129",CANTERBURY BANKSTOWN,10,10,8,"Eastern Suburbs
+ROOSTERS",5,11,15
+0,NSWRFL 1976,Round 8,"Sunday, 9th May, 1976",3:00pm (local time),13615,76,"2,497","Newtown
+JETS",7,22,8,"Cronulla Sutherland
+SHARKS",13,18,4
+0,NSWRFL 1976,Round 8,"Sunday, 9th May, 1976",3:00pm (local time),13611,111,"12,966","Parramatta
+EELS",4,8,14,"Western Suburbs
+MAGPIES",0,4,10
+0,NSWRFL 1976,Round 8,"Sunday, 9th May, 1976",3:00pm (local time),13614,23,"5,619","St George
+DRAGONS",9,16,9,"North Sydney
+BEARS",8,13,6
+0,NSWRFL 1976,Round 9,"Sunday, 16th May, 1976",3:00pm (local time),13617,9,"8,253","Cronulla Sutherland
+SHARKS",18,39,7,"South Sydney
+RABBITOHS",0,5,9
+0,NSWRFL 1976,Round 9,"Sunday, 16th May, 1976",3:00pm (local time),13618,76,"2,825","Newtown
+JETS",6,6,10,"Manly Warringah
+SEA EAGLES",23,57,5
+0,NSWRFL 1976,Round 9,"Sunday, 16th May, 1976",3:00pm (local time),13616,25,"4,009","North Sydney
+BEARS",2,5,12,"Parramatta
+EELS",23,41,3
+0,NSWRFL 1976,Round 9,"Sunday, 16th May, 1976",3:00pm (local time),13620,3,"8,556","Penrith
+PANTHERS",5,17,12,CANTERBURY BANKSTOWN,0,0,9
+0,NSWRFL 1976,Round 9,"Sunday, 16th May, 1976",3:00pm (local time),13621,23,"13,034","St George
+DRAGONS",10,15,8,"Eastern Suburbs
+ROOSTERS",10,12,8
+0,NSWRFL 1976,Round 9,"Sunday, 16th May, 1976",3:00pm (local time),13619,24,"21,151","Western Suburbs
+MAGPIES",9,13,8,"Balmain
+TIGERS",0,13,10
+0,NSWRFL 1976,Round 10,"Sunday, 23rd May, 1976",3:00pm (local time),13624,27,"9,161",CANTERBURY BANKSTOWN,14,23,9,"Newtown
+JETS",12,20,6
+0,NSWRFL 1976,Round 10,"Sunday, 23rd May, 1976",3:00pm (local time),13627,9,"11,410","Cronulla Sutherland
+SHARKS",6,17,8,"Balmain
+TIGERS",7,14,7
+0,NSWRFL 1976,Round 10,"Sunday, 23rd May, 1976",3:00pm (local time),13625,109,"13,698","Eastern Suburbs
+ROOSTERS",5,12,3,"Parramatta
+EELS",8,12,18
+0,NSWRFL 1976,Round 10,"Sunday, 23rd May, 1976",3:00pm (local time),13622,25,"3,907","North Sydney
+BEARS",12,12,11,"Western Suburbs
+MAGPIES",22,41,8
+0,NSWRFL 1976,Round 10,"Sunday, 23rd May, 1976",3:00pm (local time),13623,3,"12,542","Penrith
+PANTHERS",5,23,10,"St George
+DRAGONS",9,12,9
+0,NSWRFL 1976,Round 10,"Sunday, 23rd May, 1976",3:00pm (local time),13626,44,"11,198","South Sydney
+RABBITOHS",6,16,11,"Manly Warringah
+SEA EAGLES",6,18,13
+0,NSWRFL 1976,Round 11,"Saturday, 29th May, 1976",3:00pm (local time),13628,23,"4,430","St George
+DRAGONS",3,16,13,"Newtown
+JETS",5,8,9
+0,NSWRFL 1976,Round 11,"Sunday, 30th May, 1976",3:00pm (local time),13630,27,"16,100",CANTERBURY BANKSTOWN,4,20,11,"South Sydney
+RABBITOHS",2,7,11
+0,NSWRFL 1976,Round 11,"Sunday, 30th May, 1976",3:00pm (local time),13631,109,"7,280","Eastern Suburbs
+ROOSTERS",15,39,10,"North Sydney
+BEARS",3,8,8
+0,NSWRFL 1976,Round 11,"Sunday, 30th May, 1976",3:00pm (local time),13632,5,"25,876","Manly Warringah
+SEA EAGLES",5,14,8,"Balmain
+TIGERS",0,0,10
+0,NSWRFL 1976,Round 11,"Sunday, 30th May, 1976",3:00pm (local time),13629,111,"13,570","Parramatta
+EELS",4,12,8,"Penrith
+PANTHERS",3,10,7
+0,NSWRFL 1976,Round 11,"Sunday, 30th May, 1976",3:00pm (local time),13633,110,"10,550","Western Suburbs
+MAGPIES",13,23,10,"Cronulla Sutherland
+SHARKS",5,10,5
+0,NSWRFL 1976,Round 12,"Saturday, 5th June, 1976",3:00pm (local time),13634,7,"6,248","Balmain
+TIGERS",5,10,7,"Newtown
+JETS",9,12,11
+0,NSWRFL 1976,Round 12,"Sunday, 6th June, 1976",3:00pm (local time),13637,27,"8,845",CANTERBURY BANKSTOWN,0,10,12,"North Sydney
+BEARS",0,10,7
+0,NSWRFL 1976,Round 12,"Sunday, 6th June, 1976",3:00pm (local time),13638,9,"6,121","Cronulla Sutherland
+SHARKS",9,16,13,"Penrith
+PANTHERS",2,15,7
+0,NSWRFL 1976,Round 12,"Sunday, 6th June, 1976",3:00pm (local time),13639,5,"23,005","Manly Warringah
+SEA EAGLES",17,17,9,"Eastern Suburbs
+ROOSTERS",7,12,10
+0,NSWRFL 1976,Round 12,"Sunday, 6th June, 1976",3:00pm (local time),13635,111,"15,815","Parramatta
+EELS",2,19,10,"St George
+DRAGONS",3,8,9
+0,NSWRFL 1976,Round 12,"Sunday, 6th June, 1976",3:00pm (local time),13636,44,"12,390","South Sydney
+RABBITOHS",0,6,11,"Western Suburbs
+MAGPIES",17,27,14
+0,NSWRFL 1976,Round 13,"Saturday, 12th June, 1976",3:00pm (local time),13640,25,"2,608","North Sydney
+BEARS",12,19,8,"Penrith
+PANTHERS",3,13,10
+0,NSWRFL 1976,Round 13,"Sunday, 13th June, 1976",3:00pm (local time),13643,27,"19,033",CANTERBURY BANKSTOWN,12,26,12,"Balmain
+TIGERS",9,9,12
+0,NSWRFL 1976,Round 13,"Sunday, 13th June, 1976",3:00pm (local time),13644,5,"16,026","Manly Warringah
+SEA EAGLES",13,20,10,"Cronulla Sutherland
+SHARKS",0,9,11
+0,NSWRFL 1976,Round 13,"Sunday, 13th June, 1976",3:00pm (local time),13641,76,"4,527","Newtown
+JETS",15,5,7,"Parramatta
+EELS",5,29,9
+0,NSWRFL 1976,Round 13,"Monday, 14th June, 1976",3:00pm (local time),13642,109,"25,630","Eastern Suburbs
+ROOSTERS",5,19,12,"Western Suburbs
+MAGPIES",6,16,10
+0,NSWRFL 1976,Round 13,"Monday, 14th June, 1976",3:00pm (local time),13645,23,"11,984","St George
+DRAGONS",18,24,13,"South Sydney
+RABBITOHS",5,18,10
+0,NSWRFL 1976,Round 14,"Saturday, 19th June, 1976",3:00pm (local time),13646,9,"7,688","Cronulla Sutherland
+SHARKS",8,24,10,CANTERBURY BANKSTOWN,6,8,8
+0,NSWRFL 1976,Round 14,"Sunday, 20th June, 1976",3:00pm (local time),13648,25,"2,577","North Sydney
+BEARS",12,27,12,"Newtown
+JETS",12,22,9
+0,NSWRFL 1976,Round 14,"Sunday, 20th June, 1976",3:00pm (local time),13650,3,"7,434","Penrith
+PANTHERS",5,5,10,"Eastern Suburbs
+ROOSTERS",9,12,9
+0,NSWRFL 1976,Round 14,"Sunday, 20th June, 1976",3:00pm (local time),13649,44,"6,912","South Sydney
+RABBITOHS",2,4,8,"Parramatta
+EELS",2,18,15
+0,NSWRFL 1976,Round 14,"Sunday, 20th June, 1976",3:00pm (local time),13647,110,"12,713","Western Suburbs
+MAGPIES",10,15,12,"Manly Warringah
+SEA EAGLES",15,37,7
+0,NSWRFL 1976,Round 15,"Saturday, 26th June, 1976",3:00pm (local time),13652,9,"10,415","Cronulla Sutherland
+SHARKS",8,13,11,"St George
+DRAGONS",3,14,12
+0,NSWRFL 1976,Round 15,"Saturday, 26th June, 1976",3:00pm (local time),13653,109,"6,912","Eastern Suburbs
+ROOSTERS",17,40,6,"Newtown
+JETS",4,4,7
+0,NSWRFL 1976,Round 15,"Sunday, 27th June, 1976",3:00pm (local time),13657,5,"15,446","Manly Warringah
+SEA EAGLES",9,9,11,CANTERBURY BANKSTOWN,6,13,15
+0,NSWRFL 1976,Round 15,"Sunday, 27th June, 1976",3:00pm (local time),13656,111,"18,544","Parramatta
+EELS",7,14,11,"Balmain
+TIGERS",10,10,9
+0,NSWRFL 1976,Round 15,"Sunday, 27th June, 1976",3:00pm (local time),13654,44,"6,092","South Sydney
+RABBITOHS",14,24,12,"North Sydney
+BEARS",0,3,15
+0,NSWRFL 1976,Round 15,"Sunday, 27th June, 1976",3:00pm (local time),13655,110,"7,158","Western Suburbs
+MAGPIES",2,2,10,"Penrith
+PANTHERS",10,25,6
+0,NSWRFL 1976,Round 16,"Saturday, 3rd July, 1976",3:00pm (local time),13658,23,"10,388","St George
+DRAGONS",4,13,15,"Manly Warringah
+SEA EAGLES",3,5,9
+0,NSWRFL 1976,Round 16,"Sunday, 4th July, 1976",3:00pm (local time),13660,27,"18,177",CANTERBURY BANKSTOWN,6,18,7,"Western Suburbs
+MAGPIES",7,9,12
+0,NSWRFL 1976,Round 16,"Sunday, 4th July, 1976",3:00pm (local time),13661,109,"14,583","Eastern Suburbs
+ROOSTERS",10,22,15,"South Sydney
+RABBITOHS",2,12,16
+0,NSWRFL 1976,Round 16,"Sunday, 4th July, 1976",3:00pm (local time),13659,76,"1,860","Newtown
+JETS",4,9,10,"Penrith
+PANTHERS",4,16,9
+0,NSWRFL 1976,Round 16,"Sunday, 4th July, 1976",3:00pm (local time),13662,25,"5,457","North Sydney
+BEARS",5,15,10,"Balmain
+TIGERS",0,5,11
+0,NSWRFL 1976,Round 16,"Sunday, 4th July, 1976",3:00pm (local time),13663,111,"13,393","Parramatta
+EELS",5,23,12,"Cronulla Sutherland
+SHARKS",0,0,8
+0,NSWRFL 1976,Round 17,"Saturday, 10th July, 1976",3:00pm (local time),13664,7,"11,395","Balmain
+TIGERS",5,13,10,"Eastern Suburbs
+ROOSTERS",5,7,8
+0,NSWRFL 1976,Round 17,"Sunday, 11th July, 1976",3:00pm (local time),13667,27,"22,113",CANTERBURY BANKSTOWN,7,11,10,"St George
+DRAGONS",5,10,13
+0,NSWRFL 1976,Round 17,"Sunday, 11th July, 1976",3:00pm (local time),13668,9,"4,325","Cronulla Sutherland
+SHARKS",11,19,8,"North Sydney
+BEARS",3,8,8
+0,NSWRFL 1976,Round 17,"Sunday, 11th July, 1976",3:00pm (local time),13665,5,"23,211","Manly Warringah
+SEA EAGLES",5,10,8,"Parramatta
+EELS",5,14,14
+0,NSWRFL 1976,Round 17,"Sunday, 11th July, 1976",3:00pm (local time),13666,3,"8,834","Penrith
+PANTHERS",14,17,10,"South Sydney
+RABBITOHS",9,23,10
+0,NSWRFL 1976,Round 17,"Sunday, 11th July, 1976",3:00pm (local time),13669,110,"5,020","Western Suburbs
+MAGPIES",6,18,13,"Newtown
+JETS",2,7,12
+0,NSWRFL 1976,Round 18,"Saturday, 17th July, 1976",3:00pm (local time),13670,25,"6,475","North Sydney
+BEARS",2,5,14,"Manly Warringah
+SEA EAGLES",10,28,4
+0,NSWRFL 1976,Round 18,"Saturday, 17th July, 1976",3:00pm (local time),13671,111,"15,642","Parramatta
+EELS",5,7,9,CANTERBURY BANKSTOWN,2,7,11
+0,NSWRFL 1976,Round 18,"Sunday, 18th July, 1976",3:00pm (local time),13675,109,"10,054","Eastern Suburbs
+ROOSTERS",19,33,10,"Cronulla Sutherland
+SHARKS",3,13,8
+0,NSWRFL 1976,Round 18,"Sunday, 18th July, 1976",3:00pm (local time),13672,76,"3,500","Newtown
+JETS",2,5,13,"South Sydney
+RABBITOHS",10,20,9
+0,NSWRFL 1976,Round 18,"Sunday, 18th July, 1976",3:00pm (local time),13674,3,"8,789","Penrith
+PANTHERS",3,5,12,"Balmain
+TIGERS",7,12,9
+0,NSWRFL 1976,Round 18,"Sunday, 18th July, 1976",3:00pm (local time),13673,23,"11,963","St George
+DRAGONS",12,23,14,"Western Suburbs
+MAGPIES",8,15,14
+0,NSWRFL 1976,Round 14,"Saturday, 24th July, 1976",3:00pm (local time),13651,7,"12,703","Balmain
+TIGERS",4,6,12,"St George
+DRAGONS",8,17,10
+0,NSWRFL 1976,Round 19,"Sunday, 25th July, 1976",3:00pm (local time),13676,9,"4,184","Cronulla Sutherland
+SHARKS",10,28,10,"Newtown
+JETS",5,11,9
+0,NSWRFL 1976,Round 19,"Sunday, 25th July, 1976",3:00pm (local time),13677,109,"18,055","Eastern Suburbs
+ROOSTERS",10,30,6,CANTERBURY BANKSTOWN,2,7,5
+0,NSWRFL 1976,Round 19,"Saturday, 31st July, 1976",3:00pm (local time),13678,3,"6,260","Penrith
+PANTHERS",5,16,9,"Manly Warringah
+SEA EAGLES",7,15,10
+0,NSWRFL 1976,Round 19,"Sunday, 1st August, 1976",3:00pm (local time),13679,25,"5,295","North Sydney
+BEARS",7,17,9,"St George
+DRAGONS",7,10,3
+0,NSWRFL 1976,Round 19,"Sunday, 1st August, 1976",3:00pm (local time),13681,44,"9,758","South Sydney
+RABBITOHS",8,10,11,"Balmain
+TIGERS",8,20,12
+0,NSWRFL 1976,Round 19,"Sunday, 1st August, 1976",3:00pm (local time),13680,110,"13,311","Western Suburbs
+MAGPIES",6,17,10,"Parramatta
+EELS",5,5,9
+0,NSWRFL 1976,Round 20,"Saturday, 7th August, 1976",3:00pm (local time),13682,109,"15,417","Eastern Suburbs
+ROOSTERS",0,2,11,"St George
+DRAGONS",5,5,8
+0,NSWRFL 1976,Round 20,"Saturday, 7th August, 1976",3:00pm (local time),13683,44,"4,282","South Sydney
+RABBITOHS",12,19,8,"Cronulla Sutherland
+SHARKS",5,16,9
+0,NSWRFL 1976,Round 20,"Sunday, 8th August, 1976",3:00pm (local time),13685,7,"12,560","Balmain
+TIGERS",6,13,8,"Western Suburbs
+MAGPIES",6,12,10
+0,NSWRFL 1976,Round 20,"Sunday, 8th August, 1976",3:00pm (local time),13686,27,"10,866",CANTERBURY BANKSTOWN,10,18,12,"Penrith
+PANTHERS",10,22,6
+0,NSWRFL 1976,Round 20,"Sunday, 8th August, 1976",3:00pm (local time),13684,5,"8,643","Manly Warringah
+SEA EAGLES",12,20,7,"Newtown
+JETS",2,12,8
+0,NSWRFL 1976,Round 20,"Sunday, 8th August, 1976",3:00pm (local time),13687,111,"8,490","Parramatta
+EELS",2,5,8,"North Sydney
+BEARS",2,11,9
+0,NSWRFL 1976,Round 21,"Saturday, 14th August, 1976",3:00pm (local time),13688,23,"5,022","St George
+DRAGONS",6,13,14,"Penrith
+PANTHERS",5,10,5
+0,NSWRFL 1976,Round 21,"Sunday, 15th August, 1976",3:00pm (local time),13690,7,"7,973","Balmain
+TIGERS",7,11,18,"Cronulla Sutherland
+SHARKS",6,9,7
+0,NSWRFL 1976,Round 21,"Sunday, 15th August, 1976",3:00pm (local time),13689,5,"10,532","Manly Warringah
+SEA EAGLES",7,26,15,"South Sydney
+RABBITOHS",3,3,5
+0,NSWRFL 1976,Round 21,"Sunday, 15th August, 1976",3:00pm (local time),13692,76,"3,197","Newtown
+JETS",4,15,14,CANTERBURY BANKSTOWN,7,31,12
+0,NSWRFL 1976,Round 21,"Sunday, 15th August, 1976",3:00pm (local time),13693,111,"15,982","Parramatta
+EELS",9,14,7,"Eastern Suburbs
+ROOSTERS",7,7,7
+0,NSWRFL 1976,Round 21,"Sunday, 15th August, 1976",3:00pm (local time),13691,110,"4,307","Western Suburbs
+MAGPIES",9,24,8,"North Sydney
+BEARS",2,15,6
+0,NSWRFL 1976,Round 22,"Saturday, 21st August, 1976",3:00pm (local time),13694,44,"8,770","South Sydney
+RABBITOHS",9,9,16,CANTERBURY BANKSTOWN,9,21,17
+0,NSWRFL 1976,Round 22,"Sunday, 22nd August, 1976",3:00pm (local time),13696,7,"17,360","Balmain
+TIGERS",7,11,11,"Manly Warringah
+SEA EAGLES",13,30,5
+0,NSWRFL 1976,Round 22,"Sunday, 22nd August, 1976",3:00pm (local time),13697,9,"6,265","Cronulla Sutherland
+SHARKS",18,20,5,"Western Suburbs
+MAGPIES",0,17,10
+0,NSWRFL 1976,Round 22,"Sunday, 22nd August, 1976",3:00pm (local time),13695,76,"4,840","Newtown
+JETS",3,11,6,"St George
+DRAGONS",12,28,12
+0,NSWRFL 1976,Round 22,"Sunday, 22nd August, 1976",3:00pm (local time),13699,25,"7,461","North Sydney
+BEARS",5,8,6,"Eastern Suburbs
+ROOSTERS",22,39,7
+0,NSWRFL 1976,Round 22,"Sunday, 22nd August, 1976",3:00pm (local time),13698,3,"15,342","Penrith
+PANTHERS",10,10,9,"Parramatta
+EELS",4,11,15
+0,NSWRFL 1976,Major Prelim Semi,"Saturday, 28th August, 1976",3:00pm (local time),13700,24,"28,264","Parramatta
+EELS",26,31,12,"St George
+DRAGONS",0,6,8
+0,NSWRFL 1976,Minor Prelim Semi,"Sunday, 29th August, 1976",3:00pm (local time),13701,24,"27,203",CANTERBURY BANKSTOWN,9,22,5,"Eastern Suburbs
+ROOSTERS",4,13,14
+0,NSWRFL 1976,Major Semi,"Saturday, 4th September, 1976",3:00pm (local time),13702,24,"30,999","Parramatta
+EELS",10,23,12,"Manly Warringah
+SEA EAGLES",8,17,7
+0,NSWRFL 1976,Minor Semi,"Sunday, 5th September, 1976",3:00pm (local time),13703,24,"27,261",CANTERBURY BANKSTOWN,10,25,11,"St George
+DRAGONS",4,9,12
+0,NSWRFL 1976,Prelim Final,"Saturday, 11th September, 1976",3:00pm (local time),13704,24,"31,381","Manly Warringah
+SEA EAGLES",10,15,8,CANTERBURY BANKSTOWN,2,12,6
+0,NSWRFL 1976,Grand Final,"Saturday, 18th September, 1976",3:00pm (local time),13705,24,"57,343","Manly Warringah
+SEA EAGLES",7,13,10,"Parramatta
+EELS",7,10,11

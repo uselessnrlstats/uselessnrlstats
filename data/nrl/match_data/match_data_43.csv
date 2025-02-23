@@ -1,0 +1,211 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1951,Round 1,"Saturday, 7th April, 1951",3:15pm (local time),10826,27,"7,100",CANTERBURY BANKSTOWN,13,23,,NEWTOWN,5,14,
+0,NSWRFL 1951,Round 1,"Saturday, 7th April, 1951",3:15pm (local time),10828,109,"11,193",EASTERN SUBURBS,7,20,,"Balmain
+TIGERS",13,28,
+0,NSWRFL 1951,Round 1,"Saturday, 7th April, 1951",3:15pm (local time),10824,25,,NORTH SYDNEY,3,6,,"South Sydney
+RABBITOHS",6,20,
+0,NSWRFL 1951,Round 1,"Saturday, 7th April, 1951",3:15pm (local time),10825,111,,"Parramatta
+EELS",8,25,,"Western Suburbs
+MAGPIES",3,19,
+0,NSWRFL 1951,Round 1,"Saturday, 7th April, 1951",3:15pm (local time),10827,23,,"St George
+DRAGONS",11,13,,"Manly Warringah
+SEA EAGLES",2,18,
+0,NSWRFL 1951,Round 2,"Saturday, 14th April, 1951",3:15pm (local time),10831,24,"21,910","Balmain
+TIGERS",10,15,,"Manly Warringah
+SEA EAGLES",2,19,
+0,NSWRFL 1951,Round 2,"Saturday, 14th April, 1951",3:15pm (local time),10832,109,"8,647",EASTERN SUBURBS,12,14,,"South Sydney
+RABBITOHS",6,21,
+0,NSWRFL 1951,Round 2,"Saturday, 14th April, 1951",3:15pm (local time),10829,155,,NEWTOWN,0,12,,"Parramatta
+EELS",6,17,
+0,NSWRFL 1951,Round 2,"Saturday, 14th April, 1951",3:15pm (local time),10830,25,,NORTH SYDNEY,12,17,,"Western Suburbs
+MAGPIES",8,19,
+0,NSWRFL 1951,Round 2,"Saturday, 14th April, 1951",3:15pm (local time),10833,23,"8,584","St George
+DRAGONS",16,47,,CANTERBURY BANKSTOWN,2,4,
+0,NSWRFL 1951,Round 3,"Saturday, 21st April, 1951",3:15pm (local time),10836,27,"6,024",CANTERBURY BANKSTOWN,11,26,,"Manly Warringah
+SEA EAGLES",12,15,
+0,NSWRFL 1951,Round 3,"Saturday, 21st April, 1951",3:15pm (local time),10837,109,"4,730",EASTERN SUBURBS,15,17,,"Western Suburbs
+MAGPIES",4,24,
+0,NSWRFL 1951,Round 3,"Saturday, 21st April, 1951",3:15pm (local time),10834,155,"3,175",NEWTOWN,4,7,,NORTH SYDNEY,7,14,
+0,NSWRFL 1951,Round 3,"Saturday, 21st April, 1951",3:15pm (local time),10835,24,"28,610","Parramatta
+EELS",7,14,,"St George
+DRAGONS",15,36,
+0,NSWRFL 1951,Round 3,"Saturday, 21st April, 1951",3:15pm (local time),10838,44,"8,397","South Sydney
+RABBITOHS",2,16,,"Balmain
+TIGERS",7,10,
+0,NSWRFL 1951,Round 4,"Wednesday, 25th April, 1951",3:15pm (local time),10841,27,,CANTERBURY BANKSTOWN,4,10,,"Parramatta
+EELS",3,18,
+0,NSWRFL 1951,Round 4,"Wednesday, 25th April, 1951",3:15pm (local time),10842,109,,EASTERN SUBURBS,5,17,,NEWTOWN,0,10,
+0,NSWRFL 1951,Round 4,"Wednesday, 25th April, 1951",3:15pm (local time),10839,5,"9,447","Manly Warringah
+SEA EAGLES",10,17,,"South Sydney
+RABBITOHS",8,29,
+0,NSWRFL 1951,Round 4,"Wednesday, 25th April, 1951",3:15pm (local time),10840,24,"23,696",NORTH SYDNEY,0,5,,"St George
+DRAGONS",10,25,
+0,NSWRFL 1951,Round 4,"Wednesday, 25th April, 1951",3:15pm (local time),10843,112,,"Western Suburbs
+MAGPIES",13,40,,"Balmain
+TIGERS",10,17,
+0,NSWRFL 1951,Round 5,"Saturday, 28th April, 1951",3:15pm (local time),10845,7,,"Balmain
+TIGERS",4,9,,NEWTOWN,5,20,
+0,NSWRFL 1951,Round 5,"Saturday, 28th April, 1951",3:15pm (local time),10847,25,,NORTH SYDNEY,2,14,,CANTERBURY BANKSTOWN,6,6,
+0,NSWRFL 1951,Round 5,"Saturday, 28th April, 1951",3:15pm (local time),10846,111,"8,000","Parramatta
+EELS",17,27,,"Manly Warringah
+SEA EAGLES",8,15,
+0,NSWRFL 1951,Round 5,"Saturday, 28th April, 1951",3:15pm (local time),10848,23,"7,808","St George
+DRAGONS",9,12,,EASTERN SUBURBS,10,14,
+0,NSWRFL 1951,Round 5,"Saturday, 28th April, 1951",3:15pm (local time),10844,24,"28,369","South Sydney
+RABBITOHS",15,36,,"Western Suburbs
+MAGPIES",9,14,
+0,NSWRFL 1951,Round 6,"Saturday, 5th May, 1951",3:15pm (local time),10850,7,"7,722","Balmain
+TIGERS",7,12,,"St George
+DRAGONS",10,25,
+0,NSWRFL 1951,Round 6,"Saturday, 5th May, 1951",3:15pm (local time),10851,27,,CANTERBURY BANKSTOWN,12,23,,EASTERN SUBURBS,12,20,
+0,NSWRFL 1951,Round 6,"Saturday, 5th May, 1951",3:15pm (local time),10849,24,"22,842",NEWTOWN,5,17,,"South Sydney
+RABBITOHS",12,23,
+0,NSWRFL 1951,Round 6,"Saturday, 5th May, 1951",3:15pm (local time),10853,111,,"Parramatta
+EELS",13,23,,NORTH SYDNEY,8,14,
+0,NSWRFL 1951,Round 6,"Saturday, 5th May, 1951",3:15pm (local time),10852,112,"7,000","Western Suburbs
+MAGPIES",10,13,,"Manly Warringah
+SEA EAGLES",7,28,
+0,NSWRFL 1951,Round 7,"Wednesday, 9th May, 1951",3:15pm (local time),10856,7,"4,316","Balmain
+TIGERS",9,17,,CANTERBURY BANKSTOWN,7,18,
+0,NSWRFL 1951,Round 7,"Wednesday, 9th May, 1951",3:15pm (local time),10854,5,"4,206","Manly Warringah
+SEA EAGLES",6,36,,NORTH SYDNEY,3,10,
+0,NSWRFL 1951,Round 7,"Wednesday, 9th May, 1951",3:15pm (local time),10858,111,"5,290","Parramatta
+EELS",7,12,,EASTERN SUBURBS,13,26,
+0,NSWRFL 1951,Round 7,"Wednesday, 9th May, 1951",3:15pm (local time),10855,24,"50,009","St George
+DRAGONS",9,16,,"South Sydney
+RABBITOHS",16,16,
+0,NSWRFL 1951,Round 7,"Wednesday, 9th May, 1951",3:15pm (local time),10857,112,"5,779","Western Suburbs
+MAGPIES",7,9,,NEWTOWN,5,8,
+0,NSWRFL 1951,Round 8,"Saturday, 26th May, 1951",3:15pm (local time),10859,7,"3,756","Balmain
+TIGERS",10,15,,"Parramatta
+EELS",12,24,
+0,NSWRFL 1951,Round 8,"Saturday, 26th May, 1951",3:15pm (local time),10860,109,"15,269",CANTERBURY BANKSTOWN,5,10,,"South Sydney
+RABBITOHS",13,36,
+0,NSWRFL 1951,Round 8,"Saturday, 26th May, 1951",3:15pm (local time),10861,155,"3,959",NEWTOWN,11,16,,"Manly Warringah
+SEA EAGLES",2,14,
+0,NSWRFL 1951,Round 8,"Saturday, 26th May, 1951",3:15pm (local time),10863,25,"4,348",NORTH SYDNEY,2,6,,EASTERN SUBURBS,3,8,
+0,NSWRFL 1951,Round 8,"Saturday, 26th May, 1951",3:15pm (local time),10862,112,"9,559","Western Suburbs
+MAGPIES",8,16,,"St George
+DRAGONS",12,26,
+0,NSWRFL 1951,Round 9,"Saturday, 9th June, 1951",3:15pm (local time),10864,27,"3,766",CANTERBURY BANKSTOWN,3,13,,"Western Suburbs
+MAGPIES",4,17,
+0,NSWRFL 1951,Round 9,"Saturday, 9th June, 1951",3:15pm (local time),10865,109,"3,466",EASTERN SUBURBS,2,2,,"Manly Warringah
+SEA EAGLES",10,29,
+0,NSWRFL 1951,Round 9,"Saturday, 9th June, 1951",3:15pm (local time),10868,25,"3,581",NORTH SYDNEY,13,22,,"Balmain
+TIGERS",2,10,
+0,NSWRFL 1951,Round 9,"Saturday, 9th June, 1951",3:15pm (local time),10866,23,"7,155","St George
+DRAGONS",3,13,,NEWTOWN,12,17,
+0,NSWRFL 1951,Round 9,"Saturday, 9th June, 1951",3:15pm (local time),10867,24,"14,266","South Sydney
+RABBITOHS",8,18,,"Parramatta
+EELS",3,9,
+0,NSWRFL 1951,Round 10,"Saturday, 16th June, 1951",3:15pm (local time),10870,7,"1,568","Balmain
+TIGERS",8,14,,EASTERN SUBURBS,2,2,
+0,NSWRFL 1951,Round 10,"Saturday, 16th June, 1951",3:15pm (local time),10869,24,"9,160","Manly Warringah
+SEA EAGLES",2,2,,"St George
+DRAGONS",5,15,
+0,NSWRFL 1951,Round 10,"Saturday, 16th June, 1951",3:15pm (local time),10871,44,,"South Sydney
+RABBITOHS",9,9,,NORTH SYDNEY,0,6,
+0,NSWRFL 1951,Round 11,"Saturday, 23rd June, 1951",3:15pm (local time),10874,109,"11,588",CANTERBURY BANKSTOWN,10,15,,"St George
+DRAGONS",8,13,
+0,NSWRFL 1951,Round 11,"Saturday, 23rd June, 1951",3:15pm (local time),10875,111,,"Parramatta
+EELS",5,12,,NEWTOWN,7,9,
+0,NSWRFL 1951,Round 11,"Saturday, 23rd June, 1951",3:15pm (local time),10876,112,"4,069","Western Suburbs
+MAGPIES",6,24,,NORTH SYDNEY,0,7,
+0,NSWRFL 1951,Round 12,"Saturday, 30th June, 1951",3:15pm (local time),10879,7,,"Balmain
+TIGERS",2,7,,"South Sydney
+RABBITOHS",7,33,
+0,NSWRFL 1951,Round 12,"Saturday, 30th June, 1951",3:15pm (local time),10882,109,"6,919","Manly Warringah
+SEA EAGLES",3,13,,CANTERBURY BANKSTOWN,3,3,
+0,NSWRFL 1951,Round 12,"Saturday, 30th June, 1951",3:15pm (local time),10880,25,,NORTH SYDNEY,9,9,,NEWTOWN,8,16,
+0,NSWRFL 1951,Round 12,"Saturday, 30th June, 1951",3:15pm (local time),10881,23,,"St George
+DRAGONS",13,18,,"Parramatta
+EELS",10,10,
+0,NSWRFL 1951,Round 12,"Saturday, 30th June, 1951",3:15pm (local time),10883,112,,"Western Suburbs
+MAGPIES",5,11,,EASTERN SUBURBS,15,18,
+0,NSWRFL 1951,Round 13,"Saturday, 7th July, 1951",3:15pm (local time),10884,7,,"Balmain
+TIGERS",7,12,9,"Western Suburbs
+MAGPIES",4,9,19
+0,NSWRFL 1951,Round 13,"Saturday, 7th July, 1951",3:15pm (local time),10888,155,"2,500",NEWTOWN,8,23,,EASTERN SUBURBS,25,42,
+0,NSWRFL 1951,Round 13,"Saturday, 7th July, 1951",3:15pm (local time),10887,111,,"Parramatta
+EELS",13,32,,CANTERBURY BANKSTOWN,10,20,
+0,NSWRFL 1951,Round 13,"Saturday, 7th July, 1951",3:15pm (local time),10886,23,,"St George
+DRAGONS",7,14,,NORTH SYDNEY,3,8,
+0,NSWRFL 1951,Round 13,"Saturday, 7th July, 1951",3:15pm (local time),10885,109,"16,792","South Sydney
+RABBITOHS",8,16,,"Manly Warringah
+SEA EAGLES",10,12,
+0,NSWRFL 1951,Round 10,"Sunday, 15th July, 1951",3:15pm (local time),10873,155,,NEWTOWN,9,12,,CANTERBURY BANKSTOWN,6,11,
+0,NSWRFL 1951,Round 10,"Sunday, 15th July, 1951",3:15pm (local time),10872,110,,"Western Suburbs
+MAGPIES",15,41,,"Parramatta
+EELS",5,16,
+0,NSWRFL 1951,Round 11,"Sunday, 22nd July, 1951",3:15pm (local time),10877,5,"6,100","Manly Warringah
+SEA EAGLES",9,33,,"Balmain
+TIGERS",5,5,
+0,NSWRFL 1951,Round 11,"Sunday, 22nd July, 1951",3:15pm (local time),10878,44,"13,390","South Sydney
+RABBITOHS",5,19,,EASTERN SUBURBS,9,22,
+0,NSWRFL 1951,Round 14,"Saturday, 28th July, 1951",3:15pm (local time),10890,27,,CANTERBURY BANKSTOWN,8,26,,NORTH SYDNEY,8,18,
+0,NSWRFL 1951,Round 14,"Saturday, 28th July, 1951",3:15pm (local time),10891,24,"21,928",EASTERN SUBURBS,7,12,,"St George
+DRAGONS",8,28,
+0,NSWRFL 1951,Round 14,"Saturday, 28th July, 1951",3:15pm (local time),10889,5,,"Manly Warringah
+SEA EAGLES",24,57,,"Parramatta
+EELS",5,10,
+0,NSWRFL 1951,Round 14,"Saturday, 28th July, 1951",3:15pm (local time),10893,155,,NEWTOWN,5,15,,"Balmain
+TIGERS",10,27,
+0,NSWRFL 1951,Round 14,"Saturday, 28th July, 1951",3:15pm (local time),10892,112,,"Western Suburbs
+MAGPIES",5,15,,"South Sydney
+RABBITOHS",14,16,
+0,NSWRFL 1951,Round 15,"Saturday, 4th August, 1951",3:15pm (local time),10898,109,,EASTERN SUBURBS,3,22,,CANTERBURY BANKSTOWN,4,6,
+0,NSWRFL 1951,Round 15,"Saturday, 4th August, 1951",3:15pm (local time),10894,24,"16,314","Manly Warringah
+SEA EAGLES",12,23,,"Western Suburbs
+MAGPIES",15,27,
+0,NSWRFL 1951,Round 15,"Saturday, 4th August, 1951",3:15pm (local time),10895,25,,NORTH SYDNEY,14,22,,"Parramatta
+EELS",0,13,
+0,NSWRFL 1951,Round 15,"Saturday, 4th August, 1951",3:15pm (local time),10897,23,,"St George
+DRAGONS",18,26,,"Balmain
+TIGERS",2,23,
+0,NSWRFL 1951,Round 15,"Saturday, 4th August, 1951",3:15pm (local time),10896,44,"5,457","South Sydney
+RABBITOHS",15,25,,NEWTOWN,8,18,
+0,NSWRFL 1951,Round 16,"Saturday, 11th August, 1951",3:15pm (local time),10903,27,,CANTERBURY BANKSTOWN,9,16,,"Balmain
+TIGERS",12,20,
+0,NSWRFL 1951,Round 16,"Saturday, 11th August, 1951",3:15pm (local time),10900,109,,EASTERN SUBURBS,5,18,,"Parramatta
+EELS",4,17,
+0,NSWRFL 1951,Round 16,"Saturday, 11th August, 1951",3:15pm (local time),10899,155,,NEWTOWN,6,19,,"Western Suburbs
+MAGPIES",15,24,
+0,NSWRFL 1951,Round 16,"Saturday, 11th August, 1951",3:15pm (local time),10901,25,,NORTH SYDNEY,7,11,,"Manly Warringah
+SEA EAGLES",6,22,
+0,NSWRFL 1951,Round 16,"Saturday, 11th August, 1951",3:15pm (local time),10902,24,"30,842","South Sydney
+RABBITOHS",6,22,,"St George
+DRAGONS",7,15,
+0,NSWRFL 1951,Round 17,"Saturday, 18th August, 1951",3:15pm (local time),10906,109,,EASTERN SUBURBS,8,18,,NORTH SYDNEY,4,24,
+0,NSWRFL 1951,Round 17,"Saturday, 18th August, 1951",3:15pm (local time),10904,5,,"Manly Warringah
+SEA EAGLES",16,38,,NEWTOWN,7,12,
+0,NSWRFL 1951,Round 17,"Saturday, 18th August, 1951",3:15pm (local time),10907,111,"3,500","Parramatta
+EELS",12,20,,"Balmain
+TIGERS",10,10,
+0,NSWRFL 1951,Round 17,"Saturday, 18th August, 1951",3:15pm (local time),10905,24,"21,076","St George
+DRAGONS",8,18,,"Western Suburbs
+MAGPIES",13,27,
+0,NSWRFL 1951,Round 17,"Saturday, 18th August, 1951",3:15pm (local time),10908,44,,"South Sydney
+RABBITOHS",12,23,,CANTERBURY BANKSTOWN,5,19,
+0,NSWRFL 1951,Round 18,"Saturday, 25th August, 1951",3:15pm (local time),10911,7,,"Balmain
+TIGERS",17,32,,NORTH SYDNEY,5,7,
+0,NSWRFL 1951,Round 18,"Saturday, 25th August, 1951",3:15pm (local time),10913,24,"12,000","Manly Warringah
+SEA EAGLES",17,33,,EASTERN SUBURBS,4,12,
+0,NSWRFL 1951,Round 18,"Saturday, 25th August, 1951",3:15pm (local time),10909,155,,NEWTOWN,6,16,,"St George
+DRAGONS",8,14,
+0,NSWRFL 1951,Round 18,"Saturday, 25th August, 1951",3:15pm (local time),10910,111,,"Parramatta
+EELS",0,10,,"South Sydney
+RABBITOHS",24,50,
+0,NSWRFL 1951,Round 18,"Saturday, 25th August, 1951",3:15pm (local time),10912,112,"5,000","Western Suburbs
+MAGPIES",5,11,,CANTERBURY BANKSTOWN,10,17,
+0,NSWRFL 1951,Semi Final,"Saturday, 1st September, 1951",3:13pm (local time),10914,24,"39,735","St George
+DRAGONS",12,35,,"South Sydney
+RABBITOHS",5,8,
+0,NSWRFL 1951,Semi Final,"Saturday, 8th September, 1951",3:00pm (local time),10915,24,"29,444","Manly Warringah
+SEA EAGLES",11,37,,"Western Suburbs
+MAGPIES",6,9,
+0,NSWRFL 1951,Final,"Saturday, 15th September, 1951",3:00pm (local time),10916,24,"41,845","Manly Warringah
+SEA EAGLES",13,18,,"St George
+DRAGONS",6,8,
+0,NSWRFL 1951,Grand Final Chall.,"Sunday, 23rd September, 1951",3:00pm (local time),10917,109,"28,505","South Sydney
+RABBITOHS",15,42,,"Manly Warringah
+SEA EAGLES",4,14,

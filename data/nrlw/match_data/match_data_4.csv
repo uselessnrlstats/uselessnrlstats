@@ -1,0 +1,55 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRLW 2022,Round 1,"Saturday, 20th August, 2022",1:00 PM (local time),52924,940,"26,451","Parramatta (W)
+EELS",12,16,2,"Sydney (W)
+ROOSTERS",18,38,4
+0,NRLW 2022,Round 1,"Sunday, 21st August, 2022",12:00 PM (local time),52925,21,"5,135","St George Illawarra (W)
+DRAGONS",18,26,9,"Gold Coast (W)
+TITANS",6,12,5
+0,NRLW 2022,Round 1,"Sunday, 21st August, 2022",6:10 PM (local time),52926,11,"8,323","Newcastle (W)
+KNIGHTS",16,32,8,"Brisbane (W)
+BRONCOS",10,14,8
+0,NRLW 2022,Round 2,"Saturday, 27th August, 2022",1:10 PM (local time),52953,1097,"11,816","Brisbane (W)
+BRONCOS",0,8,6,"Sydney (W)
+ROOSTERS",16,28,8
+0,NRLW 2022,Round 2,"Sunday, 28th August, 2022",12:00 PM (local time),52954,940,,"Parramatta (W)
+EELS",10,10,6,"St George Illawarra (W)
+DRAGONS",8,16,6
+0,NRLW 2022,Round 2,"Sunday, 28th August, 2022",6:10 PM (local time),52955,149,,"Gold Coast (W)
+TITANS",6,12,4,"Newcastle (W)
+KNIGHTS",16,16,6
+0,NRLW 2022,Round 3,"Friday, 2nd September, 2022",5:40 PM (local time),53703,1096,,"Sydney (W)
+ROOSTERS",6,34,6,"St George Illawarra (W)
+DRAGONS",6,6,4
+0,NRLW 2022,Round 3,"Saturday, 3rd September, 2022",1:10 PM (local time),53704,968,,"Brisbane (W)
+BRONCOS",12,22,9,"Gold Coast (W)
+TITANS",0,4,6
+0,NRLW 2022,Round 3,"Sunday, 4th September, 2022",12:00 PM (local time),53705,11,,"Newcastle (W)
+KNIGHTS",4,18,8,"Parramatta (W)
+EELS",6,16,4
+0,NRLW 2022,Round 4,"Saturday, 10th September, 2022",1:05 PM (local time),53729,251,505,"Gold Coast (W)
+TITANS",18,18,8,"Parramatta (W)
+EELS",4,16,10
+0,NRLW 2022,Round 4,"Saturday, 10th September, 2022",2:50 PM (local time),53730,251,"1,229","St George Illawarra (W)
+DRAGONS",12,19,6,"Brisbane (W)
+BRONCOS",4,18,2
+0,NRLW 2022,Round 4,"Sunday, 11th September, 2022",1:10 PM (local time),53731,1096,,"Sydney (W)
+ROOSTERS",12,18,5,"Newcastle (W)
+KNIGHTS",0,16,2
+0,NRLW 2022,Round 5,"Sunday, 18th September, 2022",12:05 PM (local time),53744,26,"3,066","Brisbane (W)
+BRONCOS",6,16,5,"Parramatta (W)
+EELS",14,28,7
+0,NRLW 2022,Round 5,"Sunday, 18th September, 2022",1:55 PM (local time),53745,26,"4,776","Gold Coast (W)
+TITANS",4,12,6,"Sydney (W)
+ROOSTERS",28,38,6
+0,NRLW 2022,Round 5,"Sunday, 18th September, 2022",3:45 PM (local time),53746,26,"6,214","St George Illawarra (W)
+DRAGONS",8,8,4,"Newcastle (W)
+KNIGHTS",14,30,4
+0,NRLW 2022,Semi Final,"Sunday, 25th September, 2022",2:05 PM (local time),53768,1097,,"Newcastle (W)
+KNIGHTS",18,30,5,"St George Illawarra (W)
+DRAGONS",6,6,9
+0,NRLW 2022,Semi Final,"Sunday, 25th September, 2022",3:50 PM (local time),53769,1097,,"Sydney (W)
+ROOSTERS",4,10,5,"Parramatta (W)
+EELS",12,24,7
+0,NRLW 2022,Grand Final,"Sunday, 2nd October, 2022",3:55 PM (local time),53776,20,,"Newcastle (W)
+KNIGHTS",14,32,9,"Parramatta (W)
+EELS",6,12,5

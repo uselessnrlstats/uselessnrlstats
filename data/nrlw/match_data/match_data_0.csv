@@ -1,0 +1,19 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRLW 2018,Round 1,"Saturday, 8th September, 2018",3:05 PM (local time),44896,20,"17,168","Sydney (W)
+ROOSTERS",4,4,,NEW ZEALAND WARRIORS (W),10,10,
+0,NRLW 2018,Round 1,"Sunday, 9th September, 2018",1:45 PM (local time),44897,1097,"47,296","Brisbane (W)
+BRONCOS",18,30,,"St George Illawarra (W)
+DRAGONS",4,4,
+0,NRLW 2018,Round 2,"Friday, 14th September, 2018",5:15 PM (local time),44898,1,"19,211","Sydney (W)
+ROOSTERS",0,4,,"Brisbane (W)
+BRONCOS",10,14,
+0,NRLW 2018,Round 2,"Saturday, 15th September, 2018",5:10 PM (local time),44899,20,"48,188","St George Illawarra (W)
+DRAGONS",12,22,,NEW ZEALAND WARRIORS (W),0,10,
+0,NRLW 2018,Round 3,"Friday, 21st September, 2018",5:15 PM (local time),44900,251,"26,621","Brisbane (W)
+BRONCOS",16,32,,NEW ZEALAND WARRIORS (W),10,10,
+0,NRLW 2018,Round 3,"Saturday, 22nd September, 2018",5:10 PM (local time),44901,1,"44,380","Sydney (W)
+ROOSTERS",12,26,,"St George Illawarra (W)
+DRAGONS",0,0,
+0,NRLW 2018,Grand Final,"Sunday, 30th September, 2018",1:35 PM (local time),44902,20,"82,688","Brisbane (W)
+BRONCOS",28,34,,"Sydney (W)
+ROOSTERS",6,12,

@@ -1,0 +1,631 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 1999,Round 1,"Friday, 5th March, 1999",6:30pm (local time),1225,12,"12,056","Melbourne
+STORM",8,32,5,"Penrith
+PANTHERS",4,10,6
+0,NRL 1999,Round 1,"Friday, 5th March, 1999",7:30pm (local time),1224,4,"20,122","Canberra
+RAIDERS",12,28,8,"Brisbane
+BRONCOS",14,20,4
+0,NRL 1999,Round 1,"Saturday, 6th March, 1999",5:30pm (local time),1226,20,"104,583","Manly Warringah
+SEA EAGLES",4,18,5,"Newcastle
+KNIGHTS",6,41,8
+0,NRL 1999,Round 1,"Saturday, 6th March, 1999",8:00pm (local time),1227,20,"104,583","Parramatta
+EELS",16,20,2,"St George Illawarra
+DRAGONS",6,10,4
+0,NRL 1999,Round 1,"Sunday, 7th March, 1999",2:30pm (local time),1230,9,"8,186","Cronulla Sutherland
+SHARKS",20,44,4,"Balmain
+TIGERS",0,0,6
+0,NRL 1999,Round 1,"Sunday, 7th March, 1999",2:30pm (local time),1229,8,"4,705","North Sydney
+BEARS",18,30,6,"Western Suburbs
+MAGPIES",2,12,7
+0,NRL 1999,Round 1,"Sunday, 7th March, 1999",2:30pm (local time),1228,1,"9,673","South Sydney
+RABBITOHS",6,16,8,"Canterbury Bankstown
+BULLDOGS",12,14,9
+0,NRL 1999,Round 1,"Monday, 8th March, 1999",7:30pm (local time),1231,1,"10,124","Sydney City
+ROOSTERS",4,16,4,"Auckland
+WARRIORS",12,26,11
+0,NRL 1999,Round 2,"Friday, 12th March, 1999",,1232,11,"23,202","Newcastle
+KNIGHTS",0,8,3,"Parramatta
+EELS",4,18,6
+0,NRL 1999,Round 2,"Saturday, 13th March, 1999",,1233,6,"20,268","Auckland
+WARRIORS",8,18,3,"North Sydney
+BEARS",8,22,5
+0,NRL 1999,Round 2,"Saturday, 13th March, 1999",,1234,7,"8,248","Balmain
+TIGERS",4,16,6,"Melbourne
+STORM",0,6,6
+0,NRL 1999,Round 2,"Saturday, 13th March, 1999",,86,3,"8,019","Penrith
+PANTHERS",16,30,7,"North Queensland
+COWBOYS",2,2,5
+0,NRL 1999,Round 2,"Sunday, 14th March, 1999",,1235,1,"9,128","Sydney City
+ROOSTERS",24,46,4,"Manly Warringah
+SEA EAGLES",0,0,1
+0,NRL 1999,Round 2,"Sunday, 14th March, 1999",,1236,13,"16,460","Brisbane
+BRONCOS",6,6,12,"Cronulla Sutherland
+SHARKS",8,14,6
+0,NRL 1999,Round 2,"Sunday, 14th March, 1999",2:30pm (local time),1237,23,"13,497","St George Illawarra
+DRAGONS",12,18,6,"Canterbury Bankstown
+BULLDOGS",14,24,6
+0,NRL 1999,Round 2,"Monday, 15th March, 1999",,1238,1,"19,500","South Sydney
+RABBITOHS",10,21,10,"Canberra
+RAIDERS",4,14,9
+0,NRL 1999,Round 3,"Friday, 19th March, 1999",,1239,8,"20,276","Parramatta
+EELS",0,0,10,"Sydney City
+ROOSTERS",7,11,5
+0,NRL 1999,Round 3,"Saturday, 20th March, 1999",,87,7,"5,969","Balmain
+TIGERS",18,26,5,"North Queensland
+COWBOYS",12,18,8
+0,NRL 1999,Round 3,"Saturday, 20th March, 1999",,1241,4,"11,096","Canberra
+RAIDERS",10,14,10,"St George Illawarra
+DRAGONS",0,16,6
+0,NRL 1999,Round 3,"Saturday, 20th March, 1999",,1240,9,"18,126","Cronulla Sutherland
+SHARKS",14,28,7,"South Sydney
+RABBITOHS",2,12,7
+0,NRL 1999,Round 3,"Sunday, 21st March, 1999",,1245,20,"26,341","Canterbury Bankstown
+BULLDOGS",4,28,4,"Newcastle
+KNIGHTS",18,26,11
+0,NRL 1999,Round 3,"Sunday, 21st March, 1999",,1243,5,"7,077","Manly Warringah
+SEA EAGLES",4,10,5,"Auckland
+WARRIORS",18,36,8
+0,NRL 1999,Round 3,"Sunday, 21st March, 1999",,1244,3,"7,276","Penrith
+PANTHERS",22,60,4,"Western Suburbs
+MAGPIES",2,6,10
+0,NRL 1999,Round 3,"Sunday, 21st March, 1999",,1242,13,"17,836","Brisbane
+BRONCOS",6,6,7,"Melbourne
+STORM",18,48,2
+0,NRL 1999,Round 4,"Friday, 26th March, 1999",,1246,12,"13,297","Melbourne
+STORM",6,26,4,"Canterbury Bankstown
+BULLDOGS",12,17,2
+0,NRL 1999,Round 4,"Saturday, 27th March, 1999",,1248,9,"17,165","Cronulla Sutherland
+SHARKS",12,20,8,"Brisbane
+BRONCOS",8,18,7
+0,NRL 1999,Round 4,"Saturday, 27th March, 1999",,1249,8,"17,253","Parramatta
+EELS",12,26,8,"Balmain
+TIGERS",8,12,5
+0,NRL 1999,Round 4,"Saturday, 27th March, 1999",,1247,24,"15,324","South Sydney
+RABBITOHS",8,25,5,"St George Illawarra
+DRAGONS",18,24,6
+0,NRL 1999,Round 4,"Sunday, 28th March, 1999",,1251,6,"17,492","Auckland
+WARRIORS",4,14,8,"Sydney City
+ROOSTERS",4,28,7
+0,NRL 1999,Round 4,"Sunday, 28th March, 1999",,1250,4,"6,590","Canberra
+RAIDERS",,38,2,"Western Suburbs
+MAGPIES",,14,14
+0,NRL 1999,Round 4,"Sunday, 28th March, 1999",,1252,11,"17,381","Newcastle
+KNIGHTS",16,32,9,"Manly Warringah
+SEA EAGLES",0,16,4
+0,NRL 1999,Round 4,"Sunday, 28th March, 1999",,88,22,"3,382","North Sydney
+BEARS",12,26,6,"North Queensland
+COWBOYS",14,18,6
+0,NRL 1999,Round 5,"Friday, 2nd April, 1999",,1253,20,"30,360","Canterbury Bankstown
+BULLDOGS",,20,4,"Brisbane
+BRONCOS",,16,3
+0,NRL 1999,Round 5,"Saturday, 3rd April, 1999",,1254,7,"7,460","Balmain
+TIGERS",,17,6,"Auckland
+WARRIORS",,8,8
+0,NRL 1999,Round 5,"Saturday, 3rd April, 1999",,1255,5,"12,087","Manly Warringah
+SEA EAGLES",,24,5,"South Sydney
+RABBITOHS",,28,9
+0,NRL 1999,Round 5,"Saturday, 3rd April, 1999",,279,14,"17,359","North Queensland
+COWBOYS",,10,7,"Sydney City
+ROOSTERS",,34,4
+0,NRL 1999,Round 5,"Sunday, 4th April, 1999",,1256,12,"13,629","Melbourne
+STORM",,16,5,"Cronulla Sutherland
+SHARKS",,20,4
+0,NRL 1999,Round 5,"Sunday, 4th April, 1999",,1258,3,"13,027","Penrith
+PANTHERS",,13,7,"Parramatta
+EELS",,0,10
+0,NRL 1999,Round 5,"Sunday, 4th April, 1999",,1257,21,"12,566","St George Illawarra
+DRAGONS",,32,6,"North Sydney
+BEARS",,12,5
+0,NRL 1999,Round 5,"Monday, 5th April, 1999",,1259,8,"5,907","Western Suburbs
+MAGPIES",,2,11,"Newcastle
+KNIGHTS",,26,6
+0,NRL 1999,Round 6,"Friday, 9th April, 1999",,1261,6,"10,343","Auckland
+WARRIORS",,10,8,"Melbourne
+STORM",,38,3
+0,NRL 1999,Round 6,"Friday, 9th April, 1999",,1260,24,"15,114","Sydney City
+ROOSTERS",,15,6,"Parramatta
+EELS",,6,9
+0,NRL 1999,Round 6,"Saturday, 10th April, 1999",,1262,7,"10,282","Balmain
+TIGERS",,4,4,"North Sydney
+BEARS",,26,9
+0,NRL 1999,Round 6,"Saturday, 10th April, 1999",,1263,9,"20,793","Cronulla Sutherland
+SHARKS",,22,8,"Canterbury Bankstown
+BULLDOGS",,8,3
+0,NRL 1999,Round 6,"Saturday, 10th April, 1999",,280,14,"8,866","North Queensland
+COWBOYS",,10,5,"Penrith
+PANTHERS",,32,6
+0,NRL 1999,Round 6,"Sunday, 11th April, 1999",,1264,13,"15,298","Brisbane
+BRONCOS",,30,6,"South Sydney
+RABBITOHS",,10,1
+0,NRL 1999,Round 6,"Sunday, 11th April, 1999",,1266,4,"12,531","Canberra
+RAIDERS",,36,4,"Manly Warringah
+SEA EAGLES",,6,6
+0,NRL 1999,Round 6,"Sunday, 11th April, 1999",,1265,11,"22,532","Newcastle
+KNIGHTS",,12,6,"St George Illawarra
+DRAGONS",,26,6
+0,NRL 1999,Round 7,"Friday, 16th April, 1999",,1267,1,"13,840","Sydney City
+ROOSTERS",,28,5,"North Sydney
+BEARS",,16,9
+0,NRL 1999,Round 7,"Saturday, 17th April, 1999",,1268,8,"11,249","Parramatta
+EELS",,26,5,"Melbourne
+STORM",,14,1
+0,NRL 1999,Round 7,"Saturday, 17th April, 1999",,1270,3,"17,036","Penrith
+PANTHERS",,18,6,"Cronulla Sutherland
+SHARKS",,16,2
+0,NRL 1999,Round 7,"Saturday, 17th April, 1999",,1269,1,"9,135","South Sydney
+RABBITOHS",,18,7,"Western Suburbs
+MAGPIES",,20,6
+0,NRL 1999,Round 7,"Sunday, 18th April, 1999",,91,6,"8,954","Auckland
+WARRIORS",,0,13,"North Queensland
+COWBOYS",,24,3
+0,NRL 1999,Round 7,"Sunday, 18th April, 1999",,1273,7,"13,286","Balmain
+TIGERS",,18,7,"Manly Warringah
+SEA EAGLES",,12,9
+0,NRL 1999,Round 7,"Sunday, 18th April, 1999",,1271,11,"21,190","Newcastle
+KNIGHTS",,19,7,"Brisbane
+BRONCOS",,18,3
+0,NRL 1999,Round 7,"Sunday, 18th April, 1999",,1272,23,"12,237","St George Illawarra
+DRAGONS",,44,7,"Canberra
+RAIDERS",,2,4
+0,NRL 1999,Round 8,"Saturday, 24th April, 1999",,1275,5,"8,174","Manly Warringah
+SEA EAGLES",,12,8,"Parramatta
+EELS",,6,7
+0,NRL 1999,Round 8,"Saturday, 24th April, 1999",,1276,12,"10,831","Melbourne
+STORM",,52,7,"South Sydney
+RABBITOHS",,6,6
+0,NRL 1999,Round 8,"Saturday, 24th April, 1999",,1274,3,"13,328","Penrith
+PANTHERS",,20,6,"North Sydney
+BEARS",,18,6
+0,NRL 1999,Round 8,"Sunday, 25th April, 1999",,1279,7,"10,153","Balmain
+TIGERS",,28,6,"Western Suburbs
+MAGPIES",,16,10
+0,NRL 1999,Round 8,"Sunday, 25th April, 1999",,1278,4,"12,580","Canberra
+RAIDERS",,21,7,"Newcastle
+KNIGHTS",,21,5
+0,NRL 1999,Round 8,"Sunday, 25th April, 1999",,1277,9,"22,279","Cronulla Sutherland
+SHARKS",,18,6,"St George Illawarra
+DRAGONS",,16,4
+0,NRL 1999,Round 8,"Sunday, 25th April, 1999",7:00pm (local time),281,14,"30,302","North Queensland
+COWBOYS",14,20,10,"Brisbane
+BRONCOS",10,20,4
+0,NRL 1999,Round 8,"Monday, 26th April, 1999",,1280,1,"23,264","Sydney City
+ROOSTERS",,42,5,"Canterbury Bankstown
+BULLDOGS",,6,5
+0,NRL 1999,Round 9,"Friday, 30th April, 1999",,1281,8,"13,021","Parramatta
+EELS",,29,6,"Newcastle
+KNIGHTS",,22,9
+0,NRL 1999,Round 9,"Saturday, 1st May, 1999",,1283,21,"14,731","St George Illawarra
+DRAGONS",,20,6,"Sydney City
+ROOSTERS",,16,5
+0,NRL 1999,Round 9,"Saturday, 1st May, 1999",,1282,20,"8,283","Western Suburbs
+MAGPIES",,12,9,"Canterbury Bankstown
+BULLDOGS",,26,3
+0,NRL 1999,Round 9,"Saturday, 1st May, 1999",7:30pm (local time),282,14,"14,752","North Queensland
+COWBOYS",8,20,6,"Balmain
+TIGERS",12,14,6
+0,NRL 1999,Round 9,"Sunday, 2nd May, 1999",,1287,6,"7,241","Auckland
+WARRIORS",,8,11,"South Sydney
+RABBITOHS",,12,7
+0,NRL 1999,Round 9,"Sunday, 2nd May, 1999",,1284,5,"10,189","Manly Warringah
+SEA EAGLES",,26,5,"Penrith
+PANTHERS",,22,3
+0,NRL 1999,Round 9,"Sunday, 2nd May, 1999",,1285,12,"16,473","Melbourne
+STORM",,28,3,"Brisbane
+BRONCOS",,18,11
+0,NRL 1999,Round 9,"Sunday, 2nd May, 1999",,1286,20,"8,032","North Sydney
+BEARS",,8,3,"Canberra
+RAIDERS",,37,6
+0,NRL 1999,Round 10,"Friday, 7th May, 1999",,1288,1,"13,533","South Sydney
+RABBITOHS",,14,5,"Cronulla Sutherland
+SHARKS",,27,6
+0,NRL 1999,Round 10,"Saturday, 8th May, 1999",,94,5,"7,973","Manly Warringah
+SEA EAGLES",,26,7,"North Queensland
+COWBOYS",,22,10
+0,NRL 1999,Round 10,"Saturday, 8th May, 1999",,1289,8,"13,087","Parramatta
+EELS",,28,6,"Auckland
+WARRIORS",,6,6
+0,NRL 1999,Round 10,"Saturday, 8th May, 1999",,1290,3,"19,133","Penrith
+PANTHERS",,27,8,"St George Illawarra
+DRAGONS",,6,3
+0,NRL 1999,Round 10,"Saturday, 8th May, 1999",,1291,38,"8,236","Western Suburbs
+MAGPIES",,6,8,"Melbourne
+STORM",,62,5
+0,NRL 1999,Round 10,"Sunday, 9th May, 1999",,1292,13,"29,373","Brisbane
+BRONCOS",,16,3,"Sydney City
+ROOSTERS",,26,1
+0,NRL 1999,Round 10,"Sunday, 9th May, 1999",,1293,4,"12,098","Canberra
+RAIDERS",,14,5,"Canterbury Bankstown
+BULLDOGS",,18,5
+0,NRL 1999,Round 10,"Sunday, 9th May, 1999",,1294,11,"16,876","Newcastle
+KNIGHTS",,32,2,"North Sydney
+BEARS",,16,4
+0,NRL 1999,Round 11,"Friday, 14th May, 1999",,1295,23,"16,514","St George Illawarra
+DRAGONS",,12,9,"Cronulla Sutherland
+SHARKS",,20,6
+0,NRL 1999,Round 11,"Saturday, 15th May, 1999",,1296,20,"8,425","Canterbury Bankstown
+BULLDOGS",,34,3,"North Sydney
+BEARS",,18,5
+0,NRL 1999,Round 11,"Saturday, 15th May, 1999",,1297,12,"11,743","Melbourne
+STORM",,28,6,"Manly Warringah
+SEA EAGLES",,6,5
+0,NRL 1999,Round 11,"Saturday, 15th May, 1999",,283,14,"17,256","North Queensland
+COWBOYS",,12,6,"Parramatta
+EELS",,16,7
+0,NRL 1999,Round 11,"Sunday, 16th May, 1999",,1298,6,"9,423","Auckland
+WARRIORS",,32,5,"Canberra
+RAIDERS",,30,3
+0,NRL 1999,Round 11,"Sunday, 16th May, 1999",,1301,7,"13,236","Balmain
+TIGERS",,10,1,"Brisbane
+BRONCOS",,12,8
+0,NRL 1999,Round 11,"Sunday, 16th May, 1999",,1300,3,"16,134","Penrith
+PANTHERS",,15,6,"Newcastle
+KNIGHTS",,20,1
+0,NRL 1999,Round 11,"Sunday, 16th May, 1999",3:00pm (local time),1299,1,"7,947","Sydney City
+ROOSTERS",26,38,8,"Western Suburbs
+MAGPIES",12,18,8
+0,NRL 1999,Round 12,"Friday, 21st May, 1999",7:30pm (local time),1302,8,"17,387","Parramatta
+EELS",2,12,6,"Canberra
+RAIDERS",12,25,6
+0,NRL 1999,Round 12,"Saturday, 22nd May, 1999",2:30pm (local time),1303,21,"11,120","St George Illawarra
+DRAGONS",18,48,2,"Balmain
+TIGERS",2,8,6
+0,NRL 1999,Round 12,"Saturday, 22nd May, 1999",7:30pm (local time),1304,8,"5,087","Western Suburbs
+MAGPIES",6,7,3,"Penrith
+PANTHERS",0,6,6
+0,NRL 1999,Round 12,"Sunday, 23rd May, 1999",2:30pm (local time),1306,20,"9,062","Canterbury Bankstown
+BULLDOGS",18,28,2,"Auckland
+WARRIORS",12,24,9
+0,NRL 1999,Round 12,"Sunday, 23rd May, 1999",2:30pm (local time),1307,9,"10,843","Cronulla Sutherland
+SHARKS",4,21,4,"North Sydney
+BEARS",12,20,6
+0,NRL 1999,Round 12,"Sunday, 23rd May, 1999",2:30pm (local time),1305,1,"10,267","South Sydney
+RABBITOHS",10,27,2,"Newcastle
+KNIGHTS",0,4,6
+0,NRL 1999,Round 13,"Friday, 28th May, 1999",,1308,12,"14,316","Melbourne
+STORM",,16,5,"St George Illawarra
+DRAGONS",,28,6
+0,NRL 1999,Round 13,"Saturday, 29th May, 1999",,1309,13,"8,751","Brisbane
+BRONCOS",,50,7,"Western Suburbs
+MAGPIES",,0,7
+0,NRL 1999,Round 13,"Saturday, 29th May, 1999",,1310,20,"15,264","Canterbury Bankstown
+BULLDOGS",,20,7,"Manly Warringah
+SEA EAGLES",,4,3
+0,NRL 1999,Round 13,"Saturday, 29th May, 1999",,284,14,"8,751","North Queensland
+COWBOYS",,12,10,"South Sydney
+RABBITOHS",,14,6
+0,NRL 1999,Round 13,"Sunday, 30th May, 1999",,1314,6,"8,940","Auckland
+WARRIORS",,18,8,"Parramatta
+EELS",,25,5
+0,NRL 1999,Round 13,"Sunday, 30th May, 1999",,1311,11,"24,101","Newcastle
+KNIGHTS",,26,7,"Cronulla Sutherland
+SHARKS",,18,4
+0,NRL 1999,Round 13,"Sunday, 30th May, 1999",,1312,25,"11,126","North Sydney
+BEARS",,64,5,"Balmain
+TIGERS",,12,4
+0,NRL 1999,Round 13,"Sunday, 30th May, 1999",,1313,1,"7,967","Sydney City
+ROOSTERS",,28,5,"Canberra
+RAIDERS",,22,2
+0,NRL 1999,Round 14,"Friday, 4th June, 1999",,1315,4,"11,804","Canberra
+RAIDERS",,26,8,"Melbourne
+STORM",,6,6
+0,NRL 1999,Round 14,"Saturday, 5th June, 1999",,1316,13,"9,790","Brisbane
+BRONCOS",,28,6,"Penrith
+PANTHERS",,0,4
+0,NRL 1999,Round 14,"Saturday, 5th June, 1999",,285,14,"16,372","North Queensland
+COWBOYS",,8,3,"Cronulla Sutherland
+SHARKS",,22,6
+0,NRL 1999,Round 14,"Sunday, 6th June, 1999",,1318,20,"16,156","Canterbury Bankstown
+BULLDOGS",,19,5,"South Sydney
+RABBITOHS",,18,5
+0,NRL 1999,Round 14,"Sunday, 6th June, 1999",,1317,5,"7,694","Manly Warringah
+SEA EAGLES",,36,2,"Sydney City
+ROOSTERS",,14,4
+0,NRL 1999,Round 14,"Sunday, 6th June, 1999",,1319,19,"16,605","Western Suburbs
+MAGPIES",6,18,5,"Balmain
+TIGERS",6,12,7
+0,NRL 1999,Round 15,"Friday, 11th June, 1999",,1320,8,"22,062","Parramatta
+EELS",,16,4,"Canterbury Bankstown
+BULLDOGS",,18,4
+0,NRL 1999,Round 15,"Saturday, 12th June, 1999",,1321,11,"25,793","Newcastle
+KNIGHTS",,27,11,"Melbourne
+STORM",,26,2
+0,NRL 1999,Round 15,"Saturday, 12th June, 1999",,1323,3,"7,097","Penrith
+PANTHERS",,34,3,"Auckland
+WARRIORS",,20,3
+0,NRL 1999,Round 15,"Saturday, 12th June, 1999",,1322,19,"12,193","Western Suburbs
+MAGPIES",,10,3,"South Sydney
+RABBITOHS",,16,3
+0,NRL 1999,Round 15,"Sunday, 13th June, 1999",,1325,5,"11,976","Manly Warringah
+SEA EAGLES",,16,8,"Canberra
+RAIDERS",,29,7
+0,NRL 1999,Round 15,"Sunday, 13th June, 1999",,98,23,"8,156","St George Illawarra
+DRAGONS",,22,6,"North Queensland
+COWBOYS",,18,7
+0,NRL 1999,Round 15,"Sunday, 13th June, 1999",,1324,1,"17,131","Sydney City
+ROOSTERS",,32,5,"Cronulla Sutherland
+SHARKS",,14,11
+0,NRL 1999,Round 15,"Monday, 14th June, 1999",,1326,25,"13,442","North Sydney
+BEARS",,8,6,"Brisbane
+BRONCOS",,26,7
+0,NRL 1999,Round 16,"Friday, 18th June, 1999",7:30pm (local time),1327,12,"11,871","Melbourne
+STORM",12,26,5,"Sydney City
+ROOSTERS",0,8,6
+0,NRL 1999,Round 16,"Saturday, 19th June, 1999",2:30pm (local time),1330,9,"13,164","Cronulla Sutherland
+SHARKS",16,32,5,"Manly Warringah
+SEA EAGLES",4,4,3
+0,NRL 1999,Round 16,"Saturday, 19th June, 1999",7:30pm (local time),1329,6,"9,500","Auckland
+WARRIORS",14,30,4,"Canterbury Bankstown
+BULLDOGS",4,10,6
+0,NRL 1999,Round 16,"Saturday, 19th June, 1999",7:30pm (local time),1328,4,"14,541","Canberra
+RAIDERS",4,4,6,"Parramatta
+EELS",0,12,3
+0,NRL 1999,Round 16,"Sunday, 20th June, 1999",2:30pm (local time),1331,7,"6,033","Balmain
+TIGERS",11,24,8,"Penrith
+PANTHERS",4,16,6
+0,NRL 1999,Round 16,"Sunday, 20th June, 1999",2:30pm (local time),99,11,"16,508","Newcastle
+KNIGHTS",12,24,10,"North Queensland
+COWBOYS",8,8,5
+0,NRL 1999,Round 16,"Sunday, 20th June, 1999",2:30pm (local time),1332,21,"11,117","St George Illawarra
+DRAGONS",14,44,7,"Western Suburbs
+MAGPIES",4,4,5
+0,NRL 1999,Round 16,"Sunday, 20th June, 1999",2:30pm (local time),1333,1,"9,505","South Sydney
+RABBITOHS",12,12,9,"North Sydney
+BEARS",8,24,6
+0,NRL 1999,Round 17,"Friday, 25th June, 1999",,1334,8,"14,051","Parramatta
+EELS",,22,4,"Cronulla Sutherland
+SHARKS",,0,7
+0,NRL 1999,Round 17,"Saturday, 26th June, 1999",,1336,6,"8,506","Auckland
+WARRIORS",,22,6,"Balmain
+TIGERS",,4,7
+0,NRL 1999,Round 17,"Saturday, 26th June, 1999",,1335,3,"10,200","Penrith
+PANTHERS",,6,6,"Brisbane
+BRONCOS",,19,10
+0,NRL 1999,Round 17,"Saturday, 26th June, 1999",,100,1,"4,029","Sydney City
+ROOSTERS",,18,8,"North Queensland
+COWBOYS",,32,10
+0,NRL 1999,Round 17,"Sunday, 27th June, 1999",,1339,20,"12,811","Canterbury Bankstown
+BULLDOGS",,2,4,"Canberra
+RAIDERS",,18,7
+0,NRL 1999,Round 17,"Sunday, 27th June, 1999",,1340,5,"7,084","Manly Warringah
+SEA EAGLES",,18,8,"Melbourne
+STORM",,19,7
+0,NRL 1999,Round 17,"Sunday, 27th June, 1999",,1338,11,"14,869","Newcastle
+KNIGHTS",20,48,9,"Western Suburbs
+MAGPIES",0,10,8
+0,NRL 1999,Round 17,"Sunday, 27th June, 1999",,1337,25,"6,774","North Sydney
+BEARS",,12,3,"St George Illawarra
+DRAGONS",,20,4
+0,NRL 1999,Round 18,"Friday, 2nd July, 1999",,1341,12,"12,534","Melbourne
+STORM",,6,6,"Parramatta
+EELS",,20,10
+0,NRL 1999,Round 18,"Saturday, 3rd July, 1999",,286,14,"15,389","North Queensland
+COWBOYS",,26,7,"Manly Warringah
+SEA EAGLES",,28,8
+0,NRL 1999,Round 18,"Saturday, 3rd July, 1999",,1342,3,"12,017","Penrith
+PANTHERS",,0,14,"South Sydney
+RABBITOHS",,20,6
+0,NRL 1999,Round 18,"Saturday, 3rd July, 1999",,1343,19,"6,818","Western Suburbs
+MAGPIES",,12,13,"Sydney City
+ROOSTERS",,20,8
+0,NRL 1999,Round 18,"Sunday, 4th July, 1999",,1344,13,"17,538","Brisbane
+BRONCOS",,42,5,"Balmain
+TIGERS",,10,7
+0,NRL 1999,Round 18,"Sunday, 4th July, 1999",,1347,4,"10,155","Canberra
+RAIDERS",,46,3,"Auckland
+WARRIORS",,22,7
+0,NRL 1999,Round 18,"Sunday, 4th July, 1999",,1346,20,"20,173","Canterbury Bankstown
+BULLDOGS",,14,5,"Cronulla Sutherland
+SHARKS",,6,3
+0,NRL 1999,Round 18,"Sunday, 4th July, 1999",,1345,25,"9,712","North Sydney
+BEARS",,20,5,"Newcastle
+KNIGHTS",,46,5
+0,NRL 1999,Round 19,"Friday, 9th July, 1999",,1348,9,"11,554",SHARKS,,24,4,"Canberra
+RAIDERS",,8,7
+0,NRL 1999,Round 19,"Saturday, 10th July, 1999",,1350,13,"14,941","Brisbane
+BRONCOS",,24,3,"Auckland
+WARRIORS",,16,8
+0,NRL 1999,Round 19,"Saturday, 10th July, 1999",,1349,20,"16,318","Canterbury Bankstown
+BULLDOGS",,20,9,"Melbourne
+STORM",,24,6
+0,NRL 1999,Round 19,"Saturday, 10th July, 1999",,102,8,"11,082","Parramatta
+EELS",,24,9,"North Queensland
+COWBOYS",,12,6
+0,NRL 1999,Round 19,"Sunday, 11th July, 1999",,1353,5,"11,890","Manly Warringah
+SEA EAGLES",,48,6,"Western Suburbs
+MAGPIES",,32,5
+0,NRL 1999,Round 19,"Sunday, 11th July, 1999",,1354,25,"9,566","North Sydney
+BEARS",,20,4,"Sydney City
+ROOSTERS",,28,3
+0,NRL 1999,Round 19,"Sunday, 11th July, 1999",,1352,23,"11,555","St George Illawarra
+DRAGONS",,38,4,"Penrith
+PANTHERS",,24,5
+0,NRL 1999,Round 19,"Sunday, 11th July, 1999",,1351,1,"13,052","South Sydney
+RABBITOHS",0,22,9,"Balmain
+TIGERS",12,12,6
+0,NRL 1999,Round 20,"Friday, 16th July, 1999",,1355,6,"8,000","Auckland
+WARRIORS",,20,3,SHARKS,,22,4
+0,NRL 1999,Round 20,"Friday, 16th July, 1999",,1356,12,"12,511","Melbourne
+STORM",,30,7,"Canberra
+RAIDERS",,10,3
+0,NRL 1999,Round 20,"Saturday, 17th July, 1999",,1357,7,"10,615","Balmain
+TIGERS",,16,9,"St George Illawarra
+DRAGONS",,38,6
+0,NRL 1999,Round 20,"Saturday, 17th July, 1999",,287,14,"15,080","North Queensland
+COWBOYS",,18,6,"Canterbury Bankstown
+BULLDOGS",,30,7
+0,NRL 1999,Round 20,"Saturday, 17th July, 1999",,1358,1,"19,426","South Sydney
+RABBITOHS",,8,3,"Brisbane
+BRONCOS",,22,6
+0,NRL 1999,Round 20,"Sunday, 18th July, 1999",,1361,11,"20,946","Newcastle
+KNIGHTS",,21,9,"Penrith
+PANTHERS",,14,7
+0,NRL 1999,Round 20,"Sunday, 18th July, 1999",,1359,25,"12,172","North Sydney
+BEARS",,22,7,"Manly Warringah
+SEA EAGLES",,28,9
+0,NRL 1999,Round 20,"Sunday, 18th July, 1999",,1360,19,"11,848","Western Suburbs
+MAGPIES",,10,6,"Parramatta
+EELS",,68,4
+0,NRL 1999,Round 21,"Friday, 23rd July, 1999",,1362,13,"33,289","Brisbane
+BRONCOS",,22,7,"St George Illawarra
+DRAGONS",,4,8
+0,NRL 1999,Round 21,"Saturday, 24th July, 1999",,1363,7,"8,277","Balmain
+TIGERS",,20,6,"Newcastle
+KNIGHTS",,16,4
+0,NRL 1999,Round 21,"Saturday, 24th July, 1999",,104,4,"9,532","Canberra
+RAIDERS",,30,5,"North Queensland
+COWBOYS",,8,7
+0,NRL 1999,Round 21,"Saturday, 24th July, 1999",,1364,19,"8,267","Western Suburbs
+MAGPIES",,16,2,"Canterbury Bankstown
+BULLDOGS",,56,7
+0,NRL 1999,Round 21,"Sunday, 25th July, 1999",,1367,25,"7,877","North Sydney
+BEARS",,4,8,"Parramatta
+EELS",,44,1
+0,NRL 1999,Round 21,"Sunday, 25th July, 1999",,1365,9,"10,016",SHARKS,,18,9,"Melbourne
+STORM",,26,1
+0,NRL 1999,Round 21,"Sunday, 25th July, 1999",,1366,1,"7,364","South Sydney
+RABBITOHS",,16,7,"Auckland
+WARRIORS",,20,7
+0,NRL 1999,Round 21,"Monday, 26th July, 1999",,1368,1,"8,149","Sydney City
+ROOSTERS",,14,6,"Penrith
+PANTHERS",,16,5
+0,NRL 1999,Round 22,"Friday, 30th July, 1999",,1369,13,"29,979","Brisbane
+BRONCOS",,38,6,"Newcastle
+KNIGHTS",,6,5
+0,NRL 1999,Round 22,"Saturday, 31st July, 1999",,1371,7,"7,733","Balmain
+TIGERS",,10,5,"Sydney City
+ROOSTERS",,22,5
+0,NRL 1999,Round 22,"Saturday, 31st July, 1999",,1370,3,"12,484","Penrith
+PANTHERS",,52,5,"Manly Warringah
+SEA EAGLES",,10,2
+0,NRL 1999,Round 22,"Saturday, 31st July, 1999",,105,9,"8,921",SHARKS,,40,6,"North Queensland
+COWBOYS",,8,12
+0,NRL 1999,Round 22,"Sunday, 1st August, 1999",,1372,20,"12,415","Canterbury Bankstown
+BULLDOGS",,30,1,"North Sydney
+BEARS",,18,4
+0,NRL 1999,Round 22,"Sunday, 1st August, 1999",,1374,12,"13,435","Melbourne
+STORM",,16,9,"Auckland
+WARRIORS",,14,6
+0,NRL 1999,Round 22,"Sunday, 1st August, 1999",,1373,21,"14,517","St George Illawarra
+DRAGONS",,38,10,"South Sydney
+RABBITOHS",,10,5
+0,NRL 1999,Round 22,"Sunday, 1st August, 1999",,1375,19,"5,635","Western Suburbs
+MAGPIES",,16,5,"Canberra
+RAIDERS",,64,10
+0,NRL 1999,Round 23,"Friday, 6th August, 1999",,1376,6,"9,564","Auckland
+WARRIORS",,32,6,"St George Illawarra
+DRAGONS",,18,2
+0,NRL 1999,Round 23,"Friday, 6th August, 1999",,1377,1,"15,416","Sydney City
+ROOSTERS",,8,6,"Brisbane
+BRONCOS",,9,2
+0,NRL 1999,Round 23,"Saturday, 7th August, 1999",,1379,4,"10,018","Canberra
+RAIDERS",,46,2,"North Sydney
+BEARS",,16,6
+0,NRL 1999,Round 23,"Saturday, 7th August, 1999",,288,14,"20,131","North Queensland
+COWBOYS",,24,9,"Melbourne
+STORM",,30,4
+0,NRL 1999,Round 23,"Saturday, 7th August, 1999",,1378,9,"10,642",SHARKS,,46,4,"Western Suburbs
+MAGPIES",,0,8
+0,NRL 1999,Round 23,"Sunday, 8th August, 1999",,1382,5,"11,107","Manly Warringah
+SEA EAGLES",,44,9,"Balmain
+TIGERS",,14,2
+0,NRL 1999,Round 23,"Sunday, 8th August, 1999",,1380,11,"21,820","Newcastle
+KNIGHTS",,60,5,"South Sydney
+RABBITOHS",,0,5
+0,NRL 1999,Round 23,"Sunday, 8th August, 1999",,1381,8,"19,060","Parramatta
+EELS",,17,10,"Penrith
+PANTHERS",,16,11
+0,NRL 1999,Round 24,"Friday, 13th August, 1999",,1383,1,"19,181","St George Illawarra
+DRAGONS",10,20,1,"Newcastle
+KNIGHTS",12,22,4
+0,NRL 1999,Round 24,"Saturday, 14th August, 1999",,1384,7,"15,230","Balmain
+TIGERS",8,20,6,"Parramatta
+EELS",4,10,6
+0,NRL 1999,Round 24,"Saturday, 14th August, 1999",,289,14,"13,832","North Queensland
+COWBOYS",,14,6,"Auckland
+WARRIORS",,40,10
+0,NRL 1999,Round 24,"Saturday, 14th August, 1999",,1385,25,"5,043","North Sydney
+BEARS",,18,4,SHARKS,,56,6
+0,NRL 1999,Round 24,"Sunday, 15th August, 1999",,1388,20,"15,236","Canterbury Bankstown
+BULLDOGS",,22,4,"Penrith
+PANTHERS",,22,3
+0,NRL 1999,Round 24,"Sunday, 15th August, 1999",,1386,5,"15,687","Manly Warringah
+SEA EAGLES",,26,7,"Brisbane
+BRONCOS",,26,6
+0,NRL 1999,Round 24,"Sunday, 15th August, 1999",,1387,12,"12,131","Melbourne
+STORM",,44,6,"Western Suburbs
+MAGPIES",,14,11
+0,NRL 1999,Round 24,"Monday, 16th August, 1999",,1389,1,"12,735","South Sydney
+RABBITOHS",,6,5,"Sydney City
+ROOSTERS",,42,4
+0,NRL 1999,Round 25,"Friday, 20th August, 1999",,1390,13,"45,257","Brisbane
+BRONCOS",,10,5,"Parramatta
+EELS",,21,5
+0,NRL 1999,Round 25,"Saturday, 21st August, 1999",,1391,6,"15,385","Auckland
+WARRIORS",,42,6,"Newcastle
+KNIGHTS",,0,5
+0,NRL 1999,Round 25,"Saturday, 21st August, 1999",,1392,20,"21,031","Canterbury Bankstown
+BULLDOGS",,44,5,"Balmain
+TIGERS",,24,7
+0,NRL 1999,Round 25,"Saturday, 21st August, 1999",,1393,1,"8,755","South Sydney
+RABBITOHS",,2,9,"Manly Warringah
+SEA EAGLES",,18,9
+0,NRL 1999,Round 25,"Sunday, 22nd August, 1999",,1395,25,"7,241","North Sydney
+BEARS",,24,11,"Melbourne
+STORM",,20,6
+0,NRL 1999,Round 25,"Sunday, 22nd August, 1999",,1394,3,"14,184","Penrith
+PANTHERS",,33,2,"Canberra
+RAIDERS",,14,3
+0,NRL 1999,Round 25,"Sunday, 22nd August, 1999",,1396,1,"24,271","Sydney City
+ROOSTERS",,24,9,"St George Illawarra
+DRAGONS",,26,6
+0,NRL 1999,Round 25,"Sunday, 22nd August, 1999",,108,19,"5,588","Western Suburbs
+MAGPIES",,14,12,"North Queensland
+COWBOYS",,36,5
+0,NRL 1999,Round 26,"Friday, 27th August, 1999",,1397,13,"34,644","Brisbane
+BRONCOS",,14,4,"Canterbury Bankstown
+BULLDOGS",,12,9
+0,NRL 1999,Round 26,"Saturday, 28th August, 1999",,290,14,"15,206","North Queensland
+COWBOYS",6,18,13,"North Sydney
+BEARS",16,28,8
+0,NRL 1999,Round 26,"Saturday, 28th August, 1999",,1398,9,"16,000",SHARKS,,38,3,"Penrith
+PANTHERS",,6,7
+0,NRL 1999,Round 26,"Saturday, 28th August, 1999",3:00pm (local time),1399,21,"13,918","St George Illawarra
+DRAGONS",16,20,5,"Manly Warringah
+SEA EAGLES",8,18,6
+0,NRL 1999,Round 26,"Sunday, 29th August, 1999",,1400,8,"16,076","Parramatta
+EELS",,34,11,"South Sydney
+RABBITOHS",,16,6
+0,NRL 1999,Round 26,"Sunday, 29th August, 1999",2:30pm (local time),1402,4,"13,617","Canberra
+RAIDERS",12,42,5,"Balmain
+TIGERS",8,14,4
+0,NRL 1999,Round 26,"Sunday, 29th August, 1999",2:30pm (local time),1403,11,"25,315","Newcastle
+KNIGHTS",10,16,5,"Sydney City
+ROOSTERS",12,34,5
+0,NRL 1999,Round 26,"Sunday, 29th August, 1999",2:30pm (local time),1401,19,"7,793","Western Suburbs
+MAGPIES",10,16,7,"Auckland
+WARRIORS",18,60,4
+0,NRL 1999,Qualif Final,"Friday, 3rd September, 1999",,1404,1,"23,478","Sydney City
+ROOSTERS",,8,4,"Canterbury Bankstown
+BULLDOGS",,12,7
+0,NRL 1999,Qualif Final,"Saturday, 4th September, 1999",,1406,12,"15,653","Melbourne
+STORM",,10,10,"St George Illawarra
+DRAGONS",,34,2
+0,NRL 1999,Qualif Final,"Saturday, 4th September, 1999",,1405,8,"22,053","Parramatta
+EELS",,30,11,"Newcastle
+KNIGHTS",,16,4
+0,NRL 1999,Qualif Final,"Sunday, 5th September, 1999",,1407,9,"13,713",SHARKS,,42,9,"Brisbane
+BRONCOS",,20,5
+0,NRL 1999,Semi Final,"Saturday, 11th September, 1999",,1408,1,"31,506","St George Illawarra
+DRAGONS",,28,2,"Sydney City
+ROOSTERS",,18,2
+0,NRL 1999,Semi Final,"Sunday, 12th September, 1999",,1409,1,"20,075","Melbourne
+STORM",,24,5,"Canterbury Bankstown
+BULLDOGS",,22,3
+0,NRL 1999,Prelim Final,"Saturday, 18th September, 1999",,1410,1,"27,555","Melbourne
+STORM",,18,5,"Parramatta
+EELS",,16,3
+0,NRL 1999,Prelim Final,"Sunday, 19th September, 1999",,1411,20,"51,827","St George Illawarra
+DRAGONS",,24,3,SHARKS,,8,5
+0,NRL 1999,Grand Final,"Sunday, 26th September, 1999",,1412,20,"107,999","Melbourne
+STORM",0,20,1,"St George Illawarra
+DRAGONS",14,18,4

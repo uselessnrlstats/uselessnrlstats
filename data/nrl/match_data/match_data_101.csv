@@ -1,0 +1,529 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2008,Round 1,"Friday, 14th March, 2008",7:30pm (local time),8001,20,"29,386","South Sydney
+RABBITOHS",4,20,7,"Sydney
+ROOSTERS",24,34,3
+0,NRL 2008,Round 1,"Friday, 14th March, 2008",7:30pm (local time),8000,149,"26,974","Gold Coast
+TITANS",22,36,9,"North Queensland
+COWBOYS",12,18,6
+0,NRL 2008,Round 1,"Saturday, 15th March, 2008",5:30pm (local time),8002,20,"25,065","Parramatta
+EELS",0,28,7,BULLDOGS,20,20,6
+0,NRL 2008,Round 1,"Saturday, 15th March, 2008",7:30pm (local time),8003,5,"15,424","Manly Warringah
+SEA EAGLES",6,10,11,"Cronulla Sutherland
+SHARKS",8,16,10
+0,NRL 2008,Round 1,"Saturday, 15th March, 2008",7:30pm (local time),8004,11,"17,233","Newcastle
+KNIGHTS",10,30,9,"Canberra
+RAIDERS",4,14,10
+0,NRL 2008,Round 1,"Sunday, 16th March, 2008",1:00pm (local time),8005,1097,"31,250","Brisbane
+BRONCOS",22,48,8,"Penrith
+PANTHERS",6,12,4
+0,NRL 2008,Round 1,"Sunday, 16th March, 2008",3:00pm (local time),8006,1,"18,211",WESTS TIGERS,18,24,5,"St George Illawarra
+DRAGONS",4,16,9
+0,NRL 2008,Round 1,"Monday, 17th March, 2008",7:00pm (local time),8007,30,"20,084","Melbourne
+STORM",16,32,12,WARRIORS,12,18,7
+0,NRL 2008,Round 2,"Friday, 21st March, 2008",7:30pm (local time),14482,20,"21,839","South Sydney
+RABBITOHS",12,12,7,BULLDOGS,6,25,10
+0,NRL 2008,Round 2,"Friday, 21st March, 2008",7:30pm (local time),14481,1,"18,724","Sydney
+ROOSTERS",14,14,7,"Brisbane
+BRONCOS",8,20,9
+0,NRL 2008,Round 2,"Saturday, 22nd March, 2008",5:30pm (local time),14483,3,"7,503","Penrith
+PANTHERS",16,16,4,"Canberra
+RAIDERS",14,20,5
+0,NRL 2008,Round 2,"Saturday, 22nd March, 2008",7:30pm (local time),14484,11,"18,117","Newcastle
+KNIGHTS",2,13,9,"Manly Warringah
+SEA EAGLES",6,12,7
+0,NRL 2008,Round 2,"Saturday, 22nd March, 2008",8:30pm (local time),14485,14,"20,655","North Queensland
+COWBOYS",4,10,7,WESTS TIGERS,14,30,11
+0,NRL 2008,Round 2,"Sunday, 23rd March, 2008",4:00pm (local time),14486,6,"15,250",WARRIORS,12,30,4,"Parramatta
+EELS",6,16,8
+0,NRL 2008,Round 2,"Sunday, 23rd March, 2008",3:00pm (local time),14487,12,"10,720","Melbourne
+STORM",12,16,4,"Cronulla Sutherland
+SHARKS",14,17,9
+0,NRL 2008,Round 2,"Monday, 24th March, 2008",7:00pm (local time),14488,21,"10,521","St George Illawarra
+DRAGONS",6,30,7,"Gold Coast
+TITANS",6,12,5
+0,NRL 2008,Round 3,"Friday, 28th March, 2008",7:30pm (local time),14490,8,"15,176","Parramatta
+EELS",20,24,9,"Newcastle
+KNIGHTS",12,23,8
+0,NRL 2008,Round 3,"Friday, 28th March, 2008",7:30pm (local time),14489,1097,"50,612","Brisbane
+BRONCOS",18,36,8,"North Queensland
+COWBOYS",2,2,7
+0,NRL 2008,Round 3,"Saturday, 29th March, 2008",5:30pm (local time),14491,1,"12,137","Sydney
+ROOSTERS",8,10,10,"Melbourne
+STORM",0,6,11
+0,NRL 2008,Round 3,"Saturday, 29th March, 2008",7:30pm (local time),14492,4,"14,400","Canberra
+RAIDERS",12,21,7,"St George Illawarra
+DRAGONS",14,14,5
+0,NRL 2008,Round 3,"Saturday, 29th March, 2008",8:30pm (local time),14493,149,"19,050","Gold Coast
+TITANS",0,18,7,"Cronulla Sutherland
+SHARKS",4,4,11
+0,NRL 2008,Round 3,"Sunday, 30th March, 2008",2:00pm (local time),14494,3,"10,839","Penrith
+PANTHERS",22,26,8,"South Sydney
+RABBITOHS",6,22,10
+0,NRL 2008,Round 3,"Sunday, 30th March, 2008",3:00pm (local time),14495,20,"21,546",BULLDOGS,10,32,7,WESTS TIGERS,12,12,3
+0,NRL 2008,Round 3,"Monday, 31st March, 2008",7:00pm (local time),14496,5,"10,175","Manly Warringah
+SEA EAGLES",22,52,8,WARRIORS,6,6,6
+0,NRL 2008,Round 4,"Friday, 4th April, 2008",7:30pm (local time),14498,20,"36,526",BULLDOGS,0,12,5,"Sydney
+ROOSTERS",20,40,8
+0,NRL 2008,Round 4,"Friday, 4th April, 2008",7:30pm (local time),14497,12,"13,831","Melbourne
+STORM",18,28,5,"Brisbane
+BRONCOS",4,8,7
+0,NRL 2008,Round 4,"Saturday, 5th April, 2008",5:30pm (local time),14499,20,"15,318","St George Illawarra
+DRAGONS",4,16,4,"Cronulla Sutherland
+SHARKS",6,18,7
+0,NRL 2008,Round 4,"Saturday, 5th April, 2008",6:30pm (local time),14500,149,"17,381","Gold Coast
+TITANS",10,32,9,"Canberra
+RAIDERS",6,12,7
+0,NRL 2008,Round 4,"Saturday, 5th April, 2008",8:30pm (local time),14501,14,"19,231","North Queensland
+COWBOYS",20,38,9,"Parramatta
+EELS",10,14,5
+0,NRL 2008,Round 4,"Sunday, 6th April, 2008",4:00pm (local time),14503,6,"11,518",WARRIORS,14,26,11,"Newcastle
+KNIGHTS",12,20,9
+0,NRL 2008,Round 4,"Sunday, 6th April, 2008",3:00pm (local time),14502,5,"14,426","Manly Warringah
+SEA EAGLES",12,20,8,"South Sydney
+RABBITOHS",2,2,8
+0,NRL 2008,Round 4,"Monday, 7th April, 2008",7:00pm (local time),14504,19,"11,898",WESTS TIGERS,2,8,4,"Penrith
+PANTHERS",18,30,2
+0,NRL 2008,Round 5,"Friday, 11th April, 2008",7:30pm (local time),14505,12,"13,632","Melbourne
+STORM",14,26,9,"Manly Warringah
+SEA EAGLES",0,4,9
+0,NRL 2008,Round 5,"Friday, 11th April, 2008",7:30pm (local time),14506,8,"13,321","Parramatta
+EELS",8,20,11,"Gold Coast
+TITANS",16,28,3
+0,NRL 2008,Round 5,"Saturday, 12th April, 2008",5:30pm (local time),14508,3,"16,294","Penrith
+PANTHERS",6,12,5,"Sydney
+ROOSTERS",10,28,6
+0,NRL 2008,Round 5,"Saturday, 12th April, 2008",5:30pm (local time),14507,21,"11,639","St George Illawarra
+DRAGONS",6,16,10,"North Queensland
+COWBOYS",8,20,6
+0,NRL 2008,Round 5,"Sunday, 13th April, 2008",2:00pm (local time),14509,6,"15,912",WARRIORS,10,36,9,BULLDOGS,12,16,8
+0,NRL 2008,Round 5,"Sunday, 13th April, 2008",2:00pm (local time),14510,4,"12,240","Canberra
+RAIDERS",10,30,6,WESTS TIGERS,24,24,8
+0,NRL 2008,Round 5,"Sunday, 13th April, 2008",3:00pm (local time),14511,11,"21,614","Newcastle
+KNIGHTS",8,22,2,"Brisbane
+BRONCOS",26,34,6
+0,NRL 2008,Round 5,"Monday, 14th April, 2008",7:00pm (local time),14512,20,"12,988","South Sydney
+RABBITOHS",6,10,8,"Cronulla Sutherland
+SHARKS",12,12,4
+0,NRL 2008,Round 6,"Friday, 18th April, 2008",7:30pm (local time),14513,149,"27,176","Gold Coast
+TITANS",16,26,7,"Brisbane
+BRONCOS",8,24,6
+0,NRL 2008,Round 6,"Friday, 18th April, 2008",7:30pm (local time),14514,8,"14,025","Parramatta
+EELS",4,16,7,"Manly Warringah
+SEA EAGLES",10,20,1
+0,NRL 2008,Round 6,"Saturday, 19th April, 2008",5:30pm (local time),14515,20,"14,764",BULLDOGS,20,30,4,"St George Illawarra
+DRAGONS",6,18,7
+0,NRL 2008,Round 6,"Saturday, 19th April, 2008",7:30pm (local time),14517,9,"13,852","Cronulla Sutherland
+SHARKS",10,20,5,"Penrith
+PANTHERS",6,21,2
+0,NRL 2008,Round 6,"Saturday, 19th April, 2008",7:30pm (local time),14516,14,"20,554","North Queensland
+COWBOYS",22,48,5,WARRIORS,14,20,5
+0,NRL 2008,Round 6,"Sunday, 20th April, 2008",2:00pm (local time),14518,26,"14,176","Sydney
+ROOSTERS",20,20,8,"Newcastle
+KNIGHTS",12,34,2
+0,NRL 2008,Round 6,"Sunday, 20th April, 2008",3:00pm (local time),14519,24,"19,122",WESTS TIGERS,6,30,6,"South Sydney
+RABBITOHS",10,10,6
+0,NRL 2008,Round 6,"Monday, 21st April, 2008",7:00pm (local time),14520,4,"15,550","Canberra
+RAIDERS",16,16,4,"Melbourne
+STORM",4,23,7
+0,NRL 2008,Round 7,"Friday, 25th April, 2008",3:15pm (local time),14521,20,"21,596","St George Illawarra
+DRAGONS",18,26,6,"Sydney
+ROOSTERS",6,6,4
+0,NRL 2008,Round 7,"Friday, 25th April, 2008",7:45pm (local time),14522,1097,"34,112","Brisbane
+BRONCOS",14,32,4,"South Sydney
+RABBITOHS",6,18,5
+0,NRL 2008,Round 7,"Saturday, 26th April, 2008",5:30pm (local time),14523,5,"15,229","Manly Warringah
+SEA EAGLES",10,30,4,BULLDOGS,10,22,6
+0,NRL 2008,Round 7,"Saturday, 26th April, 2008",7:30pm (local time),14524,14,"24,053","North Queensland
+COWBOYS",0,10,11,"Melbourne
+STORM",6,12,2
+0,NRL 2008,Round 7,"Sunday, 27th April, 2008",2:00pm (local time),14525,149,"25,310","Gold Coast
+TITANS",24,36,3,WARRIORS,12,24,6
+0,NRL 2008,Round 7,"Sunday, 27th April, 2008",3:00pm (local time),14526,9,"17,241","Cronulla Sutherland
+SHARKS",6,16,8,WESTS TIGERS,8,20,7
+0,NRL 2008,Round 8,"Saturday, 3rd May, 2008",5:30pm (local time),14527,11,"21,280","Newcastle
+KNIGHTS",12,13,4,"Gold Coast
+TITANS",0,12,4
+0,NRL 2008,Round 8,"Saturday, 3rd May, 2008",7:30pm (local time),14528,3,"18,724","Penrith
+PANTHERS",14,18,10,"Parramatta
+EELS",6,26,4
+0,NRL 2008,Round 8,"Saturday, 3rd May, 2008",8:30pm (local time),14529,20,"11,177",WESTS TIGERS,0,22,4,"Brisbane
+BRONCOS",16,34,5
+0,NRL 2008,Round 8,"Sunday, 4th May, 2008",4:00pm (local time),14531,6,"7,358",WARRIORS,8,14,10,"Canberra
+RAIDERS",0,6,8
+0,NRL 2008,Round 8,"Sunday, 4th May, 2008",3:00pm (local time),14530,20,"9,818","South Sydney
+RABBITOHS",18,28,4,"North Queensland
+COWBOYS",12,24,4
+0,NRL 2008,Round 9,"Saturday, 10th May, 2008",5:30pm (local time),14532,1,"10,241","Sydney
+ROOSTERS",22,30,5,"Canberra
+RAIDERS",0,4,8
+0,NRL 2008,Round 9,"Saturday, 10th May, 2008",7:30pm (local time),14533,20,"10,257",BULLDOGS,0,4,9,"Penrith
+PANTHERS",12,30,3
+0,NRL 2008,Round 9,"Saturday, 10th May, 2008",7:30pm (local time),14534,14,"17,065","North Queensland
+COWBOYS",6,18,6,"Cronulla Sutherland
+SHARKS",22,24,4
+0,NRL 2008,Round 9,"Sunday, 11th May, 2008",2:00pm (local time),14535,1097,"27,469","Brisbane
+BRONCOS",12,12,8,"Manly Warringah
+SEA EAGLES",6,30,4
+0,NRL 2008,Round 9,"Sunday, 11th May, 2008",3:00pm (local time),14536,20,"16,313","Parramatta
+EELS",12,19,5,"St George Illawarra
+DRAGONS",6,18,5
+0,NRL 2008,Round 9,"Monday, 12th May, 2008",7:00pm (local time),14537,12,"10,624","Melbourne
+STORM",0,18,10,"Newcastle
+KNIGHTS",0,4,3
+0,NRL 2008,Round 10,"Friday, 16th May, 2008",7:45pm (local time),14539,149,"22,676","Gold Coast
+TITANS",16,24,5,BULLDOGS,10,20,5
+0,NRL 2008,Round 10,"Friday, 16th May, 2008",7:45pm (local time),14538,8,"16,211","Parramatta
+EELS",8,12,6,"Sydney
+ROOSTERS",6,32,4
+0,NRL 2008,Round 10,"Saturday, 17th May, 2008",5:30pm (local time),14540,9,"13,431","Cronulla Sutherland
+SHARKS",4,13,10,"Brisbane
+BRONCOS",6,6,3
+0,NRL 2008,Round 10,"Saturday, 17th May, 2008",7:30pm (local time),14542,26,"9,343","Manly Warringah
+SEA EAGLES",12,38,7,"North Queensland
+COWBOYS",0,6,7
+0,NRL 2008,Round 10,"Saturday, 17th May, 2008",7:30pm (local time),14541,20,"6,881","St George Illawarra
+DRAGONS",14,36,7,"Melbourne
+STORM",2,12,3
+0,NRL 2008,Round 10,"Sunday, 18th May, 2008",2:00pm (local time),14543,3,"9,450","Penrith
+PANTHERS",22,46,6,WARRIORS,6,22,6
+0,NRL 2008,Round 10,"Sunday, 18th May, 2008",3:00pm (local time),14544,11,"20,154","Newcastle
+KNIGHTS",16,26,3,WESTS TIGERS,16,38,2
+0,NRL 2008,Round 10,"Monday, 19th May, 2008",7:00pm (local time),14545,4,"11,115","Canberra
+RAIDERS",24,38,7,"South Sydney
+RABBITOHS",4,10,7
+0,NRL 2008,Round 11,"Friday, 23rd May, 2008",7:45pm (local time),14557,5,"12,058","Manly Warringah
+SEA EAGLES",12,18,8,"St George Illawarra
+DRAGONS",10,20,6
+0,NRL 2008,Round 11,"Saturday, 24th May, 2008",7:30pm (local time),14558,26,"8,761","South Sydney
+RABBITOHS",0,10,6,"Melbourne
+STORM",4,15,3
+0,NRL 2008,Round 11,"Sunday, 25th May, 2008",4:00pm (local time),14559,6,"11,922",WARRIORS,12,12,12,"Sydney
+ROOSTERS",20,38,3
+0,NRL 2008,Round 11,"Sunday, 25th May, 2008",3:00pm (local time),14560,7,"17,493",WESTS TIGERS,14,20,6,"Gold Coast
+TITANS",6,18,6
+0,NRL 2008,Round 11,"Monday, 26th May, 2008",7:00pm (local time),14561,20,"9,289",BULLDOGS,18,30,7,"Cronulla Sutherland
+SHARKS",4,22,6
+0,NRL 2008,Round 12,"Friday, 30th May, 2008",7:45pm (local time),14562,1097,"25,564","Brisbane
+BRONCOS",10,30,10,"Parramatta
+EELS",12,26,8
+0,NRL 2008,Round 12,"Friday, 30th May, 2008",7:45pm (local time),14563,4,"13,120","Canberra
+RAIDERS",0,18,8,"Manly Warringah
+SEA EAGLES",12,31,6
+0,NRL 2008,Round 12,"Saturday, 31st May, 2008",5:30pm (local time),14564,12,"12,251","Melbourne
+STORM",28,46,3,BULLDOGS,0,0,7
+0,NRL 2008,Round 12,"Saturday, 31st May, 2008",7:30pm (local time),14565,11,"15,489","Newcastle
+KNIGHTS",6,16,3,WARRIORS,4,18,4
+0,NRL 2008,Round 12,"Saturday, 31st May, 2008",7:30pm (local time),14566,14,"16,553","North Queensland
+COWBOYS",12,18,10,"Penrith
+PANTHERS",10,19,8
+0,NRL 2008,Round 12,"Sunday, 1st June, 2008",2:00pm (local time),14567,20,"12,978","South Sydney
+RABBITOHS",6,12,7,"St George Illawarra
+DRAGONS",12,26,2
+0,NRL 2008,Round 12,"Sunday, 1st June, 2008",3:00pm (local time),14568,9,"8,214","Cronulla Sutherland
+SHARKS",8,30,9,"Gold Coast
+TITANS",10,14,4
+0,NRL 2008,Round 12,"Monday, 2nd June, 2008",7:00pm (local time),14569,1,"15,204","Sydney
+ROOSTERS",12,19,3,WESTS TIGERS,0,10,4
+0,NRL 2008,Round 13,"Friday, 6th June, 2008",8:00pm (local time),14571,6,"13,112",WARRIORS,14,28,5,"South Sydney
+RABBITOHS",18,35,3
+0,NRL 2008,Round 13,"Friday, 6th June, 2008",7:45pm (local time),14570,21,"11,432","St George Illawarra
+DRAGONS",20,28,5,"Brisbane
+BRONCOS",6,10,10
+0,NRL 2008,Round 13,"Saturday, 7th June, 2008",5:30pm (local time),14572,20,"9,565",BULLDOGS,6,12,6,"Newcastle
+KNIGHTS",10,22,4
+0,NRL 2008,Round 13,"Saturday, 7th June, 2008",7:30pm (local time),14573,8,"10,195","Parramatta
+EELS",10,30,10,"Canberra
+RAIDERS",6,12,3
+0,NRL 2008,Round 13,"Saturday, 7th June, 2008",7:30pm (local time),14574,19,"10,488",WESTS TIGERS,22,40,11,"North Queensland
+COWBOYS",6,16,9
+0,NRL 2008,Round 13,"Sunday, 8th June, 2008",2:00pm (local time),14575,3,"10,543","Penrith
+PANTHERS",6,22,4,"Cronulla Sutherland
+SHARKS",18,24,5
+0,NRL 2008,Round 13,"Sunday, 8th June, 2008",3:00pm (local time),14576,5,"13,842","Manly Warringah
+SEA EAGLES",14,42,7,"Sydney
+ROOSTERS",0,0,6
+0,NRL 2008,Round 13,"Monday, 9th June, 2008",7:00pm (local time),14577,149,"19,409","Gold Coast
+TITANS",12,18,6,"Melbourne
+STORM",0,0,5
+0,NRL 2008,Round 14,"Friday, 13th June, 2008",7:45pm (local time),14581,1,"9,724","Sydney
+ROOSTERS",16,32,6,"Penrith
+PANTHERS",12,12,8
+0,NRL 2008,Round 14,"Saturday, 14th June, 2008",7:30pm (local time),14582,9,"9,023","Cronulla Sutherland
+SHARKS",6,24,8,WARRIORS,8,8,5
+0,NRL 2008,Round 14,"Sunday, 15th June, 2008",2:00pm (local time),14584,4,"11,157","Canberra
+RAIDERS",28,34,5,"Brisbane
+BRONCOS",0,16, 
+0,NRL 2008,Round 14,"Sunday, 15th June, 2008",3:00pm (local time),14583,20,"22,107",WESTS TIGERS,0,6,6,"Parramatta
+EELS",22,44,8
+0,NRL 2008,Round 14,"Monday, 16th June, 2008",7:00pm (local time),14585,14,"14,234","North Queensland
+COWBOYS",4,18,8,"Newcastle
+KNIGHTS",12,30,7
+0,NRL 2008,Round 15,"Friday, 20th June, 2008",7:45pm (local time),14586,1097,"27,864","Brisbane
+BRONCOS",8,19,7,WESTS TIGERS,12,18,4
+0,NRL 2008,Round 15,"Friday, 20th June, 2008",7:45pm (local time),14587,20,"9,032","St George Illawarra
+DRAGONS",0,13,10,"Penrith
+PANTHERS",12,12,5
+0,NRL 2008,Round 15,"Saturday, 21st June, 2008",5:30pm (local time),14589,20,"9,845",BULLDOGS,18,18,2,"Canberra
+RAIDERS",26,58,9
+0,NRL 2008,Round 15,"Saturday, 21st June, 2008",7:30pm (local time),14588,12,"10,880","Melbourne
+STORM",16,48,5,"North Queensland
+COWBOYS",14,20,6
+0,NRL 2008,Round 15,"Sunday, 22nd June, 2008",2:00pm (local time),14590,6,"7,141",WARRIORS,6,14,7,"Manly Warringah
+SEA EAGLES",4,20,8
+0,NRL 2008,Round 15,"Sunday, 22nd June, 2008",2:00pm (local time),14592,11,"19,253","Newcastle
+KNIGHTS",8,14,7,"Sydney
+ROOSTERS",6,16,7
+0,NRL 2008,Round 15,"Sunday, 22nd June, 2008",3:00pm (local time),14591,9,"17,547","Cronulla Sutherland
+SHARKS",6,16,7,"Parramatta
+EELS",8,14,8
+0,NRL 2008,Round 15,"Monday, 23rd June, 2008",7:00pm (local time),14593,20,"9,827","South Sydney
+RABBITOHS",10,24,9,"Gold Coast
+TITANS",12,23,3
+0,NRL 2008,Round 16,"Friday, 27th June, 2008",7:45pm (local time),14594,3,"9,963","Penrith
+PANTHERS",6,12,7,"Brisbane
+BRONCOS",6,12,8
+0,NRL 2008,Round 16,"Friday, 27th June, 2008",7:45pm (local time),14595,1,"9,271","Sydney
+ROOSTERS",4,24,5,BULLDOGS,10,14,6
+0,NRL 2008,Round 16,"Saturday, 28th June, 2008",5:30pm (local time),14598,149,"26,453","Gold Coast
+TITANS",14,22,6,"St George Illawarra
+DRAGONS",12,26,5
+0,NRL 2008,Round 16,"Saturday, 28th June, 2008",7:30pm (local time),14596,26,"13,798","Manly Warringah
+SEA EAGLES",10,28,9,"Newcastle
+KNIGHTS",8,12,6
+0,NRL 2008,Round 16,"Saturday, 28th June, 2008",7:30pm (local time),14597,14,"15,631","North Queensland
+COWBOYS",12,28,7,"South Sydney
+RABBITOHS",4,29,9
+0,NRL 2008,Round 16,"Sunday, 29th June, 2008",2:00pm (local time),14600,7,"15,027",WESTS TIGERS,6,26,7,WARRIORS,16,28,3
+0,NRL 2008,Round 16,"Sunday, 29th June, 2008",3:00pm (local time),14599,8,"12,597","Parramatta
+EELS",18,24,7,"Melbourne
+STORM",10,22,3
+0,NRL 2008,Round 16,"Monday, 30th June, 2008",7:00pm (local time),14601,4,"9,136","Canberra
+RAIDERS",12,24,8,"Cronulla Sutherland
+SHARKS",18,36,8
+0,NRL 2008,Round 17,"Friday, 4th July, 2008",7:45pm (local time),14602,149,"21,374","Gold Coast
+TITANS",6,14,8,"Manly Warringah
+SEA EAGLES",12,34,7
+0,NRL 2008,Round 17,"Saturday, 5th July, 2008",7:30pm (local time),14603,11,"22,348","Newcastle
+KNIGHTS",0,16,6,"St George Illawarra
+DRAGONS",14,24,8
+0,NRL 2008,Round 17,"Sunday, 6th July, 2008",2:00pm (local time),14605,12,"11,719","Melbourne
+STORM",16,30,7,"Canberra
+RAIDERS",4,14,4
+0,NRL 2008,Round 17,"Sunday, 6th July, 2008",3:00pm (local time),14604,8,"14,012","Parramatta
+EELS",6,16,12,"Penrith
+PANTHERS",16,22,4
+0,NRL 2008,Round 17,"Monday, 7th July, 2008",7:00pm (local time),14606,20,"15,562",BULLDOGS,18,30,7,"South Sydney
+RABBITOHS",6,34,7
+0,NRL 2008,Round 18,"Friday, 11th July, 2008",7:45pm (local time),14608,3,"10,029","Penrith
+PANTHERS",12,18,10,"Newcastle
+KNIGHTS",12,30,4
+0,NRL 2008,Round 18,"Friday, 11th July, 2008",7:45pm (local time),14607,1,"10,762","Sydney
+ROOSTERS",28,28,7,"Gold Coast
+TITANS",16,32,6
+0,NRL 2008,Round 18,"Saturday, 12th July, 2008",7:30pm (local time),14609,6,"7,722",WARRIORS,8,24,4,"North Queensland
+COWBOYS",4,14,5
+0,NRL 2008,Round 18,"Saturday, 12th July, 2008",7:30pm (local time),14610,9,"18,217","Cronulla Sutherland
+SHARKS",6,6,11,"Manly Warringah
+SEA EAGLES",22,34,6
+0,NRL 2008,Round 18,"Saturday, 12th July, 2008",7:30pm (local time),14611,20,"17,897","South Sydney
+RABBITOHS",16,32,5,"Parramatta
+EELS",10,20,5
+0,NRL 2008,Round 18,"Sunday, 13th July, 2008",2:00pm (local time),14613,21,"14,040","St George Illawarra
+DRAGONS",0,12,8,"Canberra
+RAIDERS",14,19,7
+0,NRL 2008,Round 18,"Sunday, 13th July, 2008",3:00pm (local time),14612,1097,"37,683","Brisbane
+BRONCOS",8,18,7,BULLDOGS,8,26,5
+0,NRL 2008,Round 18,"Monday, 14th July, 2008",7:00pm (local time),14614,19,"16,653",WESTS TIGERS,12,18,7,"Melbourne
+STORM",12,30,3
+0,NRL 2008,Round 19,"Friday, 18th July, 2008",7:35pm (local time),14615,5,"18,970","Manly Warringah
+SEA EAGLES",10,28,8,"Parramatta
+EELS",6,10,7
+0,NRL 2008,Round 19,"Friday, 18th July, 2008",7:35pm (local time),14616,14,"22,048","North Queensland
+COWBOYS",0,18,8,"Brisbane
+BRONCOS",26,32,6
+0,NRL 2008,Round 19,"Saturday, 19th July, 2008",5:30pm (local time),14618,149,"17,759","Gold Coast
+TITANS",10,22,6,"Penrith
+PANTHERS",18,36,6
+0,NRL 2008,Round 19,"Saturday, 19th July, 2008",7:30pm (local time),14619,20,"12,973",BULLDOGS,6,22,7,WARRIORS,30,40,7
+0,NRL 2008,Round 19,"Saturday, 19th July, 2008",7:30pm (local time),14617,9,"10,112","Cronulla Sutherland
+SHARKS",12,16,10,"Newcastle
+KNIGHTS",13,13,6
+0,NRL 2008,Round 19,"Sunday, 20th July, 2008",2:00pm (local time),14621,4,"13,417","Canberra
+RAIDERS",18,34,5,"Sydney
+ROOSTERS",0,12,2
+0,NRL 2008,Round 19,"Sunday, 20th July, 2008",3:00pm (local time),14620,20,"21,818","South Sydney
+RABBITOHS",6,12,4,WESTS TIGERS,12,36,6
+0,NRL 2008,Round 19,"Monday, 21st July, 2008",7:00pm (local time),14622,12,"9,335","Melbourne
+STORM",10,26,9,"St George Illawarra
+DRAGONS",0,0,10
+0,NRL 2008,Round 20,"Friday, 25th July, 2008",7:35pm (local time),14623,1097,"27,905","Brisbane
+BRONCOS",8,18,6,"Cronulla Sutherland
+SHARKS",0,12,7
+0,NRL 2008,Round 20,"Friday, 25th July, 2008",7:35pm (local time),14624,8,"7,253","Parramatta
+EELS",14,16,9,"North Queensland
+COWBOYS",4,4,7
+0,NRL 2008,Round 20,"Saturday, 26th July, 2008",5:30pm (local time),14626,4,"8,700","Canberra
+RAIDERS",22,46,12,"Gold Coast
+TITANS",4,4,8
+0,NRL 2008,Round 20,"Saturday, 26th July, 2008",7:30pm (local time),14625,3,"14,075","Penrith
+PANTHERS",6,24,9,WESTS TIGERS,10,10,6
+0,NRL 2008,Round 20,"Sunday, 27th July, 2008",2:00pm (local time),14628,6,"8,752",WARRIORS,4,8,9,"Melbourne
+STORM",0,6,4
+0,NRL 2008,Round 20,"Sunday, 27th July, 2008",2:00pm (local time),14627,11,"23,182","Newcastle
+KNIGHTS",14,39,4,"South Sydney
+RABBITOHS",6,12,5
+0,NRL 2008,Round 20,"Sunday, 27th July, 2008",3:00pm (local time),14629,1,"22,681","Sydney
+ROOSTERS",24,34,10,"Manly Warringah
+SEA EAGLES",6,12,14
+0,NRL 2008,Round 20,"Monday, 28th July, 2008",7:00pm (local time),14630,20,"7,802","St George Illawarra
+DRAGONS",26,30,7,BULLDOGS,0,0,6
+0,NRL 2008,Round 21,"Friday, 1st August, 2008",7:35pm (local time),14631,5,"7,862","Manly Warringah
+SEA EAGLES",22,30,7,"Penrith
+PANTHERS",6,10,7
+0,NRL 2008,Round 21,"Friday, 1st August, 2008",7:35pm (local time),14632,12,"9,400","Melbourne
+STORM",20,44,7,"Gold Coast
+TITANS",4,4,3
+0,NRL 2008,Round 21,"Saturday, 2nd August, 2008",5:30pm (local time),14633,9,"18,256","Cronulla Sutherland
+SHARKS",0,13,8,"St George Illawarra
+DRAGONS",6,12,2
+0,NRL 2008,Round 21,"Saturday, 2nd August, 2008",7:30pm (local time),14635,14,"14,601","North Queensland
+COWBOYS",20,20,8,"Sydney
+ROOSTERS",10,32,2
+0,NRL 2008,Round 21,"Saturday, 2nd August, 2008",7:30pm (local time),14634,20,"9,276","South Sydney
+RABBITOHS",12,18,5,WARRIORS,12,16,5
+0,NRL 2008,Round 21,"Sunday, 3rd August, 2008",2:00pm (local time),14637,20,"16,121",WESTS TIGERS,28,56,9,BULLDOGS,4,4,8
+0,NRL 2008,Round 21,"Sunday, 3rd August, 2008",3:00pm (local time),14636,1097,"28,103","Brisbane
+BRONCOS",12,34,3,"Canberra
+RAIDERS",6,6,5
+0,NRL 2008,Round 21,"Monday, 4th August, 2008",7:00pm (local time),14638,11,"16,435","Newcastle
+KNIGHTS",20,32,4,"Parramatta
+EELS",6,12,7
+0,NRL 2008,Round 22,"Friday, 8th August, 2008",7:35pm (local time),14639,5,"18,442","Manly Warringah
+SEA EAGLES",6,10,6,"Melbourne
+STORM",10,16,5
+0,NRL 2008,Round 22,"Friday, 8th August, 2008",7:35pm (local time),14640,21,"14,207","St George Illawarra
+DRAGONS",2,10,10,WESTS TIGERS,12,18,8
+0,NRL 2008,Round 22,"Saturday, 9th August, 2008",7:30pm (local time),14641,6,"13,007",WARRIORS,10,16,6,"Brisbane
+BRONCOS",8,12,5
+0,NRL 2008,Round 22,"Saturday, 9th August, 2008",7:30pm (local time),14642,1097,"8,549",BULLDOGS,0,12,8,"North Queensland
+COWBOYS",14,36,9
+0,NRL 2008,Round 22,"Saturday, 9th August, 2008",7:30pm (local time),14643,9,"12,618","Cronulla Sutherland
+SHARKS",12,28,6,"South Sydney
+RABBITOHS",8,14,12
+0,NRL 2008,Round 22,"Sunday, 10th August, 2008",2:00pm (local time),14644,4,"6,500","Canberra
+RAIDERS",38,74,7,"Penrith
+PANTHERS",12,12,3
+0,NRL 2008,Round 22,"Sunday, 10th August, 2008",3:00pm (local time),14645,1,"12,468","Sydney
+ROOSTERS",12,24,3,"Parramatta
+EELS",16,28,7
+0,NRL 2008,Round 22,"Monday, 11th August, 2008",7:00pm (local time),14646,149,"15,136","Gold Coast
+TITANS",6,12,11,"Newcastle
+KNIGHTS",16,32,5
+0,NRL 2008,Round 23,"Friday, 15th August, 2008",7:35pm (local time),14647,1097,"33,237","Brisbane
+BRONCOS",12,20,9,"St George Illawarra
+DRAGONS",6,24,4
+0,NRL 2008,Round 23,"Friday, 15th August, 2008",7:35pm (local time),14648,12,"13,335","Melbourne
+STORM",20,30,6,"Sydney
+ROOSTERS",0,6,8
+0,NRL 2008,Round 23,"Saturday, 16th August, 2008",7:30pm (local time),14650,6,"10,417",WARRIORS,12,18,6,"Cronulla Sutherland
+SHARKS",4,4,5
+0,NRL 2008,Round 23,"Saturday, 16th August, 2008",7:30pm (local time),14649,14,"17,605","North Queensland
+COWBOYS",14,20,10,"Gold Coast
+TITANS",14,26,8
+0,NRL 2008,Round 23,"Saturday, 16th August, 2008",7:30pm (local time),14651,3,"7,841","Penrith
+PANTHERS",24,52,6,BULLDOGS,10,16,5
+0,NRL 2008,Round 23,"Sunday, 17th August, 2008",2:00pm (local time),14652,4,"12,206","Canberra
+RAIDERS",22,38,10,"Newcastle
+KNIGHTS",6,18,8
+0,NRL 2008,Round 23,"Sunday, 17th August, 2008",3:00pm (local time),14653,20,"11,000","South Sydney
+RABBITOHS",22,40,8,"Manly Warringah
+SEA EAGLES",10,32,6
+0,NRL 2008,Round 23,"Monday, 18th August, 2008",7:00pm (local time),14654,8,"13,065","Parramatta
+EELS",22,40,8,WESTS TIGERS,6,12,5
+0,NRL 2008,Round 24,"Friday, 22nd August, 2008",7:35pm (local time),14655,1097,"39,757","Brisbane
+BRONCOS",6,25,7,"Gold Coast
+TITANS",14,21,6
+0,NRL 2008,Round 24,"Friday, 22nd August, 2008",7:35pm (local time),14656,9,"10,013","Cronulla Sutherland
+SHARKS",8,20,10,"Sydney
+ROOSTERS",0,0,8
+0,NRL 2008,Round 24,"Saturday, 23rd August, 2008",5:30pm (local time),14659,20,"27,564",WESTS TIGERS,6,16,7,"Manly Warringah
+SEA EAGLES",16,48,6
+0,NRL 2008,Round 24,"Saturday, 23rd August, 2008",7:30pm (local time),14658,20,"27,564",BULLDOGS,12,12,5,"Parramatta
+EELS",6,26,7
+0,NRL 2008,Round 24,"Saturday, 23rd August, 2008",7:30pm (local time),14657,11,"10,323","Newcastle
+KNIGHTS",30,38,5,"North Queensland
+COWBOYS",0,24,5
+0,NRL 2008,Round 24,"Sunday, 24th August, 2008",2:00pm (local time),14661,20,"10,128","South Sydney
+RABBITOHS",19,25,1,"Canberra
+RAIDERS",6,40,1
+0,NRL 2008,Round 24,"Sunday, 24th August, 2008",3:00pm (local time),14660,21,"11,583","St George Illawarra
+DRAGONS",16,34,4,WARRIORS,6,6,2
+0,NRL 2008,Round 24,"Monday, 25th August, 2008",7:00pm (local time),14662,3,"8,813","Penrith
+PANTHERS",0,6,6,"Melbourne
+STORM",20,40,7
+0,NRL 2008,Round 25,"Friday, 29th August, 2008",7:35pm (local time),14663,1,"18,127","Sydney
+ROOSTERS",14,22,5,"South Sydney
+RABBITOHS",0,20,5
+0,NRL 2008,Round 25,"Friday, 29th August, 2008",7:35pm (local time),14664,7,"10,776",WESTS TIGERS,6,6,6,"Cronulla Sutherland
+SHARKS",20,32,6
+0,NRL 2008,Round 25,"Saturday, 30th August, 2008",5:30pm (local time),14665,11,"19,568","Newcastle
+KNIGHTS",10,17,8,"Melbourne
+STORM",6,16,6
+0,NRL 2008,Round 25,"Saturday, 30th August, 2008",7:30pm (local time),14667,14,"14,998","North Queensland
+COWBOYS",16,22,6,"Canberra
+RAIDERS",0,10,4
+0,NRL 2008,Round 25,"Saturday, 30th August, 2008",7:30pm (local time),14666,20,"17,103","St George Illawarra
+DRAGONS",24,40,7,"Parramatta
+EELS",0,14,7
+0,NRL 2008,Round 25,"Sunday, 31st August, 2008",4:00pm (local time),14668,6,"15,214",WARRIORS,30,42,9,"Penrith
+PANTHERS",4,20,5
+0,NRL 2008,Round 25,"Sunday, 31st August, 2008",3:00pm (local time),14669,20,"7,685",BULLDOGS,12,22,7,"Brisbane
+BRONCOS",18,36,4
+0,NRL 2008,Round 25,"Monday, 1st September, 2008",7:00pm (local time),14670,5,"14,755","Manly Warringah
+SEA EAGLES",10,28,7,"Gold Coast
+TITANS",6,10,11
+0,NRL 2008,Round 26,"Friday, 5th September, 2008",7:35pm (local time),14671,1097,"37,552","Brisbane
+BRONCOS",6,24,7,"Newcastle
+KNIGHTS",2,2,8
+0,NRL 2008,Round 26,"Friday, 5th September, 2008",7:35pm (local time),14672,1,"14,127","Sydney
+ROOSTERS",0,10,6,"St George Illawarra
+DRAGONS",0,0,5
+0,NRL 2008,Round 26,"Saturday, 6th September, 2008",5:30pm (local time),14674,3,"6,086","Penrith
+PANTHERS",12,16,2,"Manly Warringah
+SEA EAGLES",18,34,7
+0,NRL 2008,Round 26,"Saturday, 6th September, 2008",7:30pm (local time),14673,9,"7,057","Cronulla Sutherland
+SHARKS",18,28,8,"North Queensland
+COWBOYS",4,22,7
+0,NRL 2008,Round 26,"Saturday, 6th September, 2008",7:30pm (local time),14675,8,"5,102","Parramatta
+EELS",6,6,8,WARRIORS,14,28,6
+0,NRL 2008,Round 26,"Sunday, 7th September, 2008",2:00pm (local time),14676,4,"15,411","Canberra
+RAIDERS",16,52,4,BULLDOGS,16,34,4
+0,NRL 2008,Round 26,"Sunday, 7th September, 2008",3:00pm (local time),14678,149,"20,723","Gold Coast
+TITANS",6,12,5,WESTS TIGERS,18,28,4
+0,NRL 2008,Round 26,"Sunday, 7th September, 2008",7:00pm (local time),14677,12,"13,875","Melbourne
+STORM",20,42,6,"South Sydney
+RABBITOHS",4,4,5
+0,NRL 2008,Qualif Final,"Friday, 12th September, 2008",7:45pm (local time),14679,1,"18,343","Sydney
+ROOSTERS",16,16,6,"Brisbane
+BRONCOS",8,24,6
+0,NRL 2008,Qualif Final,"Saturday, 13th September, 2008",6:30pm (local time),14681,9,"18,252","Cronulla Sutherland
+SHARKS",14,36,4,"Canberra
+RAIDERS",0,10,7
+0,NRL 2008,Qualif Final,"Saturday, 13th September, 2008",8:30pm (local time),14680,5,"19,227","Manly Warringah
+SEA EAGLES",20,38,8,"St George Illawarra
+DRAGONS",6,6,7
+0,NRL 2008,Qualif Final,"Sunday, 14th September, 2008",4:00pm (local time),14682,12,"15,193","Melbourne
+STORM",8,15,9,WARRIORS,8,18,12
+0,NRL 2008,Semi Final,"Friday, 19th September, 2008",8:30pm (local time),14683,6,"25,585",WARRIORS,6,30,7,"Sydney
+ROOSTERS",13,13,3
+0,NRL 2008,Semi Final,"Saturday, 20th September, 2008",7:45pm (local time),14684,1097,"50,466","Brisbane
+BRONCOS",12,14,8,"Melbourne
+STORM",0,16,4
+0,NRL 2008,Prelim Final,"Friday, 26th September, 2008",7:45pm (local time),14685,1,"27,570","Cronulla Sutherland
+SHARKS",0,0,7,"Melbourne
+STORM",16,28,5
+0,NRL 2008,Prelim Final,"Saturday, 27th September, 2008",7:45pm (local time),14686,1,"32,095","Manly Warringah
+SEA EAGLES",12,32,3,WARRIORS,0,6,5
+0,NRL 2008,Grand Final,"Sunday, 5th October, 2008",5:00pm (local time),14687,20,"80,388","Manly Warringah
+SEA EAGLES",8,40,5,"Melbourne
+STORM",0,0,4

@@ -1,0 +1,666 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,ARL 1995,Round 1,"Friday, 10th March, 1995",,363,6,"29,220","Auckland
+WARRIORS",16,22,4,"Brisbane
+BRONCOS",10,25,9
+0,ARL 1995,Round 1,"Saturday, 11th March, 1995",,364,9,"15,112","Cronulla Sutherland
+SHARKS",0,4,10,"Newcastle
+KNIGHTS",6,6,8
+0,ARL 1995,Round 1,"Saturday, 11th March, 1995",,237,14,"23,156","North Queensland
+COWBOYS",8,16,9,"Sydney
+BULLDOGS",20,32,4
+0,ARL 1995,Round 1,"Saturday, 11th March, 1995",,365,22,"21,102","South Queensland
+CRUSHERS",6,6,10,"Canberra
+RAIDERS",4,24,4
+0,ARL 1995,Round 1,"Sunday, 12th March, 1995",,367,25,"8,103","North Sydney
+BEARS",22,50,8,"Gold Coast
+SEAGULLS",6,10,6
+0,ARL 1995,Round 1,"Sunday, 12th March, 1995",,370,3,"10,340","Penrith
+PANTHERS",12,24,8,"Parramatta
+EELS",6,18,5
+0,ARL 1995,Round 1,"Sunday, 12th March, 1995",,369,1,"13,218","South Sydney
+RABBITOHS",12,18,9,"Manly Warringah
+SEA EAGLES",12,42,7
+0,ARL 1995,Round 1,"Sunday, 12th March, 1995",,366,8,"7,896","Sydney
+TIGERS",2,24,11,"Sydney City
+ROOSTERS",12,18,9
+0,ARL 1995,Round 1,"Sunday, 12th March, 1995",,368,19,"5,809","Western Suburbs
+MAGPIES",12,25,7,"Illawarra
+STEELERS",12,24,5
+0,ARL 1995,Round 1,"Sunday, 12th March, 1995",,371,32,"24,932",WESTERN REDS,16,28,10,"St George
+DRAGONS",6,16,9
+0,ARL 1995,Round 2,"Friday, 17th March, 1995",,372,13,"32,860","Brisbane
+BRONCOS",16,28,5,"Western Suburbs
+MAGPIES",2,2,8
+0,ARL 1995,Round 2,"Saturday, 18th March, 1995",,375,4,"17,868","Canberra
+RAIDERS",14,34,6,"Penrith
+PANTHERS",6,12,9
+0,ARL 1995,Round 2,"Saturday, 18th March, 1995",,373,34,"8,579","Gold Coast
+SEAGULLS",2,8,8,"Manly Warringah
+SEA EAGLES",18,28,8
+0,ARL 1995,Round 2,"Saturday, 18th March, 1995",,376,21,"12,127","Illawarra
+STEELERS",22,40,3,"Auckland
+WARRIORS",12,28,7
+0,ARL 1995,Round 2,"Saturday, 18th March, 1995",,374,8,"8,080","Parramatta
+EELS",4,26,4,"South Queensland
+CRUSHERS",2,2,12
+0,ARL 1995,Round 2,"Sunday, 19th March, 1995",,377,11,"19,615","Newcastle
+KNIGHTS",20,54,3,WESTERN REDS,10,14,11
+0,ARL 1995,Round 2,"Sunday, 19th March, 1995",,378,25,"9,133","North Sydney
+BEARS",12,44,6,"South Sydney
+RABBITOHS",6,10,7
+0,ARL 1995,Round 2,"Sunday, 19th March, 1995",,380,23,"11,258","St George
+DRAGONS",8,18,7,"Cronulla Sutherland
+SHARKS",8,32,5
+0,ARL 1995,Round 2,"Sunday, 19th March, 1995",,2,1,"6,585","Sydney City
+ROOSTERS",24,34,5,"North Queensland
+COWBOYS",10,16,5
+0,ARL 1995,Round 2,"Sunday, 19th March, 1995",,379,8,"9,987","Sydney
+TIGERS",4,12,9,"Sydney
+BULLDOGS",14,20,6
+0,ARL 1995,Round 3,"Friday, 24th March, 1995",,381,25,"20,217","North Sydney
+BEARS",0,0,6,"Manly Warringah
+SEA EAGLES",18,30,4
+0,ARL 1995,Round 3,"Saturday, 25th March, 1995",,383,9,"7,112","Cronulla Sutherland
+SHARKS",12,14,3,WESTERN REDS,6,18,9
+0,ARL 1995,Round 3,"Saturday, 25th March, 1995",,382,34,"4,296","Gold Coast
+SEAGULLS",6,28,8,"South Sydney
+RABBITOHS",6,6,8
+0,ARL 1995,Round 3,"Saturday, 25th March, 1995",,384,8,"11,071","Parramatta
+EELS",18,18,5,"Canberra
+RAIDERS",12,34,12
+0,ARL 1995,Round 3,"Sunday, 26th March, 1995",,387,6,"21,446","Auckland
+WARRIORS",18,46,8,"Western Suburbs
+MAGPIES",12,12,5
+0,ARL 1995,Round 3,"Sunday, 26th March, 1995",,388,21,"13,127","Illawarra
+STEELERS",14,20,6,"Brisbane
+BRONCOS",20,34,3
+0,ARL 1995,Round 3,"Sunday, 26th March, 1995",,385,11,"19,218","Newcastle
+KNIGHTS",6,25,7,"St George
+DRAGONS",8,20,9
+0,ARL 1995,Round 3,"Sunday, 26th March, 1995",,386,3,"8,024","Penrith
+PANTHERS",20,34,9,"South Queensland
+CRUSHERS",6,12,8
+0,ARL 1995,Round 3,"Sunday, 26th March, 1995",,389,1,"13,802","Sydney City
+ROOSTERS",6,12,11,"Sydney
+BULLDOGS",8,19,6
+0,ARL 1995,Round 3,"Sunday, 26th March, 1995",,3,8,"5,424","Sydney
+TIGERS",22,38,10,"North Queensland
+COWBOYS",4,16,11
+0,ARL 1995,Round 4,"Friday, 31st March, 1995",,390,13,"49,607","Brisbane
+BRONCOS",12,32,8,"South Queensland
+CRUSHERS",0,0,10
+0,ARL 1995,Round 4,"Friday, 31st March, 1995",,391,1,"6,518","South Sydney
+RABBITOHS",0,16,6,"Illawarra
+STEELERS",8,20,7
+0,ARL 1995,Round 4,"Friday, 31st March, 1995",,392,32,"20,985",WESTERN REDS,2,2,8,"Cronulla Sutherland
+SHARKS",8,28,5
+0,ARL 1995,Round 4,"Saturday, 1st April, 1995",,238,14,"23,561","North Queensland
+COWBOYS",8,8,5,"Canberra
+RAIDERS",6,14,2
+0,ARL 1995,Round 4,"Saturday, 1st April, 1995",,393,25,"14,683","North Sydney
+BEARS",6,48,5,"Auckland
+WARRIORS",4,10,7
+0,ARL 1995,Round 4,"Saturday, 1st April, 1995",,394,3,"12,400","Penrith
+PANTHERS",0,10,8,"Sydney City
+ROOSTERS",12,29,8
+0,ARL 1995,Round 4,"Sunday, 2nd April, 1995",,396,5,"11,635","Manly Warringah
+SEA EAGLES",20,36,6,"Gold Coast
+SEAGULLS",0,10,11
+0,ARL 1995,Round 4,"Sunday, 2nd April, 1995",,398,23,"12,242","St George
+DRAGONS",10,22,10,"Sydney
+BULLDOGS",6,18,2
+0,ARL 1995,Round 4,"Sunday, 2nd April, 1995",,395,8,"8,185","Sydney
+TIGERS",6,12,7,"Newcastle
+KNIGHTS",18,46,9
+0,ARL 1995,Round 4,"Sunday, 2nd April, 1995",,397,19,"5,432","Western Suburbs
+MAGPIES",14,32,8,"Parramatta
+EELS",6,6,9
+0,ARL 1995,Round 5,"Friday, 7th April, 1995",,399,6,"30,112","Auckland
+WARRIORS",6,14,9,"Manly Warringah
+SEA EAGLES",12,26,5
+0,ARL 1995,Round 5,"Saturday, 8th April, 1995",,402,9,"11,621","Cronulla Sutherland
+SHARKS",,30,9,"Sydney
+TIGERS",,16,2
+0,ARL 1995,Round 5,"Saturday, 8th April, 1995",,400,11,"12,358","Newcastle
+KNIGHTS",,26,6,"Penrith
+PANTHERS",,20,12
+0,ARL 1995,Round 5,"Saturday, 8th April, 1995",,239,14,"24,855","North Queensland
+COWBOYS",,12,6,"Brisbane
+BRONCOS",,20,12
+0,ARL 1995,Round 5,"Saturday, 8th April, 1995",,401,8,"7,062","Parramatta
+EELS",4,18,5,"South Sydney
+RABBITOHS",26,40,7
+0,ARL 1995,Round 5,"Saturday, 8th April, 1995",,403,35,"7,400","Sydney City
+ROOSTERS",6,16,8,"Western Suburbs
+MAGPIES",14,44,5
+0,ARL 1995,Round 5,"Sunday, 9th April, 1995",,404,4,"15,106","Canberra
+RAIDERS",,17,7,"St George
+DRAGONS",,4,11
+0,ARL 1995,Round 5,"Sunday, 9th April, 1995",,406,21,"8,538","Illawarra
+STEELERS",,34,4,"Gold Coast
+SEAGULLS",,16,4
+0,ARL 1995,Round 5,"Sunday, 9th April, 1995",,407,22,"19,233","South Queensland
+CRUSHERS",,16,9,"North Sydney
+BEARS",,12,11
+0,ARL 1995,Round 5,"Sunday, 9th April, 1995",,405,8,"7,743","Sydney
+BULLDOGS",,42,2,WESTERN REDS,,0,12
+0,ARL 1995,Round 6,"Friday, 14th April, 1995",,409,1,"15,120","South Sydney
+RABBITOHS",,8,4,"Sydney City
+ROOSTERS",,26,7
+0,ARL 1995,Round 6,"Friday, 14th April, 1995",,408,32,"15,909",WESTERN REDS,,22,7,"Sydney
+TIGERS",,6,9
+0,ARL 1995,Round 6,"Saturday, 15th April, 1995",,410,34,"4,151","Gold Coast
+SEAGULLS",,22,3,"Parramatta
+EELS",,18,6
+0,ARL 1995,Round 6,"Saturday, 15th April, 1995",,412,3,"6,317","Penrith
+PANTHERS",,8,5,"Cronulla Sutherland
+SHARKS",,11,10
+0,ARL 1995,Round 6,"Saturday, 15th April, 1995",,411,19,"4,054","Western Suburbs
+MAGPIES",,22,13,"Newcastle
+KNIGHTS",,23,7
+0,ARL 1995,Round 6,"Sunday, 16th April, 1995",,414,6,"32,174","Auckland
+WARRIORS",,38,7,"Illawarra
+STEELERS",,12,7
+0,ARL 1995,Round 6,"Sunday, 16th April, 1995",,413,5,"10,616","Manly Warringah
+SEA EAGLES",,38,7,"South Queensland
+CRUSHERS",,10,7
+0,ARL 1995,Round 6,"Sunday, 16th April, 1995",,6,25,"6,707","North Sydney
+BEARS",,60,5,"North Queensland
+COWBOYS",,6,5
+0,ARL 1995,Round 6,"Sunday, 16th April, 1995",,415,8,"20,180","Sydney
+BULLDOGS",,6,8,"Canberra
+RAIDERS",,16,10
+0,ARL 1995,Round 6,"Monday, 17th April, 1995",,416,13,"39,843","Brisbane
+BRONCOS",,36,5,"St George
+DRAGONS",,18,6
+0,ARL 1995,Round 7,"Friday, 21st April, 1995",,417,13,"44,395","Brisbane
+BRONCOS",,13,6,"Sydney
+BULLDOGS",,8,7
+0,ARL 1995,Round 7,"Saturday, 22nd April, 1995",,419,9,"12,785","Cronulla Sutherland
+SHARKS",,14,3,"Western Suburbs
+MAGPIES",,18,5
+0,ARL 1995,Round 7,"Saturday, 22nd April, 1995",,240,14,"22,167","North Queensland
+COWBOYS",,14,10,"Manly Warringah
+SEA EAGLES",,36,5
+0,ARL 1995,Round 7,"Saturday, 22nd April, 1995",,420,23,"6,423","St George
+DRAGONS",,18,10,"North Sydney
+BEARS",,6,6
+0,ARL 1995,Round 7,"Saturday, 22nd April, 1995",,418,8,"6,200","Sydney
+TIGERS",,13,5,"Penrith
+PANTHERS",,10,5
+0,ARL 1995,Round 7,"Sunday, 23rd April, 1995",,422,4,"15,102","Canberra
+RAIDERS",,28,5,WESTERN REDS,,21,11
+0,ARL 1995,Round 7,"Sunday, 23rd April, 1995",,421,11,"18,658","Newcastle
+KNIGHTS",,34,5,"South Sydney
+RABBITOHS",,16,5
+0,ARL 1995,Round 7,"Sunday, 23rd April, 1995",,425,8,"10,426","Parramatta
+EELS",,4,6,"Auckland
+WARRIORS",,40,6
+0,ARL 1995,Round 7,"Sunday, 23rd April, 1995",,424,22,"16,253","South Queensland
+CRUSHERS",,24,7,"Illawarra
+STEELERS",,24,9
+0,ARL 1995,Round 7,"Sunday, 23rd April, 1995",,423,1,"6,847","Sydney City
+ROOSTERS",,28,4,"Gold Coast
+SEAGULLS",,16,5
+0,ARL 1995,Round 8,"Friday, 28th April, 1995",,427,4,"23,740","Canberra
+RAIDERS",,26,6,"Brisbane
+BRONCOS",,0,8
+0,ARL 1995,Round 8,"Friday, 28th April, 1995",,426,32,"15,151",WESTERN REDS,,18,13,"Penrith
+PANTHERS",,16,10
+0,ARL 1995,Round 8,"Saturday, 29th April, 1995",,428,5,"10,599","Manly Warringah
+SEA EAGLES",,24,10,"St George
+DRAGONS",,6,13
+0,ARL 1995,Round 8,"Saturday, 29th April, 1995",,429,1,"8,343","South Sydney
+RABBITOHS",,0,11,"Cronulla Sutherland
+SHARKS",,24,8
+0,ARL 1995,Round 8,"Sunday, 30th April, 1995",,431,6,"29,048","Auckland
+WARRIORS",,26,7,"Sydney City
+ROOSTERS",,22,6
+0,ARL 1995,Round 8,"Sunday, 30th April, 1995",,430,34,"6,190","Gold Coast
+SEAGULLS",,20,4,"Newcastle
+KNIGHTS",,27,9
+0,ARL 1995,Round 8,"Sunday, 30th April, 1995",,8,21,"8,914","Illawarra
+STEELERS",,10,8,"North Queensland
+COWBOYS",,14,13
+0,ARL 1995,Round 8,"Sunday, 30th April, 1995",,433,22,"19,421","South Queensland
+CRUSHERS",,33,6,"Parramatta
+EELS",,14,9
+0,ARL 1995,Round 8,"Sunday, 30th April, 1995",,434,19,"8,532","Western Suburbs
+MAGPIES",,30,10,"Sydney
+TIGERS",,12,8
+0,ARL 1995,Round 8,"Sunday, 30th April, 1995",2:30pm (local time),432,8,"10,142","Sydney
+BULLDOGS",8,14,2,"North Sydney
+BEARS",6,12,9
+0,ARL 1995,Round 9,"Saturday, 6th May, 1995",,436,34,"6,826","Gold Coast
+SEAGULLS",,14,6,"Cronulla Sutherland
+SHARKS",,40,3
+0,ARL 1995,Round 9,"Saturday, 6th May, 1995",,9,8,"4,145","Parramatta
+EELS",,20,9,"North Queensland
+COWBOYS",,4,4
+0,ARL 1995,Round 9,"Saturday, 6th May, 1995",,435,23,"4,525","St George
+DRAGONS",,34,6,"Illawarra
+STEELERS",,8,6
+0,ARL 1995,Round 9,"Sunday, 7th May, 1995",,439,13,"32,192","Brisbane
+BRONCOS",,32,5,WESTERN REDS,,8,7
+0,ARL 1995,Round 9,"Sunday, 7th May, 1995",,441,11,"22,136","Newcastle
+KNIGHTS",,48,4,"Auckland
+WARRIORS",,6,6
+0,ARL 1995,Round 9,"Sunday, 7th May, 1995",,442,25,"14,685","North Sydney
+BEARS",,18,8,"Canberra
+RAIDERS",,20,10
+0,ARL 1995,Round 9,"Sunday, 7th May, 1995",,437,3,"7,382","Penrith
+PANTHERS",,33,11,"Western Suburbs
+MAGPIES",,20,8
+0,ARL 1995,Round 9,"Sunday, 7th May, 1995",,440,1,"5,556","Sydney City
+ROOSTERS",,17,8,"South Queensland
+CRUSHERS",,6,13
+0,ARL 1995,Round 9,"Sunday, 7th May, 1995",,438,8,"5,498","Sydney
+TIGERS",,18,6,"South Sydney
+RABBITOHS",,25,7
+0,ARL 1995,Round 9,"Monday, 8th May, 1995",,443,8,"18,648","Sydney
+BULLDOGS",,0,6,"Manly Warringah
+SEA EAGLES",,26,5
+0,ARL 1995,Round 10,"Friday, 12th May, 1995",,444,19,"10,020","Western Suburbs
+MAGPIES",,32,7,WESTERN REDS,,6,8
+0,ARL 1995,Round 10,"Saturday, 13th May, 1995",2:30pm (local time),445,8,"3,045","Sydney
+TIGERS",6,16,7,"Gold Coast
+SEAGULLS",8,14,8
+0,ARL 1995,Round 10,"Sunday, 14th May, 1995",,446,9,"10,142","Cronulla Sutherland
+SHARKS",,18,5,"Auckland
+WARRIORS",,23,6
+0,ARL 1995,Round 10,"Friday, 19th May, 1995",,447,25,"13,092","North Sydney
+BEARS",,9,5,"Brisbane
+BRONCOS",,18,5
+0,ARL 1995,Round 10,"Saturday, 20th May, 1995",,449,21,"8,457","Illawarra
+STEELERS",,20,6,"Sydney
+BULLDOGS",,22,5
+0,ARL 1995,Round 10,"Saturday, 20th May, 1995",,241,14,"20,860","North Queensland
+COWBOYS",,16,4,"Sydney City
+ROOSTERS",,20,6
+0,ARL 1995,Round 10,"Saturday, 20th May, 1995",,448,1,"6,798","South Sydney
+RABBITOHS",,10,6,"Penrith
+PANTHERS",,42,7
+0,ARL 1995,Round 10,"Sunday, 21st May, 1995",,450,4,"24,781","Canberra
+RAIDERS",,8,7,"Manly Warringah
+SEA EAGLES",,16,9
+0,ARL 1995,Round 10,"Sunday, 21st May, 1995",,452,23,"8,211","St George
+DRAGONS",,56,11,"Parramatta
+EELS",,6,6
+0,ARL 1995,Round 10,"Sunday, 21st May, 1995",,451,22,"21,072","South Queensland
+CRUSHERS",,28,7,"Newcastle
+KNIGHTS",,18,10
+0,ARL 1995,Round 11,"Friday, 26th May, 1995",,453,8,"8,079","Parramatta
+EELS",,22,8,"Sydney
+BULLDOGS",,16,5
+0,ARL 1995,Round 11,"Saturday, 27th May, 1995",,454,1,"4,685","South Sydney
+RABBITOHS",,20,9,"Western Suburbs
+MAGPIES",,34,11
+0,ARL 1995,Round 11,"Sunday, 28th May, 1995",,455,3,"5,161","Penrith
+PANTHERS",,48,4,"Gold Coast
+SEAGULLS",,24,3
+0,ARL 1995,Round 11,"Friday, 2nd June, 1995",7:30pm (local time),456,21,"10,219","Illawarra
+STEELERS",,6,9,"Canberra
+RAIDERS",,18,5
+0,ARL 1995,Round 11,"Saturday, 3rd June, 1995",2:30pm (local time),457,1,"11,941","Sydney City
+ROOSTERS",9,18,9,"St George
+DRAGONS",8,14,7
+0,ARL 1995,Round 11,"Sunday, 4th June, 1995",,458,6,"28,713","Auckland
+WARRIORS",,36,9,"Sydney
+TIGERS",,12,8
+0,ARL 1995,Round 11,"Sunday, 4th June, 1995",,459,5,"25,549","Manly Warringah
+SEA EAGLES",,23,9,"Brisbane
+BRONCOS",,4,4
+0,ARL 1995,Round 11,"Sunday, 4th June, 1995",,11,11,"15,577","Newcastle
+KNIGHTS",,44,9,"North Queensland
+COWBOYS",,14,4
+0,ARL 1995,Round 11,"Sunday, 4th June, 1995",,460,22,"22,258","South Queensland
+CRUSHERS",,4,7,"Cronulla Sutherland
+SHARKS",,20,8
+0,ARL 1995,Round 11,"Monday, 5th June, 1995",,461,32,"10,750",WESTERN REDS,,12,4,"North Sydney
+BEARS",,52,5
+0,ARL 1995,Round 12,"Friday, 9th June, 1995",,462,8,"6,938","Sydney
+BULLDOGS",,22,3,"Sydney City
+ROOSTERS",,14,10
+0,ARL 1995,Round 12,"Saturday, 10th June, 1995",,12,9,"5,128","Cronulla Sutherland
+SHARKS",,34,3,"North Queensland
+COWBOYS",,10,3
+0,ARL 1995,Round 12,"Sunday, 11th June, 1995",,464,4,"8,905","Canberra
+RAIDERS",,50,7,"Parramatta
+EELS",,12,8
+0,ARL 1995,Round 12,"Sunday, 11th June, 1995",,463,34,"7,213","Gold Coast
+SEAGULLS",,16,8,"Western Suburbs
+MAGPIES",,26,11
+0,ARL 1995,Round 12,"Friday, 16th June, 1995",,466,33,"8,987","St George
+DRAGONS",,13,3,"Newcastle
+KNIGHTS",,24,7
+0,ARL 1995,Round 12,"Friday, 16th June, 1995",,465,32,"10,442",WESTERN REDS,,18,7,"South Sydney
+RABBITOHS",,14,10
+0,ARL 1995,Round 12,"Saturday, 17th June, 1995",,467,8,"3,225","Sydney
+TIGERS",,16,12,"South Queensland
+CRUSHERS",,12,10
+0,ARL 1995,Round 12,"Sunday, 18th June, 1995",,469,6,"24,723","Auckland
+WARRIORS",,16,12,"Penrith
+PANTHERS",,34,6
+0,ARL 1995,Round 12,"Sunday, 18th June, 1995",,470,13,"31,106","Brisbane
+BRONCOS",,18,6,"Illawarra
+STEELERS",,34,5
+0,ARL 1995,Round 12,"Sunday, 18th June, 1995",,468,5,"20,446","Manly Warringah
+SEA EAGLES",,36,4,"North Sydney
+BEARS",,6,7
+0,ARL 1995,Round 13,"Saturday, 24th June, 1995",,471,9,"16,724","Cronulla Sutherland
+SHARKS",,10,7,"St George
+DRAGONS",,20,17
+0,ARL 1995,Round 13,"Saturday, 24th June, 1995",,242,14,"20,113","North Queensland
+COWBOYS",,14,13,"Sydney
+TIGERS",,28,7
+0,ARL 1995,Round 13,"Saturday, 24th June, 1995",2:30pm (local time),472,1,"10,701","Sydney City
+ROOSTERS",4,16,4,"Canberra
+RAIDERS",12,17,2
+0,ARL 1995,Round 13,"Sunday, 25th June, 1995",,473,21,"9,418","Illawarra
+STEELERS",,6,5,"North Sydney
+BEARS",,16,6
+0,ARL 1995,Round 13,"Sunday, 25th June, 1995",,474,5,"12,655","Manly Warringah
+SEA EAGLES",,44,5,WESTERN REDS,,24,10
+0,ARL 1995,Round 13,"Sunday, 25th June, 1995",,479,11,"25,229","Newcastle
+KNIGHTS",,42,7,"Sydney
+BULLDOGS",,0,5
+0,ARL 1995,Round 13,"Sunday, 25th June, 1995",,478,8,"9,058","Parramatta
+EELS",,14,6,"Brisbane
+BRONCOS",,60,8
+0,ARL 1995,Round 13,"Sunday, 25th June, 1995",,476,22,"19,753","South Queensland
+CRUSHERS",,28,5,"Penrith
+PANTHERS",,8,6
+0,ARL 1995,Round 13,"Sunday, 25th June, 1995",,475,1,"4,270","South Sydney
+RABBITOHS",,2,5,"Gold Coast
+SEAGULLS",,22,4
+0,ARL 1995,Round 13,"Sunday, 25th June, 1995",,477,19,"10,700","Western Suburbs
+MAGPIES",,12,12,"Auckland
+WARRIORS",,16,9
+0,ARL 1995,Round 14,"Friday, 30th June, 1995",,480,4,"11,275","Canberra
+RAIDERS",,39,10,"Newcastle
+KNIGHTS",,4,9
+0,ARL 1995,Round 14,"Saturday, 1st July, 1995",,481,34,"6,331","Gold Coast
+SEAGULLS",,20,1,WESTERN REDS,,28,6
+0,ARL 1995,Round 14,"Saturday, 1st July, 1995",,482,5,"10,314","Manly Warringah
+SEA EAGLES",,18,10,"Illawarra
+STEELERS",,12,3
+0,ARL 1995,Round 14,"Saturday, 1st July, 1995",,14,3,"5,774","Penrith
+PANTHERS",,40,4,"North Queensland
+COWBOYS",,10,8
+0,ARL 1995,Round 14,"Saturday, 1st July, 1995",,483,1,"6,954","South Sydney
+RABBITOHS",,20,7,"Auckland
+WARRIORS",,38,5
+0,ARL 1995,Round 14,"Saturday, 1st July, 1995",,484,19,"4,707","Western Suburbs
+MAGPIES",,38,11,"South Queensland
+CRUSHERS",,14,11
+0,ARL 1995,Round 14,"Sunday, 2nd July, 1995",,486,13,"30,732","Brisbane
+BRONCOS",,36,4,"Sydney City
+ROOSTERS",,20,5
+0,ARL 1995,Round 14,"Sunday, 2nd July, 1995",,485,25,"8,785","North Sydney
+BEARS",,36,1,"Parramatta
+EELS",,4,5
+0,ARL 1995,Round 14,"Sunday, 2nd July, 1995",,488,23,"10,721","St George
+DRAGONS",,34,10,"Sydney
+TIGERS",,6,8
+0,ARL 1995,Round 14,"Sunday, 2nd July, 1995",,487,8,"8,754","Sydney
+BULLDOGS",,26,3,"Cronulla Sutherland
+SHARKS",,12,6
+0,ARL 1995,Round 15,"Saturday, 8th July, 1995",,492,9,"14,860","Cronulla Sutherland
+SHARKS",,38,7,"Canberra
+RAIDERS",,12,7
+0,ARL 1995,Round 15,"Saturday, 8th July, 1995",,243,14,"18,112","North Queensland
+COWBOYS",,31,7,"Western Suburbs
+MAGPIES",,12,6
+0,ARL 1995,Round 15,"Saturday, 8th July, 1995",,489,8,"6,949","Sydney
+BULLDOGS",4,12,10,"Sydney
+TIGERS",0,0,5
+0,ARL 1995,Round 15,"Saturday, 8th July, 1995",,490,1,"9,190","Sydney City
+ROOSTERS",,24,8,"North Sydney
+BEARS",,28,9
+0,ARL 1995,Round 15,"Saturday, 8th July, 1995",,491,32,"8,102",WESTERN REDS,,28,9,"Illawarra
+STEELERS",,10,3
+0,ARL 1995,Round 15,"Sunday, 9th July, 1995",,494,6,"20,493","Auckland
+WARRIORS",,44,4,"Gold Coast
+SEAGULLS",,16,3
+0,ARL 1995,Round 15,"Sunday, 9th July, 1995",,497,11,"29,359","Newcastle
+KNIGHTS",,32,10,"Brisbane
+BRONCOS",,10,7
+0,ARL 1995,Round 15,"Sunday, 9th July, 1995",,495,8,"12,181","Parramatta
+EELS",,6,11,"Manly Warringah
+SEA EAGLES",,28,6
+0,ARL 1995,Round 15,"Sunday, 9th July, 1995",,493,3,"10,541","Penrith
+PANTHERS",,32,4,"St George
+DRAGONS",,24,9
+0,ARL 1995,Round 15,"Sunday, 9th July, 1995",,496,22,"19,288","South Queensland
+CRUSHERS",,20,10,"South Sydney
+RABBITOHS",,24,8
+0,ARL 1995,Round 16,"Saturday, 15th July, 1995",,498,34,"6,731","Gold Coast
+SEAGULLS",,8,5,"South Queensland
+CRUSHERS",,14,10
+0,ARL 1995,Round 16,"Saturday, 15th July, 1995",,499,25,"11,139","North Sydney
+BEARS",,12,8,"Newcastle
+KNIGHTS",,19,8
+0,ARL 1995,Round 16,"Saturday, 15th July, 1995",,16,1,"4,225","South Sydney
+RABBITOHS",,30,8,"North Queensland
+COWBOYS",,16,10
+0,ARL 1995,Round 16,"Sunday, 16th July, 1995",,501,6,"19,244","Auckland
+WARRIORS",,34,7,WESTERN REDS,,10,8
+0,ARL 1995,Round 16,"Sunday, 16th July, 1995",,502,13,"28,844","Brisbane
+BRONCOS",,22,3,"Cronulla Sutherland
+SHARKS",,36,5
+0,ARL 1995,Round 16,"Sunday, 16th July, 1995",,504,4,"10,291","Canberra
+RAIDERS",,28,5,"Sydney
+TIGERS",,10,8
+0,ARL 1995,Round 16,"Sunday, 16th July, 1995",,500,21,"7,780","Illawarra
+STEELERS",,52,6,"Parramatta
+EELS",,12,11
+0,ARL 1995,Round 16,"Sunday, 16th July, 1995",,505,5,"15,842","Manly Warringah
+SEA EAGLES",,16,14,"Sydney City
+ROOSTERS",,21,9
+0,ARL 1995,Round 16,"Sunday, 16th July, 1995",,503,8,"8,437","Sydney
+BULLDOGS",,20,11,"Penrith
+PANTHERS",,14,7
+0,ARL 1995,Round 16,"Sunday, 16th July, 1995",,506,24,"18,368","Western Suburbs
+MAGPIES",,12,7,"St George
+DRAGONS",,25,11
+0,ARL 1995,Round 17,"Friday, 21st July, 1995",,507,11,"32,642","Newcastle
+KNIGHTS",14,18,7,"Manly Warringah
+SEA EAGLES",20,34,7
+0,ARL 1995,Round 17,"Friday, 21st July, 1995",,508,32,"8,462",WESTERN REDS,14,24,8,"Parramatta
+EELS",4,14,6
+0,ARL 1995,Round 17,"Saturday, 22nd July, 1995",,509,9,"12,180","Cronulla Sutherland
+SHARKS",8,22,7,"North Sydney
+BEARS",4,10,8
+0,ARL 1995,Round 17,"Saturday, 22nd July, 1995",,244,14,"20,067","North Queensland
+COWBOYS",8,8,5,"Gold Coast
+SEAGULLS",4,10,5
+0,ARL 1995,Round 17,"Saturday, 22nd July, 1995",,510,19,"6,173","Western Suburbs
+MAGPIES",8,18,9,"Sydney
+BULLDOGS",2,14,11
+0,ARL 1995,Round 17,"Sunday, 23rd July, 1995",,515,3,"12,223","Penrith
+PANTHERS",0,12,5,"Canberra
+RAIDERS",10,24,7
+0,ARL 1995,Round 17,"Sunday, 23rd July, 1995",,511,23,"8,555","St George
+DRAGONS",26,46,5,"South Sydney
+RABBITOHS",4,12,3
+0,ARL 1995,Round 17,"Sunday, 23rd July, 1995",,514,22,"28,928","South Queensland
+CRUSHERS",4,10,6,"Auckland
+WARRIORS",16,22,10
+0,ARL 1995,Round 17,"Sunday, 23rd July, 1995",,513,1,"8,974","Sydney City
+ROOSTERS",,6,5,"Illawarra
+STEELERS",,28,10
+0,ARL 1995,Round 17,"Sunday, 23rd July, 1995",,512,8,"6,044","Sydney
+TIGERS",12,18,8,"Brisbane
+BRONCOS",18,40,7
+0,ARL 1995,Round 18,"Friday, 28th July, 1995",7:30pm (local time),517,5,"18,045","Manly Warringah
+SEA EAGLES",4,10,8,"Cronulla Sutherland
+SHARKS",10,17,4
+0,ARL 1995,Round 18,"Friday, 28th July, 1995",7:30pm (local time),516,32,"9,103",WESTERN REDS,12,22,5,"South Queensland
+CRUSHERS",0,14,12
+0,ARL 1995,Round 18,"Saturday, 29th July, 1995",2:30pm (local time),518,4,"12,304","Canberra
+RAIDERS",14,50,5,"Western Suburbs
+MAGPIES",6,18,12
+0,ARL 1995,Round 18,"Saturday, 29th July, 1995",7:40pm (local time),245,14,"23,521","North Queensland
+COWBOYS",0,10,6,"Auckland
+WARRIORS",0,28,6
+0,ARL 1995,Round 18,"Saturday, 29th July, 1995",7:40pm (local time),519,8,"4,688","Sydney
+BULLDOGS",30,46,7,"South Sydney
+RABBITOHS",0,10,7
+0,ARL 1995,Round 18,"Sunday, 30th July, 1995",2:30pm (local time),521,13,"25,902","Brisbane
+BRONCOS",0,17,7,"Penrith
+PANTHERS",4,12,7
+0,ARL 1995,Round 18,"Sunday, 30th July, 1995",2:30pm (local time),520,21,"10,098","Illawarra
+STEELERS",14,28,9,"Newcastle
+KNIGHTS",0,6,9
+0,ARL 1995,Round 18,"Sunday, 30th July, 1995",2:30pm (local time),523,25,"7,906","North Sydney
+BEARS",18,36,7,"Sydney
+TIGERS",0,4,4
+0,ARL 1995,Round 18,"Sunday, 30th July, 1995",2:30pm (local time),524,8,"6,158","Parramatta
+EELS",12,20,4,"Sydney City
+ROOSTERS",18,26,6
+0,ARL 1995,Round 18,"Sunday, 30th July, 1995",2:30pm (local time),522,23,"6,247","St George
+DRAGONS",30,46,6,"Gold Coast
+SEAGULLS",4,16,7
+0,ARL 1995,Round 19,"Friday, 4th August, 1995",,525,19,"11,100","Western Suburbs
+MAGPIES",4,18,7,"Brisbane
+BRONCOS",14,28,7
+0,ARL 1995,Round 19,"Friday, 4th August, 1995",,526,32,"11,255",WESTERN REDS,6,6,3,"Sydney City
+ROOSTERS",12,25,9
+0,ARL 1995,Round 19,"Saturday, 5th August, 1995",,527,3,"5,323","Penrith
+PANTHERS",6,6,4,"North Sydney
+BEARS",12,25,5
+0,ARL 1995,Round 19,"Sunday, 6th August, 1995",,529,6,"28,973","Auckland
+WARRIORS",8,14,9,"St George
+DRAGONS",14,47,6
+0,ARL 1995,Round 19,"Sunday, 6th August, 1995",,531,9,"10,114","Cronulla Sutherland
+SHARKS",8,24,6,"Illawarra
+STEELERS",10,14,3
+0,ARL 1995,Round 19,"Sunday, 6th August, 1995",,533,34,"5,859","Gold Coast
+SEAGULLS",6,20,6,"Sydney
+BULLDOGS",18,32,3
+0,ARL 1995,Round 19,"Sunday, 6th August, 1995",,528,11,"17,298","Newcastle
+KNIGHTS",12,19,9,"Parramatta
+EELS",6,12,6
+0,ARL 1995,Round 19,"Sunday, 6th August, 1995",,19,22,"17,105","South Queensland
+CRUSHERS",0,22,9,"North Queensland
+COWBOYS",4,6,7
+0,ARL 1995,Round 19,"Sunday, 6th August, 1995",,532,1,"7,566","South Sydney
+RABBITOHS",8,12,4,"Canberra
+RAIDERS",24,46,4
+0,ARL 1995,Round 19,"Sunday, 6th August, 1995",,530,8,"8,612","Sydney
+TIGERS",6,10,4,"Manly Warringah
+SEA EAGLES",20,56,5
+0,ARL 1995,Round 20,"Friday, 11th August, 1995",,534,8,"10,416","Sydney
+BULLDOGS",4,8,5,"Auckland
+WARRIORS",16,29,9
+0,ARL 1995,Round 20,"Saturday, 12th August, 1995",,246,14,"19,675","North Queensland
+COWBOYS",6,10,6,WESTERN REDS,12,12,7
+0,ARL 1995,Round 20,"Saturday, 12th August, 1995",,535,25,"12,201","North Sydney
+BEARS",20,32,4,"Western Suburbs
+MAGPIES",0,16,9
+0,ARL 1995,Round 20,"Saturday, 12th August, 1995",,536,1,"11,972","Sydney City
+ROOSTERS",6,26,4,"Newcastle
+KNIGHTS",8,12,5
+0,ARL 1995,Round 20,"Sunday, 13th August, 1995",,539,13,"24,801","Brisbane
+BRONCOS",28,56,4,"South Sydney
+RABBITOHS",6,6,7
+0,ARL 1995,Round 20,"Sunday, 13th August, 1995",,540,4,"14,031","Canberra
+RAIDERS",18,56,5,"Gold Coast
+SEAGULLS",6,6,10
+0,ARL 1995,Round 20,"Sunday, 13th August, 1995",,541,21,"8,257","Illawarra
+STEELERS",10,32,7,"Sydney
+TIGERS",0,6,1
+0,ARL 1995,Round 20,"Sunday, 13th August, 1995",,537,5,"12,250","Manly Warringah
+SEA EAGLES",24,54,4,"Penrith
+PANTHERS",10,26,5
+0,ARL 1995,Round 20,"Sunday, 13th August, 1995",,542,8,"9,016","Parramatta
+EELS",0,18,2,"Cronulla Sutherland
+SHARKS",30,48,6
+0,ARL 1995,Round 20,"Sunday, 13th August, 1995",,538,23,"9,091","St George
+DRAGONS",6,16,10,"South Queensland
+CRUSHERS",6,6,7
+0,ARL 1995,Round 21,"Friday, 18th August, 1995",,543,6,"29,500","Auckland
+WARRIORS",8,8,4,"Canberra
+RAIDERS",6,15,7
+0,ARL 1995,Round 21,"Friday, 18th August, 1995",,544,32,"12,201",WESTERN REDS,6,22,10,"Newcastle
+KNIGHTS",4,8,5
+0,ARL 1995,Round 21,"Saturday, 19th August, 1995",,545,19,"9,216","Western Suburbs
+MAGPIES",8,12,7,"Manly Warringah
+SEA EAGLES",24,34,5
+0,ARL 1995,Round 21,"Sunday, 20th August, 1995",,547,9,"15,136","Cronulla Sutherland
+SHARKS",12,16,3,"Sydney City
+ROOSTERS",0,4,10
+0,ARL 1995,Round 21,"Sunday, 20th August, 1995",,550,34,"11,650","Gold Coast
+SEAGULLS",18,20,8,"Brisbane
+BRONCOS",10,27,8
+0,ARL 1995,Round 21,"Sunday, 20th August, 1995",,247,14,"22,283","North Queensland
+COWBOYS",8,14,8,"St George
+DRAGONS",22,50,6
+0,ARL 1995,Round 21,"Sunday, 20th August, 1995",,548,3,"4,761","Penrith
+PANTHERS",6,22,7,"Illawarra
+STEELERS",21,39,9
+0,ARL 1995,Round 21,"Sunday, 20th August, 1995",,551,22,"26,904","South Queensland
+CRUSHERS",6,18,7,"Sydney
+BULLDOGS",12,25,8
+0,ARL 1995,Round 21,"Sunday, 20th August, 1995",,549,1,"7,106","South Sydney
+RABBITOHS",4,16,5,"North Sydney
+BEARS",6,16,5
+0,ARL 1995,Round 21,"Sunday, 20th August, 1995",,546,8,"7,715","Sydney
+TIGERS",12,26,4,"Parramatta
+EELS",8,16,9
+0,ARL 1995,Round 22,"Friday, 25th August, 1995",,552,11,"21,280","Newcastle
+KNIGHTS",10,14,8,"Cronulla Sutherland
+SHARKS",10,24,2
+0,ARL 1995,Round 22,"Saturday, 26th August, 1995",2:30pm (local time),553,23,"13,551","St George
+DRAGONS",20,36,7,WESTERN REDS,6,18,9
+0,ARL 1995,Round 22,"Sunday, 27th August, 1995",,558,4,"19,107","Canberra
+RAIDERS",22,58,5,"South Queensland
+CRUSHERS",0,4,6
+0,ARL 1995,Round 22,"Sunday, 27th August, 1995",,554,34,"6,780","Gold Coast
+SEAGULLS",6,14,9,"North Sydney
+BEARS",0,14,9
+0,ARL 1995,Round 22,"Sunday, 27th August, 1995",,555,21,"9,230","Illawarra
+STEELERS",26,46,4,"Western Suburbs
+MAGPIES",6,6,6
+0,ARL 1995,Round 22,"Sunday, 27th August, 1995",,556,5,"13,995","Manly Warringah
+SEA EAGLES",18,32,9,"South Sydney
+RABBITOHS",0,4,6
+0,ARL 1995,Round 22,"Sunday, 27th August, 1995",,557,8,"6,020","Parramatta
+EELS",2,12,7,"Penrith
+PANTHERS",18,18,6
+0,ARL 1995,Round 22,"Sunday, 27th August, 1995",,22,27,"18,818","Sydney
+BULLDOGS",20,66,6,"North Queensland
+COWBOYS",4,4,7
+0,ARL 1995,Round 22,"Sunday, 27th August, 1995",,560,1,"8,100","Sydney City
+ROOSTERS",18,44,9,"Sydney
+TIGERS",2,6,2
+0,ARL 1995,Round 22,"Sunday, 27th August, 1995",2:30pm (local time),559,13,"54,645","Brisbane
+BRONCOS",28,44,5,"Auckland
+WARRIORS",0,6,6
+0,ARL 1995,Qualif Final,"Friday, 1st September, 1995",,561,8,"14,174","Newcastle
+KNIGHTS",10,20,3,"North Sydney
+BEARS",6,10,5
+0,ARL 1995,Qualif Final,"Saturday, 2nd September, 1995",,562,22,"40,187","Canberra
+RAIDERS",7,14,6,"Brisbane
+BRONCOS",6,8,4
+0,ARL 1995,Qualif Final,"Saturday, 2nd September, 1995",,563,1,"26,835","Sydney
+BULLDOGS",4,12,8,"St George
+DRAGONS",8,8,5
+0,ARL 1995,Qualif Final,"Sunday, 3rd September, 1995",,564,1,"32,795","Manly Warringah
+SEA EAGLES",8,24,6,"Cronulla Sutherland
+SHARKS",14,20,6
+0,ARL 1995,Semi Final,"Saturday, 9th September, 1995",,565,1,"26,061","Newcastle
+KNIGHTS",6,19,7,"Cronulla Sutherland
+SHARKS",12,18,8
+0,ARL 1995,Semi Final,"Sunday, 10th September, 1995",,566,1,"34,087","Sydney
+BULLDOGS",14,24,4,"Brisbane
+BRONCOS",4,10,6
+0,ARL 1995,Prelim Final,"Saturday, 16th September, 1995",,567,1,"36,894","Sydney
+BULLDOGS",11,25,8,"Canberra
+RAIDERS",0,6,8
+0,ARL 1995,Prelim Final,"Sunday, 17th September, 1995",,568,1,"38,874","Manly Warringah
+SEA EAGLES",6,12,5,"Newcastle
+KNIGHTS",4,4,6
+0,ARL 1995,Grand Final,"Sunday, 24th September, 1995",,569,1,"41,127","Sydney
+BULLDOGS",6,17,10,"Manly Warringah
+SEA EAGLES",4,4,9

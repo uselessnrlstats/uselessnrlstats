@@ -1,0 +1,465 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2001,Round 1,"Saturday, 17th February, 2001",6:30pm (local time),1578,20,"54,833","Penrith
+PANTHERS",0,4,4,"Parramatta
+EELS",28,40,6
+0,NRL 2001,Round 1,"Saturday, 17th February, 2001",8:30pm (local time),1579,20,"54,833",WESTS TIGERS,4,16,9,"Sydney
+ROOSTERS",20,30,4
+0,NRL 2001,Round 1,"Saturday, 17th February, 2001",8:30pm (local time),304,14,"21,729","North Queensland
+COWBOYS",10,17,8,"Brisbane
+BRONCOS",4,18,5
+0,NRL 2001,Round 1,"Sunday, 18th February, 2001",2:00pm (local time),1583,30,"15,070","Melbourne
+STORM",2,10,7,BULLDOGS,8,14,3
+0,NRL 2001,Round 1,"Sunday, 18th February, 2001",4:00pm (local time),1582,6,"11,134","New Zealand
+WARRIORS",0,8,11,"Canberra
+RAIDERS",14,24,12
+0,NRL 2001,Round 1,"Sunday, 18th February, 2001",4:00pm (local time),1581,9,"18,109",SHARKS,0,6,8,"St George Illawarra
+DRAGONS",14,30,5
+0,NRL 2001,Round 1,"Sunday, 18th February, 2001",6:00pm (local time),1580,11,"18,840","Newcastle
+KNIGHTS",2,10,6,NORTHERN EAGLES,0,12,9
+0,NRL 2001,Round 2,"Friday, 23rd February, 2001",7:30pm (local time),1584,1,"14,112","Sydney
+ROOSTERS",12,18,8,"Newcastle
+KNIGHTS",12,25,8
+0,NRL 2001,Round 2,"Saturday, 24th February, 2001",5:30pm (local time),1585,8,"13,033","Parramatta
+EELS",8,12,12,SHARKS,12,13,11
+0,NRL 2001,Round 2,"Saturday, 24th February, 2001",6:30pm (local time),1586,13,"17,345","Brisbane
+BRONCOS",18,38,8,"Penrith
+PANTHERS",10,22,5
+0,NRL 2001,Round 2,"Saturday, 24th February, 2001",7:30pm (local time),137,30,"12,321","Melbourne
+STORM",6,28,8,"North Queensland
+COWBOYS",22,32,9
+0,NRL 2001,Round 2,"Sunday, 25th February, 2001",4:00pm (local time),1587,4,"11,685","Canberra
+RAIDERS",12,18,5,BULLDOGS,6,28,6
+0,NRL 2001,Round 2,"Sunday, 25th February, 2001",4:00pm (local time),1588,26,"8,012",NORTHERN EAGLES,6,16,7,"New Zealand
+WARRIORS",12,24,6
+0,NRL 2001,Round 2,"Sunday, 25th February, 2001",6:00pm (local time),1589,1,"12,842","St George Illawarra
+DRAGONS",16,24,6,WESTS TIGERS,10,26,8
+0,NRL 2001,Round 3,"Friday, 2nd March, 2001",7:30pm (local time),1590,8,"18,119","Parramatta
+EELS",12,26,5,"Brisbane
+BRONCOS",6,18,3
+0,NRL 2001,Round 3,"Saturday, 3rd March, 2001",5:30pm (local time),1592,9,"8,873",SHARKS,8,18,6,"Canberra
+RAIDERS",8,12,6
+0,NRL 2001,Round 3,"Saturday, 3rd March, 2001",7:30pm (local time),1591,21,"9,480","St George Illawarra
+DRAGONS",12,16,7,"Melbourne
+STORM",10,20,4
+0,NRL 2001,Round 3,"Saturday, 3rd March, 2001",8:30pm (local time),305,14,"19,263","North Queensland
+COWBOYS",0,8,5,"Sydney
+ROOSTERS",6,32,7
+0,NRL 2001,Round 3,"Sunday, 4th March, 2001",4:00pm (local time),1594,3,"12,003","Penrith
+PANTHERS",18,34,8,NORTHERN EAGLES,24,42,10
+0,NRL 2001,Round 3,"Sunday, 4th March, 2001",4:00pm (local time),1593,19,"8,899",WESTS TIGERS,14,29,12,"New Zealand
+WARRIORS",6,10,5
+0,NRL 2001,Round 3,"Sunday, 4th March, 2001",6:00pm (local time),1595,10,"18,109",BULLDOGS,12,28,6,"Newcastle
+KNIGHTS",14,28,9
+0,NRL 2001,Round 4,"Friday, 9th March, 2001",7:30pm (local time),1596,6,"8,730","New Zealand
+WARRIORS",8,34,10,"St George Illawarra
+DRAGONS",6,6,4
+0,NRL 2001,Round 4,"Friday, 9th March, 2001",7:30pm (local time),1597,11,"11,861","Newcastle
+KNIGHTS",26,32,6,"Parramatta
+EELS",2,14,8
+0,NRL 2001,Round 4,"Saturday, 10th March, 2001",4:30pm (local time),1599,13,"12,484","Brisbane
+BRONCOS",18,24,10,WESTS TIGERS,2,6,6
+0,NRL 2001,Round 4,"Saturday, 10th March, 2001",7:30pm (local time),1598,10,"14,302",BULLDOGS,20,38,9,NORTHERN EAGLES,0,18,7
+0,NRL 2001,Round 4,"Saturday, 10th March, 2001",8:30pm (local time),139,29,"13,500","North Queensland
+COWBOYS",6,18,6,"Penrith
+PANTHERS",18,32,6
+0,NRL 2001,Round 4,"Sunday, 11th March, 2001",4:00pm (local time),1601,30,"10,428","Melbourne
+STORM",12,34,9,SHARKS,6,24,5
+0,NRL 2001,Round 4,"Sunday, 11th March, 2001",6:00pm (local time),1600,1,"7,426","Sydney
+ROOSTERS",2,24,8,"Canberra
+RAIDERS",11,17,6
+0,NRL 2001,Round 5,"Friday, 16th March, 2001",7:30pm (local time),1602,13,"22,546","Brisbane
+BRONCOS",14,42,7,"Newcastle
+KNIGHTS",8,8,6
+0,NRL 2001,Round 5,"Saturday, 17th March, 2001",5:30pm (local time),1603,5,"9,146",NORTHERN EAGLES,18,31,4,"Sydney
+ROOSTERS",14,30,5
+0,NRL 2001,Round 5,"Saturday, 17th March, 2001",7:30pm (local time),1604,3,"16,010","Penrith
+PANTHERS",10,20,9,BULLDOGS,14,32,5
+0,NRL 2001,Round 5,"Saturday, 17th March, 2001",7:30pm (local time),140,9,"10,250",SHARKS,6,24,8,"North Queensland
+COWBOYS",10,16,6
+0,NRL 2001,Round 5,"Sunday, 18th March, 2001",4:00pm (local time),1605,8,"12,141","Parramatta
+EELS",14,30,6,"New Zealand
+WARRIORS",6,24,7
+0,NRL 2001,Round 5,"Sunday, 18th March, 2001",4:00pm (local time),1607,7,"11,206",WESTS TIGERS,22,40,9,"Melbourne
+STORM",10,10,4
+0,NRL 2001,Round 5,"Sunday, 18th March, 2001",6:00pm (local time),1606,4,"10,187","Canberra
+RAIDERS",14,32,4,"St George Illawarra
+DRAGONS",12,22,5
+0,NRL 2001,Round 6,"Friday, 23rd March, 2001",7:30pm (local time),1608,1,"10,429","St George Illawarra
+DRAGONS",24,48,9,NORTHERN EAGLES,0,18,9
+0,NRL 2001,Round 6,"Saturday, 24th March, 2001",8:30pm (local time),1609,6,"13,921","New Zealand
+WARRIORS",12,13,7,"Brisbane
+BRONCOS",6,12,3
+0,NRL 2001,Round 6,"Saturday, 24th March, 2001",7:30pm (local time),1610,3,"14,069","Penrith
+PANTHERS",12,12,3,SHARKS,12,31,9
+0,NRL 2001,Round 6,"Saturday, 24th March, 2001",8:30pm (local time),306,14,"12,357","North Queensland
+COWBOYS",20,24,11,WESTS TIGERS,4,10,7
+0,NRL 2001,Round 6,"Sunday, 25th March, 2001",2:00pm (local time),1611,4,"12,405","Canberra
+RAIDERS",14,22,10,"Parramatta
+EELS",0,6,3
+0,NRL 2001,Round 6,"Sunday, 25th March, 2001",2:00pm (local time),1613,30,"10,757","Melbourne
+STORM",0,28,3,"Newcastle
+KNIGHTS",30,36,2
+0,NRL 2001,Round 6,"Sunday, 25th March, 2001",2:00pm (local time),1612,1,"15,251","Sydney
+ROOSTERS",14,38,8,BULLDOGS,6,12,10
+0,NRL 2001,Round 7,"Friday, 30th March, 2001",7:30pm (local time),1614,10,"16,642",BULLDOGS,6,6,3,"Brisbane
+BRONCOS",12,34,5
+0,NRL 2001,Round 7,"Saturday, 31st March, 2001",5:30pm (local time),1615,11,"15,894","Newcastle
+KNIGHTS",21,45,8,"New Zealand
+WARRIORS",8,24,8
+0,NRL 2001,Round 7,"Saturday, 31st March, 2001",7:30pm (local time),1616,8,"12,078","Parramatta
+EELS",18,42,6,"Melbourne
+STORM",0,18,4
+0,NRL 2001,Round 7,"Sunday, 1st April, 2001",2:00pm (local time),1618,26,"10,968",NORTHERN EAGLES,0,22,4,SHARKS,22,28,5
+0,NRL 2001,Round 7,"Sunday, 1st April, 2001",2:00pm (local time),142,21,"9,583","St George Illawarra
+DRAGONS",36,48,4,"North Queensland
+COWBOYS",0,12,4
+0,NRL 2001,Round 7,"Sunday, 1st April, 2001",2:00pm (local time),1617,19,"6,795",WESTS TIGERS,12,26,7,"Canberra
+RAIDERS",14,24,4
+0,NRL 2001,Round 7,"Monday, 2nd April, 2001",7:30pm (local time),1619,1,"9,878","Sydney
+ROOSTERS",6,10,8,"Penrith
+PANTHERS",22,24,9
+0,NRL 2001,Round 8,"Friday, 6th April, 2001",7:30pm (local time),1620,5,"9,304",NORTHERN EAGLES,20,38,7,WESTS TIGERS,18,22,6
+0,NRL 2001,Round 8,"Saturday, 7th April, 2001",7:30pm (local time),1622,18,"27,724",BULLDOGS,14,24,3,"New Zealand
+WARRIORS",2,24,3
+0,NRL 2001,Round 8,"Saturday, 7th April, 2001",7:30pm (local time),307,14,"12,949","North Queensland
+COWBOYS",4,14,6,"Parramatta
+EELS",12,14,9
+0,NRL 2001,Round 8,"Saturday, 7th April, 2001",7:30pm (local time),1621,9,"15,113",SHARKS,13,13,6,"Sydney
+ROOSTERS",0,22,5
+0,NRL 2001,Round 8,"Sunday, 8th April, 2001",2:00pm (local time),1625,13,"17,809","Brisbane
+BRONCOS",6,18,4,"Melbourne
+STORM",12,16,3
+0,NRL 2001,Round 8,"Sunday, 8th April, 2001",2:00pm (local time),1624,4,"10,993","Canberra
+RAIDERS",12,20,4,"Newcastle
+KNIGHTS",12,22,5
+0,NRL 2001,Round 8,"Sunday, 8th April, 2001",2:00pm (local time),1623,3,"12,744","Penrith
+PANTHERS",14,14,6,"St George Illawarra
+DRAGONS",24,42,3
+0,NRL 2001,Round 9,"Friday, 13th April, 2001",6:30pm (local time),1627,30,"12,489","Melbourne
+STORM",12,52,7,NORTHERN EAGLES,12,18,5
+0,NRL 2001,Round 9,"Friday, 13th April, 2001",7:30pm (local time),1626,1,"21,126","Sydney
+ROOSTERS",12,20,8,"Brisbane
+BRONCOS",12,18,3
+0,NRL 2001,Round 9,"Saturday, 14th April, 2001",5:30pm (local time),1628,19,"14,632",WESTS TIGERS,0,14,7,BULLDOGS,12,16,4
+0,NRL 2001,Round 9,"Saturday, 14th April, 2001",7:30pm (local time),1629,21,"13,404","St George Illawarra
+DRAGONS",4,6,8,"Parramatta
+EELS",14,24,11
+0,NRL 2001,Round 9,"Sunday, 15th April, 2001",2:00pm (local time),144,4,"7,191","Canberra
+RAIDERS",10,34,3,"North Queensland
+COWBOYS",10,26,2
+0,NRL 2001,Round 9,"Sunday, 15th April, 2001",2:00pm (local time),1630,11,"20,906","Newcastle
+KNIGHTS",6,22,6,SHARKS,12,12,5
+0,NRL 2001,Round 9,"Monday, 16th April, 2001",2:00pm (local time),1631,6,"16,876","New Zealand
+WARRIORS",26,52,6,"Penrith
+PANTHERS",0,8,6
+0,NRL 2001,Round 10,"Friday, 20th April, 2001",7:30pm (local time),1632,8,"20,220","Parramatta
+EELS",4,20,10,BULLDOGS,14,20,3
+0,NRL 2001,Round 10,"Saturday, 21st April, 2001",5:30pm (local time),1635,3,"6,064","Penrith
+PANTHERS",7,19,6,"Canberra
+RAIDERS",0,12,5
+0,NRL 2001,Round 10,"Saturday, 21st April, 2001",7:30pm (local time),1634,13,"19,768","Brisbane
+BRONCOS",22,40,8,"St George Illawarra
+DRAGONS",6,16,5
+0,NRL 2001,Round 10,"Saturday, 21st April, 2001",7:30pm (local time),1633,9,"9,011",SHARKS,16,26,5,"New Zealand
+WARRIORS",0,16,9
+0,NRL 2001,Round 10,"Sunday, 22nd April, 2001",2:00pm (local time),1636,30,"10,420","Melbourne
+STORM",16,22,5,"Sydney
+ROOSTERS",6,23,5
+0,NRL 2001,Round 10,"Sunday, 22nd April, 2001",2:00pm (local time),1637,11,"15,105","Newcastle
+KNIGHTS",16,56,8,WESTS TIGERS,6,6,4
+0,NRL 2001,Round 10,"Sunday, 22nd April, 2001",6:00pm (local time),145,29,"6,113","North Queensland
+COWBOYS",14,22,8,NORTHERN EAGLES,8,24,4
+0,NRL 2001,Round 11,"Friday, 27th April, 2001",7:30pm (local time),1638,13,"20,571","Brisbane
+BRONCOS",25,35,5,SHARKS,6,16,6
+0,NRL 2001,Round 11,"Saturday, 28th April, 2001",5:30pm (local time),308,14,"9,820","North Queensland
+COWBOYS",8,14,11,BULLDOGS,16,26,6
+0,NRL 2001,Round 11,"Saturday, 28th April, 2001",7:30pm (local time),1640,26,"11,319",NORTHERN EAGLES,16,24,4,"Canberra
+RAIDERS",4,16,6
+0,NRL 2001,Round 11,"Saturday, 28th April, 2001",7:30pm (local time),1639,1,"13,567","St George Illawarra
+DRAGONS",6,24,7,"Newcastle
+KNIGHTS",24,32,8
+0,NRL 2001,Round 11,"Sunday, 29th April, 2001",2:00pm (local time),1643,3,"8,813","Penrith
+PANTHERS",4,14,6,"Melbourne
+STORM",14,58,6
+0,NRL 2001,Round 11,"Sunday, 29th April, 2001",2:00pm (local time),1641,1,"9,857","Sydney
+ROOSTERS",18,30,8,"New Zealand
+WARRIORS",24,42,5
+0,NRL 2001,Round 11,"Sunday, 29th April, 2001",2:00pm (local time),1642,7,"14,802",WESTS TIGERS,0,12,7,"Parramatta
+EELS",36,66,4
+0,NRL 2001,Round 12,"Friday, 11th May, 2001",7:30pm (local time),1644,9,"11,218",SHARKS,0,6,7,BULLDOGS,12,20,4
+0,NRL 2001,Round 12,"Saturday, 12th May, 2001",7:30pm (local time),1646,6,"15,167","New Zealand
+WARRIORS",2,20,5,"Melbourne
+STORM",24,40,3
+0,NRL 2001,Round 12,"Saturday, 12th May, 2001",7:30pm (local time),1645,5,"11,439",NORTHERN EAGLES,4,14,7,"Parramatta
+EELS",12,26,5
+0,NRL 2001,Round 12,"Saturday, 12th May, 2001",7:30pm (local time),1647,19,"7,342",WESTS TIGERS,10,16,5,"Penrith
+PANTHERS",10,20,5
+0,NRL 2001,Round 12,"Sunday, 13th May, 2001",2:00pm (local time),1648,4,"14,414","Canberra
+RAIDERS",14,26,5,"Brisbane
+BRONCOS",10,26,4
+0,NRL 2001,Round 12,"Sunday, 13th May, 2001",2:00pm (local time),147,11,"18,039","Newcastle
+KNIGHTS",20,42,6,"North Queensland
+COWBOYS",16,34,4
+0,NRL 2001,Round 12,"Sunday, 13th May, 2001",2:00pm (local time),1649,21,"9,792","St George Illawarra
+DRAGONS",10,20,7,"Sydney
+ROOSTERS",14,20,6
+0,NRL 2001,Round 13,"Friday, 18th May, 2001",7:30pm (local time),1650,8,"18,403","Parramatta
+EELS",22,38,7,"Sydney
+ROOSTERS",12,22,3
+0,NRL 2001,Round 13,"Saturday, 19th May, 2001",5:30pm (local time),1652,30,"11,403","Melbourne
+STORM",22,32,2,"Canberra
+RAIDERS",10,28,4
+0,NRL 2001,Round 13,"Saturday, 19th May, 2001",7:30pm (local time),1651,3,"12,529","Penrith
+PANTHERS",0,12,5,"Newcastle
+KNIGHTS",6,19,9
+0,NRL 2001,Round 13,"Saturday, 19th May, 2001",7:30pm (local time),1653,9,"9,007",SHARKS,10,16,4,WESTS TIGERS,4,16,4
+0,NRL 2001,Round 13,"Sunday, 20th May, 2001",2:00pm (local time),1654,13,"16,306","Brisbane
+BRONCOS",0,22,8,NORTHERN EAGLES,6,6,8
+0,NRL 2001,Round 13,"Sunday, 20th May, 2001",2:00pm (local time),1655,10,"15,173",BULLDOGS,8,14,7,"St George Illawarra
+DRAGONS",16,26,5
+0,NRL 2001,Round 13,"Sunday, 20th May, 2001",6:00pm (local time),309,14,"10,819","North Queensland
+COWBOYS",18,35,6,"New Zealand
+WARRIORS",10,18,4
+0,NRL 2001,Round 14,"Friday, 25th May, 2001",7:30pm (local time),1656,1,"15,226","St George Illawarra
+DRAGONS",8,26,8,SHARKS,8,26,6
+0,NRL 2001,Round 14,"Saturday, 26th May, 2001",5:30pm (local time),1657,36,"7,112","Canberra
+RAIDERS",6,10,9,"New Zealand
+WARRIORS",12,22,2
+0,NRL 2001,Round 14,"Saturday, 26th May, 2001",7:30pm (local time),1659,26,"18,344",NORTHERN EAGLES,16,30,6,"Newcastle
+KNIGHTS",12,28,4
+0,NRL 2001,Round 14,"Saturday, 26th May, 2001",7:30pm (local time),1658,1,"10,124","Sydney
+ROOSTERS",16,33,6,WESTS TIGERS,16,20,8
+0,NRL 2001,Round 14,"Sunday, 27th May, 2001",2:00pm (local time),149,13,"14,714","Brisbane
+BRONCOS",18,50,7,"North Queensland
+COWBOYS",6,6,4
+0,NRL 2001,Round 14,"Sunday, 27th May, 2001",2:00pm (local time),1660,10,"8,234",BULLDOGS,16,28,7,"Melbourne
+STORM",6,26,4
+0,NRL 2001,Round 14,"Sunday, 27th May, 2001",2:00pm (local time),1661,8,"14,019","Parramatta
+EELS",20,54,5,"Penrith
+PANTHERS",18,28,3
+0,NRL 2001,Round 15,"Friday, 1st June, 2001",7:30pm (local time),1662,6,"12,282","New Zealand
+WARRIORS",12,34,4,NORTHERN EAGLES,22,30,5
+0,NRL 2001,Round 15,"Friday, 1st June, 2001",7:30pm (local time),1663,11,"19,341","Newcastle
+KNIGHTS",0,8,9,"Sydney
+ROOSTERS",8,18,1
+0,NRL 2001,Round 15,"Saturday, 2nd June, 2001",5:30pm (local time),1664,10,"8,155",BULLDOGS,0,0,8,"Canberra
+RAIDERS",20,32,5
+0,NRL 2001,Round 15,"Saturday, 2nd June, 2001",7:30pm (local time),310,14,"10,987","North Queensland
+COWBOYS",6,24,5,"Melbourne
+STORM",22,38,4
+0,NRL 2001,Round 15,"Saturday, 2nd June, 2001",7:30pm (local time),1665,3,"11,757","Penrith
+PANTHERS",4,16,8,"Brisbane
+BRONCOS",14,29,7
+0,NRL 2001,Round 15,"Sunday, 3rd June, 2001",2:00pm (local time),1666,9,"14,666",SHARKS,0,6,7,"Parramatta
+EELS",16,36,6
+0,NRL 2001,Round 15,"Sunday, 3rd June, 2001",2:00pm (local time),1667,7,"13,152",WESTS TIGERS,18,22,6,"St George Illawarra
+DRAGONS",10,27,8
+0,NRL 2001,Round 16,"Friday, 15th June, 2001",7:30pm (local time),1668,13,"28,531","Brisbane
+BRONCOS",6,12,6,"Parramatta
+EELS",16,28,5
+0,NRL 2001,Round 16,"Saturday, 16th June, 2001",7:30pm (local time),1669,6,"8,333","New Zealand
+WARRIORS",10,16,5,WESTS TIGERS,8,21,9
+0,NRL 2001,Round 16,"Saturday, 16th June, 2001",7:30pm (local time),1670,4,"9,976","Canberra
+RAIDERS",6,12,8,SHARKS,12,26,4
+0,NRL 2001,Round 16,"Saturday, 16th June, 2001",7:30pm (local time),151,1,"6,432","Sydney
+ROOSTERS",30,50,5,"North Queensland
+COWBOYS",12,24,6
+0,NRL 2001,Round 16,"Sunday, 17th June, 2001",2:00pm (local time),1673,30,"11,530","Melbourne
+STORM",18,34,3,"St George Illawarra
+DRAGONS",12,28,5
+0,NRL 2001,Round 16,"Sunday, 17th June, 2001",2:00pm (local time),1672,11,"16,645","Newcastle
+KNIGHTS",8,18,3,BULLDOGS,12,46,1
+0,NRL 2001,Round 16,"Sunday, 17th June, 2001",2:00pm (local time),1671,5,"7,236",NORTHERN EAGLES,24,32,9,"Penrith
+PANTHERS",6,22,4
+0,NRL 2001,Round 17,"Friday, 22nd June, 2001",7:30pm (local time),1674,8,"23,097","Parramatta
+EELS",24,40,3,"Newcastle
+KNIGHTS",0,0,5
+0,NRL 2001,Round 17,"Saturday, 23rd June, 2001",5:30pm (local time),152,3,"7,326","Penrith
+PANTHERS",10,20,6,"North Queensland
+COWBOYS",14,26,3
+0,NRL 2001,Round 17,"Saturday, 23rd June, 2001",7:30pm (local time),1676,9,"10,106",SHARKS,22,40,7,"Melbourne
+STORM",14,18,4
+0,NRL 2001,Round 17,"Saturday, 23rd June, 2001",7:30pm (local time),1675,19,"8,362",WESTS TIGERS,0,10,4,"Brisbane
+BRONCOS",26,44,6
+0,NRL 2001,Round 17,"Sunday, 24th June, 2001",2:00pm (local time),1679,4,"9,825","Canberra
+RAIDERS",10,32,9,"Sydney
+ROOSTERS",22,22,6
+0,NRL 2001,Round 17,"Sunday, 24th June, 2001",2:00pm (local time),1678,26,"13,222",NORTHERN EAGLES,20,30,6,BULLDOGS,18,32,8
+0,NRL 2001,Round 17,"Sunday, 24th June, 2001",2:00pm (local time),1677,21,"9,013","St George Illawarra
+DRAGONS",20,38,9,"New Zealand
+WARRIORS",12,18,4
+0,NRL 2001,Round 18,"Thursday, 5th July, 2001",8:00pm (local time),1680,30,"10,683","Melbourne
+STORM",24,64,3,WESTS TIGERS,0,0,5
+0,NRL 2001,Round 18,"Friday, 6th July, 2001",7:30pm (local time),1681,11,"22,896","Newcastle
+KNIGHTS",22,44,4,"Brisbane
+BRONCOS",0,0,6
+0,NRL 2001,Round 18,"Saturday, 7th July, 2001",7:30pm (local time),1682,6,"10,554","New Zealand
+WARRIORS",14,29,7,"Parramatta
+EELS",12,18,6
+0,NRL 2001,Round 18,"Saturday, 7th July, 2001",5:30pm (local time),1683,21,"10,108","St George Illawarra
+DRAGONS",34,44,4,"Canberra
+RAIDERS",0,12,8
+0,NRL 2001,Round 18,"Saturday, 7th July, 2001",7:30pm (local time),311,14,"13,494","North Queensland
+COWBOYS",0,6,11,SHARKS,18,36,7
+0,NRL 2001,Round 18,"Sunday, 8th July, 2001",2:00pm (local time),1684,10,"8,217",BULLDOGS,24,40,5,"Penrith
+PANTHERS",4,14,4
+0,NRL 2001,Round 18,"Sunday, 8th July, 2001",2:00pm (local time),1685,1,"10,417","Sydney
+ROOSTERS",6,18,3,NORTHERN EAGLES,36,40,7
+0,NRL 2001,Round 19,"Saturday, 14th July, 2001",5:30pm (local time),154,7,"4,724",WESTS TIGERS,2,20,8,"North Queensland
+COWBOYS",4,18,6
+0,NRL 2001,Round 19,"Saturday, 14th July, 2001",7:30pm (local time),1687,5,"7,017",NORTHERN EAGLES,10,18,11,"St George Illawarra
+DRAGONS",10,28,5
+0,NRL 2001,Round 19,"Saturday, 14th July, 2001",7:30pm (local time),1686,9,"8,035",SHARKS,26,42,9,"Penrith
+PANTHERS",4,10,4
+0,NRL 2001,Round 19,"Sunday, 15th July, 2001",2:00pm (local time),1688,28,"15,813","Brisbane
+BRONCOS",24,48,3,"New Zealand
+WARRIORS",0,12,7
+0,NRL 2001,Round 19,"Sunday, 15th July, 2001",2:00pm (local time),1690,10,"12,367",BULLDOGS,18,34,6,"Sydney
+ROOSTERS",12,18,7
+0,NRL 2001,Round 19,"Sunday, 15th July, 2001",2:00pm (local time),1691,11,"21,367","Newcastle
+KNIGHTS",18,48,2,"Melbourne
+STORM",6,16,5
+0,NRL 2001,Round 19,"Sunday, 15th July, 2001",2:00pm (local time),1689,8,"13,303","Parramatta
+EELS",32,50,5,"Canberra
+RAIDERS",0,22,4
+0,NRL 2001,Round 20,"Friday, 20th July, 2001",7:30pm (local time),1692,30,"13,074","Melbourne
+STORM",6,10,5,"Parramatta
+EELS",18,54,7
+0,NRL 2001,Round 20,"Saturday, 21st July, 2001",5:30pm (local time),1694,9,"10,093",SHARKS,22,40,10,NORTHERN EAGLES,0,18,8
+0,NRL 2001,Round 20,"Saturday, 21st July, 2001",7:30pm (local time),312,14,"14,293","North Queensland
+COWBOYS",16,34,7,"St George Illawarra
+DRAGONS",4,10,5
+0,NRL 2001,Round 20,"Saturday, 21st July, 2001",7:30pm (local time),1693,3,"11,036","Penrith
+PANTHERS",24,26,6,"Sydney
+ROOSTERS",6,16,7
+0,NRL 2001,Round 20,"Sunday, 22nd July, 2001",2:00pm (local time),1696,6,"8,188","New Zealand
+WARRIORS",12,30,7,"Newcastle
+KNIGHTS",14,37,6
+0,NRL 2001,Round 20,"Sunday, 22nd July, 2001",2:00pm (local time),1695,13,"25,830","Brisbane
+BRONCOS",12,30,3,BULLDOGS,24,37,3
+0,NRL 2001,Round 20,"Sunday, 22nd July, 2001",2:00pm (local time),1697,4,"8,259","Canberra
+RAIDERS",0,22,5,WESTS TIGERS,22,28,6
+0,NRL 2001,Round 21,"Friday, 27th July, 2001",7:30pm (local time),1698,1,"9,185","Sydney
+ROOSTERS",6,14,7,SHARKS,20,22,4
+0,NRL 2001,Round 21,"Saturday, 28th July, 2001",7:30pm (local time),1700,6,"10,391","New Zealand
+WARRIORS",12,34,6,BULLDOGS,4,8,5
+0,NRL 2001,Round 21,"Saturday, 28th July, 2001",7:30pm (local time),1701,1,"7,147","St George Illawarra
+DRAGONS",14,28,8,"Penrith
+PANTHERS",2,6,6
+0,NRL 2001,Round 21,"Saturday, 28th July, 2001",7:30pm (local time),1699,7,"4,359",WESTS TIGERS,8,38,5,NORTHERN EAGLES,0,6,8
+0,NRL 2001,Round 21,"Sunday, 29th July, 2001",2:00pm (local time),1703,30,"15,470","Melbourne
+STORM",14,32,6,"Brisbane
+BRONCOS",12,28,2
+0,NRL 2001,Round 21,"Sunday, 29th July, 2001",2:00pm (local time),1702,11,"9,356","Newcastle
+KNIGHTS",24,54,5,"Canberra
+RAIDERS",14,26,7
+0,NRL 2001,Round 21,"Sunday, 29th July, 2001",2:00pm (local time),156,8,"13,192","Parramatta
+EELS",30,62,7,"North Queensland
+COWBOYS",0,0,7
+0,NRL 2001,Round 22,"Friday, 3rd August, 2001",7:30pm (local time),1704,8,"23,061","Parramatta
+EELS",20,32,6,"St George Illawarra
+DRAGONS",6,12,8
+0,NRL 2001,Round 22,"Saturday, 4th August, 2001",5:30pm (local time),351,14,"11,261","North Queensland
+COWBOYS",6,10,5,"Canberra
+RAIDERS",6,29,5
+0,NRL 2001,Round 22,"Saturday, 4th August, 2001",7:30pm (local time),1706,10,"15,153",BULLDOGS,16,28,8,WESTS TIGERS,8,14,8
+0,NRL 2001,Round 22,"Saturday, 4th August, 2001",7:30pm (local time),1705,26,"8,830",NORTHERN EAGLES,6,20,8,"Melbourne
+STORM",12,12,9
+0,NRL 2001,Round 22,"Sunday, 5th August, 2001",2:00pm (local time),1708,13,"24,107","Brisbane
+BRONCOS",4,16,2,"Sydney
+ROOSTERS",16,30,6
+0,NRL 2001,Round 22,"Sunday, 5th August, 2001",2:00pm (local time),1709,3,"8,234","Penrith
+PANTHERS",16,32,3,"New Zealand
+WARRIORS",12,48,7
+0,NRL 2001,Round 22,"Sunday, 5th August, 2001",2:00pm (local time),1707,9,"19,137",SHARKS,24,49,7,"Newcastle
+KNIGHTS",12,30,6
+0,NRL 2001,Round 23,"Friday, 10th August, 2001",7:30pm (local time),1710,10,"21,895",BULLDOGS,6,16,6,"Parramatta
+EELS",10,24,7
+0,NRL 2001,Round 23,"Saturday, 11th August, 2001",7:30pm (local time),1713,6,"10,131","New Zealand
+WARRIORS",30,30,7,SHARKS,0,0,8
+0,NRL 2001,Round 23,"Saturday, 11th August, 2001",5:30pm (local time),1711,19,"9,112",WESTS TIGERS,12,36,6,"Newcastle
+KNIGHTS",28,32,6
+0,NRL 2001,Round 23,"Saturday, 11th August, 2001",7:30pm (local time),1712,4,"7,189","Canberra
+RAIDERS",18,24,4,"Penrith
+PANTHERS",12,26,3
+0,NRL 2001,Round 23,"Sunday, 12th August, 2001",2:00pm (local time),158,5,"8,009",NORTHERN EAGLES,6,24,5,"North Queensland
+COWBOYS",14,24,7
+0,NRL 2001,Round 23,"Sunday, 12th August, 2001",2:00pm (local time),1715,21,"13,058","St George Illawarra
+DRAGONS",18,20,7,"Brisbane
+BRONCOS",6,18,9
+0,NRL 2001,Round 23,"Sunday, 12th August, 2001",2:00pm (local time),1714,1,"10,147","Sydney
+ROOSTERS",16,50,4,"Melbourne
+STORM",16,28,5
+0,NRL 2001,Round 24,"Friday, 17th August, 2001",7:30pm (local time),1716,11,"20,234","Newcastle
+KNIGHTS",6,12,3,"St George Illawarra
+DRAGONS",10,38,5
+0,NRL 2001,Round 24,"Saturday, 18th August, 2001",7:30pm (local time),1717,6,"15,665","New Zealand
+WARRIORS",6,14,6,"Sydney
+ROOSTERS",8,8,6
+0,NRL 2001,Round 24,"Saturday, 18th August, 2001",7:30pm (local time),159,10,"6,715",BULLDOGS,6,30,7,"North Queensland
+COWBOYS",14,22,9
+0,NRL 2001,Round 24,"Saturday, 18th August, 2001",7:30pm (local time),1718,8,"20,020","Parramatta
+EELS",14,18,7,WESTS TIGERS,0,4,4
+0,NRL 2001,Round 24,"Sunday, 19th August, 2001",2:00pm (local time),1720,4,"8,094","Canberra
+RAIDERS",12,22,9,NORTHERN EAGLES,24,36,6
+0,NRL 2001,Round 24,"Sunday, 19th August, 2001",2:00pm (local time),1719,9,"17,894",SHARKS,12,24,5,"Brisbane
+BRONCOS",4,16,2
+0,NRL 2001,Round 24,"Monday, 20th August, 2001",7:30pm (local time),1721,30,"8,808","Melbourne
+STORM",18,28,5,"Penrith
+PANTHERS",8,24,6
+0,NRL 2001,Round 25,"Friday, 24th August, 2001",7:30pm (local time),1722,10,"14,871",BULLDOGS,6,16,9,SHARKS,14,14,5
+0,NRL 2001,Round 25,"Saturday, 25th August, 2001",5:30pm (local time),313,14,"14,147","North Queensland
+COWBOYS",12,18,7,"Newcastle
+KNIGHTS",12,34,3
+0,NRL 2001,Round 25,"Saturday, 25th August, 2001",7:30pm (local time),1723,8,"16,081","Parramatta
+EELS",16,38,7,NORTHERN EAGLES,12,22,6
+0,NRL 2001,Round 25,"Saturday, 25th August, 2001",7:30pm (local time),1724,3,"11,172","Penrith
+PANTHERS",22,44,8,WESTS TIGERS,0,10,6
+0,NRL 2001,Round 25,"Sunday, 26th August, 2001",2:00pm (local time),1725,13,"20,956","Brisbane
+BRONCOS",8,18,7,"Canberra
+RAIDERS",22,40,7
+0,NRL 2001,Round 25,"Sunday, 26th August, 2001",2:00pm (local time),1726,1,"20,117","Sydney
+ROOSTERS",16,25,9,"St George Illawarra
+DRAGONS",12,12,5
+0,NRL 2001,Round 25,"Monday, 27th August, 2001",7:30pm (local time),1727,30,"13,298","Melbourne
+STORM",4,24,7,"New Zealand
+WARRIORS",22,24,8
+0,NRL 2001,Round 26,"Friday, 31st August, 2001",7:30pm (local time),1728,1,"20,123","St George Illawarra
+DRAGONS",4,22,10,BULLDOGS,10,24,6
+0,NRL 2001,Round 26,"Saturday, 1st September, 2001",5:30pm (local time),1731,11,"17,791","Newcastle
+KNIGHTS",30,60,7,"Penrith
+PANTHERS",6,18,2
+0,NRL 2001,Round 26,"Saturday, 1st September, 2001",7:30pm (local time),1730,4,"7,139","Canberra
+RAIDERS",8,32,6,"Melbourne
+STORM",6,6,4
+0,NRL 2001,Round 26,"Saturday, 1st September, 2001",7:30pm (local time),1729,26,"10,265",NORTHERN EAGLES,10,14,4,"Brisbane
+BRONCOS",16,42,7
+0,NRL 2001,Round 26,"Sunday, 2nd September, 2001",2:00pm (local time),161,6,"24,568","New Zealand
+WARRIORS",6,18,5,"North Queensland
+COWBOYS",18,30,7
+0,NRL 2001,Round 26,"Sunday, 2nd September, 2001",2:00pm (local time),1732,1,"18,889","Sydney
+ROOSTERS",6,26,4,"Parramatta
+EELS",14,27,5
+0,NRL 2001,Round 26,"Sunday, 2nd September, 2001",2:00pm (local time),1733,7,"8,053",WESTS TIGERS,0,12,7,SHARKS,18,36,7
+0,NRL 2001,Qualif Final,"Friday, 7th September, 2001",7:30pm (local time),1734,9,"15,508",SHARKS,12,22,5,"Brisbane
+BRONCOS",6,6,1
+0,NRL 2001,Qualif Final,"Saturday, 8th September, 2001",5:30pm (local time),1736,11,"22,061","Newcastle
+KNIGHTS",18,40,3,"Sydney
+ROOSTERS",6,6,6
+0,NRL 2001,Qualif Final,"Saturday, 8th September, 2001",7:30pm (local time),1735,10,"17,975",BULLDOGS,14,22,8,"St George Illawarra
+DRAGONS",12,23,6
+0,NRL 2001,Qualif Final,"Sunday, 9th September, 2001",2:00pm (local time),1737,8,"17,336","Parramatta
+EELS",24,56,9,"New Zealand
+WARRIORS",6,12,3
+0,NRL 2001,Semi Final,"Saturday, 15th September, 2001",7:30pm (local time),1738,1,"19,259","Brisbane
+BRONCOS",26,44,9,"St George Illawarra
+DRAGONS",12,28,7
+0,NRL 2001,Semi Final,"Sunday, 16th September, 2001",2:00pm (local time),1739,1,"21,507",SHARKS,24,52,5,BULLDOGS,4,10,2
+0,NRL 2001,Prelim Final,"Saturday, 22nd September, 2001",7:30pm (local time),1740,1,"31,438","Newcastle
+KNIGHTS",6,18,4,SHARKS,10,10,4
+0,NRL 2001,Prelim Final,"Sunday, 23rd September, 2001",2:00pm (local time),1741,20,"34,184","Parramatta
+EELS",14,24,7,"Brisbane
+BRONCOS",12,16,1
+0,NRL 2001,Grand Final,"Sunday, 30th September, 2001",8:10pm (local time),1742,20,"90,414","Newcastle
+KNIGHTS",24,30,2,"Parramatta
+EELS",0,24,6

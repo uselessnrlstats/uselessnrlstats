@@ -1,0 +1,565 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2023,Round 1,"Thursday, 2nd March, 2023",8:00pm (local time),54376,940,"17,301","Parramatta
+EELS",6,12,6,"Melbourne
+STORM",0,16,6
+0,NRL 2023,Round 1,"Friday, 3rd March, 2023",8:00pm (local time),54377,18,"16,676",WARRIORS,10,20,8,"Newcastle
+KNIGHTS",6,12,8
+0,NRL 2023,Round 1,"Friday, 3rd March, 2023",8:05pm (local time),54378,3,"17,125","Penrith
+PANTHERS",6,12,4,"Brisbane
+BRONCOS",12,13,5
+0,NRL 2023,Round 1,"Saturday, 4th March, 2023",3:00pm (local time),54379,5,"17,278","Manly Warringah
+SEA EAGLES",12,31,9,"Canterbury Bankstown
+BULLDOGS",6,6,4
+0,NRL 2023,Round 1,"Saturday, 4th March, 2023",4:30pm (local time),54380,985,"19,855","North Queensland
+COWBOYS",18,19,6,"Canberra
+RAIDERS",6,18,4
+0,NRL 2023,Round 1,"Saturday, 4th March, 2023",7:35pm (local time),54381,9,"12,757","Cronulla Sutherland
+SHARKS",12,18,5,"South Sydney
+RABBITOHS",12,27,5
+0,NRL 2023,Round 1,"Sunday, 5th March, 2023",3:05pm (local time),54382,1097,"32,177",DOLPHINS,12,28,7,"Sydney
+ROOSTERS",12,18,2
+0,NRL 2023,Round 1,"Sunday, 5th March, 2023",6:15pm (local time),54383,7,"14,667",WESTS TIGERS,2,10,9,"Gold Coast
+TITANS",12,22,3
+0,NRL 2023,Round 2,"Thursday, 9th March, 2023",8:00pm (local time),54384,3,"16,906","Penrith
+PANTHERS",10,16,7,"South Sydney
+RABBITOHS",0,10,4
+0,NRL 2023,Round 2,"Friday, 10th March, 2023",6:00pm (local time),54385,940,"16,663","Parramatta
+EELS",14,26,4,"Cronulla Sutherland
+SHARKS",18,30,4
+0,NRL 2023,Round 2,"Friday, 10th March, 2023",7:00pm (local time),54386,1097,"43,162","Brisbane
+BRONCOS",10,28,8,"North Queensland
+COWBOYS",10,16,8
+0,NRL 2023,Round 2,"Saturday, 11th March, 2023",3:00pm (local time),54387,1096,"16,267","Sydney
+ROOSTERS",8,20,8,WARRIORS,6,12,5
+0,NRL 2023,Round 2,"Saturday, 11th March, 2023",4:30pm (local time),54388,968,"10,023",DOLPHINS,6,20,8,"Canberra
+RAIDERS",12,14,6
+0,NRL 2023,Round 2,"Saturday, 11th March, 2023",7:35pm (local time),54389,251,"17,248","Melbourne
+STORM",0,12,6,"Canterbury Bankstown
+BULLDOGS",16,26,8
+0,NRL 2023,Round 2,"Sunday, 12th March, 2023",4:05pm (local time),54390,7,"13,214",WESTS TIGERS,6,12,10,"Newcastle
+KNIGHTS",10,14,4
+0,NRL 2023,Round 2,"Sunday, 12th March, 2023",6:15pm (local time),54391,23,"8,538","St George Illawarra
+DRAGONS",16,32,8,"Gold Coast
+TITANS",12,18,7
+0,NRL 2023,Round 3,"Thursday, 16th March, 2023",8:00pm (local time),54392,5,"13,363","Manly Warringah
+SEA EAGLES",14,34,7,"Parramatta
+EELS",10,30,7
+0,NRL 2023,Round 3,"Friday, 17th March, 2023",6:00pm (local time),54393,11,"20,093","Newcastle
+KNIGHTS",12,20,7,DOLPHINS,16,36,5
+0,NRL 2023,Round 3,"Friday, 17th March, 2023",8:00pm (local time),54394,1096,"36,639","Sydney
+ROOSTERS",10,20,5,"South Sydney
+RABBITOHS",12,18,4
+0,NRL 2023,Round 3,"Saturday, 18th March, 2023",2:00pm (local time),54395,149,"14,483","Gold Coast
+TITANS",18,38,8,"Melbourne
+STORM",24,34,5
+0,NRL 2023,Round 3,"Saturday, 18th March, 2023",4:30pm (local time),54396,985,"17,818","North Queensland
+COWBOYS",12,12,7,WARRIORS,16,26,4
+0,NRL 2023,Round 3,"Saturday, 18th March, 2023",6:35pm (local time),54397,1097,"26,612","Brisbane
+BRONCOS",8,40,6,"St George Illawarra
+DRAGONS",16,18,5
+0,NRL 2023,Round 3,"Sunday, 19th March, 2023",4:05pm (local time),54398,27,"16,404","Canterbury Bankstown
+BULLDOGS",20,26,7,WESTS TIGERS,6,22,7
+0,NRL 2023,Round 3,"Sunday, 19th March, 2023",6:15pm (local time),54399,4,"14,134","Canberra
+RAIDERS",12,24,6,"Cronulla Sutherland
+SHARKS",10,20,6
+0,NRL 2023,Round 4,"Thursday, 23rd March, 2023",8:00pm (local time),54400,940,"16,342","Parramatta
+EELS",8,17,7,"Penrith
+PANTHERS",8,16,6
+0,NRL 2023,Round 4,"Friday, 24th March, 2023",6:00pm (local time),54401,251,"11,669","Melbourne
+STORM",22,24,7,WESTS TIGERS,6,12,6
+0,NRL 2023,Round 4,"Friday, 24th March, 2023",7:00pm (local time),54402,1097,"51,047",DOLPHINS,0,12,4,"Brisbane
+BRONCOS",4,18,5
+0,NRL 2023,Round 4,"Saturday, 25th March, 2023",4:30pm (local time),54403,985,"16,426","North Queensland
+COWBOYS",6,24,6,"Gold Coast
+TITANS",8,12,8
+0,NRL 2023,Round 4,"Saturday, 25th March, 2023",7:35pm (local time),54407,20,"18,379","South Sydney
+RABBITOHS",6,13,4,"Manly Warringah
+SEA EAGLES",12,12,7
+0,NRL 2023,Round 4,"Sunday, 26th March, 2023",4:00pm (local time),54404,6,"18,595",WARRIORS,6,16,5,"Canterbury Bankstown
+BULLDOGS",8,14,3
+0,NRL 2023,Round 4,"Sunday, 26th March, 2023",4:05pm (local time),54405,11,"15,106","Newcastle
+KNIGHTS",8,24,4,"Canberra
+RAIDERS",14,14,3
+0,NRL 2023,Round 4,"Sunday, 26th March, 2023",6:15pm (local time),54406,23,"15,126","St George Illawarra
+DRAGONS",8,8,3,"Cronulla Sutherland
+SHARKS",12,40,8
+0,NRL 2023,Round 5,"Thursday, 30th March, 2023",8:00pm (local time),54408,1096,"20,886","Sydney
+ROOSTERS",16,28,5,"Parramatta
+EELS",2,20,5
+0,NRL 2023,Round 5,"Friday, 31st March, 2023",6:00pm (local time),54409,4,"15,334","Canberra
+RAIDERS",6,12,4,"Penrith
+PANTHERS",13,53,6
+0,NRL 2023,Round 5,"Friday, 31st March, 2023",8:00pm (local time),54410,20,"11,239","South Sydney
+RABBITOHS",6,10,6,"Melbourne
+STORM",12,18,5
+0,NRL 2023,Round 5,"Saturday, 1st April, 2023",3:00pm (local time),54411,432,"9,024","Manly Warringah
+SEA EAGLES",16,32,5,"Newcastle
+KNIGHTS",22,32,7
+0,NRL 2023,Round 5,"Saturday, 1st April, 2023",5:30pm (local time),54412,21,"16,472","St George Illawarra
+DRAGONS",12,38,7,DOLPHINS,8,12,9
+0,NRL 2023,Round 5,"Saturday, 1st April, 2023",6:35pm (local time),54413,1097,"27,553","Brisbane
+BRONCOS",28,46,8,WESTS TIGERS,0,12,2
+0,NRL 2023,Round 5,"Sunday, 2nd April, 2023",4:05pm (local time),54414,9,"10,878","Cronulla Sutherland
+SHARKS",26,30,7,WARRIORS,12,32,5
+0,NRL 2023,Round 5,"Sunday, 2nd April, 2023",6:15pm (local time),54415,20,"9,626","Canterbury Bankstown
+BULLDOGS",6,15,6,"North Queensland
+COWBOYS",8,14,8
+0,NRL 2023,Round 6,"Thursday, 6th April, 2023",7:50pm (local time),54416,251,"16,323","Melbourne
+STORM",18,28,4,"Sydney
+ROOSTERS",8,8,3
+0,NRL 2023,Round 6,"Friday, 7th April, 2023",4:05pm (local time),54417,20,"35,211","Canterbury Bankstown
+BULLDOGS",6,16,3,"South Sydney
+RABBITOHS",26,50,11
+0,NRL 2023,Round 6,"Friday, 7th April, 2023",8:00pm (local time),54418,985,"22,811","North Queensland
+COWBOYS",12,22,7,DOLPHINS,26,32,7
+0,NRL 2023,Round 6,"Saturday, 8th April, 2023",5:30pm (local time),54419,3,"20,312","Penrith
+PANTHERS",32,44,9,"Manly Warringah
+SEA EAGLES",0,12,11
+0,NRL 2023,Round 6,"Saturday, 8th April, 2023",7:35pm (local time),54420,1097,"31,962","Brisbane
+BRONCOS",4,14,5,"Canberra
+RAIDERS",14,20,6
+0,NRL 2023,Round 6,"Sunday, 9th April, 2023",4:05pm (local time),54421,149,"12,452","Gold Coast
+TITANS",8,20,8,"St George Illawarra
+DRAGONS",8,18,2
+0,NRL 2023,Round 6,"Sunday, 9th April, 2023",6:15pm (local time),54422,11,"18,007","Newcastle
+KNIGHTS",22,34,7,WARRIORS,6,24,5
+0,NRL 2023,Round 6,"Monday, 10th April, 2023",4:00pm (local time),54423,20,"28,611",WESTS TIGERS,6,22,3,"Parramatta
+EELS",18,28,3
+0,NRL 2023,Round 7,"Thursday, 13th April, 2023",7:50pm (local time),54424,1097,"23,280",DOLPHINS,14,14,2,"South Sydney
+RABBITOHS",6,36,8
+0,NRL 2023,Round 7,"Friday, 14th April, 2023",6:00pm (local time),54425,9,"11,489","Cronulla Sutherland
+SHARKS",8,22,14,"Sydney
+ROOSTERS",12,12,4
+0,NRL 2023,Round 7,"Friday, 14th April, 2023",8:00pm (local time),54426,5,"13,573","Manly Warringah
+SEA EAGLES",10,18,9,"Melbourne
+STORM",6,8,6
+0,NRL 2023,Round 7,"Saturday, 15th April, 2023",5:00pm (local time),54427,6,"23,695",WARRIORS,10,22,9,"North Queensland
+COWBOYS",8,14,7
+0,NRL 2023,Round 7,"Saturday, 15th April, 2023",5:30pm (local time),54428,11,"26,084","Newcastle
+KNIGHTS",14,15,6,"Penrith
+PANTHERS",6,16,9
+0,NRL 2023,Round 7,"Saturday, 15th April, 2023",7:35pm (local time),54429,149,"26,563","Gold Coast
+TITANS",14,26,8,"Brisbane
+BRONCOS",10,43,7
+0,NRL 2023,Round 7,"Sunday, 16th April, 2023",2:00pm (local time),54430,4,"13,817","Canberra
+RAIDERS",0,20,3,"St George Illawarra
+DRAGONS",4,14,4
+0,NRL 2023,Round 7,"Sunday, 16th April, 2023",4:05pm (local time),54431,940,"27,655","Parramatta
+EELS",16,30,9,"Canterbury Bankstown
+BULLDOGS",0,4,3
+0,NRL 2023,Round 8,"Thursday, 20th April, 2023",7:50pm (local time),54439,20,"19,548","South Sydney
+RABBITOHS",6,20,3,"Penrith
+PANTHERS",6,18,5
+0,NRL 2023,Round 8,"Friday, 21st April, 2023",7:30pm (local time),54432,423,"11,864","Parramatta
+EELS",6,16,3,"Brisbane
+BRONCOS",22,26,4
+0,NRL 2023,Round 8,"Saturday, 22nd April, 2023",5:30pm (local time),54433,20,"12,148","Canterbury Bankstown
+BULLDOGS",14,20,7,"Cronulla Sutherland
+SHARKS",18,33,5
+0,NRL 2023,Round 8,"Saturday, 22nd April, 2023",7:35pm (local time),54434,985,"17,970","North Queensland
+COWBOYS",12,18,3,"Newcastle
+KNIGHTS",6,16,7
+0,NRL 2023,Round 8,"Sunday, 23rd April, 2023",2:00pm (local time),54435,1097,"22,034",DOLPHINS,6,28,4,"Gold Coast
+TITANS",26,26,4
+0,NRL 2023,Round 8,"Sunday, 23rd April, 2023",4:05pm (local time),54436,19,"10,033",WESTS TIGERS,6,16,3,"Manly Warringah
+SEA EAGLES",12,22,7
+0,NRL 2023,Round 8,"Tuesday, 25th April, 2023",4:05pm (local time),54437,1096,"40,191","Sydney
+ROOSTERS",20,27,4,"St George Illawarra
+DRAGONS",12,26,8
+0,NRL 2023,Round 8,"Tuesday, 25th April, 2023",7:00pm (local time),54438,251,"23,469","Melbourne
+STORM",12,30,7,WARRIORS,18,22,5
+0,NRL 2023,Round 9,"Thursday, 27th April, 2023",7:50pm (local time),54440,9,"8,148","Cronulla Sutherland
+SHARKS",20,44,8,"North Queensland
+COWBOYS",6,6,2
+0,NRL 2023,Round 9,"Friday, 28th April, 2023",6:00pm (local time),54441,940,"15,875","Parramatta
+EELS",30,43,2,"Newcastle
+KNIGHTS",6,12,3
+0,NRL 2023,Round 9,"Friday, 28th April, 2023",8:00pm (local time),54442,1097,"40,102","Brisbane
+BRONCOS",6,6,6,"South Sydney
+RABBITOHS",12,32,6
+0,NRL 2023,Round 9,"Saturday, 29th April, 2023",3:00pm (local time),54443,498,"10,445","Canberra
+RAIDERS",22,31,4,DOLPHINS,12,30,7
+0,NRL 2023,Round 9,"Saturday, 29th April, 2023",5:30pm (local time),54444,5,"10,107","Manly Warringah
+SEA EAGLES",2,10,8,"Gold Coast
+TITANS",16,26,6
+0,NRL 2023,Round 9,"Saturday, 29th April, 2023",7:35pm (local time),54445,108,"11,055","Penrith
+PANTHERS",8,8,8,WESTS TIGERS,8,12,6
+0,NRL 2023,Round 9,"Sunday, 30th April, 2023",4:00pm (local time),54446,6,"20,395",WARRIORS,0,0,6,"Sydney
+ROOSTERS",8,14,4
+0,NRL 2023,Round 9,"Sunday, 30th April, 2023",4:05pm (local time),54447,21,"16,678","St George Illawarra
+DRAGONS",4,16,6,"Canterbury Bankstown
+BULLDOGS",10,18,6
+0,NRL 2023,Round 10,"Friday, 5th May, 2023",6:00pm (local time),54448,1097,"50,077","Canterbury Bankstown
+BULLDOGS",18,30,5,"Canberra
+RAIDERS",22,34,9
+0,NRL 2023,Round 10,"Friday, 5th May, 2023",8:05pm (local time),54449,1097,"50,077","Manly Warringah
+SEA EAGLES",0,6,4,"Brisbane
+BRONCOS",20,32,1
+0,NRL 2023,Round 10,"Saturday, 6th May, 2023",3:00pm (local time),54450,1097,"50,183",WARRIORS,6,6,3,"Penrith
+PANTHERS",12,18,5
+0,NRL 2023,Round 10,"Saturday, 6th May, 2023",5:30pm (local time),54451,1097,"50,183","Cronulla Sutherland
+SHARKS",10,16,3,DOLPHINS,30,36,3
+0,NRL 2023,Round 10,"Saturday, 6th May, 2023",7:45pm (local time),54452,1097,"50,183","Melbourne
+STORM",6,12,5,"South Sydney
+RABBITOHS",12,28,6
+0,NRL 2023,Round 10,"Sunday, 7th May, 2023",1:50pm (local time),54453,1097,"46,835",WESTS TIGERS,14,18,8,"St George Illawarra
+DRAGONS",10,16,5
+0,NRL 2023,Round 10,"Sunday, 7th May, 2023",4:00pm (local time),54454,1097,"46,835","Sydney
+ROOSTERS",0,6,5,"North Queensland
+COWBOYS",6,20,3
+0,NRL 2023,Round 10,"Sunday, 7th May, 2023",6:25pm (local time),54455,1097,"46,835","Gold Coast
+TITANS",16,26,7,"Parramatta
+EELS",4,24,3
+0,NRL 2023,Round 11,"Thursday, 11th May, 2023",7:50pm (local time),54456,251,"16,043","Melbourne
+STORM",10,24,9,"Brisbane
+BRONCOS",10,16,9
+0,NRL 2023,Round 11,"Friday, 12th May, 2023",6:00pm (local time),54457,20,"14,294","Canterbury Bankstown
+BULLDOGS",0,12,3,WARRIORS,18,24,4
+0,NRL 2023,Round 11,"Friday, 12th May, 2023",8:00pm (local time),54458,3,"20,255","Penrith
+PANTHERS",24,48,4,"Sydney
+ROOSTERS",0,4,3
+0,NRL 2023,Round 11,"Saturday, 13th May, 2023",3:00pm (local time),54459,20,"21,013","South Sydney
+RABBITOHS",6,20,5,WESTS TIGERS,0,0,2
+0,NRL 2023,Round 11,"Saturday, 13th May, 2023",5:30pm (local time),54460,985,"17,852","North Queensland
+COWBOYS",24,42,5,"St George Illawarra
+DRAGONS",6,22,4
+0,NRL 2023,Round 11,"Saturday, 13th May, 2023",7:35pm (local time),54461,4,"17,414","Canberra
+RAIDERS",8,26,10,"Parramatta
+EELS",8,18,3
+0,NRL 2023,Round 11,"Sunday, 14th May, 2023",2:00pm (local time),54462,11,"13,064","Newcastle
+KNIGHTS",12,46,4,"Gold Coast
+TITANS",12,26,4
+0,NRL 2023,Round 11,"Sunday, 14th May, 2023",4:05pm (local time),54463,5,"10,358","Manly Warringah
+SEA EAGLES",2,14,12,"Cronulla Sutherland
+SHARKS",14,20,4
+0,NRL 2023,Round 12,"Thursday, 18th May, 2023",7:50pm (local time),54464,1097,"33,343","Brisbane
+BRONCOS",0,4,5,"Penrith
+PANTHERS",8,15,7
+0,NRL 2023,Round 12,"Friday, 19th May, 2023",6:00pm (local time),54465,23,"9,007","St George Illawarra
+DRAGONS",12,24,6,"Sydney
+ROOSTERS",0,22,5
+0,NRL 2023,Round 12,"Friday, 19th May, 2023",8:00pm (local time),54466,1096,"27,432","South Sydney
+RABBITOHS",10,16,1,"Parramatta
+EELS",12,36,6
+0,NRL 2023,Round 12,"Saturday, 20th May, 2023",3:00pm (local time),54467,130,"10,156","Cronulla Sutherland
+SHARKS",12,26,5,"Newcastle
+KNIGHTS",6,6,5
+0,NRL 2023,Round 12,"Saturday, 20th May, 2023",5:30pm (local time),54468,7,"12,247",WESTS TIGERS,24,66,4,"North Queensland
+COWBOYS",6,18,3
+0,NRL 2023,Round 12,"Saturday, 20th May, 2023",7:35pm (local time),54469,1097,"28,325",DOLPHINS,4,16,5,"Melbourne
+STORM",24,24,6
+0,NRL 2023,Round 12,"Sunday, 21st May, 2023",2:00pm (local time),54470,20,"10,815","Canterbury Bankstown
+BULLDOGS",0,20,6,"Gold Coast
+TITANS",14,18,8
+0,NRL 2023,Round 12,"Sunday, 21st May, 2023",4:05pm (local time),54471,4,"14,730","Canberra
+RAIDERS",8,14,3,"Manly Warringah
+SEA EAGLES",16,42,8
+0,NRL 2023,Round 13,"Thursday, 25th May, 2023",7:50pm (local time),54472,968,"10,047",DOLPHINS,18,26,8,"St George Illawarra
+DRAGONS",12,12,5
+0,NRL 2023,Round 13,"Friday, 26th May, 2023",8:00pm (local time),54473,940,"14,810","Parramatta
+EELS",6,24,2,"North Queensland
+COWBOYS",6,16,4
+0,NRL 2023,Round 13,"Saturday, 27th May, 2023",7:30pm (local time),54474,475,"16,195",WARRIORS,6,22,8,"Brisbane
+BRONCOS",12,26,5
+0,NRL 2023,Round 13,"Saturday, 27th May, 2023",7:35pm (local time),54475,20,"12,382","South Sydney
+RABBITOHS",8,26,7,"Canberra
+RAIDERS",18,33,4
+0,NRL 2023,Round 13,"Sunday, 28th May, 2023",4:05pm (local time),54476,11,"20,661","Newcastle
+KNIGHTS",10,28,9,"Manly Warringah
+SEA EAGLES",14,18,7
+0,NRL 2023,Round 14,"Friday, 2nd June, 2023",8:00pm (local time),54477,19,"11,201",WESTS TIGERS,0,19,6,"Canberra
+RAIDERS",12,20,4
+0,NRL 2023,Round 14,"Saturday, 3rd June, 2023",5:00pm (local time),54478,6,"23,686",WARRIORS,6,30,6,DOLPHINS,4,8,6
+0,NRL 2023,Round 14,"Saturday, 3rd June, 2023",5:30pm (local time),54479,149,"18,736","Gold Coast
+TITANS",22,28,4,"South Sydney
+RABBITOHS",16,46,3
+0,NRL 2023,Round 14,"Saturday, 3rd June, 2023",7:35pm (local time),54480,9,"12,318","Cronulla Sutherland
+SHARKS",6,12,1,"Brisbane
+BRONCOS",14,20,4
+0,NRL 2023,Round 14,"Sunday, 4th June, 2023",2:00pm (local time),54481,26,"18,338","Sydney
+ROOSTERS",12,25,6,"Canterbury Bankstown
+BULLDOGS",12,24,7
+0,NRL 2023,Round 14,"Sunday, 4th June, 2023",4:05pm (local time),54482,985,"18,867","North Queensland
+COWBOYS",14,45,5,"Melbourne
+STORM",14,20,6
+0,NRL 2023,Round 14,"Sunday, 4th June, 2023",6:15pm (local time),54483,3,"16,912","Penrith
+PANTHERS",12,26,6,"St George Illawarra
+DRAGONS",12,18,6
+0,NRL 2023,Round 15,"Thursday, 8th June, 2023",7:50pm (local time),54484,149,"10,232","Gold Coast
+TITANS",16,28,3,WESTS TIGERS,6,12,4
+0,NRL 2023,Round 15,"Friday, 9th June, 2023",6:00pm (local time),54485,4,"21,082","Canberra
+RAIDERS",8,14,5,WARRIORS,6,36,5
+0,NRL 2023,Round 15,"Friday, 9th June, 2023",8:00pm (local time),54486,5,"14,598","Manly Warringah
+SEA EAGLES",28,58,8,DOLPHINS,6,18,1
+0,NRL 2023,Round 15,"Saturday, 10th June, 2023",3:00pm (local time),54487,23,"17,357","St George Illawarra
+DRAGONS",12,36,7,"South Sydney
+RABBITOHS",8,30,3
+0,NRL 2023,Round 15,"Saturday, 10th June, 2023",5:30pm (local time),54488,1097,"35,814","Brisbane
+BRONCOS",6,24,3,"Newcastle
+KNIGHTS",10,20,6
+0,NRL 2023,Round 15,"Saturday, 10th June, 2023",7:35pm (local time),54489,1096,"23,610","Sydney
+ROOSTERS",0,6,6,"Penrith
+PANTHERS",10,30,3
+0,NRL 2023,Round 15,"Sunday, 11th June, 2023",4:05pm (local time),54490,251,"20,253","Melbourne
+STORM",34,54,7,"Cronulla Sutherland
+SHARKS",6,10,8
+0,NRL 2023,Round 15,"Monday, 12th June, 2023",4:00pm (local time),54491,20,"33,866","Canterbury Bankstown
+BULLDOGS",6,12,8,"Parramatta
+EELS",24,34,2
+0,NRL 2023,Round 16,"Friday, 16th June, 2023",8:00pm (local time),54492,985,"17,277","North Queensland
+COWBOYS",12,27,8,"Penrith
+PANTHERS",20,23,8
+0,NRL 2023,Round 16,"Saturday, 17th June, 2023",3:00pm (local time),54493,11,"21,966","Newcastle
+KNIGHTS",6,16,3,"Sydney
+ROOSTERS",18,18,4
+0,NRL 2023,Round 16,"Saturday, 17th June, 2023",5:30pm (local time),54494,940,"21,296","Parramatta
+EELS",24,34,6,"Manly Warringah
+SEA EAGLES",4,4,6
+0,NRL 2023,Round 16,"Saturday, 17th June, 2023",7:35pm (local time),54495,19,"8,517",WESTS TIGERS,6,6,3,"Melbourne
+STORM",14,28,3
+0,NRL 2023,Round 16,"Sunday, 18th June, 2023",4:05pm (local time),54496,9,"11,901","Cronulla Sutherland
+SHARKS",30,48,7,"Canterbury Bankstown
+BULLDOGS",4,10,3
+0,NRL 2023,Round 17,"Friday, 23rd June, 2023",8:00pm (local time),54497,21,"9,275","St George Illawarra
+DRAGONS",6,18,4,WARRIORS,20,48,2
+0,NRL 2023,Round 17,"Saturday, 24th June, 2023",3:00pm (local time),54498,939,"8,821",DOLPHINS,4,20,3,"Parramatta
+EELS",42,48,2
+0,NRL 2023,Round 17,"Saturday, 24th June, 2023",5:30pm (local time),54499,3,"18,589","Penrith
+PANTHERS",16,20,6,"Newcastle
+KNIGHTS",6,12,1
+0,NRL 2023,Round 17,"Saturday, 24th June, 2023",7:35pm (local time),54500,251,"13,198","Melbourne
+STORM",10,24,4,"Manly Warringah
+SEA EAGLES",6,6,4
+0,NRL 2023,Round 17,"Sunday, 25th June, 2023",2:00pm (local time),54501,1097,"42,249","Brisbane
+BRONCOS",6,12,4,"Gold Coast
+TITANS",6,18,7
+0,NRL 2023,Round 17,"Sunday, 25th June, 2023",4:05pm (local time),54502,20,"11,262","South Sydney
+RABBITOHS",0,6,4,"North Queensland
+COWBOYS",5,31,8
+0,NRL 2023,Round 17,"Sunday, 25th June, 2023",6:15pm (local time),54503,1096,"13,326","Sydney
+ROOSTERS",6,18,3,"Canberra
+RAIDERS",18,20,4
+0,NRL 2023,Round 18,"Thursday, 29th June, 2023",7:50pm (local time),54504,9,"10,267","Cronulla Sutherland
+SHARKS",24,52,4,"St George Illawarra
+DRAGONS",10,16,4
+0,NRL 2023,Round 18,"Friday, 30th June, 2023",8:00pm (local time),54505,6,"22,612",WARRIORS,6,6,9,"South Sydney
+RABBITOHS",12,28,5
+0,NRL 2023,Round 18,"Friday, 30th June, 2023",8:00pm (local time),54506,30,"26,829","Melbourne
+STORM",14,16,5,"Penrith
+PANTHERS",16,34,6
+0,NRL 2023,Round 18,"Saturday, 1st July, 2023",3:00pm (local time),54507,4,"11,659","Canberra
+RAIDERS",12,26,6,"Gold Coast
+TITANS",6,22,11
+0,NRL 2023,Round 18,"Saturday, 1st July, 2023",5:30pm (local time),54508,985,"20,535","North Queensland
+COWBOYS",42,74,3,WESTS TIGERS,0,0,3
+0,NRL 2023,Round 18,"Saturday, 1st July, 2023",7:35pm (local time),54509,119,"30,606","Brisbane
+BRONCOS",14,24,8,DOLPHINS,6,16,3
+0,NRL 2023,Round 18,"Sunday, 2nd July, 2023",2:00pm (local time),54510,20,"11,004","Canterbury Bankstown
+BULLDOGS",0,0,5,"Newcastle
+KNIGHTS",30,66,4
+0,NRL 2023,Round 18,"Sunday, 2nd July, 2023",4:05pm (local time),54511,5,"17,385","Manly Warringah
+SEA EAGLES",12,18,8,"Sydney
+ROOSTERS",10,16,3
+0,NRL 2023,Round 19,"Thursday, 6th July, 2023",7:50pm (local time),54512,940,"9,215",WESTS TIGERS,12,12,7,"Cronulla Sutherland
+SHARKS",12,36,5
+0,NRL 2023,Round 19,"Friday, 7th July, 2023",8:00pm (local time),54513,21,"9,369","St George Illawarra
+DRAGONS",6,26,6,"Canberra
+RAIDERS",24,36,5
+0,NRL 2023,Round 19,"Saturday, 8th July, 2023",5:30pm (local time),54514,940,"21,696","Parramatta
+EELS",4,10,4,WARRIORS,30,46,5
+0,NRL 2023,Round 19,"Saturday, 8th July, 2023",7:35pm (local time),54515,20,"16,166","South Sydney
+RABBITOHS",12,32,3,"Canterbury Bankstown
+BULLDOGS",24,36,6
+0,NRL 2023,Round 19,"Sunday, 9th July, 2023",4:05pm (local time),54516,149,"18,335","Gold Coast
+TITANS",14,21,6,DOLPHINS,6,23,5
+0,NRL 2023,Round 20,"Friday, 14th July, 2023",8:00pm (local time),54517,11,"18,470","Newcastle
+KNIGHTS",18,34,8,WESTS TIGERS,12,18,5
+0,NRL 2023,Round 20,"Saturday, 15th July, 2023",3:00pm (local time),54518,27,"17,103","Canterbury Bankstown
+BULLDOGS",18,24,6,"Brisbane
+BRONCOS",22,44,4
+0,NRL 2023,Round 20,"Saturday, 15th July, 2023",5:30pm (local time),54519,5,"13,240","Manly Warringah
+SEA EAGLES",4,8,7,"North Queensland
+COWBOYS",13,19,1
+0,NRL 2023,Round 20,"Saturday, 15th July, 2023",7:35pm (local time),54520,24,"12,021","Sydney
+ROOSTERS",4,16,10,"Melbourne
+STORM",6,30,8
+0,NRL 2023,Round 20,"Sunday, 16th July, 2023",4:00pm (local time),54521,6,"24,012",WARRIORS,22,44,7,"Cronulla Sutherland
+SHARKS",6,12,5
+0,NRL 2023,Round 20,"Sunday, 16th July, 2023",4:05pm (local time),54522,968,"10,065",DOLPHINS,4,14,6,"Penrith
+PANTHERS",12,24,3
+0,NRL 2023,Round 20,"Sunday, 16th July, 2023",6:15pm (local time),54523,940,"12,599","Parramatta
+EELS",14,25,6,"Gold Coast
+TITANS",16,24,8
+0,NRL 2023,Round 21,"Thursday, 20th July, 2023",7:50pm (local time),54524,21,"7,246","St George Illawarra
+DRAGONS",12,18,6,WESTS TIGERS,14,14,5
+0,NRL 2023,Round 21,"Friday, 21st July, 2023",8:00pm (local time),54525,6,"19,112",WARRIORS,14,21,5,"Canberra
+RAIDERS",6,20,4
+0,NRL 2023,Round 21,"Friday, 21st July, 2023",8:00pm (local time),54526,939,"8,931","South Sydney
+RABBITOHS",14,20,8,"Brisbane
+BRONCOS",12,36,3
+0,NRL 2023,Round 21,"Saturday, 22nd July, 2023",3:00pm (local time),54527,149,"15,362","Gold Coast
+TITANS",0,18,7,"Sydney
+ROOSTERS",30,36,7
+0,NRL 2023,Round 21,"Saturday, 22nd July, 2023",5:30pm (local time),54528,11,"20,392","Newcastle
+KNIGHTS",18,26,7,"Melbourne
+STORM",12,18,6
+0,NRL 2023,Round 21,"Saturday, 22nd July, 2023",7:35pm (local time),54529,985,"20,710","North Queensland
+COWBOYS",16,24,8,"Parramatta
+EELS",4,16,4
+0,NRL 2023,Round 21,"Sunday, 23rd July, 2023",2:00pm (local time),54530,3,"21,525","Penrith
+PANTHERS",28,44,10,"Canterbury Bankstown
+BULLDOGS",6,18,9
+0,NRL 2023,Round 21,"Sunday, 23rd July, 2023",4:05pm (local time),54531,9,"10,634","Cronulla Sutherland
+SHARKS",0,26,11,"Manly Warringah
+SEA EAGLES",24,30,9
+0,NRL 2023,Round 22,"Thursday, 27th July, 2023",7:50pm (local time),54532,119,"21,841","Brisbane
+BRONCOS",20,32,8,"Sydney
+ROOSTERS",0,10,7
+0,NRL 2023,Round 22,"Friday, 28th July, 2023",6:00pm (local time),54533,409,"10,453",WESTS TIGERS,6,18,3,"South Sydney
+RABBITOHS",20,32,6
+0,NRL 2023,Round 22,"Friday, 28th July, 2023",8:00pm (local time),54534,30,"20,429","Melbourne
+STORM",24,46,2,"Parramatta
+EELS",10,16,3
+0,NRL 2023,Round 22,"Saturday, 29th July, 2023",3:00pm (local time),54535,4,"15,487","Canberra
+RAIDERS",0,6,4,"Newcastle
+KNIGHTS",20,28,5
+0,NRL 2023,Round 22,"Saturday, 29th July, 2023",5:30pm (local time),54536,21,"14,872","St George Illawarra
+DRAGONS",8,18,5,"Manly Warringah
+SEA EAGLES",12,24,8
+0,NRL 2023,Round 22,"Saturday, 29th July, 2023",7:35pm (local time),54537,3,"20,694","Penrith
+PANTHERS",18,28,6,"Cronulla Sutherland
+SHARKS",0,0,3
+0,NRL 2023,Round 22,"Sunday, 30th July, 2023",2:00pm (local time),54538,1092,"5,130","Canterbury Bankstown
+BULLDOGS",11,23,7,DOLPHINS,8,22,9
+0,NRL 2023,Round 22,"Sunday, 30th July, 2023",4:05pm (local time),54539,149,"16,516","Gold Coast
+TITANS",10,22,9,"North Queensland
+COWBOYS",13,13,6
+0,NRL 2023,Round 23,"Thursday, 3rd August, 2023",7:50pm (local time),54540,24,"12,197","Sydney
+ROOSTERS",18,26,6,"Manly Warringah
+SEA EAGLES",2,16,15
+0,NRL 2023,Round 23,"Friday, 4th August, 2023",6:00pm (local time),54541,149,"20,877","Gold Coast
+TITANS",6,18,5,WARRIORS,12,28,6
+0,NRL 2023,Round 23,"Friday, 4th August, 2023",8:00pm (local time),54542,3,"19,953","Penrith
+PANTHERS",20,26,9,"Melbourne
+STORM",6,6,6
+0,NRL 2023,Round 23,"Saturday, 5th August, 2023",3:00pm (local time),54543,985,"22,659","North Queensland
+COWBOYS",6,14,7,"Brisbane
+BRONCOS",12,30,2
+0,NRL 2023,Round 23,"Saturday, 5th August, 2023",3:30pm (local time),54544,804,"45,814",DOLPHINS,14,28,5,"Newcastle
+KNIGHTS",12,30,7
+0,NRL 2023,Round 23,"Saturday, 5th August, 2023",5:35pm (local time),54545,804,"45,814","South Sydney
+RABBITOHS",0,16,4,"Cronulla Sutherland
+SHARKS",14,26,11
+0,NRL 2023,Round 23,"Sunday, 6th August, 2023",2:00pm (local time),54546,940,"23,596","Parramatta
+EELS",10,26,6,"St George Illawarra
+DRAGONS",16,20,2
+0,NRL 2023,Round 23,"Sunday, 6th August, 2023",4:05pm (local time),54547,4,"12,841","Canberra
+RAIDERS",10,22,9,WESTS TIGERS,6,18,7
+0,NRL 2023,Round 24,"Thursday, 10th August, 2023",7:50pm (local time),54548,5,"10,102","Manly Warringah
+SEA EAGLES",12,12,4,"Penrith
+PANTHERS",12,24,6
+0,NRL 2023,Round 24,"Friday, 11th August, 2023",6:00pm (local time),54549,9,"9,753","Cronulla Sutherland
+SHARKS",20,36,5,"Gold Coast
+TITANS",6,6,6
+0,NRL 2023,Round 24,"Friday, 11th August, 2023",8:00pm (local time),54550,119,"29,005","Brisbane
+BRONCOS",24,54,8,"Parramatta
+EELS",0,10,6
+0,NRL 2023,Round 24,"Saturday, 12th August, 2023",3:00pm (local time),54551,393,"8,378","South Sydney
+RABBITOHS",8,26,5,"St George Illawarra
+DRAGONS",4,14,3
+0,NRL 2023,Round 24,"Saturday, 12th August, 2023",7:30pm (local time),54552,70,"25,118",WESTS TIGERS,12,22,5,WARRIORS,16,30,11
+0,NRL 2023,Round 24,"Saturday, 12th August, 2023",7:35pm (local time),54553,1096,"13,704","Sydney
+ROOSTERS",6,30,6,DOLPHINS,8,14,7
+0,NRL 2023,Round 24,"Sunday, 13th August, 2023",2:00pm (local time),54554,251,"17,369","Melbourne
+STORM",20,48,6,"Canberra
+RAIDERS",2,2,6
+0,NRL 2023,Round 24,"Sunday, 13th August, 2023",4:05pm (local time),54555,11,"23,464","Newcastle
+KNIGHTS",30,42,4,"Canterbury Bankstown
+BULLDOGS",0,6,3
+0,NRL 2023,Round 25,"Thursday, 17th August, 2023",7:50pm (local time),54556,985,"17,318","North Queensland
+COWBOYS",12,12,7,"Cronulla Sutherland
+SHARKS",18,32,4
+0,NRL 2023,Round 25,"Friday, 18th August, 2023",8:00pm (local time),54557,6,"24,112",WARRIORS,16,29,7,"Manly Warringah
+SEA EAGLES",22,22,7
+0,NRL 2023,Round 25,"Friday, 18th August, 2023",8:00pm (local time),54558,940,"20,076","Parramatta
+EELS",6,12,4,"Sydney
+ROOSTERS",18,34,5
+0,NRL 2023,Round 25,"Saturday, 19th August, 2023",3:00pm (local time),54559,940,"9,245",WESTS TIGERS,12,24,7,DOLPHINS,10,23,6
+0,NRL 2023,Round 25,"Saturday, 19th August, 2023",5:30pm (local time),54560,149,"19,101","Gold Coast
+TITANS",6,14,8,"Penrith
+PANTHERS",22,40,5
+0,NRL 2023,Round 25,"Saturday, 19th August, 2023",7:35pm (local time),54561,21,"8,326","St George Illawarra
+DRAGONS",18,28,4,"Melbourne
+STORM",18,38,4
+0,NRL 2023,Round 25,"Sunday, 20th August, 2023",2:05pm (local time),54562,11,"29,018","Newcastle
+KNIGHTS",12,29,7,"South Sydney
+RABBITOHS",0,10,7
+0,NRL 2023,Round 25,"Sunday, 20th August, 2023",4:05pm (local time),54563,4,"12,402","Canberra
+RAIDERS",12,36,6,"Canterbury Bankstown
+BULLDOGS",12,24,2
+0,NRL 2023,Round 26,"Thursday, 24th August, 2023",7:50pm (local time),54564,3,"21,525","Penrith
+PANTHERS",4,18,3,"Parramatta
+EELS",22,32,4
+0,NRL 2023,Round 26,"Friday, 25th August, 2023",8:00pm (local time),54565,6,"25,095",WARRIORS,10,18,7,"St George Illawarra
+DRAGONS",0,6,10
+0,NRL 2023,Round 26,"Friday, 25th August, 2023",8:00pm (local time),54566,1097,"33,449",DOLPHINS,0,10,4,"North Queensland
+COWBOYS",24,34,4
+0,NRL 2023,Round 26,"Saturday, 26th August, 2023",3:00pm (local time),54567,251,"18,072","Melbourne
+STORM",18,37,9,"Gold Coast
+TITANS",10,16,7
+0,NRL 2023,Round 26,"Saturday, 26th August, 2023",5:30pm (local time),54568,1096,"22,511","Sydney
+ROOSTERS",14,32,5,WESTS TIGERS,8,8,9
+0,NRL 2023,Round 26,"Saturday, 26th August, 2023",7:35pm (local time),54569,4,"19,400","Canberra
+RAIDERS",16,18,3,"Brisbane
+BRONCOS",16,29,7
+0,NRL 2023,Round 26,"Sunday, 27th August, 2023",2:00pm (local time),54570,20,"13,074","Canterbury Bankstown
+BULLDOGS",6,24,6,"Manly Warringah
+SEA EAGLES",16,42,5
+0,NRL 2023,Round 26,"Sunday, 27th August, 2023",4:05pm (local time),54571,11,"29,423","Newcastle
+KNIGHTS",6,32,8,"Cronulla Sutherland
+SHARKS",6,6,3
+0,NRL 2023,Round 27,"Thursday, 31st August, 2023",7:50pm (local time),54572,1097,"43,271","Brisbane
+BRONCOS",12,22,5,"Melbourne
+STORM",14,32,4
+0,NRL 2023,Round 27,"Friday, 1st September, 2023",6:00pm (local time),54573,5,"16,503","Manly Warringah
+SEA EAGLES",26,54,4,WESTS TIGERS,6,12,5
+0,NRL 2023,Round 27,"Friday, 1st September, 2023",8:00pm (local time),54574,20,"36,263","South Sydney
+RABBITOHS",6,12,5,"Sydney
+ROOSTERS",10,26,6
+0,NRL 2023,Round 27,"Saturday, 2nd September, 2023",3:00pm (local time),54575,1097,"35,438",DOLPHINS,22,34,5,WARRIORS,0,10,2
+0,NRL 2023,Round 27,"Saturday, 2nd September, 2023",5:30pm (local time),54576,3,"21,525","Penrith
+PANTHERS",26,44,7,"North Queensland
+COWBOYS",0,12,4
+0,NRL 2023,Round 27,"Saturday, 2nd September, 2023",7:35pm (local time),54577,23,"10,137","St George Illawarra
+DRAGONS",6,12,5,"Newcastle
+KNIGHTS",16,32,3
+0,NRL 2023,Round 27,"Sunday, 3rd September, 2023",2:00pm (local time),54578,149,"14,942","Gold Coast
+TITANS",18,34,3,"Canterbury Bankstown
+BULLDOGS",6,30,2
+0,NRL 2023,Round 27,"Sunday, 3rd September, 2023",4:05pm (local time),54579,9,"12,750","Cronulla Sutherland
+SHARKS",4,24,6,"Canberra
+RAIDERS",6,6,3
+0,NRL 2023,Qualif Final,"Friday, 8th September, 2023",7:50pm (local time),58411,1097,"50,197","Brisbane
+BRONCOS",8,26,10,"Melbourne
+STORM",0,0,5
+0,NRL 2023,Qualif Final,"Saturday, 9th September, 2023",4:05pm (local time),58412,3,"21,525","Penrith
+PANTHERS",20,32,6,WARRIORS,0,6,4
+0,NRL 2023,Elim Qualif,"Saturday, 9th September, 2023",7:50pm (local time),58413,9,"12,570","Cronulla Sutherland
+SHARKS",6,12,6,"Sydney
+ROOSTERS",0,13,4
+0,NRL 2023,Elim Qualif,"Sunday, 10th September, 2023",4:05pm (local time),58414,11,"29,548","Newcastle
+KNIGHTS",6,30,5,"Canberra
+RAIDERS",16,28,7
+0,NRL 2023,Semi Final,"Friday, 15th September, 2023",7:50pm (local time),58454,251,"19,534","Melbourne
+STORM",10,18,8,"Sydney
+ROOSTERS",6,13,4
+0,NRL 2023,Semi Final,"Saturday, 16th September, 2023",6:05pm (local time),58455,6,"26,083",WARRIORS,16,40,3,"Newcastle
+KNIGHTS",4,10,2
+0,NRL 2023,Prelim Final,"Friday, 22nd September, 2023",7:50pm (local time),58456,20,"35,578","Penrith
+PANTHERS",18,38,9,"Melbourne
+STORM",4,4,4
+0,NRL 2023,Prelim Final,"Saturday, 23rd September, 2023",7:50pm (local time),58457,1097,"52,273","Brisbane
+BRONCOS",24,42,5,WARRIORS,12,12,5
+0,NRL 2023,Grand Final,"Sunday, 1st October, 2023",7:30pm (local time),58463,20,"81,947","Penrith
+PANTHERS",8,26,2,"Brisbane
+BRONCOS",6,24,3

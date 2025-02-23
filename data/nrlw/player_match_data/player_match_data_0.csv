@@ -1,0 +1,613 @@
+,player_id,match_id,team,opposition_team,number,position,captain
+0,30093,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),1,FB,False
+0,30110,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",1,FB,False
+0,30094,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),2,W,False
+0,30111,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",2,W,False
+0,30095,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),3,C,False
+0,30112,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",3,C,False
+0,30096,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),4,C,False
+0,30113,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",14,C,False
+0,30097,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),5,W,False
+0,30114,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",5,W,False
+0,30098,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),6,FE,False
+0,30115,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",6,FE,True
+0,30099,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),7,HB,False
+0,30116,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",7,HB,False
+0,30100,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),8,FR,True
+0,33613,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",8,FR,False
+0,30101,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),9,HK,False
+0,30118,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",9,HK,False
+0,30102,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),10,FR,False
+0,30119,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",10,FR,False
+0,30103,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),11,2R,False
+0,30120,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",4,2R,False
+0,30104,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),12,2R,False
+0,30121,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",12,2R,False
+0,30105,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),13,L,False
+0,30122,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",13,L,False
+0,30106,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),14,B,False
+0,30123,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",11,B,False
+0,30107,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),15,B,False
+0,30124,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",15,B,False
+0,30108,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),16,B,False
+0,30125,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",17,B,False
+0,30109,44896,"Sydney (W)
+ROOSTERS",NEW ZEALAND WARRIORS (W),17,B,False
+0,30126,44896,NEW ZEALAND WARRIORS (W),"Sydney (W)
+ROOSTERS",18,B,False
+0,30129,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,30148,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",1,FB,True
+0,30130,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,30149,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",2,W,False
+0,30131,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",3,C,False
+0,30150,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",3,C,False
+0,30132,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,30151,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",4,C,False
+0,30133,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,30152,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",5,W,False
+0,30134,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",6,FE,False
+0,30153,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",17,FE,False
+0,30135,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",7,HB,True
+0,30154,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",7,HB,False
+0,30136,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,30155,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",16,FR,False
+0,30137,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,30156,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",9,HK,False
+0,30138,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,30157,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30139,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,30158,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30140,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,30159,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",14,2R,False
+0,30141,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",13,L,False
+0,30160,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",13,L,False
+0,30142,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",14,B,False
+0,30161,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",6,B,False
+0,30143,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",15,B,False
+0,30162,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",8,B,False
+0,30144,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",16,B,False
+0,30163,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",15,B,False
+0,30145,44897,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",17,B,False
+0,30164,44897,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",18,B,False
+0,30097,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",1,FB,False
+0,30129,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30165,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",2,W,False
+0,30130,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",2,W,False
+0,30095,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",3,C,False
+0,30133,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",3,C,False
+0,30096,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",4,C,False
+0,30132,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",4,C,False
+0,30094,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",5,W,False
+0,30167,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",5,W,False
+0,30098,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",6,FE,False
+0,30134,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30099,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",7,HB,False
+0,30135,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",7,HB,True
+0,30166,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",8,FR,False
+0,30136,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",8,FR,False
+0,30101,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",9,HK,False
+0,30137,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",9,HK,False
+0,30102,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30143,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",15,FR,False
+0,30103,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30139,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",11,2R,False
+0,30104,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",12,2R,False
+0,30140,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",12,2R,False
+0,30105,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",13,L,False
+0,30141,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",13,L,False
+0,30106,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",14,B,False
+0,30138,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",10,B,False
+0,30108,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",16,B,False
+0,30142,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",14,B,False
+0,30109,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",17,B,False
+0,30144,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",16,B,False
+0,30100,44898,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",21,B,True
+0,30145,44898,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",17,B,False
+0,30151,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),4,FB,False
+0,30110,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",1,FB,False
+0,30149,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),2,W,False
+0,30114,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",5,W,False
+0,30150,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),3,C,False
+0,30113,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",14,C,False
+0,30163,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),15,C,False
+0,30111,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",2,C,False
+0,30152,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),5,W,False
+0,30170,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",21,W,False
+0,30161,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),6,FE,False
+0,30115,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",6,FE,True
+0,30154,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),7,HB,False
+0,30116,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",7,HB,False
+0,30162,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),8,FR,False
+0,30171,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",8,FR,False
+0,30156,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),9,HK,False
+0,30118,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",9,HK,False
+0,30159,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),14,FR,False
+0,30119,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",10,FR,False
+0,30158,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),11,2R,True
+0,30120,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",4,2R,False
+0,30168,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),12,2R,False
+0,30121,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",12,2R,False
+0,30160,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),13,L,False
+0,30126,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",18,L,False
+0,30155,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),16,B,False
+0,30122,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",13,B,False
+0,30153,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),17,B,False
+0,30124,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",15,B,False
+0,30164,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),18,B,False
+0,30172,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",16,B,False
+0,30169,44899,"St George Illawarra (W)
+DRAGONS",NEW ZEALAND WARRIORS (W),19,B,False
+0,30173,44899,NEW ZEALAND WARRIORS (W),"St George Illawarra (W)
+DRAGONS",20,B,False
+0,30129,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),1,FB,False
+0,30110,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",1,FB,False
+0,30130,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),2,W,False
+0,30111,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",2,W,False
+0,30174,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),3,C,False
+0,30113,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",14,C,False
+0,30132,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),4,C,False
+0,30112,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",3,C,False
+0,30167,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),5,W,False
+0,30114,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",5,W,False
+0,30134,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),6,FE,False
+0,30115,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",6,FE,True
+0,30135,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),7,HB,True
+0,30116,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",7,HB,False
+0,30136,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),8,FR,False
+0,30123,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",11,FR,False
+0,30137,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),9,HK,False
+0,30118,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",9,HK,False
+0,30138,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),10,FR,False
+0,30119,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",10,FR,False
+0,30139,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),11,2R,False
+0,30120,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",4,2R,False
+0,30140,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),12,2R,False
+0,30121,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",12,2R,False
+0,30141,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),13,L,False
+0,30122,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",13,L,False
+0,30142,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),14,B,False
+0,30124,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",15,B,False
+0,30143,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),15,B,False
+0,30177,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",18,B,False
+0,30175,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),16,B,False
+0,30173,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",20,B,False
+0,30145,44900,"Brisbane (W)
+BRONCOS",NEW ZEALAND WARRIORS (W),17,B,False
+0,30178,44900,NEW ZEALAND WARRIORS (W),"Brisbane (W)
+BRONCOS",24,B,False
+0,30097,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,30151,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",4,FB,False
+0,30179,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,30149,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",2,W,False
+0,30095,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",3,C,False
+0,30150,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",3,C,False
+0,30096,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,30163,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",15,C,False
+0,30094,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,30152,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",5,W,False
+0,30098,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",6,FE,False
+0,30161,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30105,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",7,HB,False
+0,30154,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",7,HB,False
+0,30166,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,30164,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",18,FR,False
+0,30106,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,30156,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",9,HK,False
+0,30102,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,30159,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",14,FR,False
+0,30103,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,30158,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",11,2R,True
+0,30104,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,30168,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",12,2R,False
+0,30100,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",13,L,True
+0,30160,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",13,L,False
+0,30107,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",15,B,False
+0,30162,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",8,B,False
+0,30109,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",17,B,False
+0,30155,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",16,B,False
+0,30180,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",19,B,False
+0,30153,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",17,B,False
+0,30101,44901,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",21,B,False
+0,30169,44901,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",19,B,False
+0,30129,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30097,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",1,FB,False
+0,30130,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",2,W,False
+0,30179,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",2,W,False
+0,30133,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",3,C,False
+0,30095,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",3,C,False
+0,30132,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",4,C,False
+0,30096,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",4,C,False
+0,30131,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",5,W,False
+0,30094,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",5,W,False
+0,30134,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30098,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",6,FE,False
+0,30135,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",7,HB,True
+0,30105,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",7,HB,False
+0,30136,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",8,FR,False
+0,30166,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",8,FR,False
+0,30137,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",9,HK,False
+0,30106,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",9,HK,False
+0,30143,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",15,FR,False
+0,30102,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30139,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",11,2R,False
+0,30103,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30140,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",12,2R,False
+0,30104,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",12,2R,False
+0,30141,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",13,L,False
+0,30100,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",13,L,True
+0,30138,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",10,B,False
+0,30101,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",14,B,False
+0,30142,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",14,B,False
+0,30107,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",15,B,False
+0,30144,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",16,B,False
+0,30109,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",17,B,False
+0,30145,44902,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",17,B,False
+0,30180,44902,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",19,B,False

@@ -1,0 +1,19 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRLW 2020,Round 1,"Saturday, 3rd October, 2020",11:30 AM (local time),44910,4,,"Sydney (W)
+ROOSTERS",12,18,5,"St George Illawarra (W)
+DRAGONS",4,4,1
+0,NRLW 2020,Round 1,"Saturday, 3rd October, 2020",3:00 PM (local time),44911,4,,"Brisbane (W)
+BRONCOS",16,28,,NEW ZEALAND WARRIORS (W),8,14,
+0,NRLW 2020,Round 2,"Saturday, 10th October, 2020",12:30 PM (local time),44933,940,,NEW ZEALAND WARRIORS (W),0,12,,"Sydney (W)
+ROOSTERS",12,22,
+0,NRLW 2020,Round 2,"Saturday, 10th October, 2020",4:00 PM (local time),44934,940,,"St George Illawarra (W)
+DRAGONS",0,4,,"Brisbane (W)
+BRONCOS",12,18,
+0,NRLW 2020,Round 3,"Saturday, 17th October, 2020",12:30 PM (local time),44937,20,681,"St George Illawarra (W)
+DRAGONS",4,10,,NEW ZEALAND WARRIORS (W),8,22,
+0,NRLW 2020,Round 3,"Saturday, 17th October, 2020",4:00 PM (local time),44938,20,,"Sydney (W)
+ROOSTERS",4,16,,"Brisbane (W)
+BRONCOS",12,24,
+0,NRLW 2020,Grand Final,"Sunday, 25th October, 2020",4:05 PM (local time),44945,20,"9,071","Brisbane (W)
+BRONCOS",12,20,,"Sydney (W)
+ROOSTERS",10,10,

@@ -1,0 +1,213 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1956,Round 1,"Monday, 2nd April, 1956",3:15pm (local time),11294,27,"9,000",CANTERBURY BANKSTOWN,8,10,21,"Western Suburbs
+MAGPIES",10,29,18
+0,NSWRFL 1956,Round 1,"Monday, 2nd April, 1956",3:15pm (local time),11298,25,"8,000",NORTH SYDNEY,13,17,,EASTERN SUBURBS,2,12,
+0,NSWRFL 1956,Round 1,"Monday, 2nd April, 1956",3:15pm (local time),11297,111,"6,000","Parramatta
+EELS",,14,,"Balmain
+TIGERS",,18,
+0,NSWRFL 1956,Round 1,"Monday, 2nd April, 1956",3:15pm (local time),11295,23,"8,700","St George
+DRAGONS",4,9,,"Manly Warringah
+SEA EAGLES",6,6,
+0,NSWRFL 1956,Round 1,"Monday, 2nd April, 1956",3:15pm (local time),11296,24,"29,256","South Sydney
+RABBITOHS",12,22,15,NEWTOWN,12,17,16
+0,NSWRFL 1956,Round 2,"Saturday, 7th April, 1956",3:15pm (local time),11301,7,,"Balmain
+TIGERS",7,33,,CANTERBURY BANKSTOWN,2,6,
+0,NSWRFL 1956,Round 2,"Saturday, 7th April, 1956",3:15pm (local time),11299,5,"8,000","Manly Warringah
+SEA EAGLES",12,25,,"South Sydney
+RABBITOHS",13,30,
+0,NSWRFL 1956,Round 2,"Saturday, 7th April, 1956",3:15pm (local time),11303,76,,NEWTOWN,,43,,EASTERN SUBURBS,,17,
+0,NSWRFL 1956,Round 2,"Saturday, 7th April, 1956",3:15pm (local time),11300,111,"5,561","Parramatta
+EELS",2,15,,"St George
+DRAGONS",10,35,
+0,NSWRFL 1956,Round 2,"Saturday, 7th April, 1956",3:15pm (local time),11302,24,"24,433","Western Suburbs
+MAGPIES",,10,,NORTH SYDNEY,,9,
+0,NSWRFL 1956,Round 3,"Saturday, 14th April, 1956",3:15pm (local time),11304,5,,"Manly Warringah
+SEA EAGLES",,36,,"Parramatta
+EELS",,14,
+0,NSWRFL 1956,Round 3,"Saturday, 14th April, 1956",3:15pm (local time),11306,25,"11,960",NORTH SYDNEY,,8,,"Balmain
+TIGERS",,31,
+0,NSWRFL 1956,Round 3,"Saturday, 14th April, 1956",3:15pm (local time),11307,23,"6,000","St George
+DRAGONS",22,40,,CANTERBURY BANKSTOWN,9,14,
+0,NSWRFL 1956,Round 3,"Saturday, 14th April, 1956",3:15pm (local time),11308,44,"8,000","South Sydney
+RABBITOHS",9,37,,EASTERN SUBURBS,6,13,
+0,NSWRFL 1956,Round 3,"Saturday, 14th April, 1956",3:15pm (local time),11305,24,"25,150","Western Suburbs
+MAGPIES",5,8,19,NEWTOWN,12,17,6
+0,NSWRFL 1956,Round 4,"Saturday, 21st April, 1956",3:15pm (local time),11310,24,"33,318","Balmain
+TIGERS",,18,,NEWTOWN,,14,
+0,NSWRFL 1956,Round 4,"Saturday, 21st April, 1956",3:15pm (local time),11311,27,,CANTERBURY BANKSTOWN,5,14,,"Manly Warringah
+SEA EAGLES",7,11,
+0,NSWRFL 1956,Round 4,"Saturday, 21st April, 1956",3:15pm (local time),11309,111,"8,000","Parramatta
+EELS",4,12,,"South Sydney
+RABBITOHS",7,9,
+0,NSWRFL 1956,Round 4,"Saturday, 21st April, 1956",3:15pm (local time),11312,23,,"St George
+DRAGONS",8,17,,NORTH SYDNEY,8,13,
+0,NSWRFL 1956,Round 4,"Saturday, 21st April, 1956",3:15pm (local time),11313,112,,"Western Suburbs
+MAGPIES",2,6,,EASTERN SUBURBS,2,8,
+0,NSWRFL 1956,Round 5,"Wednesday, 25th April, 1956",3:15pm (local time),11315,7,"13,503","Balmain
+TIGERS",6,22,,EASTERN SUBURBS,0,9,
+0,NSWRFL 1956,Round 5,"Wednesday, 25th April, 1956",3:15pm (local time),11314,24,"28,000",NEWTOWN,9,14,,"St George
+DRAGONS",0,4,
+0,NSWRFL 1956,Round 5,"Wednesday, 25th April, 1956",3:15pm (local time),11316,25,,NORTH SYDNEY,9,16,,"Manly Warringah
+SEA EAGLES",21,49,
+0,NSWRFL 1956,Round 5,"Wednesday, 25th April, 1956",3:15pm (local time),11318,111,,"Parramatta
+EELS",17,22,,CANTERBURY BANKSTOWN,3,21,
+0,NSWRFL 1956,Round 5,"Wednesday, 25th April, 1956",3:15pm (local time),11317,112,"12,400","Western Suburbs
+MAGPIES",3,11,,"South Sydney
+RABBITOHS",14,14,
+0,NSWRFL 1956,Round 6,"Saturday, 28th April, 1956",3:15pm (local time),11319,7,"13,503","Balmain
+TIGERS",8,14,,"Western Suburbs
+MAGPIES",11,11,
+0,NSWRFL 1956,Round 6,"Saturday, 28th April, 1956",3:15pm (local time),11320,27,,CANTERBURY BANKSTOWN,19,19,,"South Sydney
+RABBITOHS",9,24,
+0,NSWRFL 1956,Round 6,"Saturday, 28th April, 1956",3:15pm (local time),11321,24,"26,564",NEWTOWN,13,33,11,"Manly Warringah
+SEA EAGLES",6,8,14
+0,NSWRFL 1956,Round 6,"Saturday, 28th April, 1956",3:15pm (local time),11322,111,,"Parramatta
+EELS",8,18,,NORTH SYDNEY,10,14,
+0,NSWRFL 1956,Round 6,"Saturday, 28th April, 1956",3:15pm (local time),11323,23,,"St George
+DRAGONS",19,44,,EASTERN SUBURBS,0,8,
+0,NSWRFL 1956,Round 7,"Saturday, 5th May, 1956",3:15pm (local time),11328,5,,"Manly Warringah
+SEA EAGLES",8,23,,EASTERN SUBURBS,8,8,
+0,NSWRFL 1956,Round 7,"Saturday, 5th May, 1956",3:15pm (local time),11324,76,,NEWTOWN,13,33,,"Parramatta
+EELS",0,5,
+0,NSWRFL 1956,Round 7,"Saturday, 5th May, 1956",3:15pm (local time),11327,25,"8,000",NORTH SYDNEY,7,11,,CANTERBURY BANKSTOWN,5,12,
+0,NSWRFL 1956,Round 7,"Saturday, 5th May, 1956",3:15pm (local time),11325,23,"11,120","St George
+DRAGONS",6,29,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1956,Round 7,"Saturday, 5th May, 1956",3:15pm (local time),11326,24,"50,557","South Sydney
+RABBITOHS",13,39,14,"Balmain
+TIGERS",2,4,18
+0,NSWRFL 1956,Round 8,"Sunday, 27th May, 1956",3:15pm (local time),11330,7,"12,800","Balmain
+TIGERS",11,22,,"St George
+DRAGONS",6,11,
+0,NSWRFL 1956,Round 8,"Sunday, 27th May, 1956",3:15pm (local time),11331,109,,EASTERN SUBURBS,,23,,"Parramatta
+EELS",,16,
+0,NSWRFL 1956,Round 8,"Sunday, 27th May, 1956",3:15pm (local time),11329,5,,"Manly Warringah
+SEA EAGLES",,22,,"Western Suburbs
+MAGPIES",,12,
+0,NSWRFL 1956,Round 8,"Sunday, 27th May, 1956",3:15pm (local time),11333,76,,NEWTOWN,8,13,,CANTERBURY BANKSTOWN,9,11,
+0,NSWRFL 1956,Round 8,"Sunday, 27th May, 1956",3:15pm (local time),11332,44,,"South Sydney
+RABBITOHS",5,21,,NORTH SYDNEY,0,13,
+0,NSWRFL 1956,Round 9,"Monday, 4th June, 1956",3:15pm (local time),11334,24,"11,006","Balmain
+TIGERS",13,15,,"Manly Warringah
+SEA EAGLES",2,9,
+0,NSWRFL 1956,Round 9,"Monday, 4th June, 1956",3:15pm (local time),11338,109,,EASTERN SUBURBS,,24,,CANTERBURY BANKSTOWN,,7,
+0,NSWRFL 1956,Round 9,"Monday, 4th June, 1956",3:15pm (local time),11335,25,,NORTH SYDNEY,,7,,NEWTOWN,,29,
+0,NSWRFL 1956,Round 9,"Monday, 4th June, 1956",3:15pm (local time),11337,44,"13,839","South Sydney
+RABBITOHS",18,28,,"St George
+DRAGONS",4,6,
+0,NSWRFL 1956,Round 9,"Monday, 4th June, 1956",3:15pm (local time),11336,112,,"Western Suburbs
+MAGPIES",,23,,"Parramatta
+EELS",,0,
+0,NSWRFL 1956,Round 10,"Saturday, 16th June, 1956",3:15pm (local time),11341,7,,"Balmain
+TIGERS",3,9,,"Parramatta
+EELS",0,5,
+0,NSWRFL 1956,Round 10,"Saturday, 16th June, 1956",3:15pm (local time),11339,5,"4,000","Manly Warringah
+SEA EAGLES",4,11,,"St George
+DRAGONS",7,11,
+0,NSWRFL 1956,Round 10,"Saturday, 16th June, 1956",3:15pm (local time),11340,24,"34,035",NEWTOWN,12,29,12,"South Sydney
+RABBITOHS",11,16,13
+0,NSWRFL 1956,Round 10,"Saturday, 16th June, 1956",3:15pm (local time),11342,112,,"Western Suburbs
+MAGPIES",3,22,,CANTERBURY BANKSTOWN,6,8,
+0,NSWRFL 1956,Round 10,"Sunday, 17th June, 1956",3:15pm (local time),11343,109,"9,981",EASTERN SUBURBS,0,16,,NORTH SYDNEY,8,8,
+0,NSWRFL 1956,Round 11,"Saturday, 23rd June, 1956",3:15pm (local time),11347,27,,CANTERBURY BANKSTOWN,11,13,,"Balmain
+TIGERS",3,19,
+0,NSWRFL 1956,Round 11,"Saturday, 23rd June, 1956",3:15pm (local time),11344,25,,NORTH SYDNEY,,18,,"Western Suburbs
+MAGPIES",,8,
+0,NSWRFL 1956,Round 11,"Saturday, 23rd June, 1956",3:15pm (local time),11346,23,,"St George
+DRAGONS",9,26,,"Parramatta
+EELS",10,15,
+0,NSWRFL 1956,Round 11,"Saturday, 23rd June, 1956",3:15pm (local time),11345,24,,"South Sydney
+RABBITOHS",12,23,,"Manly Warringah
+SEA EAGLES",11,19,
+0,NSWRFL 1956,Round 11,"Sunday, 24th June, 1956",3:15pm (local time),11348,109,,EASTERN SUBURBS,4,4,,NEWTOWN,5,12,
+0,NSWRFL 1956,Round 12,"Sunday, 1st July, 1956",3:15pm (local time),11350,7,,"Balmain
+TIGERS",,9,,NORTH SYDNEY,,10,
+0,NSWRFL 1956,Round 12,"Sunday, 1st July, 1956",3:15pm (local time),11351,27,,CANTERBURY BANKSTOWN,6,6,,"St George
+DRAGONS",11,25,
+0,NSWRFL 1956,Round 12,"Sunday, 1st July, 1956",3:15pm (local time),11352,109,,EASTERN SUBURBS,0,7,,"South Sydney
+RABBITOHS",7,13,
+0,NSWRFL 1956,Round 12,"Sunday, 1st July, 1956",3:15pm (local time),11349,76,,NEWTOWN,,6,,"Western Suburbs
+MAGPIES",,14,
+0,NSWRFL 1956,Round 12,"Sunday, 1st July, 1956",3:15pm (local time),11353,111,,"Parramatta
+EELS",2,12,,"Manly Warringah
+SEA EAGLES",20,35,
+0,NSWRFL 1956,Round 13,"Saturday, 7th July, 1956",3:15pm (local time),11357,5,,"Manly Warringah
+SEA EAGLES",5,14,,CANTERBURY BANKSTOWN,6,11,
+0,NSWRFL 1956,Round 13,"Saturday, 7th July, 1956",3:15pm (local time),11356,24,"16,423",NEWTOWN,,15,,"Balmain
+TIGERS",,10,
+0,NSWRFL 1956,Round 13,"Saturday, 7th July, 1956",3:15pm (local time),11354,25,,NORTH SYDNEY,6,13,,"St George
+DRAGONS",13,25,
+0,NSWRFL 1956,Round 13,"Saturday, 7th July, 1956",3:15pm (local time),11355,44,,"South Sydney
+RABBITOHS",7,15,,"Parramatta
+EELS",7,15,
+0,NSWRFL 1956,Round 13,"Sunday, 8th July, 1956",3:15pm (local time),11358,109,,EASTERN SUBURBS,6,6,,"Western Suburbs
+MAGPIES",9,25,
+0,NSWRFL 1956,Round 14,"Saturday, 14th July, 1956",3:15pm (local time),11361,27,,CANTERBURY BANKSTOWN,,20,,"Parramatta
+EELS",,2,
+0,NSWRFL 1956,Round 14,"Saturday, 14th July, 1956",3:15pm (local time),11359,5,,"Manly Warringah
+SEA EAGLES",5,7,,NORTH SYDNEY,0,7,
+0,NSWRFL 1956,Round 14,"Saturday, 14th July, 1956",3:15pm (local time),11362,24,,"St George
+DRAGONS",,32,,NEWTOWN,,8,
+0,NSWRFL 1956,Round 14,"Saturday, 14th July, 1956",3:15pm (local time),11360,44,,"South Sydney
+RABBITOHS",0,3,,"Western Suburbs
+MAGPIES",5,12,
+0,NSWRFL 1956,Round 14,"Sunday, 15th July, 1956",3:15pm (local time),11363,109,"10,601",EASTERN SUBURBS,8,10,,"Balmain
+TIGERS",4,19,
+0,NSWRFL 1956,Round 15,"Saturday, 21st July, 1956",3:15pm (local time),11364,5,,"Manly Warringah
+SEA EAGLES",,13,,NEWTOWN,,5,
+0,NSWRFL 1956,Round 15,"Saturday, 21st July, 1956",3:15pm (local time),11365,25,,NORTH SYDNEY,,20,,"Parramatta
+EELS",,13,
+0,NSWRFL 1956,Round 15,"Saturday, 21st July, 1956",3:15pm (local time),11367,44,,"South Sydney
+RABBITOHS",12,19,,CANTERBURY BANKSTOWN,6,20,
+0,NSWRFL 1956,Round 15,"Saturday, 21st July, 1956",3:15pm (local time),11366,24,"16,786","Western Suburbs
+MAGPIES",12,23,,"Balmain
+TIGERS",2,9,
+0,NSWRFL 1956,Round 15,"Sunday, 22nd July, 1956",3:15pm (local time),11368,109,,EASTERN SUBURBS,7,10,,"St George
+DRAGONS",8,19,
+0,NSWRFL 1956,Round 16,"Saturday, 28th July, 1956",3:15pm (local time),11369,7,,"Balmain
+TIGERS",7,16,,"South Sydney
+RABBITOHS",7,14,
+0,NSWRFL 1956,Round 16,"Saturday, 28th July, 1956",3:15pm (local time),11370,27,,CANTERBURY BANKSTOWN,,18,,NORTH SYDNEY,,17,
+0,NSWRFL 1956,Round 16,"Saturday, 28th July, 1956",3:15pm (local time),11371,111,,"Parramatta
+EELS",,20,,NEWTOWN,,16,
+0,NSWRFL 1956,Round 16,"Saturday, 28th July, 1956",3:15pm (local time),11372,24,"26,378","Western Suburbs
+MAGPIES",10,27,,"St George
+DRAGONS",8,21,
+0,NSWRFL 1956,Round 16,"Sunday, 29th July, 1956",3:15pm (local time),11373,109,,EASTERN SUBURBS,,16,22,"Manly Warringah
+SEA EAGLES",,16,10
+0,NSWRFL 1956,Round 17,"Saturday, 4th August, 1956",3:15pm (local time),11375,27,"8,000",CANTERBURY BANKSTOWN,,9,,NEWTOWN,,19,
+0,NSWRFL 1956,Round 17,"Saturday, 4th August, 1956",3:15pm (local time),11374,25,"7,000",NORTH SYDNEY,2,6,,"South Sydney
+RABBITOHS",2,19,
+0,NSWRFL 1956,Round 17,"Saturday, 4th August, 1956",3:15pm (local time),11378,111,,"Parramatta
+EELS",,11,,EASTERN SUBURBS,,12,
+0,NSWRFL 1956,Round 17,"Saturday, 4th August, 1956",3:15pm (local time),11377,24,"22,382","St George
+DRAGONS",13,23,6,"Balmain
+TIGERS",4,9,15
+0,NSWRFL 1956,Round 17,"Saturday, 4th August, 1956",3:15pm (local time),11376,112,,"Western Suburbs
+MAGPIES",,17,,"Manly Warringah
+SEA EAGLES",,12,
+0,NSWRFL 1956,Round 18,"Saturday, 11th August, 1956",3:15pm (local time),11382,27,,CANTERBURY BANKSTOWN,,16,,EASTERN SUBURBS,,8,
+0,NSWRFL 1956,Round 18,"Saturday, 11th August, 1956",3:15pm (local time),11383,5,,"Manly Warringah
+SEA EAGLES",,7,,"Balmain
+TIGERS",,16,
+0,NSWRFL 1956,Round 18,"Saturday, 11th August, 1956",3:15pm (local time),11379,76,,NEWTOWN,0,10,,NORTH SYDNEY,8,11,
+0,NSWRFL 1956,Round 18,"Saturday, 11th August, 1956",3:15pm (local time),11380,111,,"Parramatta
+EELS",10,15,,"Western Suburbs
+MAGPIES",7,16,
+0,NSWRFL 1956,Round 18,"Saturday, 11th August, 1956",3:15pm (local time),11381,24,"30,912","St George
+DRAGONS",14,21,8,"South Sydney
+RABBITOHS",5,18,12
+0,NSWRFL 1956,Playoff,"Tuesday, 14th August, 1956",3:15pm (local time),11384,44,"20,920","Western Suburbs
+MAGPIES",7,10,,NEWTOWN,3,5,
+0,NSWRFL 1956,Minor Semi,"Saturday, 18th August, 1956",3:15pm (local time),11385,24,"51,775","South Sydney
+RABBITOHS",18,45,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1956,Major Semi,"Saturday, 25th August, 1956",3:15pm (local time),11386,24,"37,339","St George
+DRAGONS",15,30,,"Balmain
+TIGERS",12,25,
+0,NSWRFL 1956,Prelim Final,"Saturday, 1st September, 1956",3:15pm (local time),11387,24,"42,350","Balmain
+TIGERS",14,36,,"South Sydney
+RABBITOHS",15,33,
+0,NSWRFL 1956,Grand Final,"Saturday, 8th September, 1956",3:15pm (local time),11388,24,"61,987","St George
+DRAGONS",8,18,,"Balmain
+TIGERS",0,12,

@@ -1,0 +1,469 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2000,Round 1,"Saturday, 5th February, 2000",,1414,20,"62,255","St George Illawarra
+DRAGONS",6,12,3,SHARKS,28,28,5
+0,NRL 2000,Round 1,"Saturday, 5th February, 2000",,1413,20,"62,255","Sydney
+ROOSTERS",4,20,4,"Parramatta
+EELS",16,16,4
+0,NRL 2000,Round 1,"Sunday, 6th February, 2000",,1417,6,"19,014","Auckland
+WARRIORS",10,14,5,"Melbourne
+STORM",2,6,7
+0,NRL 2000,Round 1,"Sunday, 6th February, 2000",,1416,26,"20,059",NORTHERN EAGLES,10,24,6,"Newcastle
+KNIGHTS",10,14,6
+0,NRL 2000,Round 1,"Sunday, 6th February, 2000",,1415,19,"15,376",WESTS TIGERS,14,24,7,"Brisbane
+BRONCOS",6,24,7
+0,NRL 2000,Round 1,"Monday, 7th February, 2000",,1418,4,"14,624","Canberra
+RAIDERS",8,14,9,BULLDOGS,2,2,7
+0,NRL 2000,Round 1,"Monday, 7th February, 2000",,110,3,"10,623","Penrith
+PANTHERS",10,19,8,"North Queensland
+COWBOYS",6,6,11
+0,NRL 2000,Round 2,"Friday, 11th February, 2000",7:30pm (local time),1419,8,"15,366","Parramatta
+EELS",6,10,12,"Brisbane
+BRONCOS",0,18,3
+0,NRL 2000,Round 2,"Saturday, 12th February, 2000",,1421,11,"16,155","Newcastle
+KNIGHTS",20,38,6,"Melbourne
+STORM",0,6,2
+0,NRL 2000,Round 2,"Saturday, 12th February, 2000",,111,21,"6,024","St George Illawarra
+DRAGONS",8,12,7,"North Queensland
+COWBOYS",6,6,8
+0,NRL 2000,Round 2,"Saturday, 12th February, 2000",,1420,9,"13,112",SHARKS,6,28,3,"Sydney
+ROOSTERS",2,2,4
+0,NRL 2000,Round 2,"Sunday, 13th February, 2000",,1422,20,"11,214",BULLDOGS,0,0,6,"Penrith
+PANTHERS",12,26,6
+0,NRL 2000,Round 2,"Sunday, 13th February, 2000",,1423,4,"10,085","Canberra
+RAIDERS",10,22,3,NORTHERN EAGLES,4,8,6
+0,NRL 2000,Round 2,"Monday, 14th February, 2000",,1424,7,"10,807",WESTS TIGERS,6,17,7,"Auckland
+WARRIORS",8,16,6
+0,NRL 2000,Round 3,"Friday, 18th February, 2000",,1425,1,"16,163","St George Illawarra
+DRAGONS",0,0,7,BULLDOGS,18,24,4
+0,NRL 2000,Round 3,"Saturday, 19th February, 2000",,1427,4,"13,337","Canberra
+RAIDERS",8,16,6,"Melbourne
+STORM",2,12,7
+0,NRL 2000,Round 3,"Saturday, 19th February, 2000",,1426,8,"13,243","Parramatta
+EELS",14,19,7,SHARKS,12,18,7
+0,NRL 2000,Round 3,"Saturday, 19th February, 2000",,112,1,"5,820","Sydney
+ROOSTERS",18,32,6,"North Queensland
+COWBOYS",6,12,7
+0,NRL 2000,Round 3,"Sunday, 20th February, 2000",,1429,6,"17,505","Auckland
+WARRIORS",8,10,7,"Brisbane
+BRONCOS",12,28,3
+0,NRL 2000,Round 3,"Sunday, 20th February, 2000",,1428,11,"21,304","Newcastle
+KNIGHTS",18,46,8,WESTS TIGERS,2,8,4
+0,NRL 2000,Round 3,"Monday, 21st February, 2000",,1430,5,"14,000",NORTHERN EAGLES,12,27,8,"Penrith
+PANTHERS",0,16,6
+0,NRL 2000,Round 4,"Friday, 25th February, 2000",,1431,1,"14,326","Sydney
+ROOSTERS",,12,7,BULLDOGS,,32,4
+0,NRL 2000,Round 4,"Saturday, 26th February, 2000",,1434,6,"12,560","Auckland
+WARRIORS",,18,7,"Newcastle
+KNIGHTS",,18,10
+0,NRL 2000,Round 4,"Saturday, 26th February, 2000",,1433,26,"19,092",NORTHERN EAGLES,,21,4,"St George Illawarra
+DRAGONS",,20,5
+0,NRL 2000,Round 4,"Saturday, 26th February, 2000",,1432,9,"15,969",SHARKS,,14,5,"Brisbane
+BRONCOS",,18,2
+0,NRL 2000,Round 4,"Sunday, 27th February, 2000",,1435,3,"11,132","Penrith
+PANTHERS",18,30,5,"Melbourne
+STORM",8,22,5
+0,NRL 2000,Round 4,"Sunday, 27th February, 2000",,1436,7,"9,271",WESTS TIGERS,,18,7,"Canberra
+RAIDERS",,10,8
+0,NRL 2000,Round 4,"Monday, 28th February, 2000",,113,8,"10,110","Parramatta
+EELS",,18,8,"North Queensland
+COWBOYS",,26,5
+0,NRL 2000,Round 5,"Friday, 3rd March, 2000",,1437,37,"23,239","Melbourne
+STORM",,70,3,"St George Illawarra
+DRAGONS",,10,6
+0,NRL 2000,Round 5,"Saturday, 4th March, 2000",,1439,20,"19,081",BULLDOGS,,22,6,"Parramatta
+EELS",,12,5
+0,NRL 2000,Round 5,"Saturday, 4th March, 2000",,1438,13,"27,146","Brisbane
+BRONCOS",,20,2,"Newcastle
+KNIGHTS",,14,5
+0,NRL 2000,Round 5,"Saturday, 4th March, 2000",,291,14,"15,890","North Queensland
+COWBOYS",,12,5,SHARKS,,26,6
+0,NRL 2000,Round 5,"Sunday, 5th March, 2000",,1440,1,"8,373","Sydney
+ROOSTERS",,22,4,NORTHERN EAGLES,,2,7
+0,NRL 2000,Round 5,"Sunday, 5th March, 2000",,1441,7,"8,853",WESTS TIGERS,,22,10,"Penrith
+PANTHERS",,10,2
+0,NRL 2000,Round 5,"Monday, 6th March, 2000",,1442,4,"8,170","Canberra
+RAIDERS",,56,6,"Auckland
+WARRIORS",,12,7
+0,NRL 2000,Round 6,"Friday, 10th March, 2000",,1443,12,"14,032","Melbourne
+STORM",,42,4,"Sydney
+ROOSTERS",,10,3
+0,NRL 2000,Round 6,"Saturday, 11th March, 2000",,1445,8,"11,148","Parramatta
+EELS",,16,7,NORTHERN EAGLES,,14,4
+0,NRL 2000,Round 6,"Saturday, 11th March, 2000",,1444,3,"9,305","Penrith
+PANTHERS",,31,5,"Auckland
+WARRIORS",,24,7
+0,NRL 2000,Round 6,"Saturday, 11th March, 2000",,292,14,"27,643","North Queensland
+COWBOYS",,8,5,"Brisbane
+BRONCOS",,50,4
+0,NRL 2000,Round 6,"Sunday, 12th March, 2000",,1446,11,"18,443","Newcastle
+KNIGHTS",,40,7,"Canberra
+RAIDERS",,10,4
+0,NRL 2000,Round 6,"Sunday, 12th March, 2000",,1447,21,"12,021","St George Illawarra
+DRAGONS",,9,7,WESTS TIGERS,,15,8
+0,NRL 2000,Round 6,"Monday, 13th March, 2000",,1448,9,"11,500",SHARKS,,14,4,BULLDOGS,,4,4
+0,NRL 2000,Round 7,"Friday, 17th March, 2000",,1449,13,"27,506","Brisbane
+BRONCOS",,14,4,"Canberra
+RAIDERS",,6,3
+0,NRL 2000,Round 7,"Saturday, 18th March, 2000",,1451,6,"11,217","Auckland
+WARRIORS",,8,8,"St George Illawarra
+DRAGONS",,36,3
+0,NRL 2000,Round 7,"Saturday, 18th March, 2000",,1452,12,"15,684","Melbourne
+STORM",,16,8,"Parramatta
+EELS",,12,7
+0,NRL 2000,Round 7,"Saturday, 18th March, 2000",,1450,5,"12,228",NORTHERN EAGLES,,30,3,SHARKS,,2,5
+0,NRL 2000,Round 7,"Sunday, 19th March, 2000",,116,20,"6,572",BULLDOGS,,8,4,"North Queensland
+COWBOYS",,18,6
+0,NRL 2000,Round 7,"Sunday, 19th March, 2000",,1453,3,"12,154","Penrith
+PANTHERS",,10,2,"Newcastle
+KNIGHTS",,30,4
+0,NRL 2000,Round 7,"Sunday, 19th March, 2000",,1454,1,"13,519","Sydney
+ROOSTERS",,35,8,WESTS TIGERS,,6,8
+0,NRL 2000,Round 8,"Friday, 24th March, 2000",,1455,11,"12,842","Newcastle
+KNIGHTS",,18,4,"St George Illawarra
+DRAGONS",,25,4
+0,NRL 2000,Round 8,"Saturday, 25th March, 2000",,1456,4,"11,044","Canberra
+RAIDERS",,30,6,"Penrith
+PANTHERS",,6,5
+0,NRL 2000,Round 8,"Saturday, 25th March, 2000",,1457,9,"15,181",SHARKS,,26,9,"Melbourne
+STORM",,14,4
+0,NRL 2000,Round 8,"Saturday, 25th March, 2000",,293,14,"13,164","North Queensland
+COWBOYS",,50,8,NORTHERN EAGLES,,10,2
+0,NRL 2000,Round 8,"Sunday, 26th March, 2000",,1460,6,"11,125","Auckland
+WARRIORS",,26,3,"Sydney
+ROOSTERS",,22,3
+0,NRL 2000,Round 8,"Sunday, 26th March, 2000",,1459,7,"14,708",WESTS TIGERS,,14,8,"Parramatta
+EELS",,14,9
+0,NRL 2000,Round 8,"Sunday, 26th March, 2000",,1458,13,"21,815","Brisbane
+BRONCOS",,24,5,BULLDOGS,,14,3
+0,NRL 2000,Round 9,"Friday, 31st March, 2000",,1461,3,"15,290","Penrith
+PANTHERS",,18,7,"Brisbane
+BRONCOS",,2,8
+0,NRL 2000,Round 9,"Saturday, 1st April, 2000",,118,12,"13,697","Melbourne
+STORM",,28,5,"North Queensland
+COWBOYS",,6,10
+0,NRL 2000,Round 9,"Saturday, 1st April, 2000",,1463,8,"12,026","Parramatta
+EELS",,24,3,"Auckland
+WARRIORS",,22,4
+0,NRL 2000,Round 9,"Saturday, 1st April, 2000",,1462,9,"13,137",SHARKS,,12,10,WESTS TIGERS,,16,6
+0,NRL 2000,Round 9,"Sunday, 2nd April, 2000",,1465,20,"10,116",BULLDOGS,,22,5,NORTHERN EAGLES,,14,3
+0,NRL 2000,Round 9,"Sunday, 2nd April, 2000",,1464,1,"9,812","St George Illawarra
+DRAGONS",,24,3,"Canberra
+RAIDERS",,18,6
+0,NRL 2000,Round 9,"Monday, 3rd April, 2000",,1466,1,"13,055","Sydney
+ROOSTERS",,20,4,"Newcastle
+KNIGHTS",,18,8
+0,NRL 2000,Round 10,"Friday, 7th April, 2000",,1467,13,"29,849","Brisbane
+BRONCOS",,18,5,"Melbourne
+STORM",,18,3
+0,NRL 2000,Round 10,"Saturday, 8th April, 2000",,1470,20,"7,132",BULLDOGS,,18,5,"Auckland
+WARRIORS",,18,4
+0,NRL 2000,Round 10,"Saturday, 8th April, 2000",,1468,26,"19,882",NORTHERN EAGLES,,10,6,WESTS TIGERS,,18,3
+0,NRL 2000,Round 10,"Saturday, 8th April, 2000",,1469,8,"16,142","Parramatta
+EELS",,14,6,"Penrith
+PANTHERS",,12,8
+0,NRL 2000,Round 10,"Sunday, 9th April, 2000",,1471,4,"12,612","Canberra
+RAIDERS",,24,5,SHARKS,,18,7
+0,NRL 2000,Round 10,"Sunday, 9th April, 2000",,119,11,"19,210","Newcastle
+KNIGHTS",,28,3,"North Queensland
+COWBOYS",,6,8
+0,NRL 2000,Round 10,"Sunday, 9th April, 2000",,1472,21,"13,221","St George Illawarra
+DRAGONS",,24,4,"Sydney
+ROOSTERS",,20,11
+0,NRL 2000,Round 11,"Friday, 14th April, 2000",,1473,9,"13,206",SHARKS,,42,6,"Newcastle
+KNIGHTS",,16,2
+0,NRL 2000,Round 11,"Saturday, 15th April, 2000",,1474,12,"14,574","Melbourne
+STORM",,44,6,NORTHERN EAGLES,,18,5
+0,NRL 2000,Round 11,"Saturday, 15th April, 2000",,294,14,"13,557","North Queensland
+COWBOYS",,12,11,"Auckland
+WARRIORS",,18,10
+0,NRL 2000,Round 11,"Saturday, 15th April, 2000",,1475,3,"10,579","Penrith
+PANTHERS",,22,4,"Sydney
+ROOSTERS",,30,7
+0,NRL 2000,Round 11,"Sunday, 16th April, 2000",,1477,13,"22,190","Brisbane
+BRONCOS",,34,8,"St George Illawarra
+DRAGONS",,18,4
+0,NRL 2000,Round 11,"Sunday, 16th April, 2000",,1476,4,"11,600","Canberra
+RAIDERS",,2,3,"Parramatta
+EELS",,14,8
+0,NRL 2000,Round 11,"Sunday, 16th April, 2000",,1478,19,"18,119",WESTS TIGERS,,14,8,BULLDOGS,,22,10
+0,NRL 2000,Round 12,"Saturday, 22nd April, 2000",,1479,1,"8,849","St George Illawarra
+DRAGONS",,28,6,"Penrith
+PANTHERS",,20,10
+0,NRL 2000,Round 12,"Saturday, 22nd April, 2000",,121,7,"7,517",WESTS TIGERS,,8,4,"North Queensland
+COWBOYS",,18,5
+0,NRL 2000,Round 12,"Sunday, 23rd April, 2000",,1480,11,"22,396","Newcastle
+KNIGHTS",,26,7,"Parramatta
+EELS",,23,8
+0,NRL 2000,Round 12,"Sunday, 23rd April, 2000",,1481,5,"10,781",NORTHERN EAGLES,,16,2,"Brisbane
+BRONCOS",,6,2
+0,NRL 2000,Round 12,"Monday, 24th April, 2000",,1483,6,"12,286","Auckland
+WARRIORS",,24,7,SHARKS,,20,4
+0,NRL 2000,Round 12,"Monday, 24th April, 2000",,1482,1,"11,664","Sydney
+ROOSTERS",,21,4,"Canberra
+RAIDERS",,14,4
+0,NRL 2000,Round 12,"Tuesday, 25th April, 2000",,1484,20,"15,137",BULLDOGS,,22,4,"Melbourne
+STORM",,44,5
+0,NRL 2000,Round 13,"Friday, 28th April, 2000",,1485,13,"20,208","Brisbane
+BRONCOS",,28,5,"Parramatta
+EELS",,6,4
+0,NRL 2000,Round 13,"Saturday, 29th April, 2000",,1486,6,"12,560","Auckland
+WARRIORS",,4,5,WESTS TIGERS,,30,4
+0,NRL 2000,Round 13,"Saturday, 29th April, 2000",,295,14,"13,768","North Queensland
+COWBOYS",,50,7,"St George Illawarra
+DRAGONS",,4,7
+0,NRL 2000,Round 13,"Saturday, 29th April, 2000",,1487,26,"13,792",NORTHERN EAGLES,,18,7,"Canberra
+RAIDERS",,16,5
+0,NRL 2000,Round 13,"Sunday, 30th April, 2000",,1490,12,"13,389","Melbourne
+STORM",,40,2,"Newcastle
+KNIGHTS",,4,5
+0,NRL 2000,Round 13,"Sunday, 30th April, 2000",,1488,3,"11,684","Penrith
+PANTHERS",,12,5,BULLDOGS,,16,6
+0,NRL 2000,Round 13,"Sunday, 30th April, 2000",,1489,1,"12,236","Sydney
+ROOSTERS",,16,10,SHARKS,,14,7
+0,NRL 2000,Round 14,"Friday, 5th May, 2000",,1491,8,"10,283","Parramatta
+EELS",,18,6,"Melbourne
+STORM",,8,7
+0,NRL 2000,Round 14,"Saturday, 6th May, 2000",,296,14,"15,597","North Queensland
+COWBOYS",,12,5,BULLDOGS,,32,7
+0,NRL 2000,Round 14,"Saturday, 6th May, 2000",,1493,21,"7,039","St George Illawarra
+DRAGONS",,54,5,"Auckland
+WARRIORS",,0,6
+0,NRL 2000,Round 14,"Saturday, 6th May, 2000",,1492,9,"12,231",SHARKS,,28,6,NORTHERN EAGLES,,8,4
+0,NRL 2000,Round 14,"Sunday, 7th May, 2000",,1495,11,"16,447","Newcastle
+KNIGHTS",,26,8,"Penrith
+PANTHERS",,32,5
+0,NRL 2000,Round 14,"Sunday, 7th May, 2000",,1494,19,"12,255",WESTS TIGERS,,28,5,"Sydney
+ROOSTERS",,24,6
+0,NRL 2000,Round 14,"Monday, 8th May, 2000",,1496,4,"12,552","Canberra
+RAIDERS",,16,9,"Brisbane
+BRONCOS",,14,5
+0,NRL 2000,Round 15,"Friday, 12th May, 2000",,1497,12,"14,230","Melbourne
+STORM",,40,9,WESTS TIGERS,,10,8
+0,NRL 2000,Round 15,"Saturday, 13th May, 2000",,1499,20,"14,712",BULLDOGS,,24,4,"Newcastle
+KNIGHTS",,30,5
+0,NRL 2000,Round 15,"Saturday, 13th May, 2000",,124,4,"7,110","Canberra
+RAIDERS",,17,9,"North Queensland
+COWBOYS",,10,11
+0,NRL 2000,Round 15,"Saturday, 13th May, 2000",,1498,5,"6,106",NORTHERN EAGLES,,14,7,"Auckland
+WARRIORS",,18,9
+0,NRL 2000,Round 15,"Sunday, 14th May, 2000",,1501,13,"15,577","Brisbane
+BRONCOS",,40,3,"Sydney
+ROOSTERS",,14,4
+0,NRL 2000,Round 15,"Sunday, 14th May, 2000",,1502,8,"14,135","Parramatta
+EELS",,30,4,"St George Illawarra
+DRAGONS",,24,3
+0,NRL 2000,Round 15,"Sunday, 14th May, 2000",,1500,9,"8,736",SHARKS,,26,5,"Penrith
+PANTHERS",,28,10
+0,NRL 2000,Round 16,"Friday, 19th May, 2000",,1503,3,"18,371","Penrith
+PANTHERS",,16,13,"Parramatta
+EELS",,14,11
+0,NRL 2000,Round 16,"Saturday, 20th May, 2000",,1504,6,"11,000","Auckland
+WARRIORS",,24,13,BULLDOGS,,12,7
+0,NRL 2000,Round 16,"Saturday, 20th May, 2000",,1505,9,"11,432",SHARKS,,26,6,"Canberra
+RAIDERS",,18,2
+0,NRL 2000,Round 16,"Saturday, 20th May, 2000",,1506,1,"13,285","Sydney
+ROOSTERS",,32,8,"St George Illawarra
+DRAGONS",,24,7
+0,NRL 2000,Round 16,"Sunday, 21st May, 2000",,1507,12,"14,054","Melbourne
+STORM",,16,10,"Brisbane
+BRONCOS",,12,13
+0,NRL 2000,Round 16,"Sunday, 21st May, 2000",,297,14,"15,738","North Queensland
+COWBOYS",,10,7,"Newcastle
+KNIGHTS",,18,4
+0,NRL 2000,Round 16,"Sunday, 21st May, 2000",,1508,7,"11,346",WESTS TIGERS,,36,6,NORTHERN EAGLES,,18,9
+0,NRL 2000,Round 17,"Friday, 26th May, 2000",,1509,13,"19,665","Brisbane
+BRONCOS",,32,5,SHARKS,,4,8
+0,NRL 2000,Round 17,"Saturday, 27th May, 2000",,1510,12,"11,156","Melbourne
+STORM",,20,6,"Penrith
+PANTHERS",,23,4
+0,NRL 2000,Round 17,"Saturday, 27th May, 2000",,1511,11,"13,954","Newcastle
+KNIGHTS",,30,4,"Auckland
+WARRIORS",,12,5
+0,NRL 2000,Round 17,"Saturday, 27th May, 2000",,298,14,"12,657","North Queensland
+COWBOYS",,6,9,"Parramatta
+EELS",,20,7
+0,NRL 2000,Round 17,"Sunday, 28th May, 2000",,1512,20,"11,247",BULLDOGS,,22,4,"Sydney
+ROOSTERS",,16,6
+0,NRL 2000,Round 17,"Sunday, 28th May, 2000",,1513,4,"7,384","Canberra
+RAIDERS",,24,3,WESTS TIGERS,,22,3
+0,NRL 2000,Round 17,"Sunday, 28th May, 2000",,1514,1,"7,693","St George Illawarra
+DRAGONS",,12,3,NORTHERN EAGLES,,22,6
+0,NRL 2000,Round 18,"Friday, 2nd June, 2000",,1515,8,"17,130","Parramatta
+EELS",,25,8,BULLDOGS,,12,3
+0,NRL 2000,Round 18,"Saturday, 3rd June, 2000",,1516,6,"9,500","Auckland
+WARRIORS",,6,10,"Canberra
+RAIDERS",,13,7
+0,NRL 2000,Round 18,"Saturday, 3rd June, 2000",,127,9,"11,101",SHARKS,,42,6,"North Queensland
+COWBOYS",,6,5
+0,NRL 2000,Round 18,"Sunday, 4th June, 2000",,1519,11,"21,512","Newcastle
+KNIGHTS",,26,6,"Brisbane
+BRONCOS",,22,6
+0,NRL 2000,Round 18,"Sunday, 4th June, 2000",,1517,26,"14,353",NORTHERN EAGLES,,20,5,"Sydney
+ROOSTERS",,22,4
+0,NRL 2000,Round 18,"Sunday, 4th June, 2000",,1518,3,"16,498","Penrith
+PANTHERS",,32,9,WESTS TIGERS,,31,3
+0,NRL 2000,Round 18,"Sunday, 4th June, 2000",,1520,21,"10,141","St George Illawarra
+DRAGONS",,50,5,"Melbourne
+STORM",,4,5
+0,NRL 2000,Round 19,"Friday, 9th June, 2000",,1521,19,"15,263",WESTS TIGERS,,24,6,"St George Illawarra
+DRAGONS",,36,7
+0,NRL 2000,Round 19,"Saturday, 10th June, 2000",,1522,6,"10,305","Auckland
+WARRIORS",,20,9,"Penrith
+PANTHERS",,24,7
+0,NRL 2000,Round 19,"Saturday, 10th June, 2000",,128,13,"10,455","Brisbane
+BRONCOS",,26,9,"North Queensland
+COWBOYS",,16,4
+0,NRL 2000,Round 19,"Sunday, 11th June, 2000",,1525,4,"12,122","Canberra
+RAIDERS",,32, ,"Newcastle
+KNIGHTS",,24,5
+0,NRL 2000,Round 19,"Sunday, 11th June, 2000",,1523,5,"9,961",NORTHERN EAGLES,,12,3,"Parramatta
+EELS",,24,6
+0,NRL 2000,Round 19,"Sunday, 11th June, 2000",,1524,1,"10,772","Sydney
+ROOSTERS",,41,9,"Melbourne
+STORM",,6,6
+0,NRL 2000,Round 19,"Monday, 12th June, 2000",,1526,20,"13,269",BULLDOGS,,14,4,SHARKS,,26,6
+0,NRL 2000,Round 20,"Friday, 16th June, 2000",,1527,8,"16,215","Parramatta
+EELS",,0,6,"Sydney
+ROOSTERS",,26,4
+0,NRL 2000,Round 20,"Saturday, 17th June, 2000",,1528,20,"10,117",BULLDOGS,,14,5,"Canberra
+RAIDERS",,16,4
+0,NRL 2000,Round 20,"Saturday, 17th June, 2000",,1529,11,"16,543","Newcastle
+KNIGHTS",,52,5,NORTHERN EAGLES,,20,4
+0,NRL 2000,Round 20,"Saturday, 17th June, 2000",,299,14,"10,851","North Queensland
+COWBOYS",,28,3,"Penrith
+PANTHERS",,12,6
+0,NRL 2000,Round 20,"Sunday, 18th June, 2000",,1531,13,"19,953","Brisbane
+BRONCOS",,56,6,WESTS TIGERS,,12,5
+0,NRL 2000,Round 20,"Sunday, 18th June, 2000",,1530,12,"13,028","Melbourne
+STORM",,56,6,"Auckland
+WARRIORS",,10,5
+0,NRL 2000,Round 20,"Sunday, 18th June, 2000",,1532,9,"19,507",SHARKS,,40,8,"St George Illawarra
+DRAGONS",,10,2
+0,NRL 2000,Round 21,"Saturday, 24th June, 2000",,1533,20,"12,214",BULLDOGS,,18,4,"Brisbane
+BRONCOS",,48,4
+0,NRL 2000,Round 21,"Saturday, 24th June, 2000",,1534,37,"15,535","Melbourne
+STORM",,22,6,SHARKS,,16,6
+0,NRL 2000,Round 21,"Saturday, 24th June, 2000",,1535,3,"15,240","Penrith
+PANTHERS",,36,4,"Canberra
+RAIDERS",,14,4
+0,NRL 2000,Round 21,"Saturday, 24th June, 2000",,1536,1,"7,286","Sydney
+ROOSTERS",,36,3,"Auckland
+WARRIORS",,4,5
+0,NRL 2000,Round 21,"Sunday, 25th June, 2000",,130,26,"8,206",NORTHERN EAGLES,,24,5,"North Queensland
+COWBOYS",,12,7
+0,NRL 2000,Round 21,"Sunday, 25th June, 2000",,1538,8,"20,162","Parramatta
+EELS",12,16,8,WESTS TIGERS,0,18,3
+0,NRL 2000,Round 21,"Sunday, 25th June, 2000",,1537,1,"13,270","St George Illawarra
+DRAGONS",,36,4,"Newcastle
+KNIGHTS",,24,3
+0,NRL 2000,Round 22,"Friday, 30th June, 2000",,1539,6,"9,220","Auckland
+WARRIORS",,10,4,"Parramatta
+EELS",,11,8
+0,NRL 2000,Round 22,"Friday, 30th June, 2000",,1540,11,"15,394","Newcastle
+KNIGHTS",,46,3,"Sydney
+ROOSTERS",,12,2
+0,NRL 2000,Round 22,"Saturday, 1st July, 2000",,1541,4,"14,171","Canberra
+RAIDERS",,20,11,"St George Illawarra
+DRAGONS",,30,2
+0,NRL 2000,Round 22,"Saturday, 1st July, 2000",,300,14,"17,192","North Queensland
+COWBOYS",,22,8,"Melbourne
+STORM",,26,7
+0,NRL 2000,Round 22,"Saturday, 1st July, 2000",,1542,7,"12,719",WESTS TIGERS,,24,6,SHARKS,,22,4
+0,NRL 2000,Round 22,"Sunday, 2nd July, 2000",,1543,13,"24,912","Brisbane
+BRONCOS",,48,5,"Penrith
+PANTHERS",,6,8
+0,NRL 2000,Round 22,"Sunday, 2nd July, 2000",,1544,5,"6,899",NORTHERN EAGLES,,30,5,BULLDOGS,,22,8
+0,NRL 2000,Round 23,"Friday, 7th July, 2000",,1545,8,"17,029","Parramatta
+EELS",18,22,7,"Newcastle
+KNIGHTS",6,18,9
+0,NRL 2000,Round 23,"Saturday, 8th July, 2000",,1548,12,"13,120","Melbourne
+STORM",,22,4,BULLDOGS,,31,9
+0,NRL 2000,Round 23,"Saturday, 8th July, 2000",,1547,3,"19,330","Penrith
+PANTHERS",,42,10,"St George Illawarra
+DRAGONS",,12,4
+0,NRL 2000,Round 23,"Saturday, 8th July, 2000",,1546,9,"10,635",SHARKS,,22,5,"Auckland
+WARRIORS",,12,7
+0,NRL 2000,Round 23,"Sunday, 9th July, 2000",,1550,13,"19,282","Brisbane
+BRONCOS",,32,6,NORTHERN EAGLES,,22,6
+0,NRL 2000,Round 23,"Sunday, 9th July, 2000",,1549,4,"23,603","Canberra
+RAIDERS",,40,4,"Sydney
+ROOSTERS",,12,8
+0,NRL 2000,Round 23,"Sunday, 9th July, 2000",,301,14,"14,134","North Queensland
+COWBOYS",,38,8,WESTS TIGERS,,26,7
+0,NRL 2000,Round 24,"Friday, 14th July, 2000",,1551,11,"25,685","Newcastle
+KNIGHTS",,20,4,SHARKS,,16,5
+0,NRL 2000,Round 24,"Saturday, 15th July, 2000",,133,6,"8,105","Auckland
+WARRIORS",,44,8,"North Queensland
+COWBOYS",,12,10
+0,NRL 2000,Round 24,"Saturday, 15th July, 2000",,1553,26,"13,886",NORTHERN EAGLES,,26,7,"Melbourne
+STORM",,38,5
+0,NRL 2000,Round 24,"Saturday, 15th July, 2000",,1552,8,"13,171","Parramatta
+EELS",,48,5,"Canberra
+RAIDERS",,10,6
+0,NRL 2000,Round 24,"Sunday, 16th July, 2000",,1556,20,"15,097",BULLDOGS,,36,4,WESTS TIGERS,,26,5
+0,NRL 2000,Round 24,"Sunday, 16th July, 2000",,1555,21,"14,184","St George Illawarra
+DRAGONS",,14,6,"Brisbane
+BRONCOS",,44,10
+0,NRL 2000,Round 24,"Sunday, 16th July, 2000",,1554,1,"13,169","Sydney
+ROOSTERS",,40,7,"Penrith
+PANTHERS",,14,6
+0,NRL 2000,Round 25,"Friday, 21st July, 2000",,1557,12,"14,354","Melbourne
+STORM",,16,6,"Canberra
+RAIDERS",,20,3
+0,NRL 2000,Round 25,"Saturday, 22nd July, 2000",,1558,13,"17,545","Brisbane
+BRONCOS",,38,7,"Auckland
+WARRIORS",,20,6
+0,NRL 2000,Round 25,"Saturday, 22nd July, 2000",,302,14,"14,894","North Queensland
+COWBOYS",,20,10,"Sydney
+ROOSTERS",,36,7
+0,NRL 2000,Round 25,"Saturday, 22nd July, 2000",,1559,3,"15,255","Penrith
+PANTHERS",,32,8,NORTHERN EAGLES,,26,4
+0,NRL 2000,Round 25,"Sunday, 23rd July, 2000",,1560,20,"21,609",BULLDOGS,,10,4,"St George Illawarra
+DRAGONS",,28,2
+0,NRL 2000,Round 25,"Sunday, 23rd July, 2000",,1561,9,"21,017",SHARKS,,34,12,"Parramatta
+EELS",,18,5
+0,NRL 2000,Round 25,"Sunday, 23rd July, 2000",,1562,19,"12,793",WESTS TIGERS,,26,7,"Newcastle
+KNIGHTS",,34,6
+0,NRL 2000,Round 26,"Friday, 28th July, 2000",,1563,1,"22,613","Sydney
+ROOSTERS",,28,6,"Brisbane
+BRONCOS",,0,7
+0,NRL 2000,Round 26,"Saturday, 29th July, 2000",,303,14,"16,553","North Queensland
+COWBOYS",,14,7,"Canberra
+RAIDERS",,28,6
+0,NRL 2000,Round 26,"Saturday, 29th July, 2000",,1564,1,"13,317","St George Illawarra
+DRAGONS",,24,6,"Parramatta
+EELS",,32,5
+0,NRL 2000,Round 26,"Saturday, 29th July, 2000",,1565,19,"8,590",WESTS TIGERS,,26,4,"Melbourne
+STORM",,36,10
+0,NRL 2000,Round 26,"Sunday, 30th July, 2000",,1568,6,"13,263","Auckland
+WARRIORS",,32,3,NORTHERN EAGLES,,22,3
+0,NRL 2000,Round 26,"Sunday, 30th July, 2000",,1566,11,"25,948","Newcastle
+KNIGHTS",,28,8,BULLDOGS,,16,10
+0,NRL 2000,Round 26,"Sunday, 30th July, 2000",,1567,3,"20,510","Penrith
+PANTHERS",,44,7,SHARKS,,6,1
+0,NRL 2000,Qualif Final,"Friday, 4th August, 2000",,1569,4,"18,479","Canberra
+RAIDERS",12,34,6,"Penrith
+PANTHERS",16,16,6
+0,NRL 2000,Qualif Final,"Saturday, 5th August, 2000",,1571,11,"20,597","Newcastle
+KNIGHTS",,30,8,"Melbourne
+STORM",,16,5
+0,NRL 2000,Qualif Final,"Saturday, 5th August, 2000",,1570,1,"21,377","Sydney
+ROOSTERS",,8,5,"Parramatta
+EELS",,32,7
+0,NRL 2000,Qualif Final,"Sunday, 6th August, 2000",,1572,13,"25,831","Brisbane
+BRONCOS",6,34,4,SHARKS,20,20,7
+0,NRL 2000,Semi Final,"Saturday, 12th August, 2000",,1573,1,"25,746","Parramatta
+EELS",,28,6,"Penrith
+PANTHERS",,10,7
+0,NRL 2000,Semi Final,"Sunday, 13th August, 2000",,1574,1,"16,441","Sydney
+ROOSTERS",,38,5,"Canberra
+RAIDERS",,10,7
+0,NRL 2000,Prelim Final,"Saturday, 19th August, 2000",,1575,1,"33,727","Sydney
+ROOSTERS",,26,5,"Newcastle
+KNIGHTS",,20,6
+0,NRL 2000,Prelim Final,"Sunday, 20th August, 2000",,1576,20,"31,087","Brisbane
+BRONCOS",12,16,8,"Parramatta
+EELS",0,10,6
+0,NRL 2000,Grand Final,"Sunday, 27th August, 2000",,1577,20,"94,277","Brisbane
+BRONCOS",10,14,4,"Sydney
+ROOSTERS",2,6,5

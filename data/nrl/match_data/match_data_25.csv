@@ -1,0 +1,119 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1933,Round 1,"Tuesday, 25th April, 1933",3:15pm (local time),9620,109,"9,137",EASTERN SUBURBS,11,16,,"Balmain
+TIGERS",3,3,
+0,NSWRFL 1933,Round 1,"Tuesday, 25th April, 1933",3:15pm (local time),9617,158,"10,000",NEWTOWN,5,7,,"South Sydney
+RABBITOHS",4,9,
+0,NSWRFL 1933,Round 1,"Tuesday, 25th April, 1933",3:15pm (local time),9618,25,"4,000",NORTH SYDNEY,2,8,,"St George
+DRAGONS",7,13,
+0,NSWRFL 1933,Round 1,"Tuesday, 25th April, 1933",3:15pm (local time),9619,112,,"Western Suburbs
+MAGPIES",17,32,,UNIVERSITY,13,22,
+0,NSWRFL 1933,Round 2,"Saturday, 29th April, 1933",3:15pm (local time),9622,158,"4,000",EASTERN SUBURBS,17,22,,NEWTOWN,0,14,
+0,NSWRFL 1933,Round 2,"Saturday, 29th April, 1933",3:15pm (local time),9621,154,"2,500","St George
+DRAGONS",13,18,,UNIVERSITY,9,15,
+0,NSWRFL 1933,Round 2,"Saturday, 29th April, 1933",3:15pm (local time),9623,109,"5,500","South Sydney
+RABBITOHS",5,14,,NORTH SYDNEY,5,10,
+0,NSWRFL 1933,Round 2,"Saturday, 29th April, 1933",3:15pm (local time),9624,112,,"Western Suburbs
+MAGPIES",17,19,,"Balmain
+TIGERS",4,19,
+0,NSWRFL 1933,Round 3,"Saturday, 6th May, 1933",3:15pm (local time),9626,153,"3,000","Balmain
+TIGERS",7,18,,UNIVERSITY,10,10,
+0,NSWRFL 1933,Round 3,"Saturday, 6th May, 1933",3:15pm (local time),9625,158,"8,000",NEWTOWN,2,6,,"Western Suburbs
+MAGPIES",14,21,
+0,NSWRFL 1933,Round 3,"Saturday, 6th May, 1933",3:15pm (local time),9628,25,"7,000",NORTH SYDNEY,2,7,,EASTERN SUBURBS,8,10,
+0,NSWRFL 1933,Round 3,"Saturday, 6th May, 1933",3:15pm (local time),9627,109,"11,000","South Sydney
+RABBITOHS",2,15,,"St George
+DRAGONS",0,0,
+0,NSWRFL 1933,Round 4,"Saturday, 13th May, 1933",3:15pm (local time),9629,158,"2,000",NEWTOWN,2,2,,UNIVERSITY,0,7,
+0,NSWRFL 1933,Round 4,"Saturday, 13th May, 1933",3:15pm (local time),9631,154,"3,000","St George
+DRAGONS",6,13,,"Balmain
+TIGERS",3,10,
+0,NSWRFL 1933,Round 4,"Saturday, 13th May, 1933",3:15pm (local time),9632,109,"17,205","South Sydney
+RABBITOHS",3,12,,EASTERN SUBURBS,0,7,
+0,NSWRFL 1933,Round 4,"Saturday, 13th May, 1933",3:15pm (local time),9630,112,,"Western Suburbs
+MAGPIES",9,17,,NORTH SYDNEY,13,22,
+0,NSWRFL 1933,Round 5,"Saturday, 20th May, 1933",3:15pm (local time),9635,158,,NEWTOWN,8,21,,"Balmain
+TIGERS",0,5,
+0,NSWRFL 1933,Round 5,"Saturday, 20th May, 1933",3:15pm (local time),9633,25,,NORTH SYDNEY,2,2,,UNIVERSITY,14,21,
+0,NSWRFL 1933,Round 5,"Saturday, 20th May, 1933",3:15pm (local time),9636,154,,"St George
+DRAGONS",2,14,,EASTERN SUBURBS,7,10,
+0,NSWRFL 1933,Round 5,"Saturday, 20th May, 1933",3:15pm (local time),9634,109,"8,992","South Sydney
+RABBITOHS",2,5,,"Western Suburbs
+MAGPIES",10,18,
+0,NSWRFL 1933,Round 6,"Saturday, 24th June, 1933",3:15pm (local time),9638,153,,"Balmain
+TIGERS",7,19,,NORTH SYDNEY,2,5,
+0,NSWRFL 1933,Round 6,"Saturday, 24th June, 1933",3:15pm (local time),9639,109,"7,889",EASTERN SUBURBS,9,22,,"Western Suburbs
+MAGPIES",10,37,
+0,NSWRFL 1933,Round 6,"Saturday, 24th June, 1933",3:15pm (local time),9640,154,,"St George
+DRAGONS",6,6,,NEWTOWN,3,13,
+0,NSWRFL 1933,Round 6,"Saturday, 24th June, 1933",3:15pm (local time),9637,158,,"South Sydney
+RABBITOHS",8,20,,UNIVERSITY,5,15,
+0,NSWRFL 1933,Round 7,"Saturday, 1st July, 1933",3:15pm (local time),9643,150,"2,500","Balmain
+TIGERS",4,15,,"South Sydney
+RABBITOHS",19,34,
+0,NSWRFL 1933,Round 7,"Saturday, 1st July, 1933",3:15pm (local time),9644,112,500,EASTERN SUBURBS,10,10,,UNIVERSITY,13,13,
+0,NSWRFL 1933,Round 7,"Saturday, 1st July, 1933",3:15pm (local time),9641,158,"1,500",NEWTOWN,15,23,,NORTH SYDNEY,0,4,
+0,NSWRFL 1933,Round 7,"Saturday, 1st July, 1933",3:15pm (local time),9642,109,"5,000","St George
+DRAGONS",3,21,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1933,Round 8,"Saturday, 8th July, 1933",3:15pm (local time),9645,153,,"Balmain
+TIGERS",6,11,,EASTERN SUBURBS,9,11,
+0,NSWRFL 1933,Round 8,"Saturday, 8th July, 1933",3:15pm (local time),9647,154,"2,000","St George
+DRAGONS",0,0,,NORTH SYDNEY,2,5,
+0,NSWRFL 1933,Round 8,"Saturday, 8th July, 1933",3:15pm (local time),9646,109,"7,448","South Sydney
+RABBITOHS",8,8,,NEWTOWN,10,14,
+0,NSWRFL 1933,Round 8,"Saturday, 8th July, 1933",3:15pm (local time),9648,112,,"Western Suburbs
+MAGPIES",7,7,,UNIVERSITY,6,22,
+0,NSWRFL 1933,Round 9,"Saturday, 15th July, 1933",3:15pm (local time),9651,153,,"Balmain
+TIGERS",15,22,,"Western Suburbs
+MAGPIES",9,17,
+0,NSWRFL 1933,Round 9,"Saturday, 15th July, 1933",3:15pm (local time),9652,158,"6,000",NEWTOWN,0,11,,EASTERN SUBURBS,6,16,
+0,NSWRFL 1933,Round 9,"Saturday, 15th July, 1933",3:15pm (local time),9649,25,,NORTH SYDNEY,9,16,,"South Sydney
+RABBITOHS",4,12,
+0,NSWRFL 1933,Round 9,"Saturday, 15th July, 1933",3:15pm (local time),9650,109,"4,147","St George
+DRAGONS",0,8,,UNIVERSITY,24,42,
+0,NSWRFL 1933,Round 10,"Saturday, 22nd July, 1933",3:15pm (local time),9654,153,,"Balmain
+TIGERS",5,12,,UNIVERSITY,2,10,
+0,NSWRFL 1933,Round 10,"Saturday, 22nd July, 1933",3:15pm (local time),9655,152,"3,000",EASTERN SUBURBS,2,20,,NORTH SYDNEY,5,5,
+0,NSWRFL 1933,Round 10,"Saturday, 22nd July, 1933",3:15pm (local time),9653,109,"6,096","St George
+DRAGONS",0,11,,"South Sydney
+RABBITOHS",2,4,
+0,NSWRFL 1933,Round 10,"Saturday, 22nd July, 1933",3:15pm (local time),9656,112,"2,000","Western Suburbs
+MAGPIES",5,5,,NEWTOWN,16,18,
+0,NSWRFL 1933,Round 11,"Saturday, 29th July, 1933",3:15pm (local time),9659,153,"6,500","Balmain
+TIGERS",10,17,,"St George
+DRAGONS",2,7,
+0,NSWRFL 1933,Round 11,"Saturday, 29th July, 1933",3:15pm (local time),9660,109,"7,746",EASTERN SUBURBS,15,26,,"South Sydney
+RABBITOHS",3,3,
+0,NSWRFL 1933,Round 11,"Saturday, 29th July, 1933",3:15pm (local time),9657,158,"4,000",NEWTOWN,6,13,,UNIVERSITY,2,5,
+0,NSWRFL 1933,Round 11,"Saturday, 29th July, 1933",3:15pm (local time),9658,25,,NORTH SYDNEY,6,11,,"Western Suburbs
+MAGPIES",5,10,
+0,NSWRFL 1933,Round 12,"Saturday, 5th August, 1933",3:15pm (local time),9662,153,,"Balmain
+TIGERS",9,11,,NEWTOWN,10,19,
+0,NSWRFL 1933,Round 12,"Saturday, 5th August, 1933",3:15pm (local time),9663,109,"6,102",EASTERN SUBURBS,7,10,,"St George
+DRAGONS",8,21,
+0,NSWRFL 1933,Round 12,"Saturday, 5th August, 1933",3:15pm (local time),9661,25,"4,000",NORTH SYDNEY,15,25,,UNIVERSITY,0,8,
+0,NSWRFL 1933,Round 12,"Saturday, 5th August, 1933",3:15pm (local time),9664,112,"4,000","Western Suburbs
+MAGPIES",5,5,,"South Sydney
+RABBITOHS",5,10,
+0,NSWRFL 1933,Round 13,"Saturday, 12th August, 1933",3:15pm (local time),9665,109,"7,585",NEWTOWN,2,13,,"St George
+DRAGONS",2,2,
+0,NSWRFL 1933,Round 13,"Saturday, 12th August, 1933",3:15pm (local time),9667,152,,NORTH SYDNEY,9,12,,"Balmain
+TIGERS",4,12,
+0,NSWRFL 1933,Round 13,"Saturday, 12th August, 1933",3:15pm (local time),9666,158,,"South Sydney
+RABBITOHS",17,20,,UNIVERSITY,20,20,
+0,NSWRFL 1933,Round 13,"Saturday, 12th August, 1933",3:15pm (local time),9668,112,"3,000","Western Suburbs
+MAGPIES",5,10,,EASTERN SUBURBS,12,15,
+0,NSWRFL 1933,Round 14,"Saturday, 19th August, 1933",3:15pm (local time),9669,158,,EASTERN SUBURBS,13,29,,UNIVERSITY,5,8,
+0,NSWRFL 1933,Round 14,"Saturday, 19th August, 1933",3:15pm (local time),9670,25,"4,000",NORTH SYDNEY,0,4,,NEWTOWN,2,9,
+0,NSWRFL 1933,Round 14,"Saturday, 19th August, 1933",3:15pm (local time),9672,109,"9,000","South Sydney
+RABBITOHS",5,16,,"Balmain
+TIGERS",9,13,
+0,NSWRFL 1933,Round 14,"Saturday, 19th August, 1933",3:15pm (local time),9671,112,,"Western Suburbs
+MAGPIES",10,10,,"St George
+DRAGONS",11,31,
+0,NSWRFL 1933,Semi Final,"Saturday, 26th August, 1933",3:15pm (local time),9673,109,"15,217",NEWTOWN,10,17,,"South Sydney
+RABBITOHS",5,12,
+0,NSWRFL 1933,Semi Final,"Saturday, 2nd September, 1933",3:15pm (local time),9674,109,"13,918","St George
+DRAGONS",7,13,,EASTERN SUBURBS,2,10,
+0,NSWRFL 1933,Final,"Saturday, 9th September, 1933",3:15pm (local time),9675,109,"18,080",NEWTOWN,5,18,,"St George
+DRAGONS",5,5,

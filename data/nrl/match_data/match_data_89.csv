@@ -1,0 +1,271 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,Super League 1997,Round 1,"Saturday, 1st March, 1997",7:30pm (local time),776,13,"42,361","Brisbane
+BRONCOS",8,14,4,"Auckland
+WARRIORS",2,2,7
+0,Super League 1997,Round 1,"Saturday, 1st March, 1997",7:30pm (local time),258,14,"17,738","North Queensland
+COWBOYS",4,24,6,"Adelaide
+RAMS",16,16,6
+0,Super League 1997,Round 1,"Sunday, 2nd March, 1997",2:30pm (local time),777,31,"6,579","Hunter
+MARINERS",10,16,6,"Canterbury Bankstown
+BULLDOGS",14,20,4
+0,Super League 1997,Round 1,"Sunday, 2nd March, 1997",2:30pm (local time),778,3,"8,398","Penrith
+PANTHERS",12,30,8,WESTERN REDS,8,20,7
+0,Super League 1997,Round 1,"Monday, 3rd March, 1997",7:30pm (local time),779,1,"22,683","Cronulla Sutherland
+SHARKS",22,26,6,"Canberra
+RAIDERS",0,4,3
+0,Super League 1997,Round 2,"Friday, 7th March, 1997",7:30pm (local time),259,14,"15,745","North Queensland
+COWBOYS",12,20,3,WESTERN REDS,14,22,7
+0,Super League 1997,Round 2,"Saturday, 8th March, 1997",7:30pm (local time),781,6,"20,300","Auckland
+WARRIORS",12,18,8,"Hunter
+MARINERS",10,14,7
+0,Super League 1997,Round 2,"Sunday, 9th March, 1997",2:30pm (local time),784,4,"10,849","Canberra
+RAIDERS",6,20,6,"Penrith
+PANTHERS",13,33,7
+0,Super League 1997,Round 2,"Sunday, 9th March, 1997",3:30pm (local time),785,13,"16,279","Brisbane
+BRONCOS",26,28,5,"Adelaide
+RAMS",4,12,8
+0,Super League 1997,Round 2,"Monday, 10th March, 1997",7:30pm (local time),789,27,"14,490","Canterbury Bankstown
+BULLDOGS",10,12,6,"Cronulla Sutherland
+SHARKS",12,13,8
+0,Super League 1997,Round 3,"Friday, 14th March, 1997",8:00pm (local time),790,33,"27,435","Adelaide
+RAMS",10,10,5,"Hunter
+MARINERS",2,8,7
+0,Super League 1997,Round 3,"Saturday, 15th March, 1997",7:30pm (local time),260,14,"18,003","North Queensland
+COWBOYS",6,12,9,"Penrith
+PANTHERS",14,19,5
+0,Super League 1997,Round 3,"Sunday, 16th March, 1997",2:30pm (local time),795,27,"9,025","Canterbury Bankstown
+BULLDOGS",24,38,12,"Canberra
+RAIDERS",10,26,10
+0,Super League 1997,Round 3,"Sunday, 16th March, 1997",12:30pm (local time),794,32,"11,109",WESTERN REDS,16,16,6,"Brisbane
+BRONCOS",10,26,11
+0,Super League 1997,Round 3,"Monday, 17th March, 1997",7:30pm (local time),799,9,"16,860","Cronulla Sutherland
+SHARKS",10,34,7,"Auckland
+WARRIORS",6,8,4
+0,Super League 1997,Round 4,"Friday, 21st March, 1997",7:30pm (local time),800,6,"13,000","Auckland
+WARRIORS",10,12,11,"Adelaide
+RAMS",8,16,8
+0,Super League 1997,Round 4,"Saturday, 22nd March, 1997",7:30pm (local time),47,31,"6,090","Hunter
+MARINERS",10,38,6,"North Queensland
+COWBOYS",10,10,5
+0,Super League 1997,Round 4,"Sunday, 23rd March, 1997",2:30pm (local time),806,3,"8,138","Penrith
+PANTHERS",20,38,3,"Cronulla Sutherland
+SHARKS",6,10,8
+0,Super League 1997,Round 4,"Sunday, 23rd March, 1997",12:30pm (local time),805,47,"7,135",WESTERN REDS,18,34,5,"Canterbury Bankstown
+BULLDOGS",6,6,5
+0,Super League 1997,Round 4,"Monday, 24th March, 1997",7:30pm (local time),809,13,"26,103","Brisbane
+BRONCOS",12,24,8,"Canberra
+RAIDERS",4,8,3
+0,Super League 1997,Round 5,"Thursday, 27th March, 1997",8:00pm (local time),810,33,"16,294","Adelaide
+RAMS",4,16,12,WESTERN REDS,12,18,5
+0,Super League 1997,Round 5,"Saturday, 29th March, 1997",7:30pm (local time),813,6,"19,400","Auckland
+WARRIORS",8,16,6,"Penrith
+PANTHERS",2,14,7
+0,Super League 1997,Round 5,"Sunday, 30th March, 1997",2:30pm (local time),816,4,"15,650","Canberra
+RAIDERS",8,18,7,"Hunter
+MARINERS",6,12,4
+0,Super League 1997,Round 5,"Monday, 31st March, 1997",2:30pm (local time),48,27,"9,830","Canterbury Bankstown
+BULLDOGS",6,14,5,"North Queensland
+COWBOYS",12,16,13
+0,Super League 1997,Round 5,"Monday, 31st March, 1997",7:30pm (local time),819,13,"17,294","Brisbane
+BRONCOS",12,14,4,"Cronulla Sutherland
+SHARKS",8,12, 
+0,Super League 1997,Round 6,"Friday, 4th April, 1997",7:30pm (local time),820,3,"8,926","Penrith
+PANTHERS",16,36,8,"Hunter
+MARINERS",8,24,12
+0,Super League 1997,Round 6,"Saturday, 5th April, 1997",7:30pm (local time),261,14,"30,122","North Queensland
+COWBOYS",4,16,6,"Brisbane
+BRONCOS",22,42,11
+0,Super League 1997,Round 6,"Sunday, 6th April, 1997",2:30pm (local time),825,27,"7,234","Canterbury Bankstown
+BULLDOGS",14,34,8,"Adelaide
+RAMS",16,22,8
+0,Super League 1997,Round 6,"Sunday, 6th April, 1997",12:30pm (local time),824,32,"9,200",WESTERN REDS,4,6,7,"Cronulla Sutherland
+SHARKS",12,20,4
+0,Super League 1997,Round 6,"Monday, 7th April, 1997",7:30pm (local time),829,4,"15,061","Canberra
+RAIDERS",14,24,8,"Auckland
+WARRIORS",14,31,8
+0,Super League 1997,Round 7,"Saturday, 12th April, 1997",2:00pm (local time),831,31,"7,719","Hunter
+MARINERS",8,18,7,"Auckland
+WARRIORS",0,10,4
+0,Super League 1997,Round 7,"Saturday, 12th April, 1997",7:30pm (local time),50,32,"9,701",WESTERN REDS,0,6,13,"North Queensland
+COWBOYS",4,4,9
+0,Super League 1997,Round 7,"Sunday, 13th April, 1997",2:00pm (local time),834,33,"17,633","Adelaide
+RAMS",4,10,9,"Brisbane
+BRONCOS",14,20,5
+0,Super League 1997,Round 7,"Sunday, 13th April, 1997",2:30pm (local time),835,3,"7,134","Penrith
+PANTHERS",14,20,7,"Canberra
+RAIDERS",14,30,5
+0,Super League 1997,Round 7,"Monday, 14th April, 1997",7:30pm (local time),839,9,"15,108","Cronulla Sutherland
+SHARKS",4,6,12,"Canterbury Bankstown
+BULLDOGS",12,16,3
+0,Super League 1997,Round 8,"Friday, 18th April, 1997",7:30pm (local time),840,31,"4,139","Hunter
+MARINERS",8,36,6,WESTERN REDS,0,16,7
+0,Super League 1997,Round 8,"Saturday, 19th April, 1997",7:30pm (local time),843,9,"10,112","Cronulla Sutherland
+SHARKS",8,18,9,"Adelaide
+RAMS",26,29,6
+0,Super League 1997,Round 8,"Sunday, 20th April, 1997",2:30pm (local time),842,6,"17,000","Auckland
+WARRIORS",14,24,13,"Canterbury Bankstown
+BULLDOGS",20,38,9
+0,Super League 1997,Round 8,"Sunday, 20th April, 1997",2:30pm (local time),51,4,"10,071","Canberra
+RAIDERS",22,40,5,"North Queensland
+COWBOYS",10,16,7
+0,Super League 1997,Round 8,"Monday, 21st April, 1997",7:30pm (local time),849,3,"12,648","Penrith
+PANTHERS",20,27,6,"Brisbane
+BRONCOS",12,26,2
+0,Super League 1997,Round 9,"Saturday, 26th April, 1997",7:35pm (local time),851,9,"12,284","Cronulla Sutherland
+SHARKS",10,26,8,"Hunter
+MARINERS",0,0,10
+0,Super League 1997,Round 9,"Sunday, 27th April, 1997",2:30pm (local time),854,3,"5,815","Penrith
+PANTHERS",14,16,6,"Adelaide
+RAMS",2,22,6
+0,Super League 1997,Round 9,"Sunday, 27th April, 1997",5:00pm (local time),262,14,"12,464","North Queensland
+COWBOYS",14,30,13,"Auckland
+WARRIORS",4,22,5
+0,Super League 1997,Round 9,"Monday, 28th April, 1997",7:30pm (local time),859,13,"17,921","Brisbane
+BRONCOS",12,34,9,"Canterbury Bankstown
+BULLDOGS",10,16,3
+0,Super League 1997,Round 9,"Monday, 28th April, 1997",7:30pm (local time),858,4,"10,270","Canberra
+RAIDERS",13,30,13,WESTERN REDS,10,10,9
+0,Super League 1997,Round 10,"Friday, 2nd May, 1997",8:00pm (local time),53,33,"15,970","Adelaide
+RAMS",8,14,9,"North Queensland
+COWBOYS",6,14,5
+0,Super League 1997,Round 10,"Sunday, 4th May, 1997",12:30pm (local time),864,6,"16,471","Auckland
+WARRIORS",12,18,5,"Brisbane
+BRONCOS",10,34,7
+0,Super League 1997,Round 10,"Sunday, 4th May, 1997",12:30pm (local time),863,32,"7,042",WESTERN REDS,18,35,6,"Penrith
+PANTHERS",8,20,11
+0,Super League 1997,Round 10,"Monday, 5th May, 1997",7:30pm (local time),868,4,"13,875","Canberra
+RAIDERS",12,22,4,"Cronulla Sutherland
+SHARKS",6,8,5
+0,Super League 1997,Round 10,"Monday, 12th May, 1997",7:30pm (local time),874,27,"7,126","Canterbury Bankstown
+BULLDOGS",18,48,5,"Hunter
+MARINERS",12,36,6
+0,Super League 1997,Round 11,"Friday, 16th May, 1997",7:30pm (local time),875,31,"2,198","Hunter
+MARINERS",10,30,6,"Penrith
+PANTHERS",6,6,6
+0,Super League 1997,Round 11,"Friday, 23rd May, 1997",8:00pm (local time),882,33,"15,022","Adelaide
+RAMS",0,22,6,"Canterbury Bankstown
+BULLDOGS",24,42,6
+0,Super League 1997,Round 11,"Saturday, 24th May, 1997",7:30pm (local time),884,9,"9,184","Cronulla Sutherland
+SHARKS",10,32,7,WESTERN REDS,2,2,11
+0,Super League 1997,Round 11,"Sunday, 25th May, 1997",2:00pm (local time),54,13,"14,167","Brisbane
+BRONCOS",0,20,7,"North Queensland
+COWBOYS",8,20,3
+0,Super League 1997,Round 11,"Monday, 26th May, 1997",7:30pm (local time),887,6,"15,100","Auckland
+WARRIORS",6,10,5,"Canberra
+RAIDERS",8,20,5
+0,Super League 1997,Round 12,"Friday, 30th May, 1997",7:30pm (local time),888,31,"7,124","Hunter
+MARINERS",6,24,5,"Brisbane
+BRONCOS",0,6,4
+0,Super League 1997,Round 12,"Saturday, 31st May, 1997",7:30pm (local time),263,14,"16,095","North Queensland
+COWBOYS",10,10,4,"Cronulla Sutherland
+SHARKS",12,24,5
+0,Super League 1997,Round 12,"Sunday, 1st June, 1997",2:00pm (local time),891,33,"13,894","Adelaide
+RAMS",18,18,6,"Canberra
+RAIDERS",14,34,10
+0,Super League 1997,Round 12,"Sunday, 1st June, 1997",4:30pm (local time),892,32,"10,203",WESTERN REDS,12,24,4,"Auckland
+WARRIORS",0,12,3
+0,Super League 1997,Round 12,"Monday, 2nd June, 1997",7:30pm (local time),894,27,"12,431","Canterbury Bankstown
+BULLDOGS",10,20,11,"Penrith
+PANTHERS",18,28,9
+0,Super League 1997,Round 13,"Friday, 27th June, 1997",7:30pm (local time),904,31,"7,404","Hunter
+MARINERS",12,16,5,"Canberra
+RAIDERS",6,12,8
+0,Super League 1997,Round 13,"Saturday, 28th June, 1997",7:30pm (local time),264,14,"14,176","North Queensland
+COWBOYS",12,22,11,"Canterbury Bankstown
+BULLDOGS",16,29,9
+0,Super League 1997,Round 13,"Sunday, 29th June, 1997",2:30pm (local time),907,3,"4,446","Penrith
+PANTHERS",12,26,9,"Auckland
+WARRIORS",6,22,11
+0,Super League 1997,Round 13,"Sunday, 29th June, 1997",2:30pm (local time),908,32,"7,204",WESTERN REDS,0,4,4,"Adelaide
+RAMS",10,28,11
+0,Super League 1997,Round 13,"Monday, 30th June, 1997",7:30pm (local time),910,9,"12,240","Cronulla Sutherland
+SHARKS",14,32,6,"Brisbane
+BRONCOS",4,4,6
+0,Super League 1997,Round 14,"Friday, 4th July, 1997",7:30pm (local time),57,3,"5,335","Penrith
+PANTHERS",13,26,5,"North Queensland
+COWBOYS",6,33,3
+0,Super League 1997,Round 14,"Saturday, 5th July, 1997",5:00pm (local time),912,31,"2,345","Hunter
+MARINERS",4,10,9,"Adelaide
+RAMS",0,2,9
+0,Super League 1997,Round 14,"Sunday, 6th July, 1997",2:30pm (local time),916,6,"12,568","Auckland
+WARRIORS",4,11,9,"Cronulla Sutherland
+SHARKS",2,8,6
+0,Super League 1997,Round 14,"Sunday, 6th July, 1997",2:30pm (local time),915,13,"11,806","Brisbane
+BRONCOS",14,50,2,WESTERN REDS,8,14,4
+0,Super League 1997,Round 14,"Monday, 7th July, 1997",7:30pm (local time),920,4,"7,791","Canberra
+RAIDERS",16,28,9,"Canterbury Bankstown
+BULLDOGS",6,10,10
+0,Super League 1997,Round 15,"Friday, 11th July, 1997",8:00pm (local time),921,33,"13,278","Adelaide
+RAMS",2,8,6,"Auckland
+WARRIORS",12,18,4
+0,Super League 1997,Round 15,"Saturday, 12th July, 1997",7:35pm (local time),922,9,"11,914","Cronulla Sutherland
+SHARKS",12,44,5,"Penrith
+PANTHERS",14,20,3
+0,Super League 1997,Round 15,"Sunday, 13th July, 1997",2:30pm (local time),924,27,"4,290","Canterbury Bankstown
+BULLDOGS",16,38,7,WESTERN REDS,10,26,6
+0,Super League 1997,Round 15,"Sunday, 13th July, 1997",2:35pm (local time),265,14,"11,480","North Queensland
+COWBOYS",20,33,5,"Hunter
+MARINERS",4,14,7
+0,Super League 1997,Round 15,"Monday, 14th July, 1997",7:30pm (local time),926,4,"13,067","Canberra
+RAIDERS",0,4,12,"Brisbane
+BRONCOS",9,19,1
+0,Super League 1997,Round 16,"Friday, 8th August, 1997",8:00pm (local time),944,33,"7,231","Adelaide
+RAMS",6,6,2,"Cronulla Sutherland
+SHARKS",14,28,6
+0,Super League 1997,Round 16,"Saturday, 9th August, 1997",7:30pm (local time),266,14,"22,026","North Queensland
+COWBOYS",8,14,13,"Canberra
+RAIDERS",10,22,4
+0,Super League 1997,Round 16,"Sunday, 10th August, 1997",2:30pm (local time),948,13,"13,921","Brisbane
+BRONCOS",26,54,3,"Penrith
+PANTHERS",6,12,9
+0,Super League 1997,Round 16,"Sunday, 10th August, 1997",2:30pm (local time),949,32,"5,083",WESTERN REDS,14,30,9,"Hunter
+MARINERS",8,22,4
+0,Super League 1997,Round 16,"Monday, 11th August, 1997",7:30pm (local time),953,27,"5,126","Canterbury Bankstown
+BULLDOGS",14,40,6,"Auckland
+WARRIORS",12,18,1
+0,Super League 1997,Round 17,"Friday, 15th August, 1997",7:30pm (local time),954,3,"8,213","Penrith
+PANTHERS",14,44,6,"Canterbury Bankstown
+BULLDOGS",2,8,4
+0,Super League 1997,Round 17,"Saturday, 16th August, 1997",7:30pm (local time),956,6,"13,142","Auckland
+WARRIORS",24,30,7,WESTERN REDS,10,22,12
+0,Super League 1997,Round 17,"Saturday, 16th August, 1997",7:30pm (local time),60,9,"11,640","Cronulla Sutherland
+SHARKS",12,34,6,"North Queensland
+COWBOYS",2,12,5
+0,Super League 1997,Round 17,"Sunday, 17th August, 1997",2:30pm (local time),959,4,"7,960","Canberra
+RAIDERS",18,58,8,"Adelaide
+RAMS",10,16,9
+0,Super League 1997,Round 17,"Monday, 18th August, 1997",7:30pm (local time),963,13,"13,830","Brisbane
+BRONCOS",12,34,4,"Hunter
+MARINERS",6,16,8
+0,Super League 1997,Round 18,"Friday, 22nd August, 1997",8:00pm (local time),964,33,"11,211","Adelaide
+RAMS",22,36,4,"Penrith
+PANTHERS",4,16,4
+0,Super League 1997,Round 18,"Saturday, 23rd August, 1997",6:30pm (local time),966,32,"12,307",WESTERN REDS,6,16,13,"Canberra
+RAIDERS",26,36,9
+0,Super League 1997,Round 18,"Sunday, 24th August, 1997",2:30pm (local time),61,6,"12,000","Auckland
+WARRIORS",28,50,7,"North Queensland
+COWBOYS",12,22,6
+0,Super League 1997,Round 18,"Sunday, 24th August, 1997",2:30pm (local time),969,31,"5,122","Hunter
+MARINERS",6,16,3,"Cronulla Sutherland
+SHARKS",24,28,3
+0,Super League 1997,Round 18,"Monday, 25th August, 1997",7:30pm (local time),973,27,"9,781","Canterbury Bankstown
+BULLDOGS",20,24,7,"Brisbane
+BRONCOS",18,32,1
+0,Super League 1997,Major Prelim Semi,"Saturday, 30th August, 1997",6:00pm (local time),975,9,"17,137","Cronulla Sutherland
+SHARKS",16,22,3,"Canberra
+RAIDERS",6,18,6
+0,Super League 1997,Minor Prelim Semi,"Monday, 1st September, 1997",7:30pm (local time),981,27,"10,492","Canterbury Bankstown
+BULLDOGS",8,14,6,"Penrith
+PANTHERS",15,15,6
+0,Super League 1997,Major Semi,"Saturday, 6th September, 1997",6:00pm (local time),983,14,"26,256","Brisbane
+BRONCOS",30,34,4,"Cronulla Sutherland
+SHARKS",2,2,9
+0,Super League 1997,Minor Semi,"Monday, 8th September, 1997",7:30pm (local time),986,4,"10,153","Canberra
+RAIDERS",16,32,8,"Penrith
+PANTHERS",6,12,4
+0,Super League 1997,Prelim Final,"Saturday, 13th September, 1997",6:00pm (local time),988,9,"17,638","Cronulla Sutherland
+SHARKS",8,10,6,"Canberra
+RAIDERS",0,4,6
+0,Super League 1997,Grand Final,"Saturday, 20th September, 1997",8:00pm (local time),991,13,"58,912","Brisbane
+BRONCOS",10,26,5,"Cronulla Sutherland
+SHARKS",2,8,5

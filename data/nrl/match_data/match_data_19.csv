@@ -1,0 +1,145 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1927,Round 1,"Saturday, 23rd April, 1927",3:15pm (local time),9229,150,"2,000","Balmain
+TIGERS",5,17,,GLEBE,12,28,
+0,NSWRFL 1927,Round 1,"Saturday, 23rd April, 1927",3:15pm (local time),9230,25,"3,000",NORTH SYDNEY,5,12,,NEWTOWN,6,16,
+0,NSWRFL 1927,Round 1,"Saturday, 23rd April, 1927",3:15pm (local time),9228,154,"4,000","St George
+DRAGONS",12,18,,UNIVERSITY,0,10,
+0,NSWRFL 1927,Round 1,"Saturday, 23rd April, 1927",3:15pm (local time),9231,24,"12,000","South Sydney
+RABBITOHS",11,17,,EASTERN SUBURBS,0,11,
+0,NSWRFL 1927,Round 2,"Monday, 25th April, 1927",3:15pm (local time),9232,24,"18,000",GLEBE,4,4,,"Western Suburbs
+MAGPIES",6,12,
+0,NSWRFL 1927,Round 2,"Monday, 25th April, 1927",3:15pm (local time),9234,105,"5,000",NEWTOWN,13,13,,"Balmain
+TIGERS",7,14,
+0,NSWRFL 1927,Round 2,"Monday, 25th April, 1927",3:15pm (local time),9233,25,"8,000",NORTH SYDNEY,3,9,,UNIVERSITY,11,21,
+0,NSWRFL 1927,Round 2,"Monday, 25th April, 1927",3:15pm (local time),9235,154,"5,000","St George
+DRAGONS",6,23,,EASTERN SUBURBS,2,7,
+0,NSWRFL 1927,Round 3,"Saturday, 30th April, 1927",3:15pm (local time),9238,103,"2,000",EASTERN SUBURBS,9,30,,UNIVERSITY,5,13,
+0,NSWRFL 1927,Round 3,"Saturday, 30th April, 1927",3:15pm (local time),9236,105,"4,000",GLEBE,2,6,,"South Sydney
+RABBITOHS",13,31,
+0,NSWRFL 1927,Round 3,"Saturday, 30th April, 1927",3:15pm (local time),9237,24,"1,000",NEWTOWN,11,11,,"Western Suburbs
+MAGPIES",15,33,
+0,NSWRFL 1927,Round 3,"Saturday, 30th April, 1927",3:15pm (local time),9239,25,"4,000",NORTH SYDNEY,0,12,,"Balmain
+TIGERS",12,12,
+0,NSWRFL 1927,Round 4,"Saturday, 7th May, 1927",3:15pm (local time),9241,150,"1,700","Balmain
+TIGERS",13,23,,UNIVERSITY,5,5,
+0,NSWRFL 1927,Round 4,"Saturday, 7th May, 1927",3:15pm (local time),9240,105,"3,000",GLEBE,0,0,,"St George
+DRAGONS",5,18,
+0,NSWRFL 1927,Round 4,"Saturday, 7th May, 1927",3:15pm (local time),9242,24,"7,000","South Sydney
+RABBITOHS",13,24,,NEWTOWN,0,0,
+0,NSWRFL 1927,Round 4,"Saturday, 7th May, 1927",3:15pm (local time),9243,112,"3,000","Western Suburbs
+MAGPIES",8,19,,NORTH SYDNEY,3,5,
+0,NSWRFL 1927,Round 5,"Saturday, 14th May, 1927",3:15pm (local time),9244,105,600,GLEBE,2,8,,UNIVERSITY,7,7,
+0,NSWRFL 1927,Round 5,"Saturday, 14th May, 1927",3:15pm (local time),9247,25,"2,500",NORTH SYDNEY,10,13,,EASTERN SUBURBS,8,15,
+0,NSWRFL 1927,Round 5,"Saturday, 14th May, 1927",3:15pm (local time),9246,154,"5,000","St George
+DRAGONS",2,18,,"Balmain
+TIGERS",2,5,
+0,NSWRFL 1927,Round 5,"Saturday, 14th May, 1927",3:15pm (local time),9245,24,"27,702","Western Suburbs
+MAGPIES",9,12,,"South Sydney
+RABBITOHS",14,27,
+0,NSWRFL 1927,Round 6,"Saturday, 21st May, 1927",3:15pm (local time),9251,158,"2,500",NEWTOWN,5,11,,EASTERN SUBURBS,4,22,
+0,NSWRFL 1927,Round 6,"Saturday, 21st May, 1927",3:15pm (local time),9248,154,"6,000","St George
+DRAGONS",7,24,,NORTH SYDNEY,2,7,
+0,NSWRFL 1927,Round 6,"Saturday, 21st May, 1927",3:15pm (local time),9250,24,"13,000","South Sydney
+RABBITOHS",10,36,,"Balmain
+TIGERS",8,14,
+0,NSWRFL 1927,Round 6,"Saturday, 21st May, 1927",3:15pm (local time),9249,112,"3,000","Western Suburbs
+MAGPIES",11,21,,UNIVERSITY,5,12,
+0,NSWRFL 1927,Round 7,"Saturday, 28th May, 1927",3:15pm (local time),9255,105,"2,500",GLEBE,7,12,,EASTERN SUBURBS,8,16,
+0,NSWRFL 1927,Round 7,"Saturday, 28th May, 1927",3:15pm (local time),9252,24,"10,314","St George
+DRAGONS",20,23,,NEWTOWN,0,5,
+0,NSWRFL 1927,Round 7,"Saturday, 28th May, 1927",3:15pm (local time),9253,154,"4,000","South Sydney
+RABBITOHS",21,26,,NORTH SYDNEY,0,7,
+0,NSWRFL 1927,Round 7,"Saturday, 28th May, 1927",3:15pm (local time),9254,112,"4,000","Western Suburbs
+MAGPIES",3,13,,"Balmain
+TIGERS",5,8,
+0,NSWRFL 1927,Round 8,"Saturday, 11th June, 1927",3:15pm (local time),9259,103,750,EASTERN SUBURBS,12,17,,"Balmain
+TIGERS",0,17,
+0,NSWRFL 1927,Round 8,"Saturday, 11th June, 1927",3:15pm (local time),9257,158,"1,300",NEWTOWN,8,19,,GLEBE,0,5,
+0,NSWRFL 1927,Round 8,"Saturday, 11th June, 1927",3:15pm (local time),9256,105,"1,000","South Sydney
+RABBITOHS",21,31,,UNIVERSITY,8,14,
+0,NSWRFL 1927,Round 8,"Saturday, 11th June, 1927",3:15pm (local time),9258,24,"21,000","Western Suburbs
+MAGPIES",3,11,,"St George
+DRAGONS",10,10,
+0,NSWRFL 1927,Round 9,"Saturday, 18th June, 1927",3:15pm (local time),9260,158,500,NEWTOWN,10,15,,UNIVERSITY,0,10,
+0,NSWRFL 1927,Round 9,"Saturday, 18th June, 1927",3:15pm (local time),9262,25,"1,000",NORTH SYDNEY,8,13,,GLEBE,2,12,
+0,NSWRFL 1927,Round 9,"Saturday, 18th June, 1927",3:15pm (local time),9261,24,"31,500","St George
+DRAGONS",5,13,,"South Sydney
+RABBITOHS",13,17,
+0,NSWRFL 1927,Round 9,"Saturday, 18th June, 1927",3:15pm (local time),9263,112,"2,000","Western Suburbs
+MAGPIES",8,8,,EASTERN SUBURBS,3,10,
+0,NSWRFL 1927,Round 10,"Saturday, 9th July, 1927",3:15pm (local time),9266,24,"16,000",EASTERN SUBURBS,12,17,,"South Sydney
+RABBITOHS",8,16,
+0,NSWRFL 1927,Round 10,"Saturday, 9th July, 1927",3:15pm (local time),9267,105,"2,000",GLEBE,7,11,,"Balmain
+TIGERS",7,10,
+0,NSWRFL 1927,Round 10,"Saturday, 9th July, 1927",3:15pm (local time),9264,158,"1,000",NEWTOWN,0,2,,NORTH SYDNEY,2,5,
+0,NSWRFL 1927,Round 10,"Saturday, 9th July, 1927",3:15pm (local time),9265,154,"4,000","St George
+DRAGONS",8,15,,UNIVERSITY,7,7,
+0,NSWRFL 1927,Round 11,"Saturday, 16th July, 1927",3:15pm (local time),9269,150,"3,000","Balmain
+TIGERS",9,13,,NEWTOWN,10,15,
+0,NSWRFL 1927,Round 11,"Saturday, 16th July, 1927",3:15pm (local time),9270,24,"18,892",EASTERN SUBURBS,10,10,,"St George
+DRAGONS",5,10,
+0,NSWRFL 1927,Round 11,"Saturday, 16th July, 1927",3:15pm (local time),9268,105,600,NORTH SYDNEY,6,20,,UNIVERSITY,6,6,
+0,NSWRFL 1927,Round 11,"Saturday, 16th July, 1927",3:15pm (local time),9271,112,"2,000","Western Suburbs
+MAGPIES",11,26,,GLEBE,5,7,
+0,NSWRFL 1927,Round 12,"Saturday, 23rd July, 1927",3:15pm (local time),9272,150,"2,000","Balmain
+TIGERS",7,13,,NORTH SYDNEY,3,15,
+0,NSWRFL 1927,Round 12,"Saturday, 23rd July, 1927",3:15pm (local time),9273,105,500,EASTERN SUBURBS,0,8,,UNIVERSITY,10,12,
+0,NSWRFL 1927,Round 12,"Saturday, 23rd July, 1927",3:15pm (local time),9274,24,"10,480","South Sydney
+RABBITOHS",13,26,,GLEBE,6,11,
+0,NSWRFL 1927,Round 12,"Saturday, 23rd July, 1927",3:15pm (local time),9275,112,"2,000","Western Suburbs
+MAGPIES",15,15,,NEWTOWN,13,16,
+0,NSWRFL 1927,Round 13,"Saturday, 30th July, 1927",3:15pm (local time),9278,150,"2,000","Balmain
+TIGERS",5,24,,UNIVERSITY,18,28,
+0,NSWRFL 1927,Round 13,"Saturday, 30th July, 1927",3:15pm (local time),9276,24,"11,622",NEWTOWN,4,9,,"South Sydney
+RABBITOHS",11,34,
+0,NSWRFL 1927,Round 13,"Saturday, 30th July, 1927",3:15pm (local time),9277,25,"3,500",NORTH SYDNEY,5,10,,"Western Suburbs
+MAGPIES",5,8,
+0,NSWRFL 1927,Round 13,"Saturday, 30th July, 1927",3:15pm (local time),9279,154,"5,000","St George
+DRAGONS",13,38,,GLEBE,0,11,
+0,NSWRFL 1927,Round 14,"Saturday, 6th August, 1927",3:15pm (local time),9282,150,"4,000","Balmain
+TIGERS",5,7,,"St George
+DRAGONS",3,9,
+0,NSWRFL 1927,Round 14,"Saturday, 6th August, 1927",3:15pm (local time),9283,103,300,EASTERN SUBURBS,7,17,,NORTH SYDNEY,5,16,
+0,NSWRFL 1927,Round 14,"Saturday, 6th August, 1927",3:15pm (local time),9280,105,500,GLEBE,14,16,,UNIVERSITY,5,13,
+0,NSWRFL 1927,Round 14,"Saturday, 6th August, 1927",3:15pm (local time),9281,24,"15,623","South Sydney
+RABBITOHS",6,19,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1927,Round 15,"Saturday, 13th August, 1927",3:15pm (local time),9285,150,"3,500","Balmain
+TIGERS",8,15,,"South Sydney
+RABBITOHS",7,10,
+0,NSWRFL 1927,Round 15,"Saturday, 13th August, 1927",3:15pm (local time),9286,105,"1,500",EASTERN SUBURBS,4,7,,NEWTOWN,3,11,
+0,NSWRFL 1927,Round 15,"Saturday, 13th August, 1927",3:15pm (local time),9284,103,"6,314",NORTH SYDNEY,0,0,,"St George
+DRAGONS",12,23,
+0,NSWRFL 1927,Round 15,"Saturday, 13th August, 1927",3:15pm (local time),9287,112,"2,400","Western Suburbs
+MAGPIES",10,21,,UNIVERSITY,5,13,
+0,NSWRFL 1927,Round 16,"Saturday, 20th August, 1927",3:15pm (local time),9290,150,"4,000","Balmain
+TIGERS",4,7,,"Western Suburbs
+MAGPIES",3,5,
+0,NSWRFL 1927,Round 16,"Saturday, 20th August, 1927",3:15pm (local time),9291,109,"1,200",EASTERN SUBURBS,5,19,,GLEBE,10,18,
+0,NSWRFL 1927,Round 16,"Saturday, 20th August, 1927",3:15pm (local time),9288,24,"9,000",NEWTOWN,7,14,,"St George
+DRAGONS",12,16,
+0,NSWRFL 1927,Round 16,"Saturday, 20th August, 1927",3:15pm (local time),9289,25,"5,000",NORTH SYDNEY,8,11,,"South Sydney
+RABBITOHS",11,24,
+0,NSWRFL 1927,Round 17,"Saturday, 27th August, 1927",3:15pm (local time),9295,150,"4,000","Balmain
+TIGERS",4,11,,EASTERN SUBURBS,0,3,
+0,NSWRFL 1927,Round 17,"Saturday, 27th August, 1927",3:15pm (local time),9292,105,"2,500",GLEBE,5,9,,NEWTOWN,2,13,
+0,NSWRFL 1927,Round 17,"Saturday, 27th August, 1927",3:15pm (local time),9293,24,"12,158","St George
+DRAGONS",0,17,,"Western Suburbs
+MAGPIES",8,8,
+0,NSWRFL 1927,Round 17,"Saturday, 27th August, 1927",3:15pm (local time),9294,154,"2,000","South Sydney
+RABBITOHS",18,42,,UNIVERSITY,3,11,
+0,NSWRFL 1927,Round 18,"Saturday, 3rd September, 1927",3:15pm (local time),9298,112,"1,000",EASTERN SUBURBS,6,6,,"Western Suburbs
+MAGPIES",0,8,
+0,NSWRFL 1927,Round 18,"Saturday, 3rd September, 1927",3:15pm (local time),9296,105,"1,000",GLEBE,13,18,,NORTH SYDNEY,4,19,
+0,NSWRFL 1927,Round 18,"Saturday, 3rd September, 1927",3:15pm (local time),9297,154,"1,000",NEWTOWN,4,19,,UNIVERSITY,12,17,
+0,NSWRFL 1927,Round 18,"Saturday, 3rd September, 1927",3:15pm (local time),9299,24,"26,649","South Sydney
+RABBITOHS",7,22,,"St George
+DRAGONS",9,9,
+0,NSWRFL 1927,Semi Final,"Saturday, 10th September, 1927",3:15pm (local time),9300,154,"5,040","St George
+DRAGONS",13,26,,EASTERN SUBURBS,4,11,
+0,NSWRFL 1927,Semi Final,"Saturday, 10th September, 1927",3:15pm (local time),9301,103,"10,012","South Sydney
+RABBITOHS",15,38,,"Western Suburbs
+MAGPIES",3,6,
+0,NSWRFL 1927,Final,"Saturday, 17th September, 1927",3:15pm (local time),9302,103,"12,124","South Sydney
+RABBITOHS",13,20,,"St George
+DRAGONS",6,11,

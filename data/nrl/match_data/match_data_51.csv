@@ -1,0 +1,210 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1959,Round 1,"Saturday, 28th March, 1959",3:15pm (local time),11580,5,"5,500","Manly Warringah
+SEA EAGLES",12,16,,"Balmain
+TIGERS",6,13,
+0,NSWRFL 1959,Round 1,"Saturday, 28th March, 1959",3:15pm (local time),11582,76,"3,890",NEWTOWN,7,15,,EASTERN SUBURBS,5,12,
+0,NSWRFL 1959,Round 1,"Saturday, 28th March, 1959",3:15pm (local time),11578,111,"4,364","Parramatta
+EELS",2,12,,NORTH SYDNEY,15,35,
+0,NSWRFL 1959,Round 1,"Saturday, 28th March, 1959",3:15pm (local time),11581,44,"6,760","South Sydney
+RABBITOHS",8,20,,CANTERBURY BANKSTOWN,2,10,
+0,NSWRFL 1959,Round 1,"Saturday, 28th March, 1959",3:15pm (local time),11579,109,"17,066","Western Suburbs
+MAGPIES",4,17,23,"St George
+DRAGONS",5,18,13
+0,NSWRFL 1959,Round 2,"Monday, 30th March, 1959",3:15pm (local time),11585,7,"7,250","Balmain
+TIGERS",2,7,,"St George
+DRAGONS",3,21,
+0,NSWRFL 1959,Round 2,"Monday, 30th March, 1959",3:15pm (local time),11586,5,"3,950","Manly Warringah
+SEA EAGLES",10,15,10,CANTERBURY BANKSTOWN,7,9,20
+0,NSWRFL 1959,Round 2,"Monday, 30th March, 1959",3:15pm (local time),11583,109,"8,195",NEWTOWN,10,13,19,NORTH SYDNEY,7,19,21
+0,NSWRFL 1959,Round 2,"Monday, 30th March, 1959",3:15pm (local time),11584,111,"4,424","Parramatta
+EELS",4,9,,"Western Suburbs
+MAGPIES",5,19,
+0,NSWRFL 1959,Round 2,"Monday, 30th March, 1959",3:15pm (local time),11587,44,"7,800","South Sydney
+RABBITOHS",11,28,,EASTERN SUBURBS,2,8,
+0,NSWRFL 1959,Round 3,"Saturday, 4th April, 1959",3:15pm (local time),11591,27,"6,864",CANTERBURY BANKSTOWN,8,21,,"Balmain
+TIGERS",6,17,
+0,NSWRFL 1959,Round 3,"Saturday, 4th April, 1959",3:15pm (local time),11588,24,"21,806",NORTH SYDNEY,14,29,13,"South Sydney
+RABBITOHS",7,9,20
+0,NSWRFL 1959,Round 3,"Saturday, 4th April, 1959",3:15pm (local time),11590,23,"6,500","St George
+DRAGONS",13,46,,"Parramatta
+EELS",2,7,
+0,NSWRFL 1959,Round 3,"Saturday, 4th April, 1959",3:15pm (local time),11589,112,"7,000","Western Suburbs
+MAGPIES",10,25,,NEWTOWN,5,18,
+0,NSWRFL 1959,Round 3,"Sunday, 5th April, 1959",3:15pm (local time),11592,109,"9,585",EASTERN SUBURBS,11,18,,"Manly Warringah
+SEA EAGLES",12,29,
+0,NSWRFL 1959,Round 4,"Saturday, 11th April, 1959",3:15pm (local time),11594,7,"3,500","Balmain
+TIGERS",9,20,,EASTERN SUBURBS,6,8,
+0,NSWRFL 1959,Round 4,"Saturday, 11th April, 1959",3:15pm (local time),11595,27,"9,427",CANTERBURY BANKSTOWN,2,2,,"St George
+DRAGONS",5,14,
+0,NSWRFL 1959,Round 4,"Saturday, 11th April, 1959",3:15pm (local time),11593,24,"14,746","Manly Warringah
+SEA EAGLES",4,14,,NORTH SYDNEY,7,21,
+0,NSWRFL 1959,Round 4,"Saturday, 11th April, 1959",3:15pm (local time),11596,111,"2,896","Parramatta
+EELS",7,10,,NEWTOWN,7,19,
+0,NSWRFL 1959,Round 4,"Sunday, 12th April, 1959",3:15pm (local time),11597,44,"20,706","South Sydney
+RABBITOHS",17,19,,"Western Suburbs
+MAGPIES",5,18,
+0,NSWRFL 1959,Round 5,"Saturday, 18th April, 1959",3:15pm (local time),11598,24,"13,848",NEWTOWN,3,3,,"St George
+DRAGONS",7,20,
+0,NSWRFL 1959,Round 5,"Saturday, 18th April, 1959",3:15pm (local time),11601,25,"11,021",NORTH SYDNEY,9,18,,"Balmain
+TIGERS",7,10,
+0,NSWRFL 1959,Round 5,"Saturday, 18th April, 1959",3:15pm (local time),11600,44,"5,559","South Sydney
+RABBITOHS",3,5,,"Parramatta
+EELS",5,10,
+0,NSWRFL 1959,Round 5,"Saturday, 18th April, 1959",3:15pm (local time),11599,112,"11,120","Western Suburbs
+MAGPIES",10,24,,"Manly Warringah
+SEA EAGLES",5,13,
+0,NSWRFL 1959,Round 5,"Sunday, 19th April, 1959",3:15pm (local time),11602,109,"10,390",EASTERN SUBURBS,3,18,,CANTERBURY BANKSTOWN,6,9,
+0,NSWRFL 1959,Round 6,"Saturday, 25th April, 1959",3:15pm (local time),11604,27,"6,832",CANTERBURY BANKSTOWN,0,3,,NORTH SYDNEY,8,36,
+0,NSWRFL 1959,Round 6,"Saturday, 25th April, 1959",3:15pm (local time),11603,76,"5,012",NEWTOWN,5,7,,"South Sydney
+RABBITOHS",3,5,
+0,NSWRFL 1959,Round 6,"Saturday, 25th April, 1959",3:15pm (local time),11605,111,"3,957","Parramatta
+EELS",2,2,,"Manly Warringah
+SEA EAGLES",4,7,
+0,NSWRFL 1959,Round 6,"Saturday, 25th April, 1959",3:15pm (local time),11606,24,"13,239","St George
+DRAGONS",3,15,,EASTERN SUBURBS,4,6,
+0,NSWRFL 1959,Round 6,"Sunday, 26th April, 1959",3:15pm (local time),11607,7,"16,318","Balmain
+TIGERS",5,10,,"Western Suburbs
+MAGPIES",10,29,
+0,NSWRFL 1959,Round 7,"Saturday, 2nd May, 1959",3:15pm (local time),11609,7,"3,500","Balmain
+TIGERS",11,20,27,"Parramatta
+EELS",5,12,9
+0,NSWRFL 1959,Round 7,"Saturday, 2nd May, 1959",3:15pm (local time),11611,25,"8,976",NORTH SYDNEY,5,24,,EASTERN SUBURBS,4,4,
+0,NSWRFL 1959,Round 7,"Saturday, 2nd May, 1959",3:15pm (local time),11608,24,"15,492","St George
+DRAGONS",25,41,,"South Sydney
+RABBITOHS",0,8,
+0,NSWRFL 1959,Round 7,"Saturday, 2nd May, 1959",3:15pm (local time),11610,112,"6,825","Western Suburbs
+MAGPIES",24,46,,CANTERBURY BANKSTOWN,3,8,
+0,NSWRFL 1959,Round 7,"Sunday, 3rd May, 1959",3:15pm (local time),11612,5,"6,796","Manly Warringah
+SEA EAGLES",4,11,,NEWTOWN,7,15,
+0,NSWRFL 1959,Round 8,"Saturday, 9th May, 1959",3:15pm (local time),11613,27,"2,515",CANTERBURY BANKSTOWN,15,17,,"Parramatta
+EELS",4,10,
+0,NSWRFL 1959,Round 8,"Saturday, 9th May, 1959",3:15pm (local time),11616,76,"4,100",NEWTOWN,8,25,,"Balmain
+TIGERS",5,10,
+0,NSWRFL 1959,Round 8,"Saturday, 9th May, 1959",3:15pm (local time),11615,24,"47,398","St George
+DRAGONS",8,33,,NORTH SYDNEY,7,12,
+0,NSWRFL 1959,Round 8,"Saturday, 9th May, 1959",3:15pm (local time),11614,44,"4,500","South Sydney
+RABBITOHS",7,12,20,"Manly Warringah
+SEA EAGLES",8,20,8
+0,NSWRFL 1959,Round 8,"Sunday, 10th May, 1959",3:15pm (local time),11617,109,"8,295",EASTERN SUBURBS,0,19,,"Western Suburbs
+MAGPIES",15,22,
+0,NSWRFL 1959,Round 9,"Saturday, 16th May, 1959",3:15pm (local time),11620,7,"4,892","Balmain
+TIGERS",8,23,,"South Sydney
+RABBITOHS",6,14,
+0,NSWRFL 1959,Round 9,"Saturday, 16th May, 1959",3:15pm (local time),11621,27,"4,211",CANTERBURY BANKSTOWN,5,5,,NEWTOWN,5,17,
+0,NSWRFL 1959,Round 9,"Saturday, 16th May, 1959",3:15pm (local time),11618,5,"5,323","Manly Warringah
+SEA EAGLES",2,8,,"St George
+DRAGONS",10,18,
+0,NSWRFL 1959,Round 9,"Saturday, 16th May, 1959",3:15pm (local time),11619,24,"26,870",NORTH SYDNEY,15,21,,"Western Suburbs
+MAGPIES",12,26,
+0,NSWRFL 1959,Round 9,"Saturday, 16th May, 1959",3:15pm (local time),11622,111,"2,976","Parramatta
+EELS",4,14,,EASTERN SUBURBS,0,10,
+0,NSWRFL 1959,Round 10,"Sunday, 24th May, 1959",3:15pm (local time),11625,7,"5,076","Balmain
+TIGERS",7,14,17,"Manly Warringah
+SEA EAGLES",5,16,2
+0,NSWRFL 1959,Round 10,"Sunday, 24th May, 1959",3:15pm (local time),11626,27,"4,215",CANTERBURY BANKSTOWN,0,6,,"South Sydney
+RABBITOHS",0,7,
+0,NSWRFL 1959,Round 10,"Sunday, 24th May, 1959",3:15pm (local time),11627,109,"4,975",EASTERN SUBURBS,12,22,,NEWTOWN,8,15,
+0,NSWRFL 1959,Round 10,"Sunday, 24th May, 1959",3:15pm (local time),11623,25,"6,125",NORTH SYDNEY,12,27,,"Parramatta
+EELS",2,7,
+0,NSWRFL 1959,Round 10,"Sunday, 24th May, 1959",3:15pm (local time),11624,76,"30,500","St George
+DRAGONS",19,47,,"Western Suburbs
+MAGPIES",7,17,
+0,NSWRFL 1959,Round 11,"Saturday, 30th May, 1959",3:15pm (local time),11628,27,"2,541",CANTERBURY BANKSTOWN,7,12,,"Manly Warringah
+SEA EAGLES",0,7,
+0,NSWRFL 1959,Round 11,"Saturday, 30th May, 1959",3:15pm (local time),11629,24,"12,270",NORTH SYDNEY,3,14,,NEWTOWN,5,16,
+0,NSWRFL 1959,Round 11,"Saturday, 30th May, 1959",3:15pm (local time),11631,23,"6,788","St George
+DRAGONS",12,20,,"Balmain
+TIGERS",6,20,
+0,NSWRFL 1959,Round 11,"Saturday, 30th May, 1959",3:15pm (local time),11630,112,"3,700","Western Suburbs
+MAGPIES",8,24,,"Parramatta
+EELS",0,2,
+0,NSWRFL 1959,Round 11,"Sunday, 31st May, 1959",3:15pm (local time),11632,109,"9,917",EASTERN SUBURBS,3,20,,"South Sydney
+RABBITOHS",2,11,
+0,NSWRFL 1959,Round 12,"Sunday, 7th June, 1959",3:15pm (local time),11635,7,"4,634","Balmain
+TIGERS",12,26,,CANTERBURY BANKSTOWN,7,14,
+0,NSWRFL 1959,Round 12,"Sunday, 7th June, 1959",3:15pm (local time),11637,5,"3,435","Manly Warringah
+SEA EAGLES",8,22,,EASTERN SUBURBS,5,10,
+0,NSWRFL 1959,Round 12,"Sunday, 7th June, 1959",3:15pm (local time),11633,76,"9,939",NEWTOWN,5,8,,"Western Suburbs
+MAGPIES",10,10,
+0,NSWRFL 1959,Round 12,"Sunday, 7th June, 1959",3:15pm (local time),11634,111,"4,696","Parramatta
+EELS",2,4,,"St George
+DRAGONS",18,61,
+0,NSWRFL 1959,Round 12,"Sunday, 7th June, 1959",3:15pm (local time),11636,44,"7,258","South Sydney
+RABBITOHS",10,17,,NORTH SYDNEY,4,7,
+0,NSWRFL 1959,Round 13,"Sunday, 14th June, 1959",3:15pm (local time),11638,109,"9,428",EASTERN SUBURBS,2,10,,"Balmain
+TIGERS",6,6,
+0,NSWRFL 1959,Round 13,"Monday, 15th June, 1959",3:15pm (local time),11639,76,"3,013",NEWTOWN,,14,,"Parramatta
+EELS",,6,
+0,NSWRFL 1959,Round 13,"Monday, 15th June, 1959",3:15pm (local time),11640,25,"8,240",NORTH SYDNEY,,11,,"Manly Warringah
+SEA EAGLES",,12,
+0,NSWRFL 1959,Round 13,"Monday, 15th June, 1959",3:15pm (local time),11642,23,"6,400","St George
+DRAGONS",27,63,,CANTERBURY BANKSTOWN,7,12,
+0,NSWRFL 1959,Round 13,"Monday, 15th June, 1959",3:15pm (local time),11641,24,"14,064","Western Suburbs
+MAGPIES",6,13,,"South Sydney
+RABBITOHS",4,18,
+0,NSWRFL 1959,Round 14,"Saturday, 20th June, 1959",3:15pm (local time),11644,7,"6,122","Balmain
+TIGERS",11,31,,NORTH SYDNEY,8,25,
+0,NSWRFL 1959,Round 14,"Saturday, 20th June, 1959",3:15pm (local time),11645,27,"2,805",CANTERBURY BANKSTOWN,6,17,,EASTERN SUBURBS,4,11,
+0,NSWRFL 1959,Round 14,"Saturday, 20th June, 1959",3:15pm (local time),11643,111,"3,891","Parramatta
+EELS",2,4,,"South Sydney
+RABBITOHS",4,10,
+0,NSWRFL 1959,Round 14,"Saturday, 20th June, 1959",3:15pm (local time),11646,24,"17,698","St George
+DRAGONS",11,45,,NEWTOWN,7,10,
+0,NSWRFL 1959,Round 14,"Sunday, 21st June, 1959",3:15pm (local time),11647,5,"7,761","Manly Warringah
+SEA EAGLES",9,16,,"Western Suburbs
+MAGPIES",12,19,
+0,NSWRFL 1959,Round 15,"Saturday, 27th June, 1959",3:15pm (local time),11648,5,"2,059","Manly Warringah
+SEA EAGLES",,24,,"Parramatta
+EELS",,3,
+0,NSWRFL 1959,Round 15,"Saturday, 27th June, 1959",3:15pm (local time),11651,25,"4,949",NORTH SYDNEY,17,32,,CANTERBURY BANKSTOWN,0,10,
+0,NSWRFL 1959,Round 15,"Saturday, 27th June, 1959",3:15pm (local time),11649,44,"7,506","South Sydney
+RABBITOHS",4,27,,NEWTOWN,5,15,
+0,NSWRFL 1959,Round 15,"Saturday, 27th June, 1959",3:15pm (local time),11650,24,"13,910","Western Suburbs
+MAGPIES",8,21,,"Balmain
+TIGERS",6,12,
+0,NSWRFL 1959,Round 15,"Sunday, 28th June, 1959",3:15pm (local time),11652,109,"5,819",EASTERN SUBURBS,0,2,,"St George
+DRAGONS",8,18,
+0,NSWRFL 1959,Round 16,"Sunday, 5th July, 1959",3:15pm (local time),11653,27,"5,422",CANTERBURY BANKSTOWN,5,10,,"Western Suburbs
+MAGPIES",7,10,
+0,NSWRFL 1959,Round 16,"Sunday, 5th July, 1959",3:15pm (local time),11654,109,"8,269",EASTERN SUBURBS,3,10,,NORTH SYDNEY,4,4,
+0,NSWRFL 1959,Round 16,"Sunday, 5th July, 1959",3:15pm (local time),11655,76,"5,409",NEWTOWN,7,7,,"Manly Warringah
+SEA EAGLES",5,24,
+0,NSWRFL 1959,Round 16,"Sunday, 5th July, 1959",3:15pm (local time),11657,111,"3,435","Parramatta
+EELS",0,11,,"Balmain
+TIGERS",12,27,
+0,NSWRFL 1959,Round 16,"Sunday, 5th July, 1959",3:15pm (local time),11656,44,"14,908","South Sydney
+RABBITOHS",6,14,,"St George
+DRAGONS",15,17,
+0,NSWRFL 1959,Round 17,"Saturday, 11th July, 1959",3:15pm (local time),11660,7,"4,626","Balmain
+TIGERS",12,23,,NEWTOWN,20,28,
+0,NSWRFL 1959,Round 17,"Saturday, 11th July, 1959",3:15pm (local time),11658,24,"17,165","Manly Warringah
+SEA EAGLES",9,9,10,"South Sydney
+RABBITOHS",2,6,25
+0,NSWRFL 1959,Round 17,"Saturday, 11th July, 1959",3:15pm (local time),11659,25,"8,984",NORTH SYDNEY,10,21,,"St George
+DRAGONS",10,28,
+0,NSWRFL 1959,Round 17,"Saturday, 11th July, 1959",3:15pm (local time),11661,111,"2,444","Parramatta
+EELS",10,20,,CANTERBURY BANKSTOWN,13,21,
+0,NSWRFL 1959,Round 17,"Saturday, 11th July, 1959",3:15pm (local time),11662,112,"4,593","Western Suburbs
+MAGPIES",24,38,,EASTERN SUBURBS,10,10,
+0,NSWRFL 1959,Round 18,"Saturday, 18th July, 1959",3:15pm (local time),11666,76,"3,341",NEWTOWN,2,9,,CANTERBURY BANKSTOWN,0,8,
+0,NSWRFL 1959,Round 18,"Saturday, 18th July, 1959",3:15pm (local time),11663,24,"14,648","St George
+DRAGONS",16,25,,"Manly Warringah
+SEA EAGLES",15,20,
+0,NSWRFL 1959,Round 18,"Saturday, 18th July, 1959",3:15pm (local time),11665,44,"7,177","South Sydney
+RABBITOHS",13,27,,"Balmain
+TIGERS",9,19,
+0,NSWRFL 1959,Round 18,"Saturday, 18th July, 1959",3:15pm (local time),11664,112,"10,455","Western Suburbs
+MAGPIES",8,27,,NORTH SYDNEY,5,15,
+0,NSWRFL 1959,Round 18,"Sunday, 19th July, 1959",3:15pm (local time),11667,109,"4,951",EASTERN SUBURBS,,13,,"Parramatta
+EELS",,7,
+0,NSWRFL 1959,Minor Semi,"Saturday, 25th July, 1959",3:00pm (local time),11668,24,"8,967","Manly Warringah
+SEA EAGLES",0,17,16,NEWTOWN,0,0,18
+0,NSWRFL 1959,Major Semi,"Saturday, 1st August, 1959",3:00pm (local time),11669,24,"42,347","St George
+DRAGONS",15,35,11,"Western Suburbs
+MAGPIES",15,25,11
+0,NSWRFL 1959,Prelim Final,"Saturday, 8th August, 1959",3:00pm (local time),11670,24,"28,385","Manly Warringah
+SEA EAGLES",8,14,7,"Western Suburbs
+MAGPIES",10,13,11
+0,NSWRFL 1959,Grand Final,"Saturday, 15th August, 1959",3:00pm (local time),11671,24,"49,457","St George
+DRAGONS",11,20,8,"Manly Warringah
+SEA EAGLES",0,0,18

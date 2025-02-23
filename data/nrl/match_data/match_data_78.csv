@@ -1,0 +1,490 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1986,Round 1,"Friday, 7th March, 1986",8:00pm (local time),5309,44,"15,639","South Sydney
+RABBITOHS",13,22,8,"St George
+DRAGONS",4,4,14
+0,NSWRL 1986,Round 1,"Saturday, 8th March, 1986",3:00pm (local time),5310,5,"3,282","Manly Warringah
+SEA EAGLES",14,20,11,"Canberra
+RAIDERS",4,12,10
+0,NSWRL 1986,Round 1,"Sunday, 9th March, 1986",3:00pm (local time),5312,7,"10,738","Balmain
+TIGERS",12,18,11,"Canterbury Bankstown
+BULLDOGS",6,12,10
+0,NSWRL 1986,Round 1,"Sunday, 9th March, 1986",3:00pm (local time),5314,109,"5,497","Eastern Suburbs
+ROOSTERS",0,6,7,"Cronulla Sutherland
+SHARKS",8,16,7
+0,NSWRL 1986,Round 1,"Sunday, 9th March, 1986",3:00pm (local time),5311,21,"7,652","Illawarra
+STEELERS",6,12,8,"North Sydney
+BEARS",6,16,8
+0,NSWRL 1986,Round 1,"Sunday, 9th March, 1986",3:00pm (local time),5313,110,"7,214","Western Suburbs
+MAGPIES",6,18,11,"Penrith
+PANTHERS",8,26,16
+0,NSWRL 1986,Round 2,"Saturday, 15th March, 1986",3:00pm (local time),5315,27,"5,926","Canterbury Bankstown
+BULLDOGS",20,38,8,"Cronulla Sutherland
+SHARKS",2,2,13
+0,NSWRL 1986,Round 2,"Saturday, 15th March, 1986",6:30pm (local time),5316,48,"9,728","Canberra
+RAIDERS",14,20,8,"Balmain
+TIGERS",16,26,13
+0,NSWRL 1986,Round 2,"Sunday, 16th March, 1986",3:00pm (local time),5319,109,"4,320","Eastern Suburbs
+ROOSTERS",20,32,16,"Penrith
+PANTHERS",2,2,7
+0,NSWRL 1986,Round 2,"Sunday, 16th March, 1986",3:00pm (local time),5317,25,"6,303","North Sydney
+BEARS",2,26,11,"Western Suburbs
+MAGPIES",4,10,11
+0,NSWRL 1986,Round 2,"Sunday, 16th March, 1986",3:00pm (local time),5318,8,"26,870","Parramatta
+EELS",18,36,11,"St George
+DRAGONS",6,6,7
+0,NSWRL 1986,Round 2,"Sunday, 16th March, 1986",3:00pm (local time),5320,44,"7,053","South Sydney
+RABBITOHS",13,13,10,"Illawarra
+STEELERS",2,10,14
+0,NSWRL 1986,Round 3,"Saturday, 22nd March, 1986",3:00pm (local time),5321,3,"3,150","Penrith
+PANTHERS",10,28,10,"North Sydney
+BEARS",0,0,10
+0,NSWRL 1986,Round 3,"Sunday, 23rd March, 1986",3:00pm (local time),5323,7,"12,520","Balmain
+TIGERS",0,8,11,"Parramatta
+EELS",16,23,8
+0,NSWRL 1986,Round 3,"Sunday, 23rd March, 1986",3:00pm (local time),5324,9,"7,074","Cronulla Sutherland
+SHARKS",6,14,5,"South Sydney
+RABBITOHS",0,0,5
+0,NSWRL 1986,Round 3,"Sunday, 23rd March, 1986",3:00pm (local time),5325,21,"5,645","Illawarra
+STEELERS",8,22,13,"Canberra
+RAIDERS",8,10,7
+0,NSWRL 1986,Round 3,"Sunday, 23rd March, 1986",3:00pm (local time),5322,5,"14,251","Manly Warringah
+SEA EAGLES",6,15,14,"St George
+DRAGONS",4,16,12
+0,NSWRL 1986,Round 3,"Sunday, 23rd March, 1986",3:00pm (local time),5326,110,"6,039","Western Suburbs
+MAGPIES",6,8,11,"Canterbury Bankstown
+BULLDOGS",2,8,11
+0,NSWRL 1986,Round 4,"Saturday, 29th March, 1986",3:00pm (local time),5327,44,"5,185","South Sydney
+RABBITOHS",17,29,8,"Western Suburbs
+MAGPIES",8,14,11
+0,NSWRL 1986,Round 4,"Sunday, 30th March, 1986",3:00pm (local time),5328,48,"6,439","Canberra
+RAIDERS",10,26,7,"Cronulla Sutherland
+SHARKS",0,12,8
+0,NSWRL 1986,Round 4,"Sunday, 30th March, 1986",3:00pm (local time),5329,27,"8,476","Canterbury Bankstown
+BULLDOGS",16,31,7,"Penrith
+PANTHERS",6,6,10
+0,NSWRL 1986,Round 4,"Sunday, 30th March, 1986",3:00pm (local time),5331,5,"16,180","Manly Warringah
+SEA EAGLES",8,16,7,"Balmain
+TIGERS",12,14,7
+0,NSWRL 1986,Round 4,"Sunday, 30th March, 1986",3:00pm (local time),5330,8,"17,154","Parramatta
+EELS",2,12,12,"Illawarra
+STEELERS",2,8,8
+0,NSWRL 1986,Round 4,"Monday, 31st March, 1986",3:00pm (local time),5332,25,"7,127","North Sydney
+BEARS",6,9,10,"Eastern Suburbs
+ROOSTERS",6,8,6
+0,NSWRL 1986,Round 5,"Saturday, 5th April, 1986",3:00pm (local time),5333,24,"4,540","Canterbury Bankstown
+BULLDOGS",4,19,11,"Eastern Suburbs
+ROOSTERS",0,12,8
+0,NSWRL 1986,Round 5,"Sunday, 6th April, 1986",3:00pm (local time),5336,7,"12,736","Balmain
+TIGERS",12,18,6,"St George
+DRAGONS",9,33,9
+0,NSWRL 1986,Round 5,"Sunday, 6th April, 1986",3:00pm (local time),5337,9,"9,061","Cronulla Sutherland
+SHARKS",0,6,6,"Parramatta
+EELS",18,28,5
+0,NSWRL 1986,Round 5,"Sunday, 6th April, 1986",3:00pm (local time),5334,21,"11,088","Illawarra
+STEELERS",4,8,10,"Manly Warringah
+SEA EAGLES",12,18,14
+0,NSWRL 1986,Round 5,"Sunday, 6th April, 1986",3:00pm (local time),5335,3,"8,850","Penrith
+PANTHERS",2,8,8,"South Sydney
+RABBITOHS",5,15,10
+0,NSWRL 1986,Round 5,"Sunday, 6th April, 1986",3:00pm (local time),5338,110,"5,067","Western Suburbs
+MAGPIES",14,16,9,"Canberra
+RAIDERS",6,6,9
+0,NSWRL 1986,Round 6,"Saturday, 12th April, 1986",3:00pm (local time),5339,44,"4,538","South Sydney
+RABBITOHS",6,8,7,"Eastern Suburbs
+ROOSTERS",0,6,9
+0,NSWRL 1986,Round 6,"Sunday, 13th April, 1986",3:00pm (local time),5341,48,"6,701","Canberra
+RAIDERS",6,16,7,"Penrith
+PANTHERS",12,22,9
+0,NSWRL 1986,Round 6,"Sunday, 13th April, 1986",3:00pm (local time),5342,27,"8,584","Canterbury Bankstown
+BULLDOGS",4,4,10,"North Sydney
+BEARS",14,19,13
+0,NSWRL 1986,Round 6,"Sunday, 13th April, 1986",3:00pm (local time),5344,5,"9,391","Manly Warringah
+SEA EAGLES",16,24,9,"Cronulla Sutherland
+SHARKS",4,12,9
+0,NSWRL 1986,Round 6,"Sunday, 13th April, 1986",3:00pm (local time),5340,8,"22,575","Parramatta
+EELS",24,36,9,"Western Suburbs
+MAGPIES",6,6,10
+0,NSWRL 1986,Round 6,"Sunday, 13th April, 1986",3:00pm (local time),5343,24,"8,491","St George
+DRAGONS",2,8,10,"Illawarra
+STEELERS",12,22,13
+0,NSWRL 1986,Round 7,"Saturday, 19th April, 1986",3:00pm (local time),5345,21,"7,024","Illawarra
+STEELERS",0,18,10,"Balmain
+TIGERS",12,22,13
+0,NSWRL 1986,Round 7,"Sunday, 20th April, 1986",3:00pm (local time),5347,9,"10,124","Cronulla Sutherland
+SHARKS",6,6,6,"St George
+DRAGONS",1,8,5
+0,NSWRL 1986,Round 7,"Sunday, 20th April, 1986",3:00pm (local time),5350,109,"4,200","Eastern Suburbs
+ROOSTERS",14,27,8,"Canberra
+RAIDERS",10,10,8
+0,NSWRL 1986,Round 7,"Sunday, 20th April, 1986",3:00pm (local time),5346,25,"15,876","North Sydney
+BEARS",13,13,10,"South Sydney
+RABBITOHS",7,31,7
+0,NSWRL 1986,Round 7,"Sunday, 20th April, 1986",3:00pm (local time),5349,3,"15,360","Penrith
+PANTHERS",10,16,8,"Parramatta
+EELS",0,12,6
+0,NSWRL 1986,Round 7,"Sunday, 20th April, 1986",3:00pm (local time),5348,110,"6,515","Western Suburbs
+MAGPIES",18,30,6,"Manly Warringah
+SEA EAGLES",10,20,9
+0,NSWRL 1986,Round 8,"Friday, 25th April, 1986",3:00pm (local time),5351,24,"25,178","Canterbury Bankstown
+BULLDOGS",16,26,10,"South Sydney
+RABBITOHS",2,2,7
+0,NSWRL 1986,Round 8,"Saturday, 26th April, 1986",3:00pm (local time),5352,7,"4,101","Balmain
+TIGERS",10,24,9,"Cronulla Sutherland
+SHARKS",4,4,11
+0,NSWRL 1986,Round 8,"Sunday, 27th April, 1986",3:00pm (local time),5355,48,"5,870","Canberra
+RAIDERS",8,32,8,"North Sydney
+BEARS",6,6,12
+0,NSWRL 1986,Round 8,"Sunday, 27th April, 1986",3:00pm (local time),5353,5,"10,054","Manly Warringah
+SEA EAGLES",14,16,8,"Penrith
+PANTHERS",2,10,7
+0,NSWRL 1986,Round 8,"Sunday, 27th April, 1986",3:00pm (local time),5356,8,"20,048","Parramatta
+EELS",4,32,8,"Eastern Suburbs
+ROOSTERS",0,0,8
+0,NSWRL 1986,Round 8,"Sunday, 27th April, 1986",3:00pm (local time),5354,24,"11,832","St George
+DRAGONS",18,26,14,"Western Suburbs
+MAGPIES",6,12,8
+0,NSWRL 1986,Round 9,"Saturday, 3rd May, 1986",3:00pm (local time),5357,110,"5,527","Western Suburbs
+MAGPIES",0,17,11,"Balmain
+TIGERS",10,14,8
+0,NSWRL 1986,Round 9,"Sunday, 4th May, 1986",3:00pm (local time),5362,27,"7,446","Canterbury Bankstown
+BULLDOGS",10,14,16,"Canberra
+RAIDERS",0,8,9
+0,NSWRL 1986,Round 9,"Sunday, 4th May, 1986",3:00pm (local time),5360,9,"5,097","Cronulla Sutherland
+SHARKS",6,28,6,"Illawarra
+STEELERS",8,8,11
+0,NSWRL 1986,Round 9,"Sunday, 4th May, 1986",3:00pm (local time),5361,109,"5,720","Eastern Suburbs
+ROOSTERS",6,24,10,"Manly Warringah
+SEA EAGLES",20,30,10
+0,NSWRL 1986,Round 9,"Sunday, 4th May, 1986",3:00pm (local time),5358,25,"11,127","North Sydney
+BEARS",7,9,6,"Parramatta
+EELS",4,10,9
+0,NSWRL 1986,Round 9,"Sunday, 4th May, 1986",3:00pm (local time),5359,3,"11,357","Penrith
+PANTHERS",16,22,5,"St George
+DRAGONS",6,6,5
+0,NSWRL 1986,Round 10,"Saturday, 10th May, 1986",3:00pm (local time),5363,24,"7,104","St George
+DRAGONS",1,5,8,"Eastern Suburbs
+ROOSTERS",8,10,8
+0,NSWRL 1986,Round 10,"Sunday, 11th May, 1986",3:00pm (local time),5366,7,"7,218","Balmain
+TIGERS",8,17,12,"Penrith
+PANTHERS",2,14,14
+0,NSWRL 1986,Round 10,"Sunday, 11th May, 1986",3:00pm (local time),5367,48,"8,188","Canberra
+RAIDERS",6,8,12,"South Sydney
+RABBITOHS",6,10,10
+0,NSWRL 1986,Round 10,"Sunday, 11th May, 1986",3:00pm (local time),5364,21,"7,112","Illawarra
+STEELERS",20,34,9,"Western Suburbs
+MAGPIES",8,8,13
+0,NSWRL 1986,Round 10,"Sunday, 11th May, 1986",3:00pm (local time),5365,5,"13,458","Manly Warringah
+SEA EAGLES",14,28,10,"North Sydney
+BEARS",14,24,3
+0,NSWRL 1986,Round 10,"Sunday, 11th May, 1986",3:00pm (local time),5368,8,"25,579","Parramatta
+EELS",8,12,9,"Canterbury Bankstown
+BULLDOGS",4,21,10
+0,NSWRL 1986,Round 11,"Sunday, 18th May, 1986",3:00pm (local time),5370,27,"16,136","Canterbury Bankstown
+BULLDOGS",8,8,6,"Manly Warringah
+SEA EAGLES",6,22,13
+0,NSWRL 1986,Round 11,"Sunday, 18th May, 1986",3:00pm (local time),5374,8,"10,170","Eastern Suburbs
+ROOSTERS",8,16,8,"Balmain
+TIGERS",6,6,9
+0,NSWRL 1986,Round 11,"Sunday, 18th May, 1986",3:00pm (local time),5369,25,"15,172","North Sydney
+BEARS",12,15,9,"St George
+DRAGONS",12,27,8
+0,NSWRL 1986,Round 11,"Sunday, 18th May, 1986",3:00pm (local time),5371,3,"5,986","Penrith
+PANTHERS",2,22,12,"Illawarra
+STEELERS",12,18,4
+0,NSWRL 1986,Round 11,"Sunday, 18th May, 1986",3:00pm (local time),5372,44,"16,910","South Sydney
+RABBITOHS",8,13,11,"Parramatta
+EELS",6,6,9
+0,NSWRL 1986,Round 11,"Sunday, 18th May, 1986",3:00pm (local time),5373,110,"4,877","Western Suburbs
+MAGPIES",18,35,7,"Cronulla Sutherland
+SHARKS",8,18,12
+0,NSWRL 1986,Round 12,"Saturday, 24th May, 1986",3:00pm (local time),5375,7,"3,537","Balmain
+TIGERS",6,7,8,"North Sydney
+BEARS",6,16,9
+0,NSWRL 1986,Round 12,"Sunday, 25th May, 1986",3:00pm (local time),5377,9,"4,358","Cronulla Sutherland
+SHARKS",2,12,6,"Penrith
+PANTHERS",18,36,10
+0,NSWRL 1986,Round 12,"Sunday, 25th May, 1986",3:00pm (local time),5380,21,"8,085","Illawarra
+STEELERS",6,14,10,"Eastern Suburbs
+ROOSTERS",4,4,13
+0,NSWRL 1986,Round 12,"Sunday, 25th May, 1986",3:00pm (local time),5376,5,"16,494","Manly Warringah
+SEA EAGLES",2,4,12,"South Sydney
+RABBITOHS",5,8,9
+0,NSWRL 1986,Round 12,"Sunday, 25th May, 1986",3:00pm (local time),5378,8,"12,135","Parramatta
+EELS",4,28,8,"Canberra
+RAIDERS",6,18,5
+0,NSWRL 1986,Round 12,"Sunday, 25th May, 1986",3:00pm (local time),5379,24,"15,251","St George
+DRAGONS",3,11,9,"Canterbury Bankstown
+BULLDOGS",10,14,6
+0,NSWRL 1986,Round 13,"Saturday, 31st May, 1986",3:00pm (local time),5381,48,"6,877","Canberra
+RAIDERS",4,10,7,"St George
+DRAGONS",6,7,14
+0,NSWRL 1986,Round 13,"Sunday, 1st June, 1986",3:00pm (local time),5382,27,"9,285","Canterbury Bankstown
+BULLDOGS",12,25,12,"Illawarra
+STEELERS",0,0,11
+0,NSWRL 1986,Round 13,"Sunday, 1st June, 1986",3:00pm (local time),5386,19,"10,146","Eastern Suburbs
+ROOSTERS",14,14,11,"Western Suburbs
+MAGPIES",10,16,9
+0,NSWRL 1986,Round 13,"Sunday, 1st June, 1986",3:00pm (local time),5385,25,"5,627","North Sydney
+BEARS",17,27,11,"Cronulla Sutherland
+SHARKS",0,6,8
+0,NSWRL 1986,Round 13,"Sunday, 1st June, 1986",3:00pm (local time),5383,8,"24,017","Parramatta
+EELS",6,18,6,"Manly Warringah
+SEA EAGLES",6,30,5
+0,NSWRL 1986,Round 13,"Sunday, 1st June, 1986",3:00pm (local time),5384,44,"16,380","South Sydney
+RABBITOHS",4,13,12,"Balmain
+TIGERS",8,30,11
+0,NSWRL 1986,Round 14,"Saturday, 7th June, 1986",3:00pm (local time),5387,25,"4,101","North Sydney
+BEARS",4,10,12,"Illawarra
+STEELERS",6,16,9
+0,NSWRL 1986,Round 14,"Sunday, 8th June, 1986",3:00pm (local time),5392,8,"10,473","Balmain
+TIGERS",14,28,10,"Canterbury Bankstown
+BULLDOGS",0,0,11
+0,NSWRL 1986,Round 14,"Sunday, 8th June, 1986",3:00pm (local time),5390,48,"7,511","Canberra
+RAIDERS",10,18,4,"Manly Warringah
+SEA EAGLES",9,25,12
+0,NSWRL 1986,Round 14,"Sunday, 8th June, 1986",3:00pm (local time),5391,9,"4,064","Cronulla Sutherland
+SHARKS",2,2,7,"Eastern Suburbs
+ROOSTERS",14,25,5
+0,NSWRL 1986,Round 14,"Sunday, 8th June, 1986",3:00pm (local time),5388,3,"11,722","Penrith
+PANTHERS",18,36,12,"Western Suburbs
+MAGPIES",2,8,16
+0,NSWRL 1986,Round 14,"Sunday, 8th June, 1986",3:00pm (local time),5389,24,"14,058","St George
+DRAGONS",14,18,6,"South Sydney
+RABBITOHS",8,12,9
+0,NSWRL 1986,Round 15,"Saturday, 14th June, 1986",3:00pm (local time),5393,110,"3,585","Western Suburbs
+MAGPIES",6,16,11,"North Sydney
+BEARS",8,18,8
+0,NSWRL 1986,Round 15,"Sunday, 15th June, 1986",3:00pm (local time),5394,7,"5,455","Balmain
+TIGERS",10,26,1,"Canberra
+RAIDERS",6,10,5
+0,NSWRL 1986,Round 15,"Sunday, 15th June, 1986",3:00pm (local time),5396,9,"5,088","Cronulla Sutherland
+SHARKS",6,18,9,"Canterbury Bankstown
+BULLDOGS",6,8,6
+0,NSWRL 1986,Round 15,"Sunday, 15th June, 1986",3:00pm (local time),5397,3,"8,220","Penrith
+PANTHERS",12,28,8,"Eastern Suburbs
+ROOSTERS",2,8,11
+0,NSWRL 1986,Round 15,"Sunday, 15th June, 1986",3:00pm (local time),5395,24,"20,030","St George
+DRAGONS",6,12,3,"Parramatta
+EELS",12,25,5
+0,NSWRL 1986,Round 15,"Monday, 16th June, 1986",7:30pm (local time),5398,24,"8,640","South Sydney
+RABBITOHS",1,9,15,"Illawarra
+STEELERS",0,0,11
+0,NSWRL 1986,Round 16,"Saturday, 21st June, 1986",1:20pm (local time),5399,25,"3,271","North Sydney
+BEARS",14,22,10,"Penrith
+PANTHERS",12,18,11
+0,NSWRL 1986,Round 16,"Sunday, 22nd June, 1986",3:00pm (local time),5400,48,"3,728","Canberra
+RAIDERS",12,26,7,"Illawarra
+STEELERS",12,12,8
+0,NSWRL 1986,Round 16,"Sunday, 22nd June, 1986",3:00pm (local time),5402,8,"25,047","Parramatta
+EELS",12,32,12,"Balmain
+TIGERS",4,4,8
+0,NSWRL 1986,Round 16,"Sunday, 22nd June, 1986",3:00pm (local time),5401,24,"11,531","St George
+DRAGONS",6,20,6,"Manly Warringah
+SEA EAGLES",16,52,6
+0,NSWRL 1986,Round 16,"Sunday, 22nd June, 1986",3:00pm (local time),5403,44,"7,121","South Sydney
+RABBITOHS",6,14,7,"Cronulla Sutherland
+SHARKS",6,14,15
+0,NSWRL 1986,Round 16,"Monday, 23rd June, 1986",7:30pm (local time),5404,24,"7,604","Canterbury Bankstown
+BULLDOGS",26,54,3,"Western Suburbs
+MAGPIES",4,4,10
+0,NSWRL 1986,Round 17,"Saturday, 28th June, 1986",3:00pm (local time),5405,21,"9,056","Illawarra
+STEELERS",0,2,8,"Parramatta
+EELS",0,9,5
+0,NSWRL 1986,Round 17,"Sunday, 29th June, 1986",3:00pm (local time),5406,7,"10,011","Balmain
+TIGERS",4,14,16,"Manly Warringah
+SEA EAGLES",3,9,10
+0,NSWRL 1986,Round 17,"Sunday, 29th June, 1986",3:00pm (local time),5408,9,"4,065","Cronulla Sutherland
+SHARKS",12,18,15,"Canberra
+RAIDERS",0,4,7
+0,NSWRL 1986,Round 17,"Sunday, 29th June, 1986",3:00pm (local time),5407,109,"8,175","Eastern Suburbs
+ROOSTERS",15,21,9,"North Sydney
+BEARS",2,14,9
+0,NSWRL 1986,Round 17,"Sunday, 29th June, 1986",3:00pm (local time),5409,3,"14,565","Penrith
+PANTHERS",4,8,12,"Canterbury Bankstown
+BULLDOGS",6,13,6
+0,NSWRL 1986,Round 17,"Monday, 30th June, 1986",7:30pm (local time),5410,24,"8,089","South Sydney
+RABBITOHS",10,23,10,"Western Suburbs
+MAGPIES",12,16,11
+0,NSWRL 1986,Round 18,"Saturday, 5th July, 1986",3:00pm (local time),5411,27,"6,149","Canterbury Bankstown
+BULLDOGS",14,20,2,"Eastern Suburbs
+ROOSTERS",2,8,9
+0,NSWRL 1986,Round 18,"Sunday, 6th July, 1986",3:00pm (local time),5412,48,"3,413","Canberra
+RAIDERS",18,38,7,"Western Suburbs
+MAGPIES",6,6,6
+0,NSWRL 1986,Round 18,"Sunday, 6th July, 1986",3:00pm (local time),5413,5,"8,649","Manly Warringah
+SEA EAGLES",,14,6,"Illawarra
+STEELERS",,12,9
+0,NSWRL 1986,Round 18,"Sunday, 6th July, 1986",3:00pm (local time),5415,8,"12,112","Parramatta
+EELS",12,14,6,"Cronulla Sutherland
+SHARKS",4,28,7
+0,NSWRL 1986,Round 18,"Sunday, 6th July, 1986",3:00pm (local time),5414,44,"6,174","South Sydney
+RABBITOHS",6,8,9,"Penrith
+PANTHERS",7,11,9
+0,NSWRL 1986,Round 18,"Monday, 7th July, 1986",7:30pm (local time),5416,24,"12,354","St George
+DRAGONS",,10,6,"Balmain
+TIGERS",,4,4
+0,NSWRL 1986,Round 19,"Saturday, 12th July, 1986",3:00pm (local time),5417,9,"4,815","Cronulla Sutherland
+SHARKS",0,4,1,"Manly Warringah
+SEA EAGLES",18,32,11
+0,NSWRL 1986,Round 19,"Sunday, 13th July, 1986",3:00pm (local time),5418,21,"9,120","Illawarra
+STEELERS",4,6,6,"St George
+DRAGONS",4,18,6
+0,NSWRL 1986,Round 19,"Sunday, 13th July, 1986",3:00pm (local time),5421,25,"11,217","North Sydney
+BEARS",2,12,9,"Canterbury Bankstown
+BULLDOGS",16,32,8
+0,NSWRL 1986,Round 19,"Sunday, 13th July, 1986",3:00pm (local time),5420,3,"6,263","Penrith
+PANTHERS",4,4,11,"Canberra
+RAIDERS",8,20,4
+0,NSWRL 1986,Round 19,"Sunday, 13th July, 1986",3:00pm (local time),5419,110,"8,697","Western Suburbs
+MAGPIES",,16,3,"Parramatta
+EELS",,22,10
+0,NSWRL 1986,Round 19,"Monday, 14th July, 1986",7:30pm (local time),5422,24,"8,832","Eastern Suburbs
+ROOSTERS",8,20,7,"South Sydney
+RABBITOHS",2,2,9
+0,NSWRL 1986,Round 20,"Sunday, 20th July, 1986",3:00pm (local time),5425,7,"5,899","Balmain
+TIGERS",6,8,10,"Illawarra
+STEELERS",10,22,11
+0,NSWRL 1986,Round 20,"Sunday, 20th July, 1986",3:00pm (local time),5426,48,"6,497","Canberra
+RAIDERS",14,32,4,"Eastern Suburbs
+ROOSTERS",8,8,9
+0,NSWRL 1986,Round 20,"Sunday, 20th July, 1986",3:00pm (local time),5423,5,"10,132","Manly Warringah
+SEA EAGLES",2,20,6,"Western Suburbs
+MAGPIES",18,22,14
+0,NSWRL 1986,Round 20,"Sunday, 20th July, 1986",3:00pm (local time),5424,8,"21,049","Parramatta
+EELS",16,16,5,"Penrith
+PANTHERS",0,10,7
+0,NSWRL 1986,Round 20,"Sunday, 20th July, 1986",3:00pm (local time),5427,44,"6,484","South Sydney
+RABBITOHS",,38,6,"North Sydney
+BEARS",,14,12
+0,NSWRL 1986,Round 20,"Monday, 21st July, 1986",7:30pm (local time),5428,24,"9,506","St George
+DRAGONS",6,6,4,"Cronulla Sutherland
+SHARKS",4,14,8
+0,NSWRL 1986,Round 21,"Saturday, 26th July, 1986",3:00pm (local time),5429,110,"4,608","Western Suburbs
+MAGPIES",12,14,7,"St George
+DRAGONS",10,18,12
+0,NSWRL 1986,Round 21,"Sunday, 27th July, 1986",3:00pm (local time),5431,9,"7,523","Cronulla Sutherland
+SHARKS",8,14,7,"Balmain
+TIGERS",10,16,7
+0,NSWRL 1986,Round 21,"Sunday, 27th July, 1986",3:00pm (local time),5432,25,"3,638","North Sydney
+BEARS",,31,8,"Canberra
+RAIDERS",,10,6
+0,NSWRL 1986,Round 21,"Sunday, 27th July, 1986",3:00pm (local time),5433,8,"10,893","Parramatta
+EELS",14,14,15,"Eastern Suburbs
+ROOSTERS",2,12,6
+0,NSWRL 1986,Round 21,"Sunday, 27th July, 1986",3:00pm (local time),5430,3,"9,718","Penrith
+PANTHERS",8,11,11,"Manly Warringah
+SEA EAGLES",4,11,9
+0,NSWRL 1986,Round 21,"Monday, 28th July, 1986",7:30pm (local time),5434,27,"13,984","Canterbury Bankstown
+BULLDOGS",4,8,11,"South Sydney
+RABBITOHS",6,17,9
+0,NSWRL 1986,Round 22,"Saturday, 2nd August, 1986",3:00pm (local time),5435,5,"6,431","Manly Warringah
+SEA EAGLES",,22,12,"Eastern Suburbs
+ROOSTERS",,27,5
+0,NSWRL 1986,Round 22,"Sunday, 3rd August, 1986",3:00pm (local time),5436,7,"7,670","Balmain
+TIGERS",6,6,9,"Western Suburbs
+MAGPIES",18,36,12
+0,NSWRL 1986,Round 22,"Sunday, 3rd August, 1986",3:00pm (local time),5437,48,"8,424","Canberra
+RAIDERS",,14,6,"Canterbury Bankstown
+BULLDOGS",,32,6
+0,NSWRL 1986,Round 22,"Sunday, 3rd August, 1986",3:00pm (local time),5439,21,"5,893","Illawarra
+STEELERS",0,6,4,"Cronulla Sutherland
+SHARKS",12,12,11
+0,NSWRL 1986,Round 22,"Sunday, 3rd August, 1986",3:00pm (local time),5438,24,"9,110","St George
+DRAGONS",14,24,5,"Penrith
+PANTHERS",6,20,7
+0,NSWRL 1986,Round 22,"Monday, 4th August, 1986",7:30pm (local time),5440,8,"10,080","Parramatta
+EELS",2,8,6,"North Sydney
+BEARS",6,12,5
+0,NSWRL 1986,Round 23,"Saturday, 9th August, 1986",3:00pm (local time),5441,24,"5,717","St George
+DRAGONS",10,23,6,"Eastern Suburbs
+ROOSTERS",4,10,7
+0,NSWRL 1986,Round 23,"Sunday, 10th August, 1986",3:00pm (local time),5442,27,"17,350","Canterbury Bankstown
+BULLDOGS",0,6,7,"Parramatta
+EELS",4,7,9
+0,NSWRL 1986,Round 23,"Sunday, 10th August, 1986",3:00pm (local time),5444,25,"16,137","North Sydney
+BEARS",12,14,10,"Manly Warringah
+SEA EAGLES",4,8,11
+0,NSWRL 1986,Round 23,"Sunday, 10th August, 1986",3:00pm (local time),5445,44,"5,152","South Sydney
+RABBITOHS",0,11,12,"Canberra
+RAIDERS",0,6,9
+0,NSWRL 1986,Round 23,"Sunday, 10th August, 1986",3:00pm (local time),5443,110,"4,026","Western Suburbs
+MAGPIES",8,26,11,"Illawarra
+STEELERS",4,12,10
+0,NSWRL 1986,Round 23,"Monday, 11th August, 1986",7:30pm (local time),5446,8,"8,434","Balmain
+TIGERS",8,31,10,"Penrith
+PANTHERS",4,14,7
+0,NSWRL 1986,Round 24,"Saturday, 16th August, 1986",3:00pm (local time),5447,24,"7,683","St George
+DRAGONS",10,26,10,"North Sydney
+BEARS",0,6,6
+0,NSWRL 1986,Round 24,"Sunday, 17th August, 1986",3:00pm (local time),5450,9,"5,727","Cronulla Sutherland
+SHARKS",10,26,9,"Western Suburbs
+MAGPIES",6,12,11
+0,NSWRL 1986,Round 24,"Sunday, 17th August, 1986",3:00pm (local time),5448,21,"4,672","Illawarra
+STEELERS",,26,3,"Penrith
+PANTHERS",,24,6
+0,NSWRL 1986,Round 24,"Sunday, 17th August, 1986",3:00pm (local time),5451,5,"20,145","Manly Warringah
+SEA EAGLES",2,16,14,"Canterbury Bankstown
+BULLDOGS",6,8,8
+0,NSWRL 1986,Round 24,"Sunday, 17th August, 1986",3:00pm (local time),5449,8,"27,243","Parramatta
+EELS",6,12,15,"South Sydney
+RABBITOHS",10,12,12
+0,NSWRL 1986,Round 24,"Monday, 18th August, 1986",7:30pm (local time),5452,7,"7,559","Balmain
+TIGERS",12,14,10,"Eastern Suburbs
+ROOSTERS",6,6,12
+0,NSWRL 1986,Round 25,"Saturday, 23rd August, 1986",3:00pm (local time),5453,25,"9,741","North Sydney
+BEARS",12,12,8,"Balmain
+TIGERS",6,10,14
+0,NSWRL 1986,Round 25,"Sunday, 24th August, 1986",3:00pm (local time),5454,48,"8,836","Canberra
+RAIDERS",12,19,7,"Parramatta
+EELS",12,12,3
+0,NSWRL 1986,Round 25,"Sunday, 24th August, 1986",3:00pm (local time),5457,8,"2,755","Eastern Suburbs
+ROOSTERS",20,22,11,"Illawarra
+STEELERS",10,20,10
+0,NSWRL 1986,Round 25,"Sunday, 24th August, 1986",3:00pm (local time),5456,3,"4,126","Penrith
+PANTHERS",26,50,8,"Cronulla Sutherland
+SHARKS",4,14,7
+0,NSWRL 1986,Round 25,"Sunday, 24th August, 1986",3:00pm (local time),5455,44,"16,276","South Sydney
+RABBITOHS",9,23,6,"Manly Warringah
+SEA EAGLES",14,18,6
+0,NSWRL 1986,Round 25,"Monday, 25th August, 1986",7:30pm (local time),5458,27,"19,210","Canterbury Bankstown
+BULLDOGS",6,19,11,"St George
+DRAGONS",4,10,13
+0,NSWRL 1986,Round 26,"Saturday, 30th August, 1986",3:00pm (local time),5459,7,"10,321","Balmain
+TIGERS",14,38,7,"South Sydney
+RABBITOHS",0,20,12
+0,NSWRL 1986,Round 26,"Sunday, 31st August, 1986",3:00pm (local time),5461,9,"5,754","Cronulla Sutherland
+SHARKS",,10,5,"North Sydney
+BEARS",,17,10
+0,NSWRL 1986,Round 26,"Sunday, 31st August, 1986",3:00pm (local time),5460,5,"27,655","Manly Warringah
+SEA EAGLES",6,6,5,"Parramatta
+EELS",4,22,7
+0,NSWRL 1986,Round 26,"Sunday, 31st August, 1986",3:00pm (local time),5462,24,"8,387","St George
+DRAGONS",4,18,9,"Canberra
+RAIDERS",18,18,5
+0,NSWRL 1986,Round 26,"Sunday, 31st August, 1986",3:00pm (local time),5463,110,"7,375","Western Suburbs
+MAGPIES",2,6,15,"Eastern Suburbs
+ROOSTERS",5,8,9
+0,NSWRL 1986,Round 26,"Monday, 1st September, 1986",7:30pm (local time),5464,27,"10,013","Canterbury Bankstown
+BULLDOGS",8,8,6,"Illawarra
+STEELERS",0,2,8
+0,NSWRL 1986,Playoff,"Tuesday, 2nd September, 1986",7:30pm (local time),5465,24,"10,788","Balmain
+TIGERS",4,14,6,"North Sydney
+BEARS",7,7,9
+0,NSWRL 1986,Minor Prelim Semi,"Saturday, 6th September, 1986",3:00pm (local time),5466,24,"17,597","Balmain
+TIGERS",19,29,8,"Manly Warringah
+SEA EAGLES",12,22,8
+0,NSWRL 1986,Major Prelim Semi,"Sunday, 7th September, 1986",3:00pm (local time),5467,24,"24,573","Canterbury Bankstown
+BULLDOGS",4,16,10,"South Sydney
+RABBITOHS",0,2,14
+0,NSWRL 1986,Minor Semi,"Saturday, 13th September, 1986",3:00pm (local time),5468,24,"27,035","Balmain
+TIGERS",8,36,11,"South Sydney
+RABBITOHS",8,11,8
+0,NSWRL 1986,Major Semi,"Sunday, 14th September, 1986",3:00pm (local time),5469,24,"32,499","Parramatta
+EELS",16,28,5,"Canterbury Bankstown
+BULLDOGS",0,6,6
+0,NSWRL 1986,Prelim Final,"Sunday, 21st September, 1986",3:00pm (local time),5470,24,"32,341","Canterbury Bankstown
+BULLDOGS",15,28,10,"Balmain
+TIGERS",4,16,10
+0,NSWRL 1986,Grand Final,"Sunday, 28th September, 1986",3:00pm (local time),5471,24,"45,843","Parramatta
+EELS",2,4,13,"Canterbury Bankstown
+BULLDOGS",0,2,8

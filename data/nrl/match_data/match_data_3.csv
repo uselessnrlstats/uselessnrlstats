@@ -1,0 +1,103 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1911,Round 1,"Saturday, 29th April, 1911",2:00pm (local time),8316,109,"5,000","Western Suburbs
+MAGPIES",0,0,,GLEBE,6,8,
+0,NSWRFL 1911,Round 1,"Saturday, 29th April, 1911",3:15pm (local time),8315,103,"2,000",ANNANDALE,0,3,,EASTERN SUBURBS,13,30,
+0,NSWRFL 1911,Round 1,"Saturday, 29th April, 1911",3:15pm (local time),8318,159,"12,000",NEWTOWN,3,16,,"Balmain
+TIGERS",3,3,
+0,NSWRFL 1911,Round 1,"Saturday, 29th April, 1911",3:15pm (local time),8317,109,"5,000","South Sydney
+RABBITOHS",15,25,,NORTH SYDNEY,0,5,
+0,NSWRFL 1911,Round 2,"Saturday, 6th May, 1911",3:15pm (local time),8322,150,"2,000","Balmain
+TIGERS",3,8,,ANNANDALE,8,13,
+0,NSWRFL 1911,Round 2,"Saturday, 6th May, 1911",3:15pm (local time),8321,109,"5,000",EASTERN SUBURBS,10,22,,NORTH SYDNEY,7,9,
+0,NSWRFL 1911,Round 2,"Saturday, 6th May, 1911",3:15pm (local time),8319,105,"10,000",GLEBE,2,7,,"South Sydney
+RABBITOHS",6,11,
+0,NSWRFL 1911,Round 2,"Saturday, 6th May, 1911",3:15pm (local time),8320,159,"3,000",NEWTOWN,12,25,,"Western Suburbs
+MAGPIES",0,2,
+0,NSWRFL 1911,Round 3,"Saturday, 13th May, 1911",3:15pm (local time),8326,105,"4,000",GLEBE,5,8,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1911,Round 3,"Saturday, 13th May, 1911",3:15pm (local time),8324,103,"15,000",NEWTOWN,0,7,,"South Sydney
+RABBITOHS",5,7,
+0,NSWRFL 1911,Round 3,"Saturday, 13th May, 1911",3:15pm (local time),8325,25,"4,000",NORTH SYDNEY,19,30,,"Balmain
+TIGERS",12,14,
+0,NSWRFL 1911,Round 3,"Saturday, 13th May, 1911",3:15pm (local time),8323,164,,"Western Suburbs
+MAGPIES",0,2,,ANNANDALE,3,5,
+0,NSWRFL 1911,Round 4,"Saturday, 20th May, 1911",3:15pm (local time),8327,105,"3,000",ANNANDALE,6,14,,"South Sydney
+RABBITOHS",11,30,
+0,NSWRFL 1911,Round 4,"Saturday, 20th May, 1911",3:15pm (local time),8329,150,"5,000","Balmain
+TIGERS",3,8,,GLEBE,8,19,
+0,NSWRFL 1911,Round 4,"Saturday, 20th May, 1911",3:15pm (local time),8330,109,"15,000",EASTERN SUBURBS,4,7,,NEWTOWN,3,16,
+0,NSWRFL 1911,Round 4,"Saturday, 20th May, 1911",3:15pm (local time),8328,25,"3,500","Western Suburbs
+MAGPIES",2,14,,NORTH SYDNEY,5,13,
+0,NSWRFL 1911,Round 5,"Saturday, 27th May, 1911",3:15pm (local time),8334,109,"3,000",EASTERN SUBURBS,13,16,,"Balmain
+TIGERS",2,11,
+0,NSWRFL 1911,Round 5,"Saturday, 27th May, 1911",3:15pm (local time),8331,105,"10,000",GLEBE,8,13,,NEWTOWN,0,0,
+0,NSWRFL 1911,Round 5,"Saturday, 27th May, 1911",3:15pm (local time),8333,25,"1,000",NORTH SYDNEY,2,2,,ANNANDALE,2,2,
+0,NSWRFL 1911,Round 5,"Saturday, 27th May, 1911",3:15pm (local time),8332,159,"1,000","Western Suburbs
+MAGPIES",5,8,,"South Sydney
+RABBITOHS",5,13,
+0,NSWRFL 1911,Round 6,"Saturday, 17th June, 1911",3:15pm (local time),8336,109,"3,000",EASTERN SUBURBS,7,22,,"Western Suburbs
+MAGPIES",5,15,
+0,NSWRFL 1911,Round 6,"Saturday, 17th June, 1911",3:15pm (local time),8337,105,"3,000",GLEBE,9,19,,ANNANDALE,3,10,
+0,NSWRFL 1911,Round 6,"Saturday, 17th June, 1911",3:15pm (local time),8335,159,"4,000",NEWTOWN,10,15,,NORTH SYDNEY,2,2,
+0,NSWRFL 1911,Round 6,"Saturday, 17th June, 1911",3:15pm (local time),8338,103,"5,000","South Sydney
+RABBITOHS",,24,,"Balmain
+TIGERS",,10,
+0,NSWRFL 1911,Round 7,"Saturday, 1st July, 1911",3:15pm (local time),8339,150,"3,000","Balmain
+TIGERS",7,18,,"Western Suburbs
+MAGPIES",5,10,
+0,NSWRFL 1911,Round 7,"Saturday, 1st July, 1911",3:15pm (local time),8340,109,"10,000",EASTERN SUBURBS,4,8,,"South Sydney
+RABBITOHS",3,12,
+0,NSWRFL 1911,Round 7,"Saturday, 1st July, 1911",3:15pm (local time),8341,105,"1,500",NEWTOWN,0,3,,ANNANDALE,6,6,
+0,NSWRFL 1911,Round 7,"Saturday, 1st July, 1911",3:15pm (local time),8342,25,"5,000",NORTH SYDNEY,15,20,,GLEBE,4,17,
+0,NSWRFL 1911,Round 8,"Saturday, 8th July, 1911",3:15pm (local time),8343,105,"2,000",ANNANDALE,3,5,,GLEBE,8,26,
+0,NSWRFL 1911,Round 8,"Saturday, 8th July, 1911",3:15pm (local time),8345,150,"4,000","Balmain
+TIGERS",2,7,,EASTERN SUBURBS,15,29,
+0,NSWRFL 1911,Round 8,"Saturday, 8th July, 1911",3:15pm (local time),8344,25,"2,500",NORTH SYDNEY,8,11,,"Western Suburbs
+MAGPIES",0,2,
+0,NSWRFL 1911,Round 8,"Saturday, 8th July, 1911",3:15pm (local time),8346,103,"18,000","South Sydney
+RABBITOHS",0,3,,NEWTOWN,0,3,
+0,NSWRFL 1911,Round 9,"Saturday, 22nd July, 1911",3:15pm (local time),8348,150,"2,000","Balmain
+TIGERS",7,7,,NEWTOWN,7,16,
+0,NSWRFL 1911,Round 9,"Saturday, 22nd July, 1911",3:15pm (local time),8347,105,"6,000",GLEBE,16,24,,NORTH SYDNEY,0,6,
+0,NSWRFL 1911,Round 9,"Saturday, 22nd July, 1911",3:15pm (local time),8350,109,"3,000","South Sydney
+RABBITOHS",0,8,,ANNANDALE,0,0,
+0,NSWRFL 1911,Round 9,"Saturday, 22nd July, 1911",3:15pm (local time),8349,103,"2,000","Western Suburbs
+MAGPIES",3,8,,EASTERN SUBURBS,5,8,
+0,NSWRFL 1911,Round 10,"Saturday, 29th July, 1911",3:15pm (local time),8351,105,,ANNANDALE,16,31,,NORTH SYDNEY,8,11,
+0,NSWRFL 1911,Round 10,"Saturday, 29th July, 1911",3:15pm (local time),8354,103,"1,000",NEWTOWN,3,13,,EASTERN SUBURBS,6,13,
+0,NSWRFL 1911,Round 10,"Saturday, 29th July, 1911",3:15pm (local time),8353,109,"16,000","South Sydney
+RABBITOHS",3,5,,GLEBE,3,9,
+0,NSWRFL 1911,Round 10,"Saturday, 29th July, 1911",3:15pm (local time),8352,150,"3,000","Western Suburbs
+MAGPIES",9,21,,"Balmain
+TIGERS",5,11,
+0,NSWRFL 1911,Round 11,"Saturday, 5th August, 1911",3:15pm (local time),8355,105,"1,000",ANNANDALE,3,3,,"Western Suburbs
+MAGPIES",13,13,
+0,NSWRFL 1911,Round 11,"Saturday, 5th August, 1911",3:15pm (local time),8356,150,400,"Balmain
+TIGERS",11,15,,NORTH SYDNEY,3,6,
+0,NSWRFL 1911,Round 11,"Saturday, 5th August, 1911",3:15pm (local time),8357,159,"5,000",NEWTOWN,0,3,,GLEBE,7,21,
+0,NSWRFL 1911,Round 11,"Saturday, 5th August, 1911",3:15pm (local time),8358,109,"15,000","South Sydney
+RABBITOHS",8,14,,EASTERN SUBURBS,7,24,
+0,NSWRFL 1911,Round 12,"Saturday, 12th August, 1911",3:15pm (local time),8359,105,700,ANNANDALE,6,11,,"Balmain
+TIGERS",2,7,
+0,NSWRFL 1911,Round 12,"Saturday, 12th August, 1911",3:15pm (local time),8362,109,"16,000",EASTERN SUBURBS,5,18,,GLEBE,5,8,
+0,NSWRFL 1911,Round 12,"Saturday, 12th August, 1911",3:15pm (local time),8361,25,"2,500",NORTH SYDNEY,3,6,,"South Sydney
+RABBITOHS",8,13,
+0,NSWRFL 1911,Round 12,"Saturday, 12th August, 1911",3:15pm (local time),8360,159,300,"Western Suburbs
+MAGPIES",8,14,,NEWTOWN,6,8,
+0,NSWRFL 1911,Round 13,"Saturday, 19th August, 1911",3:15pm (local time),8364,103,"3,000",EASTERN SUBURBS,0,8,,ANNANDALE,5,5,
+0,NSWRFL 1911,Round 13,"Saturday, 19th August, 1911",3:15pm (local time),8366,105,"4,000",GLEBE,10,41,,"Balmain
+TIGERS",2,2,
+0,NSWRFL 1911,Round 13,"Saturday, 19th August, 1911",3:15pm (local time),8365,25,"1,000",NORTH SYDNEY,15,17,,NEWTOWN,5,12,
+0,NSWRFL 1911,Round 13,"Saturday, 19th August, 1911",3:15pm (local time),8363,109,"2,500","South Sydney
+RABBITOHS",2,20,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1911,Round 14,"Saturday, 26th August, 1911",3:15pm (local time),8367,105,500,ANNANDALE,5,5,,NEWTOWN,14,17,
+0,NSWRFL 1911,Round 14,"Saturday, 26th August, 1911",3:15pm (local time),8369,150,"1,000","Balmain
+TIGERS",7,9,,"South Sydney
+RABBITOHS",0,3,
+0,NSWRFL 1911,Round 14,"Saturday, 26th August, 1911",3:15pm (local time),8368,103,"3,500",GLEBE,13,24,,"Western Suburbs
+MAGPIES",0,0,
+0,NSWRFL 1911,Round 14,"Saturday, 26th August, 1911",3:15pm (local time),8370,25,"2,000",NORTH SYDNEY,0,0,,EASTERN SUBURBS,3,3,
+0,NSWRFL 1911,Playoff,"Saturday, 2nd September, 1911",3:15pm (local time),8371,109,"14,000",EASTERN SUBURBS,8,23,,"South Sydney
+RABBITOHS",2,10,
+0,NSWRFL 1911,Final,"Saturday, 9th September, 1911",3:15pm (local time),8372,103,"16,000",EASTERN SUBURBS,14,22,,GLEBE,5,9,
+0,NSWRFL 1911,Grand Final,"Saturday, 16th September, 1911",3:15pm (local time),8373,103,"20,000",EASTERN SUBURBS,2,11,,GLEBE,5,8,

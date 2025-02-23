@@ -1,0 +1,122 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1946,Round 1,"Saturday, 13th April, 1946",3:15pm (local time),10389,7,"10,353","Balmain
+TIGERS",7,14,,"St George
+DRAGONS",17,22,
+0,NSWRFL 1946,Round 1,"Saturday, 13th April, 1946",3:15pm (local time),10390,109,"20,500",EASTERN SUBURBS,17,33,,"Western Suburbs
+MAGPIES",10,10,
+0,NSWRFL 1946,Round 1,"Saturday, 13th April, 1946",3:15pm (local time),10388,112,"7,339",NEWTOWN,22,32,,"South Sydney
+RABBITOHS",4,7,
+0,NSWRFL 1946,Round 1,"Saturday, 13th April, 1946",3:15pm (local time),10391,25,"9,933",NORTH SYDNEY,10,27,,CANTERBURY BANKSTOWN,3,11,
+0,NSWRFL 1946,Round 2,"Saturday, 20th April, 1946",3:15pm (local time),10393,27,"11,433",CANTERBURY BANKSTOWN,7,14,,"Balmain
+TIGERS",6,39,
+0,NSWRFL 1946,Round 2,"Saturday, 20th April, 1946",3:15pm (local time),10392,109,"26,894",EASTERN SUBURBS,4,16,,NORTH SYDNEY,3,8,
+0,NSWRFL 1946,Round 2,"Monday, 22nd April, 1946",3:15pm (local time),10394,157,"14,997","St George
+DRAGONS",4,15,,NEWTOWN,17,22,
+0,NSWRFL 1946,Round 2,"Monday, 22nd April, 1946",3:15pm (local time),10395,112,"10,511","Western Suburbs
+MAGPIES",18,31,,"South Sydney
+RABBITOHS",0,11,
+0,NSWRFL 1946,Round 3,"Thursday, 25th April, 1946",3:15pm (local time),10396,27,"10,624",CANTERBURY BANKSTOWN,5,31,,"St George
+DRAGONS",4,12,
+0,NSWRFL 1946,Round 3,"Thursday, 25th April, 1946",3:15pm (local time),10397,24,"39,730",EASTERN SUBURBS,11,13,,"Balmain
+TIGERS",5,20,
+0,NSWRFL 1946,Round 3,"Saturday, 27th April, 1946",3:15pm (local time),10398,24,"30,123",NEWTOWN,13,31,,"Western Suburbs
+MAGPIES",10,15,
+0,NSWRFL 1946,Round 3,"Saturday, 27th April, 1946",3:15pm (local time),10399,25,"9,119",NORTH SYDNEY,19,26,,"South Sydney
+RABBITOHS",5,15,
+0,NSWRFL 1946,Round 4,"Saturday, 25th May, 1946",3:15pm (local time),10402,24,"20,432",NEWTOWN,2,10,,CANTERBURY BANKSTOWN,4,7,
+0,NSWRFL 1946,Round 4,"Saturday, 25th May, 1946",3:15pm (local time),10403,157,"10,000","St George
+DRAGONS",8,19,,EASTERN SUBURBS,4,9,
+0,NSWRFL 1946,Round 4,"Saturday, 25th May, 1946",3:15pm (local time),10401,109,"6,005","South Sydney
+RABBITOHS",5,5,,"Balmain
+TIGERS",9,21,
+0,NSWRFL 1946,Round 4,"Saturday, 25th May, 1946",3:15pm (local time),10400,112,"9,906","Western Suburbs
+MAGPIES",13,41,,NORTH SYDNEY,18,23,
+0,NSWRFL 1946,Round 5,"Monday, 10th June, 1946",3:15pm (local time),10405,24,"18,857","Balmain
+TIGERS",15,25,,"Western Suburbs
+MAGPIES",2,14,
+0,NSWRFL 1946,Round 5,"Monday, 10th June, 1946",3:15pm (local time),10406,27,"6,500",CANTERBURY BANKSTOWN,7,15,,EASTERN SUBURBS,10,10,
+0,NSWRFL 1946,Round 5,"Monday, 10th June, 1946",3:15pm (local time),10407,25,"10,064",NORTH SYDNEY,7,15,,NEWTOWN,6,18,
+0,NSWRFL 1946,Round 5,"Monday, 10th June, 1946",3:15pm (local time),10404,157,"7,520","St George
+DRAGONS",16,27,,"South Sydney
+RABBITOHS",7,14,
+0,NSWRFL 1946,Round 6,"Saturday, 15th June, 1946",3:15pm (local time),10408,24,"15,552",EASTERN SUBURBS,2,17,,NEWTOWN,4,9,
+0,NSWRFL 1946,Round 6,"Saturday, 15th June, 1946",3:15pm (local time),10410,25,"8,767",NORTH SYDNEY,3,8,,"Balmain
+TIGERS",6,19,
+0,NSWRFL 1946,Round 6,"Saturday, 15th June, 1946",3:15pm (local time),10411,109,"3,161","South Sydney
+RABBITOHS",0,5,,CANTERBURY BANKSTOWN,3,12,
+0,NSWRFL 1946,Round 6,"Saturday, 15th June, 1946",3:15pm (local time),10409,112,"9,620","Western Suburbs
+MAGPIES",8,14,,"St George
+DRAGONS",9,26,
+0,NSWRFL 1946,Round 7,"Saturday, 22nd June, 1946",3:15pm (local time),10412,27,"6,375",CANTERBURY BANKSTOWN,5,13,,"Western Suburbs
+MAGPIES",0,13,
+0,NSWRFL 1946,Round 7,"Saturday, 22nd June, 1946",3:15pm (local time),10413,109,"3,105",EASTERN SUBURBS,2,15,,"South Sydney
+RABBITOHS",11,14,
+0,NSWRFL 1946,Round 7,"Saturday, 22nd June, 1946",3:15pm (local time),10415,24,"19,723",NEWTOWN,15,20,,"Balmain
+TIGERS",0,7,
+0,NSWRFL 1946,Round 7,"Saturday, 22nd June, 1946",3:15pm (local time),10414,157,"7,636","St George
+DRAGONS",10,15,,NORTH SYDNEY,8,18,
+0,NSWRFL 1946,Round 8,"Saturday, 29th June, 1946",3:15pm (local time),10416,27,,CANTERBURY BANKSTOWN,7,16,,NORTH SYDNEY,7,10,
+0,NSWRFL 1946,Round 8,"Saturday, 29th June, 1946",3:15pm (local time),10418,24,"8,734","St George
+DRAGONS",9,13,,"Balmain
+TIGERS",5,10,
+0,NSWRFL 1946,Round 8,"Saturday, 29th June, 1946",3:15pm (local time),10417,109,,"South Sydney
+RABBITOHS",0,0,,NEWTOWN,24,38,
+0,NSWRFL 1946,Round 8,"Saturday, 29th June, 1946",3:15pm (local time),10419,112,,"Western Suburbs
+MAGPIES",7,7,,EASTERN SUBURBS,3,10,
+0,NSWRFL 1946,Round 9,"Saturday, 6th July, 1946",3:15pm (local time),10422,7,,"Balmain
+TIGERS",5,11,,CANTERBURY BANKSTOWN,0,18,
+0,NSWRFL 1946,Round 9,"Saturday, 6th July, 1946",3:15pm (local time),10420,24,"15,372",NEWTOWN,3,12,,"St George
+DRAGONS",8,16,
+0,NSWRFL 1946,Round 9,"Saturday, 6th July, 1946",3:15pm (local time),10423,25,"5,259",NORTH SYDNEY,5,17,,EASTERN SUBURBS,2,10,
+0,NSWRFL 1946,Round 9,"Saturday, 6th July, 1946",3:15pm (local time),10421,109,"2,000","South Sydney
+RABBITOHS",5,5,,"Western Suburbs
+MAGPIES",4,10,
+0,NSWRFL 1946,Round 10,"Saturday, 13th July, 1946",3:15pm (local time),10424,7,,"Balmain
+TIGERS",0,8,,EASTERN SUBURBS,9,11,
+0,NSWRFL 1946,Round 10,"Saturday, 13th July, 1946",3:15pm (local time),10427,24,"18,318","St George
+DRAGONS",8,22,,CANTERBURY BANKSTOWN,8,13,
+0,NSWRFL 1946,Round 10,"Saturday, 13th July, 1946",3:15pm (local time),10426,109,,"South Sydney
+RABBITOHS",2,11,,NORTH SYDNEY,18,31,
+0,NSWRFL 1946,Round 10,"Saturday, 13th July, 1946",3:15pm (local time),10425,112,,"Western Suburbs
+MAGPIES",8,16,,NEWTOWN,5,26,
+0,NSWRFL 1946,Round 11,"Saturday, 27th July, 1946",3:15pm (local time),10429,7,"3,817","Balmain
+TIGERS",16,43,,"South Sydney
+RABBITOHS",2,7,
+0,NSWRFL 1946,Round 11,"Saturday, 27th July, 1946",3:15pm (local time),10430,109,"13,223",EASTERN SUBURBS,8,10,,"St George
+DRAGONS",7,14,
+0,NSWRFL 1946,Round 11,"Saturday, 27th July, 1946",3:15pm (local time),10431,76,"7,000",NEWTOWN,5,15,,CANTERBURY BANKSTOWN,2,5,
+0,NSWRFL 1946,Round 11,"Saturday, 27th July, 1946",3:15pm (local time),10428,25,"5,008",NORTH SYDNEY,12,12,,"Western Suburbs
+MAGPIES",2,19,
+0,NSWRFL 1946,Round 12,"Saturday, 3rd August, 1946",3:15pm (local time),10433,27,"5,991",CANTERBURY BANKSTOWN,9,11,,EASTERN SUBURBS,5,8,
+0,NSWRFL 1946,Round 12,"Saturday, 3rd August, 1946",3:15pm (local time),10432,76,"6,000",NEWTOWN,8,38,,NORTH SYDNEY,15,22,
+0,NSWRFL 1946,Round 12,"Saturday, 3rd August, 1946",3:15pm (local time),10434,157,"6,000","South Sydney
+RABBITOHS",11,14,,"St George
+DRAGONS",5,18,
+0,NSWRFL 1946,Round 12,"Saturday, 3rd August, 1946",3:15pm (local time),10435,109,"11,423","Western Suburbs
+MAGPIES",15,22,,"Balmain
+TIGERS",6,23,
+0,NSWRFL 1946,Round 13,"Saturday, 10th August, 1946",3:15pm (local time),10437,7,,"Balmain
+TIGERS",16,24,,NORTH SYDNEY,0,16,
+0,NSWRFL 1946,Round 13,"Saturday, 10th August, 1946",3:15pm (local time),10438,27,,CANTERBURY BANKSTOWN,7,30,,"South Sydney
+RABBITOHS",6,9,
+0,NSWRFL 1946,Round 13,"Saturday, 10th August, 1946",3:15pm (local time),10439,24,,EASTERN SUBURBS,17,32,,NEWTOWN,5,15,
+0,NSWRFL 1946,Round 13,"Saturday, 10th August, 1946",3:15pm (local time),10436,157,,"St George
+DRAGONS",5,13,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1946,Round 14,"Saturday, 17th August, 1946",3:15pm (local time),10441,24,"19,280","Balmain
+TIGERS",10,15,,NEWTOWN,4,10,
+0,NSWRFL 1946,Round 14,"Saturday, 17th August, 1946",3:15pm (local time),10440,25,"6,000",NORTH SYDNEY,4,15,,"St George
+DRAGONS",11,32,
+0,NSWRFL 1946,Round 14,"Saturday, 17th August, 1946",3:15pm (local time),10443,109,"2,911","South Sydney
+RABBITOHS",2,7,,EASTERN SUBURBS,4,19,
+0,NSWRFL 1946,Round 14,"Saturday, 17th August, 1946",3:15pm (local time),10442,112,"4,000","Western Suburbs
+MAGPIES",5,5,,CANTERBURY BANKSTOWN,16,16,
+0,NSWRFL 1946,Semi Final,"Saturday, 24th August, 1946",3:15pm (local time),10444,24,"34,408","Balmain
+TIGERS",9,22,,"St George
+DRAGONS",2,14,
+0,NSWRFL 1946,Semi Final,"Saturday, 31st August, 1946",3:15pm (local time),10445,24,"28,012",CANTERBURY BANKSTOWN,6,12,,NEWTOWN,5,10,
+0,NSWRFL 1946,Final,"Saturday, 7th September, 1946",3:15pm (local time),10446,24,"36,445","Balmain
+TIGERS",3,8,,CANTERBURY BANKSTOWN,0,7,
+0,NSWRFL 1946,Grand Final Chall.,"Saturday, 14th September, 1946",3:15pm (local time),10447,109,"32,296","Balmain
+TIGERS",3,13,,"St George
+DRAGONS",6,12,

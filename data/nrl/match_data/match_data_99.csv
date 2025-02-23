@@ -1,0 +1,494 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2006,Round 1,"Friday, 10th March, 2006",7:30pm (local time),4011,20,"27,865",WESTS TIGERS,8,24,8,"St George Illawarra
+DRAGONS",10,15,5
+0,NRL 2006,Round 1,"Saturday, 11th March, 2006",5:30pm (local time),4006,11,"26,198","Newcastle
+KNIGHTS",8,25,9,"Parramatta
+EELS",6,6,7
+0,NRL 2006,Round 1,"Saturday, 11th March, 2006",7:30pm (local time),4012,20,"17,510",BULLDOGS,10,22,5,"Penrith
+PANTHERS",14,24,9
+0,NRL 2006,Round 1,"Saturday, 11th March, 2006",7:30pm (local time),4008,5,"17,135","Manly Warringah
+SEA EAGLES",8,14,12,"Canberra
+RAIDERS",14,27,8
+0,NRL 2006,Round 1,"Sunday, 12th March, 2006",2:00pm (local time),4010,6,"10,035",WARRIORS,0,16,8,"Melbourne
+STORM",8,22,7
+0,NRL 2006,Round 1,"Sunday, 12th March, 2006",2:30pm (local time),4007,20,"16,741","South Sydney
+RABBITOHS",18,22,4,"Sydney
+ROOSTERS",6,40,6
+0,NRL 2006,Round 1,"Sunday, 12th March, 2006",3:00pm (local time),4009,1097,"46,229","Brisbane
+BRONCOS",0,4,4,"North Queensland
+COWBOYS",24,36,7
+0,NRL 2006,Round 2,"Friday, 17th March, 2006",7:30pm (local time),4062,20,"32,578",BULLDOGS,24,47,12,WESTS TIGERS,0,12,8
+0,NRL 2006,Round 2,"Saturday, 18th March, 2006",5:30pm (local time),4017,70,"16,089","Parramatta
+EELS",10,22,5,WARRIORS,8,14,5
+0,NRL 2006,Round 2,"Saturday, 18th March, 2006",7:30pm (local time),4013,9,"14,221","Cronulla Sutherland
+SHARKS",12,12,9,"Brisbane
+BRONCOS",0,16,8
+0,NRL 2006,Round 2,"Saturday, 18th March, 2006",8:30pm (local time),4018,14,"23,936","North Queensland
+COWBOYS",16,20,11,"Manly Warringah
+SEA EAGLES",4,16,3
+0,NRL 2006,Round 2,"Sunday, 19th March, 2006",2:30pm (local time),4016,1,"10,841","Sydney
+ROOSTERS",0,18,6,"Melbourne
+STORM",16,22,5
+0,NRL 2006,Round 2,"Sunday, 19th March, 2006",3:00pm (local time),4014,4,"11,606","Canberra
+RAIDERS",8,32,5,"Newcastle
+KNIGHTS",34,70,6
+0,NRL 2006,Round 2,"Sunday, 19th March, 2006",3:00pm (local time),4015,21,"12,098","St George Illawarra
+DRAGONS",2,12,13,"Penrith
+PANTHERS",2,13,9
+0,NRL 2006,Round 3,"Friday, 24th March, 2006",7:30pm (local time),4075,11,"25,504","Newcastle
+KNIGHTS",34,46,11,BULLDOGS,6,22,8
+0,NRL 2006,Round 3,"Saturday, 25th March, 2006",7:30pm (local time),4076,45,"14,675",WESTS TIGERS,0,10,6,WARRIORS,14,26,7
+0,NRL 2006,Round 3,"Saturday, 25th March, 2006",7:30pm (local time),4077,5,"13,114","Manly Warringah
+SEA EAGLES",6,20,7,"Cronulla Sutherland
+SHARKS",10,18,3
+0,NRL 2006,Round 3,"Saturday, 25th March, 2006",8:30pm (local time),4078,14,"21,346","North Queensland
+COWBOYS",22,40,12,"Melbourne
+STORM",4,8,7
+0,NRL 2006,Round 3,"Sunday, 26th March, 2006",2:30pm (local time),4079,20,"16,049","South Sydney
+RABBITOHS",8,14,12,"St George Illawarra
+DRAGONS",26,44,7
+0,NRL 2006,Round 3,"Sunday, 26th March, 2006",3:00pm (local time),4081,1,"9,826","Sydney
+ROOSTERS",10,56,8,"Canberra
+RAIDERS",14,20,9
+0,NRL 2006,Round 3,"Sunday, 26th March, 2006",3:00pm (local time),4080,1097,"25,525","Brisbane
+BRONCOS",8,30,3,"Parramatta
+EELS",6,10,7
+0,NRL 2006,Round 4,"Friday, 31st March, 2006",7:30pm (local time),4082,8,"15,131","Parramatta
+EELS",14,18,8,"North Queensland
+COWBOYS",6,26,9
+0,NRL 2006,Round 4,"Saturday, 1st April, 2006",5:30pm (local time),4083,9,"12,274","Cronulla Sutherland
+SHARKS",20,24,7,"South Sydney
+RABBITOHS",6,22,5
+0,NRL 2006,Round 4,"Saturday, 1st April, 2006",7:30pm (local time),4085,4,"9,399","Canberra
+RAIDERS",10,21,7,"Penrith
+PANTHERS",8,20,8
+0,NRL 2006,Round 4,"Saturday, 1st April, 2006",7:30pm (local time),4084,5,"17,117","Manly Warringah
+SEA EAGLES",12,30,8,"Sydney
+ROOSTERS",20,22,8
+0,NRL 2006,Round 4,"Sunday, 2nd April, 2006",2:30pm (local time),4086,7,"17,803",WESTS TIGERS,18,30,9,"Melbourne
+STORM",4,28,6
+0,NRL 2006,Round 4,"Sunday, 2nd April, 2006",3:00pm (local time),4088,11,"18,359","Newcastle
+KNIGHTS",10,22,8,WARRIORS,14,26,3
+0,NRL 2006,Round 4,"Sunday, 2nd April, 2006",3:00pm (local time),4087,21,"13,708","St George Illawarra
+DRAGONS",14,26,7,"Brisbane
+BRONCOS",6,12,3
+0,NRL 2006,Round 5,"Friday, 7th April, 2006",7:30pm (local time),4096,14,"20,262","North Queensland
+COWBOYS",22,32,14,WESTS TIGERS,2,12,8
+0,NRL 2006,Round 5,"Saturday, 8th April, 2006",5:30pm (local time),4097,1097,"20,816","Brisbane
+BRONCOS",12,30,9,"South Sydney
+RABBITOHS",6,12,2
+0,NRL 2006,Round 5,"Saturday, 8th April, 2006",7:30pm (local time),4098,9,"12,331","Cronulla Sutherland
+SHARKS",0,24,6,"Sydney
+ROOSTERS",16,28,4
+0,NRL 2006,Round 5,"Saturday, 8th April, 2006",7:30pm (local time),4099,21,"17,467","St George Illawarra
+DRAGONS",0,6,4,"Newcastle
+KNIGHTS",24,54,5
+0,NRL 2006,Round 5,"Sunday, 9th April, 2006",2:30pm (local time),4100,6,"7,888",WARRIORS,0,8,14,"Manly Warringah
+SEA EAGLES",20,22,12
+0,NRL 2006,Round 5,"Sunday, 9th April, 2006",3:00pm (local time),4101,4,"12,125","Canberra
+RAIDERS",0,12,9,BULLDOGS,16,30,7
+0,NRL 2006,Round 5,"Sunday, 9th April, 2006",3:00pm (local time),4102,8,"14,194","Parramatta
+EELS",18,18,4,"Penrith
+PANTHERS",14,44,4
+0,NRL 2006,Round 6,"Friday, 14th April, 2006",7:30pm (local time),4095,1,"21,246","Sydney
+ROOSTERS",6,6,7,"Brisbane
+BRONCOS",8,24,9
+0,NRL 2006,Round 6,"Saturday, 15th April, 2006",5:30pm (local time),4103,5,"18,069","Manly Warringah
+SEA EAGLES",14,24,8,"St George Illawarra
+DRAGONS",12,26,8
+0,NRL 2006,Round 6,"Saturday, 15th April, 2006",7:30pm (local time),4111,4,"7,174","Canberra
+RAIDERS",0,18,4,WARRIORS,6,14,7
+0,NRL 2006,Round 6,"Saturday, 15th April, 2006",7:00pm (local time),4110,40,"7,017","Penrith
+PANTHERS",10,18,5,"Melbourne
+STORM",12,40,4
+0,NRL 2006,Round 6,"Sunday, 16th April, 2006",2:30pm (local time),4112,19,"15,550",WESTS TIGERS,24,42,13,"Cronulla Sutherland
+SHARKS",16,16,4
+0,NRL 2006,Round 6,"Sunday, 16th April, 2006",3:00pm (local time),4113,11,"26,048","Newcastle
+KNIGHTS",10,16,6,"North Queensland
+COWBOYS",6,18,12
+0,NRL 2006,Round 6,"Monday, 17th April, 2006",3:00pm (local time),4126,20,"19,529","South Sydney
+RABBITOHS",18,18,6,BULLDOGS,8,26,6
+0,NRL 2006,Round 7,"Friday, 21st April, 2006",7:30pm (local time),4127,8,"21,141","Parramatta
+EELS",14,28,7,WESTS TIGERS,6,16,9
+0,NRL 2006,Round 7,"Saturday, 22nd April, 2006",7:30pm (local time),4128,6,"8,015",WARRIORS,26,46,6,"South Sydney
+RABBITOHS",4,14,8
+0,NRL 2006,Round 7,"Saturday, 22nd April, 2006",7:30pm (local time),4129,9,"9,025","Cronulla Sutherland
+SHARKS",10,24,4,"North Queensland
+COWBOYS",22,22,3
+0,NRL 2006,Round 7,"Saturday, 22nd April, 2006",7:30pm (local time),4130,12,"9,084","Melbourne
+STORM",24,52,11,"Newcastle
+KNIGHTS",6,6,6
+0,NRL 2006,Round 7,"Sunday, 23rd April, 2006",2:30pm (local time),4131,20,"13,621",BULLDOGS,6,14,5,"Manly Warringah
+SEA EAGLES",28,40,6
+0,NRL 2006,Round 7,"Sunday, 23rd April, 2006",3:00pm (local time),4132,1097,"25,133","Brisbane
+BRONCOS",12,30,7,"Penrith
+PANTHERS",0,6,6
+0,NRL 2006,Round 7,"Tuesday, 25th April, 2006",3:00pm (local time),4133,1,"31,105","St George Illawarra
+DRAGONS",14,22,12,"Sydney
+ROOSTERS",12,12,9
+0,NRL 2006,Round 8,"Friday, 28th April, 2006",7:30pm (local time),4148,3,"16,268","Penrith
+PANTHERS",12,12,3,"Cronulla Sutherland
+SHARKS",22,40,2
+0,NRL 2006,Round 8,"Saturday, 29th April, 2006",5:30pm (local time),4153,14,"21,175","North Queensland
+COWBOYS",6,18,10,"Sydney
+ROOSTERS",10,22,3
+0,NRL 2006,Round 8,"Saturday, 29th April, 2006",7:30pm (local time),4154,1097,"23,582","Brisbane
+BRONCOS",0,30,8,"Canberra
+RAIDERS",18,28,3
+0,NRL 2006,Round 8,"Saturday, 29th April, 2006",7:30pm (local time),4155,12,"8,694","Melbourne
+STORM",14,24,11,"St George Illawarra
+DRAGONS",4,10,6
+0,NRL 2006,Round 8,"Sunday, 30th April, 2006",2:00pm (local time),4156,6,"11,604",WARRIORS,8,16,12,BULLDOGS,16,30,9
+0,NRL 2006,Round 8,"Sunday, 30th April, 2006",2:30pm (local time),4157,20,"8,649","South Sydney
+RABBITOHS",6,18,9,"Newcastle
+KNIGHTS",12,24,5
+0,NRL 2006,Round 8,"Sunday, 30th April, 2006",3:00pm (local time),4158,24,"19,200","Manly Warringah
+SEA EAGLES",12,23,8,"Parramatta
+EELS",16,22,5
+0,NRL 2006,Round 9,"Saturday, 6th May, 2006",5:30pm (local time),4182,8,"10,146","Parramatta
+EELS",4,10,6,"Canberra
+RAIDERS",18,30,5
+0,NRL 2006,Round 9,"Saturday, 6th May, 2006",7:30pm (local time),4184,14,"16,808","North Queensland
+COWBOYS",10,22,4,"Penrith
+PANTHERS",0,6,6
+0,NRL 2006,Round 9,"Saturday, 6th May, 2006",7:30pm (local time),4183,20,"8,083","South Sydney
+RABBITOHS",6,14,7,"Melbourne
+STORM",8,38,6
+0,NRL 2006,Round 9,"Sunday, 7th May, 2006",2:30pm (local time),4185,11,"21,252","Newcastle
+KNIGHTS",20,32,6,"Brisbane
+BRONCOS",14,30,3
+0,NRL 2006,Round 9,"Sunday, 7th May, 2006",3:00pm (local time),4188,9,"18,845","Cronulla Sutherland
+SHARKS",12,30,5,"St George Illawarra
+DRAGONS",12,12,3
+0,NRL 2006,Round 9,"Sunday, 7th May, 2006",3:00pm (local time),4186,1,"16,121","Sydney
+ROOSTERS",12,14,3,BULLDOGS,6,30,4
+0,NRL 2006,Round 9,"Sunday, 7th May, 2006",3:00pm (local time),4187,7,"20,231",WESTS TIGERS,16,24,11,"Manly Warringah
+SEA EAGLES",14,18,8
+0,NRL 2006,Round 10,"Saturday, 13th May, 2006",7:30pm (local time),4191,1097,"24,991","Brisbane
+BRONCOS",14,32,3,"Manly Warringah
+SEA EAGLES",6,10,3
+0,NRL 2006,Round 10,"Saturday, 13th May, 2006",7:30pm (local time),4190,12,"10,830","Melbourne
+STORM",12,18,2,"North Queensland
+COWBOYS",0,6,1
+0,NRL 2006,Round 10,"Saturday, 13th May, 2006",7:30pm (local time),4189,21,"10,117","St George Illawarra
+DRAGONS",12,22,10,WARRIORS,12,16,5
+0,NRL 2006,Round 10,"Sunday, 14th May, 2006",2:30pm (local time),4192,20,"13,159",BULLDOGS,18,22,4,"Parramatta
+EELS",6,18,6
+0,NRL 2006,Round 10,"Sunday, 14th May, 2006",3:00pm (local time),4194,4,"9,695","Canberra
+RAIDERS",6,28,5,"Cronulla Sutherland
+SHARKS",24,38,6
+0,NRL 2006,Round 10,"Sunday, 14th May, 2006",3:00pm (local time),4195,3,"10,991","Penrith
+PANTHERS",18,32,8,"South Sydney
+RABBITOHS",4,20,7
+0,NRL 2006,Round 10,"Sunday, 14th May, 2006",3:00pm (local time),4193,19,"14,499",WESTS TIGERS,10,16,6,"Newcastle
+KNIGHTS",12,18,4
+0,NRL 2006,Round 11,"Friday, 19th May, 2006",7:30pm (local time),4208,3,"16,764","Penrith
+PANTHERS",22,30,9,"Parramatta
+EELS",16,20,6
+0,NRL 2006,Round 11,"Saturday, 20th May, 2006",7:30pm (local time),4209,6,"8,210",WARRIORS,22,34,3,WESTS TIGERS,6,12,7
+0,NRL 2006,Round 11,"Saturday, 20th May, 2006",7:30pm (local time),4210,5,"9,338","Manly Warringah
+SEA EAGLES",16,34,2,"Melbourne
+STORM",0,12,3
+0,NRL 2006,Round 11,"Saturday, 20th May, 2006",7:30pm (local time),4211,11,"18,236","Newcastle
+KNIGHTS",12,22,4,"Canberra
+RAIDERS",6,12,2
+0,NRL 2006,Round 11,"Sunday, 21st May, 2006",2:30pm (local time),4212,20,"12,728",BULLDOGS,14,32,8,"Cronulla Sutherland
+SHARKS",6,24,11
+0,NRL 2006,Round 11,"Sunday, 21st May, 2006",3:00pm (local time),4213,1,"13,221","Sydney
+ROOSTERS",12,28,4,"South Sydney
+RABBITOHS",10,26,2
+0,NRL 2006,Round 12,"Friday, 26th May, 2006",7:30pm (local time),4214,11,"23,356","Newcastle
+KNIGHTS",6,12,2,"St George Illawarra
+DRAGONS",20,38,4
+0,NRL 2006,Round 12,"Saturday, 27th May, 2006",5:30pm (local time),4215,14,"16,971","North Queensland
+COWBOYS",8,14,6,"Canberra
+RAIDERS",12,15,4
+0,NRL 2006,Round 12,"Saturday, 27th May, 2006",7:30pm (local time),4216,1097,"30,589","Brisbane
+BRONCOS",18,25,5,BULLDOGS,0,6,5
+0,NRL 2006,Round 12,"Saturday, 27th May, 2006",7:30pm (local time),4217,9,"9,490","Cronulla Sutherland
+SHARKS",24,34,5,WARRIORS,4,20,2
+0,NRL 2006,Round 12,"Sunday, 28th May, 2006",2:30pm (local time),4218,12,"7,899","Melbourne
+STORM",12,17,5,"Penrith
+PANTHERS",10,16,4
+0,NRL 2006,Round 12,"Sunday, 28th May, 2006",3:00pm (local time),4219,8,"13,044","Parramatta
+EELS",22,22,1,"Sydney
+ROOSTERS",0,20,3
+0,NRL 2006,Round 12,"Sunday, 28th May, 2006",3:00pm (local time),4220,20,"13,460","South Sydney
+RABBITOHS",0,4,2,WESTS TIGERS,18,44,7
+0,NRL 2006,Round 13,"Friday, 2nd June, 2006",7:30pm (local time),4221,23,"9,075","St George Illawarra
+DRAGONS",0,8,2,"Parramatta
+EELS",0,1,4
+0,NRL 2006,Round 13,"Saturday, 3rd June, 2006",5:30pm (local time),4222,12,"8,491","Melbourne
+STORM",12,20,4,"Sydney
+ROOSTERS",4,16,5
+0,NRL 2006,Round 13,"Saturday, 3rd June, 2006",7:30pm (local time),4223,20,"12,658",BULLDOGS,16,38,5,"Newcastle
+KNIGHTS",16,22,6
+0,NRL 2006,Round 13,"Saturday, 3rd June, 2006",7:30pm (local time),4224,4,"10,150","Canberra
+RAIDERS",18,24,7,"South Sydney
+RABBITOHS",6,22,5
+0,NRL 2006,Round 13,"Sunday, 4th June, 2006",2:00pm (local time),4225,6,"7,746",WARRIORS,12,18,1,"Brisbane
+BRONCOS",18,23,1
+0,NRL 2006,Round 13,"Sunday, 4th June, 2006",2:30pm (local time),4226,3,"10,256","Penrith
+PANTHERS",10,22,6,"Manly Warringah
+SEA EAGLES",20,29,3
+0,NRL 2006,Round 13,"Sunday, 4th June, 2006",3:00pm (local time),4227,20,"16,736",WESTS TIGERS,18,24,7,"North Queensland
+COWBOYS",4,14,6
+0,NRL 2006,Round 14,"Friday, 9th June, 2006",7:30pm (local time),4240,5,"11,588","Manly Warringah
+SEA EAGLES",6,16,4,WESTS TIGERS,6,12,5
+0,NRL 2006,Round 14,"Saturday, 10th June, 2006",5:30pm (local time),4241,3,"9,422","Penrith
+PANTHERS",6,10,12,"St George Illawarra
+DRAGONS",14,20,5
+0,NRL 2006,Round 14,"Saturday, 10th June, 2006",7:30pm (local time),4242,14,"16,778","North Queensland
+COWBOYS",4,4,2,"Cronulla Sutherland
+SHARKS",8,26,4
+0,NRL 2006,Round 14,"Saturday, 10th June, 2006",7:30pm (local time),4243,20,"6,537","South Sydney
+RABBITOHS",16,34,5,"Brisbane
+BRONCOS",10,14,4
+0,NRL 2006,Round 14,"Sunday, 11th June, 2006",2:30pm (local time),4244,1,"6,806","Sydney
+ROOSTERS",6,12,6,WARRIORS,10,22,6
+0,NRL 2006,Round 14,"Sunday, 11th June, 2006",3:00pm (local time),4245,8,"7,139","Parramatta
+EELS",12,22,4,"Melbourne
+STORM",20,34,3
+0,NRL 2006,Round 14,"Monday, 12th June, 2006",3:00pm (local time),4246,20,"12,541",BULLDOGS,10,26,4,"Canberra
+RAIDERS",16,28,2
+0,NRL 2006,Round 15,"Friday, 16th June, 2006",7:30pm (local time),4247,1097,"32,914","Brisbane
+BRONCOS",8,16,7,"St George Illawarra
+DRAGONS",12,18,3
+0,NRL 2006,Round 15,"Saturday, 17th June, 2006",5:30pm (local time),4248,20,"19,360",WESTS TIGERS,12,26,3,"Sydney
+ROOSTERS",10,14,3
+0,NRL 2006,Round 15,"Saturday, 17th June, 2006",7:30pm (local time),4249,9,"11,083","Cronulla Sutherland
+SHARKS",6,15,7,"Manly Warringah
+SEA EAGLES",8,12,4
+0,NRL 2006,Round 15,"Saturday, 17th June, 2006",7:30pm (local time),4250,8,"10,097","Parramatta
+EELS",16,30,7,"South Sydney
+RABBITOHS",4,10,3
+0,NRL 2006,Round 15,"Sunday, 18th June, 2006",2:00pm (local time),4251,6,"6,240",WARRIORS,14,30,5,"Newcastle
+KNIGHTS",6,18,8
+0,NRL 2006,Round 15,"Sunday, 18th June, 2006",2:30pm (local time),4252,12,"7,954","Melbourne
+STORM",22,22,6,"Canberra
+RAIDERS",2,12,10
+0,NRL 2006,Round 15,"Sunday, 18th June, 2006",3:00pm (local time),4253,28,"16,231",BULLDOGS,8,20,2,"North Queensland
+COWBOYS",6,12,7
+0,NRL 2006,Round 16,"Friday, 23rd June, 2006",7:30pm (local time),4254,12,"10,373","Melbourne
+STORM",0,16,6,BULLDOGS,4,12,7
+0,NRL 2006,Round 16,"Saturday, 24th June, 2006",5:30pm (local time),4255,11,"18,212","Newcastle
+KNIGHTS",10,16,3,"Cronulla Sutherland
+SHARKS",0,26,5
+0,NRL 2006,Round 16,"Saturday, 24th June, 2006",7:30pm (local time),4256,3,"16,120","Penrith
+PANTHERS",18,24,9,WESTS TIGERS,8,20,4
+0,NRL 2006,Round 16,"Saturday, 24th June, 2006",7:30pm (local time),4257,21,"13,289","St George Illawarra
+DRAGONS",10,34,3,"North Queensland
+COWBOYS",8,14,8
+0,NRL 2006,Round 16,"Sunday, 25th June, 2006",2:30pm (local time),4258,4,"11,876","Canberra
+RAIDERS",18,42,5,"Sydney
+ROOSTERS",4,10,8
+0,NRL 2006,Round 16,"Sunday, 25th June, 2006",3:00pm (local time),4259,5,"16,084","Manly Warringah
+SEA EAGLES",0,10,4,"Brisbane
+BRONCOS",10,16,6
+0,NRL 2006,Round 16,"Sunday, 25th June, 2006",3:00pm (local time),4260,20,"6,597","South Sydney
+RABBITOHS",0,0,1,WARRIORS,32,66,2
+0,NRL 2006,Round 17,"Friday, 30th June, 2006",7:30pm (local time),4283,5,"13,284","Manly Warringah
+SEA EAGLES",6,12,8,"Newcastle
+KNIGHTS",12,26,5
+0,NRL 2006,Round 17,"Saturday, 1st July, 2006",7:30pm (local time),4284,6,"8,723",WARRIORS,10,28,2,"Penrith
+PANTHERS",14,22,7
+0,NRL 2006,Round 17,"Saturday, 1st July, 2006",7:30pm (local time),4285,4,"8,824","Canberra
+RAIDERS",6,12,8,"Parramatta
+EELS",10,18,10
+0,NRL 2006,Round 17,"Saturday, 1st July, 2006",7:30pm (local time),4286,14,"17,506","North Queensland
+COWBOYS",6,16,6,"South Sydney
+RABBITOHS",10,14,2
+0,NRL 2006,Round 17,"Sunday, 2nd July, 2006",2:30pm (local time),4287,1097,"25,863","Brisbane
+BRONCOS",16,26,5,"Cronulla Sutherland
+SHARKS",6,12,2
+0,NRL 2006,Round 17,"Sunday, 2nd July, 2006",3:00pm (local time),4288,20,"22,511",WESTS TIGERS,0,10,10,BULLDOGS,20,32,9
+0,NRL 2006,Round 18,"Friday, 7th July, 2006",7:30pm (local time),4289,12,"15,479","Melbourne
+STORM",6,10,3,"Brisbane
+BRONCOS",0,4,5
+0,NRL 2006,Round 18,"Saturday, 8th July, 2006",5:30pm (local time),4290,1,"8,824","Sydney
+ROOSTERS",0,16,7,"Manly Warringah
+SEA EAGLES",14,33,6
+0,NRL 2006,Round 18,"Saturday, 8th July, 2006",7:30pm (local time),4292,8,"13,167","Parramatta
+EELS",20,46,2,"Newcastle
+KNIGHTS",6,12,5
+0,NRL 2006,Round 18,"Saturday, 8th July, 2006",7:30pm (local time),4291,3,"9,111","Penrith
+PANTHERS",10,24,6,"Canberra
+RAIDERS",0,12,4
+0,NRL 2006,Round 18,"Sunday, 9th July, 2006",2:30pm (local time),4293,20,"14,076",BULLDOGS,12,22,3,WARRIORS,18,18,3
+0,NRL 2006,Round 18,"Sunday, 9th July, 2006",3:00pm (local time),4294,9,"15,070","Cronulla Sutherland
+SHARKS",8,10,6,WESTS TIGERS,6,22,4
+0,NRL 2006,Round 18,"Sunday, 9th July, 2006",3:00pm (local time),4295,23,"13,126","St George Illawarra
+DRAGONS",22,38,7,"South Sydney
+RABBITOHS",16,28,7
+0,NRL 2006,Round 19,"Friday, 14th July, 2006",7:30pm (local time),4296,23,"18,223","St George Illawarra
+DRAGONS",4,16,6,BULLDOGS,10,22,5
+0,NRL 2006,Round 19,"Saturday, 15th July, 2006",7:30pm (local time),4297,6,"14,499",WARRIORS,6,12,5,"Parramatta
+EELS",18,20,4
+0,NRL 2006,Round 19,"Saturday, 15th July, 2006",7:30pm (local time),4298,3,"8,212","Penrith
+PANTHERS",0,17,4,"North Queensland
+COWBOYS",2,8,7
+0,NRL 2006,Round 19,"Saturday, 15th July, 2006",7:30pm (local time),4299,20,"7,509","South Sydney
+RABBITOHS",10,20,6,"Manly Warringah
+SEA EAGLES",16,26,5
+0,NRL 2006,Round 19,"Sunday, 16th July, 2006",2:30pm (local time),4300,11,"21,655","Newcastle
+KNIGHTS",10,16,10,"Melbourne
+STORM",12,24,6
+0,NRL 2006,Round 19,"Sunday, 16th July, 2006",3:00pm (local time),4301,4,"9,125","Canberra
+RAIDERS",12,20,5,WESTS TIGERS,12,18,5
+0,NRL 2006,Round 19,"Sunday, 16th July, 2006",3:00pm (local time),4302,1,"9,241","Sydney
+ROOSTERS",16,38,3,"Cronulla Sutherland
+SHARKS",18,32,9
+0,NRL 2006,Round 20,"Friday, 21st July, 2006",7:30pm (local time),4309,12,"11,486","Melbourne
+STORM",16,28,6,"Cronulla Sutherland
+SHARKS",0,12,7
+0,NRL 2006,Round 20,"Saturday, 22nd July, 2006",5:30pm (local time),4310,20,"14,020",BULLDOGS,10,25,11,"Sydney
+ROOSTERS",0,0,7
+0,NRL 2006,Round 20,"Saturday, 22nd July, 2006",7:30pm (local time),4312,11,"14,599","Newcastle
+KNIGHTS",24,24,5,"South Sydney
+RABBITOHS",0,18,3
+0,NRL 2006,Round 20,"Saturday, 22nd July, 2006",7:30pm (local time),4311,14,"24,658","North Queensland
+COWBOYS",14,26,5,"Brisbane
+BRONCOS",4,10,2
+0,NRL 2006,Round 20,"Sunday, 23rd July, 2006",2:30pm (local time),4313,20,"21,456",WESTS TIGERS,6,6,6,"Parramatta
+EELS",16,34,1
+0,NRL 2006,Round 20,"Sunday, 23rd July, 2006",3:00pm (local time),4314,4,"13,504","Canberra
+RAIDERS",12,31,11,"St George Illawarra
+DRAGONS",6,12,5
+0,NRL 2006,Round 20,"Sunday, 23rd July, 2006",3:00pm (local time),4315,5,"15,177","Manly Warringah
+SEA EAGLES",6,32,7,"Penrith
+PANTHERS",24,30,6
+0,NRL 2006,Round 21,"Friday, 28th July, 2006",7:30pm (local time),4316,9,"17,574","Cronulla Sutherland
+SHARKS",12,18,7,"Newcastle
+KNIGHTS",10,22,3
+0,NRL 2006,Round 21,"Saturday, 29th July, 2006",5:30pm (local time),4317,3,"9,725","Penrith
+PANTHERS",12,36,7,WARRIORS,6,6,2
+0,NRL 2006,Round 21,"Saturday, 29th July, 2006",7:30pm (local time),4318,8,"15,404","Parramatta
+EELS",18,31,8,"Manly Warringah
+SEA EAGLES",8,18,8
+0,NRL 2006,Round 21,"Saturday, 29th July, 2006",7:30pm (local time),4319,20,"6,152","South Sydney
+RABBITOHS",20,21,5,"Canberra
+RAIDERS",4,8,5
+0,NRL 2006,Round 21,"Sunday, 30th July, 2006",2:30pm (local time),4320,1097,"31,500","Brisbane
+BRONCOS",0,6,8,WESTS TIGERS,10,20,9
+0,NRL 2006,Round 21,"Sunday, 30th July, 2006",3:00pm (local time),4321,23,"13,866","St George Illawarra
+DRAGONS",12,24,5,"Melbourne
+STORM",16,34,3
+0,NRL 2006,Round 21,"Sunday, 30th July, 2006",3:00pm (local time),4322,1,"7,617","Sydney
+ROOSTERS",6,40,8,"North Queensland
+COWBOYS",16,20,4
+0,NRL 2006,Round 22,"Friday, 4th August, 2006",7:30pm (local time),4323,8,"19,137","Parramatta
+EELS",10,28,13,"St George Illawarra
+DRAGONS",6,6,7
+0,NRL 2006,Round 22,"Saturday, 5th August, 2006",7:30pm (local time),4324,6,"4,850",WARRIORS,6,12,7,"Cronulla Sutherland
+SHARKS",6,10,6
+0,NRL 2006,Round 22,"Saturday, 5th August, 2006",7:30pm (local time),4325,12,"12,481","Melbourne
+STORM",16,46,3,WESTS TIGERS,4,4,7
+0,NRL 2006,Round 22,"Saturday, 5th August, 2006",7:30pm (local time),4326,14,"20,486","North Queensland
+COWBOYS",0,14,7,BULLDOGS,30,54,5
+0,NRL 2006,Round 22,"Sunday, 6th August, 2006",2:30pm (local time),4327,4,"13,137","Canberra
+RAIDERS",14,30,7,"Brisbane
+BRONCOS",6,18,4
+0,NRL 2006,Round 22,"Sunday, 6th August, 2006",3:00pm (local time),4329,20,"9,126","South Sydney
+RABBITOHS",16,32,5,"Penrith
+PANTHERS",10,26,7
+0,NRL 2006,Round 22,"Sunday, 6th August, 2006",3:00pm (local time),4328,26,"18,124","Sydney
+ROOSTERS",6,18,3,"Newcastle
+KNIGHTS",26,32,6
+0,NRL 2006,Round 23,"Friday, 11th August, 2006",7:30pm (local time),6885,11,"25,105","Newcastle
+KNIGHTS",8,14,6,"Manly Warringah
+SEA EAGLES",10,16,9
+0,NRL 2006,Round 23,"Saturday, 12th August, 2006",7:30pm (local time),6886,6,"5,425",WARRIORS,12,26,6,"North Queensland
+COWBOYS",0,0,4
+0,NRL 2006,Round 23,"Saturday, 12th August, 2006",7:30pm (local time),6887,9,"12,830","Cronulla Sutherland
+SHARKS",12,14,4,"Parramatta
+EELS",8,34,6
+0,NRL 2006,Round 23,"Saturday, 12th August, 2006",7:30pm (local time),6888,3,"11,704","Penrith
+PANTHERS",14,20,5,"Sydney
+ROOSTERS",16,40,2
+0,NRL 2006,Round 23,"Sunday, 13th August, 2006",2:30pm (local time),6889,1097,"40,159","Brisbane
+BRONCOS",10,12,4,"Melbourne
+STORM",0,18,4
+0,NRL 2006,Round 23,"Sunday, 13th August, 2006",3:00pm (local time),6890,20,"31,256",BULLDOGS,16,26,6,"St George Illawarra
+DRAGONS",4,10,6
+0,NRL 2006,Round 23,"Sunday, 13th August, 2006",3:00pm (local time),6891,19,"18,474",WESTS TIGERS,12,18,12,"Canberra
+RAIDERS",12,19,3
+0,NRL 2006,Round 24,"Friday, 18th August, 2006",7:30pm (local time),6892,20,"26,111",BULLDOGS,0,0,5,"Brisbane
+BRONCOS",18,30,8
+0,NRL 2006,Round 24,"Saturday, 19th August, 2006",5:30pm (local time),6893,9,"7,827","Cronulla Sutherland
+SHARKS",10,28,3,"Penrith
+PANTHERS",8,32,5
+0,NRL 2006,Round 24,"Saturday, 19th August, 2006",7:30pm (local time),6894,12,"13,477","Melbourne
+STORM",14,20,8,WARRIORS,12,24,7
+0,NRL 2006,Round 24,"Saturday, 19th August, 2006",7:30pm (local time),6895,14,"17,898","North Queensland
+COWBOYS",6,12,6,"Newcastle
+KNIGHTS",10,19,5
+0,NRL 2006,Round 24,"Sunday, 20th August, 2006",2:30pm (local time),6896,1,"15,142","Sydney
+ROOSTERS",14,26,5,"Parramatta
+EELS",26,40,8
+0,NRL 2006,Round 24,"Sunday, 20th August, 2006",3:00pm (local time),6898,5,"19,253","Manly Warringah
+SEA EAGLES",10,38,6,"South Sydney
+RABBITOHS",12,16,3
+0,NRL 2006,Round 24,"Sunday, 20th August, 2006",3:00pm (local time),6897,23,"14,211","St George Illawarra
+DRAGONS",20,46,5,WESTS TIGERS,4,16,2
+0,NRL 2006,Round 25,"Friday, 25th August, 2006",7:30pm (local time),6899,5,"20,163","Manly Warringah
+SEA EAGLES",18,21,8,BULLDOGS,12,20,4
+0,NRL 2006,Round 25,"Saturday, 26th August, 2006",5:30pm (local time),6900,4,"21,255","Canberra
+RAIDERS",6,18,8,"Melbourne
+STORM",16,22,3
+0,NRL 2006,Round 25,"Saturday, 26th August, 2006",7:30pm (local time),6902,11,"23,655","Newcastle
+KNIGHTS",22,40,6,"Penrith
+PANTHERS",4,4,2
+0,NRL 2006,Round 25,"Saturday, 26th August, 2006",7:30pm (local time),6901,21,"16,897","St George Illawarra
+DRAGONS",6,18,7,"Cronulla Sutherland
+SHARKS",4,4,6
+0,NRL 2006,Round 25,"Sunday, 27th August, 2006",2:00pm (local time),6903,6,"12,711",WARRIORS,20,42,9,"Sydney
+ROOSTERS",10,16,10
+0,NRL 2006,Round 25,"Sunday, 27th August, 2006",2:30pm (local time),6904,20,"8,914","South Sydney
+RABBITOHS",6,12,7,"North Queensland
+COWBOYS",16,34,2
+0,NRL 2006,Round 25,"Sunday, 27th August, 2006",3:00pm (local time),6905,8,"20,353","Parramatta
+EELS",0,0,3,"Brisbane
+BRONCOS",13,23,6
+0,NRL 2006,Round 26,"Friday, 1st September, 2006",7:30pm (local time),6906,14,"18,351","North Queensland
+COWBOYS",6,22,2,"Parramatta
+EELS",8,8,4
+0,NRL 2006,Round 26,"Saturday, 2nd September, 2006",5:30pm (local time),6907,9,"9,289","Cronulla Sutherland
+SHARKS",0,24,4,"Canberra
+RAIDERS",26,26,5
+0,NRL 2006,Round 26,"Saturday, 2nd September, 2006",7:30pm (local time),6908,12,"13,991","Melbourne
+STORM",16,30,8,"Manly Warringah
+SEA EAGLES",10,20,6
+0,NRL 2006,Round 26,"Saturday, 2nd September, 2006",7:30pm (local time),6909,24,"17,142","Sydney
+ROOSTERS",14,16,5,"St George Illawarra
+DRAGONS",8,36,6
+0,NRL 2006,Round 26,"Sunday, 3rd September, 2006",2:30pm (local time),6910,1097,"47,193","Brisbane
+BRONCOS",18,36,3,WARRIORS,6,12,5
+0,NRL 2006,Round 26,"Sunday, 3rd September, 2006",3:00pm (local time),6911,3,"13,363","Penrith
+PANTHERS",12,22,7,BULLDOGS,12,30,5
+0,NRL 2006,Round 26,"Sunday, 3rd September, 2006",3:00pm (local time),6912,7,"18,440",WESTS TIGERS,30,52,8,"South Sydney
+RABBITOHS",0,18,4
+0,NRL 2006,Qualif Final,"Friday, 8th September, 2006",8:00pm (local time),6913,11,"23,752","Newcastle
+KNIGHTS",0,25,9,"Manly Warringah
+SEA EAGLES",12,18,6
+0,NRL 2006,Qualif Final,"Saturday, 9th September, 2006",6:30pm (local time),6914,1097,"50,387","Brisbane
+BRONCOS",4,4,5,"St George Illawarra
+DRAGONS",10,20,2
+0,NRL 2006,Qualif Final,"Saturday, 9th September, 2006",8:30pm (local time),6915,20,"14,628",BULLDOGS,12,30,4,"Canberra
+RAIDERS",6,12,6
+0,NRL 2006,Qualif Final,"Sunday, 10th September, 2006",4:00pm (local time),6916,12,"15,690","Melbourne
+STORM",12,12,6,"Parramatta
+EELS",0,6,3
+0,NRL 2006,Semi Final,"Friday, 15th September, 2006",7:45pm (local time),6917,1,"30,907","St George Illawarra
+DRAGONS",8,28,4,"Manly Warringah
+SEA EAGLES",0,0,5
+0,NRL 2006,Semi Final,"Saturday, 16th September, 2006",7:45pm (local time),6918,1,"22,081","Brisbane
+BRONCOS",24,50,4,"Newcastle
+KNIGHTS",0,6,6
+0,NRL 2006,Prelim Final,"Friday, 22nd September, 2006",7:45pm (local time),6919,1,"29,511",BULLDOGS,20,20,4,"Brisbane
+BRONCOS",6,37,5
+0,NRL 2006,Prelim Final,"Saturday, 23rd September, 2006",7:45pm (local time),6920,20,"40,901","Melbourne
+STORM",12,24,2,"St George Illawarra
+DRAGONS",6,10,8
+0,NRL 2006,Grand Final,"Sunday, 1st October, 2006",7:00pm (local time),6921,20,"79,609","Melbourne
+STORM",4,8,4,"Brisbane
+BRONCOS",8,15,5

@@ -1,0 +1,492 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2005,Round 1,"Friday, 11th March, 2005",7:30pm (local time),2324,20,"33,105",BULLDOGS,28,46,7,"St George Illawarra
+DRAGONS",0,28,9
+0,NRL 2005,Round 1,"Saturday, 12th March, 2005",5:30pm (local time),2327,20,"17,107",WESTS TIGERS,12,12,7,"Parramatta
+EELS",10,28,6
+0,NRL 2005,Round 1,"Saturday, 12th March, 2005",7:30pm (local time),2325,9,"19,562","Cronulla Sutherland
+SHARKS",6,20,8,"Penrith
+PANTHERS",8,14,5
+0,NRL 2005,Round 1,"Saturday, 12th March, 2005",7:30pm (local time),2326,1,"22,186","Sydney
+ROOSTERS",0,24,5,"South Sydney
+RABBITOHS",12,12,6
+0,NRL 2005,Round 1,"Sunday, 13th March, 2005",2:00pm (local time),2328,6,"13,682",WARRIORS,2,20,10,"Manly Warringah
+SEA EAGLES",12,26,6
+0,NRL 2005,Round 1,"Sunday, 13th March, 2005",2:30pm (local time),2329,12,"10,484","Melbourne
+STORM",22,48,6,"Newcastle
+KNIGHTS",0,10,5
+0,NRL 2005,Round 1,"Sunday, 13th March, 2005",3:00pm (local time),352,1097,"43,488","Brisbane
+BRONCOS",18,29,7,"North Queensland
+COWBOYS",10,16,4
+0,NRL 2005,Round 2,"Friday, 18th March, 2005",7:30pm (local time),353,14,"21,138","North Queensland
+COWBOYS",12,24,8,BULLDOGS,6,12,7
+0,NRL 2005,Round 2,"Saturday, 19th March, 2005",5:30pm (local time),2330,4,"11,835","Canberra
+RAIDERS",14,39,5,"Newcastle
+KNIGHTS",6,14,5
+0,NRL 2005,Round 2,"Saturday, 19th March, 2005",7:30pm (local time),2332,21,"9,032","St George Illawarra
+DRAGONS",0,12,8,"Melbourne
+STORM",24,46,6
+0,NRL 2005,Round 2,"Saturday, 19th March, 2005",7:30pm (local time),2331,1097,"24,719","Brisbane
+BRONCOS",4,12,9,WARRIORS,10,24,12
+0,NRL 2005,Round 2,"Sunday, 20th March, 2005",2:30pm (local time),2333,1,"11,445","South Sydney
+RABBITOHS",28,49,8,"Parramatta
+EELS",16,26,6
+0,NRL 2005,Round 2,"Sunday, 20th March, 2005",3:00pm (local time),2334,5,"14,031","Manly Warringah
+SEA EAGLES",24,46,13,"Cronulla Sutherland
+SHARKS",16,20,9
+0,NRL 2005,Round 2,"Sunday, 20th March, 2005",3:00pm (local time),2335,3,"18,228","Penrith
+PANTHERS",10,20,5,"Sydney
+ROOSTERS",18,28,2
+0,NRL 2005,Round 3,"Friday, 25th March, 2005",7:30pm (local time),2389,1,"23,157","Sydney
+ROOSTERS",6,22,8,"Brisbane
+BRONCOS",14,40,2
+0,NRL 2005,Round 3,"Saturday, 26th March, 2005",5:30pm (local time),2390,3,"17,187","Penrith
+PANTHERS",8,18,14,"St George Illawarra
+DRAGONS",8,8,10
+0,NRL 2005,Round 3,"Saturday, 26th March, 2005",7:30pm (local time),2391,8,"12,103","Parramatta
+EELS",6,10,10,"Cronulla Sutherland
+SHARKS",12,18,7
+0,NRL 2005,Round 3,"Sunday, 27th March, 2005",2:00pm (local time),355,6,"13,888",WARRIORS,10,22,7,"North Queensland
+COWBOYS",20,32,11
+0,NRL 2005,Round 3,"Sunday, 27th March, 2005",2:30pm (local time),2392,5,"15,470","Manly Warringah
+SEA EAGLES",18,25,10,"Melbourne
+STORM",12,18,6
+0,NRL 2005,Round 3,"Sunday, 27th March, 2005",3:00pm (local time),2393,20,"19,984",BULLDOGS,18,36,8,WESTS TIGERS,12,37,9
+0,NRL 2005,Round 3,"Monday, 28th March, 2005",3:00pm (local time),2394,1,"14,455","South Sydney
+RABBITOHS",12,18,10,"Canberra
+RAIDERS",10,25,10
+0,NRL 2005,Round 4,"Friday, 1st April, 2005",7:30pm (local time),2395,8,"15,119","Parramatta
+EELS",18,26,10,"Penrith
+PANTHERS",6,16,9
+0,NRL 2005,Round 4,"Saturday, 2nd April, 2005",5:30pm (local time),2397,12,"12,149","Melbourne
+STORM",24,50,5,"Brisbane
+BRONCOS",4,4,7
+0,NRL 2005,Round 4,"Saturday, 2nd April, 2005",7:30pm (local time),2398,4,"15,614","Canberra
+RAIDERS",18,42,10,"St George Illawarra
+DRAGONS",6,22,12
+0,NRL 2005,Round 4,"Saturday, 2nd April, 2005",7:30pm (local time),357,14,"22,347","North Queensland
+COWBOYS",30,52,5,"Newcastle
+KNIGHTS",12,18,5
+0,NRL 2005,Round 4,"Sunday, 3rd April, 2005",2:00pm (local time),2399,6,"9,751",WARRIORS,20,46,8,"South Sydney
+RABBITOHS",14,14,7
+0,NRL 2005,Round 4,"Sunday, 3rd April, 2005",2:30pm (local time),2400,9,"17,053","Cronulla Sutherland
+SHARKS",18,26,10,BULLDOGS,0,12,6
+0,NRL 2005,Round 4,"Sunday, 3rd April, 2005",3:00pm (local time),2401,1,"13,946","Sydney
+ROOSTERS",10,26,7,WESTS TIGERS,20,32,6
+0,NRL 2005,Round 5,"Friday, 8th April, 2005",7:30pm (local time),2402,3,"14,844","Penrith
+PANTHERS",12,36,7,"Melbourne
+STORM",6,16,6
+0,NRL 2005,Round 5,"Saturday, 9th April, 2005",5:30pm (local time),2403,45,"18,421",WESTS TIGERS,6,24,5,WARRIORS,0,6,3
+0,NRL 2005,Round 5,"Saturday, 9th April, 2005",7:30pm (local time),358,9,"17,323","Cronulla Sutherland
+SHARKS",14,38,6,"North Queensland
+COWBOYS",6,6,1
+0,NRL 2005,Round 5,"Saturday, 9th April, 2005",7:30pm (local time),2404,21,"16,117","St George Illawarra
+DRAGONS",10,32,12,"Manly Warringah
+SEA EAGLES",6,6,11
+0,NRL 2005,Round 5,"Sunday, 10th April, 2005",2:30pm (local time),2405,1097,"25,843","Brisbane
+BRONCOS",42,54,3,"Parramatta
+EELS",0,14,4
+0,NRL 2005,Round 5,"Sunday, 10th April, 2005",3:00pm (local time),2406,4,"19,130","Canberra
+RAIDERS",14,24,8,"Sydney
+ROOSTERS",10,16,6
+0,NRL 2005,Round 5,"Sunday, 10th April, 2005",3:00pm (local time),2407,26,"16,162","South Sydney
+RABBITOHS",24,37,7,"Newcastle
+KNIGHTS",6,12,7
+0,NRL 2005,Round 6,"Friday, 15th April, 2005",7:30pm (local time),2408,20,"27,111",BULLDOGS,12,16,6,"Sydney
+ROOSTERS",16,29,4
+0,NRL 2005,Round 6,"Saturday, 16th April, 2005",5:30pm (local time),2396,1,"11,108","South Sydney
+RABBITOHS",0,6,10,"Penrith
+PANTHERS",24,36,4
+0,NRL 2005,Round 6,"Saturday, 16th April, 2005",7:30pm (local time),2409,12,"9,649","Melbourne
+STORM",10,14,6,"Parramatta
+EELS",18,26,6
+0,NRL 2005,Round 6,"Saturday, 16th April, 2005",7:30pm (local time),359,14,"20,361","North Queensland
+COWBOYS",26,44,7,WESTS TIGERS,6,20,7
+0,NRL 2005,Round 6,"Sunday, 17th April, 2005",2:30pm (local time),2411,5,"17,061","Manly Warringah
+SEA EAGLES",6,36,13,"Canberra
+RAIDERS",8,14,8
+0,NRL 2005,Round 6,"Sunday, 17th April, 2005",2:30pm (local time),2410,11,"18,173","Newcastle
+KNIGHTS",20,26,7,WARRIORS,6,30,9
+0,NRL 2005,Round 6,"Sunday, 17th April, 2005",3:00pm (local time),2412,21,"17,287","St George Illawarra
+DRAGONS",12,24,8,"Brisbane
+BRONCOS",14,34,8
+0,NRL 2005,Round 7,"Saturday, 23rd April, 2005",5:30pm (local time),2413,8,"18,107","Parramatta
+EELS",18,26,9,WESTS TIGERS,10,16,6
+0,NRL 2005,Round 7,"Saturday, 23rd April, 2005",7:30pm (local time),2414,9,"17,864","Cronulla Sutherland
+SHARKS",12,12,9,"Brisbane
+BRONCOS",6,16,5
+0,NRL 2005,Round 7,"Saturday, 23rd April, 2005",7:30pm (local time),360,3,"17,998","Penrith
+PANTHERS",4,22,3,"North Queensland
+COWBOYS",12,36,6
+0,NRL 2005,Round 7,"Sunday, 24th April, 2005",2:30pm (local time),2415,4,"13,280","Canberra
+RAIDERS",10,10,8,"Melbourne
+STORM",16,46,8
+0,NRL 2005,Round 7,"Sunday, 24th April, 2005",3:00pm (local time),2417,5,"18,331","Manly Warringah
+SEA EAGLES",26,48,10,"South Sydney
+RABBITOHS",4,14,2
+0,NRL 2005,Round 7,"Sunday, 24th April, 2005",3:00pm (local time),2416,11,"18,387","Newcastle
+KNIGHTS",8,20,10,BULLDOGS,12,24,3
+0,NRL 2005,Round 7,"Monday, 25th April, 2005",3:00pm (local time),2418,1,"32,270","Sydney
+ROOSTERS",18,24,6,"St George Illawarra
+DRAGONS",12,26,5
+0,NRL 2005,Round 8,"Friday, 29th April, 2005",7:30pm (local time),2255,1097,"27,514","Brisbane
+BRONCOS",30,38,4,"Manly Warringah
+SEA EAGLES",0,12,5
+0,NRL 2005,Round 8,"Saturday, 30th April, 2005",5:30pm (local time),2250,12,"8,372","Melbourne
+STORM",0,10,6,"Cronulla Sutherland
+SHARKS",14,30,6
+0,NRL 2005,Round 8,"Saturday, 30th April, 2005",7:30pm (local time),2251,20,"24,957",BULLDOGS,10,30,7,"Parramatta
+EELS",6,16,4
+0,NRL 2005,Round 8,"Saturday, 30th April, 2005",7:30pm (local time),2249,14,"22,476","North Queensland
+COWBOYS",12,38,6,"Sydney
+ROOSTERS",6,18,9
+0,NRL 2005,Round 8,"Sunday, 1st May, 2005",2:00pm (local time),2252,6,"10,989",WARRIORS,10,14,4,"Penrith
+PANTHERS",4,16,4
+0,NRL 2005,Round 8,"Sunday, 1st May, 2005",2:30pm (local time),2253,11,"15,868","Newcastle
+KNIGHTS",10,10,8,"Canberra
+RAIDERS",12,14,3
+0,NRL 2005,Round 8,"Sunday, 1st May, 2005",3:00pm (local time),2254,20,"17,567",WESTS TIGERS,24,32,5,"St George Illawarra
+DRAGONS",12,40,3
+0,NRL 2005,Round 9,"Saturday, 7th May, 2005",5:30pm (local time),2272,21,"11,624","St George Illawarra
+DRAGONS",22,42,6,"South Sydney
+RABBITOHS",6,10,7
+0,NRL 2005,Round 9,"Saturday, 7th May, 2005",7:30pm (local time),2273,3,"14,876","Penrith
+PANTHERS",18,18,8,"Canberra
+RAIDERS",10,26,7
+0,NRL 2005,Round 9,"Saturday, 7th May, 2005",7:30pm (local time),2274,47,"13,293","Cronulla Sutherland
+SHARKS",10,28,5,WARRIORS,12,24,3
+0,NRL 2005,Round 9,"Sunday, 8th May, 2005",2:30pm (local time),2275,1097,"29,845","Brisbane
+BRONCOS",10,35,7,BULLDOGS,16,28,2
+0,NRL 2005,Round 9,"Sunday, 8th May, 2005",3:00pm (local time),2277,5,"14,247","Manly Warringah
+SEA EAGLES",18,34,5,WESTS TIGERS,22,26,8
+0,NRL 2005,Round 9,"Sunday, 8th May, 2005",3:00pm (local time),2271,8,"8,051","Parramatta
+EELS",24,50,8,"North Queensland
+COWBOYS",6,12,5
+0,NRL 2005,Round 9,"Sunday, 8th May, 2005",3:00pm (local time),2276,1,"8,921","Sydney
+ROOSTERS",4,32,7,"Newcastle
+KNIGHTS",2,2,5
+0,NRL 2005,Round 10,"Friday, 13th May, 2005",7:30pm (local time),2264,21,"12,932","St George Illawarra
+DRAGONS",6,34,6,"Penrith
+PANTHERS",8,12,6
+0,NRL 2005,Round 10,"Saturday, 14th May, 2005",5:30pm (local time),2265,20,"14,768",BULLDOGS,10,10,4,"Manly Warringah
+SEA EAGLES",18,18,6
+0,NRL 2005,Round 10,"Saturday, 14th May, 2005",7:30pm (local time),2266,14,"22,477","North Queensland
+COWBOYS",6,6,9,"Brisbane
+BRONCOS",0,23,4
+0,NRL 2005,Round 10,"Saturday, 14th May, 2005",7:30pm (local time),2267,1,"6,574","South Sydney
+RABBITOHS",6,12,9,"Melbourne
+STORM",22,38,7
+0,NRL 2005,Round 10,"Sunday, 15th May, 2005",2:00pm (local time),2268,6,"10,082",WARRIORS,4,6,7,"Sydney
+ROOSTERS",6,10,3
+0,NRL 2005,Round 10,"Sunday, 15th May, 2005",3:00pm (local time),2270,4,"13,844","Canberra
+RAIDERS",16,26,3,"Cronulla Sutherland
+SHARKS",14,32,12
+0,NRL 2005,Round 10,"Sunday, 15th May, 2005",3:00pm (local time),2269,11,"15,881","Newcastle
+KNIGHTS",4,16,8,WESTS TIGERS,14,32,4
+0,NRL 2005,Round 11,"Friday, 20th May, 2005",7:30pm (local time),2336,8,"18,193","Parramatta
+EELS",18,18,7,"Manly Warringah
+SEA EAGLES",6,12,5
+0,NRL 2005,Round 11,"Saturday, 21st May, 2005",5:30pm (local time),2337,12,"8,438","Melbourne
+STORM",12,16,8,BULLDOGS,20,26,7
+0,NRL 2005,Round 11,"Saturday, 21st May, 2005",7:30pm (local time),2338,11,"19,018","Newcastle
+KNIGHTS",0,16,9,"St George Illawarra
+DRAGONS",8,18,8
+0,NRL 2005,Round 11,"Saturday, 21st May, 2005",7:30pm (local time),2339,25,"6,195","South Sydney
+RABBITOHS",10,16,9,WARRIORS,24,34,4
+0,NRL 2005,Round 11,"Sunday, 22nd May, 2005",2:30pm (local time),2340,19,"18,436",WESTS TIGERS,22,28,9,"Canberra
+RAIDERS",0,16,5
+0,NRL 2005,Round 11,"Sunday, 22nd May, 2005",3:00pm (local time),2341,3,"15,505","Penrith
+PANTHERS",6,22,6,"Cronulla Sutherland
+SHARKS",16,30,5
+0,NRL 2005,Round 12,"Friday, 27th May, 2005",7:30pm (local time),2419,28,"21,012",BULLDOGS,12,12,6,"North Queensland
+COWBOYS",12,48,7
+0,NRL 2005,Round 12,"Saturday, 28th May, 2005",5:30pm (local time),2420,1097,"18,081","Brisbane
+BRONCOS",12,36,5,"South Sydney
+RABBITOHS",8,12,8
+0,NRL 2005,Round 12,"Saturday, 28th May, 2005",7:30pm (local time),2421,9,"17,562","Cronulla Sutherland
+SHARKS",0,26,9,"Parramatta
+EELS",22,34,7
+0,NRL 2005,Round 12,"Saturday, 28th May, 2005",7:30pm (local time),2422,26,"16,253","Sydney
+ROOSTERS",18,30,12,"Canberra
+RAIDERS",12,16,8
+0,NRL 2005,Round 12,"Sunday, 29th May, 2005",2:00pm (local time),2423,6,"9,420",WARRIORS,11,21,7,WESTS TIGERS,4,4,6
+0,NRL 2005,Round 12,"Sunday, 29th May, 2005",2:30pm (local time),2424,12,"7,590","Melbourne
+STORM",10,24,11,"St George Illawarra
+DRAGONS",8,16,10
+0,NRL 2005,Round 12,"Sunday, 29th May, 2005",3:00pm (local time),2425,5,"14,047","Manly Warringah
+SEA EAGLES",6,36,6,"Penrith
+PANTHERS",16,26,4
+0,NRL 2005,Round 13,"Friday, 3rd June, 2005",7:30pm (local time),2426,1,"19,787","Sydney
+ROOSTERS",14,18,8,"Manly Warringah
+SEA EAGLES",6,22,8
+0,NRL 2005,Round 13,"Saturday, 4th June, 2005",5:30pm (local time),2427,14,"20,843","North Queensland
+COWBOYS",22,56,7,"Cronulla Sutherland
+SHARKS",14,14,4
+0,NRL 2005,Round 13,"Saturday, 4th June, 2005",7:30pm (local time),2428,10,"8,911",BULLDOGS,2,21,6,"South Sydney
+RABBITOHS",13,21,6
+0,NRL 2005,Round 13,"Saturday, 4th June, 2005",7:30pm (local time),2429,21,"14,479","St George Illawarra
+DRAGONS",18,32,7,WARRIORS,12,18,8
+0,NRL 2005,Round 13,"Sunday, 5th June, 2005",2:30pm (local time),2430,7,"17,127",WESTS TIGERS,8,14,11,"Melbourne
+STORM",0,30,5
+0,NRL 2005,Round 13,"Sunday, 5th June, 2005",3:00pm (local time),2432,11,"22,423","Newcastle
+KNIGHTS",10,16,5,"Brisbane
+BRONCOS",10,34,7
+0,NRL 2005,Round 13,"Sunday, 5th June, 2005",3:00pm (local time),2431,3,"18,519","Penrith
+PANTHERS",10,22,7,"Parramatta
+EELS",16,32,4
+0,NRL 2005,Round 14,"Friday, 10th June, 2005",7:30pm (local time),2433,19,"17,570",WESTS TIGERS,12,34,7,"Cronulla Sutherland
+SHARKS",12,18,6
+0,NRL 2005,Round 14,"Saturday, 11th June, 2005",5:30pm (local time),2434,4,"8,609","Canberra
+RAIDERS",6,12,6,"Brisbane
+BRONCOS",12,20,5
+0,NRL 2005,Round 14,"Saturday, 11th June, 2005",7:30pm (local time),2436,11,"15,842","Newcastle
+KNIGHTS",0,0,7,"Parramatta
+EELS",20,50,4
+0,NRL 2005,Round 14,"Saturday, 11th June, 2005",7:30pm (local time),2435,1,"8,900","South Sydney
+RABBITOHS",14,44,9,"Manly Warringah
+SEA EAGLES",6,6,7
+0,NRL 2005,Round 14,"Sunday, 12th June, 2005",4:30pm (local time),2437,6,"7,898",WARRIORS,20,24,7,"Melbourne
+STORM",4,16,5
+0,NRL 2005,Round 14,"Sunday, 12th June, 2005",3:00pm (local time),2438,23,"15,260","St George Illawarra
+DRAGONS",6,34,3,"North Queensland
+COWBOYS",4,4,7
+0,NRL 2005,Round 15,"Friday, 17th June, 2005",7:30pm (local time),2465,9,"16,355","Cronulla Sutherland
+SHARKS",2,16,6,"Sydney
+ROOSTERS",10,10,6
+0,NRL 2005,Round 15,"Saturday, 18th June, 2005",7:30pm (local time),2466,70,"17,142","Parramatta
+EELS",22,28,7,WARRIORS,14,18,5
+0,NRL 2005,Round 15,"Saturday, 18th June, 2005",7:30pm (local time),2467,1097,"25,780","Brisbane
+BRONCOS",30,40,6,WESTS TIGERS,6,22,11
+0,NRL 2005,Round 15,"Saturday, 18th June, 2005",7:30pm (local time),2468,12,"7,707","Melbourne
+STORM",8,14,12,"Penrith
+PANTHERS",4,28,9
+0,NRL 2005,Round 15,"Sunday, 19th June, 2005",2:30pm (local time),2469,24,"18,334","South Sydney
+RABBITOHS",6,10,7,"St George Illawarra
+DRAGONS",8,28,4
+0,NRL 2005,Round 15,"Sunday, 19th June, 2005",3:00pm (local time),2470,10,"8,496",BULLDOGS,10,28,8,"Canberra
+RAIDERS",10,10,3
+0,NRL 2005,Round 15,"Sunday, 19th June, 2005",3:00pm (local time),2471,5,"13,685","Manly Warringah
+SEA EAGLES",8,48,6,"Newcastle
+KNIGHTS",10,26,5
+0,NRL 2005,Round 16,"Friday, 24th June, 2005",7:30pm (local time),2614,1,"14,885","Sydney
+ROOSTERS",0,12,8,"Parramatta
+EELS",8,8,7
+0,NRL 2005,Round 16,"Saturday, 25th June, 2005",5:30pm (local time),2616,4,"9,129","Canberra
+RAIDERS",22,23,6,"North Queensland
+COWBOYS",12,22,6
+0,NRL 2005,Round 16,"Saturday, 25th June, 2005",7:30pm (local time),2617,12,"6,984","Melbourne
+STORM",32,48,6,"South Sydney
+RABBITOHS",0,6,4
+0,NRL 2005,Round 16,"Saturday, 25th June, 2005",7:30pm (local time),2615,3,"12,211","Penrith
+PANTHERS",14,24,7,"Newcastle
+KNIGHTS",0,28,8
+0,NRL 2005,Round 16,"Sunday, 26th June, 2005",2:00pm (local time),2619,6,"13,752",WARRIORS,18,30,5,"Brisbane
+BRONCOS",12,18,8
+0,NRL 2005,Round 16,"Sunday, 26th June, 2005",2:30pm (local time),2618,23,"10,612","St George Illawarra
+DRAGONS",6,24,11,WESTS TIGERS,22,32,5
+0,NRL 2005,Round 16,"Sunday, 26th June, 2005",3:00pm (local time),2620,5,"14,429","Manly Warringah
+SEA EAGLES",12,12,9,BULLDOGS,10,31,7
+0,NRL 2005,Round 17,"Friday, 1st July, 2005",7:30pm (local time),2621,7,"15,271",WESTS TIGERS,31,49,7,"Manly Warringah
+SEA EAGLES",18,24,7
+0,NRL 2005,Round 17,"Saturday, 2nd July, 2005",5:30pm (local time),2902,10,"7,414",BULLDOGS,6,6,9,"Melbourne
+STORM",14,33,5
+0,NRL 2005,Round 17,"Saturday, 2nd July, 2005",7:30pm (local time),2903,11,"14,950","Newcastle
+KNIGHTS",6,14,7,"Sydney
+ROOSTERS",16,28,6
+0,NRL 2005,Round 17,"Saturday, 2nd July, 2005",7:30pm (local time),2622,14,"20,078","North Queensland
+COWBOYS",10,24,7,WARRIORS,10,16,4
+0,NRL 2005,Round 17,"Sunday, 3rd July, 2005",2:30pm (local time),2904,4,"10,206","Canberra
+RAIDERS",14,22,7,"Penrith
+PANTHERS",8,14,3
+0,NRL 2005,Round 17,"Sunday, 3rd July, 2005",3:00pm (local time),2905,1097,"23,900","Brisbane
+BRONCOS",8,22,5,"Cronulla Sutherland
+SHARKS",6,10,3
+0,NRL 2005,Round 17,"Sunday, 3rd July, 2005",3:00pm (local time),2906,8,"16,143","Parramatta
+EELS",26,52,7,"South Sydney
+RABBITOHS",12,16,3
+0,NRL 2005,Round 18,"Friday, 8th July, 2005",7:30pm (local time),2623,8,"20,199","Parramatta
+EELS",10,40,8,"St George Illawarra
+DRAGONS",10,14,4
+0,NRL 2005,Round 18,"Saturday, 9th July, 2005",5:30pm (local time),2907,1,"7,707","South Sydney
+RABBITOHS",12,24,12,"Cronulla Sutherland
+SHARKS",10,14,6
+0,NRL 2005,Round 18,"Saturday, 9th July, 2005",7:30pm (local time),2908,12,"6,063","Melbourne
+STORM",8,20,9,"Canberra
+RAIDERS",0,0,6
+0,NRL 2005,Round 18,"Saturday, 9th July, 2005",7:30pm (local time),2909,3,"12,083","Penrith
+PANTHERS",10,16,9,"Manly Warringah
+SEA EAGLES",6,12,8
+0,NRL 2005,Round 18,"Sunday, 10th July, 2005",2:00pm (local time),2910,6,"12,822",WARRIORS,12,24,4,BULLDOGS,12,26,5
+0,NRL 2005,Round 18,"Sunday, 10th July, 2005",2:30pm (local time),2911,20,"13,768",WESTS TIGERS,12,26,12,"Sydney
+ROOSTERS",6,16,4
+0,NRL 2005,Round 18,"Sunday, 10th July, 2005",3:00pm (local time),2625,11,"11,864","Newcastle
+KNIGHTS",4,22,5,"North Queensland
+COWBOYS",18,18,4
+0,NRL 2005,Round 19,"Friday, 15th July, 2005",7:30pm (local time),2912,3,"16,270","Penrith
+PANTHERS",6,16,8,BULLDOGS,18,18,6
+0,NRL 2005,Round 19,"Saturday, 16th July, 2005",5:30pm (local time),2913,1,"13,789","Sydney
+ROOSTERS",12,22,7,WARRIORS,8,24,4
+0,NRL 2005,Round 19,"Saturday, 16th July, 2005",7:30pm (local time),2914,9,"14,027","Cronulla Sutherland
+SHARKS",10,30,7,"Newcastle
+KNIGHTS",14,26,9
+0,NRL 2005,Round 19,"Saturday, 16th July, 2005",7:30pm (local time),2897,14,"17,038","North Queensland
+COWBOYS",10,14,5,"South Sydney
+RABBITOHS",10,16,6
+0,NRL 2005,Round 19,"Sunday, 17th July, 2005",2:30pm (local time),2915,1097,"32,738","Brisbane
+BRONCOS",10,28,9,"Melbourne
+STORM",15,15,9
+0,NRL 2005,Round 19,"Sunday, 17th July, 2005",3:00pm (local time),2916,4,"13,238","Canberra
+RAIDERS",8,26,3,"Parramatta
+EELS",12,18,4
+0,NRL 2005,Round 19,"Sunday, 17th July, 2005",3:00pm (local time),2917,5,"17,218","Manly Warringah
+SEA EAGLES",6,10,9,"St George Illawarra
+DRAGONS",24,36,3
+0,NRL 2005,Round 20,"Friday, 22nd July, 2005",7:30pm (local time),2918,20,"29,112",BULLDOGS,16,29,8,"Brisbane
+BRONCOS",10,22,5
+0,NRL 2005,Round 20,"Saturday, 23rd July, 2005",7:30pm (local time),2919,6,"18,361",WARRIORS,12,24,6,"Canberra
+RAIDERS",6,16,4
+0,NRL 2005,Round 20,"Saturday, 23rd July, 2005",7:30pm (local time),2920,14,"18,932","North Queensland
+COWBOYS",30,38,5,"Penrith
+PANTHERS",6,18,1
+0,NRL 2005,Round 20,"Saturday, 23rd July, 2005",7:30pm (local time),2921,8,"16,168","Parramatta
+EELS",10,10,4,"Newcastle
+KNIGHTS",10,16,5
+0,NRL 2005,Round 20,"Sunday, 24th July, 2005",2:30pm (local time),2922,12,"8,212","Melbourne
+STORM",14,24,8,"Sydney
+ROOSTERS",0,10,6
+0,NRL 2005,Round 20,"Sunday, 24th July, 2005",3:00pm (local time),2923,23,"17,113","St George Illawarra
+DRAGONS",14,20,8,"Cronulla Sutherland
+SHARKS",0,10,6
+0,NRL 2005,Round 20,"Sunday, 24th July, 2005",3:00pm (local time),2924,7,"22,877",WESTS TIGERS,24,42,7,"South Sydney
+RABBITOHS",6,20,9
+0,NRL 2005,Round 21,"Friday, 29th July, 2005",7:30pm (local time),2925,21,"19,512","St George Illawarra
+DRAGONS",6,44,5,"Sydney
+ROOSTERS",6,6,2
+0,NRL 2005,Round 21,"Saturday, 30th July, 2005",5:30pm (local time),2926,11,"20,023","Newcastle
+KNIGHTS",19,37,3,"Melbourne
+STORM",6,18,5
+0,NRL 2005,Round 21,"Saturday, 30th July, 2005",7:30pm (local time),2927,1097,"27,478","Brisbane
+BRONCOS",10,24,7,"Canberra
+RAIDERS",6,18,7
+0,NRL 2005,Round 21,"Saturday, 30th July, 2005",7:30pm (local time),2928,3,"13,985","Penrith
+PANTHERS",28,42,8,WARRIORS,12,34,1
+0,NRL 2005,Round 21,"Sunday, 31st July, 2005",2:30pm (local time),2929,5,"13,118","Manly Warringah
+SEA EAGLES",18,24,6,"North Queensland
+COWBOYS",6,26,1
+0,NRL 2005,Round 21,"Sunday, 31st July, 2005",3:00pm (local time),2931,9,"18,321","Cronulla Sutherland
+SHARKS",6,6,3,WESTS TIGERS,12,46,7
+0,NRL 2005,Round 21,"Sunday, 31st July, 2005",3:00pm (local time),2930,1,"13,062","South Sydney
+RABBITOHS",18,37,2,BULLDOGS,12,24,5
+0,NRL 2005,Round 22,"Friday, 5th August, 2005",7:30pm (local time),2932,14,"21,021","North Queensland
+COWBOYS",6,16,7,"St George Illawarra
+DRAGONS",22,36,4
+0,NRL 2005,Round 22,"Saturday, 6th August, 2005",7:30pm (local time),2933,6,"19,211",WARRIORS,14,20,3,"Parramatta
+EELS",10,38,6
+0,NRL 2005,Round 22,"Saturday, 6th August, 2005",7:30pm (local time),2935,20,"13,962",BULLDOGS,7,13,10,"Newcastle
+KNIGHTS",6,28,6
+0,NRL 2005,Round 22,"Saturday, 6th August, 2005",7:30pm (local time),2934,9,"13,575","Cronulla Sutherland
+SHARKS",24,40,6,"Melbourne
+STORM",10,16,6
+0,NRL 2005,Round 22,"Sunday, 7th August, 2005",2:30pm (local time),2936,4,"15,195","Canberra
+RAIDERS",14,14,4,WESTS TIGERS,0,22,6
+0,NRL 2005,Round 22,"Sunday, 7th August, 2005",3:00pm (local time),2937,5,"16,198","Manly Warringah
+SEA EAGLES",8,21,4,"Brisbane
+BRONCOS",14,20,7
+0,NRL 2005,Round 22,"Sunday, 7th August, 2005",3:00pm (local time),2938,1,"10,742","Sydney
+ROOSTERS",12,28,6,"Penrith
+PANTHERS",22,30,6
+0,NRL 2005,Round 23,"Friday, 12th August, 2005",7:30pm (local time),2945,8,"20,289","Parramatta
+EELS",26,56,6,BULLDOGS,0,4,4
+0,NRL 2005,Round 23,"Saturday, 13th August, 2005",5:30pm (local time),2946,12,"11,072","Melbourne
+STORM",10,22,6,WARRIORS,4,10,6
+0,NRL 2005,Round 23,"Saturday, 13th August, 2005",7:30pm (local time),2948,4,"8,405","Canberra
+RAIDERS",12,16,6,"South Sydney
+RABBITOHS",6,29,3
+0,NRL 2005,Round 23,"Saturday, 13th August, 2005",7:30pm (local time),2947,1,"7,842","Sydney
+ROOSTERS",8,14,7,"Cronulla Sutherland
+SHARKS",0,8,7
+0,NRL 2005,Round 23,"Sunday, 14th August, 2005",2:30pm (local time),2949,19,"20,527",WESTS TIGERS,18,28,5,"North Queensland
+COWBOYS",4,16,3
+0,NRL 2005,Round 23,"Sunday, 14th August, 2005",3:00pm (local time),2950,1097,"48,995","Brisbane
+BRONCOS",0,4,4,"St George Illawarra
+DRAGONS",6,24,6
+0,NRL 2005,Round 23,"Sunday, 14th August, 2005",3:00pm (local time),2951,11,"26,115","Newcastle
+KNIGHTS",8,22,6,"Manly Warringah
+SEA EAGLES",14,14,5
+0,NRL 2005,Round 24,"Friday, 19th August, 2005",7:30pm (local time),2994,20,"29,542",WESTS TIGERS,24,54,8,BULLDOGS,2,2,5
+0,NRL 2005,Round 24,"Saturday, 20th August, 2005",7:30pm (local time),2995,6,"17,356",WARRIORS,4,4,5,"Newcastle
+KNIGHTS",0,16,9
+0,NRL 2005,Round 24,"Saturday, 20th August, 2005",7:30pm (local time),2996,14,"17,893","North Queensland
+COWBOYS",12,31,7,"Canberra
+RAIDERS",14,28,5
+0,NRL 2005,Round 24,"Saturday, 20th August, 2005",7:30pm (local time),2997,1,"17,319","South Sydney
+RABBITOHS",6,17,10,"Sydney
+ROOSTERS",12,16,11
+0,NRL 2005,Round 24,"Sunday, 21st August, 2005",2:30pm (local time),2998,9,"13,325","Cronulla Sutherland
+SHARKS",38,68,7,"Manly Warringah
+SEA EAGLES",0,6,8
+0,NRL 2005,Round 24,"Sunday, 21st August, 2005",3:00pm (local time),3000,3,"15,200","Penrith
+PANTHERS",14,22,6,"Brisbane
+BRONCOS",8,20,5
+0,NRL 2005,Round 24,"Sunday, 21st August, 2005",3:00pm (local time),2999,23,"17,523","St George Illawarra
+DRAGONS",19,25,6,"Parramatta
+EELS",6,22,6
+0,NRL 2005,Round 25,"Friday, 26th August, 2005",7:30pm (local time),3077,1097,"35,592","Brisbane
+BRONCOS",4,10,6,"Sydney
+ROOSTERS",4,17,7
+0,NRL 2005,Round 25,"Saturday, 27th August, 2005",5:30pm (local time),3078,12,"10,050","Melbourne
+STORM",18,34,4,WESTS TIGERS,6,22,5
+0,NRL 2005,Round 25,"Saturday, 27th August, 2005",7:30pm (local time),3080,5,"14,219","Manly Warringah
+SEA EAGLES",10,20,5,WARRIORS,18,22,2
+0,NRL 2005,Round 25,"Saturday, 27th August, 2005",7:30pm (local time),3079,11,"23,084","Newcastle
+KNIGHTS",34,44,8,"Cronulla Sutherland
+SHARKS",0,14,6
+0,NRL 2005,Round 25,"Sunday, 28th August, 2005",2:30pm (local time),3081,20,"10,599",BULLDOGS,6,6,9,"Penrith
+PANTHERS",16,28,8
+0,NRL 2005,Round 25,"Sunday, 28th August, 2005",3:00pm (local time),3082,8,"13,315","Parramatta
+EELS",6,48,8,"Canberra
+RAIDERS",10,10,2
+0,NRL 2005,Round 25,"Sunday, 28th August, 2005",3:00pm (local time),3083,26,"13,079","South Sydney
+RABBITOHS",6,16, ,"North Queensland
+COWBOYS",18,30,4
+0,NRL 2005,Round 26,"Friday, 2nd September, 2005",7:30pm (local time),3085,8,"20,340","Parramatta
+EELS",6,28,5,"Brisbane
+BRONCOS",14,14,3
+0,NRL 2005,Round 26,"Saturday, 3rd September, 2005",5:30pm (local time),3086,9,"17,111","Cronulla Sutherland
+SHARKS",12,22,7,"South Sydney
+RABBITOHS",6,26,9
+0,NRL 2005,Round 26,"Saturday, 3rd September, 2005",7:30pm (local time),3088,4,"10,366","Canberra
+RAIDERS",6,18,6,"Manly Warringah
+SEA EAGLES",24,36,14
+0,NRL 2005,Round 26,"Saturday, 3rd September, 2005",7:30pm (local time),3087,14,"22,471","North Queensland
+COWBOYS",20,30,5,"Melbourne
+STORM",12,24,4
+0,NRL 2005,Round 26,"Sunday, 4th September, 2005",2:30pm (local time),3089,1,"8,903","Sydney
+ROOSTERS",14,32,3,BULLDOGS,0,12,5
+0,NRL 2005,Round 26,"Sunday, 4th September, 2005",3:00pm (local time),3090,23,"15,867","St George Illawarra
+DRAGONS",22,36,8,"Newcastle
+KNIGHTS",6,28,5
+0,NRL 2005,Round 26,"Sunday, 4th September, 2005",3:00pm (local time),3091,20,"17,256",WESTS TIGERS,16,22,4,"Penrith
+PANTHERS",18,38,2
+0,NRL 2005,Qualif Final,"Friday, 9th September, 2005",8:00pm (local time),3311,20,"26,463",WESTS TIGERS,14,50,6,"North Queensland
+COWBOYS",6,6,4
+0,NRL 2005,Qualif Final,"Saturday, 10th September, 2005",6:30pm (local time),3312,1097,"25,193","Brisbane
+BRONCOS",4,18,6,"Melbourne
+STORM",18,24,3
+0,NRL 2005,Qualif Final,"Saturday, 10th September, 2005",8:30pm (local time),3313,21,"19,608","St George Illawarra
+DRAGONS",4,28,3,"Cronulla Sutherland
+SHARKS",6,22,5
+0,NRL 2005,Qualif Final,"Sunday, 11th September, 2005",4:00pm (local time),3314,8,"19,710","Parramatta
+EELS",28,46,5,"Manly Warringah
+SEA EAGLES",0,22,8
+0,NRL 2005,Semi Final,"Saturday, 17th September, 2005",7:50pm (local time),3315,1,"16,810","Melbourne
+STORM",0,16,5,"North Queensland
+COWBOYS",16,24,5
+0,NRL 2005,Semi Final,"Sunday, 18th September, 2005",4:00pm (local time),3316,1,"36,563",WESTS TIGERS,10,34,6,"Brisbane
+BRONCOS",6,6,5
+0,NRL 2005,Prelim Final,"Saturday, 24th September, 2005",7:45pm (local time),3317,1,"41,260","St George Illawarra
+DRAGONS",6,12,3,WESTS TIGERS,16,20,4
+0,NRL 2005,Prelim Final,"Sunday, 25th September, 2005",4:00pm (local time),3318,20,"44,327","Parramatta
+EELS",0,0,4,"North Queensland
+COWBOYS",18,29,8
+0,NRL 2005,Grand Final,"Sunday, 2nd October, 2005",7:00pm (local time),3319,20,"82,453",WESTS TIGERS,12,30,3,"North Queensland
+COWBOYS",6,16,3

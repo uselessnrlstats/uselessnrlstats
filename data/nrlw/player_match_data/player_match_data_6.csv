@@ -1,0 +1,4608 @@
+,player_id,match_id,team,opposition_team,number,position,captain
+0,30201,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30096,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",1,FB,True
+0,44316,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",2,W,False
+0,31588,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",2,W,False
+0,30214,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",3,C,False
+0,30150,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",3,C,False
+0,34654,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",4,C,False
+0,34073,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",4,C,False
+0,51822,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",5,W,False
+0,44786,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",5,W,False
+0,33460,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30265,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",6,FE,False
+0,33991,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",7,HB,False
+0,30205,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",7,HB,False
+0,31569,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",8,FR,False
+0,30203,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",8,FR,False
+0,31568,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",9,HK,False
+0,30161,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,30187,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",10,FR,False
+0,33602,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",10,FR,False
+0,33614,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",11,2R,False
+0,33984,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,30252,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",12,2R,False
+0,31570,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",12,2R,False
+0,30163,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",13,L,True
+0,51835,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",13,L,False
+0,30106,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",14,B,False
+0,30257,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",14,B,False
+0,34080,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",15,B,False
+0,51836,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",15,B,False
+0,33983,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",16,B,False
+0,30274,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",16,B,False
+0,51821,63019,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",17,B,False
+0,31622,63019,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",17,B,False
+0,34077,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",1,FB,False
+0,33456,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",1,FB,False
+0,34026,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",2,W,False
+0,44322,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",2,W,False
+0,30197,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",3,C,True
+0,34029,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",3,C,False
+0,44300,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",4,C,False
+0,31623,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",4,C,False
+0,44307,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",5,W,False
+0,44326,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",5,W,False
+0,31554,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",6,FE,False
+0,31583,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",6,FE,False
+0,34007,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",7,HB,False
+0,30184,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",7,HB,True
+0,30260,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",8,FR,False
+0,30175,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",8,FR,False
+0,30215,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",9,HK,False
+0,45129,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",14,HK,False
+0,30159,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",10,FR,False
+0,34009,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",10,FR,False
+0,30262,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",11,2R,False
+0,31647,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",11,2R,False
+0,44308,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",12,2R,False
+0,31560,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",12,2R,False
+0,33982,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",13,L,False
+0,36970,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",13,L,False
+0,51810,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",14,B,False
+0,31585,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",9,B,False
+0,44302,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",15,B,False
+0,44968,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",15,B,False
+0,30104,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",16,B,False
+0,36966,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",16,B,False
+0,31558,63020,"Cronulla (W)
+SHARKS","North Queensland (W)
+COWBOYS",17,B,False
+0,34133,63020,"North Queensland (W)
+COWBOYS","Cronulla (W)
+SHARKS",17,B,False
+0,31621,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",1,FB,False
+0,31593,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",1,FB,False
+0,30130,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",2,W,False
+0,34006,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",2,W,False
+0,34311,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",3,C,False
+0,51827,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",3,C,False
+0,31561,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",4,C,False
+0,51828,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",4,C,False
+0,51804,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",5,W,False
+0,44333,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",5,W,False
+0,49618,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",6,FE,False
+0,34072,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",6,FE,False
+0,30135,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",7,HB,True
+0,31557,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",7,HB,False
+0,33613,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",8,FR,False
+0,30259,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",8,FR,False
+0,31577,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",9,HK,False
+0,34028,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",9,HK,False
+0,30275,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",10,FR,False
+0,44331,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30144,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",11,2R,False
+0,44839,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30337,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",12,2R,False
+0,30263,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",12,2R,True
+0,31572,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",13,L,False
+0,30256,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",13,L,False
+0,30142,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",14,B,False
+0,44731,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",14,B,False
+0,30143,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",15,B,False
+0,44342,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",15,B,False
+0,30103,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",16,B,False
+0,44327,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",16,B,False
+0,33994,63021,"Brisbane (W)
+BRONCOS","Parramatta (W)
+EELS",17,B,False
+0,33985,63021,"Parramatta (W)
+EELS","Brisbane (W)
+BRONCOS",17,B,False
+0,30439,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",1,FB,False
+0,30269,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,33608,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",2,W,False
+0,30097,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,31615,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",3,C,False
+0,30258,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",3,C,False
+0,30213,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",4,C,False
+0,44607,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,38167,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",5,W,False
+0,31574,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,33989,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",6,FE,False
+0,31556,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",6,FE,False
+0,30154,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",7,HB,True
+0,30264,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",7,HB,False
+0,34079,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",8,FR,False
+0,30266,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,38169,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",9,HK,False
+0,30137,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,30138,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",17,FR,False
+0,30206,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,44346,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",11,2R,False
+0,31564,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,45130,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",12,2R,False
+0,30198,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,38164,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",13,L,False
+0,30116,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",13,L,True
+0,38162,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",10,B,False
+0,51818,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",14,B,False
+0,51831,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",14,B,False
+0,44310,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",15,B,False
+0,31579,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",15,B,False
+0,34119,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",16,B,False
+0,51829,63022,"St George Illawarra (W)
+DRAGONS","Gold Coast (W)
+TITANS",16,B,False
+0,31632,63022,"Gold Coast (W)
+TITANS","St George Illawarra (W)
+DRAGONS",17,B,False
+0,30093,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",1,FB,True
+0,30110,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),1,FB,False
+0,51841,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",2,W,False
+0,30190,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),2,W,False
+0,31566,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",3,C,False
+0,44285,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),3,C,False
+0,30149,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",4,C,False
+0,34334,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),4,C,False
+0,33978,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",5,W,False
+0,44816,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),5,W,False
+0,44358,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",6,FE,False
+0,30105,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),6,FE,True
+0,33980,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",7,HB,False
+0,34008,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),7,HB,False
+0,30107,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",8,FR,False
+0,31591,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),8,FR,False
+0,44359,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",9,HK,False
+0,30338,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),9,HK,False
+0,31618,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",10,FR,False
+0,33993,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),10,FR,False
+0,30158,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",11,2R,False
+0,33987,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),11,2R,False
+0,51843,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",12,2R,False
+0,33465,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),12,2R,False
+0,30210,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",13,L,False
+0,30100,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),13,L,False
+0,38170,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",14,B,False
+0,44287,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),14,B,False
+0,44290,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",15,B,False
+0,44288,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),15,B,False
+0,33597,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",16,B,False
+0,34325,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),16,B,False
+0,44970,63023,WESTS TIGERS (W),"Canberra (W)
+RAIDERS",17,B,False
+0,31590,63023,"Canberra (W)
+RAIDERS",WESTS TIGERS (W),17,B,False
+0,30110,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",1,FB,False
+0,30201,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",1,FB,False
+0,30190,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",2,W,False
+0,44316,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",2,W,False
+0,44285,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",3,C,False
+0,30214,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",3,C,False
+0,34334,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",4,C,False
+0,34654,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",4,C,False
+0,30152,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",5,W,False
+0,51898,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",5,W,False
+0,30105,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",6,FE,True
+0,33460,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",6,FE,False
+0,34008,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",7,HB,False
+0,33991,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",7,HB,False
+0,31591,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",8,FR,False
+0,31569,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",8,FR,False
+0,30338,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,31568,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",9,HK,False
+0,33993,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",10,FR,False
+0,30187,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",10,FR,False
+0,33987,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,33614,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",11,2R,False
+0,33465,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",12,2R,False
+0,30252,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",12,2R,False
+0,30100,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",13,L,False
+0,30163,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",13,L,True
+0,44287,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",14,B,False
+0,30106,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",14,B,False
+0,44288,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",15,B,False
+0,34080,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",15,B,False
+0,34325,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",16,B,False
+0,33983,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",16,B,False
+0,31590,63024,"Canberra (W)
+RAIDERS","Newcastle (W)
+KNIGHTS",17,B,False
+0,51822,63024,"Newcastle (W)
+KNIGHTS","Canberra (W)
+RAIDERS",17,B,False
+0,30269,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),1,FB,False
+0,30093,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",1,FB,True
+0,51813,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),2,W,False
+0,51841,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",2,W,False
+0,30258,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),3,C,False
+0,31566,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",3,C,False
+0,44607,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),4,C,False
+0,30149,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",4,C,False
+0,31574,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),5,W,False
+0,33978,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",5,W,False
+0,31556,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),6,FE,False
+0,44358,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",6,FE,False
+0,30264,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),7,HB,False
+0,33980,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",7,HB,False
+0,30266,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),8,FR,False
+0,30107,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",8,FR,False
+0,30137,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),9,HK,False
+0,44359,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",9,HK,False
+0,30206,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),10,FR,False
+0,31618,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",10,FR,False
+0,44310,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),11,2R,False
+0,30158,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",11,2R,False
+0,30198,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),12,2R,False
+0,51843,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",12,2R,False
+0,30116,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),13,L,True
+0,30210,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",13,L,False
+0,51818,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),14,B,False
+0,38170,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",14,B,False
+0,31631,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),15,B,False
+0,44290,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",15,B,False
+0,34119,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),16,B,False
+0,33597,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",16,B,False
+0,31632,63025,"Gold Coast (W)
+TITANS",WESTS TIGERS (W),17,B,False
+0,44970,63025,WESTS TIGERS (W),"Gold Coast (W)
+TITANS",17,B,False
+0,31593,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",1,FB,False
+0,34077,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",1,FB,False
+0,34006,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",2,W,False
+0,34026,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",2,W,False
+0,51827,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",3,C,False
+0,30197,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",3,C,True
+0,51828,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",4,C,False
+0,44300,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",4,C,False
+0,44333,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",5,W,False
+0,44307,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",5,W,False
+0,34072,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",6,FE,False
+0,51810,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",14,FE,False
+0,31557,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",7,HB,False
+0,34007,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",7,HB,False
+0,30259,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",8,FR,False
+0,30260,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",8,FR,False
+0,44731,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",9,HK,False
+0,30215,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",9,HK,False
+0,44331,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",10,FR,False
+0,30159,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",10,FR,False
+0,44733,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",11,2R,False
+0,30262,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",11,2R,False
+0,30263,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",12,2R,True
+0,44308,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",12,2R,False
+0,30256,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",13,L,False
+0,33982,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",13,L,False
+0,44339,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",14,B,False
+0,44302,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",15,B,False
+0,44342,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",15,B,False
+0,30104,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",16,B,False
+0,44327,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",16,B,False
+0,31558,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",17,B,False
+0,33985,63026,"Parramatta (W)
+EELS","Cronulla (W)
+SHARKS",17,B,False
+0,51899,63026,"Cronulla (W)
+SHARKS","Parramatta (W)
+EELS",18,B,False
+0,30148,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",1,FB,False
+0,31621,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30265,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",2,W,False
+0,30130,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",2,W,False
+0,30150,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",3,C,False
+0,34311,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",3,C,False
+0,34073,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",4,C,False
+0,31561,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",4,C,False
+0,44786,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",5,W,False
+0,51804,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",5,W,False
+0,30096,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",6,FE,True
+0,49618,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30205,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",7,HB,False
+0,30135,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",7,HB,True
+0,30203,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",8,FR,False
+0,31572,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",8,FR,False
+0,30161,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",9,HK,False
+0,31577,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",9,HK,False
+0,33602,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30275,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",10,FR,False
+0,33984,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30103,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",11,2R,False
+0,31570,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",12,2R,False
+0,30337,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",12,2R,False
+0,51835,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",13,L,False
+0,33994,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",16,L,False
+0,30257,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",14,B,False
+0,30144,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",13,B,False
+0,30274,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",16,B,False
+0,31565,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",14,B,False
+0,31622,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",17,B,False
+0,30143,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",15,B,False
+0,30204,63027,"Sydney (W)
+ROOSTERS","Brisbane (W)
+BRONCOS",21,B,False
+0,51901,63027,"Brisbane (W)
+BRONCOS","Sydney (W)
+ROOSTERS",17,B,False
+0,33456,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,30439,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",1,FB,False
+0,44322,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,44330,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",2,W,False
+0,34029,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",3,C,False
+0,31615,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",3,C,False
+0,31623,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,30213,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",4,C,False
+0,51823,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,38167,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",5,W,False
+0,31583,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",6,FE,False
+0,33989,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",6,FE,False
+0,30184,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",7,HB,True
+0,30154,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",7,HB,True
+0,44968,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",15,FR,False
+0,34079,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",8,FR,False
+0,31585,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,38169,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",9,HK,False
+0,34133,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,38162,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",10,FR,False
+0,31647,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,44346,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",11,2R,False
+0,31560,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,45130,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",12,2R,False
+0,36970,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",13,L,False
+0,38164,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",13,L,False
+0,30175,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",8,B,False
+0,51831,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",14,B,False
+0,45129,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",14,B,False
+0,31579,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",15,B,False
+0,34117,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",16,B,False
+0,51829,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",16,B,False
+0,30272,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",17,B,False
+0,30138,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",17,B,False
+0,36966,63028,"North Queensland (W)
+COWBOYS","St George Illawarra (W)
+DRAGONS",19,B,False
+0,51833,63028,"St George Illawarra (W)
+DRAGONS","North Queensland (W)
+COWBOYS",20,B,False
+0,30148,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),1,FB,False
+0,30093,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",1,FB,True
+0,30265,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),2,W,False
+0,51841,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",2,W,False
+0,30150,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),3,C,False
+0,31566,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",3,C,False
+0,34073,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),4,C,False
+0,30149,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",4,C,False
+0,44786,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),5,W,False
+0,33978,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",5,W,False
+0,30096,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),6,FE,True
+0,44358,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",6,FE,False
+0,30205,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),7,HB,False
+0,33980,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",7,HB,False
+0,30203,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),8,FR,False
+0,30107,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",8,FR,False
+0,30161,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),9,HK,False
+0,44359,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",9,HK,False
+0,33602,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),10,FR,False
+0,31618,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",10,FR,False
+0,30204,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),21,2R,False
+0,30158,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",11,2R,False
+0,31570,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),12,2R,False
+0,51843,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",12,2R,False
+0,30257,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),13,L,False
+0,30210,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",13,L,False
+0,33984,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),11,B,False
+0,38170,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",14,B,False
+0,51835,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),14,B,False
+0,44290,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",15,B,False
+0,30274,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),16,B,False
+0,33597,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",16,B,False
+0,31622,63033,"Sydney (W)
+ROOSTERS",WESTS TIGERS (W),17,B,False
+0,44970,63033,WESTS TIGERS (W),"Sydney (W)
+ROOSTERS",17,B,False
+0,30110,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",1,FB,False
+0,34026,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",2,FB,False
+0,30190,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",2,W,False
+0,31596,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",14,W,False
+0,44285,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",3,C,False
+0,30197,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",1,C,True
+0,34334,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",4,C,False
+0,44300,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",4,C,False
+0,30152,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",5,W,False
+0,44307,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",5,W,False
+0,30105,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",6,FE,True
+0,51810,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",6,FE,False
+0,34008,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",7,HB,False
+0,34007,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",7,HB,False
+0,31591,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",8,FR,False
+0,30260,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",8,FR,False
+0,30338,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",9,HK,False
+0,30215,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",9,HK,False
+0,33993,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",10,FR,False
+0,30159,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",10,FR,False
+0,33987,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",11,2R,False
+0,30262,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",11,2R,False
+0,33465,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",12,2R,False
+0,44308,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",3,2R,False
+0,30100,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",13,L,False
+0,33982,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",13,L,False
+0,44287,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",14,B,False
+0,30104,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",12,B,False
+0,44288,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",15,B,False
+0,44302,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",15,B,False
+0,34325,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",16,B,False
+0,51899,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",16,B,False
+0,31590,63032,"Canberra (W)
+RAIDERS","Cronulla (W)
+SHARKS",17,B,False
+0,31558,63032,"Cronulla (W)
+SHARKS","Canberra (W)
+RAIDERS",17,B,False
+0,44322,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",1,FB,False
+0,31593,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",1,FB,False
+0,33456,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",2,W,False
+0,34006,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",2,W,False
+0,34029,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",3,C,False
+0,51827,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",3,C,False
+0,31623,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",4,C,False
+0,51828,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",4,C,False
+0,34120,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",22,W,False
+0,44333,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",5,W,False
+0,31583,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",6,FE,False
+0,34072,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",6,FE,False
+0,30184,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",7,HB,True
+0,31557,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",7,HB,False
+0,44968,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",15,FR,False
+0,30259,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",8,FR,False
+0,31585,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",9,HK,False
+0,44731,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",9,HK,False
+0,34133,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",10,FR,False
+0,44331,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",10,FR,False
+0,31647,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",11,2R,False
+0,44733,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",11,2R,False
+0,31560,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",12,2R,False
+0,30263,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",12,2R,True
+0,36970,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",13,L,False
+0,30256,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",13,L,False
+0,30175,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",8,B,False
+0,44339,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",14,B,False
+0,45129,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",14,B,False
+0,44342,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",15,B,False
+0,34117,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",16,B,False
+0,44327,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",16,B,False
+0,51824,63029,"North Queensland (W)
+COWBOYS","Parramatta (W)
+EELS",18,B,False
+0,33985,63029,"Parramatta (W)
+EELS","North Queensland (W)
+COWBOYS",17,B,False
+0,31621,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",1,FB,False
+0,30269,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",1,FB,False
+0,30130,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",2,W,False
+0,51813,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",2,W,False
+0,34311,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",3,C,False
+0,30258,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",3,C,False
+0,30335,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",22,C,False
+0,44607,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",4,C,False
+0,51805,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",5,W,False
+0,31574,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",5,W,False
+0,33977,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",6,FE,False
+0,31556,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",6,FE,False
+0,30135,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",7,HB,True
+0,30264,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",7,HB,False
+0,31572,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",8,FR,False
+0,30266,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",8,FR,False
+0,31577,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",9,HK,False
+0,30137,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",9,HK,False
+0,30143,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",10,FR,False
+0,31632,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",16,FR,False
+0,30103,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",11,2R,False
+0,30206,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",10,2R,False
+0,30337,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",12,2R,False
+0,30198,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",12,2R,False
+0,33994,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",13,L,False
+0,30116,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",13,L,True
+0,31561,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",4,B,False
+0,51818,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",14,B,False
+0,31565,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",14,B,False
+0,31631,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",15,B,False
+0,44284,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",15,B,False
+0,34119,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",17,B,False
+0,30142,63030,"Brisbane (W)
+BRONCOS","Gold Coast (W)
+TITANS",19,B,False
+0,30145,63030,"Gold Coast (W)
+TITANS","Brisbane (W)
+BRONCOS",18,B,False
+0,30201,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,30439,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",1,FB,False
+0,44316,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,33608,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",2,W,False
+0,30214,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",3,C,False
+0,31615,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",3,C,False
+0,34654,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,30213,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",4,C,False
+0,51898,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,44330,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",5,W,False
+0,33460,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",6,FE,False
+0,33989,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",6,FE,False
+0,33991,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",7,HB,False
+0,30154,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",7,HB,True
+0,31569,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,34079,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",8,FR,False
+0,31568,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,51831,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,34080,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",15,FR,False
+0,44969,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",15,FR,False
+0,33614,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,44346,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,30252,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,45130,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",12,2R,False
+0,30163,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",13,L,True
+0,38164,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",13,L,False
+0,30106,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",14,B,False
+0,38162,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",10,B,False
+0,33983,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",16,B,False
+0,51829,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",16,B,False
+0,44840,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",18,B,False
+0,30138,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",17,B,False
+0,51821,63031,"Newcastle (W)
+KNIGHTS","St George Illawarra (W)
+DRAGONS",19,B,False
+0,44347,63031,"St George Illawarra (W)
+DRAGONS","Newcastle (W)
+KNIGHTS",21,B,False
+0,31621,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",1,FB,False
+0,30110,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",1,FB,False
+0,30130,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",2,W,False
+0,30190,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",2,W,False
+0,34311,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",3,C,False
+0,44285,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",3,C,False
+0,30335,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",4,C,False
+0,34334,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",4,C,False
+0,51805,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",5,W,False
+0,30152,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",5,W,False
+0,33977,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",6,FE,False
+0,30105,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",6,FE,True
+0,30135,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",7,HB,True
+0,34008,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",7,HB,False
+0,31572,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",8,FR,False
+0,31591,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",8,FR,False
+0,31577,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",9,HK,False
+0,30338,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",9,HK,False
+0,30143,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",10,FR,False
+0,33993,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30103,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",11,2R,False
+0,33987,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30337,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",12,2R,False
+0,33465,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",12,2R,False
+0,33994,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",13,L,False
+0,30100,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",13,L,False
+0,31565,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",14,B,False
+0,44287,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",14,B,False
+0,44284,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",15,B,False
+0,44288,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",15,B,False
+0,30142,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",16,B,False
+0,34325,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",16,B,False
+0,31561,63034,"Brisbane (W)
+BRONCOS","Canberra (W)
+RAIDERS",17,B,False
+0,31590,63034,"Canberra (W)
+RAIDERS","Brisbane (W)
+BRONCOS",17,B,False
+0,44322,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",1,FB,False
+0,30269,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",1,FB,False
+0,33456,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",2,W,False
+0,51813,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",2,W,False
+0,34029,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",3,C,False
+0,30258,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",3,C,False
+0,31623,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",4,C,False
+0,31556,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",6,C,False
+0,34120,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",5,W,False
+0,31574,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",5,W,False
+0,31583,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",6,FE,False
+0,52075,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",4,FE,False
+0,30184,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",7,HB,True
+0,30264,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",7,HB,False
+0,44968,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",15,FR,False
+0,30266,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",8,FR,False
+0,31585,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",9,HK,False
+0,30137,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",9,HK,False
+0,34133,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",10,FR,False
+0,30206,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",10,FR,False
+0,31647,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",11,2R,False
+0,44310,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",11,2R,False
+0,31560,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",12,2R,False
+0,30198,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",12,2R,False
+0,36970,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",13,L,False
+0,30116,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",13,L,False
+0,30175,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",8,B,False
+0,51818,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",14,B,False
+0,31562,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",14,B,False
+0,31632,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",15,B,False
+0,34117,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",16,B,False
+0,51817,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",16,B,False
+0,36966,63035,"North Queensland (W)
+COWBOYS","Gold Coast (W)
+TITANS",18,B,False
+0,34119,63035,"Gold Coast (W)
+TITANS","North Queensland (W)
+COWBOYS",17,B,False
+0,30439,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30148,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,51830,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",19,W,False
+0,30265,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,31615,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",3,C,False
+0,30096,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",6,C,True
+0,30213,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",4,C,False
+0,34073,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,44330,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",5,W,False
+0,44786,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,44347,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30257,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",13,FE,False
+0,30154,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",7,HB,True
+0,30205,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",7,HB,False
+0,34079,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",8,FR,False
+0,30203,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,51831,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",9,HK,False
+0,30161,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,44969,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",10,FR,False
+0,31622,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,44346,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",11,2R,False
+0,33984,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,45130,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",12,2R,False
+0,31570,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,38164,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",13,L,False
+0,51835,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",14,L,False
+0,33989,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",14,B,False
+0,33602,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",15,B,False
+0,38166,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",15,B,False
+0,44353,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",18,B,False
+0,51829,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",16,B,False
+0,34030,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",19,B,False
+0,38162,63036,"St George Illawarra (W)
+DRAGONS","Sydney (W)
+ROOSTERS",22,B,False
+0,30204,63036,"Sydney (W)
+ROOSTERS","St George Illawarra (W)
+DRAGONS",21,B,False
+0,34026,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",1,FB,False
+0,30201,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",1,FB,False
+0,31596,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",2,W,False
+0,52074,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",2,W,False
+0,30197,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",3,C,True
+0,30214,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",3,C,False
+0,44300,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",4,C,False
+0,34654,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",4,C,False
+0,44307,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",5,W,False
+0,51898,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",5,W,False
+0,31554,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",21,FE,False
+0,33460,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",6,FE,False
+0,34007,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",7,HB,False
+0,33991,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",7,HB,False
+0,30260,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",8,FR,False
+0,33983,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",16,FR,False
+0,30215,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,31568,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",9,HK,False
+0,30159,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",10,FR,False
+0,34080,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",10,FR,False
+0,30262,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,33614,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",11,2R,False
+0,30104,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",12,2R,False
+0,30252,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",12,2R,False
+0,33982,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",13,L,False
+0,30163,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",13,L,True
+0,52100,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",14,B,False
+0,31569,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",8,B,False
+0,44302,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",15,B,False
+0,30106,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",14,B,False
+0,51899,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",16,B,False
+0,31573,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",15,B,False
+0,31558,63037,"Cronulla (W)
+SHARKS","Newcastle (W)
+KNIGHTS",17,B,False
+0,51821,63037,"Newcastle (W)
+KNIGHTS","Cronulla (W)
+SHARKS",17,B,False
+0,30093,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",1,FB,True
+0,31593,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),1,FB,False
+0,38172,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",2,W,False
+0,34006,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),2,W,False
+0,31566,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",3,C,False
+0,51827,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),3,C,False
+0,30149,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",4,C,False
+0,51828,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),4,C,False
+0,33978,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",5,W,False
+0,44333,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),5,W,False
+0,44358,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",6,FE,False
+0,34072,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),6,FE,False
+0,33980,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",7,HB,False
+0,31557,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),7,HB,False
+0,30107,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",8,FR,False
+0,30259,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),8,FR,False
+0,44359,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",9,HK,False
+0,44731,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),9,HK,False
+0,31618,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",10,FR,False
+0,44331,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),10,FR,False
+0,44970,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",11,2R,False
+0,44733,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),11,2R,False
+0,51843,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",12,2R,False
+0,30263,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),12,2R,True
+0,30210,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",13,L,False
+0,30256,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),13,L,False
+0,38170,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",14,B,False
+0,44339,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),14,B,False
+0,33597,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",15,B,False
+0,44327,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),16,B,False
+0,44290,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",16,B,False
+0,45310,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),18,B,False
+0,38177,63038,WESTS TIGERS (W),"Parramatta (W)
+EELS",17,B,False
+0,44609,63038,"Parramatta (W)
+EELS",WESTS TIGERS (W),19,B,False
+0,31593,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",1,FB,False
+0,30201,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",1,FB,False
+0,34006,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",2,W,False
+0,52074,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",2,W,False
+0,51827,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",3,C,False
+0,30214,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",3,C,False
+0,51828,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",4,C,False
+0,34654,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",4,C,False
+0,44333,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",5,W,False
+0,51898,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",5,W,False
+0,34072,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",6,FE,False
+0,33460,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",6,FE,False
+0,31557,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",7,HB,False
+0,51820,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",7,HB,False
+0,30259,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",8,FR,False
+0,31573,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",15,FR,False
+0,44731,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,31568,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",9,HK,False
+0,44331,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",10,FR,False
+0,33983,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",16,FR,False
+0,44733,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,33614,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",11,2R,False
+0,30263,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",12,2R,True
+0,30252,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",12,2R,False
+0,30256,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",13,L,False
+0,30163,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",13,L,True
+0,44339,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",14,B,False
+0,31569,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",8,B,False
+0,44342,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",15,B,False
+0,34080,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",10,B,False
+0,44327,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",16,B,False
+0,30106,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",14,B,False
+0,45310,63039,"Parramatta (W)
+EELS","Newcastle (W)
+KNIGHTS",18,B,False
+0,44318,63039,"Newcastle (W)
+KNIGHTS","Parramatta (W)
+EELS",20,B,False
+0,30110,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",1,FB,False
+0,44322,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",2,FB,False
+0,30190,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",2,W,False
+0,44326,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",21,W,False
+0,44285,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",3,C,False
+0,34029,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",3,C,False
+0,34334,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",4,C,False
+0,31623,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",4,C,False
+0,44816,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",5,W,False
+0,34120,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",5,W,False
+0,30105,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",6,FE,True
+0,31583,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",6,FE,False
+0,31590,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",17,HB,False
+0,30184,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",7,HB,True
+0,31591,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",8,FR,False
+0,44968,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",15,FR,False
+0,30338,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",9,HK,False
+0,31585,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",9,HK,False
+0,33993,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",10,FR,False
+0,36966,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",17,FR,False
+0,34325,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",11,2R,False
+0,31647,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",11,2R,False
+0,33465,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",12,2R,False
+0,31560,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",12,2R,False
+0,30100,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",13,L,False
+0,36970,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",13,L,False
+0,44287,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",14,B,False
+0,30175,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",8,B,False
+0,44288,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",15,B,False
+0,31562,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",14,B,False
+0,51808,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",16,B,False
+0,34009,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",16,B,False
+0,38156,63040,"Canberra (W)
+RAIDERS","North Queensland (W)
+COWBOYS",18,B,False
+0,34137,63040,"North Queensland (W)
+COWBOYS","Canberra (W)
+RAIDERS",18,B,False
+0,30269,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30148,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",1,FB,False
+0,51813,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",2,W,False
+0,30265,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",2,W,False
+0,30258,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",3,C,False
+0,34073,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",3,C,False
+0,44607,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",4,C,False
+0,30096,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",4,C,True
+0,31574,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",5,W,False
+0,44786,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",5,W,False
+0,31556,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30257,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",6,FE,False
+0,30264,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",7,HB,False
+0,30205,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",7,HB,False
+0,30266,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",8,FR,False
+0,30203,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",8,FR,False
+0,30137,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",9,HK,False
+0,30161,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",9,HK,False
+0,30206,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",10,FR,False
+0,31622,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",10,FR,False
+0,31564,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",22,2R,False
+0,30204,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",11,2R,False
+0,30198,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",12,2R,False
+0,31570,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",12,2R,False
+0,30116,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",13,L,True
+0,31588,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",19,L,False
+0,44310,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",11,B,False
+0,34030,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",13,B,False
+0,31632,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",15,B,False
+0,44353,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",14,B,False
+0,51817,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",17,B,False
+0,33602,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",15,B,False
+0,44311,63041,"Gold Coast (W)
+TITANS","Sydney (W)
+ROOSTERS",18,B,False
+0,33984,63041,"Sydney (W)
+ROOSTERS","Gold Coast (W)
+TITANS",17,B,False
+0,30093,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",1,FB,True
+0,31621,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),1,FB,False
+0,38172,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",2,W,False
+0,30130,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),2,W,False
+0,30149,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",3,C,False
+0,34311,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),3,C,False
+0,31566,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",4,C,False
+0,30335,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),4,C,False
+0,51844,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",5,W,False
+0,51805,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),5,W,False
+0,44358,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",6,FE,False
+0,33977,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),6,FE,False
+0,33980,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",7,HB,False
+0,30135,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),7,HB,True
+0,30107,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",8,FR,False
+0,30275,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),8,FR,False
+0,44359,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",9,HK,False
+0,31577,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),9,HK,False
+0,31618,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",10,FR,False
+0,30143,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),10,FR,False
+0,44970,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",11,2R,False
+0,30103,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),11,2R,False
+0,52118,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",12,2R,False
+0,30337,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),12,2R,False
+0,30210,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",13,L,False
+0,31572,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),13,L,False
+0,38170,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",14,B,False
+0,31565,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),14,B,False
+0,44290,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",15,B,False
+0,44284,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),15,B,False
+0,33597,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",16,B,False
+0,30142,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),16,B,False
+0,38176,63042,WESTS TIGERS (W),"Brisbane (W)
+BRONCOS",17,B,False
+0,31561,63042,"Brisbane (W)
+BRONCOS",WESTS TIGERS (W),17,B,False
+0,30439,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",1,FB,False
+0,34026,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,52119,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",2,W,False
+0,31596,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,31615,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",3,C,False
+0,30197,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",3,C,True
+0,44346,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",11,C,False
+0,44300,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,51830,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",5,W,False
+0,44307,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,33989,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",9,FE,False
+0,31554,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",6,FE,False
+0,30154,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",7,HB,True
+0,34007,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",7,HB,False
+0,34079,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",8,FR,False
+0,30260,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,51831,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",14,HK,False
+0,30215,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,44969,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",10,FR,False
+0,30159,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,38166,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",15,2R,False
+0,30104,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,45130,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",12,2R,False
+0,44308,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,38164,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",13,L,False
+0,33982,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",13,L,False
+0,38162,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",16,B,False
+0,52100,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",14,B,False
+0,30138,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",17,B,False
+0,44302,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",15,B,False
+0,52102,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",18,B,False
+0,51899,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",16,B,False
+0,38165,63043,"St George Illawarra (W)
+DRAGONS","Cronulla (W)
+SHARKS",19,B,False
+0,31558,63043,"Cronulla (W)
+SHARKS","St George Illawarra (W)
+DRAGONS",17,B,False
+0,30269,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",1,FB,False
+0,34026,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",1,FB,False
+0,51813,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",2,W,False
+0,31596,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",2,W,False
+0,30258,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",3,C,False
+0,30197,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",3,C,True
+0,44607,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",4,C,False
+0,44300,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",4,C,False
+0,31574,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",5,W,False
+0,44307,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",5,W,False
+0,52075,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",18,FE,False
+0,31554,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",6,FE,False
+0,30264,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",7,HB,False
+0,34007,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",7,HB,False
+0,30266,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",8,FR,False
+0,30260,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",8,FR,False
+0,30137,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",9,HK,False
+0,30215,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",9,HK,False
+0,30206,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",10,FR,False
+0,30159,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",10,FR,False
+0,31564,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",11,2R,False
+0,30262,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",20,2R,False
+0,30198,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",12,2R,False
+0,44308,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",12,2R,False
+0,30116,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",13,L,True
+0,33982,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",13,L,False
+0,51818,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",14,B,False
+0,30104,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",11,B,False
+0,31632,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",15,B,False
+0,52100,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",14,B,False
+0,51817,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",17,B,False
+0,44302,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",15,B,False
+0,31631,63044,"Gold Coast (W)
+TITANS","Cronulla (W)
+SHARKS",19,B,False
+0,31558,63044,"Cronulla (W)
+SHARKS","Gold Coast (W)
+TITANS",17,B,False
+0,31593,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,30439,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",1,FB,False
+0,34006,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,33608,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",2,W,False
+0,51827,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",3,C,False
+0,31615,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",3,C,False
+0,51828,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,30213,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",4,C,False
+0,44333,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,51830,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",5,W,False
+0,34072,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",6,FE,False
+0,51831,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",6,FE,False
+0,31557,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",7,HB,False
+0,30154,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",7,HB,True
+0,30259,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,34079,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",8,FR,False
+0,44731,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,38169,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",14,HK,False
+0,44331,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,38162,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",16,FR,False
+0,44733,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,44346,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",11,2R,False
+0,30263,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",12,2R,True
+0,38166,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",12,2R,False
+0,30256,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",13,L,False
+0,38164,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",13,L,False
+0,44339,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",14,B,False
+0,33989,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",9,B,False
+0,44342,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",15,B,False
+0,44969,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",10,B,False
+0,44327,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",16,B,False
+0,30138,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",17,B,False
+0,44817,63045,"Parramatta (W)
+EELS","St George Illawarra (W)
+DRAGONS",17,B,False
+0,45130,63045,"St George Illawarra (W)
+DRAGONS","Parramatta (W)
+EELS",19,B,False
+0,30201,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),1,FB,False
+0,30093,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",1,FB,True
+0,44316,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),18,W,False
+0,38172,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",2,W,False
+0,30214,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),3,C,False
+0,33978,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",18,C,False
+0,52074,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),2,C,False
+0,51843,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",4,C,False
+0,51898,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),5,W,False
+0,51844,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",5,W,False
+0,33460,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),6,FE,False
+0,44358,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",6,FE,False
+0,51820,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),7,HB,False
+0,33980,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",7,HB,False
+0,33983,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),8,FR,False
+0,30107,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",8,FR,False
+0,31568,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),9,HK,False
+0,44359,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",9,HK,False
+0,31573,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),10,FR,False
+0,31618,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",10,FR,False
+0,33614,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),11,2R,False
+0,44970,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",11,2R,False
+0,30252,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),12,2R,False
+0,52118,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",12,2R,False
+0,30163,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),13,L,True
+0,30210,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",13,L,False
+0,30106,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),14,B,False
+0,38170,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",14,B,False
+0,34080,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),15,B,False
+0,33597,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",15,B,False
+0,44318,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),20,B,False
+0,44290,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",16,B,False
+0,33991,63046,"Newcastle (W)
+KNIGHTS",WESTS TIGERS (W),22,B,False
+0,38176,63046,WESTS TIGERS (W),"Newcastle (W)
+KNIGHTS",17,B,False
+0,31621,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",1,FB,False
+0,44322,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",1,FB,False
+0,30130,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",2,W,False
+0,33456,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",18,W,False
+0,34311,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",3,C,False
+0,34029,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",3,C,False
+0,30335,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",4,C,False
+0,31623,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",4,C,False
+0,51805,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",5,W,False
+0,33605,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",23,W,False
+0,33977,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",6,FE,False
+0,31583,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",6,FE,False
+0,30135,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",7,HB,True
+0,30184,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",7,HB,True
+0,30275,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",8,FR,False
+0,44968,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",15,FR,False
+0,31577,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",9,HK,False
+0,31585,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",9,HK,False
+0,30143,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",10,FR,False
+0,36966,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30103,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",11,2R,False
+0,31647,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30337,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",12,2R,False
+0,31560,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",12,2R,False
+0,31572,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",13,L,False
+0,36970,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",13,L,False
+0,31565,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",14,B,False
+0,30175,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",8,B,False
+0,44284,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",15,B,False
+0,34117,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",16,B,False
+0,30142,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",16,B,False
+0,30272,63047,"North Queensland (W)
+COWBOYS","Brisbane (W)
+BRONCOS",17,B,False
+0,33613,63047,"Brisbane (W)
+BRONCOS","North Queensland (W)
+COWBOYS",17,B,False
+0,30148,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",1,FB,False
+0,30110,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",1,FB,False
+0,31588,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",2,W,False
+0,30190,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",2,W,False
+0,34073,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",3,C,False
+0,44285,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",3,C,False
+0,30096,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",4,C,True
+0,34334,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",4,C,False
+0,44786,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",5,W,False
+0,30152,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",5,W,False
+0,30257,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",6,FE,False
+0,30105,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",6,FE,True
+0,30205,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",7,HB,False
+0,34008,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",7,HB,False
+0,30203,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",8,FR,False
+0,44288,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",15,FR,False
+0,30161,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",9,HK,False
+0,30338,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",9,HK,False
+0,33984,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",10,FR,False
+0,33993,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",10,FR,False
+0,30204,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",11,2R,False
+0,38156,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",18,2R,False
+0,31570,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",12,2R,False
+0,33465,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",12,2R,False
+0,34030,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",13,L,False
+0,30100,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",13,L,False
+0,44353,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",14,B,False
+0,44287,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",14,B,False
+0,33602,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",15,B,False
+0,34325,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",16,B,False
+0,30274,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",16,B,False
+0,31590,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",17,B,False
+0,51836,63048,"Sydney (W)
+ROOSTERS","Canberra (W)
+RAIDERS",17,B,False
+0,44350,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",21,B,False
+0,51806,63048,"Canberra (W)
+RAIDERS","Sydney (W)
+ROOSTERS",19,B,False
+0,33456,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),1,FB,False
+0,30093,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",1,FB,True
+0,44326,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),2,W,False
+0,51844,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",2,W,False
+0,34029,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),3,C,False
+0,44358,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",6,C,False
+0,31623,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),4,C,False
+0,30149,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",4,C,False
+0,33605,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),5,W,False
+0,38172,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",5,W,False
+0,31583,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),6,FE,False
+0,52156,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",18,FE,False
+0,30184,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),7,HB,True
+0,33980,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",7,HB,False
+0,34117,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),16,FR,False
+0,30107,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",8,FR,False
+0,31585,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),9,HK,False
+0,38176,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",9,HK,False
+0,34133,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),10,FR,False
+0,31618,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",10,FR,False
+0,30272,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),11,2R,False
+0,44970,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",11,2R,False
+0,31560,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),12,2R,False
+0,52118,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",12,2R,False
+0,36970,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),13,L,False
+0,30210,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",13,L,False
+0,30175,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),8,B,False
+0,51843,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",14,B,False
+0,31562,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),14,B,False
+0,44290,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",15,B,False
+0,51824,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),15,B,False
+0,33597,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",16,B,False
+0,34137,63053,"North Queensland (W)
+COWBOYS",WESTS TIGERS (W),22,B,False
+0,52177,63053,WESTS TIGERS (W),"North Queensland (W)
+COWBOYS",17,B,False
+0,30439,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",1,FB,False
+0,30110,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,33608,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",2,W,False
+0,30190,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,31615,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",3,C,False
+0,44285,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",3,C,False
+0,30213,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",4,C,False
+0,51808,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",17,C,False
+0,51830,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",5,W,False
+0,30152,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,51831,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",6,FE,False
+0,30105,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",6,FE,True
+0,30154,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",7,HB,True
+0,34008,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",7,HB,False
+0,34079,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",8,FR,False
+0,44288,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,38169,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",14,HK,False
+0,44287,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",14,HK,False
+0,38162,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",16,FR,False
+0,33993,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,44346,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",11,2R,False
+0,33987,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,38166,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",12,2R,False
+0,38156,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,38164,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",13,L,False
+0,30338,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",9,L,False
+0,33989,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",9,B,False
+0,51807,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",15,B,False
+0,44969,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",10,B,False
+0,34325,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",16,B,False
+0,45130,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",15,B,False
+0,44350,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",18,B,False
+0,30138,63049,"St George Illawarra (W)
+DRAGONS","Canberra (W)
+RAIDERS",17,B,False
+0,51809,63049,"Canberra (W)
+RAIDERS","St George Illawarra (W)
+DRAGONS",20,B,False
+0,34026,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30148,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",1,FB,False
+0,52120,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",21,W,False
+0,30179,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",20,W,False
+0,30197,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",3,C,True
+0,34073,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",3,C,False
+0,44300,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",4,C,False
+0,30096,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",4,C,True
+0,44307,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",5,W,False
+0,44786,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",5,W,False
+0,31554,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30257,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",6,FE,False
+0,34007,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",7,HB,False
+0,30205,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",7,HB,False
+0,30260,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",8,FR,False
+0,33984,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",8,FR,False
+0,30215,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",9,HK,False
+0,30161,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",9,HK,False
+0,30159,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",10,FR,False
+0,33602,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",15,FR,False
+0,30262,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",11,2R,False
+0,51836,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",17,2R,False
+0,44308,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",12,2R,False
+0,31570,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",12,2R,False
+0,33982,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",13,L,False
+0,34030,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",13,L,False
+0,52100,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",14,B,False
+0,31588,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",2,B,False
+0,44302,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",15,B,False
+0,30204,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",11,B,False
+0,30104,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",16,B,False
+0,44353,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",14,B,False
+0,31558,63050,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",17,B,False
+0,30274,63050,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",16,B,False
+0,31593,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",1,FB,False
+0,30269,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",1,FB,False
+0,34006,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",2,W,False
+0,51813,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",2,W,False
+0,51827,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",3,C,False
+0,52101,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",20,C,False
+0,51828,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",4,C,False
+0,44607,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",4,C,False
+0,44333,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",5,W,False
+0,31574,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",5,W,False
+0,34072,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",6,FE,False
+0,44311,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",6,FE,False
+0,31557,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",7,HB,False
+0,30264,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",7,HB,False
+0,30259,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",8,FR,False
+0,30266,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",8,FR,False
+0,44731,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",9,HK,False
+0,30137,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",9,HK,False
+0,44331,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",10,FR,False
+0,30206,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",10,FR,False
+0,44733,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",11,2R,False
+0,31564,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",11,2R,False
+0,30263,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",12,2R,True
+0,30198,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",12,2R,False
+0,44609,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",13,L,False
+0,30116,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",13,L,True
+0,44339,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",14,B,False
+0,31632,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",15,B,False
+0,44342,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",15,B,False
+0,51817,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",17,B,False
+0,44327,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",16,B,False
+0,52075,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",18,B,False
+0,44817,63051,"Parramatta (W)
+EELS","Gold Coast (W)
+TITANS",17,B,False
+0,30145,63051,"Gold Coast (W)
+TITANS","Parramatta (W)
+EELS",21,B,False
+0,30201,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",1,FB,False
+0,31621,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",1,FB,False
+0,44316,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",2,W,False
+0,30130,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",2,W,False
+0,30214,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",3,C,False
+0,34311,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",3,C,False
+0,34654,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",4,C,False
+0,30335,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",4,C,False
+0,52074,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",5,W,False
+0,51805,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",5,W,False
+0,33460,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",6,FE,False
+0,33977,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",6,FE,False
+0,33991,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",7,HB,False
+0,30135,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",7,HB,True
+0,33983,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",8,FR,False
+0,30275,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",8,FR,False
+0,31568,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",9,HK,False
+0,31577,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,31573,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30143,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",10,FR,False
+0,33614,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30144,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,30252,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",12,2R,False
+0,30337,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",12,2R,False
+0,30163,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",13,L,True
+0,31572,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",13,L,False
+0,51820,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",14,B,False
+0,31565,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",14,B,False
+0,34080,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",15,B,False
+0,44284,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",15,B,False
+0,31569,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",16,B,False
+0,30142,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",16,B,False
+0,44318,63052,"Newcastle (W)
+KNIGHTS","Brisbane (W)
+BRONCOS",17,B,False
+0,33613,63052,"Brisbane (W)
+BRONCOS","Newcastle (W)
+KNIGHTS",17,B,False
+0,30093,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",1,FB,True
+0,30439,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),1,FB,False
+0,38172,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",2,W,False
+0,33608,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),2,W,False
+0,31566,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",3,C,False
+0,31615,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),3,C,False
+0,30149,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",4,C,False
+0,30213,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),4,C,False
+0,51840,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",5,W,False
+0,51830,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),5,W,False
+0,52156,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",6,FE,False
+0,44347,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),6,FE,False
+0,33980,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",7,HB,False
+0,30154,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),7,HB,True
+0,30107,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",8,FR,False
+0,34079,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),8,FR,False
+0,38176,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",9,HK,False
+0,51831,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),9,HK,False
+0,31618,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",10,FR,False
+0,38162,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),10,FR,False
+0,44970,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",11,2R,False
+0,44346,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),11,2R,False
+0,52195,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",12,2R,False
+0,38166,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),12,2R,False
+0,30210,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",13,L,False
+0,38164,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),13,L,False
+0,52177,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",14,B,False
+0,33989,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),14,B,False
+0,44290,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",15,B,False
+0,44969,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),16,B,False
+0,33597,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",16,B,False
+0,52102,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),19,B,False
+0,44358,63054,WESTS TIGERS (W),"St George Illawarra (W)
+DRAGONS",17,B,False
+0,51829,63054,"St George Illawarra (W)
+DRAGONS",WESTS TIGERS (W),22,B,False
+0,31621,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",1,FB,False
+0,31554,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",6,FB,False
+0,30130,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",2,W,False
+0,34026,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",1,W,False
+0,34311,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",3,C,False
+0,30197,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",3,C,True
+0,30335,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",4,C,False
+0,44300,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",4,C,False
+0,51805,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",5,W,False
+0,44307,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",5,W,False
+0,33977,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",6,FE,False
+0,51810,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",22,FE,False
+0,30135,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",7,HB,True
+0,34007,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",7,HB,False
+0,30275,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",8,FR,False
+0,30260,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",8,FR,False
+0,31577,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",9,HK,False
+0,30215,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",9,HK,False
+0,30143,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",10,FR,False
+0,30159,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30144,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",11,2R,False
+0,30262,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30337,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",12,2R,False
+0,44308,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",12,2R,False
+0,31572,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",13,L,False
+0,33982,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",13,L,False
+0,31565,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",14,B,False
+0,44302,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",15,B,False
+0,44284,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",15,B,False
+0,30104,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",16,B,False
+0,30142,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",16,B,False
+0,31558,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",17,B,False
+0,33613,63055,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",17,B,False
+0,30254,63055,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",20,B,False
+0,30269,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",1,FB,False
+0,30201,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",1,FB,False
+0,51813,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",2,W,False
+0,44316,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",2,W,False
+0,30258,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",3,C,False
+0,30214,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",3,C,False
+0,31556,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",4,C,False
+0,34654,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",4,C,False
+0,51819,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",18,W,False
+0,52074,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",5,W,False
+0,44311,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",6,FE,False
+0,33460,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",6,FE,False
+0,52075,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",7,HB,False
+0,33991,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",7,HB,False
+0,30266,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",8,FR,False
+0,33983,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",8,FR,False
+0,30137,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,31568,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",9,HK,False
+0,30206,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",10,FR,False
+0,31573,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",10,FR,False
+0,31564,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,33614,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",11,2R,False
+0,30198,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",12,2R,False
+0,30252,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",12,2R,False
+0,30116,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",13,L,True
+0,30163,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",13,L,True
+0,51818,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",14,B,False
+0,30106,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",14,B,False
+0,31632,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",15,B,False
+0,34080,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",15,B,False
+0,52101,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",16,B,False
+0,31569,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",16,B,False
+0,30145,63056,"Gold Coast (W)
+TITANS","Newcastle (W)
+KNIGHTS",17,B,False
+0,44318,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",17,B,False
+0,51820,63056,"Newcastle (W)
+KNIGHTS","Gold Coast (W)
+TITANS",18,B,False
+0,30148,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",1,FB,False
+0,33456,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30265,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",2,W,False
+0,44326,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",2,W,False
+0,34073,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",3,C,False
+0,34029,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",3,C,False
+0,30096,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",4,C,True
+0,31623,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",4,C,False
+0,44786,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",5,W,False
+0,33605,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",5,W,False
+0,30179,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",6,FE,False
+0,31583,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30257,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",7,HB,False
+0,30184,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",7,HB,True
+0,33984,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",8,FR,False
+0,51824,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",16,FR,False
+0,30161,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",9,HK,False
+0,31585,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",9,HK,False
+0,33602,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",10,FR,False
+0,34133,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",10,FR,False
+0,51836,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",17,2R,False
+0,30272,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",11,2R,False
+0,31570,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",12,2R,False
+0,31560,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",12,2R,False
+0,34030,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",13,L,False
+0,36970,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",13,L,False
+0,30204,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",11,B,False
+0,30175,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",8,B,False
+0,44353,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",14,B,False
+0,31562,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",14,B,False
+0,31588,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",15,B,False
+0,44968,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",15,B,False
+0,30203,63057,"Sydney (W)
+ROOSTERS","North Queensland (W)
+COWBOYS",16,B,False
+0,34333,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",19,B,False
+0,44322,63057,"North Queensland (W)
+COWBOYS","Sydney (W)
+ROOSTERS",18,B,False
+0,30110,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",1,FB,False
+0,31593,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",1,FB,False
+0,30190,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",2,W,False
+0,34006,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",2,W,False
+0,44285,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",3,C,False
+0,51827,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",3,C,False
+0,34334,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",4,C,False
+0,51828,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",4,C,False
+0,30152,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",5,W,False
+0,44333,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",5,W,False
+0,30105,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",6,FE,True
+0,34072,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",6,FE,False
+0,34008,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",7,HB,False
+0,31557,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",7,HB,False
+0,44288,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",8,FR,False
+0,30259,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",8,FR,False
+0,30338,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",9,HK,False
+0,44731,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",9,HK,False
+0,33993,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",10,FR,False
+0,44331,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",10,FR,False
+0,33987,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",11,2R,False
+0,44733,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",11,2R,False
+0,33465,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",12,2R,False
+0,30263,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",12,2R,True
+0,30100,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",13,L,False
+0,44609,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",13,L,False
+0,44287,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",14,B,False
+0,44339,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",14,B,False
+0,51807,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",15,B,False
+0,44342,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",15,B,False
+0,44350,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",16,B,False
+0,44327,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",16,B,False
+0,38156,63058,"Canberra (W)
+RAIDERS","Parramatta (W)
+EELS",17,B,False
+0,44817,63058,"Parramatta (W)
+EELS","Canberra (W)
+RAIDERS",17,B,False
+0,31554,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),1,FB,False
+0,30093,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",1,FB,True
+0,34026,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),2,W,False
+0,38172,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",2,W,False
+0,30197,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),3,C,True
+0,31566,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",3,C,False
+0,44300,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),4,C,False
+0,30149,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",4,C,False
+0,44307,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),5,W,False
+0,51840,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",5,W,False
+0,51810,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),6,FE,False
+0,52156,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",6,FE,False
+0,34007,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),7,HB,False
+0,33980,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",7,HB,False
+0,30260,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),8,FR,False
+0,30107,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",8,FR,False
+0,30215,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),9,HK,False
+0,38176,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",9,HK,False
+0,30159,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),10,FR,False
+0,31618,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",10,FR,False
+0,30262,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),11,2R,False
+0,44970,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",11,2R,False
+0,44308,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),12,2R,False
+0,52118,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",12,2R,False
+0,33982,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),13,L,False
+0,30210,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",13,L,False
+0,30254,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),14,B,False
+0,52177,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",14,B,False
+0,51899,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),15,B,False
+0,33597,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",15,B,False
+0,30104,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),16,B,False
+0,44290,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",16,B,False
+0,31558,63059,"Cronulla (W)
+SHARKS",WESTS TIGERS (W),17,B,False
+0,44358,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",17,B,False
+0,52195,63059,WESTS TIGERS (W),"Cronulla (W)
+SHARKS",18,B,False
+0,30439,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",1,FB,False
+0,31621,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",1,FB,False
+0,44330,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",2,W,False
+0,30130,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",2,W,False
+0,31615,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",3,C,False
+0,34311,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",3,C,False
+0,30213,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",4,C,False
+0,30335,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",4,C,False
+0,33608,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",22,W,False
+0,31561,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",5,W,False
+0,44347,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",6,FE,False
+0,33977,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",6,FE,False
+0,30154,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",7,HB,True
+0,30135,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",7,HB,True
+0,34079,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",8,FR,False
+0,30275,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",8,FR,False
+0,51831,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",13,HK,False
+0,31577,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",9,HK,False
+0,38162,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",15,FR,False
+0,33613,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",10,FR,False
+0,44346,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30144,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",11,2R,False
+0,38166,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",12,2R,False
+0,30337,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",12,2R,False
+0,38164,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",10,L,False
+0,31572,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",13,L,False
+0,38169,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",9,B,False
+0,31565,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",14,B,False
+0,33989,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",14,B,False
+0,30143,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",15,B,False
+0,44969,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",16,B,False
+0,30142,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",16,B,False
+0,30138,63060,"St George Illawarra (W)
+DRAGONS","Brisbane (W)
+BRONCOS",18,B,False
+0,44284,63060,"Brisbane (W)
+BRONCOS","St George Illawarra (W)
+DRAGONS",17,B,False
+0,33456,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",1,FB,False
+0,30201,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",1,FB,False
+0,44322,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",2,W,False
+0,44316,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",2,W,False
+0,34029,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",3,C,False
+0,30214,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",3,C,False
+0,31623,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",4,C,False
+0,34654,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",4,C,False
+0,33605,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",5,W,False
+0,52074,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",5,W,False
+0,31583,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",6,FE,False
+0,33460,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",6,FE,False
+0,30184,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",7,HB,True
+0,33991,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",7,HB,False
+0,44968,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",15,FR,False
+0,31569,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",16,FR,False
+0,31585,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,31568,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",9,HK,False
+0,34133,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",10,FR,False
+0,31573,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",10,FR,False
+0,30272,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,33614,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",11,2R,False
+0,34137,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",12,2R,False
+0,30252,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",12,2R,False
+0,36970,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",13,L,False
+0,30163,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",13,L,True
+0,30175,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",8,B,False
+0,51820,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",14,B,False
+0,31562,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",14,B,False
+0,34080,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",15,B,False
+0,34117,63061,"North Queensland (W)
+COWBOYS","Newcastle (W)
+KNIGHTS",16,B,False
+0,44318,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",17,B,False
+0,52233,63061,"Newcastle (W)
+KNIGHTS","North Queensland (W)
+COWBOYS",19,B,False
+0,30110,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",1,FB,False
+0,30269,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",21,FB,False
+0,30190,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",2,W,False
+0,51813,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",2,W,False
+0,44285,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",3,C,False
+0,30258,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",3,C,False
+0,51808,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",18,C,False
+0,52101,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",4,C,False
+0,30152,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",5,W,False
+0,30097,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",1,W,False
+0,30105,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",6,FE,True
+0,31556,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",6,FE,False
+0,34008,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",7,HB,False
+0,52075,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",7,HB,False
+0,44288,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",8,FR,False
+0,44311,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",16,FR,False
+0,30338,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",9,HK,False
+0,30137,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",9,HK,False
+0,33993,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",10,FR,False
+0,30206,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",10,FR,False
+0,33987,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",11,2R,False
+0,31564,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",11,2R,False
+0,33465,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",12,2R,False
+0,30198,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",12,2R,False
+0,30100,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",13,L,False
+0,30116,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",13,L,True
+0,44287,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",14,B,False
+0,30266,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",8,B,False
+0,51807,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",15,B,False
+0,51818,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",14,B,False
+0,44350,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",16,B,False
+0,31632,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",15,B,False
+0,38156,63062,"Canberra (W)
+RAIDERS","Gold Coast (W)
+TITANS",17,B,False
+0,34119,63062,"Gold Coast (W)
+TITANS","Canberra (W)
+RAIDERS",17,B,False
+0,31593,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30148,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",1,FB,False
+0,34006,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",2,W,False
+0,30265,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",2,W,False
+0,51827,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",3,C,False
+0,34073,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",3,C,False
+0,51828,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",4,C,False
+0,30096,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",4,C,True
+0,44333,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",5,W,False
+0,44786,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",5,W,False
+0,34072,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30179,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",6,FE,False
+0,31557,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",7,HB,False
+0,30257,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",7,HB,False
+0,30259,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",8,FR,False
+0,30203,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",8,FR,False
+0,44731,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",9,HK,False
+0,30161,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",9,HK,False
+0,44331,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",10,FR,False
+0,33984,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",10,FR,False
+0,44733,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",11,2R,False
+0,30204,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",11,2R,False
+0,30263,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",12,2R,True
+0,31570,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",12,2R,False
+0,44609,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",13,L,False
+0,34030,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",13,L,False
+0,44339,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",14,B,False
+0,44353,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",14,B,False
+0,44342,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",15,B,False
+0,33602,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",15,B,False
+0,44327,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",16,B,False
+0,31588,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",16,B,False
+0,44817,63063,"Parramatta (W)
+EELS","Sydney (W)
+ROOSTERS",17,B,False
+0,31622,63063,"Sydney (W)
+ROOSTERS","Parramatta (W)
+EELS",17,B,False
+0,31621,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",1,FB,False
+0,31554,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",1,FB,False
+0,30130,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",2,W,False
+0,34026,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",2,W,False
+0,34311,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",3,C,False
+0,30197,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",3,C,True
+0,30335,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",4,C,False
+0,44300,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",4,C,False
+0,31561,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",5,W,False
+0,44307,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",5,W,False
+0,33977,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",6,FE,False
+0,51810,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",6,FE,False
+0,30135,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",7,HB,True
+0,34007,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",7,HB,False
+0,30275,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",8,FR,False
+0,30260,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",8,FR,False
+0,31577,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",9,HK,False
+0,30215,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",9,HK,False
+0,33613,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",10,FR,False
+0,31558,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",10,FR,False
+0,30144,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",11,2R,False
+0,30262,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",11,2R,False
+0,30103,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",19,2R,False
+0,44308,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",12,2R,False
+0,31572,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",13,L,False
+0,33982,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",13,L,False
+0,31565,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",14,B,False
+0,30254,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",14,B,False
+0,30143,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",15,B,False
+0,44302,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",15,B,False
+0,30142,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",16,B,False
+0,30104,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",16,B,False
+0,44284,103141,"Brisbane (W)
+BRONCOS","Cronulla (W)
+SHARKS",17,B,False
+0,51899,103141,"Cronulla (W)
+SHARKS","Brisbane (W)
+BRONCOS",17,B,False
+0,30148,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",1,FB,False
+0,30201,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30265,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",2,W,False
+0,44316,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",2,W,False
+0,34073,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",3,C,False
+0,30214,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",3,C,False
+0,30096,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",4,C,True
+0,34654,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",4,C,False
+0,30179,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",6,W,False
+0,52074,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",5,W,False
+0,30257,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",7,FE,False
+0,33460,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30205,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",20,HB,False
+0,33991,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",7,HB,False
+0,30203,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",8,FR,False
+0,31569,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",16,FR,False
+0,30161,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",9,HK,False
+0,31568,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",9,HK,False
+0,33984,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",10,FR,False
+0,31573,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",10,FR,False
+0,30204,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",11,2R,False
+0,33614,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",11,2R,False
+0,31570,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",12,2R,False
+0,30252,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",12,2R,False
+0,34030,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",13,L,False
+0,30163,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",13,L,True
+0,44353,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",14,B,False
+0,30106,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",14,B,False
+0,33602,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",15,B,False
+0,34080,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",15,B,False
+0,30274,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",16,B,False
+0,44318,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",17,B,False
+0,30150,103142,"Sydney (W)
+ROOSTERS","Newcastle (W)
+KNIGHTS",19,B,False
+0,52233,103142,"Newcastle (W)
+KNIGHTS","Sydney (W)
+ROOSTERS",19,B,False
+0,30148,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",1,FB,False
+0,31554,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",1,FB,False
+0,30265,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",2,W,False
+0,34026,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",2,W,False
+0,30150,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",3,C,False
+0,30197,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",3,C,True
+0,30096,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",4,C,True
+0,44300,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",4,C,False
+0,30179,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",5,W,False
+0,44307,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",5,W,False
+0,30257,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",6,FE,False
+0,51810,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",6,FE,False
+0,30205,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",7,HB,False
+0,34007,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",7,HB,False
+0,30203,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",8,FR,False
+0,30260,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",8,FR,False
+0,30161,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",9,HK,False
+0,30215,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",9,HK,False
+0,33984,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",10,FR,False
+0,31558,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",17,FR,False
+0,30204,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",11,2R,False
+0,30262,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",11,2R,False
+0,31570,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",12,2R,False
+0,44308,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",12,2R,False
+0,34030,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",13,L,False
+0,33982,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",13,L,False
+0,44353,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",14,B,False
+0,30159,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",10,B,False
+0,34073,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",15,B,False
+0,30254,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",14,B,False
+0,30274,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",16,B,False
+0,51899,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",15,B,False
+0,33602,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",17,B,False
+0,30104,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",16,B,False
+0,44786,103148,"Sydney (W)
+ROOSTERS","Cronulla (W)
+SHARKS",18,B,False
+0,31596,103148,"Cronulla (W)
+SHARKS","Sydney (W)
+ROOSTERS",19,B,False

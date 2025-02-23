@@ -1,0 +1,339 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1967,Round 1,"Saturday, 1st April, 1967",3:00pm (local time),12336,25,"6,495","North Sydney
+BEARS",13,16,,NEWTOWN,5,14,
+0,NSWRFL 1967,Round 1,"Saturday, 1st April, 1967",3:00pm (local time),12335,24,"19,325","St George
+DRAGONS",4,12,15,"Manly Warringah
+SEA EAGLES",9,12,13
+0,NSWRFL 1967,Round 1,"Saturday, 1st April, 1967",3:00pm (local time),12337,112,"7,678","Western Suburbs
+MAGPIES",3,11,,"South Sydney
+RABBITOHS",2,23,
+0,NSWRFL 1967,Round 1,"Sunday, 2nd April, 1967",3:00pm (local time),12338,27,"10,250",CANTERBURY BANKSTOWN,4,15,,"Penrith
+PANTHERS",9,12,
+0,NSWRFL 1967,Round 1,"Sunday, 2nd April, 1967",3:00pm (local time),12340,109,"6,137",EASTERN SUBURBS,2,5,,"Cronulla Sutherland
+SHARKS",2,11,
+0,NSWRFL 1967,Round 1,"Sunday, 2nd April, 1967",3:00pm (local time),12339,111,"20,332","Parramatta
+EELS",6,11,,"Balmain
+TIGERS",10,21,
+0,NSWRFL 1967,Round 2,"Saturday, 8th April, 1967",3:00pm (local time),12342,7,"8,741","Balmain
+TIGERS",13,30,,"Cronulla Sutherland
+SHARKS",6,12,
+0,NSWRFL 1967,Round 2,"Saturday, 8th April, 1967",3:00pm (local time),12341,24,"16,383","Manly Warringah
+SEA EAGLES",7,19,,"North Sydney
+BEARS",12,15,
+0,NSWRFL 1967,Round 2,"Saturday, 8th April, 1967",3:00pm (local time),12343,3,"5,026","Penrith
+PANTHERS",8,16,,NEWTOWN,10,10,
+0,NSWRFL 1967,Round 2,"Sunday, 9th April, 1967",3:00pm (local time),12346,109,"6,454",EASTERN SUBURBS,3,10,,CANTERBURY BANKSTOWN,9,16,
+0,NSWRFL 1967,Round 2,"Sunday, 9th April, 1967",3:00pm (local time),12344,23,"13,220","St George
+DRAGONS",6,20,,"Western Suburbs
+MAGPIES",4,11,
+0,NSWRFL 1967,Round 2,"Sunday, 9th April, 1967",3:00pm (local time),12345,44,"14,712","South Sydney
+RABBITOHS",4,17,11,"Parramatta
+EELS",12,15,18
+0,NSWRFL 1967,Round 3,"Saturday, 15th April, 1967",3:00pm (local time),12347,24,"21,967","Balmain
+TIGERS",7,13,,CANTERBURY BANKSTOWN,6,9,
+0,NSWRFL 1967,Round 3,"Saturday, 15th April, 1967",3:00pm (local time),12349,76,"3,052",NEWTOWN,2,9,,EASTERN SUBURBS,4,9,
+0,NSWRFL 1967,Round 3,"Saturday, 15th April, 1967",3:00pm (local time),12348,44,"8,256","South Sydney
+RABBITOHS",17,23,,"Cronulla Sutherland
+SHARKS",10,15,
+0,NSWRFL 1967,Round 3,"Sunday, 16th April, 1967",3:00pm (local time),12350,5,"9,279","Manly Warringah
+SEA EAGLES",11,17,,"Penrith
+PANTHERS",0,8,
+0,NSWRFL 1967,Round 3,"Sunday, 16th April, 1967",3:00pm (local time),12351,111,"14,907","Parramatta
+EELS",9,14,,"Western Suburbs
+MAGPIES",11,11,
+0,NSWRFL 1967,Round 3,"Sunday, 16th April, 1967",3:00pm (local time),12352,109,"18,098","St George
+DRAGONS",9,17,9,"North Sydney
+BEARS",5,15,18
+0,NSWRFL 1967,Round 4,"Saturday, 22nd April, 1967",3:00pm (local time),12353,165,"5,245","Cronulla Sutherland
+SHARKS",19,23,,"Parramatta
+EELS",2,11,
+0,NSWRFL 1967,Round 4,"Saturday, 22nd April, 1967",3:00pm (local time),12355,24,"24,956","South Sydney
+RABBITOHS",5,9,14,CANTERBURY BANKSTOWN,11,20,12
+0,NSWRFL 1967,Round 4,"Saturday, 22nd April, 1967",3:00pm (local time),12354,112,"6,306","Western Suburbs
+MAGPIES",7,13,,"North Sydney
+BEARS",8,18,
+0,NSWRFL 1967,Round 4,"Sunday, 23rd April, 1967",3:00pm (local time),12357,109,"6,386",EASTERN SUBURBS,6,10,,"Manly Warringah
+SEA EAGLES",4,11,
+0,NSWRFL 1967,Round 4,"Sunday, 23rd April, 1967",3:00pm (local time),12358,76,"10,096",NEWTOWN,5,11,,"Balmain
+TIGERS",4,15,
+0,NSWRFL 1967,Round 4,"Sunday, 23rd April, 1967",3:00pm (local time),12356,3,"12,201","Penrith
+PANTHERS",15,24,,"St George
+DRAGONS",5,12,
+0,NSWRFL 1967,Round 5,"Tuesday, 25th April, 1967",3:00pm (local time),12360,24,"27,935","Balmain
+TIGERS",4,13,12,"Manly Warringah
+SEA EAGLES",11,15,9
+0,NSWRFL 1967,Round 5,"Tuesday, 25th April, 1967",3:00pm (local time),12361,27,"16,347",CANTERBURY BANKSTOWN,4,13,,"Parramatta
+EELS",2,10,
+0,NSWRFL 1967,Round 5,"Tuesday, 25th April, 1967",3:00pm (local time),12359,25,"9,627","North Sydney
+BEARS",9,18,8,"Penrith
+PANTHERS",4,6,18
+0,NSWRFL 1967,Round 5,"Tuesday, 25th April, 1967",3:00pm (local time),12364,23,"7,942","St George
+DRAGONS",8,22,,EASTERN SUBURBS,2,7,
+0,NSWRFL 1967,Round 5,"Tuesday, 25th April, 1967",3:00pm (local time),12362,44,"9,834","South Sydney
+RABBITOHS",6,15,,NEWTOWN,12,17,
+0,NSWRFL 1967,Round 5,"Tuesday, 25th April, 1967",3:00pm (local time),12363,110,"5,037","Western Suburbs
+MAGPIES",17,19,,"Cronulla Sutherland
+SHARKS",2,7,
+0,NSWRFL 1967,Round 6,"Saturday, 29th April, 1967",3:00pm (local time),12366,24,"32,560","Balmain
+TIGERS",4,9,,"St George
+DRAGONS",15,25,
+0,NSWRFL 1967,Round 6,"Saturday, 29th April, 1967",3:00pm (local time),12367,165,"7,020","Cronulla Sutherland
+SHARKS",11,15,,CANTERBURY BANKSTOWN,7,29,
+0,NSWRFL 1967,Round 6,"Saturday, 29th April, 1967",3:00pm (local time),12365,76,"5,377",NEWTOWN,13,15,,"Parramatta
+EELS",5,10,
+0,NSWRFL 1967,Round 6,"Sunday, 30th April, 1967",3:00pm (local time),12370,109,"7,983",EASTERN SUBURBS,9,17,,"North Sydney
+BEARS",7,11,
+0,NSWRFL 1967,Round 6,"Sunday, 30th April, 1967",3:00pm (local time),12368,5,"14,175","Manly Warringah
+SEA EAGLES",9,21,,"South Sydney
+RABBITOHS",11,23,
+0,NSWRFL 1967,Round 6,"Sunday, 30th April, 1967",3:00pm (local time),12369,3,"9,541","Penrith
+PANTHERS",7,12,,"Western Suburbs
+MAGPIES",9,16,
+0,NSWRFL 1967,Round 7,"Sunday, 7th May, 1967",3:00pm (local time),12375,76,"3,870",NEWTOWN,18,29,,"Cronulla Sutherland
+SHARKS",4,9,
+0,NSWRFL 1967,Round 7,"Sunday, 7th May, 1967",3:00pm (local time),12373,25,"10,441","North Sydney
+BEARS",5,10,,"Balmain
+TIGERS",9,27,
+0,NSWRFL 1967,Round 7,"Sunday, 7th May, 1967",3:00pm (local time),12371,111,"12,165","Parramatta
+EELS",4,11,,"Manly Warringah
+SEA EAGLES",10,24,
+0,NSWRFL 1967,Round 7,"Sunday, 7th May, 1967",3:00pm (local time),12376,3,"7,290","Penrith
+PANTHERS",5,10,15,EASTERN SUBURBS,7,26,8
+0,NSWRFL 1967,Round 7,"Sunday, 7th May, 1967",3:00pm (local time),12372,109,"21,745","South Sydney
+RABBITOHS",4,12,,"St George
+DRAGONS",7,9,
+0,NSWRFL 1967,Round 7,"Sunday, 7th May, 1967",3:00pm (local time),12374,110,"10,827","Western Suburbs
+MAGPIES",4,18,,CANTERBURY BANKSTOWN,7,24,
+0,NSWRFL 1967,Round 8,"Saturday, 13th May, 1967",3:00pm (local time),12377,44,"11,909","South Sydney
+RABBITOHS",9,34,12,"North Sydney
+BEARS",12,14,13
+0,NSWRFL 1967,Round 8,"Saturday, 13th May, 1967",3:00pm (local time),12378,112,"4,952","Western Suburbs
+MAGPIES",8,10,,EASTERN SUBURBS,10,15,
+0,NSWRFL 1967,Round 8,"Sunday, 14th May, 1967",3:00pm (local time),12379,7,"9,351","Balmain
+TIGERS",12,15,,"Penrith
+PANTHERS",0,5,
+0,NSWRFL 1967,Round 8,"Sunday, 14th May, 1967",3:00pm (local time),12380,109,"12,391",CANTERBURY BANKSTOWN,14,30,,NEWTOWN,4,6,
+0,NSWRFL 1967,Round 8,"Sunday, 14th May, 1967",3:00pm (local time),12382,5,"6,726","Manly Warringah
+SEA EAGLES",14,39,,"Cronulla Sutherland
+SHARKS",2,5,
+0,NSWRFL 1967,Round 8,"Sunday, 14th May, 1967",3:00pm (local time),12381,23,"9,138","St George
+DRAGONS",17,23,,"Parramatta
+EELS",6,18,
+0,NSWRFL 1967,Round 9,"Sunday, 21st May, 1967",3:00pm (local time),12386,7,"9,810","Balmain
+TIGERS",12,17,,EASTERN SUBURBS,2,7,
+0,NSWRFL 1967,Round 9,"Sunday, 21st May, 1967",3:00pm (local time),12387,109,"22,237",CANTERBURY BANKSTOWN,6,20,,"Manly Warringah
+SEA EAGLES",5,9,
+0,NSWRFL 1967,Round 9,"Sunday, 21st May, 1967",3:00pm (local time),12383,76,"4,902",NEWTOWN,2,2,,"Western Suburbs
+MAGPIES",4,18,
+0,NSWRFL 1967,Round 9,"Sunday, 21st May, 1967",3:00pm (local time),12384,25,"6,794","North Sydney
+BEARS",5,5,,"Parramatta
+EELS",4,17,
+0,NSWRFL 1967,Round 9,"Sunday, 21st May, 1967",3:00pm (local time),12385,3,"10,300","Penrith
+PANTHERS",0,0,,"South Sydney
+RABBITOHS",10,39,
+0,NSWRFL 1967,Round 9,"Sunday, 21st May, 1967",3:00pm (local time),12388,23,"7,388","St George
+DRAGONS",5,20,4,"Cronulla Sutherland
+SHARKS",7,9,15
+0,NSWRFL 1967,Round 10,"Saturday, 27th May, 1967",3:00pm (local time),12389,7,"10,408","Balmain
+TIGERS",2,6,,"Western Suburbs
+MAGPIES",4,6,
+0,NSWRFL 1967,Round 10,"Saturday, 27th May, 1967",3:00pm (local time),12390,24,"42,360",CANTERBURY BANKSTOWN,8,8,,"St George
+DRAGONS",9,26,
+0,NSWRFL 1967,Round 10,"Saturday, 27th May, 1967",3:00pm (local time),12391,165,"3,050","Cronulla Sutherland
+SHARKS",7,19,,"North Sydney
+BEARS",2,13,
+0,NSWRFL 1967,Round 10,"Sunday, 28th May, 1967",3:00pm (local time),12394,109,"17,363",EASTERN SUBURBS,7,9,,"South Sydney
+RABBITOHS",4,6,
+0,NSWRFL 1967,Round 10,"Sunday, 28th May, 1967",3:00pm (local time),12392,5,"8,121","Manly Warringah
+SEA EAGLES",9,21,,NEWTOWN,8,15,
+0,NSWRFL 1967,Round 10,"Sunday, 28th May, 1967",3:00pm (local time),12393,111,"12,917","Parramatta
+EELS",10,25,,"Penrith
+PANTHERS",0,2,
+0,NSWRFL 1967,Round 11,"Sunday, 4th June, 1967",3:00pm (local time),12396,165,"5,602","Cronulla Sutherland
+SHARKS",6,10,,"Penrith
+PANTHERS",7,13,
+0,NSWRFL 1967,Round 11,"Sunday, 4th June, 1967",3:00pm (local time),12395,76,"7,746",NEWTOWN,4,7,14,"St George
+DRAGONS",17,42,11
+0,NSWRFL 1967,Round 11,"Sunday, 4th June, 1967",3:00pm (local time),12399,25,"8,131","North Sydney
+BEARS",4,16,,CANTERBURY BANKSTOWN,9,31,
+0,NSWRFL 1967,Round 11,"Sunday, 4th June, 1967",3:00pm (local time),12400,111,"13,211","Parramatta
+EELS",5,10,5,EASTERN SUBURBS,12,16,17
+0,NSWRFL 1967,Round 11,"Sunday, 4th June, 1967",3:00pm (local time),12398,109,"31,095","South Sydney
+RABBITOHS",17,24,,"Balmain
+TIGERS",7,15,
+0,NSWRFL 1967,Round 11,"Sunday, 4th June, 1967",3:00pm (local time),12397,110,"9,303","Western Suburbs
+MAGPIES",2,13,,"Manly Warringah
+SEA EAGLES",5,8,
+0,NSWRFL 1967,Round 12,"Sunday, 11th June, 1967",3:00pm (local time),12401,109,"22,832","South Sydney
+RABBITOHS",4,6,,"Western Suburbs
+MAGPIES",3,9,
+0,NSWRFL 1967,Round 12,"Monday, 12th June, 1967",3:00pm (local time),12403,165,"3,000","Cronulla Sutherland
+SHARKS",2,4,,EASTERN SUBURBS,8,11,
+0,NSWRFL 1967,Round 12,"Monday, 12th June, 1967",3:00pm (local time),12402,24,"22,931","Manly Warringah
+SEA EAGLES",8,12,15,"St George
+DRAGONS",9,16,13
+0,NSWRFL 1967,Round 12,"Monday, 12th June, 1967",3:00pm (local time),12404,3,"7,684","Penrith
+PANTHERS",2,2,26,CANTERBURY BANKSTOWN,0,7,9
+0,NSWRFL 1967,Round 13,"Saturday, 17th June, 1967",3:00pm (local time),12408,24,"17,245",CANTERBURY BANKSTOWN,0,2,,EASTERN SUBURBS,13,18,
+0,NSWRFL 1967,Round 13,"Saturday, 17th June, 1967",3:00pm (local time),12409,165,"4,717","Cronulla Sutherland
+SHARKS",6,6,,"Balmain
+TIGERS",3,6,
+0,NSWRFL 1967,Round 13,"Saturday, 17th June, 1967",3:00pm (local time),12407,76,"1,364",NEWTOWN,12,15,,"Penrith
+PANTHERS",5,5,
+0,NSWRFL 1967,Round 13,"Sunday, 18th June, 1967",3:00pm (local time),12411,25,"7,533","North Sydney
+BEARS",5,9,8,"Manly Warringah
+SEA EAGLES",0,3,23
+0,NSWRFL 1967,Round 13,"Sunday, 18th June, 1967",3:00pm (local time),12410,111,"14,025","Parramatta
+EELS",11,13,,"South Sydney
+RABBITOHS",11,23,
+0,NSWRFL 1967,Round 13,"Sunday, 18th June, 1967",3:00pm (local time),12412,109,"20,204","Western Suburbs
+MAGPIES",7,9,13,"St George
+DRAGONS",10,15,16
+0,NSWRFL 1967,Round 14,"Saturday, 24th June, 1967",3:00pm (local time),12414,24,"17,235",CANTERBURY BANKSTOWN,2,6,,"Balmain
+TIGERS",4,8,
+0,NSWRFL 1967,Round 14,"Saturday, 24th June, 1967",3:00pm (local time),12413,25,"5,515","North Sydney
+BEARS",4,9,17,"St George
+DRAGONS",4,11,11
+0,NSWRFL 1967,Round 14,"Sunday, 25th June, 1967",3:00pm (local time),12415,165,"10,094","Cronulla Sutherland
+SHARKS",7,14,7,"South Sydney
+RABBITOHS",4,29,13
+0,NSWRFL 1967,Round 14,"Sunday, 25th June, 1967",3:00pm (local time),12416,109,"11,409",EASTERN SUBURBS,2,5,12,NEWTOWN,2,7,7
+0,NSWRFL 1967,Round 14,"Sunday, 25th June, 1967",3:00pm (local time),12417,3,"4,856","Penrith
+PANTHERS",8,10,14,"Manly Warringah
+SEA EAGLES",3,8,12
+0,NSWRFL 1967,Round 14,"Sunday, 25th June, 1967",3:00pm (local time),12418,110,"12,067","Western Suburbs
+MAGPIES",3,9,,"Parramatta
+EELS",7,7,
+0,NSWRFL 1967,Round 12,"Tuesday, 27th June, 1967",3:15pm (local time),12405,44,"5,203","Balmain
+TIGERS",4,6,16,"Parramatta
+EELS",7,11,8
+0,NSWRFL 1967,Round 15,"Saturday, 1st July, 1967",3:00pm (local time),12420,24,"26,430",CANTERBURY BANKSTOWN,8,10,7,"South Sydney
+RABBITOHS",6,23,13
+0,NSWRFL 1967,Round 15,"Saturday, 1st July, 1967",3:00pm (local time),12419,25,"5,363","North Sydney
+BEARS",0,2,,"Western Suburbs
+MAGPIES",0,12,
+0,NSWRFL 1967,Round 15,"Saturday, 1st July, 1967",3:00pm (local time),12421,23,"7,537","St George
+DRAGONS",10,25,8,"Penrith
+PANTHERS",0,2,9
+0,NSWRFL 1967,Round 15,"Sunday, 2nd July, 1967",3:00pm (local time),12422,7,"10,654","Balmain
+TIGERS",12,28,,NEWTOWN,12,19,
+0,NSWRFL 1967,Round 15,"Sunday, 2nd July, 1967",3:00pm (local time),12424,109,"13,037","Manly Warringah
+SEA EAGLES",7,7,,EASTERN SUBURBS,3,10,
+0,NSWRFL 1967,Round 15,"Sunday, 2nd July, 1967",3:00pm (local time),12423,111,"7,625","Parramatta
+EELS",2,15,5,"Cronulla Sutherland
+SHARKS",7,10,14
+0,NSWRFL 1967,Round 12,"Thursday, 6th July, 1967",3:15pm (local time),12406,44,"1,269",NEWTOWN,0,0,,"North Sydney
+BEARS",12,24,
+0,NSWRFL 1967,Round 16,"Sunday, 9th July, 1967",3:00pm (local time),12426,165,"4,983","Cronulla Sutherland
+SHARKS",0,0,,"Western Suburbs
+MAGPIES",19,26,
+0,NSWRFL 1967,Round 16,"Sunday, 9th July, 1967",3:00pm (local time),12427,109,"18,073",EASTERN SUBURBS,6,15,,"St George
+DRAGONS",7,9,
+0,NSWRFL 1967,Round 16,"Sunday, 9th July, 1967",3:00pm (local time),12429,5,"11,663","Manly Warringah
+SEA EAGLES",4,7,,"Balmain
+TIGERS",9,17,
+0,NSWRFL 1967,Round 16,"Sunday, 9th July, 1967",3:00pm (local time),12425,76,"6,944",NEWTOWN,5,10,,"South Sydney
+RABBITOHS",14,31,
+0,NSWRFL 1967,Round 16,"Sunday, 9th July, 1967",3:00pm (local time),12430,111,"15,632","Parramatta
+EELS",2,8,,CANTERBURY BANKSTOWN,0,7,
+0,NSWRFL 1967,Round 16,"Sunday, 9th July, 1967",3:00pm (local time),12428,3,"4,324","Penrith
+PANTHERS",7,12,,"North Sydney
+BEARS",2,12,
+0,NSWRFL 1967,Round 17,"Saturday, 15th July, 1967",3:00pm (local time),12431,27,"7,309",CANTERBURY BANKSTOWN,13,25,,"Cronulla Sutherland
+SHARKS",4,6,
+0,NSWRFL 1967,Round 17,"Saturday, 15th July, 1967",3:00pm (local time),12432,103,"23,728","St George
+DRAGONS",7,15,7,"Balmain
+TIGERS",8,13,13
+0,NSWRFL 1967,Round 17,"Sunday, 16th July, 1967",3:00pm (local time),12436,25,"7,566","North Sydney
+BEARS",5,10,,EASTERN SUBURBS,10,25,
+0,NSWRFL 1967,Round 17,"Sunday, 16th July, 1967",3:00pm (local time),12434,111,"10,121","Parramatta
+EELS",,32,,NEWTOWN,,7,
+0,NSWRFL 1967,Round 17,"Sunday, 16th July, 1967",3:00pm (local time),12433,109,"19,187","South Sydney
+RABBITOHS",5,13,,"Manly Warringah
+SEA EAGLES",5,17,
+0,NSWRFL 1967,Round 17,"Sunday, 16th July, 1967",3:00pm (local time),12435,110,"6,013","Western Suburbs
+MAGPIES",6,10,,"Penrith
+PANTHERS",0,4,
+0,NSWRFL 1967,Round 18,"Saturday, 22nd July, 1967",3:00pm (local time),12438,7,"7,340","Balmain
+TIGERS",12,34,,"North Sydney
+BEARS",4,7,
+0,NSWRFL 1967,Round 18,"Saturday, 22nd July, 1967",3:00pm (local time),12437,24,"50,153","St George
+DRAGONS",3,13,12,"South Sydney
+RABBITOHS",12,20,12
+0,NSWRFL 1967,Round 18,"Sunday, 23rd July, 1967",3:00pm (local time),12440,27,"16,413",CANTERBURY BANKSTOWN,6,12,12,"Western Suburbs
+MAGPIES",2,2,10
+0,NSWRFL 1967,Round 18,"Sunday, 23rd July, 1967",3:00pm (local time),12441,165,"3,049","Cronulla Sutherland
+SHARKS",7,9,16,NEWTOWN,13,22,12
+0,NSWRFL 1967,Round 18,"Sunday, 23rd July, 1967",3:00pm (local time),12442,109,"9,303",EASTERN SUBURBS,6,12,,"Penrith
+PANTHERS",10,12,
+0,NSWRFL 1967,Round 18,"Sunday, 23rd July, 1967",3:00pm (local time),12439,5,"11,108","Manly Warringah
+SEA EAGLES",15,27,,"Parramatta
+EELS",2,9,
+0,NSWRFL 1967,Round 19,"Saturday, 29th July, 1967",3:00pm (local time),12445,24,"17,849",EASTERN SUBURBS,6,8,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1967,Round 19,"Saturday, 29th July, 1967",3:00pm (local time),12443,25,"7,097","North Sydney
+BEARS",8,18,,"South Sydney
+RABBITOHS",2,17,
+0,NSWRFL 1967,Round 19,"Saturday, 29th July, 1967",3:00pm (local time),12444,111,"13,202","Parramatta
+EELS",7,16,,"St George
+DRAGONS",7,24,
+0,NSWRFL 1967,Round 19,"Sunday, 30th July, 1967",3:00pm (local time),12446,165,"3,717","Cronulla Sutherland
+SHARKS",0,7,,"Manly Warringah
+SEA EAGLES",20,27,
+0,NSWRFL 1967,Round 19,"Sunday, 30th July, 1967",3:00pm (local time),12448,76,"8,450",NEWTOWN,14,21,,CANTERBURY BANKSTOWN,8,12,
+0,NSWRFL 1967,Round 19,"Sunday, 30th July, 1967",3:00pm (local time),12447,109,"13,173","Penrith
+PANTHERS",3,10,,"Balmain
+TIGERS",13,23,
+0,NSWRFL 1967,Round 20,"Saturday, 5th August, 1967",3:00pm (local time),12449,165,"3,936","Cronulla Sutherland
+SHARKS",22,6,,"St George
+DRAGONS",6,42,
+0,NSWRFL 1967,Round 20,"Saturday, 5th August, 1967",3:00pm (local time),12451,24,"22,405",EASTERN SUBURBS,10,15,,"Balmain
+TIGERS",0,4,
+0,NSWRFL 1967,Round 20,"Saturday, 5th August, 1967",3:00pm (local time),12450,112,"2,560","Western Suburbs
+MAGPIES",5,12,,NEWTOWN,8,12,
+0,NSWRFL 1967,Round 20,"Sunday, 6th August, 1967",3:00pm (local time),12453,109,"3,073","Manly Warringah
+SEA EAGLES",6,13,,CANTERBURY BANKSTOWN,13,13,
+0,NSWRFL 1967,Round 20,"Sunday, 6th August, 1967",3:00pm (local time),12452,44,"1,772","South Sydney
+RABBITOHS",9,14,16,"Penrith
+PANTHERS",7,7,11
+0,NSWRFL 1967,Round 20,"Wednesday, 9th August, 1967",3:15pm (local time),12454,111,"4,064","Parramatta
+EELS",11,14,,"North Sydney
+BEARS",0,15,
+0,NSWRFL 1967,Round 21,"Saturday, 12th August, 1967",3:00pm (local time),12455,76,"2,788",NEWTOWN,2,11,,"Manly Warringah
+SEA EAGLES",13,22,
+0,NSWRFL 1967,Round 21,"Saturday, 12th August, 1967",3:00pm (local time),12456,3,"5,368","Penrith
+PANTHERS",7,9,,"Parramatta
+EELS",8,18,
+0,NSWRFL 1967,Round 21,"Saturday, 12th August, 1967",3:00pm (local time),12457,24,"43,469","South Sydney
+RABBITOHS",6,10,5,EASTERN SUBURBS,0,4,10
+0,NSWRFL 1967,Round 21,"Sunday, 13th August, 1967",3:00pm (local time),12460,25,"3,458","North Sydney
+BEARS",22,30,,"Cronulla Sutherland
+SHARKS",6,6,
+0,NSWRFL 1967,Round 21,"Sunday, 13th August, 1967",3:00pm (local time),12459,109,"19,083","St George
+DRAGONS",2,14,,CANTERBURY BANKSTOWN,14,18,
+0,NSWRFL 1967,Round 21,"Sunday, 13th August, 1967",3:00pm (local time),12458,110,"11,535","Western Suburbs
+MAGPIES",8,16,,"Balmain
+TIGERS",8,14,
+0,NSWRFL 1967,Round 22,"Saturday, 19th August, 1967",3:00pm (local time),12461,24,"43,016","Balmain
+TIGERS",6,10,15,"South Sydney
+RABBITOHS",0,11,8
+0,NSWRFL 1967,Round 22,"Saturday, 19th August, 1967",3:00pm (local time),12463,3,"2,793","Penrith
+PANTHERS",20,22,,"Cronulla Sutherland
+SHARKS",2,5,
+0,NSWRFL 1967,Round 22,"Saturday, 19th August, 1967",3:00pm (local time),12462,23,"9,171","St George
+DRAGONS",10,25,,NEWTOWN,2,15,
+0,NSWRFL 1967,Round 22,"Sunday, 20th August, 1967",3:00pm (local time),12465,27,"12,169",CANTERBURY BANKSTOWN,9,22,,"North Sydney
+BEARS",10,10,
+0,NSWRFL 1967,Round 22,"Sunday, 20th August, 1967",3:00pm (local time),12466,109,"17,388",EASTERN SUBURBS,13,15,,"Parramatta
+EELS",7,14,
+0,NSWRFL 1967,Round 22,"Sunday, 20th August, 1967",3:00pm (local time),12464,5,"10,322","Manly Warringah
+SEA EAGLES",11,26,,"Western Suburbs
+MAGPIES",3,11,
+0,NSWRFL 1967,Minor Semi,"Saturday, 26th August, 1967",3:00pm (local time),12467,24,"47,186",CANTERBURY BANKSTOWN,5,13,6,EASTERN SUBURBS,2,2,17
+0,NSWRFL 1967,Major Semi,"Saturday, 2nd September, 1967",3:00pm (local time),12468,24,"51,915","South Sydney
+RABBITOHS",6,13,13,"St George
+DRAGONS",3,8,11
+0,NSWRFL 1967,Prelim Final,"Saturday, 9th September, 1967",3:00pm (local time),12469,24,"49,941",CANTERBURY BANKSTOWN,10,12,10,"St George
+DRAGONS",9,11,8
+0,NSWRFL 1967,Grand Final,"Saturday, 16th September, 1967",3:00pm (local time),12470,24,"56,358","South Sydney
+RABBITOHS",10,12,7,CANTERBURY BANKSTOWN,8,10,7

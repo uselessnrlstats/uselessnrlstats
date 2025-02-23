@@ -1,0 +1,468 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2020,Round 1,"Thursday, 12th March, 2020",8:05pm (local time),40159,940,"21,363","Parramatta
+EELS",2,8,,"Canterbury Bankstown
+BULLDOGS",2,2,
+0,NRL 2020,Round 1,"Friday, 13th March, 2020",6:00pm (local time),40160,4,"10,610","Canberra
+RAIDERS",18,24,,"Gold Coast
+TITANS",0,6,
+0,NRL 2020,Round 1,"Friday, 13th March, 2020",7:05pm (local time),40161,985,"22,459","North Queensland
+COWBOYS",9,21,,"Brisbane
+BRONCOS",12,28,
+0,NRL 2020,Round 1,"Saturday, 14th March, 2020",3:00pm (local time),40162,11,"10,239","Newcastle
+KNIGHTS",10,20,,WARRIORS,0,0,
+0,NRL 2020,Round 1,"Saturday, 14th March, 2020",5:30pm (local time),40163,20,"6,235","South Sydney
+RABBITOHS",16,22,,"Cronulla Sutherland
+SHARKS",8,18,
+0,NRL 2020,Round 1,"Saturday, 14th March, 2020",7:35pm (local time),40164,3,"10,160","Penrith
+PANTHERS",6,20,,"Sydney
+ROOSTERS",12,14,
+0,NRL 2020,Round 1,"Sunday, 15th March, 2020",4:05pm (local time),40165,5,"10,315","Manly Warringah
+SEA EAGLES",4,4,,"Melbourne
+STORM",2,18,
+0,NRL 2020,Round 1,"Sunday, 15th March, 2020",6:15pm (local time),40166,21,"9,137","St George Illawarra
+DRAGONS",12,14,,WESTS TIGERS,8,24,
+0,NRL 2020,Round 2,"Thursday, 19th March, 2020",8:05pm (local time),40167,20,3,"Canterbury Bankstown
+BULLDOGS",6,16,,"North Queensland
+COWBOYS",22,24,
+0,NRL 2020,Round 2,"Friday, 20th March, 2020",6:00pm (local time),40168,23,0,"St George Illawarra
+DRAGONS",16,28,,"Penrith
+PANTHERS",12,32,
+0,NRL 2020,Round 2,"Friday, 20th March, 2020",7:05pm (local time),40169,1097,0,"Brisbane
+BRONCOS",10,22,,"South Sydney
+RABBITOHS",12,18,
+0,NRL 2020,Round 2,"Saturday, 21st March, 2020",2:00pm (local time),40170,149,0,WARRIORS,0,6,,"Canberra
+RAIDERS",6,20,
+0,NRL 2020,Round 2,"Saturday, 21st March, 2020",5:30pm (local time),40171,7,0,"Sydney
+ROOSTERS",6,8,,"Manly Warringah
+SEA EAGLES",6,9,
+0,NRL 2020,Round 2,"Saturday, 21st March, 2020",7:35pm (local time),40172,23,0,"Cronulla Sutherland
+SHARKS",4,10,,"Melbourne
+STORM",2,12,
+0,NRL 2020,Round 2,"Sunday, 22nd March, 2020",4:05pm (local time),40173,7,0,WESTS TIGERS,12,24,,"Newcastle
+KNIGHTS",18,42,
+0,NRL 2020,Round 2,"Sunday, 22nd March, 2020",5:15pm (local time),40174,149,0,"Gold Coast
+TITANS",6,6,,"Parramatta
+EELS",14,46,
+0,NRL 2020,Round 3,"Thursday, 28th May, 2020",7:50pm (local time),40175,1097,0,"Brisbane
+BRONCOS",6,6,,"Parramatta
+EELS",12,34,
+0,NRL 2020,Round 3,"Friday, 29th May, 2020",6:00pm (local time),40176,985,0,"North Queensland
+COWBOYS",14,36,,"Gold Coast
+TITANS",6,6,
+0,NRL 2020,Round 3,"Friday, 29th May, 2020",7:55pm (local time),40177,940,0,"Sydney
+ROOSTERS",12,28,,"South Sydney
+RABBITOHS",6,12,
+0,NRL 2020,Round 3,"Saturday, 30th May, 2020",3:00pm (local time),40178,26,0,WARRIORS,12,18,,"St George Illawarra
+DRAGONS",0,0,
+0,NRL 2020,Round 3,"Saturday, 30th May, 2020",5:30pm (local time),40179,940,0,"Cronulla Sutherland
+SHARKS",16,16,,WESTS TIGERS,10,28,
+0,NRL 2020,Round 3,"Saturday, 30th May, 2020",7:35pm (local time),40180,251,0,"Melbourne
+STORM",6,6,,"Canberra
+RAIDERS",18,22,
+0,NRL 2020,Round 3,"Sunday, 31st May, 2020",4:05pm (local time),40181,19,0,"Penrith
+PANTHERS",14,14,,"Newcastle
+KNIGHTS",4,14,
+0,NRL 2020,Round 3,"Sunday, 31st May, 2020",6:30pm (local time),40182,26,0,"Manly Warringah
+SEA EAGLES",14,32,,"Canterbury Bankstown
+BULLDOGS",0,6,
+0,NRL 2020,Round 4,"Thursday, 4th June, 2020",7:50pm (local time),40183,1097,0,"Brisbane
+BRONCOS",0,0,,"Sydney
+ROOSTERS",29,59,
+0,NRL 2020,Round 4,"Friday, 5th June, 2020",6:00pm (local time),40184,19,0,"Penrith
+PANTHERS",16,26,,WARRIORS,0,0,
+0,NRL 2020,Round 4,"Friday, 5th June, 2020",7:50pm (local time),40185,251,0,"Melbourne
+STORM",8,22,,"South Sydney
+RABBITOHS",6,8,
+0,NRL 2020,Round 4,"Saturday, 6th June, 2020",5:30pm (local time),40186,940,0,"Parramatta
+EELS",12,19,,"Manly Warringah
+SEA EAGLES",2,16,
+0,NRL 2020,Round 4,"Saturday, 6th June, 2020",7:35pm (local time),40187,985,0,"North Queensland
+COWBOYS",6,16,,"Cronulla Sutherland
+SHARKS",12,26,
+0,NRL 2020,Round 4,"Sunday, 7th June, 2020",4:05pm (local time),40188,19,0,"Canberra
+RAIDERS",6,18,,"Newcastle
+KNIGHTS",16,34,
+0,NRL 2020,Round 4,"Sunday, 7th June, 2020",6:30pm (local time),40189,1097,0,"Gold Coast
+TITANS",12,28,,WESTS TIGERS,12,23,
+0,NRL 2020,Round 4,"Monday, 8th June, 2020",4:05pm (local time),40258,940,0,"Canterbury Bankstown
+BULLDOGS",10,22,,"St George Illawarra
+DRAGONS",2,2,
+0,NRL 2020,Round 5,"Thursday, 11th June, 2020",7:50pm (local time),40190,26,178,"Manly Warringah
+SEA EAGLES",4,20,,"Brisbane
+BRONCOS",18,18,
+0,NRL 2020,Round 5,"Friday, 12th June, 2020",6:00pm (local time),40191,26,21,WARRIORS,17,37,,"North Queensland
+COWBOYS",12,26,
+0,NRL 2020,Round 5,"Friday, 12th June, 2020",7:55pm (local time),40192,940,507,"Parramatta
+EELS",0,16,,"Penrith
+PANTHERS",10,10,
+0,NRL 2020,Round 5,"Saturday, 13th June, 2020",3:00pm (local time),40193,940,415,"South Sydney
+RABBITOHS",26,32,,"Gold Coast
+TITANS",6,12,
+0,NRL 2020,Round 5,"Saturday, 13th June, 2020",5:30pm (local time),40263,26,194,"Newcastle
+KNIGHTS",2,12,,"Melbourne
+STORM",18,26,
+0,NRL 2020,Round 5,"Saturday, 13th June, 2020",7:35pm (local time),40195,19,109,WESTS TIGERS,4,6,,"Canberra
+RAIDERS",0,14,
+0,NRL 2020,Round 5,"Sunday, 14th June, 2020",4:05pm (local time),40197,19,103,"St George Illawarra
+DRAGONS",18,30,,"Cronulla Sutherland
+SHARKS",10,16,
+0,NRL 2020,Round 5,"Monday, 15th June, 2020",7:00pm (local time),40196,940,366,"Canterbury Bankstown
+BULLDOGS",0,6,,"Sydney
+ROOSTERS",24,42,
+0,NRL 2020,Round 6,"Thursday, 18th June, 2020",7:50pm (local time),40194,26,167,"Newcastle
+KNIGHTS",13,27,,"Brisbane
+BRONCOS",6,6,
+0,NRL 2020,Round 6,"Friday, 19th June, 2020",6:00pm (local time),40198,940,437,"South Sydney
+RABBITOHS",22,40,,WARRIORS,6,12,
+0,NRL 2020,Round 6,"Friday, 19th June, 2020",7:50pm (local time),40199,19,115,"Penrith
+PANTHERS",8,21,,"Melbourne
+STORM",6,14,
+0,NRL 2020,Round 6,"Saturday, 20th June, 2020",3:00pm (local time),40200,1097,"1,930","Gold Coast
+TITANS",2,8,,"St George Illawarra
+DRAGONS",14,20,
+0,NRL 2020,Round 6,"Saturday, 20th June, 2020",5:30pm (local time),40201,19,104,WESTS TIGERS,34,36,,"North Queensland
+COWBOYS",0,20,
+0,NRL 2020,Round 6,"Saturday, 20th June, 2020",7:35pm (local time),40202,940,579,"Sydney
+ROOSTERS",8,24,,"Parramatta
+EELS",0,10,
+0,NRL 2020,Round 6,"Sunday, 21st June, 2020",4:05pm (local time),40203,19,0,"Canberra
+RAIDERS",0,6,,"Manly Warringah
+SEA EAGLES",12,14,
+0,NRL 2020,Round 6,"Sunday, 21st June, 2020",6:30pm (local time),40204,940,410,"Cronulla Sutherland
+SHARKS",6,20,,"Canterbury Bankstown
+BULLDOGS",6,18,
+0,NRL 2020,Round 7,"Thursday, 25th June, 2020",7:50pm (local time),40205,23,106,"Penrith
+PANTHERS",8,20,,"South Sydney
+RABBITOHS",0,12,
+0,NRL 2020,Round 7,"Friday, 26th June, 2020",6:00pm (local time),40206,23,90,"Melbourne
+STORM",22,50,,WARRIORS,0,6,
+0,NRL 2020,Round 7,"Friday, 26th June, 2020",7:55pm (local time),40207,940,494,"Sydney
+ROOSTERS",10,26,,"St George Illawarra
+DRAGONS",10,12,
+0,NRL 2020,Round 7,"Saturday, 27th June, 2020",3:00pm (local time),40208,985,"1,853","North Queensland
+COWBOYS",26,32,,"Newcastle
+KNIGHTS",0,20,
+0,NRL 2020,Round 7,"Saturday, 27th June, 2020",5:30pm (local time),40209,1097,"6,262","Brisbane
+BRONCOS",0,12,,"Gold Coast
+TITANS",22,30,
+0,NRL 2020,Round 7,"Saturday, 27th June, 2020",7:35pm (local time),40210,940,560,"Parramatta
+EELS",8,25,,"Canberra
+RAIDERS",12,24,
+0,NRL 2020,Round 7,"Sunday, 28th June, 2020",4:05pm (local time),40211,26,178,"Manly Warringah
+SEA EAGLES",6,22,,"Cronulla Sutherland
+SHARKS",18,40,
+0,NRL 2020,Round 7,"Sunday, 28th June, 2020",6:30pm (local time),40212,940,519,"Canterbury Bankstown
+BULLDOGS",6,6,,WESTS TIGERS,16,34,
+0,NRL 2020,Round 8,"Thursday, 2nd July, 2020",7:50pm (local time),40213,1097,"5,268","Melbourne
+STORM",6,27,,"Sydney
+ROOSTERS",12,25,
+0,NRL 2020,Round 8,"Friday, 3rd July, 2020",6:00pm (local time),40214,4,"1,420","Canberra
+RAIDERS",18,22,,"St George Illawarra
+DRAGONS",0,16,
+0,NRL 2020,Round 8,"Friday, 3rd July, 2020",7:55pm (local time),40215,940,"6,730","Parramatta
+EELS",16,42,,"North Queensland
+COWBOYS",4,4,
+0,NRL 2020,Round 8,"Saturday, 4th July, 2020",3:00pm (local time),40216,149,"1,995","Gold Coast
+TITANS",10,10,,"Cronulla Sutherland
+SHARKS",12,40,
+0,NRL 2020,Round 8,"Saturday, 4th July, 2020",5:30pm (local time),40217,26,"2,513",WARRIORS,6,26,,"Brisbane
+BRONCOS",10,16,
+0,NRL 2020,Round 8,"Saturday, 4th July, 2020",7:35pm (local time),40218,940,"3,960",WESTS TIGERS,10,12,,"Penrith
+PANTHERS",6,19,
+0,NRL 2020,Round 8,"Sunday, 5th July, 2020",4:05pm (local time),40219,5,"2,271","Manly Warringah
+SEA EAGLES",6,12,,"Newcastle
+KNIGHTS",14,14,
+0,NRL 2020,Round 8,"Sunday, 5th July, 2020",6:30pm (local time),40220,940,"3,585","Canterbury Bankstown
+BULLDOGS",6,10,,"South Sydney
+RABBITOHS",8,26,
+0,NRL 2020,Round 9,"Thursday, 9th July, 2020",7:50pm (local time),40221,985,"6,478","North Queensland
+COWBOYS",6,16,,"Sydney
+ROOSTERS",12,42,
+0,NRL 2020,Round 9,"Friday, 10th July, 2020",6:00pm (local time),40222,149,"5,206","Gold Coast
+TITANS",6,16,,WARRIORS,12,12,
+0,NRL 2020,Round 9,"Friday, 10th July, 2020",7:55pm (local time),40223,940,"4,864","South Sydney
+RABBITOHS",10,18,,WESTS TIGERS,0,10,
+0,NRL 2020,Round 9,"Saturday, 11th July, 2020",3:00pm (local time),40224,23,"3,277","Cronulla Sutherland
+SHARKS",12,24,,"Penrith
+PANTHERS",26,56,
+0,NRL 2020,Round 9,"Saturday, 11th July, 2020",5:30pm (local time),40225,1097,"7,134","Brisbane
+BRONCOS",10,26,,"Canterbury Bankstown
+BULLDOGS",4,8,
+0,NRL 2020,Round 9,"Saturday, 11th July, 2020",7:35pm (local time),40226,4,"1,577","Canberra
+RAIDERS",6,14,,"Melbourne
+STORM",12,20,
+0,NRL 2020,Round 9,"Sunday, 12th July, 2020",4:05pm (local time),40227,11,"6,980","Newcastle
+KNIGHTS",4,4,,"Parramatta
+EELS",4,10,
+0,NRL 2020,Round 9,"Sunday, 12th July, 2020",6:30pm (local time),40228,23,"1,571","St George Illawarra
+DRAGONS",10,34,,"Manly Warringah
+SEA EAGLES",4,4,
+0,NRL 2020,Round 10,"Thursday, 16th July, 2020",7:50pm (local time),40229,24,"3,746","Sydney
+ROOSTERS",12,20,,"Canberra
+RAIDERS",6,24,
+0,NRL 2020,Round 10,"Friday, 17th July, 2020",6:00pm (local time),40230,939,"5,437","Melbourne
+STORM",18,42,,"Gold Coast
+TITANS",6,6,
+0,NRL 2020,Round 10,"Friday, 17th July, 2020",7:55pm (local time),40231,7,"2,633",WESTS TIGERS,26,48,,"Brisbane
+BRONCOS",0,0,
+0,NRL 2020,Round 10,"Saturday, 18th July, 2020",3:00pm (local time),40232,21,"1,619","St George Illawarra
+DRAGONS",10,28,,"Canterbury Bankstown
+BULLDOGS",20,22,
+0,NRL 2020,Round 10,"Saturday, 18th July, 2020",5:30pm (local time),40233,940,"4,249","South Sydney
+RABBITOHS",0,18,,"Newcastle
+KNIGHTS",14,20,
+0,NRL 2020,Round 10,"Saturday, 18th July, 2020",7:35pm (local time),40234,5,"2,021","Manly Warringah
+SEA EAGLES",22,22,,"Parramatta
+EELS",4,18,
+0,NRL 2020,Round 10,"Sunday, 19th July, 2020",2:00pm (local time),40235,26,"2,513",WARRIORS,4,10,,"Cronulla Sutherland
+SHARKS",24,46,
+0,NRL 2020,Round 10,"Sunday, 19th July, 2020",4:05pm (local time),40236,3,"2,891","Penrith
+PANTHERS",4,22,,"North Queensland
+COWBOYS",4,10,
+0,NRL 2020,Round 11,"Thursday, 23rd July, 2020",7:50pm (local time),40237,940,"6,403","Parramatta
+EELS",18,26,,WESTS TIGERS,12,16,
+0,NRL 2020,Round 11,"Friday, 24th July, 2020",6:00pm (local time),40238,985,"7,127","North Queensland
+COWBOYS",6,12,,"Manly Warringah
+SEA EAGLES",12,24,
+0,NRL 2020,Round 11,"Friday, 24th July, 2020",7:55pm (local time),40239,1097,"9,710","Brisbane
+BRONCOS",8,8,,"Melbourne
+STORM",14,46,
+0,NRL 2020,Round 11,"Saturday, 25th July, 2020",3:00pm (local time),40240,26,"2,631",WARRIORS,10,10,,"Sydney
+ROOSTERS",6,18,
+0,NRL 2020,Round 11,"Saturday, 25th July, 2020",5:30pm (local time),40241,23,"3,179","Cronulla Sutherland
+SHARKS",22,28,,"St George Illawarra
+DRAGONS",14,24,
+0,NRL 2020,Round 11,"Saturday, 25th July, 2020",7:35pm (local time),40242,4,"1,629","Canberra
+RAIDERS",10,18,,"South Sydney
+RABBITOHS",12,12,
+0,NRL 2020,Round 11,"Sunday, 26th July, 2020",2:00pm (local time),40243,11,"3,521","Newcastle
+KNIGHTS",0,12,,"Canterbury Bankstown
+BULLDOGS",6,18,
+0,NRL 2020,Round 11,"Sunday, 26th July, 2020",4:05pm (local time),40244,149,"5,095","Gold Coast
+TITANS",14,14,,"Penrith
+PANTHERS",16,22,
+0,NRL 2020,Round 12,"Thursday, 30th July, 2020",7:50pm (local time),40248,23,"2,719","St George Illawarra
+DRAGONS",16,24,,"South Sydney
+RABBITOHS",16,32,
+0,NRL 2020,Round 12,"Friday, 31st July, 2020",6:00pm (local time),40249,24,"1,789",WESTS TIGERS,14,20,,WARRIORS,8,26,
+0,NRL 2020,Round 12,"Friday, 31st July, 2020",7:55pm (local time),40250,1097,"7,390","Brisbane
+BRONCOS",14,26,,"Cronulla Sutherland
+SHARKS",18,36,
+0,NRL 2020,Round 12,"Saturday, 1st August, 2020",3:00pm (local time),40251,24,"3,149","Sydney
+ROOSTERS",10,18,,"Gold Coast
+TITANS",6,12,
+0,NRL 2020,Round 12,"Saturday, 1st August, 2020",5:30pm (local time),40252,985,"7,586","North Queensland
+COWBOYS",6,12,,"Canberra
+RAIDERS",8,14,
+0,NRL 2020,Round 12,"Saturday, 1st August, 2020",7:35pm (local time),40253,5,"2,729","Manly Warringah
+SEA EAGLES",6,12,,"Penrith
+PANTHERS",24,42,
+0,NRL 2020,Round 12,"Sunday, 2nd August, 2020",2:00pm (local time),40254,20,"5,775","Canterbury Bankstown
+BULLDOGS",6,16,,"Parramatta
+EELS",18,18,
+0,NRL 2020,Round 12,"Sunday, 2nd August, 2020",4:05pm (local time),40255,939,"5,837","Melbourne
+STORM",18,26,,"Newcastle
+KNIGHTS",6,16,
+0,NRL 2020,Round 13,"Thursday, 6th August, 2020",7:50pm (local time),44795,21,"2,141","St George Illawarra
+DRAGONS",10,16,,"Sydney
+ROOSTERS",10,24,
+0,NRL 2020,Round 13,"Friday, 7th August, 2020",6:00pm (local time),44796,5,"1,382","Manly Warringah
+SEA EAGLES",10,22,,WARRIORS,20,26,
+0,NRL 2020,Round 13,"Friday, 7th August, 2020",7:55pm (local time),44797,20,"2,919","South Sydney
+RABBITOHS",20,28,,"Brisbane
+BRONCOS",6,10,
+0,NRL 2020,Round 13,"Saturday, 8th August, 2020",3:00pm (local time),44798,939,"3,432","Melbourne
+STORM",23,41,,"Canterbury Bankstown
+BULLDOGS",4,10,
+0,NRL 2020,Round 13,"Saturday, 8th August, 2020",5:30pm (local time),44799,11,"2,952","Newcastle
+KNIGHTS",24,44,,WESTS TIGERS,4,4,
+0,NRL 2020,Round 13,"Saturday, 8th August, 2020",7:35pm (local time),44800,3,"3,468","Penrith
+PANTHERS",24,28,,"Canberra
+RAIDERS",0,12,
+0,NRL 2020,Round 13,"Sunday, 9th August, 2020",2:00pm (local time),44801,149,"5,646","Gold Coast
+TITANS",20,30,,"North Queensland
+COWBOYS",0,10,
+0,NRL 2020,Round 13,"Sunday, 9th August, 2020",4:05pm (local time),44802,23,"1,714","Cronulla Sutherland
+SHARKS",4,12,,"Parramatta
+EELS",6,14,
+0,NRL 2020,Round 14,"Thursday, 13th August, 2020",7:50pm (local time),44810,24,"4,110","Sydney
+ROOSTERS",0,6,,"Melbourne
+STORM",14,24,
+0,NRL 2020,Round 14,"Friday, 14th August, 2020",6:00pm (local time),44815,26,"2,737",WARRIORS,6,12,,"Penrith
+PANTHERS",16,18,
+0,NRL 2020,Round 14,"Friday, 14th August, 2020",7:55pm (local time),44812,940,"6,290","Parramatta
+EELS",6,12,,"St George Illawarra
+DRAGONS",10,14,
+0,NRL 2020,Round 14,"Saturday, 15th August, 2020",3:00pm (local time),44811,23,"1,701","Cronulla Sutherland
+SHARKS",12,30,,"Gold Coast
+TITANS",12,18,
+0,NRL 2020,Round 14,"Saturday, 15th August, 2020",5:30pm (local time),44813,985,"7,611","North Queensland
+COWBOYS",14,30,,"South Sydney
+RABBITOHS",12,31,
+0,NRL 2020,Round 14,"Saturday, 15th August, 2020",7:35pm (local time),44814,4,"1,544","Canberra
+RAIDERS",6,36,,"Brisbane
+BRONCOS",8,8,
+0,NRL 2020,Round 14,"Sunday, 16th August, 2020",2:00pm (local time),44816,11,"5,554","Newcastle
+KNIGHTS",16,26,,"Manly Warringah
+SEA EAGLES",12,24,
+0,NRL 2020,Round 14,"Sunday, 16th August, 2020",4:05pm (local time),44817,940,"2,758",WESTS TIGERS,22,29,,"Canterbury Bankstown
+BULLDOGS",16,28,
+0,NRL 2020,Round 15,"Thursday, 20th August, 2020",7:50pm (local time),44822,940,"6,282","Parramatta
+EELS",12,14,,"Melbourne
+STORM",0,0,
+0,NRL 2020,Round 15,"Friday, 21st August, 2020",6:00pm (local time),44823,3,"3,206","Penrith
+PANTHERS",22,38,,"Cronulla Sutherland
+SHARKS",6,12,
+0,NRL 2020,Round 15,"Friday, 21st August, 2020",7:55pm (local time),44824,1097,"7,074","Brisbane
+BRONCOS",12,24,,"St George Illawarra
+DRAGONS",18,28,
+0,NRL 2020,Round 15,"Saturday, 22nd August, 2020",3:00pm (local time),44825,149,"6,561","Gold Coast
+TITANS",4,16,,"Canberra
+RAIDERS",22,36,
+0,NRL 2020,Round 15,"Saturday, 22nd August, 2020",5:30pm (local time),44826,7,"3,003",WESTS TIGERS,0,16,,"Sydney
+ROOSTERS",20,38,
+0,NRL 2020,Round 15,"Saturday, 22nd August, 2020",7:35pm (local time),44827,20,"4,712","South Sydney
+RABBITOHS",38,56,,"Manly Warringah
+SEA EAGLES",0,16,
+0,NRL 2020,Round 15,"Sunday, 23rd August, 2020",2:00pm (local time),44828,20,"2,631","Canterbury Bankstown
+BULLDOGS",10,14,,WARRIORS,6,20,
+0,NRL 2020,Round 15,"Sunday, 23rd August, 2020",4:05pm (local time),44829,11,"5,304","Newcastle
+KNIGHTS",6,12,,"North Queensland
+COWBOYS",0,0,
+0,NRL 2020,Round 16,"Thursday, 27th August, 2020",7:50pm (local time),44830,940,"7,014","Parramatta
+EELS",0,0,,"South Sydney
+RABBITOHS",22,38,
+0,NRL 2020,Round 16,"Friday, 28th August, 2020",6:00pm (local time),44831,23,"2,097","St George Illawarra
+DRAGONS",2,10,,"Gold Coast
+TITANS",0,14,
+0,NRL 2020,Round 16,"Friday, 28th August, 2020",7:55pm (local time),44832,24,"3,841","Sydney
+ROOSTERS",24,58,,"Brisbane
+BRONCOS",6,12,
+0,NRL 2020,Round 16,"Saturday, 29th August, 2020",3:00pm (local time),44833,409,"1,853",WARRIORS,8,36,,"Newcastle
+KNIGHTS",6,6,
+0,NRL 2020,Round 16,"Saturday, 29th August, 2020",5:30pm (local time),44834,23,"2,217","Cronulla Sutherland
+SHARKS",16,28,,"North Queensland
+COWBOYS",6,12,
+0,NRL 2020,Round 16,"Saturday, 29th August, 2020",7:35pm (local time),44835,3,"3,699","Penrith
+PANTHERS",14,30,,WESTS TIGERS,6,6,
+0,NRL 2020,Round 16,"Sunday, 30th August, 2020",4:05pm (local time),44836,939,"2,910","Melbourne
+STORM",14,30,,"Manly Warringah
+SEA EAGLES",6,6,
+0,NRL 2020,Round 16,"Sunday, 30th August, 2020",6:30pm (local time),44837,4,"2,685","Canberra
+RAIDERS",12,34,,"Canterbury Bankstown
+BULLDOGS",20,20,
+0,NRL 2020,Round 17,"Thursday, 3rd September, 2020",7:50pm (local time),44838,1097,"5,626","Brisbane
+BRONCOS",6,12,,"Penrith
+PANTHERS",14,25,
+0,NRL 2020,Round 17,"Friday, 4th September, 2020",6:00pm (local time),44839,11,"5,597","Newcastle
+KNIGHTS",22,38,,"Cronulla Sutherland
+SHARKS",4,10,
+0,NRL 2020,Round 17,"Friday, 4th September, 2020",7:55pm (local time),44840,20,"4,734","South Sydney
+RABBITOHS",14,16,,"Melbourne
+STORM",10,22,
+0,NRL 2020,Round 17,"Saturday, 5th September, 2020",3:00pm (local time),44841,20,"2,048","Canterbury Bankstown
+BULLDOGS",6,14,,"Gold Coast
+TITANS",14,18,
+0,NRL 2020,Round 17,"Saturday, 5th September, 2020",5:30pm (local time),44842,5,"2,691","Manly Warringah
+SEA EAGLES",20,32,,WESTS TIGERS,12,34,
+0,NRL 2020,Round 17,"Saturday, 5th September, 2020",7:35pm (local time),44843,4,"3,154","Canberra
+RAIDERS",6,6,,"Sydney
+ROOSTERS",10,18,
+0,NRL 2020,Round 17,"Sunday, 6th September, 2020",4:05pm (local time),44844,26,"4,577",WARRIORS,12,18,,"Parramatta
+EELS",16,24,
+0,NRL 2020,Round 17,"Sunday, 6th September, 2020",6:30pm (local time),44845,985,"6,755","North Queensland
+COWBOYS",6,23,,"St George Illawarra
+DRAGONS",12,22,
+0,NRL 2020,Round 18,"Thursday, 10th September, 2020",7:50pm (local time),44846,940,"3,801",WESTS TIGERS,12,24,,"South Sydney
+RABBITOHS",20,26,
+0,NRL 2020,Round 18,"Friday, 11th September, 2020",6:00pm (local time),44847,20,"2,151","Canterbury Bankstown
+BULLDOGS",10,20,,"Manly Warringah
+SEA EAGLES",16,32,
+0,NRL 2020,Round 18,"Friday, 11th September, 2020",7:55pm (local time),44848,3,"3,955","Penrith
+PANTHERS",6,20,,"Parramatta
+EELS",2,2,
+0,NRL 2020,Round 18,"Saturday, 12th September, 2020",3:00pm (local time),44849,21,"2,588","St George Illawarra
+DRAGONS",8,8,,"Canberra
+RAIDERS",14,37,
+0,NRL 2020,Round 18,"Saturday, 12th September, 2020",5:30pm (local time),44850,149,"9,729","Gold Coast
+TITANS",12,18,,"Brisbane
+BRONCOS",6,6,
+0,NRL 2020,Round 18,"Saturday, 12th September, 2020",7:35pm (local time),44851,24,"6,375","Sydney
+ROOSTERS",30,42,,"Newcastle
+KNIGHTS",12,12,
+0,NRL 2020,Round 18,"Sunday, 13th September, 2020",4:05pm (local time),44852,939,"4,056","Melbourne
+STORM",24,36,,"North Queensland
+COWBOYS",4,20,
+0,NRL 2020,Round 18,"Sunday, 13th September, 2020",6:30pm (local time),44853,23,"2,306","Cronulla Sutherland
+SHARKS",12,22,,WARRIORS,6,14,
+0,NRL 2020,Round 19,"Thursday, 17th September, 2020",7:50pm (local time),44854,20,"4,859","South Sydney
+RABBITOHS",10,16,,"Canterbury Bankstown
+BULLDOGS",20,26,
+0,NRL 2020,Round 19,"Friday, 18th September, 2020",6:00pm (local time),44855,985,"7,247","North Queensland
+COWBOYS",0,12,,"Penrith
+PANTHERS",20,32,
+0,NRL 2020,Round 19,"Friday, 18th September, 2020",7:55pm (local time),44856,940,"6,318","Parramatta
+EELS",20,26,,"Brisbane
+BRONCOS",6,12,
+0,NRL 2020,Round 19,"Saturday, 19th September, 2020",3:00pm (local time),44857,5,"2,452","Manly Warringah
+SEA EAGLES",12,24,,"Gold Coast
+TITANS",22,42,
+0,NRL 2020,Round 19,"Saturday, 19th September, 2020",5:30pm (local time),44858,939,"4,121","Melbourne
+STORM",32,50,,WESTS TIGERS,10,22,
+0,NRL 2020,Round 19,"Saturday, 19th September, 2020",7:35pm (local time),44859,24,"6,398","Sydney
+ROOSTERS",24,34,,"Cronulla Sutherland
+SHARKS",12,18,
+0,NRL 2020,Round 19,"Sunday, 20th September, 2020",2:00pm (local time),44860,4,"3,900","Canberra
+RAIDERS",16,26,,WARRIORS,14,14,
+0,NRL 2020,Round 19,"Sunday, 20th September, 2020",4:05pm (local time),44861,11,"6,659","Newcastle
+KNIGHTS",30,42,,"St George Illawarra
+DRAGONS",6,18,
+0,NRL 2020,Round 20,"Thursday, 24th September, 2020",7:50pm (local time),44862,1097,"17,174","Brisbane
+BRONCOS",12,16,,"North Queensland
+COWBOYS",16,32,
+0,NRL 2020,Round 20,"Friday, 25th September, 2020",6:00pm (local time),44863,149,"9,877","Gold Coast
+TITANS",16,36,,"Newcastle
+KNIGHTS",6,6,
+0,NRL 2020,Round 20,"Friday, 25th September, 2020",7:55pm (local time),44864,20,"7,958","South Sydney
+RABBITOHS",26,60,,"Sydney
+ROOSTERS",4,8,
+0,NRL 2020,Round 20,"Saturday, 26th September, 2020",3:00pm (local time),44865,20,"6,755","Canterbury Bankstown
+BULLDOGS",0,0,,"Penrith
+PANTHERS",22,42,
+0,NRL 2020,Round 20,"Saturday, 26th September, 2020",5:30pm (local time),44866,23,"2,783","Cronulla Sutherland
+SHARKS",10,28,,"Canberra
+RAIDERS",24,38,
+0,NRL 2020,Round 20,"Saturday, 26th September, 2020",7:35pm (local time),44867,940,"7,359",WESTS TIGERS,8,24,,"Parramatta
+EELS",16,28,
+0,NRL 2020,Round 20,"Sunday, 27th September, 2020",2:00pm (local time),44868,26,"3,323",WARRIORS,26,40,,"Manly Warringah
+SEA EAGLES",14,28,
+0,NRL 2020,Round 20,"Sunday, 27th September, 2020",4:05pm (local time),44869,23,"2,738","St George Illawarra
+DRAGONS",12,30,,"Melbourne
+STORM",16,22,
+0,NRL 2020,Qualif Final,"Friday, 2nd October, 2020",7:50pm (local time),44918,3,"7,209","Penrith
+PANTHERS",22,29,,"Sydney
+ROOSTERS",10,28,
+0,NRL 2020,Qualif Final,"Saturday, 3rd October, 2020",5:40pm (local time),44919,4,"9,602","Canberra
+RAIDERS",10,32,,"Cronulla Sutherland
+SHARKS",14,20,
+0,NRL 2020,Qualif Final,"Saturday, 3rd October, 2020",7:50pm (local time),44920,1097,"16,238","Melbourne
+STORM",12,36,,"Parramatta
+EELS",12,24,
+0,NRL 2020,Qualif Final,"Sunday, 4th October, 2020",4:05pm (local time),44921,20,"17,212","South Sydney
+RABBITOHS",20,46,,"Newcastle
+KNIGHTS",14,20,
+0,NRL 2020,Semi Final,"Friday, 9th October, 2020",7:50pm (local time),44931,24,"18,110","Sydney
+ROOSTERS",6,18,,"Canberra
+RAIDERS",16,22,
+0,NRL 2020,Semi Final,"Saturday, 10th October, 2020",7:50pm (local time),44932,940,"14,510","Parramatta
+EELS",18,24,,"South Sydney
+RABBITOHS",8,38,
+0,NRL 2020,Prelim Final,"Friday, 16th October, 2020",7:50pm (local time),44935,1097,"37,112","Melbourne
+STORM",24,30,,"Canberra
+RAIDERS",6,10,
+0,NRL 2020,Prelim Final,"Saturday, 17th October, 2020",7:50pm (local time),44936,20,"30,116","Penrith
+PANTHERS",14,20,,"South Sydney
+RABBITOHS",6,16,
+0,NRL 2020,Grand Final,"Sunday, 25th October, 2020",7:30pm (local time),44946,20,"37,303","Penrith
+PANTHERS",0,20,,"Melbourne
+STORM",20,26,

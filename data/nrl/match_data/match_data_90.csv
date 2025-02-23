@@ -1,0 +1,424 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,ARL 1997,Round 1,"Friday, 7th March, 1997",,780,8,"25,114","Parramatta
+EELS",,10,8,"North Sydney
+BEARS",,8,6
+0,ARL 1997,Round 1,"Saturday, 8th March, 1997",,783,7,"18,247","Balmain
+TIGERS",,10,10,"Manly Warringah
+SEA EAGLES",,14,8
+0,ARL 1997,Round 1,"Saturday, 8th March, 1997",,782,19,"6,490","Western Suburbs
+MAGPIES",6,16,11,"Gold Coast
+CHARGERS",14,24,7
+0,ARL 1997,Round 1,"Sunday, 9th March, 1997",,786,21,"7,697","Illawarra
+STEELERS",,50,11,"South Sydney
+RABBITOHS",,10,7
+0,ARL 1997,Round 1,"Sunday, 9th March, 1997",,788,11,"9,389","Newcastle
+KNIGHTS",,11,10,"St George
+DRAGONS",,6,11
+0,ARL 1997,Round 1,"Sunday, 9th March, 1997",,787,1,"8,475","Sydney City
+ROOSTERS",,34,6,"South Queensland
+CRUSHERS",,10,7
+0,ARL 1997,Round 2,"Friday, 14th March, 1997",,791,23,"16,706","St George
+DRAGONS",,14,10,"Manly Warringah
+SEA EAGLES",,18,8
+0,ARL 1997,Round 2,"Saturday, 15th March, 1997",,793,7,"8,211","Balmain
+TIGERS",,10,6,"Illawarra
+STEELERS",,18,11
+0,ARL 1997,Round 2,"Saturday, 15th March, 1997",,792,1,"10,105","Sydney City
+ROOSTERS",14,18,8,"Western Suburbs
+MAGPIES",0,6,12
+0,ARL 1997,Round 2,"Sunday, 16th March, 1997",,797,25,"10,109","North Sydney
+BEARS",,34,5,"Newcastle
+KNIGHTS",,20,10
+0,ARL 1997,Round 2,"Sunday, 16th March, 1997",,796,1,"4,404","South Sydney
+RABBITOHS",,26,6,"Gold Coast
+CHARGERS",,16,6
+0,ARL 1997,Round 2,"Sunday, 16th March, 1997",,798,22,"9,523","South Queensland
+CRUSHERS",,23,5,"Parramatta
+EELS",,6,8
+0,ARL 1997,Round 3,"Friday, 21st March, 1997",,801,5,"18,539","Manly Warringah
+SEA EAGLES",,12,5,"North Sydney
+BEARS",,8,3
+0,ARL 1997,Round 3,"Saturday, 22nd March, 1997",,803,21,"8,661","Illawarra
+STEELERS",,8,7,"St George
+DRAGONS",,20,7
+0,ARL 1997,Round 3,"Saturday, 22nd March, 1997",,802,8,"17,254","Parramatta
+EELS",,2,9,"Sydney City
+ROOSTERS",,8,9
+0,ARL 1997,Round 3,"Saturday, 22nd March, 1997",,804,28,"9,851","Gold Coast
+CHARGERS",20,26,4,"Balmain
+TIGERS",6,6,11
+0,ARL 1997,Round 3,"Sunday, 23rd March, 1997",,807,11,"15,114","Newcastle
+KNIGHTS",,44,6,"South Queensland
+CRUSHERS",,0,6
+0,ARL 1997,Round 3,"Sunday, 23rd March, 1997",,808,1,"5,108","South Sydney
+RABBITOHS",10,17,14,"Western Suburbs
+MAGPIES",2,8,6
+0,ARL 1997,Round 4,"Thursday, 27th March, 1997",,811,19,"11,592","Western Suburbs
+MAGPIES",,25,10,"Parramatta
+EELS",,14,11
+0,ARL 1997,Round 4,"Friday, 28th March, 1997",,812,1,"17,353","Sydney City
+ROOSTERS",6,16,6,"Newcastle
+KNIGHTS",22,28,6
+0,ARL 1997,Round 4,"Saturday, 29th March, 1997",,814,25,"8,319","North Sydney
+BEARS",,18,8,"Illawarra
+STEELERS",,18,1
+0,ARL 1997,Round 4,"Saturday, 29th March, 1997",,815,22,"9,147","South Queensland
+CRUSHERS",,16,6,"Manly Warringah
+SEA EAGLES",,36,9
+0,ARL 1997,Round 4,"Sunday, 30th March, 1997",,818,7,"11,319","Balmain
+TIGERS",,22,7,"South Sydney
+RABBITOHS",,16,8
+0,ARL 1997,Round 4,"Sunday, 30th March, 1997",,817,23,"6,052","St George
+DRAGONS",,18,10,"Gold Coast
+CHARGERS",,12,5
+0,ARL 1997,Round 5,"Friday, 4th April, 1997",,821,5,"18,185","Manly Warringah
+SEA EAGLES",,34,6,"Sydney City
+ROOSTERS",,24,4
+0,ARL 1997,Round 5,"Saturday, 5th April, 1997",,823,28,"9,280","Gold Coast
+CHARGERS",,16,4,"North Sydney
+BEARS",,20,7
+0,ARL 1997,Round 5,"Saturday, 5th April, 1997",,822,1,"7,200","South Sydney
+RABBITOHS",,4,5,"St George
+DRAGONS",,34,7
+0,ARL 1997,Round 5,"Sunday, 6th April, 1997",,826,7,"9,079","Balmain
+TIGERS",,28,9,"Western Suburbs
+MAGPIES",,0,5
+0,ARL 1997,Round 5,"Sunday, 6th April, 1997",,828,21,"6,144","Illawarra
+STEELERS",,14,9,"South Queensland
+CRUSHERS",,6,5
+0,ARL 1997,Round 5,"Sunday, 6th April, 1997",,827,11,"21,225","Newcastle
+KNIGHTS",,29,8,"Parramatta
+EELS",,10,9
+0,ARL 1997,Round 6,"Friday, 11th April, 1997",,830,19,"11,185","Western Suburbs
+MAGPIES",,4,7,"Newcastle
+KNIGHTS",,8,7
+0,ARL 1997,Round 6,"Saturday, 12th April, 1997",,833,25,"7,158","North Sydney
+BEARS",,34,6,"South Sydney
+RABBITOHS",,14,5
+0,ARL 1997,Round 6,"Saturday, 12th April, 1997",,832,8,"20,202","Parramatta
+EELS",,8,8,"Manly Warringah
+SEA EAGLES",,18,8
+0,ARL 1997,Round 6,"Sunday, 13th April, 1997",,838,23,"8,291","St George
+DRAGONS",,16,12,"Balmain
+TIGERS",,10,6
+0,ARL 1997,Round 6,"Sunday, 13th April, 1997",,836,22,"5,290","South Queensland
+CRUSHERS",,14,8,"Gold Coast
+CHARGERS",,22,1
+0,ARL 1997,Round 6,"Sunday, 13th April, 1997",,837,1,"7,600","Sydney City
+ROOSTERS",,20,4,"Illawarra
+STEELERS",,26,8
+0,ARL 1997,Round 7,"Friday, 18th April, 1997",,841,7,"12,613","Balmain
+TIGERS",,9,6,"North Sydney
+BEARS",,7,6
+0,ARL 1997,Round 7,"Saturday, 19th April, 1997",,844,28,"9,211","Gold Coast
+CHARGERS",,24,10,"Sydney City
+ROOSTERS",,34,9
+0,ARL 1997,Round 7,"Saturday, 19th April, 1997",,845,21,"11,992","Illawarra
+STEELERS",,16,4,"Parramatta
+EELS",,23,7
+0,ARL 1997,Round 7,"Saturday, 19th April, 1997",,846,23,"5,434","St George
+DRAGONS",,8,4,"Western Suburbs
+MAGPIES",,24,13
+0,ARL 1997,Round 7,"Sunday, 20th April, 1997",,848,5,"15,487","Manly Warringah
+SEA EAGLES",,22,6,"Newcastle
+KNIGHTS",,8,8
+0,ARL 1997,Round 7,"Sunday, 20th April, 1997",,847,1,"4,353","South Sydney
+RABBITOHS",,24,10,"South Queensland
+CRUSHERS",,20,7
+0,ARL 1997,Round 8,"Saturday, 26th April, 1997",,852,8,"10,093","Parramatta
+EELS",,28,8,"Gold Coast
+CHARGERS",,10,4
+0,ARL 1997,Round 8,"Saturday, 26th April, 1997",,850,22,"5,998","South Queensland
+CRUSHERS",,16,11,"Balmain
+TIGERS",,18,6
+0,ARL 1997,Round 8,"Saturday, 26th April, 1997",,853,1,"9,123","Sydney City
+ROOSTERS",,42,5,"South Sydney
+RABBITOHS",,0,6
+0,ARL 1997,Round 8,"Sunday, 27th April, 1997",,856,11,"12,582","Newcastle
+KNIGHTS",,20,9,"Illawarra
+STEELERS",,4,7
+0,ARL 1997,Round 8,"Sunday, 27th April, 1997",,855,25,"12,629","North Sydney
+BEARS",,54,9,"St George
+DRAGONS",,14,6
+0,ARL 1997,Round 8,"Sunday, 27th April, 1997",,857,19,"10,231","Western Suburbs
+MAGPIES",,19,10,"Manly Warringah
+SEA EAGLES",,16,11
+0,ARL 1997,Round 9,"Friday, 2nd May, 1997",,860,25,"13,554","North Sydney
+BEARS",,20,7,"Western Suburbs
+MAGPIES",,6,8
+0,ARL 1997,Round 9,"Saturday, 3rd May, 1997",,861,28,"4,900","Gold Coast
+CHARGERS",,32,6,"Newcastle
+KNIGHTS",,24,4
+0,ARL 1997,Round 9,"Saturday, 3rd May, 1997",,862,1,"6,219","South Sydney
+RABBITOHS",,26,9,"Parramatta
+EELS",,32,9
+0,ARL 1997,Round 9,"Sunday, 4th May, 1997",,867,7,"11,953","Balmain
+TIGERS",,14,8,"Sydney City
+ROOSTERS",,18,8
+0,ARL 1997,Round 9,"Sunday, 4th May, 1997",,866,21,"9,835","Illawarra
+STEELERS",,34,6,"Manly Warringah
+SEA EAGLES",,34,4
+0,ARL 1997,Round 9,"Sunday, 4th May, 1997",,865,23,"5,003","St George
+DRAGONS",,32,6,"South Queensland
+CRUSHERS",,22,7
+0,ARL 1997,Round 10,"Friday, 9th May, 1997",,869,1,"9,238","Sydney City
+ROOSTERS",,22,5,"St George
+DRAGONS",,8,7
+0,ARL 1997,Round 10,"Saturday, 10th May, 1997",,870,21,"5,546","Illawarra
+STEELERS",,2,7,"Western Suburbs
+MAGPIES",,6,10
+0,ARL 1997,Round 10,"Saturday, 10th May, 1997",,872,8,"11,150","Parramatta
+EELS",,25,6,"Balmain
+TIGERS",,14,8
+0,ARL 1997,Round 10,"Saturday, 10th May, 1997",,871,22,"5,447","South Queensland
+CRUSHERS",,22,5,"North Sydney
+BEARS",,36,2
+0,ARL 1997,Round 10,"Sunday, 11th May, 1997",,873,5,"2,506","Manly Warringah
+SEA EAGLES",,26,11,"Gold Coast
+CHARGERS",,26,11
+0,ARL 1997,Round 11,"Friday, 16th May, 1997",,876,23,"5,504","St George
+DRAGONS",,10,8,"Parramatta
+EELS",,17,9
+0,ARL 1997,Round 11,"Saturday, 17th May, 1997",,877,7,"5,323","Balmain
+TIGERS",,18,5,"Newcastle
+KNIGHTS",,26,7
+0,ARL 1997,Round 11,"Saturday, 17th May, 1997",,878,28,"5,813","Gold Coast
+CHARGERS",,11,2,"Illawarra
+STEELERS",,10,9
+0,ARL 1997,Round 11,"Sunday, 18th May, 1997",,881,25,"14,644","North Sydney
+BEARS",,19,8,"Sydney City
+ROOSTERS",,18,9
+0,ARL 1997,Round 11,"Sunday, 18th May, 1997",,880,1,"6,020","South Sydney
+RABBITOHS",,16,8,"Manly Warringah
+SEA EAGLES",,30,7
+0,ARL 1997,Round 11,"Sunday, 18th May, 1997",,879,19,"5,732","Western Suburbs
+MAGPIES",,32,9,"South Queensland
+CRUSHERS",,12,7
+0,ARL 1997,Round 12,"Friday, 23rd May, 1997",,883,22,"5,518","South Queensland
+CRUSHERS",,28,5,"Sydney City
+ROOSTERS",,14,4
+0,ARL 1997,Round 12,"Saturday, 24th May, 1997",,885,28,"5,978","Gold Coast
+CHARGERS",,10,6,"Western Suburbs
+MAGPIES",,26,10
+0,ARL 1997,Round 12,"Sunday, 25th May, 1997",,886,1,"4,271","South Sydney
+RABBITOHS",,28,5,"Illawarra
+STEELERS",,28,4
+0,ARL 1997,Round 12,"Friday, 30th May, 1997",,889,25,"13,281","North Sydney
+BEARS",,14,3,"Parramatta
+EELS",,25,5
+0,ARL 1997,Round 12,"Saturday, 31st May, 1997",,890,5,"6,068","Manly Warringah
+SEA EAGLES",0,10,10,"Balmain
+TIGERS",12,14,13
+0,ARL 1997,Round 12,"Sunday, 1st June, 1997",,893,23,"6,125","St George
+DRAGONS",,20,9,"Newcastle
+KNIGHTS",,18,5
+0,ARL 1997,Round 13,"Friday, 6th June, 1997",,895,21,"8,184","Illawarra
+STEELERS",,6,7,"Balmain
+TIGERS",,18,7
+0,ARL 1997,Round 13,"Saturday, 7th June, 1997",,896,28,"5,316","Gold Coast
+CHARGERS",,28,6,"South Sydney
+RABBITOHS",,4,3
+0,ARL 1997,Round 13,"Sunday, 8th June, 1997",,897,8,"10,009","Parramatta
+EELS",,52,6,"South Queensland
+CRUSHERS",,10,7
+0,ARL 1997,Round 13,"Friday, 13th June, 1997",,898,5,"10,083","Manly Warringah
+SEA EAGLES",,28,5,"St George
+DRAGONS",,4,6
+0,ARL 1997,Round 13,"Saturday, 14th June, 1997",,899,19,"6,832","Western Suburbs
+MAGPIES",,24,6,"Sydney City
+ROOSTERS",,18,4
+0,ARL 1997,Round 13,"Sunday, 15th June, 1997",,900,11,"6,281","Newcastle
+KNIGHTS",,6,5,"North Sydney
+BEARS",,26,8
+0,ARL 1997,Round 14,"Friday, 20th June, 1997",,901,19,"7,937","Western Suburbs
+MAGPIES",,16,6,"South Sydney
+RABBITOHS",,20,6
+0,ARL 1997,Round 14,"Saturday, 21st June, 1997",,902,7,"5,752","Balmain
+TIGERS",,20,7,"Gold Coast
+CHARGERS",,22,14
+0,ARL 1997,Round 14,"Sunday, 22nd June, 1997",,903,23,"7,257","St George
+DRAGONS",,10,7,"Illawarra
+STEELERS",,12,9
+0,ARL 1997,Round 14,"Friday, 27th June, 1997",,905,1,"8,917","Sydney City
+ROOSTERS",,6,4,"Parramatta
+EELS",,18,6
+0,ARL 1997,Round 14,"Saturday, 28th June, 1997",,906,22,"4,769","South Queensland
+CRUSHERS",,6,10,"Newcastle
+KNIGHTS",,24,7
+0,ARL 1997,Round 14,"Sunday, 29th June, 1997",,909,25,"14,615","North Sydney
+BEARS",,41,4,"Manly Warringah
+SEA EAGLES",,8,3
+0,ARL 1997,Round 15,"Friday, 4th July, 1997",,911,11,"6,562","Newcastle
+KNIGHTS",,14,7,"Sydney City
+ROOSTERS",,14,5
+0,ARL 1997,Round 15,"Saturday, 5th July, 1997",,913,28,"10,738","Gold Coast
+CHARGERS",,22,5,"St George
+DRAGONS",,14,9
+0,ARL 1997,Round 15,"Saturday, 5th July, 1997",,914,8,"15,372","Parramatta
+EELS",,20,4,"Western Suburbs
+MAGPIES",,18,6
+0,ARL 1997,Round 15,"Sunday, 6th July, 1997",,918,21,"7,219","Illawarra
+STEELERS",,15,6,"North Sydney
+BEARS",,8,6
+0,ARL 1997,Round 15,"Sunday, 6th July, 1997",,917,5,"5,055","Manly Warringah
+SEA EAGLES",,46,4,"South Queensland
+CRUSHERS",,12,2
+0,ARL 1997,Round 15,"Sunday, 6th July, 1997",,919,1,"6,528","South Sydney
+RABBITOHS",,2,9,"Balmain
+TIGERS",,16,6
+0,ARL 1997,Round 16,"Saturday, 12th July, 1997",,923,19,"6,718","Western Suburbs
+MAGPIES",,20,10,"Balmain
+TIGERS",,10,4
+0,ARL 1997,Round 10,"Sunday, 13th July, 1997",,925,11,"6,177","Newcastle
+KNIGHTS",,30,8,"South Sydney
+RABBITOHS",,0,6
+0,ARL 1997,Round 16,"Friday, 18th July, 1997",,927,1,"12,385","Sydney City
+ROOSTERS",6,12,10,"Manly Warringah
+SEA EAGLES",8,21,4
+0,ARL 1997,Round 16,"Saturday, 19th July, 1997",,928,22,"2,364","South Queensland
+CRUSHERS",,8,9,"Illawarra
+STEELERS",,34,4
+0,ARL 1997,Round 16,"Sunday, 20th July, 1997",,930,25,"8,371","North Sydney
+BEARS",,34,9,"Gold Coast
+CHARGERS",,28,8
+0,ARL 1997,Round 16,"Sunday, 20th July, 1997",,929,8,"20,148","Parramatta
+EELS",,28,3,"Newcastle
+KNIGHTS",,22,3
+0,ARL 1997,Round 16,"Sunday, 20th July, 1997",,931,23,"6,883","St George
+DRAGONS",,29,8,"South Sydney
+RABBITOHS",,28,8
+0,ARL 1997,Round 17,"Friday, 25th July, 1997",,932,5,"22,746","Manly Warringah
+SEA EAGLES",4,10,6,"Parramatta
+EELS",4,17,10
+0,ARL 1997,Round 17,"Friday, 25th July, 1997",,933,11,"17,197","Newcastle
+KNIGHTS",,42,4,"Western Suburbs
+MAGPIES",,18,5
+0,ARL 1997,Round 17,"Saturday, 26th July, 1997",,934,7,"8,099","Balmain
+TIGERS",,10,9,"St George
+DRAGONS",,4,11
+0,ARL 1997,Round 17,"Saturday, 26th July, 1997",,935,21,"8,241","Illawarra
+STEELERS",,12,9,"Sydney City
+ROOSTERS",,34,5
+0,ARL 1997,Round 17,"Sunday, 27th July, 1997",,936,28,"8,392","Gold Coast
+CHARGERS",,40,6,"South Queensland
+CRUSHERS",,18,5
+0,ARL 1997,Round 17,"Sunday, 27th July, 1997",,937,1,"5,074","South Sydney
+RABBITOHS",,8,8,"North Sydney
+BEARS",,40,5
+0,ARL 1997,Round 18,"Friday, 1st August, 1997",,938,11,"25,077","Newcastle
+KNIGHTS",,12,4,"Manly Warringah
+SEA EAGLES",,14,7
+0,ARL 1997,Round 18,"Saturday, 2nd August, 1997",,939,1,"4,780","Sydney City
+ROOSTERS",,28,5,"Gold Coast
+CHARGERS",,12,8
+0,ARL 1997,Round 18,"Saturday, 2nd August, 1997",,940,19,"9,152","Western Suburbs
+MAGPIES",,26,8,"St George
+DRAGONS",,6,8
+0,ARL 1997,Round 18,"Sunday, 3rd August, 1997",,943,25,"18,854","North Sydney
+BEARS",,22,5,"Balmain
+TIGERS",,14,4
+0,ARL 1997,Round 18,"Sunday, 3rd August, 1997",,941,8,"15,419","Parramatta
+EELS",,24,8,"Illawarra
+STEELERS",,28,6
+0,ARL 1997,Round 18,"Sunday, 3rd August, 1997",,942,22,"3,545","South Queensland
+CRUSHERS",,17,8,"South Sydney
+RABBITOHS",,16,4
+0,ARL 1997,Round 19,"Friday, 8th August, 1997",,945,23,"5,007","St George
+DRAGONS",10,22,6,"North Sydney
+BEARS",4,14,8
+0,ARL 1997,Round 19,"Saturday, 9th August, 1997",,947,28,"13,182","Gold Coast
+CHARGERS",,8,9,"Parramatta
+EELS",,18,12
+0,ARL 1997,Round 19,"Saturday, 9th August, 1997",,946,1,"4,720","South Sydney
+RABBITOHS",,20,6,"Sydney City
+ROOSTERS",,40,7
+0,ARL 1997,Round 19,"Sunday, 10th August, 1997",,951,7,"5,101","Balmain
+TIGERS",,32,9,"South Queensland
+CRUSHERS",,14,4
+0,ARL 1997,Round 19,"Sunday, 10th August, 1997",,952,21,"10,038","Illawarra
+STEELERS",,12,6,"Newcastle
+KNIGHTS",,22,15
+0,ARL 1997,Round 19,"Sunday, 10th August, 1997",,950,5,"12,631","Manly Warringah
+SEA EAGLES",,48,4,"Western Suburbs
+MAGPIES",,14,6
+0,ARL 1997,Round 20,"Friday, 15th August, 1997",,955,19,"10,219","Western Suburbs
+MAGPIES",0,19,10,"North Sydney
+BEARS",6,10,5
+0,ARL 1997,Round 20,"Saturday, 16th August, 1997",,957,8,"11,301","Parramatta
+EELS",,36,13,"South Sydney
+RABBITOHS",,18,10
+0,ARL 1997,Round 20,"Saturday, 16th August, 1997",,958,1,"7,183","Sydney City
+ROOSTERS",,18,8,"Balmain
+TIGERS",,10,8
+0,ARL 1997,Round 20,"Sunday, 17th August, 1997",,960,5,"11,167","Manly Warringah
+SEA EAGLES",,30,10,"Illawarra
+STEELERS",,14,5
+0,ARL 1997,Round 20,"Sunday, 17th August, 1997",,962,11,"15,063","Newcastle
+KNIGHTS",,44,5,"Gold Coast
+CHARGERS",,18,2
+0,ARL 1997,Round 20,"Sunday, 17th August, 1997",,961,22,"13,845","South Queensland
+CRUSHERS",,0,5,"St George
+DRAGONS",,14,9
+0,ARL 1997,Round 21,"Friday, 22nd August, 1997",,965,7,"18,203","Balmain
+TIGERS",,26,7,"Parramatta
+EELS",,6,8
+0,ARL 1997,Round 21,"Saturday, 23rd August, 1997",,968,28,"15,872","Gold Coast
+CHARGERS",,25,9,"Manly Warringah
+SEA EAGLES",,10,5
+0,ARL 1997,Round 21,"Saturday, 23rd August, 1997",,967,23,"7,178","St George
+DRAGONS",,16,6,"Sydney City
+ROOSTERS",,20,9
+0,ARL 1997,Round 21,"Sunday, 24th August, 1997",,970,25,"7,308","North Sydney
+BEARS",,42,6,"South Queensland
+CRUSHERS",,8,9
+0,ARL 1997,Round 21,"Sunday, 24th August, 1997",,972,1,"4,260","South Sydney
+RABBITOHS",,8,6,"Newcastle
+KNIGHTS",,26,9
+0,ARL 1997,Round 21,"Sunday, 24th August, 1997",,971,19,"8,534","Western Suburbs
+MAGPIES",,10,5,"Illawarra
+STEELERS",,34,6
+0,ARL 1997,Round 22,"Friday, 29th August, 1997",,974,8,"16,055","Parramatta
+EELS",,12,11,"St George
+DRAGONS",,12,12
+0,ARL 1997,Round 22,"Saturday, 30th August, 1997",,977,21,"12,089","Illawarra
+STEELERS",,28,9,"Gold Coast
+CHARGERS",,6,6
+0,ARL 1997,Round 22,"Saturday, 30th August, 1997",,976,11,"22,157","Newcastle
+KNIGHTS",,34,4,"Balmain
+TIGERS",,10,2
+0,ARL 1997,Round 22,"Sunday, 31st August, 1997",,978,5,"7,514","Manly Warringah
+SEA EAGLES",,36,6,"South Sydney
+RABBITOHS",,18,7
+0,ARL 1997,Round 22,"Sunday, 31st August, 1997",,979,22,"11,588","South Queensland
+CRUSHERS",19,39,8,"Western Suburbs
+MAGPIES",6,18,8
+0,ARL 1997,Round 22,"Sunday, 31st August, 1997",,980,1,"8,569","Sydney City
+ROOSTERS",,29,11,"North Sydney
+BEARS",,20,12
+0,ARL 1997,Minor Qualif,"Friday, 5th September, 1997",,982,8,"8,197","Gold Coast
+CHARGERS",,25,6,"Illawarra
+STEELERS",,14,4
+0,ARL 1997,Minor Qualif,"Saturday, 6th September, 1997",,984,1,"11,332","Sydney City
+ROOSTERS",,33,4,"North Sydney
+BEARS",,21,9
+0,ARL 1997,Minor Qualif,"Sunday, 7th September, 1997",,985,1,"17,849","Newcastle
+KNIGHTS",,28,4,"Parramatta
+EELS",,20,3
+0,ARL 1997,Major Qualif,"Friday, 12th September, 1997",,987,8,"10,466","Sydney City
+ROOSTERS",,32,8,"Gold Coast
+CHARGERS",,10,9
+0,ARL 1997,Major Qualif,"Saturday, 13th September, 1997",3:00pm (local time),989,1,"17,025","North Sydney
+BEARS",6,24, ,"Parramatta
+EELS",14,14,3
+0,ARL 1997,Major Qualif,"Sunday, 14th September, 1997",,990,1,"26,531","Manly Warringah
+SEA EAGLES",,27,5,"Newcastle
+KNIGHTS",,12,5
+0,ARL 1997,Prelim Final,"Saturday, 20th September, 1997",,992,1,"22,540","Newcastle
+KNIGHTS",,17,10,"North Sydney
+BEARS",,12,5
+0,ARL 1997,Prelim Final,"Sunday, 21st September, 1997",,993,1,"30,794","Manly Warringah
+SEA EAGLES",,17,5,"Sydney City
+ROOSTERS",,16,5
+0,ARL 1997,Grand Final,"Sunday, 28th September, 1997",,994,1,"42,482","Newcastle
+KNIGHTS",8,22,4,"Manly Warringah
+SEA EAGLES",16,16,7

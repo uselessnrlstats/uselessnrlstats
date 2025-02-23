@@ -1,0 +1,398 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1975,Round 1,"Saturday, 22nd March, 1975",3:00pm (local time),13428,44,"8,921","South Sydney
+RABBITOHS",7,22,14,"North Sydney
+BEARS",12,18,15
+0,NSWRFL 1975,Round 1,"Sunday, 23rd March, 1975",3:00pm (local time),13430,27,"15,123",CANTERBURY BANKSTOWN,4,13,14,"St George
+DRAGONS",5,9,15
+0,NSWRFL 1975,Round 1,"Sunday, 23rd March, 1975",3:00pm (local time),13431,9,"6,312","Cronulla Sutherland
+SHARKS",9,18,8,"Penrith
+PANTHERS",11,20,11
+0,NSWRFL 1975,Round 1,"Sunday, 23rd March, 1975",3:00pm (local time),13433,109,"9,223","Eastern Suburbs
+ROOSTERS",3,15,11,"Balmain
+TIGERS",7,12,8
+0,NSWRFL 1975,Round 1,"Sunday, 23rd March, 1975",3:00pm (local time),13429,5,"12,369","Manly Warringah
+SEA EAGLES",12,19,10,"Western Suburbs
+MAGPIES",7,17,10
+0,NSWRFL 1975,Round 1,"Sunday, 23rd March, 1975",3:00pm (local time),13432,111,"9,278","Parramatta
+EELS",17,30,9,"Newtown
+JETS",15,21,7
+0,NSWRFL 1975,Round 2,"Thursday, 27th March, 1975",8:30pm (local time),13434,7,"10,046","Balmain
+TIGERS",11,13,12,"Parramatta
+EELS",10,10,17
+0,NSWRFL 1975,Round 2,"Saturday, 29th March, 1975",3:00pm (local time),13435,23,"12,139","St George
+DRAGONS",5,11,11,"Eastern Suburbs
+ROOSTERS",0,3,7
+0,NSWRFL 1975,Round 2,"Saturday, 29th March, 1975",3:00pm (local time),13439,110,"12,156","Western Suburbs
+MAGPIES",3,13,15,"South Sydney
+RABBITOHS",2,2,7
+0,NSWRFL 1975,Round 2,"Sunday, 30th March, 1975",3:00pm (local time),13436,76,"5,451","Newtown
+JETS",10,17,6,"North Sydney
+BEARS",12,25,6
+0,NSWRFL 1975,Round 2,"Sunday, 30th March, 1975",3:00pm (local time),13438,3,"13,070","Penrith
+PANTHERS",13,13,8,"Manly Warringah
+SEA EAGLES",10,32,11
+0,NSWRFL 1975,Round 2,"Monday, 31st March, 1975",3:00pm (local time),13437,27,"14,096",CANTERBURY BANKSTOWN,10,15,12,"Cronulla Sutherland
+SHARKS",9,26,9
+0,NSWRFL 1975,Round 3,"Saturday, 5th April, 1975",3:00pm (local time),13441,24,"11,851","Eastern Suburbs
+ROOSTERS",4,13,15,"Cronulla Sutherland
+SHARKS",10,17,10
+0,NSWRFL 1975,Round 3,"Saturday, 5th April, 1975",3:00pm (local time),13440,25,"9,018","North Sydney
+BEARS",12,25,10,"Balmain
+TIGERS",10,18,6
+0,NSWRFL 1975,Round 3,"Sunday, 6th April, 1975",3:00pm (local time),13445,5,"15,406","Manly Warringah
+SEA EAGLES",13,15,13,CANTERBURY BANKSTOWN,3,3,11
+0,NSWRFL 1975,Round 3,"Sunday, 6th April, 1975",3:00pm (local time),13442,76,"6,958","Newtown
+JETS",5,10,15,"South Sydney
+RABBITOHS",12,17,12
+0,NSWRFL 1975,Round 3,"Sunday, 6th April, 1975",3:00pm (local time),13443,3,"10,827","Penrith
+PANTHERS",13,20,7,"Western Suburbs
+MAGPIES",4,11,11
+0,NSWRFL 1975,Round 3,"Sunday, 6th April, 1975",3:00pm (local time),13444,23,"11,041","St George
+DRAGONS",7,12,9,"Parramatta
+EELS",0,2,12
+0,NSWRFL 1975,Round 4,"Saturday, 12th April, 1975",3:00pm (local time),13447,76,"4,418","Newtown
+JETS",4,20,15,"Balmain
+TIGERS",5,10,13
+0,NSWRFL 1975,Round 4,"Saturday, 12th April, 1975",3:00pm (local time),13446,44,"7,519","South Sydney
+RABBITOHS",9,14,10,"Penrith
+PANTHERS",4,9,9
+0,NSWRFL 1975,Round 4,"Sunday, 13th April, 1975",3:00pm (local time),13451,5,"17,061","Manly Warringah
+SEA EAGLES",4,16,10,"Eastern Suburbs
+ROOSTERS",15,22,9
+0,NSWRFL 1975,Round 4,"Sunday, 13th April, 1975",3:00pm (local time),13450,111,"8,859","Parramatta
+EELS",9,21,8,"Cronulla Sutherland
+SHARKS",4,14,10
+0,NSWRFL 1975,Round 4,"Sunday, 13th April, 1975",3:00pm (local time),13448,23,"13,566","St George
+DRAGONS",4,6,14,"North Sydney
+BEARS",3,3,7
+0,NSWRFL 1975,Round 4,"Sunday, 13th April, 1975",3:00pm (local time),13449,110,"10,050","Western Suburbs
+MAGPIES",6,11,8,CANTERBURY BANKSTOWN,9,12,9
+0,NSWRFL 1975,Round 5,"Saturday, 19th April, 1975",3:00pm (local time),13453,24,"12,605","Eastern Suburbs
+ROOSTERS",12,22,10,"Western Suburbs
+MAGPIES",7,16,8
+0,NSWRFL 1975,Round 5,"Saturday, 19th April, 1975",3:00pm (local time),13452,76,"7,095","Newtown
+JETS",7,17,6,"St George
+DRAGONS",11,34,12
+0,NSWRFL 1975,Round 5,"Sunday, 20th April, 1975",3:00pm (local time),13454,27,"9,120",CANTERBURY BANKSTOWN,14,27,16,"Penrith
+PANTHERS",2,5,11
+0,NSWRFL 1975,Round 5,"Sunday, 20th April, 1975",3:00pm (local time),13455,9,"8,847","Cronulla Sutherland
+SHARKS",17,17,13,"North Sydney
+BEARS",11,13,8
+0,NSWRFL 1975,Round 5,"Sunday, 20th April, 1975",3:00pm (local time),13456,111,"15,292","Parramatta
+EELS",6,19,10,"Manly Warringah
+SEA EAGLES",0,4,9
+0,NSWRFL 1975,Round 5,"Sunday, 20th April, 1975",3:00pm (local time),13457,44,"11,806","South Sydney
+RABBITOHS",19,39,9,"Balmain
+TIGERS",2,2,7
+0,NSWRFL 1975,Round 6,"Friday, 25th April, 1975",3:00pm (local time),13458,7,"11,697","Balmain
+TIGERS",5,5,12,"St George
+DRAGONS",9,31,13
+0,NSWRFL 1975,Round 6,"Saturday, 26th April, 1975",3:00pm (local time),13459,27,"17,066",CANTERBURY BANKSTOWN,5,23,11,"South Sydney
+RABBITOHS",2,10,8
+0,NSWRFL 1975,Round 6,"Sunday, 27th April, 1975",3:00pm (local time),13460,9,"8,312","Cronulla Sutherland
+SHARKS",10,18,14,"Newtown
+JETS",9,16,9
+0,NSWRFL 1975,Round 6,"Sunday, 27th April, 1975",3:00pm (local time),13461,25,"13,128","North Sydney
+BEARS",2,22,13,"Manly Warringah
+SEA EAGLES",23,30,12
+0,NSWRFL 1975,Round 6,"Sunday, 27th April, 1975",3:00pm (local time),13463,3,"11,383","Penrith
+PANTHERS",7,12,17,"Eastern Suburbs
+ROOSTERS",7,25,11
+0,NSWRFL 1975,Round 6,"Sunday, 27th April, 1975",3:00pm (local time),13462,110,"16,687","Western Suburbs
+MAGPIES",6,20,5,"Parramatta
+EELS",0,3,9
+0,NSWRFL 1975,Round 7,"Saturday, 3rd May, 1975",3:00pm (local time),13465,24,"17,869","Eastern Suburbs
+ROOSTERS",13,29,9,CANTERBURY BANKSTOWN,6,10,9
+0,NSWRFL 1975,Round 7,"Saturday, 3rd May, 1975",3:00pm (local time),13464,76,"3,685","Newtown
+JETS",12,12,10,"Manly Warringah
+SEA EAGLES",13,25,9
+0,NSWRFL 1975,Round 7,"Sunday, 4th May, 1975",3:00pm (local time),13469,7,"6,168","Balmain
+TIGERS",13,18,13,"Cronulla Sutherland
+SHARKS",10,16,11
+0,NSWRFL 1975,Round 7,"Sunday, 4th May, 1975",3:00pm (local time),13466,25,"7,285","North Sydney
+BEARS",7,7,12,"Western Suburbs
+MAGPIES",8,20,8
+0,NSWRFL 1975,Round 7,"Sunday, 4th May, 1975",3:00pm (local time),13467,111,"8,949","Parramatta
+EELS",8,13,10,"Penrith
+PANTHERS",8,8,6
+0,NSWRFL 1975,Round 7,"Sunday, 4th May, 1975",3:00pm (local time),13468,23,"23,582","St George
+DRAGONS",8,17,6,"South Sydney
+RABBITOHS",10,10,12
+0,NSWRFL 1975,Round 8,"Saturday, 10th May, 1975",3:00pm (local time),13470,44,"12,231","South Sydney
+RABBITOHS",2,4,11,"Eastern Suburbs
+ROOSTERS",2,7,12
+0,NSWRFL 1975,Round 8,"Sunday, 11th May, 1975",3:00pm (local time),13471,27,"11,079",CANTERBURY BANKSTOWN,10,18,11,"Parramatta
+EELS",6,13,6
+0,NSWRFL 1975,Round 8,"Sunday, 11th May, 1975",3:00pm (local time),13472,9,"13,656","Cronulla Sutherland
+SHARKS",7,12,10,"St George
+DRAGONS",7,12,6
+0,NSWRFL 1975,Round 8,"Sunday, 11th May, 1975",3:00pm (local time),13475,5,"11,620","Manly Warringah
+SEA EAGLES",2,20,8,"Balmain
+TIGERS",2,7,10
+0,NSWRFL 1975,Round 8,"Sunday, 11th May, 1975",3:00pm (local time),13474,3,"6,439","Penrith
+PANTHERS",3,3,10,"North Sydney
+BEARS",14,28,4
+0,NSWRFL 1975,Round 8,"Sunday, 11th May, 1975",3:00pm (local time),13473,110,"6,588","Western Suburbs
+MAGPIES",7,11,11,"Newtown
+JETS",15,22,12
+0,NSWRFL 1975,Round 9,"Sunday, 18th May, 1975",3:00pm (local time),13478,9,"11,251","Cronulla Sutherland
+SHARKS",15,41,11,"South Sydney
+RABBITOHS",11,11,9
+0,NSWRFL 1975,Round 9,"Sunday, 18th May, 1975",3:00pm (local time),13476,5,"20,121","Manly Warringah
+SEA EAGLES",16,16,6,"St George
+DRAGONS",5,15,14
+0,NSWRFL 1975,Round 9,"Sunday, 18th May, 1975",3:00pm (local time),13477,76,"2,793","Newtown
+JETS",13,30,13,"Penrith
+PANTHERS",3,16,8
+0,NSWRFL 1975,Round 9,"Sunday, 18th May, 1975",3:00pm (local time),13480,25,"8,126","North Sydney
+BEARS",4,6,11,CANTERBURY BANKSTOWN,14,50,9
+0,NSWRFL 1975,Round 9,"Sunday, 18th May, 1975",3:00pm (local time),13481,111,"12,725","Parramatta
+EELS",5,12,7,"Eastern Suburbs
+ROOSTERS",10,17,8
+0,NSWRFL 1975,Round 9,"Sunday, 18th May, 1975",3:00pm (local time),13479,110,"7,207","Western Suburbs
+MAGPIES",14,31,10,"Balmain
+TIGERS",10,15,9
+0,NSWRFL 1975,Round 10,"Saturday, 24th May, 1975",3:00pm (local time),13482,23,"10,439","St George
+DRAGONS",19,27,8,"Western Suburbs
+MAGPIES",12,20,5
+0,NSWRFL 1975,Round 10,"Saturday, 24th May, 1975",3:00pm (local time),13483,44,"7,343","South Sydney
+RABBITOHS",13,35,4,"Parramatta
+EELS",7,28,12
+0,NSWRFL 1975,Round 10,"Sunday, 25th May, 1975",3:00pm (local time),13484,27,"11,568",CANTERBURY BANKSTOWN,4,17,9,"Newtown
+JETS",15,17,11
+0,NSWRFL 1975,Round 10,"Sunday, 25th May, 1975",3:00pm (local time),13485,109,"9,124","Eastern Suburbs
+ROOSTERS",14,22,10,"North Sydney
+BEARS",3,8,9
+0,NSWRFL 1975,Round 10,"Sunday, 25th May, 1975",3:00pm (local time),13487,5,"12,045","Manly Warringah
+SEA EAGLES",15,24,11,"Cronulla Sutherland
+SHARKS",5,18,6
+0,NSWRFL 1975,Round 10,"Sunday, 25th May, 1975",3:00pm (local time),13486,3,"6,397","Penrith
+PANTHERS",0,8,7,"Balmain
+TIGERS",18,23,8
+0,NSWRFL 1975,Round 11,"Saturday, 31st May, 1975",3:00pm (local time),13489,76,"4,773","Newtown
+JETS",0,6,13,"Eastern Suburbs
+ROOSTERS",2,15,8
+0,NSWRFL 1975,Round 11,"Saturday, 31st May, 1975",3:00pm (local time),13488,44,"11,672","South Sydney
+RABBITOHS",10,28,8,"Manly Warringah
+SEA EAGLES",23,32,9
+0,NSWRFL 1975,Round 11,"Sunday, 1st June, 1975",3:00pm (local time),13490,7,"7,473","Balmain
+TIGERS",10,15,16,CANTERBURY BANKSTOWN,5,10,12
+0,NSWRFL 1975,Round 11,"Sunday, 1st June, 1975",3:00pm (local time),13491,111,"6,330","Parramatta
+EELS",9,29,13,"North Sydney
+BEARS",7,17,8
+0,NSWRFL 1975,Round 11,"Sunday, 1st June, 1975",3:00pm (local time),13492,23,"7,727","St George
+DRAGONS",17,24,13,"Penrith
+PANTHERS",5,15,9
+0,NSWRFL 1975,Round 11,"Sunday, 1st June, 1975",3:00pm (local time),13493,110,"7,800","Western Suburbs
+MAGPIES",16,26,7,"Cronulla Sutherland
+SHARKS",7,20,11
+0,NSWRFL 1975,Round 12,"Saturday, 7th June, 1975",3:00pm (local time),13497,109,"5,084","Eastern Suburbs
+ROOSTERS",11,25,6,"Penrith
+PANTHERS",0,8,6
+0,NSWRFL 1975,Round 12,"Saturday, 7th June, 1975",3:00pm (local time),13494,44,"10,644","South Sydney
+RABBITOHS",4,6,15,CANTERBURY BANKSTOWN,4,9,10
+0,NSWRFL 1975,Round 12,"Sunday, 8th June, 1975",3:00pm (local time),13495,5,"10,008","Manly Warringah
+SEA EAGLES",5,10,11,"North Sydney
+BEARS",4,4,11
+0,NSWRFL 1975,Round 12,"Sunday, 8th June, 1975",3:00pm (local time),13499,76,"4,538","Newtown
+JETS",9,20,9,"Cronulla Sutherland
+SHARKS",5,11,10
+0,NSWRFL 1975,Round 12,"Sunday, 8th June, 1975",3:00pm (local time),13496,111,"11,957","Parramatta
+EELS",9,19,11,"Western Suburbs
+MAGPIES",12,23,11
+0,NSWRFL 1975,Round 12,"Sunday, 8th June, 1975",3:00pm (local time),13498,23,"12,069","St George
+DRAGONS",9,9,14,"Balmain
+TIGERS",12,12,7
+0,NSWRFL 1975,Round 13,"Sunday, 15th June, 1975",3:00pm (local time),13502,7,"8,961","Balmain
+TIGERS",3,5,12,"Eastern Suburbs
+ROOSTERS",2,7,7
+0,NSWRFL 1975,Round 13,"Sunday, 15th June, 1975",3:00pm (local time),13501,25,"5,004","North Sydney
+BEARS",7,18,14,"South Sydney
+RABBITOHS",12,16,11
+0,NSWRFL 1975,Round 13,"Sunday, 15th June, 1975",3:00pm (local time),13505,3,"5,143","Penrith
+PANTHERS",12,40,9,"Cronulla Sutherland
+SHARKS",10,15,6
+0,NSWRFL 1975,Round 13,"Sunday, 15th June, 1975",3:00pm (local time),13503,110,"11,249","Western Suburbs
+MAGPIES",7,18,7,"Manly Warringah
+SEA EAGLES",0,0,11
+0,NSWRFL 1975,Round 13,"Monday, 16th June, 1975",3:00pm (local time),13500,76,"2,206","Newtown
+JETS",11,26,12,"Parramatta
+EELS",10,15,12
+0,NSWRFL 1975,Round 13,"Monday, 16th June, 1975",3:00pm (local time),13504,23,"7,642","St George
+DRAGONS",0,2,10,CANTERBURY BANKSTOWN,0,3,10
+0,NSWRFL 1975,Round 15,"Sunday, 29th June, 1975",3:00pm (local time),13507,7,"6,201","Balmain
+TIGERS",16,23,11,"North Sydney
+BEARS",7,10,11
+0,NSWRFL 1975,Round 15,"Sunday, 29th June, 1975",3:00pm (local time),13508,27,"16,335",CANTERBURY BANKSTOWN,8,24,18,"Manly Warringah
+SEA EAGLES",3,6,13
+0,NSWRFL 1975,Round 15,"Sunday, 29th June, 1975",3:00pm (local time),13509,9,"8,715","Cronulla Sutherland
+SHARKS",2,4,10,"Eastern Suburbs
+ROOSTERS",4,6,10
+0,NSWRFL 1975,Round 15,"Sunday, 29th June, 1975",3:00pm (local time),13506,111,"9,819","Parramatta
+EELS",7,17,12,"St George
+DRAGONS",17,17,13
+0,NSWRFL 1975,Round 15,"Sunday, 29th June, 1975",3:00pm (local time),13510,44,"6,905","South Sydney
+RABBITOHS",9,14,10,"Newtown
+JETS",8,20,12
+0,NSWRFL 1975,Round 15,"Sunday, 29th June, 1975",3:00pm (local time),13511,110,"7,217","Western Suburbs
+MAGPIES",3,11,7,"Penrith
+PANTHERS",5,16,8
+0,NSWRFL 1975,Round 16,"Saturday, 5th July, 1975",3:00pm (local time),13512,24,"16,998","Eastern Suburbs
+ROOSTERS",7,11,9,"Manly Warringah
+SEA EAGLES",7,10,4
+0,NSWRFL 1975,Round 16,"Sunday, 6th July, 1975",3:00pm (local time),13515,7,"10,041","Balmain
+TIGERS",0,9,11,"Newtown
+JETS",0,7,13
+0,NSWRFL 1975,Round 16,"Sunday, 6th July, 1975",3:00pm (local time),13516,27,"23,103",CANTERBURY BANKSTOWN,5,7,9,"Western Suburbs
+MAGPIES",0,7,7
+0,NSWRFL 1975,Round 16,"Sunday, 6th July, 1975",3:00pm (local time),13517,9,"8,016","Cronulla Sutherland
+SHARKS",9,23,7,"Parramatta
+EELS",3,9,4
+0,NSWRFL 1975,Round 16,"Sunday, 6th July, 1975",3:00pm (local time),13513,25,"6,046","North Sydney
+BEARS",13,18,7,"St George
+DRAGONS",2,12,13
+0,NSWRFL 1975,Round 16,"Sunday, 6th July, 1975",3:00pm (local time),13514,3,"11,276","Penrith
+PANTHERS",4,9,14,"South Sydney
+RABBITOHS",0,7,10
+0,NSWRFL 1975,Round 17,"Saturday, 12th July, 1975",3:00pm (local time),13518,7,"7,356","Balmain
+TIGERS",14,22,9,"South Sydney
+RABBITOHS",7,7,15
+0,NSWRFL 1975,Round 17,"Sunday, 13th July, 1975",3:00pm (local time),13520,5,"9,010","Manly Warringah
+SEA EAGLES",11,27,10,"Parramatta
+EELS",0,8,11
+0,NSWRFL 1975,Round 17,"Sunday, 13th July, 1975",3:00pm (local time),13523,25,"4,208","North Sydney
+BEARS",5,5,12,"Cronulla Sutherland
+SHARKS",7,18,12
+0,NSWRFL 1975,Round 17,"Sunday, 13th July, 1975",3:00pm (local time),13522,3,"11,563","Penrith
+PANTHERS",18,23,9,CANTERBURY BANKSTOWN,3,8,7
+0,NSWRFL 1975,Round 17,"Sunday, 13th July, 1975",3:00pm (local time),13521,23,"7,569","St George
+DRAGONS",10,23,11,"Newtown
+JETS",7,17,10
+0,NSWRFL 1975,Round 17,"Sunday, 13th July, 1975",3:00pm (local time),13519,110,"14,326","Western Suburbs
+MAGPIES",7,11,12,"Eastern Suburbs
+ROOSTERS",6,12,15
+0,NSWRFL 1975,Round 14,"Friday, 18th July, 1975",3:00pm (local time),13524,25,"2,730","North Sydney
+BEARS",9,17,15,"Newtown
+JETS",10,10,11
+0,NSWRFL 1975,Round 14,"Sunday, 20th July, 1975",3:00pm (local time),13529,9,"8,174","Cronulla Sutherland
+SHARKS",4,11,11,CANTERBURY BANKSTOWN,3,3,11
+0,NSWRFL 1975,Round 14,"Sunday, 20th July, 1975",3:00pm (local time),13527,24,"19,803","Eastern Suburbs
+ROOSTERS",18,41,5,"St George
+DRAGONS",2,7,10
+0,NSWRFL 1975,Round 14,"Sunday, 20th July, 1975",3:00pm (local time),13525,5,"9,661","Manly Warringah
+SEA EAGLES",11,25,15,"Penrith
+PANTHERS",5,8,10
+0,NSWRFL 1975,Round 14,"Sunday, 20th July, 1975",3:00pm (local time),13528,111,"9,343","Parramatta
+EELS",12,29,10,"Balmain
+TIGERS",8,8,8
+0,NSWRFL 1975,Round 14,"Sunday, 20th July, 1975",3:00pm (local time),13526,44,"6,690","South Sydney
+RABBITOHS",3,14,11,"Western Suburbs
+MAGPIES",20,25,4
+0,NSWRFL 1975,Round 18,"Saturday, 26th July, 1975",3:00pm (local time),13530,44,"9,574","South Sydney
+RABBITOHS",4,4,8,"St George
+DRAGONS",10,21,10
+0,NSWRFL 1975,Round 18,"Sunday, 27th July, 1975",3:00pm (local time),13532,27,"17,111",CANTERBURY BANKSTOWN,4,4,9,"Eastern Suburbs
+ROOSTERS",5,26,9
+0,NSWRFL 1975,Round 18,"Sunday, 27th July, 1975",3:00pm (local time),13535,9,"9,651","Cronulla Sutherland
+SHARKS",7,14,8,"Balmain
+TIGERS",5,13,10
+0,NSWRFL 1975,Round 18,"Sunday, 27th July, 1975",3:00pm (local time),13531,5,"9,368","Manly Warringah
+SEA EAGLES",13,24,12,"Newtown
+JETS",14,19,10
+0,NSWRFL 1975,Round 18,"Sunday, 27th July, 1975",3:00pm (local time),13534,3,"10,290","Penrith
+PANTHERS",7,15,10,"Parramatta
+EELS",14,30,6
+0,NSWRFL 1975,Round 18,"Sunday, 27th July, 1975",3:00pm (local time),13533,110,"6,820","Western Suburbs
+MAGPIES",2,7,11,"North Sydney
+BEARS",2,10,6
+0,NSWRFL 1975,Round 19,"Saturday, 2nd August, 1975",3:00pm (local time),13537,109,"7,386","Eastern Suburbs
+ROOSTERS",19,24,14,"South Sydney
+RABBITOHS",5,5,7
+0,NSWRFL 1975,Round 19,"Saturday, 2nd August, 1975",3:00pm (local time),13536,76,"2,355","Newtown
+JETS",5,10,13,"Western Suburbs
+MAGPIES",7,7,12
+0,NSWRFL 1975,Round 19,"Sunday, 3rd August, 1975",3:00pm (local time),13539,7,"9,013","Balmain
+TIGERS",5,14,16,"Manly Warringah
+SEA EAGLES",7,11,11
+0,NSWRFL 1975,Round 19,"Sunday, 3rd August, 1975",3:00pm (local time),13538,25,"3,034","North Sydney
+BEARS",5,27,12,"Penrith
+PANTHERS",3,6,6
+0,NSWRFL 1975,Round 19,"Sunday, 3rd August, 1975",3:00pm (local time),13540,111,"9,476","Parramatta
+EELS",2,7,13,CANTERBURY BANKSTOWN,3,6,12
+0,NSWRFL 1975,Round 19,"Sunday, 3rd August, 1975",3:00pm (local time),13541,23,"11,919","St George
+DRAGONS",9,10,11,"Cronulla Sutherland
+SHARKS",7,7,6
+0,NSWRFL 1975,Round 20,"Saturday, 9th August, 1975",3:00pm (local time),13542,7,"9,396","Balmain
+TIGERS",2,8,15,"Western Suburbs
+MAGPIES",2,8,7
+0,NSWRFL 1975,Round 20,"Saturday, 9th August, 1975",3:00pm (local time),13543,109,"10,037","Eastern Suburbs
+ROOSTERS",11,26,6,"Parramatta
+EELS",2,7,10
+0,NSWRFL 1975,Round 20,"Sunday, 10th August, 1975",3:00pm (local time),13544,27,"11,115",CANTERBURY BANKSTOWN,15,20,7,"North Sydney
+BEARS",9,21,8
+0,NSWRFL 1975,Round 20,"Sunday, 10th August, 1975",3:00pm (local time),13546,3,"5,264","Penrith
+PANTHERS",12,20,5,"Newtown
+JETS",7,20,12
+0,NSWRFL 1975,Round 20,"Sunday, 10th August, 1975",3:00pm (local time),13545,23,"13,502","St George
+DRAGONS",14,16,8,"Manly Warringah
+SEA EAGLES",8,13,8
+0,NSWRFL 1975,Round 20,"Sunday, 10th August, 1975",3:00pm (local time),13547,44,"6,248","South Sydney
+RABBITOHS",11,23,13,"Cronulla Sutherland
+SHARKS",7,17,14
+0,NSWRFL 1975,Round 21,"Saturday, 16th August, 1975",3:00pm (local time),13548,76,"5,157","Newtown
+JETS",0,6,10,CANTERBURY BANKSTOWN,15,31,10
+0,NSWRFL 1975,Round 21,"Sunday, 17th August, 1975",3:00pm (local time),13550,7,"8,365","Balmain
+TIGERS",11,20,7,"Penrith
+PANTHERS",4,13,9
+0,NSWRFL 1975,Round 21,"Sunday, 17th August, 1975",3:00pm (local time),13551,9,"9,157","Cronulla Sutherland
+SHARKS",4,16,12,"Manly Warringah
+SEA EAGLES",11,26,9
+0,NSWRFL 1975,Round 21,"Sunday, 17th August, 1975",3:00pm (local time),13553,25,"9,284","North Sydney
+BEARS",6,7,7,"Eastern Suburbs
+ROOSTERS",5,30,5
+0,NSWRFL 1975,Round 21,"Sunday, 17th August, 1975",3:00pm (local time),13549,111,"7,698","Parramatta
+EELS",17,42,11,"South Sydney
+RABBITOHS",5,10,12
+0,NSWRFL 1975,Round 21,"Sunday, 17th August, 1975",3:00pm (local time),13552,110,"9,031","Western Suburbs
+MAGPIES",0,21,9,"St George
+DRAGONS",7,7,7
+0,NSWRFL 1975,Round 22,"Saturday, 23rd August, 1975",3:00pm (local time),13554,9,"8,969","Cronulla Sutherland
+SHARKS",7,17,9,"Western Suburbs
+MAGPIES",15,31,8
+0,NSWRFL 1975,Round 22,"Saturday, 23rd August, 1975",3:00pm (local time),13555,109,"7,566","Eastern Suburbs
+ROOSTERS",16,33,13,"Newtown
+JETS",0,6,9
+0,NSWRFL 1975,Round 22,"Sunday, 24th August, 1975",3:00pm (local time),13559,27,"24,239",CANTERBURY BANKSTOWN,12,17,11,"Balmain
+TIGERS",9,16,6
+0,NSWRFL 1975,Round 22,"Sunday, 24th August, 1975",3:00pm (local time),13556,5,"11,734","Manly Warringah
+SEA EAGLES",22,54,12,"South Sydney
+RABBITOHS",0,0,7
+0,NSWRFL 1975,Round 22,"Sunday, 24th August, 1975",3:00pm (local time),13557,25,"4,825","North Sydney
+BEARS",5,13,9,"Parramatta
+EELS",13,28,8
+0,NSWRFL 1975,Round 22,"Sunday, 24th August, 1975",3:00pm (local time),13558,3,"8,303","Penrith
+PANTHERS",0,25,13,"St George
+DRAGONS",14,19,7
+0,NSWRFL 1975,Playoff,"Tuesday, 26th August, 1975",3:15pm (local time),13560,24,"9,920","Parramatta
+EELS",13,18,,"Western Suburbs
+MAGPIES",5,13,
+0,NSWRFL 1975,Playoff,"Thursday, 28th August, 1975",3:15pm (local time),13561,24,"19,914","Parramatta
+EELS",9,19,14,"Balmain
+TIGERS",3,8,3
+0,NSWRFL 1975,Major Prelim Semi,"Saturday, 30th August, 1975",3:00pm (local time),13562,24,"23,492","St George
+DRAGONS",10,10,,"Manly Warringah
+SEA EAGLES",0,3,
+0,NSWRFL 1975,Minor Prelim Semi,"Sunday, 31st August, 1975",3:00pm (local time),13563,109,"19,312","Parramatta
+EELS",4,6,12,CANTERBURY BANKSTOWN,5,5,10
+0,NSWRFL 1975,Major Semi,"Saturday, 6th September, 1975",3:00pm (local time),13564,24,"28,851","St George
+DRAGONS",4,8,8,"Eastern Suburbs
+ROOSTERS",5,5,7
+0,NSWRFL 1975,Minor Semi,"Sunday, 7th September, 1975",3:00pm (local time),13565,24,"26,109","Manly Warringah
+SEA EAGLES",16,22,9,"Parramatta
+EELS",7,12,12
+0,NSWRFL 1975,Prelim Final,"Saturday, 13th September, 1975",3:00pm (local time),13566,24,"31,645","Eastern Suburbs
+ROOSTERS",19,28,12,"Manly Warringah
+SEA EAGLES",2,13,7
+0,NSWRFL 1975,Grand Final,"Saturday, 20th September, 1975",3:00pm (local time),13567,24,"63,047","Eastern Suburbs
+ROOSTERS",5,38,3,"St George
+DRAGONS",0,0,5

@@ -1,0 +1,114 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1928,Round 1,"Saturday, 21st April, 1928",3:15pm (local time),9304,103,"7,291",EASTERN SUBURBS,5,18,,UNIVERSITY,2,14,
+0,NSWRFL 1928,Round 1,"Saturday, 21st April, 1928",3:15pm (local time),9303,158,"4,000",NEWTOWN,5,5,,"Western Suburbs
+MAGPIES",0,13,
+0,NSWRFL 1928,Round 1,"Saturday, 21st April, 1928",3:15pm (local time),9306,25,"5,000",NORTH SYDNEY,8,16,,"Balmain
+TIGERS",7,12,
+0,NSWRFL 1928,Round 1,"Saturday, 21st April, 1928",3:15pm (local time),9305,105,"8,000","South Sydney
+RABBITOHS",2,12,,GLEBE,2,2,
+0,NSWRFL 1928,Round 2,"Wednesday, 25th April, 1928",3:15pm (local time),9307,150,"8,000","Balmain
+TIGERS",5,10,,"South Sydney
+RABBITOHS",7,22,
+0,NSWRFL 1928,Round 2,"Wednesday, 25th April, 1928",3:15pm (local time),9308,103,"14,000",EASTERN SUBURBS,3,13,,NORTH SYDNEY,5,10,
+0,NSWRFL 1928,Round 2,"Wednesday, 25th April, 1928",3:15pm (local time),9309,154,"11,000","St George
+DRAGONS",0,7,,NEWTOWN,2,2,
+0,NSWRFL 1928,Round 2,"Wednesday, 25th April, 1928",3:15pm (local time),9310,112,"4,500","Western Suburbs
+MAGPIES",0,14,,UNIVERSITY,10,25,
+0,NSWRFL 1928,Round 3,"Saturday, 28th April, 1928",3:15pm (local time),9314,150,"4,000","Balmain
+TIGERS",4,17,,EASTERN SUBURBS,20,42,
+0,NSWRFL 1928,Round 3,"Saturday, 28th April, 1928",3:15pm (local time),9311,105,"3,000",GLEBE,10,10,,"Western Suburbs
+MAGPIES",9,15,
+0,NSWRFL 1928,Round 3,"Saturday, 28th April, 1928",3:15pm (local time),9312,25,"6,000",NORTH SYDNEY,9,9,,"St George
+DRAGONS",4,7,
+0,NSWRFL 1928,Round 3,"Saturday, 28th April, 1928",3:15pm (local time),9313,109,"15,000","South Sydney
+RABBITOHS",12,17,,UNIVERSITY,3,14,
+0,NSWRFL 1928,Round 4,"Saturday, 26th May, 1928",3:15pm (local time),9315,150,"2,000","Balmain
+TIGERS",17,19,,"Western Suburbs
+MAGPIES",6,24,
+0,NSWRFL 1928,Round 4,"Saturday, 26th May, 1928",3:15pm (local time),9317,25,"3,000",NORTH SYDNEY,10,17,,NEWTOWN,0,10,
+0,NSWRFL 1928,Round 4,"Saturday, 26th May, 1928",3:15pm (local time),9316,154,"3,000","St George
+DRAGONS",7,24,,GLEBE,0,0,
+0,NSWRFL 1928,Round 4,"Saturday, 26th May, 1928",3:15pm (local time),9318,24,"28,002","South Sydney
+RABBITOHS",2,7,,EASTERN SUBURBS,6,9,
+0,NSWRFL 1928,Round 5,"Saturday, 16th June, 1928",3:15pm (local time),9320,150,"2,500","Balmain
+TIGERS",2,5,,UNIVERSITY,10,16,
+0,NSWRFL 1928,Round 5,"Saturday, 16th June, 1928",3:15pm (local time),9322,105,"2,000",GLEBE,0,0,,EASTERN SUBURBS,2,5,
+0,NSWRFL 1928,Round 5,"Saturday, 16th June, 1928",3:15pm (local time),9319,158,"4,000",NEWTOWN,10,17,,"South Sydney
+RABBITOHS",2,12,
+0,NSWRFL 1928,Round 5,"Saturday, 16th June, 1928",3:15pm (local time),9321,24,"5,000","Western Suburbs
+MAGPIES",3,10,,"St George
+DRAGONS",3,12,
+0,NSWRFL 1928,Round 6,"Saturday, 23rd June, 1928",3:15pm (local time),9325,24,"13,000",EASTERN SUBURBS,5,16,,NEWTOWN,2,10,
+0,NSWRFL 1928,Round 6,"Saturday, 23rd June, 1928",3:15pm (local time),9326,105,"1,000",GLEBE,0,5,,"Balmain
+TIGERS",3,15,
+0,NSWRFL 1928,Round 6,"Saturday, 23rd June, 1928",3:15pm (local time),9323,25,"3,000",NORTH SYDNEY,2,9,,UNIVERSITY,2,2,
+0,NSWRFL 1928,Round 6,"Saturday, 23rd June, 1928",3:15pm (local time),9324,154,"5,000","St George
+DRAGONS",2,7,,"South Sydney
+RABBITOHS",5,5,
+0,NSWRFL 1928,Round 7,"Saturday, 30th June, 1928",3:15pm (local time),9329,150,"2,000","Balmain
+TIGERS",4,17,,NEWTOWN,3,3,
+0,NSWRFL 1928,Round 7,"Saturday, 30th June, 1928",3:15pm (local time),9330,24,"16,450",EASTERN SUBURBS,2,5,,"St George
+DRAGONS",7,14,
+0,NSWRFL 1928,Round 7,"Saturday, 30th June, 1928",3:15pm (local time),9327,105,,GLEBE,3,15,,UNIVERSITY,6,8,
+0,NSWRFL 1928,Round 7,"Saturday, 30th June, 1928",3:15pm (local time),9328,112,"5,000",NORTH SYDNEY,11,20,,"Western Suburbs
+MAGPIES",10,10,
+0,NSWRFL 1928,Round 8,"Saturday, 7th July, 1928",3:15pm (local time),9331,24,"8,651",GLEBE,2,8,,NORTH SYDNEY,5,7,
+0,NSWRFL 1928,Round 8,"Saturday, 7th July, 1928",3:15pm (local time),9332,105,"1,000",NEWTOWN,7,14,,UNIVERSITY,17,27,
+0,NSWRFL 1928,Round 8,"Saturday, 7th July, 1928",3:15pm (local time),9334,154,"5,000","St George
+DRAGONS",14,21,,"Balmain
+TIGERS",0,12,
+0,NSWRFL 1928,Round 8,"Saturday, 7th July, 1928",3:15pm (local time),9333,112,"6,000","Western Suburbs
+MAGPIES",3,16,,"South Sydney
+RABBITOHS",15,34,
+0,NSWRFL 1928,Round 9,"Saturday, 28th July, 1928",3:15pm (local time),9337,158,"1,500",NEWTOWN,3,3,,GLEBE,0,11,
+0,NSWRFL 1928,Round 9,"Saturday, 28th July, 1928",3:15pm (local time),9335,25,"4,500",NORTH SYDNEY,6,9,,"South Sydney
+RABBITOHS",8,14,
+0,NSWRFL 1928,Round 9,"Saturday, 28th July, 1928",3:15pm (local time),9336,24,"6,838","St George
+DRAGONS",6,16,,UNIVERSITY,6,11,
+0,NSWRFL 1928,Round 9,"Saturday, 28th July, 1928",3:15pm (local time),9338,112,"2,000","Western Suburbs
+MAGPIES",4,6,,EASTERN SUBURBS,9,14,
+0,NSWRFL 1928,Round 10,"Saturday, 4th August, 1928",3:15pm (local time),9342,158,,NEWTOWN,5,5,,EASTERN SUBURBS,11,26,
+0,NSWRFL 1928,Round 10,"Saturday, 4th August, 1928",3:15pm (local time),9339,24,"7,000","St George
+DRAGONS",3,17,,UNIVERSITY,4,7,
+0,NSWRFL 1928,Round 10,"Saturday, 4th August, 1928",3:15pm (local time),9341,105,"5,000","South Sydney
+RABBITOHS",7,17,,"Balmain
+TIGERS",8,15,
+0,NSWRFL 1928,Round 10,"Saturday, 4th August, 1928",3:15pm (local time),9340,112,,"Western Suburbs
+MAGPIES",3,16,,GLEBE,0,5,
+0,NSWRFL 1928,Round 11,"Saturday, 11th August, 1928",3:15pm (local time),9345,154,"6,000","Balmain
+TIGERS",3,3,,"St George
+DRAGONS",6,21,
+0,NSWRFL 1928,Round 11,"Saturday, 11th August, 1928",3:15pm (local time),9346,24,"10,000",EASTERN SUBURBS,16,22,,"Western Suburbs
+MAGPIES",7,17,
+0,NSWRFL 1928,Round 11,"Saturday, 11th August, 1928",3:15pm (local time),9343,105,"3,000",GLEBE,7,13,,"South Sydney
+RABBITOHS",2,8,
+0,NSWRFL 1928,Round 11,"Saturday, 11th August, 1928",3:15pm (local time),9344,25,"4,000",NORTH SYDNEY,0,10,,UNIVERSITY,12,14,
+0,NSWRFL 1928,Round 12,"Saturday, 18th August, 1928",3:15pm (local time),9348,150,"2,500","Balmain
+TIGERS",12,15,,NORTH SYDNEY,12,20,
+0,NSWRFL 1928,Round 12,"Saturday, 18th August, 1928",3:15pm (local time),9349,103,,EASTERN SUBURBS,5,14,,GLEBE,12,12,
+0,NSWRFL 1928,Round 12,"Saturday, 18th August, 1928",3:15pm (local time),9347,158,"1,500",NEWTOWN,10,21,,UNIVERSITY,20,27,
+0,NSWRFL 1928,Round 12,"Saturday, 18th August, 1928",3:15pm (local time),9350,24,"15,000","South Sydney
+RABBITOHS",5,8,,"St George
+DRAGONS",5,9,
+0,NSWRFL 1928,Round 13,"Saturday, 25th August, 1928",3:15pm (local time),9351,24,"7,183",GLEBE,8,13,,"St George
+DRAGONS",16,22,
+0,NSWRFL 1928,Round 13,"Saturday, 25th August, 1928",3:15pm (local time),9354,158,,NEWTOWN,6,8,,"Balmain
+TIGERS",8,15,
+0,NSWRFL 1928,Round 13,"Saturday, 25th August, 1928",3:15pm (local time),9352,109,"6,000","South Sydney
+RABBITOHS",18,21,,NORTH SYDNEY,10,17,
+0,NSWRFL 1928,Round 13,"Saturday, 25th August, 1928",3:15pm (local time),9353,112,"2,000","Western Suburbs
+MAGPIES",5,12,,UNIVERSITY,9,15,
+0,NSWRFL 1928,Round 14,"Saturday, 1st September, 1928",3:15pm (local time),9355,105,,EASTERN SUBURBS,8,8,,UNIVERSITY,2,4,
+0,NSWRFL 1928,Round 14,"Saturday, 1st September, 1928",3:15pm (local time),9357,24,"7,142","St George
+DRAGONS",10,23,,NORTH SYDNEY,0,13,
+0,NSWRFL 1928,Round 14,"Saturday, 1st September, 1928",3:15pm (local time),9356,109,"2,500","South Sydney
+RABBITOHS",11,39,,NEWTOWN,14,14,
+0,NSWRFL 1928,Round 14,"Saturday, 1st September, 1928",3:15pm (local time),9358,112,,"Western Suburbs
+MAGPIES",11,21,,"Balmain
+TIGERS",17,25,
+0,NSWRFL 1928,Semi Final,"Saturday, 8th September, 1928",3:15pm (local time),9359,105,"5,000",EASTERN SUBURBS,3,26,,NORTH SYDNEY,10,13,
+0,NSWRFL 1928,Semi Final,"Saturday, 8th September, 1928",3:15pm (local time),9360,154,"14,758","South Sydney
+RABBITOHS",5,13,,"St George
+DRAGONS",5,5,
+0,NSWRFL 1928,Final,"Saturday, 15th September, 1928",3:15pm (local time),9361,103,"25,000","South Sydney
+RABBITOHS",13,26,,EASTERN SUBURBS,0,5,

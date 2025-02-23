@@ -1,0 +1,367 @@
+,match_id,coach_id,team
+0,776,6075,"Brisbane
+BRONCOS"
+0,776,3554,"Auckland
+WARRIORS"
+0,258,2835,"North Queensland
+COWBOYS"
+0,258,1507,"Adelaide
+RAMS"
+0,777,2826,"Hunter
+MARINERS"
+0,777,1515,"Canterbury Bankstown
+BULLDOGS"
+0,778,1144,"Penrith
+PANTHERS"
+0,778,915,WESTERN REDS
+0,779,1510,"Cronulla Sutherland
+SHARKS"
+0,779,918,"Canberra
+RAIDERS"
+0,259,2835,"North Queensland
+COWBOYS"
+0,259,915,WESTERN REDS
+0,781,3554,"Auckland
+WARRIORS"
+0,781,2826,"Hunter
+MARINERS"
+0,784,918,"Canberra
+RAIDERS"
+0,784,1144,"Penrith
+PANTHERS"
+0,785,6075,"Brisbane
+BRONCOS"
+0,785,1507,"Adelaide
+RAMS"
+0,789,1515,"Canterbury Bankstown
+BULLDOGS"
+0,789,1510,"Cronulla Sutherland
+SHARKS"
+0,790,1507,"Adelaide
+RAMS"
+0,790,2826,"Hunter
+MARINERS"
+0,260,2835,"North Queensland
+COWBOYS"
+0,260,1144,"Penrith
+PANTHERS"
+0,795,1515,"Canterbury Bankstown
+BULLDOGS"
+0,795,918,"Canberra
+RAIDERS"
+0,794,915,WESTERN REDS
+0,794,6075,"Brisbane
+BRONCOS"
+0,799,1510,"Cronulla Sutherland
+SHARKS"
+0,799,3554,"Auckland
+WARRIORS"
+0,800,3554,"Auckland
+WARRIORS"
+0,800,1507,"Adelaide
+RAMS"
+0,47,2826,"Hunter
+MARINERS"
+0,47,2835,"North Queensland
+COWBOYS"
+0,806,1144,"Penrith
+PANTHERS"
+0,806,1510,"Cronulla Sutherland
+SHARKS"
+0,805,915,WESTERN REDS
+0,805,1515,"Canterbury Bankstown
+BULLDOGS"
+0,809,6075,"Brisbane
+BRONCOS"
+0,809,918,"Canberra
+RAIDERS"
+0,810,1507,"Adelaide
+RAMS"
+0,810,915,WESTERN REDS
+0,813,3554,"Auckland
+WARRIORS"
+0,813,1144,"Penrith
+PANTHERS"
+0,816,918,"Canberra
+RAIDERS"
+0,816,2826,"Hunter
+MARINERS"
+0,48,1515,"Canterbury Bankstown
+BULLDOGS"
+0,48,2835,"North Queensland
+COWBOYS"
+0,819,6075,"Brisbane
+BRONCOS"
+0,819,1510,"Cronulla Sutherland
+SHARKS"
+0,820,1144,"Penrith
+PANTHERS"
+0,820,2826,"Hunter
+MARINERS"
+0,261,2835,"North Queensland
+COWBOYS"
+0,261,6075,"Brisbane
+BRONCOS"
+0,825,1515,"Canterbury Bankstown
+BULLDOGS"
+0,825,1507,"Adelaide
+RAMS"
+0,824,915,WESTERN REDS
+0,824,1510,"Cronulla Sutherland
+SHARKS"
+0,829,918,"Canberra
+RAIDERS"
+0,829,3554,"Auckland
+WARRIORS"
+0,831,2826,"Hunter
+MARINERS"
+0,831,3554,"Auckland
+WARRIORS"
+0,50,915,WESTERN REDS
+0,50,2835,"North Queensland
+COWBOYS"
+0,834,1507,"Adelaide
+RAMS"
+0,834,6075,"Brisbane
+BRONCOS"
+0,835,1144,"Penrith
+PANTHERS"
+0,835,918,"Canberra
+RAIDERS"
+0,839,1510,"Cronulla Sutherland
+SHARKS"
+0,839,1515,"Canterbury Bankstown
+BULLDOGS"
+0,840,2826,"Hunter
+MARINERS"
+0,840,915,WESTERN REDS
+0,843,1510,"Cronulla Sutherland
+SHARKS"
+0,843,1507,"Adelaide
+RAMS"
+0,842,3554,"Auckland
+WARRIORS"
+0,842,1515,"Canterbury Bankstown
+BULLDOGS"
+0,51,918,"Canberra
+RAIDERS"
+0,51,2835,"North Queensland
+COWBOYS"
+0,849,1144,"Penrith
+PANTHERS"
+0,849,6075,"Brisbane
+BRONCOS"
+0,851,1510,"Cronulla Sutherland
+SHARKS"
+0,851,2826,"Hunter
+MARINERS"
+0,854,1144,"Penrith
+PANTHERS"
+0,854,1507,"Adelaide
+RAMS"
+0,262,2835,"North Queensland
+COWBOYS"
+0,262,3554,"Auckland
+WARRIORS"
+0,859,6075,"Brisbane
+BRONCOS"
+0,859,1515,"Canterbury Bankstown
+BULLDOGS"
+0,858,918,"Canberra
+RAIDERS"
+0,858,915,WESTERN REDS
+0,53,1507,"Adelaide
+RAMS"
+0,53,2835,"North Queensland
+COWBOYS"
+0,864,2960,"Auckland
+WARRIORS"
+0,864,6075,"Brisbane
+BRONCOS"
+0,863,915,WESTERN REDS
+0,863,1144,"Penrith
+PANTHERS"
+0,868,918,"Canberra
+RAIDERS"
+0,868,1510,"Cronulla Sutherland
+SHARKS"
+0,874,1515,"Canterbury Bankstown
+BULLDOGS"
+0,874,2826,"Hunter
+MARINERS"
+0,875,2826,"Hunter
+MARINERS"
+0,875,1144,"Penrith
+PANTHERS"
+0,882,1507,"Adelaide
+RAMS"
+0,882,1515,"Canterbury Bankstown
+BULLDOGS"
+0,884,1510,"Cronulla Sutherland
+SHARKS"
+0,884,915,WESTERN REDS
+0,54,6075,"Brisbane
+BRONCOS"
+0,54,2835,"North Queensland
+COWBOYS"
+0,887,2960,"Auckland
+WARRIORS"
+0,887,918,"Canberra
+RAIDERS"
+0,888,2826,"Hunter
+MARINERS"
+0,888,6075,"Brisbane
+BRONCOS"
+0,263,2835,"North Queensland
+COWBOYS"
+0,263,1510,"Cronulla Sutherland
+SHARKS"
+0,891,1507,"Adelaide
+RAMS"
+0,891,918,"Canberra
+RAIDERS"
+0,892,915,WESTERN REDS
+0,892,2960,"Auckland
+WARRIORS"
+0,894,1515,"Canterbury Bankstown
+BULLDOGS"
+0,894,1144,"Penrith
+PANTHERS"
+0,904,2826,"Hunter
+MARINERS"
+0,904,918,"Canberra
+RAIDERS"
+0,264,2835,"North Queensland
+COWBOYS"
+0,264,1515,"Canterbury Bankstown
+BULLDOGS"
+0,907,1144,"Penrith
+PANTHERS"
+0,907,2960,"Auckland
+WARRIORS"
+0,908,915,WESTERN REDS
+0,908,1507,"Adelaide
+RAMS"
+0,910,1510,"Cronulla Sutherland
+SHARKS"
+0,910,6075,"Brisbane
+BRONCOS"
+0,57,1144,"Penrith
+PANTHERS"
+0,57,2835,"North Queensland
+COWBOYS"
+0,912,2826,"Hunter
+MARINERS"
+0,912,1507,"Adelaide
+RAMS"
+0,916,2960,"Auckland
+WARRIORS"
+0,916,1510,"Cronulla Sutherland
+SHARKS"
+0,915,6075,"Brisbane
+BRONCOS"
+0,915,915,WESTERN REDS
+0,920,918,"Canberra
+RAIDERS"
+0,920,1515,"Canterbury Bankstown
+BULLDOGS"
+0,921,1507,"Adelaide
+RAMS"
+0,921,2960,"Auckland
+WARRIORS"
+0,922,1510,"Cronulla Sutherland
+SHARKS"
+0,922,1144,"Penrith
+PANTHERS"
+0,924,1515,"Canterbury Bankstown
+BULLDOGS"
+0,924,915,WESTERN REDS
+0,265,2835,"North Queensland
+COWBOYS"
+0,265,2826,"Hunter
+MARINERS"
+0,926,918,"Canberra
+RAIDERS"
+0,926,6075,"Brisbane
+BRONCOS"
+0,944,1507,"Adelaide
+RAMS"
+0,944,1510,"Cronulla Sutherland
+SHARKS"
+0,266,2835,"North Queensland
+COWBOYS"
+0,266,918,"Canberra
+RAIDERS"
+0,948,6075,"Brisbane
+BRONCOS"
+0,948,1144,"Penrith
+PANTHERS"
+0,949,915,WESTERN REDS
+0,949,2826,"Hunter
+MARINERS"
+0,953,1515,"Canterbury Bankstown
+BULLDOGS"
+0,953,2960,"Auckland
+WARRIORS"
+0,954,1144,"Penrith
+PANTHERS"
+0,954,1515,"Canterbury Bankstown
+BULLDOGS"
+0,956,2960,"Auckland
+WARRIORS"
+0,956,915,WESTERN REDS
+0,60,1510,"Cronulla Sutherland
+SHARKS"
+0,60,2835,"North Queensland
+COWBOYS"
+0,959,918,"Canberra
+RAIDERS"
+0,959,1507,"Adelaide
+RAMS"
+0,963,6075,"Brisbane
+BRONCOS"
+0,963,2826,"Hunter
+MARINERS"
+0,964,1507,"Adelaide
+RAMS"
+0,964,1144,"Penrith
+PANTHERS"
+0,966,915,WESTERN REDS
+0,966,918,"Canberra
+RAIDERS"
+0,61,2960,"Auckland
+WARRIORS"
+0,61,2835,"North Queensland
+COWBOYS"
+0,969,2826,"Hunter
+MARINERS"
+0,969,1510,"Cronulla Sutherland
+SHARKS"
+0,973,1515,"Canterbury Bankstown
+BULLDOGS"
+0,973,6075,"Brisbane
+BRONCOS"
+0,975,1510,"Cronulla Sutherland
+SHARKS"
+0,975,918,"Canberra
+RAIDERS"
+0,981,1515,"Canterbury Bankstown
+BULLDOGS"
+0,981,1144,"Penrith
+PANTHERS"
+0,983,6075,"Brisbane
+BRONCOS"
+0,983,1510,"Cronulla Sutherland
+SHARKS"
+0,986,918,"Canberra
+RAIDERS"
+0,986,1144,"Penrith
+PANTHERS"
+0,988,1510,"Cronulla Sutherland
+SHARKS"
+0,988,918,"Canberra
+RAIDERS"
+0,991,6075,"Brisbane
+BRONCOS"
+0,991,1510,"Cronulla Sutherland
+SHARKS"

@@ -1,0 +1,69 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1921,Round 1,"Saturday, 23rd April, 1921",3:15pm (local time),8884,150,"3,000","Balmain
+TIGERS",,57,,UNIVERSITY,,0,
+0,NSWRFL 1921,Round 1,"Saturday, 23rd April, 1921",3:15pm (local time),8883,109,"2,000",GLEBE,,4,,"St George
+DRAGONS",,3,
+0,NSWRFL 1921,Round 1,"Saturday, 23rd April, 1921",3:15pm (local time),8886,24,"15,000","South Sydney
+RABBITOHS",,11,,NORTH SYDNEY,,15,
+0,NSWRFL 1921,Round 1,"Saturday, 23rd April, 1921",3:15pm (local time),8885,112,"5,000","Western Suburbs
+MAGPIES",,8,,NEWTOWN,,17,
+0,NSWRFL 1921,Round 2,"Saturday, 30th April, 1921",3:15pm (local time),8888,150,"5,000","Balmain
+TIGERS",,11,,"St George
+DRAGONS",,8,
+0,NSWRFL 1921,Round 2,"Saturday, 30th April, 1921",3:15pm (local time),8889,24,"12,000",EASTERN SUBURBS,,32,,"South Sydney
+RABBITOHS",,8,
+0,NSWRFL 1921,Round 2,"Saturday, 30th April, 1921",3:15pm (local time),8887,109,"12,000",GLEBE,,8,,NORTH SYDNEY,,12,
+0,NSWRFL 1921,Round 2,"Saturday, 30th April, 1921",3:15pm (local time),8890,112,"1,600","Western Suburbs
+MAGPIES",,21,,UNIVERSITY,,20,
+0,NSWRFL 1921,Round 3,"Saturday, 7th May, 1921",3:15pm (local time),8894,24,"10,000",NEWTOWN,,5,,EASTERN SUBURBS,,30,
+0,NSWRFL 1921,Round 3,"Saturday, 7th May, 1921",3:15pm (local time),8891,25,"4,000",NORTH SYDNEY,,37,,UNIVERSITY,,5,
+0,NSWRFL 1921,Round 3,"Saturday, 7th May, 1921",3:15pm (local time),8892,112,"5,000","St George
+DRAGONS",,13,,"Western Suburbs
+MAGPIES",,16,
+0,NSWRFL 1921,Round 3,"Saturday, 7th May, 1921",3:15pm (local time),8893,109,"7,000","South Sydney
+RABBITOHS",,9,,"Balmain
+TIGERS",,10,
+0,NSWRFL 1921,Round 4,"Saturday, 14th May, 1921",3:15pm (local time),8896,109,"25,000","Balmain
+TIGERS",,9,,NORTH SYDNEY,,17,
+0,NSWRFL 1921,Round 4,"Saturday, 14th May, 1921",3:15pm (local time),8897,24,"1,000",NEWTOWN,,3,,GLEBE,,6,
+0,NSWRFL 1921,Round 4,"Saturday, 14th May, 1921",3:15pm (local time),8898,163,"3,000","St George
+DRAGONS",,11,,EASTERN SUBURBS,,23,
+0,NSWRFL 1921,Round 4,"Saturday, 14th May, 1921",3:15pm (local time),8895,25,500,"South Sydney
+RABBITOHS",,45,,UNIVERSITY,,7,
+0,NSWRFL 1921,Round 5,"Saturday, 21st May, 1921",3:15pm (local time),8900,24,"48,476",EASTERN SUBURBS,,8,,NORTH SYDNEY,,8,
+0,NSWRFL 1921,Round 5,"Saturday, 21st May, 1921",3:15pm (local time),8899,150,300,GLEBE,,45,,UNIVERSITY,,16,
+0,NSWRFL 1921,Round 5,"Saturday, 21st May, 1921",3:15pm (local time),8901,109,,"St George
+DRAGONS",,11,,NEWTOWN,,9,
+0,NSWRFL 1921,Round 5,"Saturday, 21st May, 1921",3:15pm (local time),8902,112,"3,000","Western Suburbs
+MAGPIES",,8,,"South Sydney
+RABBITOHS",,22,
+0,NSWRFL 1921,Round 6,"Saturday, 28th May, 1921",3:15pm (local time),8906,109,"20,000",EASTERN SUBURBS,,8,,"Balmain
+TIGERS",,14,
+0,NSWRFL 1921,Round 6,"Saturday, 28th May, 1921",3:15pm (local time),8903,24,"1,500",GLEBE,,20,,"Western Suburbs
+MAGPIES",,6,
+0,NSWRFL 1921,Round 6,"Saturday, 28th May, 1921",3:15pm (local time),8905,25,"7,000",NORTH SYDNEY,,27,,NEWTOWN,,11,
+0,NSWRFL 1921,Round 6,"Saturday, 28th May, 1921",3:15pm (local time),8904,157,"10,000","St George
+DRAGONS",,19,,UNIVERSITY,,16,
+0,NSWRFL 1921,Round 7,"Saturday, 11th June, 1921",3:15pm (local time),8909,24,"10,000",EASTERN SUBURBS,,19,,GLEBE,,3,
+0,NSWRFL 1921,Round 7,"Saturday, 11th June, 1921",3:15pm (local time),8907,109,"2,000",NEWTOWN,,7,,"South Sydney
+RABBITOHS",,19,
+0,NSWRFL 1921,Round 7,"Saturday, 11th June, 1921",3:15pm (local time),8908,25,"6,000",NORTH SYDNEY,,25,,"St George
+DRAGONS",,13,
+0,NSWRFL 1921,Round 7,"Saturday, 11th June, 1921",3:15pm (local time),8910,112,"5,000","Western Suburbs
+MAGPIES",,7,,"Balmain
+TIGERS",,20,
+0,NSWRFL 1921,Round 8,"Saturday, 18th June, 1921",3:15pm (local time),8912,150,"6,000","Balmain
+TIGERS",,9,,NEWTOWN,,12,
+0,NSWRFL 1921,Round 8,"Saturday, 18th June, 1921",3:15pm (local time),8913,24,"1,500",EASTERN SUBURBS,,55,,UNIVERSITY,,11,
+0,NSWRFL 1921,Round 8,"Saturday, 18th June, 1921",3:15pm (local time),8911,25,"6,000",NORTH SYDNEY,,31,,"Western Suburbs
+MAGPIES",,17,
+0,NSWRFL 1921,Round 8,"Saturday, 18th June, 1921",3:15pm (local time),8914,109,"10,000","South Sydney
+RABBITOHS",,7,,GLEBE,,16,
+0,NSWRFL 1921,Round 9,"Saturday, 25th June, 1921",3:15pm (local time),8917,24,"4,000",GLEBE,,10,,"Balmain
+TIGERS",,5,
+0,NSWRFL 1921,Round 9,"Saturday, 25th June, 1921",3:15pm (local time),8915,158,"3,000",NEWTOWN,,13,,UNIVERSITY,,7,
+0,NSWRFL 1921,Round 9,"Saturday, 25th June, 1921",3:15pm (local time),8916,109,,"South Sydney
+RABBITOHS",,20,,"St George
+DRAGONS",,9,
+0,NSWRFL 1921,Round 9,"Saturday, 25th June, 1921",3:15pm (local time),8918,112,"3,000","Western Suburbs
+MAGPIES",,7,,EASTERN SUBURBS,,12,

@@ -1,0 +1,547 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1994,Round 1,"Friday, 11th March, 1994",,6547,1,"18,210","Eastern Suburbs
+ROOSTERS",,18,7,"St George
+DRAGONS",,24,7
+0,NSWRL 1994,Round 1,"Saturday, 12th March, 1994",,6548,7,"8,119","Balmain
+TIGERS",,22,7,"North Sydney
+BEARS",,33,5
+0,NSWRL 1994,Round 1,"Saturday, 12th March, 1994",,6549,13,"31,701","Brisbane
+BRONCOS",,16,4,"Parramatta
+EELS",,16,4
+0,NSWRL 1994,Round 1,"Saturday, 12th March, 1994",,6550,9,"12,850","Cronulla Sutherland
+SHARKS",,24,4,"Canberra
+RAIDERS",,16,4
+0,NSWRL 1994,Round 1,"Sunday, 13th March, 1994",,6554,5,"17,782","Manly Warringah
+SEA EAGLES",,20,7,"Canterbury Bankstown
+BULLDOGS",,26,7
+0,NSWRL 1994,Round 1,"Sunday, 13th March, 1994",,6551,3,"6,864","Penrith
+PANTHERS",,18,6,"Gold Coast
+SEAGULLS",,18,8
+0,NSWRL 1994,Round 1,"Sunday, 13th March, 1994",,6553,1,"12,614","South Sydney
+RABBITOHS",6,14,4,"Newcastle
+KNIGHTS",21,43,12
+0,NSWRL 1994,Round 1,"Sunday, 13th March, 1994",,6552,19,"6,101","Western Suburbs
+MAGPIES",,20,8,"Illawarra
+STEELERS",,14,8
+0,NSWRL 1994,Round 2,"Friday, 18th March, 1994",,6555,4,"15,282","Canberra
+RAIDERS",,46,10,"South Sydney
+RABBITOHS",,16,10
+0,NSWRL 1994,Round 2,"Friday, 18th March, 1994",,6556,28,"22,688","Gold Coast
+SEAGULLS",8,25,5,"Brisbane
+BRONCOS",0,12,2
+0,NSWRL 1994,Round 2,"Saturday, 19th March, 1994",,6557,25,"6,549","North Sydney
+BEARS",,26,8,"Eastern Suburbs
+ROOSTERS",,8,1
+0,NSWRL 1994,Round 2,"Sunday, 20th March, 1994",,6560,27,"11,807","Canterbury Bankstown
+BULLDOGS",,14,7,"Cronulla Sutherland
+SHARKS",,15,7
+0,NSWRL 1994,Round 2,"Sunday, 20th March, 1994",,6558,21,"10,268","Illawarra
+STEELERS",,18,10,"Manly Warringah
+SEA EAGLES",,18,7
+0,NSWRL 1994,Round 2,"Sunday, 20th March, 1994",,6559,11,"16,668","Newcastle
+KNIGHTS",,18,9,"Western Suburbs
+MAGPIES",,19,13
+0,NSWRL 1994,Round 2,"Sunday, 20th March, 1994",,6562,8,"14,308","Parramatta
+EELS",,12,12,"Balmain
+TIGERS",,14,8
+0,NSWRL 1994,Round 2,"Sunday, 20th March, 1994",,6561,23,"9,229","St George
+DRAGONS",,6,9,"Penrith
+PANTHERS",,8,6
+0,NSWRL 1994,Round 3,"Friday, 25th March, 1994",,6563,13,"37,749","Brisbane
+BRONCOS",,18,7,"St George
+DRAGONS",,22,6
+0,NSWRL 1994,Round 3,"Saturday, 26th March, 1994",,6565,9,"13,150","Cronulla Sutherland
+SHARKS",,6,4,"Illawarra
+STEELERS",,20,8
+0,NSWRL 1994,Round 3,"Saturday, 26th March, 1994",,6564,5,"7,349","Manly Warringah
+SEA EAGLES",,66,8,"Western Suburbs
+MAGPIES",,8,11
+0,NSWRL 1994,Round 3,"Saturday, 26th March, 1994",,6566,8,"11,405","Parramatta
+EELS",,14,7,"North Sydney
+BEARS",,16,6
+0,NSWRL 1994,Round 3,"Sunday, 27th March, 1994",,6567,7,"5,919","Balmain
+TIGERS",,40,8,"Gold Coast
+SEAGULLS",,18,6
+0,NSWRL 1994,Round 3,"Sunday, 27th March, 1994",,6568,4,"14,533","Canberra
+RAIDERS",,34,7,"Newcastle
+KNIGHTS",,8,13
+0,NSWRL 1994,Round 3,"Sunday, 27th March, 1994",,6570,3,"14,090","Penrith
+PANTHERS",,14,9,"Eastern Suburbs
+ROOSTERS",,4,8
+0,NSWRL 1994,Round 3,"Sunday, 27th March, 1994",,6569,1,"10,310","South Sydney
+RABBITOHS",,16,6,"Canterbury Bankstown
+BULLDOGS",,23,10
+0,NSWRL 1994,Round 4,"Friday, 1st April, 1994",,6571,1,"20,216","Eastern Suburbs
+ROOSTERS",,12,3,"Brisbane
+BRONCOS",,44,4
+0,NSWRL 1994,Round 4,"Saturday, 2nd April, 1994",,6572,23,"10,201","St George
+DRAGONS",,46,8,"Balmain
+TIGERS",,6,7
+0,NSWRL 1994,Round 4,"Sunday, 3rd April, 1994",,6573,34,"9,395","Gold Coast
+SEAGULLS",,24,6,"Parramatta
+EELS",,26,4
+0,NSWRL 1994,Round 4,"Sunday, 3rd April, 1994",,6574,21,"11,504","Illawarra
+STEELERS",,20,9,"South Sydney
+RABBITOHS",,20,7
+0,NSWRL 1994,Round 4,"Sunday, 3rd April, 1994",,6576,11,"19,049","Newcastle
+KNIGHTS",,10,9,"Manly Warringah
+SEA EAGLES",,13,13
+0,NSWRL 1994,Round 4,"Sunday, 3rd April, 1994",,6575,25,"17,879","North Sydney
+BEARS",,26,4,"Penrith
+PANTHERS",,16,5
+0,NSWRL 1994,Round 4,"Sunday, 3rd April, 1994",,6577,19,"6,765","Western Suburbs
+MAGPIES",,10,7,"Cronulla Sutherland
+SHARKS",,36,5
+0,NSWRL 1994,Round 4,"Monday, 4th April, 1994",,6578,27,"24,629","Canterbury Bankstown
+BULLDOGS",,17,5,"Canberra
+RAIDERS",,12,4
+0,NSWRL 1994,Round 5,"Friday, 8th April, 1994",,6579,8,"18,508","Parramatta
+EELS",,8,6,"St George
+DRAGONS",,16,8
+0,NSWRL 1994,Round 5,"Saturday, 9th April, 1994",,6580,27,"10,236","Canterbury Bankstown
+BULLDOGS",,42,7,"Newcastle
+KNIGHTS",,18,11
+0,NSWRL 1994,Round 5,"Saturday, 9th April, 1994",,6581,9,"20,168","Cronulla Sutherland
+SHARKS",,26,6,"Manly Warringah
+SEA EAGLES",,14,7
+0,NSWRL 1994,Round 5,"Sunday, 10th April, 1994",,6583,7,"8,623","Balmain
+TIGERS",,10,11,"Eastern Suburbs
+ROOSTERS",,40,4
+0,NSWRL 1994,Round 5,"Sunday, 10th April, 1994",,6584,13,"44,511","Brisbane
+BRONCOS",,37,9,"Penrith
+PANTHERS",,6,6
+0,NSWRL 1994,Round 5,"Sunday, 10th April, 1994",,6585,4,"14,211","Canberra
+RAIDERS",,30,3,"Illawarra
+STEELERS",,16,10
+0,NSWRL 1994,Round 5,"Sunday, 10th April, 1994",,6586,25,"10,637","North Sydney
+BEARS",,36,4,"Gold Coast
+SEAGULLS",,8,6
+0,NSWRL 1994,Round 5,"Sunday, 10th April, 1994",,6582,1,"9,161","South Sydney
+RABBITOHS",,28,8,"Western Suburbs
+MAGPIES",,8,9
+0,NSWRL 1994,Round 6,"Friday, 15th April, 1994",,6587,32,"16,712","Penrith
+PANTHERS",,24,6,"Balmain
+TIGERS",,0,6
+0,NSWRL 1994,Round 6,"Saturday, 16th April, 1994",,6588,13,"35,917","Brisbane
+BRONCOS",,10,2,"North Sydney
+BEARS",,11,5
+0,NSWRL 1994,Round 6,"Sunday, 17th April, 1994",,6590,1,"12,086","Eastern Suburbs
+ROOSTERS",,20,7,"Parramatta
+EELS",,10,9
+0,NSWRL 1994,Round 6,"Sunday, 17th April, 1994",,6593,21,"13,032","Illawarra
+STEELERS",,16,6,"Canterbury Bankstown
+BULLDOGS",,26,6
+0,NSWRL 1994,Round 6,"Sunday, 17th April, 1994",,6589,5,"14,074","Manly Warringah
+SEA EAGLES",,28,7,"South Sydney
+RABBITOHS",,13,5
+0,NSWRL 1994,Round 6,"Sunday, 17th April, 1994",,6594,11,"20,037","Newcastle
+KNIGHTS",,19,8,"Cronulla Sutherland
+SHARKS",,2,8
+0,NSWRL 1994,Round 6,"Sunday, 17th April, 1994",,6591,23,"10,921","St George
+DRAGONS",,40,7,"Gold Coast
+SEAGULLS",,16,5
+0,NSWRL 1994,Round 6,"Sunday, 17th April, 1994",,6592,19,"6,606","Western Suburbs
+MAGPIES",,24,7,"Canberra
+RAIDERS",,40,6
+0,NSWRL 1994,Round 7,"Friday, 22nd April, 1994",,6595,23,"20,809","St George
+DRAGONS",,2,8,"North Sydney
+BEARS",,9,4
+0,NSWRL 1994,Round 7,"Saturday, 23rd April, 1994",,6596,49,"14,672","Brisbane
+BRONCOS",,36,8,"Balmain
+TIGERS",,14,8
+0,NSWRL 1994,Round 7,"Sunday, 24th April, 1994",,6598,4,"22,891","Canberra
+RAIDERS",,30,3,"Manly Warringah
+SEA EAGLES",,6,6
+0,NSWRL 1994,Round 7,"Sunday, 24th April, 1994",,6601,34,"7,254","Gold Coast
+SEAGULLS",,12,7,"Eastern Suburbs
+ROOSTERS",,30,12
+0,NSWRL 1994,Round 7,"Sunday, 24th April, 1994",,6599,11,"19,710","Newcastle
+KNIGHTS",,35,2,"Illawarra
+STEELERS",,12,7
+0,NSWRL 1994,Round 7,"Sunday, 24th April, 1994",,6597,8,"12,045","Parramatta
+EELS",,10,7,"Penrith
+PANTHERS",,34,9
+0,NSWRL 1994,Round 7,"Sunday, 24th April, 1994",,6600,1,"13,639","South Sydney
+RABBITOHS",,16,6,"Cronulla Sutherland
+SHARKS",,14,6
+0,NSWRL 1994,Round 7,"Monday, 25th April, 1994",,6602,27,"20,381","Canterbury Bankstown
+BULLDOGS",,22,4,"Western Suburbs
+MAGPIES",,16,7
+0,NSWRL 1994,Round 8,"Friday, 29th April, 1994",,6603,24,"18,719","South Sydney
+RABBITOHS",6,26,6,"Balmain
+TIGERS",8,24,7
+0,NSWRL 1994,Round 8,"Saturday, 30th April, 1994",,6604,3,"11,072","Penrith
+PANTHERS",,18,3,"Manly Warringah
+SEA EAGLES",,28,5
+0,NSWRL 1994,Round 8,"Sunday, 1st May, 1994",,6606,13,"34,060","Brisbane
+BRONCOS",,34,5,"Cronulla Sutherland
+SHARKS",,2,7
+0,NSWRL 1994,Round 8,"Sunday, 1st May, 1994",,6607,4,"13,846","Canberra
+RAIDERS",,24,6,"Parramatta
+EELS",,10,6
+0,NSWRL 1994,Round 8,"Sunday, 1st May, 1994",,6608,27,"8,188","Canterbury Bankstown
+BULLDOGS",,44,7,"Gold Coast
+SEAGULLS",,20,11
+0,NSWRL 1994,Round 8,"Sunday, 1st May, 1994",,6609,1,"8,660","Eastern Suburbs
+ROOSTERS",,18,6,"Western Suburbs
+MAGPIES",,18,10
+0,NSWRL 1994,Round 8,"Sunday, 1st May, 1994",,6605,21,"13,303","Illawarra
+STEELERS",,24,5,"St George
+DRAGONS",,0,6
+0,NSWRL 1994,Round 8,"Sunday, 1st May, 1994",,6610,25,"19,742","North Sydney
+BEARS",,20,11,"Newcastle
+KNIGHTS",,24,7
+0,NSWRL 1994,Round 9,"Saturday, 7th May, 1994",3:05pm (local time),6611,9,"7,142","Cronulla Sutherland
+SHARKS",,21,7,"North Sydney
+BEARS",,14,5
+0,NSWRL 1994,Round 9,"Sunday, 8th May, 1994",3:00pm (local time),6613,7,"4,391","Balmain
+TIGERS",,26,13,"Newcastle
+KNIGHTS",,22,8
+0,NSWRL 1994,Round 9,"Sunday, 8th May, 1994",3:00pm (local time),6618,1,"20,503","Canterbury Bankstown
+BULLDOGS",,24,8,"St George
+DRAGONS",,6,4
+0,NSWRL 1994,Round 9,"Sunday, 8th May, 1994",3:00pm (local time),6616,34,"7,810","Gold Coast
+SEAGULLS",,8,5,"Canberra
+RAIDERS",,4,5
+0,NSWRL 1994,Round 9,"Sunday, 8th May, 1994",3:00pm (local time),6617,21,"8,703","Illawarra
+STEELERS",,34,11,"Eastern Suburbs
+ROOSTERS",,8,4
+0,NSWRL 1994,Round 9,"Sunday, 8th May, 1994",3:00pm (local time),6615,5,"18,309","Manly Warringah
+SEA EAGLES",,21,10,"Brisbane
+BRONCOS",,11,3
+0,NSWRL 1994,Round 9,"Sunday, 8th May, 1994",3:00pm (local time),6612,8,"8,105","Parramatta
+EELS",,4,8,"South Sydney
+RABBITOHS",,20,6
+0,NSWRL 1994,Round 9,"Sunday, 8th May, 1994",3:00pm (local time),6614,19,"4,975","Western Suburbs
+MAGPIES",,24,7,"Penrith
+PANTHERS",,38,5
+0,NSWRL 1994,Round 10,"Friday, 13th May, 1994",,6619,25,"23,089","North Sydney
+BEARS",,8,5,"Manly Warringah
+SEA EAGLES",,11,5
+0,NSWRL 1994,Round 10,"Saturday, 14th May, 1994",,6620,4,"16,108","Canberra
+RAIDERS",,40,1,"St George
+DRAGONS",,10,7
+0,NSWRL 1994,Round 10,"Saturday, 14th May, 1994",,6622,9,"16,138","Cronulla Sutherland
+SHARKS",,24,6,"Balmain
+TIGERS",,16,4
+0,NSWRL 1994,Round 10,"Saturday, 14th May, 1994",,6621,1,"9,104","South Sydney
+RABBITOHS",,30,9,"Gold Coast
+SEAGULLS",,12,7
+0,NSWRL 1994,Round 10,"Sunday, 15th May, 1994",,6624,13,"30,762","Brisbane
+BRONCOS",,40,9,"Western Suburbs
+MAGPIES",,10,9
+0,NSWRL 1994,Round 10,"Sunday, 15th May, 1994",,6626,1,"11,478","Eastern Suburbs
+ROOSTERS",,16,6,"Canterbury Bankstown
+BULLDOGS",,30,8
+0,NSWRL 1994,Round 10,"Sunday, 15th May, 1994",,6623,11,"16,372","Newcastle
+KNIGHTS",,34,11,"Parramatta
+EELS",,4,8
+0,NSWRL 1994,Round 10,"Sunday, 15th May, 1994",,6625,3,"10,791","Penrith
+PANTHERS",,26,7,"Illawarra
+STEELERS",,26,5
+0,NSWRL 1994,Round 11,"Friday, 20th May, 1994",,6627,8,"7,091","Parramatta
+EELS",,12,5,"Cronulla Sutherland
+SHARKS",,0,7
+0,NSWRL 1994,Round 11,"Saturday, 21st May, 1994",,6628,19,"4,046","Western Suburbs
+MAGPIES",,16,5,"North Sydney
+BEARS",,16,4
+0,NSWRL 1994,Round 11,"Sunday, 22nd May, 1994",,6629,34,"5,526","Gold Coast
+SEAGULLS",,12,4,"Newcastle
+KNIGHTS",,10,12
+0,NSWRL 1994,Round 11,"Friday, 27th May, 1994",,6630,21,"14,020","Illawarra
+STEELERS",,26,7,"Brisbane
+BRONCOS",,4,8
+0,NSWRL 1994,Round 11,"Saturday, 28th May, 1994",,6632,7,"12,668","Balmain
+TIGERS",,0,9,"Manly Warringah
+SEA EAGLES",,42,11
+0,NSWRL 1994,Round 11,"Saturday, 28th May, 1994",,6631,23,"11,766","St George
+DRAGONS",,14,7,"South Sydney
+RABBITOHS",,20,11
+0,NSWRL 1994,Round 11,"Sunday, 29th May, 1994",,6633,4,"13,279","Canberra
+RAIDERS",,38,7,"Eastern Suburbs
+ROOSTERS",,4,14
+0,NSWRL 1994,Round 11,"Sunday, 29th May, 1994",,6634,115,"19,572","Canterbury Bankstown
+BULLDOGS",,30,7,"Penrith
+PANTHERS",,10,7
+0,NSWRL 1994,Round 12,"Friday, 3rd June, 1994",,6635,1,"14,029","Eastern Suburbs
+ROOSTERS",,12,4,"South Sydney
+RABBITOHS",,18,6
+0,NSWRL 1994,Round 12,"Saturday, 4th June, 1994",,6636,5,"8,148","Manly Warringah
+SEA EAGLES",,32,5,"Parramatta
+EELS",,18,11
+0,NSWRL 1994,Round 12,"Sunday, 5th June, 1994",,6637,9,"7,635","Cronulla Sutherland
+SHARKS",,46,5,"Gold Coast
+SEAGULLS",,0,8
+0,NSWRL 1994,Round 12,"Friday, 10th June, 1994",,6638,13,"38,302","Brisbane
+BRONCOS",,12,3,"Canterbury Bankstown
+BULLDOGS",,10,7
+0,NSWRL 1994,Round 12,"Saturday, 11th June, 1994",,6639,3,"11,400","Penrith
+PANTHERS",,30,5,"Canberra
+RAIDERS",,16,4
+0,NSWRL 1994,Round 12,"Sunday, 12th June, 1994",,6640,11,"30,251","Newcastle
+KNIGHTS",,24,7,"St George
+DRAGONS",,14,11
+0,NSWRL 1994,Round 12,"Sunday, 12th June, 1994",,6641,19,"8,245","Western Suburbs
+MAGPIES",,32,5,"Balmain
+TIGERS",,28,7
+0,NSWRL 1994,Round 12,"Monday, 13th June, 1994",,6642,25,"15,876","North Sydney
+BEARS",,12,3,"Illawarra
+STEELERS",,4,4
+0,NSWRL 1994,Round 13,"Friday, 17th June, 1994",,6643,1,"12,399","South Sydney
+RABBITOHS",,26,8,"Penrith
+PANTHERS",,18,5
+0,NSWRL 1994,Round 13,"Saturday, 18th June, 1994",,6644,11,"12,129","Newcastle
+KNIGHTS",,18,8,"Eastern Suburbs
+ROOSTERS",,12,9
+0,NSWRL 1994,Round 13,"Sunday, 19th June, 1994",,6645,34,"10,463","Gold Coast
+SEAGULLS",,14,5,"Manly Warringah
+SEA EAGLES",,18,4
+0,NSWRL 1994,Round 13,"Sunday, 19th June, 1994",,6646,8,"10,184","Parramatta
+EELS",,30,6,"Western Suburbs
+MAGPIES",,24,7
+0,NSWRL 1994,Round 13,"Friday, 24th June, 1994",,6647,23,"12,578","St George
+DRAGONS",,26,7,"Cronulla Sutherland
+SHARKS",,12,8
+0,NSWRL 1994,Round 13,"Saturday, 25th June, 1994",,6648,49,"6,118","Illawarra
+STEELERS",,22,5,"Balmain
+TIGERS",,6,5
+0,NSWRL 1994,Round 13,"Sunday, 26th June, 1994",,6649,4,"23,775","Canberra
+RAIDERS",,29,8,"Brisbane
+BRONCOS",,10,4
+0,NSWRL 1994,Round 13,"Sunday, 26th June, 1994",,6650,115,"17,200","Canterbury Bankstown
+BULLDOGS",,8,6,"North Sydney
+BEARS",,19,4
+0,NSWRL 1994,Round 14,"Friday, 1st July, 1994",,6651,13,"36,549","Brisbane
+BRONCOS",,40,9,"South Sydney
+RABBITOHS",,10,8
+0,NSWRL 1994,Round 14,"Saturday, 2nd July, 1994",,6654,1,"8,618","Eastern Suburbs
+ROOSTERS",,8,5,"Cronulla Sutherland
+SHARKS",,20,3
+0,NSWRL 1994,Round 14,"Saturday, 2nd July, 1994",,6653,25,"16,978","North Sydney
+BEARS",,25,8,"Canberra
+RAIDERS",,10,4
+0,NSWRL 1994,Round 14,"Saturday, 2nd July, 1994",,6652,19,"7,470","Western Suburbs
+MAGPIES",,38,6,"Gold Coast
+SEAGULLS",,4,4
+0,NSWRL 1994,Round 14,"Sunday, 3rd July, 1994",,6658,27,"11,360","Canterbury Bankstown
+BULLDOGS",,24,12,"Balmain
+TIGERS",,8,6
+0,NSWRL 1994,Round 14,"Sunday, 3rd July, 1994",,6655,21,"11,543","Illawarra
+STEELERS",,32,8,"Parramatta
+EELS",,10,8
+0,NSWRL 1994,Round 14,"Sunday, 3rd July, 1994",,6656,5,"22,380","Manly Warringah
+SEA EAGLES",,61,2,"St George
+DRAGONS",,0,4
+0,NSWRL 1994,Round 14,"Sunday, 3rd July, 1994",,6657,3,"11,873","Penrith
+PANTHERS",,8,9,"Newcastle
+KNIGHTS",,24,8
+0,NSWRL 1994,Round 15,"Friday, 8th July, 1994",,6659,33,"12,874","St George
+DRAGONS",,32,6,"Western Suburbs
+MAGPIES",,16,9
+0,NSWRL 1994,Round 15,"Saturday, 9th July, 1994",,6660,7,"6,145","Balmain
+TIGERS",,0,5,"Canberra
+RAIDERS",,36,6
+0,NSWRL 1994,Round 15,"Saturday, 9th July, 1994",,6661,9,"16,102","Cronulla Sutherland
+SHARKS",,32,2,"Penrith
+PANTHERS",,0,13
+0,NSWRL 1994,Round 15,"Saturday, 9th July, 1994",,6662,1,"13,703","South Sydney
+RABBITOHS",,10,2,"North Sydney
+BEARS",,32,6
+0,NSWRL 1994,Round 15,"Sunday, 10th July, 1994",,6663,34,"4,541","Gold Coast
+SEAGULLS",,14,5,"Illawarra
+STEELERS",,30,10
+0,NSWRL 1994,Round 15,"Sunday, 10th July, 1994",,6666,5,"12,750","Manly Warringah
+SEA EAGLES",,34,4,"Eastern Suburbs
+ROOSTERS",,0,6
+0,NSWRL 1994,Round 15,"Sunday, 10th July, 1994",,6664,11,"26,743","Newcastle
+KNIGHTS",,24,8,"Brisbane
+BRONCOS",,10,8
+0,NSWRL 1994,Round 15,"Sunday, 10th July, 1994",,6665,8,"12,044","Parramatta
+EELS",,14,6,"Canterbury Bankstown
+BULLDOGS",,30,4
+0,NSWRL 1994,Round 16,"Friday, 15th July, 1994",,6667,27,"20,333","Canterbury Bankstown
+BULLDOGS",,26,9,"Manly Warringah
+SEA EAGLES",,10,7
+0,NSWRL 1994,Round 16,"Saturday, 16th July, 1994",,6668,4,"11,901","Canberra
+RAIDERS",,56,4,"Cronulla Sutherland
+SHARKS",,12,4
+0,NSWRL 1994,Round 16,"Sunday, 17th July, 1994",,6669,34,"5,484","Gold Coast
+SEAGULLS",,20,7,"Penrith
+PANTHERS",,22,5
+0,NSWRL 1994,Round 16,"Sunday, 17th July, 1994",,6670,21,"11,024","Illawarra
+STEELERS",,40,2,"Western Suburbs
+MAGPIES",,18,6
+0,NSWRL 1994,Round 16,"Sunday, 17th July, 1994",,6671,11,"17,511","Newcastle
+KNIGHTS",,14,9,"South Sydney
+RABBITOHS",,28,6
+0,NSWRL 1994,Round 16,"Sunday, 17th July, 1994",,6672,25,"10,886","North Sydney
+BEARS",,54,9,"Balmain
+TIGERS",,18,1
+0,NSWRL 1994,Round 16,"Sunday, 17th July, 1994",,6673,8,"11,358","Parramatta
+EELS",,6,4,"Brisbane
+BRONCOS",,36,6
+0,NSWRL 1994,Round 16,"Sunday, 17th July, 1994",,6674,23,"9,246","St George
+DRAGONS",,2,8,"Eastern Suburbs
+ROOSTERS",,22,9
+0,NSWRL 1994,Round 17,"Friday, 22nd July, 1994",,6675,32,"13,864","North Sydney
+BEARS",,28,9,"Eastern Suburbs
+ROOSTERS",,8,7
+0,NSWRL 1994,Round 17,"Saturday, 23rd July, 1994",,6677,9,"7,200","Cronulla Sutherland
+SHARKS",,12,10,"Canterbury Bankstown
+BULLDOGS",,14,5
+0,NSWRL 1994,Round 17,"Saturday, 23rd July, 1994",,6676,8,"6,316","Parramatta
+EELS",,18,7,"Balmain
+TIGERS",,6,6
+0,NSWRL 1994,Round 17,"Sunday, 24th July, 1994",,6679,13,"36,510","Brisbane
+BRONCOS",,48,4,"Gold Coast
+SEAGULLS",,12,7
+0,NSWRL 1994,Round 17,"Sunday, 24th July, 1994",,6680,5,"11,238","Manly Warringah
+SEA EAGLES",,29,2,"Illawarra
+STEELERS",,14,3
+0,NSWRL 1994,Round 17,"Sunday, 24th July, 1994",,6678,3,"10,481","Penrith
+PANTHERS",,28,11,"St George
+DRAGONS",,24,11
+0,NSWRL 1994,Round 17,"Sunday, 24th July, 1994",,6682,1,"19,490","South Sydney
+RABBITOHS",,8,5,"Canberra
+RAIDERS",,48,6
+0,NSWRL 1994,Round 17,"Sunday, 24th July, 1994",,6681,19,"4,980","Western Suburbs
+MAGPIES",,28,9,"Newcastle
+KNIGHTS",,14,4
+0,NSWRL 1994,Round 18,"Friday, 29th July, 1994",,6683,11,"22,945","Newcastle
+KNIGHTS",,16,4,"Canberra
+RAIDERS",,52,4
+0,NSWRL 1994,Round 18,"Saturday, 30th July, 1994",,6684,23,"9,106","St George
+DRAGONS",,16,8,"Brisbane
+BRONCOS",,28,3
+0,NSWRL 1994,Round 18,"Sunday, 31st July, 1994",,6690,115,"15,013","Canterbury Bankstown
+BULLDOGS",20,25,12,"South Sydney
+RABBITOHS",0,18,9
+0,NSWRL 1994,Round 18,"Sunday, 31st July, 1994",,6686,1,"7,116","Eastern Suburbs
+ROOSTERS",,30,7,"Penrith
+PANTHERS",,8,11
+0,NSWRL 1994,Round 18,"Sunday, 31st July, 1994",,6688,34,"7,125","Gold Coast
+SEAGULLS",,32,9,"Balmain
+TIGERS",,6,8
+0,NSWRL 1994,Round 18,"Sunday, 31st July, 1994",,6689,21,"10,796","Illawarra
+STEELERS",,42,7,"Cronulla Sutherland
+SHARKS",,18,1
+0,NSWRL 1994,Round 18,"Sunday, 31st July, 1994",,6685,25,"8,735","North Sydney
+BEARS",,20,5,"Parramatta
+EELS",,14,7
+0,NSWRL 1994,Round 18,"Sunday, 31st July, 1994",,6687,19,"7,131","Western Suburbs
+MAGPIES",,14,7,"Manly Warringah
+SEA EAGLES",,28,8
+0,NSWRL 1994,Round 19,"Friday, 5th August, 1994",7:30pm (local time),6691,4,"20,229","Canberra
+RAIDERS",16,36,9,"Canterbury Bankstown
+BULLDOGS",2,6,7
+0,NSWRL 1994,Round 19,"Saturday, 6th August, 1994",,6692,7,"5,108","Balmain
+TIGERS",,20,11,"St George
+DRAGONS",,22,10
+0,NSWRL 1994,Round 19,"Saturday, 6th August, 1994",,6693,9,"8,781","Cronulla Sutherland
+SHARKS",,32,6,"Western Suburbs
+MAGPIES",,28,7
+0,NSWRL 1994,Round 19,"Saturday, 6th August, 1994",,6694,3,"6,188","Penrith
+PANTHERS",,18,6,"North Sydney
+BEARS",,28,6
+0,NSWRL 1994,Round 19,"Sunday, 7th August, 1994",,6696,13,"41,211","Brisbane
+BRONCOS",,34,5,"Eastern Suburbs
+ROOSTERS",,16,3
+0,NSWRL 1994,Round 19,"Sunday, 7th August, 1994",,6695,5,"15,193","Manly Warringah
+SEA EAGLES",,32,3,"Newcastle
+KNIGHTS",,16,11
+0,NSWRL 1994,Round 19,"Sunday, 7th August, 1994",,6697,8,"7,295","Parramatta
+EELS",,24,6,"Gold Coast
+SEAGULLS",,36,8
+0,NSWRL 1994,Round 19,"Sunday, 7th August, 1994",,6698,1,"12,777","South Sydney
+RABBITOHS",,28,7,"Illawarra
+STEELERS",,30,9
+0,NSWRL 1994,Round 20,"Friday, 12th August, 1994",,6699,21,"15,668","Illawarra
+STEELERS",,8,6,"Canberra
+RAIDERS",,19,5
+0,NSWRL 1994,Round 20,"Saturday, 13th August, 1994",,6700,5,"10,068","Manly Warringah
+SEA EAGLES",,38,5,"Cronulla Sutherland
+SHARKS",,10,2
+0,NSWRL 1994,Round 20,"Sunday, 14th August, 1994",,6704,1,"8,296","Eastern Suburbs
+ROOSTERS",,16,5,"Balmain
+TIGERS",,23,3
+0,NSWRL 1994,Round 20,"Sunday, 14th August, 1994",,6701,34,"7,144","Gold Coast
+SEAGULLS",,10,8,"North Sydney
+BEARS",,36,5
+0,NSWRL 1994,Round 20,"Sunday, 14th August, 1994",,6706,11,"24,999","Newcastle
+KNIGHTS",,18,5,"Canterbury Bankstown
+BULLDOGS",,30,10
+0,NSWRL 1994,Round 20,"Sunday, 14th August, 1994",,6705,3,"10,944","Penrith
+PANTHERS",,22,7,"Brisbane
+BRONCOS",,6,9
+0,NSWRL 1994,Round 20,"Sunday, 14th August, 1994",,6702,23,"7,244","St George
+DRAGONS",,12,4,"Parramatta
+EELS",,27,5
+0,NSWRL 1994,Round 20,"Sunday, 14th August, 1994",,6703,19,"7,480","Western Suburbs
+MAGPIES",,34,8,"South Sydney
+RABBITOHS",,26,4
+0,NSWRL 1994,Round 21,"Friday, 19th August, 1994",,6707,25,"20,838","North Sydney
+BEARS",,0,4,"Brisbane
+BRONCOS",,17,2
+0,NSWRL 1994,Round 21,"Saturday, 20th August, 1994",,6708,27,"13,368","Canterbury Bankstown
+BULLDOGS",,26,5,"Illawarra
+STEELERS",,16,8
+0,NSWRL 1994,Round 21,"Saturday, 20th August, 1994",,6709,9,"7,155","Cronulla Sutherland
+SHARKS",,26,9,"Newcastle
+KNIGHTS",,4,8
+0,NSWRL 1994,Round 21,"Sunday, 21st August, 1994",,6711,7,"7,810","Balmain
+TIGERS",,10,4,"Penrith
+PANTHERS",,22,10
+0,NSWRL 1994,Round 21,"Sunday, 21st August, 1994",,6712,4,"25,253","Canberra
+RAIDERS",,40,2,"Western Suburbs
+MAGPIES",,22,10
+0,NSWRL 1994,Round 21,"Sunday, 21st August, 1994",,6710,34,"7,155","Gold Coast
+SEAGULLS",,20,4,"St George
+DRAGONS",,30,9
+0,NSWRL 1994,Round 21,"Sunday, 21st August, 1994",,6714,8,"7,001","Parramatta
+EELS",,40,5,"Eastern Suburbs
+ROOSTERS",,12,5
+0,NSWRL 1994,Round 21,"Sunday, 21st August, 1994",,6713,1,"15,801","South Sydney
+RABBITOHS",,10,7,"Manly Warringah
+SEA EAGLES",,38,8
+0,NSWRL 1994,Round 22,"Friday, 26th August, 1994",,6715,21,"11,159","Illawarra
+STEELERS",,20,5,"Newcastle
+KNIGHTS",,14,11
+0,NSWRL 1994,Round 22,"Saturday, 27th August, 1994",,6716,9,"14,012","Cronulla Sutherland
+SHARKS",,42,9,"South Sydney
+RABBITOHS",,0,10
+0,NSWRL 1994,Round 22,"Saturday, 27th August, 1994",,6717,1,"5,134","Eastern Suburbs
+ROOSTERS",,30,3,"Gold Coast
+SEAGULLS",,28,5
+0,NSWRL 1994,Round 22,"Saturday, 27th August, 1994",,6718,19,"11,400","Western Suburbs
+MAGPIES",,12,10,"Canterbury Bankstown
+BULLDOGS",,40,4
+0,NSWRL 1994,Round 22,"Sunday, 28th August, 1994",,6721,13,"47,486","Brisbane
+BRONCOS",,41,7,"Balmain
+TIGERS",,6,5
+0,NSWRL 1994,Round 22,"Sunday, 28th August, 1994",,6722,5,"26,168","Manly Warringah
+SEA EAGLES",,18,7,"Canberra
+RAIDERS",,21,5
+0,NSWRL 1994,Round 22,"Sunday, 28th August, 1994",,6719,25,"15,066","North Sydney
+BEARS",,48,6,"St George
+DRAGONS",,22,8
+0,NSWRL 1994,Round 22,"Sunday, 28th August, 1994",,6720,3,"10,819","Penrith
+PANTHERS",,16,6,"Parramatta
+EELS",,23,8
+0,NSWRL 1994,Major Prelim Semi,"Saturday, 3rd September, 1994",,6723,1,"33,641","Canberra
+RAIDERS",,26,4,"North Sydney
+BEARS",,12,3
+0,NSWRL 1994,Minor Prelim Semi,"Sunday, 4th September, 1994",,6724,1,"34,891","Brisbane
+BRONCOS",,16,11,"Manly Warringah
+SEA EAGLES",,4,7
+0,NSWRL 1994,Minor Semi,"Saturday, 10th September, 1994",,6725,1,"36,011","North Sydney
+BEARS",14,15,2,"Brisbane
+BRONCOS",8,14,6
+0,NSWRL 1994,Major Semi,"Sunday, 11th September, 1994",,6726,1,"41,865","Canterbury Bankstown
+BULLDOGS",14,19,4,"Canberra
+RAIDERS",12,18,10
+0,NSWRL 1994,Prelim Final,"Sunday, 18th September, 1994",,6727,1,"41,941","Canberra
+RAIDERS",6,22,5,"North Sydney
+BEARS",7,9,7
+0,NSWRL 1994,Grand Final,"Sunday, 25th September, 1994",,6728,1,"42,234","Canberra
+RAIDERS",18,36,4,"Canterbury Bankstown
+BULLDOGS",6,12,6

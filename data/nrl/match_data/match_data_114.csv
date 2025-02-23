@@ -1,0 +1,556 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2021,Round 1,"Thursday, 11th March, 2021",8:05pm (local time),45027,251,"11,812","Melbourne
+STORM",22,26,,"South Sydney
+RABBITOHS",6,18,
+0,NRL 2021,Round 1,"Friday, 12th March, 2021",6:00pm (local time),45028,11,"19,555","Newcastle
+KNIGHTS",18,32,,"Canterbury Bankstown
+BULLDOGS",10,16,
+0,NRL 2021,Round 1,"Friday, 12th March, 2021",8:05pm (local time),45029,1097,"28,313","Brisbane
+BRONCOS",16,16,,"Parramatta
+EELS",0,24,
+0,NRL 2021,Round 1,"Saturday, 13th March, 2021",3:00pm (local time),45030,26,"3,771",WARRIORS,6,19,,"Gold Coast
+TITANS",0,6,
+0,NRL 2021,Round 1,"Saturday, 13th March, 2021",5:30pm (local time),45031,24,"15,097","Sydney
+ROOSTERS",26,46,,"Manly Warringah
+SEA EAGLES",4,4,
+0,NRL 2021,Round 1,"Saturday, 13th March, 2021",7:35pm (local time),45032,3,"14,077","Penrith
+PANTHERS",8,24,,"North Queensland
+COWBOYS",0,0,
+0,NRL 2021,Round 1,"Sunday, 14th March, 2021",4:05pm (local time),45033,4,"15,680","Canberra
+RAIDERS",6,30,,WESTS TIGERS,6,12,
+0,NRL 2021,Round 1,"Sunday, 14th March, 2021",6:15pm (local time),45034,23,"7,636","St George Illawarra
+DRAGONS",0,18,,"Cronulla Sutherland
+SHARKS",14,32,
+0,NRL 2021,Round 2,"Thursday, 18th March, 2021",8:05pm (local time),45035,940,"10,416","Parramatta
+EELS",6,16,,"Melbourne
+STORM",6,12,
+0,NRL 2021,Round 2,"Friday, 19th March, 2021",6:00pm (local time),45036,26,"4,595",WARRIORS,6,16,,"Newcastle
+KNIGHTS",8,20,
+0,NRL 2021,Round 2,"Friday, 19th March, 2021",8:05pm (local time),45037,149,"17,822","Gold Coast
+TITANS",22,28,,"Brisbane
+BRONCOS",4,16,
+0,NRL 2021,Round 2,"Saturday, 20th March, 2021",3:00pm (local time),45038,940,"5,062","Canterbury Bankstown
+BULLDOGS",0,0,,"Penrith
+PANTHERS",10,28,
+0,NRL 2021,Round 2,"Saturday, 20th March, 2021",5:30pm (local time),45039,5,"3,218","Manly Warringah
+SEA EAGLES",6,12,,"South Sydney
+RABBITOHS",14,26,
+0,NRL 2021,Round 2,"Saturday, 20th March, 2021",7:35pm (local time),45040,985,"15,120","North Queensland
+COWBOYS",6,18,,"St George Illawarra
+DRAGONS",13,25,
+0,NRL 2021,Round 2,"Sunday, 21st March, 2021",4:05pm (local time),45041,19,"6,107",WESTS TIGERS,6,6,,"Sydney
+ROOSTERS",18,40,
+0,NRL 2021,Round 2,"Sunday, 21st March, 2021",6:15pm (local time),45042,23,"3,145","Cronulla Sutherland
+SHARKS",0,10,,"Canberra
+RAIDERS",12,12,
+0,NRL 2021,Round 3,"Thursday, 25th March, 2021",8:05pm (local time),45043,3,"14,077","Penrith
+PANTHERS",6,12,,"Melbourne
+STORM",6,10,
+0,NRL 2021,Round 3,"Friday, 26th March, 2021",6:00pm (local time),45044,21,"9,253","St George Illawarra
+DRAGONS",18,38,,"Manly Warringah
+SEA EAGLES",6,12,
+0,NRL 2021,Round 3,"Friday, 26th March, 2021",8:05pm (local time),45045,20,"22,838","South Sydney
+RABBITOHS",18,26,,"Sydney
+ROOSTERS",0,16,
+0,NRL 2021,Round 3,"Saturday, 27th March, 2021",3:00pm (local time),45046,4,"13,456","Canberra
+RAIDERS",25,31,,WARRIORS,6,34,
+0,NRL 2021,Round 3,"Saturday, 27th March, 2021",5:30pm (local time),45047,1097,"22,509","Brisbane
+BRONCOS",2,24,,"Canterbury Bankstown
+BULLDOGS",0,0,
+0,NRL 2021,Round 3,"Saturday, 27th March, 2021",7:35pm (local time),45048,940,"19,236","Parramatta
+EELS",10,28,,"Cronulla Sutherland
+SHARKS",4,4,
+0,NRL 2021,Round 3,"Sunday, 28th March, 2021",4:05pm (local time),45049,11,"20,239","Newcastle
+KNIGHTS",8,20,,WESTS TIGERS,12,24,
+0,NRL 2021,Round 3,"Sunday, 28th March, 2021",6:15pm (local time),45050,985,"12,627","North Queensland
+COWBOYS",0,8,,"Gold Coast
+TITANS",26,44,
+0,NRL 2021,Round 4,"Thursday, 1st April, 2021",8:05pm (local time),45051,5,"6,076","Manly Warringah
+SEA EAGLES",6,6,,"Penrith
+PANTHERS",22,46,
+0,NRL 2021,Round 4,"Friday, 2nd April, 2021",4:05pm (local time),45052,20,"23,240","Canterbury Bankstown
+BULLDOGS",0,0,,"South Sydney
+RABBITOHS",14,38,
+0,NRL 2021,Round 4,"Friday, 2nd April, 2021",8:05pm (local time),45053,251,"14,135","Melbourne
+STORM",24,40,,"Brisbane
+BRONCOS",6,6,
+0,NRL 2021,Round 4,"Saturday, 3rd April, 2021",5:15pm (local time),45055,23,"5,119","Cronulla Sutherland
+SHARKS",36,48,,"North Queensland
+COWBOYS",6,10,
+0,NRL 2021,Round 4,"Saturday, 3rd April, 2021",7:45pm (local time),45054,23,"5,117","Gold Coast
+TITANS",4,4,,"Canberra
+RAIDERS",8,20,
+0,NRL 2021,Round 4,"Sunday, 4th April, 2021",4:05pm (local time),45056,11,"21,770","Newcastle
+KNIGHTS",7,13,,"St George Illawarra
+DRAGONS",6,22,
+0,NRL 2021,Round 4,"Sunday, 4th April, 2021",6:15pm (local time),45057,24,"12,210","Sydney
+ROOSTERS",16,32,,WARRIORS,12,12,
+0,NRL 2021,Round 4,"Monday, 5th April, 2021",4:00pm (local time),45058,20,"29,056",WESTS TIGERS,10,22,,"Parramatta
+EELS",20,36,
+0,NRL 2021,Round 5,"Thursday, 8th April, 2021",7:50pm (local time),45059,20,"9,142","South Sydney
+RABBITOHS",18,35,6,"Brisbane
+BRONCOS",6,6,3
+0,NRL 2021,Round 5,"Friday, 9th April, 2021",6:00pm (local time),45060,26,"4,982",WARRIORS,6,12,,"Manly Warringah
+SEA EAGLES",6,13,
+0,NRL 2021,Round 5,"Friday, 9th April, 2021",7:55pm (local time),45061,3,"20,890","Penrith
+PANTHERS",18,30,,"Canberra
+RAIDERS",6,10,
+0,NRL 2021,Round 5,"Saturday, 10th April, 2021",3:00pm (local time),45062,149,"12,492","Gold Coast
+TITANS",26,42,,"Newcastle
+KNIGHTS",12,16,
+0,NRL 2021,Round 5,"Saturday, 10th April, 2021",5:30pm (local time),45063,20,"5,104","Canterbury Bankstown
+BULLDOGS",6,18,,"Melbourne
+STORM",30,52,
+0,NRL 2021,Round 5,"Saturday, 10th April, 2021",7:35pm (local time),45064,24,"10,736","Sydney
+ROOSTERS",4,26,,"Cronulla Sutherland
+SHARKS",12,18,
+0,NRL 2021,Round 5,"Sunday, 11th April, 2021",4:05pm (local time),45065,7,"9,433",WESTS TIGERS,6,30,,"North Queensland
+COWBOYS",28,34,
+0,NRL 2021,Round 5,"Sunday, 11th April, 2021",6:15pm (local time),45066,940,"24,384","Parramatta
+EELS",0,12,,"St George Illawarra
+DRAGONS",18,26,
+0,NRL 2021,Round 6,"Thursday, 15th April, 2021",7:50pm (local time),45067,1097,"21,224","Brisbane
+BRONCOS",12,12,,"Penrith
+PANTHERS",10,20,
+0,NRL 2021,Round 6,"Friday, 16th April, 2021",6:00pm (local time),45068,11,"17,039","Newcastle
+KNIGHTS",14,26,,"Cronulla Sutherland
+SHARKS",6,22,
+0,NRL 2021,Round 6,"Friday, 16th April, 2021",7:55pm (local time),45069,251,"15,087","Melbourne
+STORM",4,20,,"Sydney
+ROOSTERS",0,4,
+0,NRL 2021,Round 6,"Saturday, 17th April, 2021",3:00pm (local time),45070,432,"6,380","Manly Warringah
+SEA EAGLES",26,36,,"Gold Coast
+TITANS",0,0,
+0,NRL 2021,Round 6,"Saturday, 17th April, 2021",5:30pm (local time),45071,20,"16,134","South Sydney
+RABBITOHS",6,18,,WESTS TIGERS,6,14,
+0,NRL 2021,Round 6,"Saturday, 17th April, 2021",7:35pm (local time),45072,4,"20,089","Canberra
+RAIDERS",10,10,,"Parramatta
+EELS",12,35,
+0,NRL 2021,Round 6,"Sunday, 18th April, 2021",2:00pm (local time),45073,23,"11,222","St George Illawarra
+DRAGONS",8,14,,WARRIORS,12,20,
+0,NRL 2021,Round 6,"Sunday, 18th April, 2021",4:05pm (local time),45074,985,"11,965","North Queensland
+COWBOYS",6,30,,"Canterbury Bankstown
+BULLDOGS",6,18,
+0,NRL 2021,Round 7,"Thursday, 22nd April, 2021",7:50pm (local time),45075,3,"16,110","Penrith
+PANTHERS",10,24,,"Newcastle
+KNIGHTS",6,6,
+0,NRL 2021,Round 7,"Friday, 23rd April, 2021",6:00pm (local time),45076,149,"17,383","Gold Coast
+TITANS",24,30,,"South Sydney
+RABBITOHS",10,40,
+0,NRL 2021,Round 7,"Friday, 23rd April, 2021",7:55pm (local time),45077,423,"12,056","Parramatta
+EELS",24,46,,"Brisbane
+BRONCOS",6,6,
+0,NRL 2021,Round 7,"Saturday, 24th April, 2021",5:30pm (local time),45078,23,"7,420","Cronulla Sutherland
+SHARKS",0,12,,"Canterbury Bankstown
+BULLDOGS",18,18,
+0,NRL 2021,Round 7,"Saturday, 24th April, 2021",7:35pm (local time),45079,985,"13,791","North Queensland
+COWBOYS",12,26,,"Canberra
+RAIDERS",24,24,
+0,NRL 2021,Round 7,"Sunday, 25th April, 2021",1:45pm (local time),45080,940,"14,095",WESTS TIGERS,6,6,,"Manly Warringah
+SEA EAGLES",18,40,
+0,NRL 2021,Round 7,"Sunday, 25th April, 2021",4:05pm (local time),45081,24,"37,620","Sydney
+ROOSTERS",16,34,,"St George Illawarra
+DRAGONS",6,10,
+0,NRL 2021,Round 7,"Sunday, 25th April, 2021",6:15pm (local time),45082,251,"20,320","Melbourne
+STORM",26,42,,WARRIORS,4,20,
+0,NRL 2021,Round 8,"Thursday, 29th April, 2021",7:50pm (local time),45083,4,"14,260","Canberra
+RAIDERS",16,20,1,"South Sydney
+RABBITOHS",14,34,8
+0,NRL 2021,Round 8,"Friday, 30th April, 2021",6:00pm (local time),45084,251,"10,069","Melbourne
+STORM",6,40,4,"Cronulla Sutherland
+SHARKS",8,14,3
+0,NRL 2021,Round 8,"Friday, 30th April, 2021",7:55pm (local time),45085,1097,"21,322","Brisbane
+BRONCOS",22,36,5,"Gold Coast
+TITANS",22,28,3
+0,NRL 2021,Round 8,"Saturday, 1st May, 2021",3:00pm (local time),45086,108,"5,798","Penrith
+PANTHERS",16,28,3,"Manly Warringah
+SEA EAGLES",6,16,6
+0,NRL 2021,Round 8,"Saturday, 1st May, 2021",5:30pm (local time),45087,20,"13,273","Canterbury Bankstown
+BULLDOGS",0,10,5,"Parramatta
+EELS",16,32,3
+0,NRL 2021,Round 8,"Saturday, 1st May, 2021",7:35pm (local time),45088,11,"22,172","Newcastle
+KNIGHTS",4,4,5,"Sydney
+ROOSTERS",20,38,2
+0,NRL 2021,Round 8,"Sunday, 2nd May, 2021",2:00pm (local time),45089,26,"3,692",WARRIORS,24,24,6,"North Queensland
+COWBOYS",4,20,1
+0,NRL 2021,Round 8,"Sunday, 2nd May, 2021",4:05pm (local time),45090,21,"12,323","St George Illawarra
+DRAGONS",8,8,4,WESTS TIGERS,6,16,8
+0,NRL 2021,Round 9,"Thursday, 6th May, 2021",7:50pm (local time),45091,20,"7,501","South Sydney
+RABBITOHS",0,0,5,"Melbourne
+STORM",26,50,3
+0,NRL 2021,Round 9,"Friday, 7th May, 2021",6:00pm (local time),45092,3,"16,110","Penrith
+PANTHERS",24,48,2,"Cronulla Sutherland
+SHARKS",0,0,4
+0,NRL 2021,Round 9,"Friday, 7th May, 2021",7:55pm (local time),45093,940,"25,711","Parramatta
+EELS",18,31,5,"Sydney
+ROOSTERS",12,18,4
+0,NRL 2021,Round 9,"Saturday, 8th May, 2021",3:00pm (local time),45094,498,"6,642","Canberra
+RAIDERS",16,16,3,"Newcastle
+KNIGHTS",0,24,1
+0,NRL 2021,Round 9,"Saturday, 8th May, 2021",5:30pm (local time),45095,19,"8,411",WESTS TIGERS,12,28,7,"Gold Coast
+TITANS",24,36,1
+0,NRL 2021,Round 9,"Saturday, 8th May, 2021",7:35pm (local time),45096,985,"22,222","North Queensland
+COWBOYS",8,19,5,"Brisbane
+BRONCOS",12,18,2
+0,NRL 2021,Round 9,"Sunday, 9th May, 2021",2:00pm (local time),45097,5,"6,726","Manly Warringah
+SEA EAGLES",12,38,5,WARRIORS,20,32,4
+0,NRL 2021,Round 9,"Sunday, 9th May, 2021",4:05pm (local time),45098,23,"7,253","St George Illawarra
+DRAGONS",6,32,3,"Canterbury Bankstown
+BULLDOGS",0,12,6
+0,NRL 2021,Round 10,"Friday, 14th May, 2021",6:00pm (local time),45099,1097,"41,367",WESTS TIGERS,24,36,10,"Newcastle
+KNIGHTS",4,18,7
+0,NRL 2021,Round 10,"Friday, 14th May, 2021",8:05pm (local time),45100,1097,"41,367","Manly Warringah
+SEA EAGLES",20,50,8,"Brisbane
+BRONCOS",6,6,4
+0,NRL 2021,Round 10,"Saturday, 15th May, 2021",3:00pm (local time),45101,1097,"45,122","Canterbury Bankstown
+BULLDOGS",0,18,3,"Canberra
+RAIDERS",8,20,6
+0,NRL 2021,Round 10,"Saturday, 15th May, 2021",5:30pm (local time),45102,1097,"45,122","Cronulla Sutherland
+SHARKS",6,22,2,"South Sydney
+RABBITOHS",20,32,6
+0,NRL 2021,Round 10,"Saturday, 15th May, 2021",7:45pm (local time),45103,1097,"45,122","Sydney
+ROOSTERS",18,30,4,"North Queensland
+COWBOYS",10,16,4
+0,NRL 2021,Round 10,"Sunday, 16th May, 2021",1:50pm (local time),45104,1097,"43,537",WARRIORS,6,18,6,"Parramatta
+EELS",24,34,2
+0,NRL 2021,Round 10,"Sunday, 16th May, 2021",4:05pm (local time),45105,1097,"43,537","Melbourne
+STORM",14,44,3,"St George Illawarra
+DRAGONS",10,18,4
+0,NRL 2021,Round 10,"Sunday, 16th May, 2021",6:25pm (local time),45106,1097,"43,537","Gold Coast
+TITANS",0,12,11,"Penrith
+PANTHERS",30,48,6
+0,NRL 2021,Round 11,"Thursday, 20th May, 2021",7:50pm (local time),45107,985,"11,208","North Queensland
+COWBOYS",16,36,3,"Newcastle
+KNIGHTS",16,20,6
+0,NRL 2021,Round 11,"Friday, 21st May, 2021",6:00pm (local time),45108,26,"7,009",WARRIORS,18,30,1,WESTS TIGERS,10,26,5
+0,NRL 2021,Round 11,"Friday, 21st May, 2021",7:55pm (local time),45109,23,"8,947","Cronulla Sutherland
+SHARKS",6,13,4,"St George Illawarra
+DRAGONS",2,12,5
+0,NRL 2021,Round 11,"Saturday, 22nd May, 2021",3:00pm (local time),45110,149,"11,315","Gold Coast
+TITANS",18,30,4,"Canterbury Bankstown
+BULLDOGS",10,20,4
+0,NRL 2021,Round 11,"Saturday, 22nd May, 2021",5:30pm (local time),45111,24,"13,186","Sydney
+ROOSTERS",14,16,5,"Brisbane
+BRONCOS",16,34,10
+0,NRL 2021,Round 11,"Saturday, 22nd May, 2021",7:35pm (local time),45112,4,"14,120","Canberra
+RAIDERS",10,10,5,"Melbourne
+STORM",12,34,3
+0,NRL 2021,Round 11,"Sunday, 23rd May, 2021",2:00pm (local time),45113,97,"10,824","South Sydney
+RABBITOHS",6,12,8,"Penrith
+PANTHERS",30,56,12
+0,NRL 2021,Round 11,"Sunday, 23rd May, 2021",4:05pm (local time),45114,940,"24,411","Parramatta
+EELS",6,6,7,"Manly Warringah
+SEA EAGLES",16,28,8
+0,NRL 2021,Round 12,"Thursday, 27th May, 2021",7:50pm (local time),45115,1097,"23,600","Brisbane
+BRONCOS",0,12,2,"Melbourne
+STORM",16,40,5
+0,NRL 2021,Round 12,"Friday, 28th May, 2021",6:00pm (local time),45116,985,"14,951","North Queensland
+COWBOYS",22,29,4,WARRIORS,6,28,2
+0,NRL 2021,Round 12,"Friday, 28th May, 2021",7:55pm (local time),45117,940,"9,982",WESTS TIGERS,18,34,3,"St George Illawarra
+DRAGONS",0,18,3
+0,NRL 2021,Round 12,"Saturday, 29th May, 2021",3:00pm (local time),45118,3,"16,110","Penrith
+PANTHERS",10,30,9,"Canterbury Bankstown
+BULLDOGS",0,4,4
+0,NRL 2021,Round 12,"Saturday, 29th May, 2021",5:30pm (local time),45119,20,"20,743","South Sydney
+RABBITOHS",20,38,6,"Parramatta
+EELS",6,20,3
+0,NRL 2021,Round 12,"Saturday, 29th May, 2021",7:35pm (local time),45120,26,"10,113","Sydney
+ROOSTERS",16,44,10,"Canberra
+RAIDERS",10,16,10
+0,NRL 2021,Round 12,"Sunday, 30th May, 2021",2:00pm (local time),45121,130,"7,362","Cronulla Sutherland
+SHARKS",26,38,5,"Gold Coast
+TITANS",6,10,7
+0,NRL 2021,Round 12,"Sunday, 30th May, 2021",4:05pm (local time),45122,11,"17,348","Newcastle
+KNIGHTS",12,18,9,"Manly Warringah
+SEA EAGLES",10,10,1
+0,NRL 2021,Round 13,"Thursday, 3rd June, 2021",7:50pm (local time),45123,23,"5,107","St George Illawarra
+DRAGONS",24,52,4,"Brisbane
+BRONCOS",18,24,4
+0,NRL 2021,Round 13,"Friday, 4th June, 2021",7:55pm (local time),45124,7,"9,127",WESTS TIGERS,10,26,10,"Penrith
+PANTHERS",0,6,11
+0,NRL 2021,Round 13,"Saturday, 5th June, 2021",7:35pm (local time),45125,939,"7,630","Melbourne
+STORM",16,20,4,"Gold Coast
+TITANS",4,14,9
+0,NRL 2021,Round 13,"Sunday, 6th June, 2021",4:05pm (local time),45126,11,"23,015","Newcastle
+KNIGHTS",0,4,3,"Parramatta
+EELS",22,40,3
+0,NRL 2021,Round 14,"Friday, 11th June, 2021",6:00pm (local time),45127,5,"6,801","Manly Warringah
+SEA EAGLES",28,50,7,"North Queensland
+COWBOYS",12,18,3
+0,NRL 2021,Round 14,"Friday, 11th June, 2021",7:55pm (local time),45128,23,"5,217","Cronulla Sutherland
+SHARKS",18,19,6,"Penrith
+PANTHERS",0,18,7
+0,NRL 2021,Round 14,"Saturday, 12th June, 2021",3:00pm (local time),45129,149,"15,111","Gold Coast
+TITANS",4,34,8,"Sydney
+ROOSTERS",18,35,3
+0,NRL 2021,Round 14,"Saturday, 12th June, 2021",5:30pm (local time),45130,20,"12,156","South Sydney
+RABBITOHS",12,24,5,"Newcastle
+KNIGHTS",10,10,4
+0,NRL 2021,Round 14,"Saturday, 12th June, 2021",7:35pm (local time),45131,4,"9,608","Canberra
+RAIDERS",22,38,6,"Brisbane
+BRONCOS",10,16,6
+0,NRL 2021,Round 14,"Sunday, 13th June, 2021",2:00pm (local time),45132,26,"8,105",WARRIORS,2,16,4,"Melbourne
+STORM",18,42,5
+0,NRL 2021,Round 14,"Sunday, 13th June, 2021",4:05pm (local time),45133,940,"23,421","Parramatta
+EELS",14,40,9,WESTS TIGERS,6,12,4
+0,NRL 2021,Round 14,"Monday, 14th June, 2021",4:00pm (local time),45134,20,"17,382","Canterbury Bankstown
+BULLDOGS",8,28,6,"St George Illawarra
+DRAGONS",6,6,4
+0,NRL 2021,Round 15,"Thursday, 17th June, 2021",7:50pm (local time),45135,1097,"19,176","Brisbane
+BRONCOS",0,0,3,"South Sydney
+RABBITOHS",18,46,1
+0,NRL 2021,Round 15,"Friday, 18th June, 2021",6:00pm (local time),45136,985,"13,926","North Queensland
+COWBOYS",12,24,3,"Cronulla Sutherland
+SHARKS",20,26,5
+0,NRL 2021,Round 15,"Friday, 18th June, 2021",7:55pm (local time),45137,3,"14,406","Penrith
+PANTHERS",22,38,5,"Sydney
+ROOSTERS",12,12,2
+0,NRL 2021,Round 15,"Saturday, 19th June, 2021",3:00pm (local time),45138,11,"9,975","Newcastle
+KNIGHTS",4,10,7,WARRIORS,6,6,6
+0,NRL 2021,Round 15,"Saturday, 19th June, 2021",5:30pm (local time),45139,21,"9,239","St George Illawarra
+DRAGONS",4,22,6,"Canberra
+RAIDERS",14,20,6
+0,NRL 2021,Round 15,"Saturday, 19th June, 2021",7:35pm (local time),45140,939,"5,328","Melbourne
+STORM",40,66,6,WESTS TIGERS,0,16,7
+0,NRL 2021,Round 15,"Sunday, 20th June, 2021",2:00pm (local time),45141,940,"17,276","Parramatta
+EELS",6,36,4,"Canterbury Bankstown
+BULLDOGS",10,10,1
+0,NRL 2021,Round 15,"Sunday, 20th June, 2021",4:05pm (local time),45142,149,"14,408","Gold Coast
+TITANS",24,24,8,"Manly Warringah
+SEA EAGLES",8,56,4
+0,NRL 2021,Round 16,"Thursday, 1st July, 2021",7:50pm (local time),45143,11,"4,289","Sydney
+ROOSTERS",0,0,2,"Melbourne
+STORM",30,46,6
+0,NRL 2021,Round 16,"Friday, 2nd July, 2021",6:00pm (local time),45144,26,0,WARRIORS,12,18,2,"St George Illawarra
+DRAGONS",6,19,2
+0,NRL 2021,Round 16,"Friday, 2nd July, 2021",7:55pm (local time),45145,3,0,"Penrith
+PANTHERS",6,13,2,"Parramatta
+EELS",4,12,6
+0,NRL 2021,Round 16,"Saturday, 3rd July, 2021",3:00pm (local time),45146,940,0,"Canterbury Bankstown
+BULLDOGS",0,0,9,"Manly Warringah
+SEA EAGLES",36,66,7
+0,NRL 2021,Round 16,"Saturday, 3rd July, 2021",5:30pm (local time),45147,4,"7,646","Canberra
+RAIDERS",0,6,4,"Gold Coast
+TITANS",22,44,6
+0,NRL 2021,Round 16,"Saturday, 3rd July, 2021",7:35pm (local time),45148,11,"7,610","Newcastle
+KNIGHTS",22,38,6,"North Queensland
+COWBOYS",0,0,6
+0,NRL 2021,Round 16,"Sunday, 4th July, 2021",2:00pm (local time),45149,1097,"13,840","Brisbane
+BRONCOS",12,26,3,"Cronulla Sutherland
+SHARKS",12,18,2
+0,NRL 2021,Round 16,"Sunday, 4th July, 2021",4:05pm (local time),45150,7,0,WESTS TIGERS,0,22,3,"South Sydney
+RABBITOHS",26,38,8
+0,NRL 2021,Round 17,"Thursday, 8th July, 2021",7:50pm (local time),45151,5,0,"Manly Warringah
+SEA EAGLES",4,16,6,"Canberra
+RAIDERS",12,30,1
+0,NRL 2021,Round 17,"Friday, 9th July, 2021",7:55pm (local time),45152,11,"3,127","South Sydney
+RABBITOHS",22,46,4,"North Queensland
+COWBOYS",12,18,1
+0,NRL 2021,Round 17,"Saturday, 10th July, 2021",7:35pm (local time),45153,940,0,"Canterbury Bankstown
+BULLDOGS",10,16,1,"Sydney
+ROOSTERS",16,22,3
+0,NRL 2021,Round 17,"Sunday, 11th July, 2021",4:05pm (local time),45154,23,0,"Cronulla Sutherland
+SHARKS",20,20,11,WARRIORS,6,12,5
+0,NRL 2021,Round 18,"Friday, 16th July, 2021",6:00pm (local time),45155,149,"15,038","Gold Coast
+TITANS",0,8,5,"Parramatta
+EELS",20,26,3
+0,NRL 2021,Round 18,"Friday, 16th July, 2021",7:55pm (local time),45156,149,"15,038","Manly Warringah
+SEA EAGLES",12,32,4,"St George Illawarra
+DRAGONS",14,18,5
+0,NRL 2021,Round 18,"Saturday, 17th July, 2021",3:00pm (local time),45159,985,"15,933","North Queensland
+COWBOYS",12,18,2,"Sydney
+ROOSTERS",14,34,4
+0,NRL 2021,Round 18,"Saturday, 17th July, 2021",5:30pm (local time),45157,149,"3,874","Canberra
+RAIDERS",12,34,4,"Cronulla Sutherland
+SHARKS",12,18,6
+0,NRL 2021,Round 18,"Saturday, 17th July, 2021",7:30pm (local time),45158,149,"3,874","Melbourne
+STORM",30,48,2,"Newcastle
+KNIGHTS",0,4,2
+0,NRL 2021,Round 18,"Sunday, 18th July, 2021",2:00pm (local time),45160,1097,"24,894",WARRIORS,10,16,7,"Penrith
+PANTHERS",16,30, 
+0,NRL 2021,Round 18,"Sunday, 18th July, 2021",4:05pm (local time),45161,1097,"24,894","Brisbane
+BRONCOS",18,24,1,WESTS TIGERS,10,42,6
+0,NRL 2021,Round 18,"Sunday, 18th July, 2021",6:15pm (local time),45162,149,"2,979","South Sydney
+RABBITOHS",10,32,6,"Canterbury Bankstown
+BULLDOGS",12,24,3
+0,NRL 2021,Round 19,"Thursday, 22nd July, 2021",7:50pm (local time),45163,149,"2,566","Parramatta
+EELS",0,10,4,"Canberra
+RAIDERS",0,12,3
+0,NRL 2021,Round 19,"Friday, 23rd July, 2021",6:00pm (local time),45164,939,"2,868","Sydney
+ROOSTERS",10,28,2,"Newcastle
+KNIGHTS",8,8,5
+0,NRL 2021,Round 19,"Friday, 23rd July, 2021",7:55pm (local time),45165,985,"14,924","North Queensland
+COWBOYS",6,16,7,"Melbourne
+STORM",10,20,4
+0,NRL 2021,Round 19,"Saturday, 24th July, 2021",3:00pm (local time),45166,939,"7,569","South Sydney
+RABBITOHS",34,60,2,WARRIORS,16,22,2
+0,NRL 2021,Round 19,"Saturday, 24th July, 2021",5:30pm (local time),45167,1097,"5,761","Manly Warringah
+SEA EAGLES",20,44,3,WESTS TIGERS,12,24,3
+0,NRL 2021,Round 19,"Saturday, 24th July, 2021",7:35pm (local time),45168,1097,"8,019","Penrith
+PANTHERS",4,18,5,"Brisbane
+BRONCOS",0,12,5
+0,NRL 2021,Round 19,"Sunday, 25th July, 2021",2:00pm (local time),45169,149,"4,424","St George Illawarra
+DRAGONS",6,10,4,"Gold Coast
+TITANS",14,32,2
+0,NRL 2021,Round 19,"Sunday, 25th July, 2021",4:05pm (local time),45170,149,"4,424","Canterbury Bankstown
+BULLDOGS",6,24, ,"Cronulla Sutherland
+SHARKS",30,44,6
+0,NRL 2021,Round 20,"Thursday, 29th July, 2021",7:50pm (local time),45171,438,"4,926","Sydney
+ROOSTERS",12,28,2,"Parramatta
+EELS",0,0,3
+0,NRL 2021,Round 20,"Friday, 30th July, 2021",6:00pm (local time),45172,1097,"12,443",WESTS TIGERS,10,16,1,WARRIORS,0,18,3
+0,NRL 2021,Round 20,"Friday, 30th July, 2021",8:00pm (local time),45173,1097,"29,136","Brisbane
+BRONCOS",22,37,4,"North Queensland
+COWBOYS",12,18,5
+0,NRL 2021,Round 20,"Sunday, 1st August, 2021",1:50pm (local time),45175,1097,0,"Newcastle
+KNIGHTS",22,34,5,"Canberra
+RAIDERS",6,24,3
+0,NRL 2021,Round 20,"Sunday, 1st August, 2021",4:05pm (local time),45176,1097,0,"Melbourne
+STORM",18,37,6,"Penrith
+PANTHERS",0,10,6
+0,NRL 2021,Round 20,"Sunday, 1st August, 2021",6:25pm (local time),45174,1097,0,"St George Illawarra
+DRAGONS",10,14,5,"South Sydney
+RABBITOHS",24,50,3
+0,NRL 2021,Round 20,"Monday, 2nd August, 2021",6:00pm (local time),45177,149,0,"Canterbury Bankstown
+BULLDOGS",0,6,4,"Gold Coast
+TITANS",16,34,4
+0,NRL 2021,Round 20,"Monday, 2nd August, 2021",8:05pm (local time),45178,1097,0,"Cronulla Sutherland
+SHARKS",10,22,2,"Manly Warringah
+SEA EAGLES",16,40,7
+0,NRL 2021,Round 21,"Thursday, 5th August, 2021",7:50pm (local time),45179,1097,0,"Newcastle
+KNIGHTS",12,28,5,"Brisbane
+BRONCOS",8,20,4
+0,NRL 2021,Round 21,"Friday, 6th August, 2021",6:00pm (local time),45180,149,0,"Canberra
+RAIDERS",12,20,6,"St George Illawarra
+DRAGONS",12,12,7
+0,NRL 2021,Round 21,"Friday, 6th August, 2021",7:55pm (local time),45181,149,0,"Parramatta
+EELS",0,12,2,"South Sydney
+RABBITOHS",14,40,7
+0,NRL 2021,Round 21,"Saturday, 7th August, 2021",3:00pm (local time),45182,149,0,WARRIORS,6,18,4,"Cronulla Sutherland
+SHARKS",16,16,9
+0,NRL 2021,Round 21,"Saturday, 7th August, 2021",5:30pm (local time),45183,1097,0,"Sydney
+ROOSTERS",6,14,6,"Penrith
+PANTHERS",14,20,8
+0,NRL 2021,Round 21,"Saturday, 7th August, 2021",7:35pm (local time),45184,1097,0,"Manly Warringah
+SEA EAGLES",8,18,4,"Melbourne
+STORM",8,28,7
+0,NRL 2021,Round 21,"Sunday, 8th August, 2021",2:00pm (local time),45185,149,0,"Canterbury Bankstown
+BULLDOGS",12,16,1,WESTS TIGERS,18,28,8
+0,NRL 2021,Round 21,"Sunday, 8th August, 2021",4:05pm (local time),45186,149,0,"Gold Coast
+TITANS",14,36,10,"North Queensland
+COWBOYS",4,14,4
+0,NRL 2021,Round 22,"Thursday, 12th August, 2021",7:50pm (local time),45187,939,"2,523","Melbourne
+STORM",20,26,7,"Canberra
+RAIDERS",4,16,7
+0,NRL 2021,Round 22,"Friday, 13th August, 2021",6:00pm (local time),45188,1097,"6,653","St George Illawarra
+DRAGONS",6,16,3,"Penrith
+PANTHERS",16,34,1
+0,NRL 2021,Round 22,"Friday, 13th August, 2021",7:55pm (local time),45189,1097,"14,314","Brisbane
+BRONCOS",12,20,6,"Sydney
+ROOSTERS",12,21,7
+0,NRL 2021,Round 22,"Saturday, 14th August, 2021",3:00pm (local time),45190,149,"4,117","South Sydney
+RABBITOHS",24,36,6,"Gold Coast
+TITANS",0,6,4
+0,NRL 2021,Round 22,"Saturday, 14th August, 2021",5:35pm (local time),45192,985,"12,663","North Queensland
+COWBOYS",6,16,7,WESTS TIGERS,12,24,4
+0,NRL 2021,Round 22,"Saturday, 14th August, 2021",7:30pm (local time),45191,939,"3,613","Manly Warringah
+SEA EAGLES",26,56,7,"Parramatta
+EELS",4,10,5
+0,NRL 2021,Round 22,"Sunday, 15th August, 2021",2:00pm (local time),45193,968,"3,332",WARRIORS,16,24,9,"Canterbury Bankstown
+BULLDOGS",10,10,2
+0,NRL 2021,Round 22,"Sunday, 15th August, 2021",4:05pm (local time),45194,968,"3,954","Cronulla Sutherland
+SHARKS",12,14,4,"Newcastle
+KNIGHTS",8,16,9
+0,NRL 2021,Round 23,"Thursday, 19th August, 2021",7:50pm (local time),45195,149,"8,288","Gold Coast
+TITANS",16,20,1,"Melbourne
+STORM",12,34,5
+0,NRL 2021,Round 23,"Friday, 20th August, 2021",6:00pm (local time),45196,1097,"6,181","Canberra
+RAIDERS",12,18,3,"Manly Warringah
+SEA EAGLES",0,19,1
+0,NRL 2021,Round 23,"Friday, 20th August, 2021",7:55pm (local time),45197,1097,"8,848","Penrith
+PANTHERS",10,25,11,"South Sydney
+RABBITOHS",12,12,2
+0,NRL 2021,Round 23,"Saturday, 21st August, 2021",3:00pm (local time),45198,198,"2,863",WESTS TIGERS,4,20,4,"Cronulla Sutherland
+SHARKS",16,50,3
+0,NRL 2021,Round 23,"Saturday, 21st August, 2021",5:30pm (local time),45199,149,"2,343","Canterbury Bankstown
+BULLDOGS",0,16,7,"Newcastle
+KNIGHTS",10,22,4
+0,NRL 2021,Round 23,"Saturday, 21st August, 2021",7:35pm (local time),45200,149,"3,013","Parramatta
+EELS",14,32,6,"North Queensland
+COWBOYS",6,16,4
+0,NRL 2021,Round 23,"Sunday, 22nd August, 2021",2:00pm (local time),45201,399,"7,822","St George Illawarra
+DRAGONS",6,22,2,"Sydney
+ROOSTERS",14,40,3
+0,NRL 2021,Round 23,"Sunday, 22nd August, 2021",4:05pm (local time),45202,1097,"18,252","Brisbane
+BRONCOS",12,24,2,WARRIORS,4,22,1
+0,NRL 2021,Round 24,"Thursday, 26th August, 2021",7:50pm (local time),45203,939,"2,107","Newcastle
+KNIGHTS",6,15,4,"Gold Coast
+TITANS",12,14,4
+0,NRL 2021,Round 24,"Friday, 27th August, 2021",6:00pm (local time),45204,438,"4,079",WARRIORS,16,16,4,"Canberra
+RAIDERS",6,28,7
+0,NRL 2021,Round 24,"Friday, 27th August, 2021",7:55pm (local time),45205,1097,"5,136","Sydney
+ROOSTERS",6,12,2,"South Sydney
+RABBITOHS",24,54,7
+0,NRL 2021,Round 24,"Saturday, 28th August, 2021",3:00pm (local time),45206,198,"4,487","St George Illawarra
+DRAGONS",20,26,5,"North Queensland
+COWBOYS",10,38,4
+0,NRL 2021,Round 24,"Saturday, 28th August, 2021",5:30pm (local time),45207,1097,"8,618","Cronulla Sutherland
+SHARKS",18,24,6,"Brisbane
+BRONCOS",10,16,2
+0,NRL 2021,Round 24,"Saturday, 28th August, 2021",7:35pm (local time),45208,1097,"10,246","Melbourne
+STORM",10,10,3,"Parramatta
+EELS",10,22,6
+0,NRL 2021,Round 24,"Sunday, 29th August, 2021",2:00pm (local time),45209,968,"4,910","Manly Warringah
+SEA EAGLES",10,36,6,"Canterbury Bankstown
+BULLDOGS",12,18,4
+0,NRL 2021,Round 24,"Sunday, 29th August, 2021",4:05pm (local time),45210,968,"5,351","Penrith
+PANTHERS",12,30,5,WESTS TIGERS,6,16,2
+0,NRL 2021,Round 25,"Thursday, 2nd September, 2021",7:50pm (local time),45211,438,"3,473","Canberra
+RAIDERS",12,16,3,"Sydney
+ROOSTERS",20,40,8
+0,NRL 2021,Round 25,"Friday, 3rd September, 2021",6:00pm (local time),45212,149,"8,580","Cronulla Sutherland
+SHARKS",12,16,3,"Melbourne
+STORM",12,28,2
+0,NRL 2021,Round 25,"Friday, 3rd September, 2021",7:55pm (local time),45213,149,"8,580","Parramatta
+EELS",6,6,5,"Penrith
+PANTHERS",12,40,4
+0,NRL 2021,Round 25,"Saturday, 4th September, 2021",3:00pm (local time),45215,1097,"20,747","Brisbane
+BRONCOS",18,35,5,"Newcastle
+KNIGHTS",4,22,3
+0,NRL 2021,Round 25,"Saturday, 4th September, 2021",5:30pm (local time),45216,985,"14,336","North Queensland
+COWBOYS",6,18,2,"Manly Warringah
+SEA EAGLES",18,46,6
+0,NRL 2021,Round 25,"Saturday, 4th September, 2021",7:30pm (local time),45214,939,"3,295","South Sydney
+RABBITOHS",14,20,5,"St George Illawarra
+DRAGONS",0,16,3
+0,NRL 2021,Round 25,"Sunday, 5th September, 2021",2:00pm (local time),45217,149,"12,532","Gold Coast
+TITANS",16,44,8,WARRIORS,0,0,5
+0,NRL 2021,Round 25,"Sunday, 5th September, 2021",4:05pm (local time),45218,968,"3,104",WESTS TIGERS,0,0,2,"Canterbury Bankstown
+BULLDOGS",16,38,5
+0,NRL 2021,Qualifier,"Friday, 10th September, 2021",7:50pm (local time),45419,939,"9,120","Melbourne
+STORM",24,40,9,"Manly Warringah
+SEA EAGLES",6,12,5
+0,NRL 2021,Qualifier,"Saturday, 11th September, 2021",5:40pm (local time),45420,985,"15,237","Sydney
+ROOSTERS",12,25,5,"Gold Coast
+TITANS",6,24,4
+0,NRL 2021,Qualifier,"Saturday, 11th September, 2021",7:50pm (local time),45421,985,"18,244","Penrith
+PANTHERS",10,10,5,"South Sydney
+RABBITOHS",10,16,7
+0,NRL 2021,Qualifier,"Sunday, 12th September, 2021",4:05pm (local time),45422,198,"5,087","Parramatta
+EELS",16,28,2,"Newcastle
+KNIGHTS",10,20,3
+0,NRL 2021,Semi Final,"Friday, 17th September, 2021",7:50pm (local time),45423,438,"5,824","Manly Warringah
+SEA EAGLES",24,42,6,"Sydney
+ROOSTERS",6,6,8
+0,NRL 2021,Semi Final,"Saturday, 18th September, 2021",7:50pm (local time),45424,438,"6,011","Penrith
+PANTHERS",8,8,7,"Parramatta
+EELS",6,6,2
+0,NRL 2021,Prelim Final,"Friday, 24th September, 2021",8:00pm (local time),45425,1097,"26,249","South Sydney
+RABBITOHS",22,36,4,"Manly Warringah
+SEA EAGLES",0,16,1
+0,NRL 2021,Prelim Final,"Saturday, 25th September, 2021",4:00pm (local time),45426,1097,"29,011","Melbourne
+STORM",0,6,4,"Penrith
+PANTHERS",6,10,3
+0,NRL 2021,Grand Final,"Sunday, 3rd October, 2021",7:30pm (local time),45427,1097,"39,322","Penrith
+PANTHERS",8,14,2,"South Sydney
+RABBITOHS",6,12,3

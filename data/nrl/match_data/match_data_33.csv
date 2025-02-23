@@ -1,0 +1,119 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1941,Round 1,"Saturday, 19th April, 1941",3:15pm (local time),10087,7,"4,559","Balmain
+TIGERS",5,5,,"Western Suburbs
+MAGPIES",2,15,
+0,NSWRFL 1941,Round 1,"Saturday, 19th April, 1941",3:15pm (local time),10088,109,"5,000",EASTERN SUBURBS,11,14,,"South Sydney
+RABBITOHS",5,12,
+0,NSWRFL 1941,Round 1,"Saturday, 19th April, 1941",3:15pm (local time),10090,25,"5,000",NORTH SYDNEY,0,5,,CANTERBURY BANKSTOWN,6,18,
+0,NSWRFL 1941,Round 1,"Saturday, 19th April, 1941",3:15pm (local time),10089,24,"8,387","St George
+DRAGONS",11,22,,NEWTOWN,6,17,
+0,NSWRFL 1941,Round 2,"Friday, 25th April, 1941",3:15pm (local time),10091,7,"4,808","Balmain
+TIGERS",14,22,,NORTH SYDNEY,2,7,
+0,NSWRFL 1941,Round 2,"Friday, 25th April, 1941",3:15pm (local time),10092,24,"17,000","St George
+DRAGONS",5,16,,CANTERBURY BANKSTOWN,15,19,
+0,NSWRFL 1941,Round 2,"Saturday, 26th April, 1941",3:15pm (local time),10094,24,"7,000",EASTERN SUBURBS,8,16,,"Western Suburbs
+MAGPIES",10,13,
+0,NSWRFL 1941,Round 2,"Saturday, 26th April, 1941",3:15pm (local time),10093,76,"8,000",NEWTOWN,0,14,,"South Sydney
+RABBITOHS",5,10,
+0,NSWRFL 1941,Round 3,"Saturday, 3rd May, 1941",3:15pm (local time),10095,24,"9,867","Balmain
+TIGERS",5,8,,CANTERBURY BANKSTOWN,3,6,
+0,NSWRFL 1941,Round 3,"Saturday, 3rd May, 1941",3:15pm (local time),10098,25,"3,000",NORTH SYDNEY,7,7,,EASTERN SUBURBS,3,16,
+0,NSWRFL 1941,Round 3,"Saturday, 3rd May, 1941",3:15pm (local time),10097,109,"5,290","South Sydney
+RABBITOHS",2,15,,"St George
+DRAGONS",23,41,
+0,NSWRFL 1941,Round 3,"Saturday, 3rd May, 1941",3:15pm (local time),10096,112,"8,050","Western Suburbs
+MAGPIES",6,14,,NEWTOWN,8,18,
+0,NSWRFL 1941,Round 4,"Saturday, 10th May, 1941",3:15pm (local time),10100,27,"4,000",CANTERBURY BANKSTOWN,5,14,,"South Sydney
+RABBITOHS",10,10,
+0,NSWRFL 1941,Round 4,"Saturday, 10th May, 1941",3:15pm (local time),10102,109,"13,534",EASTERN SUBURBS,11,25,,"Balmain
+TIGERS",5,8,
+0,NSWRFL 1941,Round 4,"Saturday, 10th May, 1941",3:15pm (local time),10099,76,"6,000",NEWTOWN,5,11,,NORTH SYDNEY,3,16,
+0,NSWRFL 1941,Round 4,"Saturday, 10th May, 1941",3:15pm (local time),10101,112,"6,127","Western Suburbs
+MAGPIES",5,13,,"St George
+DRAGONS",17,35,
+0,NSWRFL 1941,Round 5,"Saturday, 17th May, 1941",3:15pm (local time),10104,7,"6,697","Balmain
+TIGERS",17,23,,NEWTOWN,7,19,
+0,NSWRFL 1941,Round 5,"Saturday, 17th May, 1941",3:15pm (local time),10106,24,"15,801",EASTERN SUBURBS,8,13,,CANTERBURY BANKSTOWN,0,2,
+0,NSWRFL 1941,Round 5,"Saturday, 17th May, 1941",3:15pm (local time),10103,25,"7,000",NORTH SYDNEY,10,16,,"St George
+DRAGONS",12,19,
+0,NSWRFL 1941,Round 5,"Saturday, 17th May, 1941",3:15pm (local time),10105,112,"3,500","Western Suburbs
+MAGPIES",10,17,,"South Sydney
+RABBITOHS",2,8,
+0,NSWRFL 1941,Round 6,"Saturday, 24th May, 1941",3:15pm (local time),10107,27,"4,000",CANTERBURY BANKSTOWN,2,7,,"Western Suburbs
+MAGPIES",2,4,
+0,NSWRFL 1941,Round 6,"Saturday, 24th May, 1941",3:15pm (local time),10110,76,"5,000",NEWTOWN,4,4,,EASTERN SUBURBS,3,3,
+0,NSWRFL 1941,Round 6,"Saturday, 24th May, 1941",3:15pm (local time),10109,109,"7,457","St George
+DRAGONS",5,22,,"Balmain
+TIGERS",17,24,
+0,NSWRFL 1941,Round 6,"Saturday, 24th May, 1941",3:15pm (local time),10108,155,"1,500","South Sydney
+RABBITOHS",5,12,,NORTH SYDNEY,12,15,
+0,NSWRFL 1941,Round 7,"Saturday, 31st May, 1941",3:15pm (local time),10112,7,"3,999","Balmain
+TIGERS",3,10,,"South Sydney
+RABBITOHS",8,16,
+0,NSWRFL 1941,Round 7,"Saturday, 31st May, 1941",3:15pm (local time),10113,109,"14,333",EASTERN SUBURBS,7,10,,"St George
+DRAGONS",7,16,
+0,NSWRFL 1941,Round 7,"Saturday, 31st May, 1941",3:15pm (local time),10114,76,"6,000",NEWTOWN,8,12,,CANTERBURY BANKSTOWN,5,8,
+0,NSWRFL 1941,Round 7,"Saturday, 31st May, 1941",3:15pm (local time),10111,25,"3,500",NORTH SYDNEY,7,25,,"Western Suburbs
+MAGPIES",4,12,
+0,NSWRFL 1941,Round 8,"Saturday, 21st June, 1941",3:15pm (local time),10116,27,"3,000",CANTERBURY BANKSTOWN,12,22,,NORTH SYDNEY,10,12,
+0,NSWRFL 1941,Round 8,"Saturday, 21st June, 1941",3:15pm (local time),10115,24,"13,982",NEWTOWN,8,20,,"St George
+DRAGONS",9,20,
+0,NSWRFL 1941,Round 8,"Saturday, 21st June, 1941",3:15pm (local time),10118,109,"3,000","South Sydney
+RABBITOHS",14,22,,EASTERN SUBURBS,0,15,
+0,NSWRFL 1941,Round 8,"Saturday, 21st June, 1941",3:15pm (local time),10117,112,"4,284","Western Suburbs
+MAGPIES",9,23,,"Balmain
+TIGERS",8,8,
+0,NSWRFL 1941,Round 9,"Saturday, 28th June, 1941",3:15pm (local time),10119,24,"10,249",CANTERBURY BANKSTOWN,13,15,,"St George
+DRAGONS",10,14,
+0,NSWRFL 1941,Round 9,"Saturday, 28th June, 1941",3:15pm (local time),10121,25,"4,000",NORTH SYDNEY,0,2,,"Balmain
+TIGERS",6,25,
+0,NSWRFL 1941,Round 9,"Saturday, 28th June, 1941",3:15pm (local time),10120,109,"8,000","South Sydney
+RABBITOHS",13,26,,NEWTOWN,3,8,
+0,NSWRFL 1941,Round 9,"Saturday, 28th June, 1941",3:15pm (local time),10122,112,"4,000","Western Suburbs
+MAGPIES",3,3,,EASTERN SUBURBS,10,15,
+0,NSWRFL 1941,Round 10,"Saturday, 5th July, 1941",3:15pm (local time),10125,109,"9,712",CANTERBURY BANKSTOWN,18,21,,"Balmain
+TIGERS",8,15,
+0,NSWRFL 1941,Round 10,"Saturday, 5th July, 1941",3:15pm (local time),10123,76,"5,000",NEWTOWN,10,18,,"Western Suburbs
+MAGPIES",4,16,
+0,NSWRFL 1941,Round 10,"Saturday, 5th July, 1941",3:15pm (local time),10124,157,"6,900","St George
+DRAGONS",7,28,,"South Sydney
+RABBITOHS",7,12,
+0,NSWRFL 1941,Round 10,"Sunday, 6th July, 1941",3:15pm (local time),10126,166,"6,000",EASTERN SUBURBS,8,24,,NORTH SYDNEY,3,3,
+0,NSWRFL 1941,Round 11,"Saturday, 12th July, 1941",3:15pm (local time),10128,109,"9,450","Balmain
+TIGERS",9,19,,EASTERN SUBURBS,2,12,
+0,NSWRFL 1941,Round 11,"Saturday, 12th July, 1941",3:15pm (local time),10129,25,"4,000",NORTH SYDNEY,9,14,,NEWTOWN,9,14,
+0,NSWRFL 1941,Round 11,"Saturday, 12th July, 1941",3:15pm (local time),10127,157,"5,717","St George
+DRAGONS",2,24,,"Western Suburbs
+MAGPIES",17,30,
+0,NSWRFL 1941,Round 11,"Saturday, 12th July, 1941",3:15pm (local time),10130,27,"5,000","South Sydney
+RABBITOHS",5,13,,CANTERBURY BANKSTOWN,6,16,
+0,NSWRFL 1941,Round 12,"Saturday, 26th July, 1941",3:15pm (local time),10132,7,"5,540","Balmain
+TIGERS",13,21,,"St George
+DRAGONS",3,7,
+0,NSWRFL 1941,Round 12,"Saturday, 26th July, 1941",3:15pm (local time),10133,24,"10,400",EASTERN SUBURBS,5,23,,NEWTOWN,20,20,
+0,NSWRFL 1941,Round 12,"Saturday, 26th July, 1941",3:15pm (local time),10131,25,"5,000",NORTH SYDNEY,7,13,,"South Sydney
+RABBITOHS",6,14,
+0,NSWRFL 1941,Round 12,"Saturday, 26th July, 1941",3:15pm (local time),10134,112,"3,500","Western Suburbs
+MAGPIES",2,17,,CANTERBURY BANKSTOWN,17,22,
+0,NSWRFL 1941,Round 13,"Saturday, 2nd August, 1941",3:15pm (local time),10135,24,"12,032",CANTERBURY BANKSTOWN,24,24,,NEWTOWN,9,28,
+0,NSWRFL 1941,Round 13,"Saturday, 2nd August, 1941",3:15pm (local time),10138,157,"5,000","St George
+DRAGONS",8,20,,EASTERN SUBURBS,5,16,
+0,NSWRFL 1941,Round 13,"Saturday, 2nd August, 1941",3:15pm (local time),10137,109,"4,530","South Sydney
+RABBITOHS",3,14,,"Balmain
+TIGERS",11,32,
+0,NSWRFL 1941,Round 13,"Saturday, 2nd August, 1941",3:15pm (local time),10136,112,"4,000","Western Suburbs
+MAGPIES",9,30,,NORTH SYDNEY,3,16,
+0,NSWRFL 1941,Round 14,"Saturday, 9th August, 1941",3:15pm (local time),10140,27,"7,000",CANTERBURY BANKSTOWN,4,11,,EASTERN SUBURBS,10,15,
+0,NSWRFL 1941,Round 14,"Saturday, 9th August, 1941",3:15pm (local time),10142,24,"17,490",NEWTOWN,3,16,,"Balmain
+TIGERS",10,23,
+0,NSWRFL 1941,Round 14,"Saturday, 9th August, 1941",3:15pm (local time),10141,157,"3,500","St George
+DRAGONS",10,23,,NORTH SYDNEY,5,20,
+0,NSWRFL 1941,Round 14,"Saturday, 9th August, 1941",3:15pm (local time),10139,109,"1,000","South Sydney
+RABBITOHS",9,9,,"Western Suburbs
+MAGPIES",7,40,
+0,NSWRFL 1941,Semi Final,"Saturday, 16th August, 1941",3:15pm (local time),10143,24,"21,000",EASTERN SUBURBS,15,24,,CANTERBURY BANKSTOWN,13,22,
+0,NSWRFL 1941,Semi Final,"Saturday, 23rd August, 1941",3:15pm (local time),10144,24,"26,790","St George
+DRAGONS",19,32,,"Balmain
+TIGERS",5,8,
+0,NSWRFL 1941,Final,"Saturday, 30th August, 1941",3:15pm (local time),10145,24,"39,957","St George
+DRAGONS",12,31,,EASTERN SUBURBS,6,14,

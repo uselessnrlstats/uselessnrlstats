@@ -1,0 +1,556 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2012,Round 1,"Thursday, 1st March, 2012",7:30pm (local time),26748,11,"29,189","Newcastle
+KNIGHTS",6,14,4,"St George Illawarra
+DRAGONS",8,15,3
+0,NRL 2012,Round 1,"Friday, 2nd March, 2012",7:30pm (local time),26749,8,"11,399","Parramatta
+EELS",6,6,6,"Brisbane
+BRONCOS",0,18,9
+0,NRL 2012,Round 1,"Saturday, 3rd March, 2012",5:30pm (local time),26750,4,"7,862","Canberra
+RAIDERS",12,19,6,"Melbourne
+STORM",14,24,4
+0,NRL 2012,Round 1,"Saturday, 3rd March, 2012",7:30pm (local time),26751,3,"9,585","Penrith
+PANTHERS",12,14,10,"Canterbury Bankstown
+BULLDOGS",6,22,8
+0,NRL 2012,Round 1,"Saturday, 3rd March, 2012",8:30pm (local time),26752,14,"16,311","North Queensland
+COWBOYS",0,0,7,"Gold Coast
+TITANS",6,18,7
+0,NRL 2012,Round 1,"Sunday, 4th March, 2012",2:00pm (local time),26756,167,"37,502",WARRIORS,10,20,9,"Manly Warringah
+SEA EAGLES",16,26,6
+0,NRL 2012,Round 1,"Sunday, 4th March, 2012",2:00pm (local time),26757,7,"19,762",WESTS TIGERS,12,17,5,"Cronulla Sutherland
+SHARKS",4,16,7
+0,NRL 2012,Round 1,"Monday, 5th March, 2012",7:00pm (local time),26758,20,"18,278","South Sydney
+RABBITOHS",12,20,8,"Sydney
+ROOSTERS",12,24,5
+0,NRL 2012,Round 2,"Friday, 9th March, 2012",7:30pm (local time),26770,26,"17,532","Manly Warringah
+SEA EAGLES",2,22,6,WESTS TIGERS,8,18,7
+0,NRL 2012,Round 2,"Friday, 9th March, 2012",7:30pm (local time),26771,1097,"43,171","Brisbane
+BRONCOS",8,26,5,"North Queensland
+COWBOYS",16,28,8
+0,NRL 2012,Round 2,"Saturday, 10th March, 2012",4:30pm (local time),26772,149,"11,378","Gold Coast
+TITANS",12,12,7,"Canberra
+RAIDERS",12,24,6
+0,NRL 2012,Round 2,"Saturday, 10th March, 2012",7:30pm (local time),26773,20,"29,641","Canterbury Bankstown
+BULLDOGS",18,30,7,"St George Illawarra
+DRAGONS",4,4,7
+0,NRL 2012,Round 2,"Sunday, 11th March, 2012",2:00pm (local time),26774,9,"15,564","Cronulla Sutherland
+SHARKS",0,6,5,"Newcastle
+KNIGHTS",6,18,2
+0,NRL 2012,Round 2,"Sunday, 11th March, 2012",3:00pm (local time),26775,1,"12,746","Sydney
+ROOSTERS",0,0,6,"Penrith
+PANTHERS",18,18,6
+0,NRL 2012,Round 2,"Sunday, 11th March, 2012",7:00pm (local time),26776,251,"15,872","Melbourne
+STORM",10,24,3,"South Sydney
+RABBITOHS",10,10,7
+0,NRL 2012,Round 2,"Monday, 12th March, 2012",7:00pm (local time),26777,8,"12,102","Parramatta
+EELS",14,20,7,WARRIORS,18,36,5
+0,NRL 2012,Round 3,"Friday, 16th March, 2012",7:30pm (local time),26778,23,"18,726","St George Illawarra
+DRAGONS",24,36,9,WESTS TIGERS,6,12,3
+0,NRL 2012,Round 3,"Friday, 16th March, 2012",8:30pm (local time),26779,11,"23,894","Newcastle
+KNIGHTS",4,10,4,"Brisbane
+BRONCOS",12,24,5
+0,NRL 2012,Round 3,"Saturday, 17th March, 2012",4:30pm (local time),26780,149,"11,254","Gold Coast
+TITANS",0,6,7,"Melbourne
+STORM",4,30,7
+0,NRL 2012,Round 3,"Saturday, 17th March, 2012",6:30pm (local time),26781,14,"8,239","North Queensland
+COWBOYS",26,42,6,"Parramatta
+EELS",0,6,5
+0,NRL 2012,Round 3,"Sunday, 18th March, 2012",2:00pm (local time),26782,6,"17,067",WARRIORS,12,18,6,"Canterbury Bankstown
+BULLDOGS",16,32,4
+0,NRL 2012,Round 3,"Sunday, 18th March, 2012",2:00pm (local time),26783,1,"10,343","Sydney
+ROOSTERS",6,14,7,"Canberra
+RAIDERS",8,8,5
+0,NRL 2012,Round 3,"Sunday, 18th March, 2012",3:00pm (local time),26784,3,"13,876","Penrith
+PANTHERS",12,24,7,"South Sydney
+RABBITOHS",22,40,7
+0,NRL 2012,Round 3,"Monday, 19th March, 2012",7:00pm (local time),26785,9,"8,652","Cronulla Sutherland
+SHARKS",17,17,4,"Manly Warringah
+SEA EAGLES",0,14,4
+0,NRL 2012,Round 4,"Friday, 23rd March, 2012",7:30pm (local time),26792,8,"13,788","Parramatta
+EELS",0,6,6,"Penrith
+PANTHERS",23,39,4
+0,NRL 2012,Round 4,"Friday, 23rd March, 2012",6:00pm (local time),26793,47,"15,599","South Sydney
+RABBITOHS",12,12,7,"Brisbane
+BRONCOS",4,20,6
+0,NRL 2012,Round 4,"Saturday, 24th March, 2012",7:30pm (local time),26794,6,"12,915",WARRIORS,14,26,4,"Gold Coast
+TITANS",0,6,7
+0,NRL 2012,Round 4,"Saturday, 24th March, 2012",7:30pm (local time),26795,23,"17,893","St George Illawarra
+DRAGONS",12,17,5,"Manly Warringah
+SEA EAGLES",0,6,6
+0,NRL 2012,Round 4,"Saturday, 24th March, 2012",8:30pm (local time),26796,14,"11,364","North Queensland
+COWBOYS",10,14,3,"Cronulla Sutherland
+SHARKS",14,20,4
+0,NRL 2012,Round 4,"Sunday, 25th March, 2012",2:00pm (local time),26797,251,"11,897","Melbourne
+STORM",16,44,7,"Sydney
+ROOSTERS",0,4,4
+0,NRL 2012,Round 4,"Sunday, 25th March, 2012",3:00pm (local time),26798,20,"21,701","Canterbury Bankstown
+BULLDOGS",0,6,7,"Newcastle
+KNIGHTS",12,20,4
+0,NRL 2012,Round 4,"Monday, 26th March, 2012",7:00pm (local time),26799,19,"14,388",WESTS TIGERS,12,16,3,"Canberra
+RAIDERS",10,30,8
+0,NRL 2012,Round 5,"Friday, 30th March, 2012",7:30pm (local time),26812,251,"11,369","Melbourne
+STORM",16,34,3,"Newcastle
+KNIGHTS",6,22,7
+0,NRL 2012,Round 5,"Friday, 30th March, 2012",7:30pm (local time),26813,1097,"38,012","Brisbane
+BRONCOS",24,28,4,"St George Illawarra
+DRAGONS",0,20,3
+0,NRL 2012,Round 5,"Saturday, 31st March, 2012",5:30pm (local time),26814,3,"13,920","Penrith
+PANTHERS",4,14,4,"Cronulla Sutherland
+SHARKS",12,15,6
+0,NRL 2012,Round 5,"Saturday, 31st March, 2012",7:30pm (local time),26815,8,"13,158","Parramatta
+EELS",18,29,6,"Manly Warringah
+SEA EAGLES",10,20,3
+0,NRL 2012,Round 5,"Saturday, 31st March, 2012",7:30pm (local time),26816,1,"13,021","Sydney
+ROOSTERS",16,26,4,WARRIORS,4,8,8
+0,NRL 2012,Round 5,"Sunday, 1st April, 2012",2:00pm (local time),26817,149,"14,344","Gold Coast
+TITANS",14,20,5,"Canterbury Bankstown
+BULLDOGS",18,30,4
+0,NRL 2012,Round 5,"Sunday, 1st April, 2012",3:00pm (local time),26818,1,"25,608",WESTS TIGERS,4,16,5,"South Sydney
+RABBITOHS",0,17,9
+0,NRL 2012,Round 5,"Monday, 2nd April, 2012",7:00pm (local time),26821,4,"12,135","Canberra
+RAIDERS",0,6,4,"North Queensland
+COWBOYS",12,22,5
+0,NRL 2012,Round 6,"Friday, 6th April, 2012",4:00pm (local time),26822,20,"35,221","South Sydney
+RABBITOHS",12,20,7,"Canterbury Bankstown
+BULLDOGS",10,10,2
+0,NRL 2012,Round 6,"Friday, 6th April, 2012",7:30pm (local time),26823,1,"17,556",WESTS TIGERS,4,14,6,"Brisbane
+BRONCOS",10,18,1
+0,NRL 2012,Round 6,"Saturday, 7th April, 2012",5:30pm (local time),26824,149,"11,478","Gold Coast
+TITANS",6,12,7,"Sydney
+ROOSTERS",6,18,4
+0,NRL 2012,Round 6,"Saturday, 7th April, 2012",7:30pm (local time),26825,9,"21,380","Cronulla Sutherland
+SHARKS",6,12,4,"St George Illawarra
+DRAGONS",0,0,7
+0,NRL 2012,Round 6,"Sunday, 8th April, 2012",2:00pm (local time),26826,4,"10,800","Canberra
+RAIDERS",16,32,1,WARRIORS,6,12,1
+0,NRL 2012,Round 6,"Sunday, 8th April, 2012",3:00pm (local time),26827,11,"24,158","Newcastle
+KNIGHTS",8,14,6,"Parramatta
+EELS",6,6,4
+0,NRL 2012,Round 6,"Sunday, 8th April, 2012",7:00pm (local time),26828,14,"20,206","North Queensland
+COWBOYS",12,18,1,"Melbourne
+STORM",16,42,5
+0,NRL 2012,Round 6,"Monday, 9th April, 2012",7:00pm (local time),26829,5,"14,255","Manly Warringah
+SEA EAGLES",8,30,5,"Penrith
+PANTHERS",0,0,5
+0,NRL 2012,Round 7,"Friday, 13th April, 2012",7:30pm (local time),28011,1097,"30,017","Brisbane
+BRONCOS",20,30,5,"Canberra
+RAIDERS",6,6,4
+0,NRL 2012,Round 7,"Friday, 13th April, 2012",7:30pm (local time),28010,23,"15,291","St George Illawarra
+DRAGONS",12,12,7,"Newcastle
+KNIGHTS",4,4,5
+0,NRL 2012,Round 7,"Saturday, 14th April, 2012",5:30pm (local time),28012,251,"14,192","Melbourne
+STORM",6,12,5,"Canterbury Bankstown
+BULLDOGS",6,6,5
+0,NRL 2012,Round 7,"Saturday, 14th April, 2012",7:30pm (local time),28013,5,"11,619","Manly Warringah
+SEA EAGLES",8,14,8,"Gold Coast
+TITANS",12,26,9
+0,NRL 2012,Round 7,"Saturday, 14th April, 2012",7:00pm (local time),28014,423,"10,008","Sydney
+ROOSTERS",0,12,3,"North Queensland
+COWBOYS",28,50,5
+0,NRL 2012,Round 7,"Sunday, 15th April, 2012",2:00pm (local time),28015,6,"15,378",WARRIORS,20,44,4,"South Sydney
+RABBITOHS",12,22,5
+0,NRL 2012,Round 7,"Sunday, 15th April, 2012",2:00pm (local time),28016,9,"14,327","Cronulla Sutherland
+SHARKS",18,24,8,"Parramatta
+EELS",18,18,4
+0,NRL 2012,Round 7,"Sunday, 15th April, 2012",3:00pm (local time),28017,3,"15,759","Penrith
+PANTHERS",0,0,2,WESTS TIGERS,18,30,3
+0,NRL 2012,Round 8,"Wednesday, 25th April, 2012",4:00pm (local time),28034,1,"40,164","St George Illawarra
+DRAGONS",10,28,6,"Sydney
+ROOSTERS",12,24,5
+0,NRL 2012,Round 8,"Wednesday, 25th April, 2012",7:00pm (local time),28035,251,"20,333","Melbourne
+STORM",10,32,7,WARRIORS,6,14,4
+0,NRL 2012,Round 8,"Friday, 27th April, 2012",7:35pm (local time),28037,1097,"30,083","Brisbane
+BRONCOS",20,26,6,"Gold Coast
+TITANS",0,6,4
+0,NRL 2012,Round 8,"Friday, 27th April, 2012",7:35pm (local time),28036,20,"24,743","Canterbury Bankstown
+BULLDOGS",4,10,4,"Manly Warringah
+SEA EAGLES",2,12,4
+0,NRL 2012,Round 8,"Saturday, 28th April, 2012",7:30pm (local time),28038,20,"12,213","South Sydney
+RABBITOHS",20,20,3,"North Queensland
+COWBOYS",0,16,8
+0,NRL 2012,Round 8,"Sunday, 29th April, 2012",2:00pm (local time),28039,4,"12,227","Canberra
+RAIDERS",12,22,3,"Cronulla Sutherland
+SHARKS",28,44,4
+0,NRL 2012,Round 8,"Sunday, 29th April, 2012",3:00pm (local time),28040,8,"19,654","Parramatta
+EELS",0,30,3,WESTS TIGERS,19,31,7
+0,NRL 2012,Round 8,"Monday, 30th April, 2012",7:00pm (local time),28041,11,"16,892","Newcastle
+KNIGHTS",16,34,6,"Penrith
+PANTHERS",4,14,5
+0,NRL 2012,Round 9,"Friday, 4th May, 2012",7:35pm (local time),28043,14,"15,006","North Queensland
+COWBOYS",22,30,5,"St George Illawarra
+DRAGONS",0,6,5
+0,NRL 2012,Round 9,"Friday, 4th May, 2012",7:35pm (local time),28042,20,"28,214","Parramatta
+EELS",12,12,7,"Canterbury Bankstown
+BULLDOGS",22,46,7
+0,NRL 2012,Round 9,"Saturday, 5th May, 2012",7:30pm (local time),28044,6,"19,012",WARRIORS,24,30,3,"Brisbane
+BRONCOS",10,20,4
+0,NRL 2012,Round 9,"Saturday, 5th May, 2012",7:30pm (local time),28045,149,"14,254","Gold Coast
+TITANS",14,14,6,WESTS TIGERS,6,15,5
+0,NRL 2012,Round 9,"Saturday, 5th May, 2012",7:30pm (local time),28046,3,"9,517","Penrith
+PANTHERS",10,10,4,"Melbourne
+STORM",22,44,4
+0,NRL 2012,Round 9,"Sunday, 6th May, 2012",2:00pm (local time),28048,5,"15,033","Manly Warringah
+SEA EAGLES",6,18,8,"Canberra
+RAIDERS",6,12,3
+0,NRL 2012,Round 9,"Sunday, 6th May, 2012",3:00pm (local time),28049,1,"12,728","Sydney
+ROOSTERS",8,24,6,"Newcastle
+KNIGHTS",6,6,6
+0,NRL 2012,Round 9,"Monday, 7th May, 2012",7:00pm (local time),28050,20,"13,281","South Sydney
+RABBITOHS",18,34,6,"Cronulla Sutherland
+SHARKS",12,28,9
+0,NRL 2012,Round 10,"Friday, 11th May, 2012",7:00pm (local time),28078,1097,"41,273","Brisbane
+BRONCOS",12,22,4,"Manly Warringah
+SEA EAGLES",14,24,3
+0,NRL 2012,Round 10,"Friday, 11th May, 2012",8:45pm (local time),28079,1097,"41,273","Canterbury Bankstown
+BULLDOGS",6,14,2,"Gold Coast
+TITANS",4,25,11
+0,NRL 2012,Round 10,"Saturday, 12th May, 2012",7:30pm (local time),28080,6,"16,220",WARRIORS,12,30,9,"Sydney
+ROOSTERS",10,26,7
+0,NRL 2012,Round 10,"Saturday, 12th May, 2012",7:30pm (local time),28081,11,"18,191","Newcastle
+KNIGHTS",12,12,3,"North Queensland
+COWBOYS",12,32,3
+0,NRL 2012,Round 10,"Sunday, 13th May, 2012",2:00pm (local time),28082,4,"9,210","Canberra
+RAIDERS",24,40,5,"Parramatta
+EELS",6,34,6
+0,NRL 2012,Round 10,"Sunday, 13th May, 2012",3:00pm (local time),28083,9,"14,595","Cronulla Sutherland
+SHARKS",6,12,7,"Melbourne
+STORM",10,10,6
+0,NRL 2012,Round 10,"Monday, 14th May, 2012",7:00pm (local time),28084,3,"10,367","Penrith
+PANTHERS",12,13,8,"St George Illawarra
+DRAGONS",0,12,11
+0,NRL 2012,Round 11,"Friday, 18th May, 2012",7:45pm (local time),28087,7,"16,406",WESTS TIGERS,0,24,4,WARRIORS,10,22,2
+0,NRL 2012,Round 11,"Saturday, 19th May, 2012",7:30pm (local time),28088,14,"11,648","North Queensland
+COWBOYS",10,30,8,"Penrith
+PANTHERS",12,28,9
+0,NRL 2012,Round 11,"Sunday, 20th May, 2012",2:00pm (local time),28089,5,"12,633","Manly Warringah
+SEA EAGLES",10,18,10,"Sydney
+ROOSTERS",10,10,7
+0,NRL 2012,Round 11,"Sunday, 20th May, 2012",3:00pm (local time),28090,23,"14,894","St George Illawarra
+DRAGONS",12,18,5,"South Sydney
+RABBITOHS",12,19,3
+0,NRL 2012,Round 11,"Monday, 21st May, 2012",7:00pm (local time),28091,20,"12,012","Canterbury Bankstown
+BULLDOGS",24,26,7,"Cronulla Sutherland
+SHARKS",0,6,8
+0,NRL 2012,Round 12,"Friday, 25th May, 2012",7:35pm (local time),28092,251,"13,200","Melbourne
+STORM",16,34,4,"Brisbane
+BRONCOS",6,10,4
+0,NRL 2012,Round 12,"Friday, 25th May, 2012",7:35pm (local time),28093,20,"10,054","South Sydney
+RABBITOHS",14,36,9,"Canberra
+RAIDERS",12,18,7
+0,NRL 2012,Round 12,"Saturday, 26th May, 2012",5:30pm (local time),28094,11,"15,792","Newcastle
+KNIGHTS",4,14,4,"Gold Coast
+TITANS",16,24,6
+0,NRL 2012,Round 12,"Saturday, 26th May, 2012",7:30pm (local time),28095,23,"12,756","St George Illawarra
+DRAGONS",4,14,4,"Parramatta
+EELS",12,12,5
+0,NRL 2012,Round 12,"Sunday, 27th May, 2012",2:00pm (local time),28096,3,"11,844","Penrith
+PANTHERS",6,22,8,"Manly Warringah
+SEA EAGLES",4,4,7
+0,NRL 2012,Round 12,"Sunday, 27th May, 2012",3:00pm (local time),28097,19,"13,059",WESTS TIGERS,14,26,7,"North Queensland
+COWBOYS",12,18,6
+0,NRL 2012,Round 12,"Monday, 28th May, 2012",7:00pm (local time),28098,1,"11,343","Sydney
+ROOSTERS",12,12,5,"Canterbury Bankstown
+BULLDOGS",14,30,8
+0,NRL 2012,Round 13,"Friday, 1st June, 2012",7:35pm (local time),28114,149,"12,092","Gold Coast
+TITANS",12,28,2,"North Queensland
+COWBOYS",0,12,2
+0,NRL 2012,Round 13,"Friday, 1st June, 2012",7:35pm (local time),28113,5,"11,885","Manly Warringah
+SEA EAGLES",6,20,5,"St George Illawarra
+DRAGONS",2,8,4
+0,NRL 2012,Round 13,"Saturday, 2nd June, 2012",5:30pm (local time),28115,4,"9,210","Canberra
+RAIDERS",0,0,6,WESTS TIGERS,20,40,6
+0,NRL 2012,Round 13,"Saturday, 2nd June, 2012",7:35pm (local time),28116,20,"19,409","Canterbury Bankstown
+BULLDOGS",18,23,3,"South Sydney
+RABBITOHS",12,18,7
+0,NRL 2012,Round 13,"Sunday, 3rd June, 2012",4:00pm (local time),28117,6,"20,487",WARRIORS,12,12,5,"Melbourne
+STORM",10,22,5
+0,NRL 2012,Round 13,"Sunday, 3rd June, 2012",3:00pm (local time),28118,1097,"26,683","Brisbane
+BRONCOS",26,50,7,"Newcastle
+KNIGHTS",18,24,6
+0,NRL 2012,Round 13,"Monday, 4th June, 2012",7:00pm (local time),28119,8,"10,009","Parramatta
+EELS",6,29,6,"Cronulla Sutherland
+SHARKS",20,20,7
+0,NRL 2012,Round 14,"Friday, 8th June, 2012",7:45pm (local time),28132,251,"11,274","Melbourne
+STORM",2,6,5,WESTS TIGERS,2,10,5
+0,NRL 2012,Round 14,"Saturday, 9th June, 2012",7:30pm (local time),28133,11,"15,114","Newcastle
+KNIGHTS",12,16,6,"Canberra
+RAIDERS",20,32,4
+0,NRL 2012,Round 14,"Sunday, 10th June, 2012",2:00pm (local time),28134,9,"8,635","Cronulla Sutherland
+SHARKS",10,22,7,"Gold Coast
+TITANS",0,12,3
+0,NRL 2012,Round 14,"Sunday, 10th June, 2012",3:00pm (local time),28135,1,"9,738","Sydney
+ROOSTERS",12,22,9,"Brisbane
+BRONCOS",16,40,5
+0,NRL 2012,Round 14,"Monday, 11th June, 2012",5:30pm (local time),28136,3,"5,778","Penrith
+PANTHERS",16,16,5,WARRIORS,12,30,2
+0,NRL 2012,Round 15,"Friday, 15th June, 2012",7:35pm (local time),28140,14,"20,367","North Queensland
+COWBOYS",0,12,6,"Brisbane
+BRONCOS",0,0,7
+0,NRL 2012,Round 15,"Friday, 15th June, 2012",7:35pm (local time),28139,21,"16,928","St George Illawarra
+DRAGONS",6,20,9,"Canterbury Bankstown
+BULLDOGS",22,28,8
+0,NRL 2012,Round 15,"Saturday, 16th June, 2012",5:30pm (local time),28141,9,"9,271","Cronulla Sutherland
+SHARKS",8,20,7,WARRIORS,13,19,3
+0,NRL 2012,Round 15,"Saturday, 16th June, 2012",7:30pm (local time),28142,20,"14,212","Parramatta
+EELS",0,6,5,"South Sydney
+RABBITOHS",12,24,6
+0,NRL 2012,Round 15,"Sunday, 17th June, 2012",2:00pm (local time),28143,149,"11,591","Gold Coast
+TITANS",18,36,2,"Penrith
+PANTHERS",0,18,7
+0,NRL 2012,Round 15,"Sunday, 17th June, 2012",3:00pm (local time),28144,7,"20,327",WESTS TIGERS,4,28,6,"Sydney
+ROOSTERS",24,42,6
+0,NRL 2012,Round 15,"Monday, 18th June, 2012",7:00pm (local time),28156,5,"12,106","Manly Warringah
+SEA EAGLES",18,22,6,"Melbourne
+STORM",12,26,6
+0,NRL 2012,Round 16,"Friday, 22nd June, 2012",7:35pm (local time),28158,1097,"33,602","Brisbane
+BRONCOS",4,26,5,"South Sydney
+RABBITOHS",6,12,2
+0,NRL 2012,Round 16,"Friday, 22nd June, 2012",7:35pm (local time),28159,21,"10,194","St George Illawarra
+DRAGONS",4,8,7,"Gold Coast
+TITANS",0,6,7
+0,NRL 2012,Round 16,"Saturday, 23rd June, 2012",5:30pm (local time),28160,14,"14,344","North Queensland
+COWBOYS",30,40,8,"Canberra
+RAIDERS",6,18,7
+0,NRL 2012,Round 16,"Saturday, 23rd June, 2012",7:30pm (local time),28161,3,"15,275","Penrith
+PANTHERS",6,18,6,"Parramatta
+EELS",6,19,4
+0,NRL 2012,Round 16,"Sunday, 24th June, 2012",2:00pm (local time),28162,438,"11,876","Canterbury Bankstown
+BULLDOGS",10,20,4,"Melbourne
+STORM",0,4,8
+0,NRL 2012,Round 16,"Sunday, 24th June, 2012",3:00pm (local time),28163,1,"13,531","Sydney
+ROOSTERS",6,14,6,"Manly Warringah
+SEA EAGLES",24,52,5
+0,NRL 2012,Round 16,"Monday, 25th June, 2012",7:00pm (local time),28164,11,"18,637","Newcastle
+KNIGHTS",16,38,6,WESTS TIGERS,14,20,6
+0,NRL 2012,Round 17,"Friday, 29th June, 2012",7:35pm (local time),28165,1097,"26,268","Brisbane
+BRONCOS",6,12,8,"Cronulla Sutherland
+SHARKS",16,26,6
+0,NRL 2012,Round 17,"Saturday, 30th June, 2012",7:30pm (local time),28166,8,"12,022","Parramatta
+EELS",6,12,4,"Newcastle
+KNIGHTS",6,20,2
+0,NRL 2012,Round 17,"Sunday, 1st July, 2012",4:00pm (local time),28167,6,"15,374",WARRIORS,22,35,2,"North Queensland
+COWBOYS",12,18,4
+0,NRL 2012,Round 17,"Sunday, 1st July, 2012",3:00pm (local time),28168,20,"13,096","South Sydney
+RABBITOHS",14,38,10,"Penrith
+PANTHERS",12,12,3
+0,NRL 2012,Round 17,"Monday, 2nd July, 2012",7:00pm (local time),28169,4,"10,462","Canberra
+RAIDERS",16,22,5,"St George Illawarra
+DRAGONS",6,18,1
+0,NRL 2012,Round 18,"Friday, 6th July, 2012",7:45pm (local time),28186,1,"19,034",WESTS TIGERS,10,20,6,"Canterbury Bankstown
+BULLDOGS",4,32,6
+0,NRL 2012,Round 18,"Saturday, 7th July, 2012",5:30pm (local time),28187,251,"12,214","Melbourne
+STORM",12,12,6,"Canberra
+RAIDERS",20,40,2
+0,NRL 2012,Round 18,"Saturday, 7th July, 2012",7:30pm (local time),28188,149,"17,134","Gold Coast
+TITANS",14,14,4,WARRIORS,16,32,3
+0,NRL 2012,Round 18,"Sunday, 8th July, 2012",2:00pm (local time),28189,20,"16,104","South Sydney
+RABBITOHS",22,34,5,"Newcastle
+KNIGHTS",10,14,1
+0,NRL 2012,Round 18,"Sunday, 8th July, 2012",3:00pm (local time),28190,5,"16,065","Manly Warringah
+SEA EAGLES",34,40,4,"Parramatta
+EELS",0,24,3
+0,NRL 2012,Round 18,"Monday, 9th July, 2012",7:00pm (local time),28191,9,"13,139","Cronulla Sutherland
+SHARKS",10,14,9,"Sydney
+ROOSTERS",4,14,2
+0,NRL 2012,Round 19,"Friday, 13th July, 2012",7:35pm (local time),28201,1097,"32,148","Brisbane
+BRONCOS",8,10,3,WARRIORS,8,8,4
+0,NRL 2012,Round 19,"Friday, 13th July, 2012",7:35pm (local time),28200,20,"31,102","Canterbury Bankstown
+BULLDOGS",16,32,2,"Parramatta
+EELS",6,12,3
+0,NRL 2012,Round 19,"Saturday, 14th July, 2012",5:30pm (local time),28203,251,"10,688","Melbourne
+STORM",4,16,6,"North Queensland
+COWBOYS",6,20,5
+0,NRL 2012,Round 19,"Saturday, 14th July, 2012",5:30pm (local time),28202,11,"20,154","Newcastle
+KNIGHTS",10,32,5,"Manly Warringah
+SEA EAGLES",0,6,5
+0,NRL 2012,Round 19,"Saturday, 14th July, 2012",7:30pm (local time),28204,19,"12,384",WESTS TIGERS,14,26,9,"Penrith
+PANTHERS",12,18,7
+0,NRL 2012,Round 19,"Sunday, 15th July, 2012",2:00pm (local time),28205,4,"8,240","Canberra
+RAIDERS",4,26,5,"Gold Coast
+TITANS",22,38,5
+0,NRL 2012,Round 19,"Sunday, 15th July, 2012",3:00pm (local time),28206,21,"18,282","St George Illawarra
+DRAGONS",12,18,4,"Cronulla Sutherland
+SHARKS",4,10,4
+0,NRL 2012,Round 19,"Monday, 16th July, 2012",7:00pm (local time),28207,1,"19,934","Sydney
+ROOSTERS",4,22,4,"South Sydney
+RABBITOHS",12,24,1
+0,NRL 2012,Round 20,"Friday, 20th July, 2012",7:35pm (local time),28209,149,"20,067","Gold Coast
+TITANS",6,14,5,"Brisbane
+BRONCOS",6,10,6
+0,NRL 2012,Round 20,"Friday, 20th July, 2012",7:35pm (local time),28208,5,"16,820","Manly Warringah
+SEA EAGLES",0,12,7,"Canterbury Bankstown
+BULLDOGS",12,20,6
+0,NRL 2012,Round 20,"Saturday, 21st July, 2012",7:30pm (local time),28210,6,"15,112",WARRIORS,19,19,2,"Newcastle
+KNIGHTS",12,24,5
+0,NRL 2012,Round 20,"Saturday, 21st July, 2012",7:30pm (local time),28212,8,"9,029","Parramatta
+EELS",10,16,5,"Melbourne
+STORM",6,10,6
+0,NRL 2012,Round 20,"Saturday, 21st July, 2012",7:30pm (local time),28211,20,"21,071","South Sydney
+RABBITOHS",16,36,6,"St George Illawarra
+DRAGONS",4,14,7
+0,NRL 2012,Round 20,"Sunday, 22nd July, 2012",2:00pm (local time),28213,9,"12,139","Cronulla Sutherland
+SHARKS",4,4,5,"Canberra
+RAIDERS",24,36,1
+0,NRL 2012,Round 20,"Sunday, 22nd July, 2012",3:00pm (local time),28214,3,"9,646","Penrith
+PANTHERS",10,28,9,"Sydney
+ROOSTERS",6,16,9
+0,NRL 2012,Round 20,"Monday, 23rd July, 2012",7:00pm (local time),28215,14,"12,357","North Queensland
+COWBOYS",16,29,4,WESTS TIGERS,16,16,6
+0,NRL 2012,Round 21,"Friday, 27th July, 2012",7:35pm (local time),28216,21,"11,477","St George Illawarra
+DRAGONS",18,26,5,"Melbourne
+STORM",12,18,6
+0,NRL 2012,Round 21,"Friday, 27th July, 2012",7:35pm (local time),28217,1,"8,134","Sydney
+ROOSTERS",10,16,6,"Gold Coast
+TITANS",12,36,9
+0,NRL 2012,Round 21,"Saturday, 28th July, 2012",5:30pm (local time),28218,20,"18,652","Canterbury Bankstown
+BULLDOGS",18,32,6,"North Queensland
+COWBOYS",6,18,2
+0,NRL 2012,Round 21,"Saturday, 28th July, 2012",7:30pm (local time),28220,9,"7,848","Cronulla Sutherland
+SHARKS",10,20,6,"Penrith
+PANTHERS",6,21,3
+0,NRL 2012,Round 21,"Saturday, 28th July, 2012",5:30pm (local time),28219,439,"20,095","Manly Warringah
+SEA EAGLES",6,24,7,WARRIORS,18,22,5
+0,NRL 2012,Round 21,"Sunday, 29th July, 2012",2:00pm (local time),28221,4,"10,260","Canberra
+RAIDERS",0,6,4,"Newcastle
+KNIGHTS",12,36,5
+0,NRL 2012,Round 21,"Sunday, 29th July, 2012",3:00pm (local time),28222,20,"29,863","South Sydney
+RABBITOHS",20,32,6,WESTS TIGERS,0,6,6
+0,NRL 2012,Round 21,"Monday, 30th July, 2012",7:00pm (local time),28223,1097,"22,626","Brisbane
+BRONCOS",6,22,7,"Parramatta
+EELS",30,42,5
+0,NRL 2012,Round 22,"Friday, 3rd August, 2012",7:35pm (local time),28224,1,"12,528","Sydney
+ROOSTERS",12,26,4,"St George Illawarra
+DRAGONS",0,10,4
+0,NRL 2012,Round 22,"Saturday, 4th August, 2012",3:30pm (local time),28225,251,"9,223","Melbourne
+STORM",34,46,4,"Penrith
+PANTHERS",0,6,4
+0,NRL 2012,Round 22,"Saturday, 4th August, 2012",5:30pm (local time),28226,11,"29,482","Newcastle
+KNIGHTS",4,10,7,"Canterbury Bankstown
+BULLDOGS",24,26,3
+0,NRL 2012,Round 22,"Saturday, 4th August, 2012",7:30pm (local time),28227,14,"14,401","North Queensland
+COWBOYS",0,6,8,"Manly Warringah
+SEA EAGLES",6,8,4
+0,NRL 2012,Round 22,"Sunday, 5th August, 2012",2:00pm (local time),28228,6,"13,812",WARRIORS,4,4,4,"Cronulla Sutherland
+SHARKS",21,45,8
+0,NRL 2012,Round 22,"Sunday, 5th August, 2012",2:00pm (local time),28229,4,"9,850","Canberra
+RAIDERS",4,28,8,"Brisbane
+BRONCOS",6,12,5
+0,NRL 2012,Round 22,"Sunday, 5th August, 2012",3:00pm (local time),28230,149,"20,187","Gold Coast
+TITANS",6,18,5,"South Sydney
+RABBITOHS",10,22,1
+0,NRL 2012,Round 22,"Monday, 6th August, 2012",7:00pm (local time),28231,19,"14,822",WESTS TIGERS,18,51,6,"Parramatta
+EELS",22,26,4
+0,NRL 2012,Round 23,"Friday, 10th August, 2012",7:35pm (local time),28233,251,"9,108","Melbourne
+STORM",0,24,6,"Gold Coast
+TITANS",10,16,7
+0,NRL 2012,Round 23,"Friday, 10th August, 2012",7:35pm (local time),28232,26,"17,947","South Sydney
+RABBITOHS",6,6,5,"Manly Warringah
+SEA EAGLES",9,23,2
+0,NRL 2012,Round 23,"Saturday, 11th August, 2012",5:30pm (local time),28234,8,"12,193","Parramatta
+EELS",18,36,6,"Sydney
+ROOSTERS",10,22,5
+0,NRL 2012,Round 23,"Saturday, 11th August, 2012",7:30pm (local time),28236,14,"13,616","North Queensland
+COWBOYS",22,52,6,WARRIORS,6,12,5
+0,NRL 2012,Round 23,"Saturday, 11th August, 2012",7:30pm (local time),28235,1,"10,546",WESTS TIGERS,4,22,4,"St George Illawarra
+DRAGONS",8,12,6
+0,NRL 2012,Round 23,"Sunday, 12th August, 2012",2:00pm (local time),28237,3,"7,437","Penrith
+PANTHERS",6,10,6,"Canberra
+RAIDERS",0,20,10
+0,NRL 2012,Round 23,"Sunday, 12th August, 2012",3:00pm (local time),28238,20,"19,870","Canterbury Bankstown
+BULLDOGS",6,22,5,"Brisbane
+BRONCOS",14,14,5
+0,NRL 2012,Round 23,"Monday, 13th August, 2012",7:00pm (local time),28239,11,"15,394","Newcastle
+KNIGHTS",12,26,4,"Cronulla Sutherland
+SHARKS",0,4,4
+0,NRL 2012,Round 24,"Friday, 17th August, 2012",7:35pm (local time),28241,1097,"41,467","Brisbane
+BRONCOS",12,18,4,"Melbourne
+STORM",6,19, 
+0,NRL 2012,Round 24,"Friday, 17th August, 2012",7:35pm (local time),28240,20,"29,194","Canterbury Bankstown
+BULLDOGS",12,23,2,WESTS TIGERS,6,22,7
+0,NRL 2012,Round 24,"Saturday, 18th August, 2012",5:30pm (local time),28272,4,"8,860","Canberra
+RAIDERS",10,24,9,"Sydney
+ROOSTERS",10,20,4
+0,NRL 2012,Round 24,"Saturday, 18th August, 2012",7:30pm (local time),28273,9,"16,423","Cronulla Sutherland
+SHARKS",6,20,6,"South Sydney
+RABBITOHS",0,7,4
+0,NRL 2012,Round 24,"Sunday, 19th August, 2012",2:00pm (local time),28276,6,"11,000",WARRIORS,10,16,3,"Penrith
+PANTHERS",6,18,5
+0,NRL 2012,Round 24,"Sunday, 19th August, 2012",2:00pm (local time),28277,149,"14,159","Gold Coast
+TITANS",14,24,5,"Parramatta
+EELS",4,16,4
+0,NRL 2012,Round 24,"Sunday, 19th August, 2012",3:00pm (local time),28278,5,"14,191","Manly Warringah
+SEA EAGLES",38,42,7,"Newcastle
+KNIGHTS",4,20,5
+0,NRL 2012,Round 24,"Monday, 20th August, 2012",7:00pm (local time),28279,21,"9,245","St George Illawarra
+DRAGONS",16,22,8,"North Queensland
+COWBOYS",18,32,3
+0,NRL 2012,Round 25,"Friday, 24th August, 2012",7:35pm (local time),28286,4,"13,158","Canberra
+RAIDERS",24,34,7,"Canterbury Bankstown
+BULLDOGS",6,6,6
+0,NRL 2012,Round 25,"Friday, 24th August, 2012",7:35pm (local time),28285,5,"12,886","Manly Warringah
+SEA EAGLES",16,16,5,"Brisbane
+BRONCOS",0,6,2
+0,NRL 2012,Round 25,"Saturday, 25th August, 2012",3:30pm (local time),28287,3,"7,297","Penrith
+PANTHERS",18,36,4,"Gold Coast
+TITANS",12,22,5
+0,NRL 2012,Round 25,"Saturday, 25th August, 2012",5:30pm (local time),28288,21,"11,261","St George Illawarra
+DRAGONS",12,38,5,WARRIORS,6,6,1
+0,NRL 2012,Round 25,"Saturday, 25th August, 2012",7:30pm (local time),28289,14,"15,119","North Queensland
+COWBOYS",18,22,5,"Newcastle
+KNIGHTS",14,14,3
+0,NRL 2012,Round 25,"Sunday, 26th August, 2012",2:00pm (local time),28290,1,"15,736","Sydney
+ROOSTERS",26,44,7,WESTS TIGERS,0,20,5
+0,NRL 2012,Round 25,"Sunday, 26th August, 2012",3:00pm (local time),28291,20,"24,121","South Sydney
+RABBITOHS",14,38,8,"Parramatta
+EELS",6,6,3
+0,NRL 2012,Round 25,"Monday, 27th August, 2012",7:00pm (local time),28292,251,"12,847","Melbourne
+STORM",4,20,7,"Cronulla Sutherland
+SHARKS",6,18,6
+0,NRL 2012,Round 26,"Friday, 31st August, 2012",7:35pm (local time),28294,1097,"35,178","Brisbane
+BRONCOS",0,19,3,"Penrith
+PANTHERS",6,12,4
+0,NRL 2012,Round 26,"Friday, 31st August, 2012",7:35pm (local time),28293,11,"24,127","Newcastle
+KNIGHTS",6,6,4,"South Sydney
+RABBITOHS",12,18,3
+0,NRL 2012,Round 26,"Saturday, 1st September, 2012",5:30pm (local time),28295,149,"14,927","Gold Coast
+TITANS",4,16,7,"Manly Warringah
+SEA EAGLES",18,24,3
+0,NRL 2012,Round 26,"Saturday, 1st September, 2012",7:30pm (local time),28297,20,"23,391","Canterbury Bankstown
+BULLDOGS",18,42,4,"Sydney
+ROOSTERS",10,10,6
+0,NRL 2012,Round 26,"Saturday, 1st September, 2012",7:30pm (local time),28296,7,"10,834",WESTS TIGERS,6,6,8,"Melbourne
+STORM",10,26,4
+0,NRL 2012,Round 26,"Sunday, 2nd September, 2012",4:00pm (local time),28298,6,"11,455",WARRIORS,22,22,2,"Canberra
+RAIDERS",6,42,4
+0,NRL 2012,Round 26,"Sunday, 2nd September, 2012",3:00pm (local time),28299,9,"16,829","Cronulla Sutherland
+SHARKS",12,22,3,"North Queensland
+COWBOYS",18,36,6
+0,NRL 2012,Round 26,"Sunday, 2nd September, 2012",6:30pm (local time),28300,20,"45,863","Parramatta
+EELS",6,8,6,"St George Illawarra
+DRAGONS",8,29,4
+0,NRL 2012,Qualif Final,"Friday, 7th September, 2012",7:45pm (local time),28301,20,"36,420","Canterbury Bankstown
+BULLDOGS",6,16,3,"Manly Warringah
+SEA EAGLES",10,10,5
+0,NRL 2012,Qualif Final,"Saturday, 8th September, 2012",5:45pm (local time),28302,251,"19,750","Melbourne
+STORM",18,24,8,"South Sydney
+RABBITOHS",0,6,9
+0,NRL 2012,Qualif Final,"Saturday, 8th September, 2012",7:45pm (local time),28303,14,"21,307","North Queensland
+COWBOYS",18,33,5,"Brisbane
+BRONCOS",0,16,2
+0,NRL 2012,Qualif Final,"Sunday, 9th September, 2012",4:00pm (local time),28304,4,"24,450","Canberra
+RAIDERS",16,34,6,"Cronulla Sutherland
+SHARKS",6,16,4
+0,NRL 2012,Semi Final,"Friday, 14th September, 2012",7:45pm (local time),28305,1,"16,678","Manly Warringah
+SEA EAGLES",12,22,5,"North Queensland
+COWBOYS",6,12,4
+0,NRL 2012,Semi Final,"Saturday, 15th September, 2012",7:45pm (local time),28306,20,"35,874","South Sydney
+RABBITOHS",20,38,4,"Canberra
+RAIDERS",10,16,4
+0,NRL 2012,Prelim Final,"Friday, 21st September, 2012",7:45pm (local time),28307,251,"25,543","Melbourne
+STORM",12,40,7,"Manly Warringah
+SEA EAGLES",6,12,4
+0,NRL 2012,Prelim Final,"Saturday, 22nd September, 2012",7:45pm (local time),28308,20,"70,354","Canterbury Bankstown
+BULLDOGS",16,32,4,"South Sydney
+RABBITOHS",8,8,6
+0,NRL 2012,Grand Final,"Sunday, 30th September, 2012",5:00pm (local time),28309,20,"82,976","Canterbury Bankstown
+BULLDOGS",4,4,4,"Melbourne
+STORM",14,14,5

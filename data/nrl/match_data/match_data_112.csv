@@ -1,0 +1,556 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2019,Round 1,"Thursday, 14th March, 2019",7:50pm (local time),38454,251,"16,239","Melbourne
+STORM",10,22,,"Brisbane
+BRONCOS",0,12,
+0,NRL 2019,Round 1,"Friday, 15th March, 2019",6:00pm (local time),38455,11,"21,813","Newcastle
+KNIGHTS",0,14,,"Cronulla Sutherland
+SHARKS",0,8,
+0,NRL 2019,Round 1,"Friday, 15th March, 2019",7:55pm (local time),38456,24,"24,527","Sydney
+ROOSTERS",12,16,,"South Sydney
+RABBITOHS",10,26,
+0,NRL 2019,Round 1,"Saturday, 16th March, 2019",3:00pm (local time),38457,6,"18,795",WARRIORS,22,40,,"Canterbury Bankstown
+BULLDOGS",0,6,
+0,NRL 2019,Round 1,"Saturday, 16th March, 2019",5:30pm (local time),38458,7,"13,159",WESTS TIGERS,0,20,,"Manly Warringah
+SEA EAGLES",2,6,
+0,NRL 2019,Round 1,"Saturday, 16th March, 2019",7:35pm (local time),38459,14,"18,415","North Queensland
+COWBOYS",8,24,,"St George Illawarra
+DRAGONS",6,12,
+0,NRL 2019,Round 1,"Sunday, 17th March, 2019",4:05pm (local time),38460,3,"12,604","Penrith
+PANTHERS",0,12,,"Parramatta
+EELS",8,20,
+0,NRL 2019,Round 1,"Sunday, 17th March, 2019",6:10pm (local time),38461,149,"9,843","Gold Coast
+TITANS",0,0,,"Canberra
+RAIDERS",10,21,
+0,NRL 2019,Round 2,"Thursday, 21st March, 2019",7:50pm (local time),38462,23,"10,080","St George Illawarra
+DRAGONS",12,18,,"South Sydney
+RABBITOHS",6,34,
+0,NRL 2019,Round 2,"Friday, 22nd March, 2019",6:00pm (local time),38463,4,"14,031","Canberra
+RAIDERS",0,10,,"Melbourne
+STORM",14,22,
+0,NRL 2019,Round 2,"Friday, 22nd March, 2019",7:55pm (local time),38464,1097,"45,023","Brisbane
+BRONCOS",10,29,,"North Queensland
+COWBOYS",0,10,
+0,NRL 2019,Round 2,"Saturday, 23rd March, 2019",3:00pm (local time),38465,9,"15,217","Cronulla Sutherland
+SHARKS",20,20,,"Gold Coast
+TITANS",0,6,
+0,NRL 2019,Round 2,"Saturday, 23rd March, 2019",5:30pm (local time),38466,11,"19,451","Newcastle
+KNIGHTS",8,14,,"Penrith
+PANTHERS",10,16,
+0,NRL 2019,Round 2,"Saturday, 23rd March, 2019",7:35pm (local time),38467,5,"9,664","Manly Warringah
+SEA EAGLES",0,18,,"Sydney
+ROOSTERS",22,26,
+0,NRL 2019,Round 2,"Sunday, 24th March, 2019",4:05pm (local time),38468,20,"20,134","Canterbury Bankstown
+BULLDOGS",10,16,,"Parramatta
+EELS",12,36,
+0,NRL 2019,Round 2,"Sunday, 24th March, 2019",6:10pm (local time),38469,19,"9,881",WESTS TIGERS,12,34,,WARRIORS,0,6,
+0,NRL 2019,Round 3,"Thursday, 28th March, 2019",7:50pm (local time),38470,1097,"21,081","Brisbane
+BRONCOS",12,24,,"St George Illawarra
+DRAGONS",10,25,
+0,NRL 2019,Round 3,"Friday, 29th March, 2019",6:00pm (local time),38471,4,"10,585","Canberra
+RAIDERS",12,17,,"Newcastle
+KNIGHTS",4,10,
+0,NRL 2019,Round 3,"Friday, 29th March, 2019",7:55pm (local time),38472,20,"13,367","Parramatta
+EELS",6,18,,"Sydney
+ROOSTERS",8,32,
+0,NRL 2019,Round 3,"Saturday, 30th March, 2019",3:00pm (local time),38473,45,"11,774","Manly Warringah
+SEA EAGLES",24,46,,WARRIORS,12,12,
+0,NRL 2019,Round 3,"Saturday, 30th March, 2019",5:30pm (local time),38474,14,"11,610","North Queensland
+COWBOYS",10,16,,"Cronulla Sutherland
+SHARKS",6,42,
+0,NRL 2019,Round 3,"Saturday, 30th March, 2019",7:35pm (local time),38475,108,"10,973","Penrith
+PANTHERS",2,2,,"Melbourne
+STORM",8,32,
+0,NRL 2019,Round 3,"Sunday, 31st March, 2019",4:05pm (local time),38476,19,"15,127",WESTS TIGERS,0,8,,"Canterbury Bankstown
+BULLDOGS",18,22,
+0,NRL 2019,Round 3,"Sunday, 31st March, 2019",6:10pm (local time),38477,20,"10,128","South Sydney
+RABBITOHS",18,28,,"Gold Coast
+TITANS",8,20,
+0,NRL 2019,Round 4,"Thursday, 4th April, 2019",8:05pm (local time),38478,24,"9,304","Sydney
+ROOSTERS",22,36,,"Brisbane
+BRONCOS",0,4,
+0,NRL 2019,Round 4,"Friday, 5th April, 2019",6:00pm (local time),38479,6,"13,995",WARRIORS,12,26,,"Gold Coast
+TITANS",0,10,
+0,NRL 2019,Round 4,"Friday, 5th April, 2019",8:05pm (local time),38480,3,"14,002","Penrith
+PANTHERS",2,9,,WESTS TIGERS,4,8,
+0,NRL 2019,Round 4,"Saturday, 6th April, 2019",3:00pm (local time),38481,5,"12,304","Manly Warringah
+SEA EAGLES",6,13,,"South Sydney
+RABBITOHS",10,12,
+0,NRL 2019,Round 4,"Saturday, 6th April, 2019",5:30pm (local time),38482,14,"11,750","North Queensland
+COWBOYS",6,12,,"Canberra
+RAIDERS",16,30,
+0,NRL 2019,Round 4,"Saturday, 6th April, 2019",7:35pm (local time),38483,20,"11,185","Parramatta
+EELS",12,24,,"Cronulla Sutherland
+SHARKS",6,12,
+0,NRL 2019,Round 4,"Sunday, 7th April, 2019",4:05pm (local time),38484,251,"15,432","Melbourne
+STORM",6,18,,"Canterbury Bankstown
+BULLDOGS",12,16,
+0,NRL 2019,Round 4,"Sunday, 7th April, 2019",6:10pm (local time),38485,11,"19,105","Newcastle
+KNIGHTS",10,12,,"St George Illawarra
+DRAGONS",8,13,
+0,NRL 2019,Round 5,"Thursday, 11th April, 2019",7:50pm (local time),38486,1097,"24,398","Brisbane
+BRONCOS",8,16,,WESTS TIGERS,6,22,
+0,NRL 2019,Round 5,"Friday, 12th April, 2019",6:00pm (local time),38487,149,"8,680","Gold Coast
+TITANS",18,30,,"Penrith
+PANTHERS",12,24,
+0,NRL 2019,Round 5,"Friday, 12th April, 2019",7:55pm (local time),38488,14,"14,130","North Queensland
+COWBOYS",8,12,,"Melbourne
+STORM",6,18,
+0,NRL 2019,Round 5,"Saturday, 13th April, 2019",3:00pm (local time),38489,939,"11,912","South Sydney
+RABBITOHS",12,28,,WARRIORS,12,24,
+0,NRL 2019,Round 5,"Saturday, 13th April, 2019",5:30pm (local time),38490,11,"21,779","Newcastle
+KNIGHTS",6,18,,"Manly Warringah
+SEA EAGLES",18,26,
+0,NRL 2019,Round 5,"Saturday, 13th April, 2019",7:35pm (local time),38491,9,"13,470","Cronulla Sutherland
+SHARKS",0,16,,"Sydney
+ROOSTERS",12,30,
+0,NRL 2019,Round 5,"Sunday, 14th April, 2019",4:05pm (local time),38492,23,"13,409","St George Illawarra
+DRAGONS",18,40,,"Canterbury Bankstown
+BULLDOGS",0,4,
+0,NRL 2019,Round 5,"Sunday, 14th April, 2019",6:10pm (local time),38493,4,"16,059","Canberra
+RAIDERS",8,19,,"Parramatta
+EELS",0,0,
+0,NRL 2019,Round 6,"Thursday, 18th April, 2019",7:50pm (local time),38494,9,"10,088","Cronulla Sutherland
+SHARKS",0,24,,"Penrith
+PANTHERS",14,20,
+0,NRL 2019,Round 6,"Friday, 19th April, 2019",4:05pm (local time),38495,20,"30,040","Canterbury Bankstown
+BULLDOGS",6,6,,"South Sydney
+RABBITOHS",14,14,
+0,NRL 2019,Round 6,"Friday, 19th April, 2019",7:55pm (local time),38496,251,"17,036","Melbourne
+STORM",8,20,,"Sydney
+ROOSTERS",20,21,
+0,NRL 2019,Round 6,"Saturday, 20th April, 2019",5:30pm (local time),38497,6,"11,395",WARRIORS,4,10,,"North Queensland
+COWBOYS",8,17,
+0,NRL 2019,Round 6,"Saturday, 20th April, 2019",7:35pm (local time),38498,21,"14,268","St George Illawarra
+DRAGONS",8,12,,"Manly Warringah
+SEA EAGLES",4,10,
+0,NRL 2019,Round 6,"Sunday, 21st April, 2019",2:00pm (local time),38499,149,"11,654","Gold Coast
+TITANS",22,38,,"Newcastle
+KNIGHTS",0,14,
+0,NRL 2019,Round 6,"Sunday, 21st April, 2019",4:05pm (local time),38500,4,"17,193","Canberra
+RAIDERS",14,26,,"Brisbane
+BRONCOS",4,22,
+0,NRL 2019,Round 6,"Monday, 22nd April, 2019",4:00pm (local time),38501,940,"29,047","Parramatta
+EELS",30,51,,WESTS TIGERS,6,6,
+0,NRL 2019,Round 7,"Thursday, 25th April, 2019",4:05pm (local time),38502,24,"38,414","Sydney
+ROOSTERS",14,20,,"St George Illawarra
+DRAGONS",0,10,
+0,NRL 2019,Round 7,"Thursday, 25th April, 2019",7:50pm (local time),38503,251,"21,539","Melbourne
+STORM",4,13,,WARRIORS,8,12,
+0,NRL 2019,Round 7,"Friday, 26th April, 2019",6:00pm (local time),38504,20,"6,711","Canterbury Bankstown
+BULLDOGS",6,24,,"North Queensland
+COWBOYS",6,12,
+0,NRL 2019,Round 7,"Friday, 26th April, 2019",7:55pm (local time),38505,3,"14,931","Penrith
+PANTHERS",2,18,,"South Sydney
+RABBITOHS",10,22,
+0,NRL 2019,Round 7,"Saturday, 27th April, 2019",5:30pm (local time),38506,409,"9,799",WESTS TIGERS,16,30,,"Gold Coast
+TITANS",14,14,
+0,NRL 2019,Round 7,"Saturday, 27th April, 2019",7:35pm (local time),38507,1097,"27,638","Brisbane
+BRONCOS",21,29,,"Cronulla Sutherland
+SHARKS",0,6,
+0,NRL 2019,Round 7,"Sunday, 28th April, 2019",2:00pm (local time),38508,5,"10,706","Manly Warringah
+SEA EAGLES",12,24,,"Canberra
+RAIDERS",14,20,
+0,NRL 2019,Round 7,"Sunday, 28th April, 2019",4:05pm (local time),38509,11,"19,604","Newcastle
+KNIGHTS",20,28,,"Parramatta
+EELS",8,14,
+0,NRL 2019,Round 8,"Thursday, 2nd May, 2019",7:50pm (local time),38510,20,"13,643","South Sydney
+RABBITOHS",24,38,,"Brisbane
+BRONCOS",0,6,
+0,NRL 2019,Round 8,"Friday, 3rd May, 2019",6:00pm (local time),38511,14,"10,655","North Queensland
+COWBOYS",16,28,,"Gold Coast
+TITANS",4,14,
+0,NRL 2019,Round 8,"Friday, 3rd May, 2019",7:55pm (local time),38512,9,"7,683","Cronulla Sutherland
+SHARKS",12,20,,"Melbourne
+STORM",12,18,
+0,NRL 2019,Round 8,"Saturday, 4th May, 2019",3:00pm (local time),38513,498,"10,079","Canberra
+RAIDERS",14,30,,"Penrith
+PANTHERS",0,12,
+0,NRL 2019,Round 8,"Saturday, 4th May, 2019",5:30pm (local time),38514,5,"10,148","Manly Warringah
+SEA EAGLES",14,18,,"Canterbury Bankstown
+BULLDOGS",6,10,
+0,NRL 2019,Round 8,"Saturday, 4th May, 2019",7:35pm (local time),38515,24,"13,666","Sydney
+ROOSTERS",18,42,,WESTS TIGERS,6,12,
+0,NRL 2019,Round 8,"Sunday, 5th May, 2019",2:00pm (local time),38516,6,"14,975",WARRIORS,12,18,,"Newcastle
+KNIGHTS",16,36,
+0,NRL 2019,Round 8,"Sunday, 5th May, 2019",4:05pm (local time),38517,940,"25,872","Parramatta
+EELS",6,32,,"St George Illawarra
+DRAGONS",14,18,
+0,NRL 2019,Round 9,"Thursday, 9th May, 2019",7:50pm (local time),38518,1097,"17,113","Gold Coast
+TITANS",18,18,,"Cronulla Sutherland
+SHARKS",10,26,
+0,NRL 2019,Round 9,"Friday, 10th May, 2019",6:00pm (local time),38519,1097,"35,122",WESTS TIGERS,26,30,,"Penrith
+PANTHERS",4,4,
+0,NRL 2019,Round 9,"Friday, 10th May, 2019",7:55pm (local time),38520,1097,"41,388","Manly Warringah
+SEA EAGLES",6,10,,"Brisbane
+BRONCOS",6,26,
+0,NRL 2019,Round 9,"Saturday, 11th May, 2019",3:00pm (local time),38521,1097,"12,646","Canterbury Bankstown
+BULLDOGS",0,10,,"Newcastle
+KNIGHTS",16,22,
+0,NRL 2019,Round 9,"Saturday, 11th May, 2019",5:30pm (local time),38522,1097,"35,122",WARRIORS,6,26,,"St George Illawarra
+DRAGONS",18,18,
+0,NRL 2019,Round 9,"Saturday, 11th May, 2019",7:35pm (local time),38523,1097,"41,612","Melbourne
+STORM",24,64,,"Parramatta
+EELS",6,10,
+0,NRL 2019,Round 9,"Sunday, 12th May, 2019",2:00pm (local time),38524,1097,"29,686","Sydney
+ROOSTERS",24,30,,"Canberra
+RAIDERS",6,24,
+0,NRL 2019,Round 9,"Sunday, 12th May, 2019",4:05pm (local time),38525,1097,"34,564","South Sydney
+RABBITOHS",18,32,,"North Queensland
+COWBOYS",10,16,
+0,NRL 2019,Round 10,"Thursday, 16th May, 2019",7:50pm (local time),38526,251,"11,402","Melbourne
+STORM",8,24,,WESTS TIGERS,12,22,
+0,NRL 2019,Round 10,"Friday, 17th May, 2019",6:00pm (local time),38527,3,"10,084","Penrith
+PANTHERS",0,10,,WARRIORS,14,30,
+0,NRL 2019,Round 10,"Friday, 17th May, 2019",7:55pm (local time),38528,1097,"28,228","Brisbane
+BRONCOS",8,15,,"Sydney
+ROOSTERS",8,10,
+0,NRL 2019,Round 10,"Saturday, 18th May, 2019",3:00pm (local time),38529,149,"10,105","Gold Coast
+TITANS",16,16,,"Canterbury Bankstown
+BULLDOGS",12,22,
+0,NRL 2019,Round 10,"Saturday, 18th May, 2019",5:30pm (local time),38530,14,"12,493","North Queensland
+COWBOYS",6,17,,"Parramatta
+EELS",6,10,
+0,NRL 2019,Round 10,"Saturday, 18th May, 2019",7:35pm (local time),38531,4,"16,965","Canberra
+RAIDERS",6,12,,"South Sydney
+RABBITOHS",4,16,
+0,NRL 2019,Round 10,"Sunday, 19th May, 2019",2:00pm (local time),38532,432,"9,267","St George Illawarra
+DRAGONS",0,12,,"Newcastle
+KNIGHTS",28,45,
+0,NRL 2019,Round 10,"Sunday, 19th May, 2019",4:05pm (local time),38533,9,"13,360","Cronulla Sutherland
+SHARKS",4,14,,"Manly Warringah
+SEA EAGLES",18,24,
+0,NRL 2019,Round 11,"Thursday, 23rd May, 2019",7:50pm (local time),38534,940,"16,228","Parramatta
+EELS",10,10,,"Penrith
+PANTHERS",8,16,
+0,NRL 2019,Round 11,"Friday, 24th May, 2019",6:00pm (local time),38535,5,"7,465","Manly Warringah
+SEA EAGLES",12,18,,"Gold Coast
+TITANS",10,36,
+0,NRL 2019,Round 11,"Friday, 24th May, 2019",7:55pm (local time),38536,11,"25,929","Newcastle
+KNIGHTS",22,38,,"Sydney
+ROOSTERS",6,12,
+0,NRL 2019,Round 11,"Saturday, 25th May, 2019",3:00pm (local time),38537,4,"14,647","Canberra
+RAIDERS",10,16,,"North Queensland
+COWBOYS",14,22,
+0,NRL 2019,Round 11,"Saturday, 25th May, 2019",5:30pm (local time),38538,6,"17,495",WARRIORS,2,2,,"Brisbane
+BRONCOS",2,8,
+0,NRL 2019,Round 11,"Saturday, 25th May, 2019",7:35pm (local time),38539,20,"18,195","South Sydney
+RABBITOHS",20,32,,WESTS TIGERS,12,16,
+0,NRL 2019,Round 11,"Sunday, 26th May, 2019",2:00pm (local time),38540,27,"13,131","Canterbury Bankstown
+BULLDOGS",0,6,,"Melbourne
+STORM",8,28,
+0,NRL 2019,Round 11,"Sunday, 26th May, 2019",4:05pm (local time),38541,21,"14,586","St George Illawarra
+DRAGONS",9,9,,"Cronulla Sutherland
+SHARKS",8,22,
+0,NRL 2019,Round 12,"Thursday, 30th May, 2019",7:50pm (local time),38542,3,"7,981","Penrith
+PANTHERS",9,15,,"Manly Warringah
+SEA EAGLES",0,12,
+0,NRL 2019,Round 12,"Friday, 31st May, 2019",7:55pm (local time),38543,940,"21,645","Parramatta
+EELS",14,26,,"South Sydney
+RABBITOHS",2,14,
+0,NRL 2019,Round 12,"Saturday, 1st June, 2019",7:35pm (local time),38544,20,"7,213","Canterbury Bankstown
+BULLDOGS",0,10,,"Canberra
+RAIDERS",10,12,
+0,NRL 2019,Round 12,"Sunday, 2nd June, 2019",4:05pm (local time),38545,149,"11,226","Gold Coast
+TITANS",4,4,7,"North Queensland
+COWBOYS",0,6,5
+0,NRL 2019,Round 13,"Friday, 7th June, 2019",6:00pm (local time),38547,20,"8,253","South Sydney
+RABBITOHS",6,12,,"Newcastle
+KNIGHTS",12,20,
+0,NRL 2019,Round 13,"Friday, 7th June, 2019",7:55pm (local time),38548,940,"12,585",WESTS TIGERS,0,0,,"Canberra
+RAIDERS",18,28,
+0,NRL 2019,Round 13,"Saturday, 8th June, 2019",3:00pm (local time),38549,6,"12,957",WARRIORS,10,10,,"Melbourne
+STORM",8,32,
+0,NRL 2019,Round 13,"Saturday, 8th June, 2019",5:30pm (local time),38550,9,"12,386","Cronulla Sutherland
+SHARKS",20,42,,"Parramatta
+EELS",6,22,
+0,NRL 2019,Round 13,"Saturday, 8th June, 2019",7:35pm (local time),38551,14,"13,314","North Queensland
+COWBOYS",20,20,,"Manly Warringah
+SEA EAGLES",12,22,
+0,NRL 2019,Round 13,"Sunday, 9th June, 2019",2:00pm (local time),38552,1097,"30,048","Brisbane
+BRONCOS",6,18,,"Gold Coast
+TITANS",18,26,
+0,NRL 2019,Round 13,"Sunday, 9th June, 2019",4:05pm (local time),38553,3,"16,833","Penrith
+PANTHERS",6,19,,"Sydney
+ROOSTERS",4,10,
+0,NRL 2019,Round 13,"Monday, 10th June, 2019",4:00pm (local time),38554,20,"16,003","Canterbury Bankstown
+BULLDOGS",6,12,,"St George Illawarra
+DRAGONS",18,36,
+0,NRL 2019,Round 14,"Thursday, 13th June, 2019",7:50pm (local time),38555,4,"10,021","Canberra
+RAIDERS",20,22,,"Cronulla Sutherland
+SHARKS",8,20,
+0,NRL 2019,Round 14,"Friday, 14th June, 2019",6:00pm (local time),38556,149,"9,973","Gold Coast
+TITANS",12,20,,WARRIORS,12,24,
+0,NRL 2019,Round 14,"Friday, 14th June, 2019",7:55pm (local time),38557,14,"11,692","North Queensland
+COWBOYS",6,26,,WESTS TIGERS,20,27,
+0,NRL 2019,Round 14,"Saturday, 15th June, 2019",3:00pm (local time),38558,251,"16,313","Melbourne
+STORM",12,34,,"Newcastle
+KNIGHTS",0,4,
+0,NRL 2019,Round 14,"Saturday, 15th June, 2019",5:30pm (local time),38559,20,"11,023","South Sydney
+RABBITOHS",6,18,,"Penrith
+PANTHERS",8,19,
+0,NRL 2019,Round 14,"Saturday, 15th June, 2019",7:35pm (local time),38560,940,"16,854","Parramatta
+EELS",26,38,,"Brisbane
+BRONCOS",0,10,
+0,NRL 2019,Round 14,"Sunday, 16th June, 2019",2:00pm (local time),38561,5,"8,468","Manly Warringah
+SEA EAGLES",10,34,,"St George Illawarra
+DRAGONS",8,14,
+0,NRL 2019,Round 14,"Sunday, 16th June, 2019",4:05pm (local time),38562,24,"8,217","Sydney
+ROOSTERS",16,38,,"Canterbury Bankstown
+BULLDOGS",6,12,
+0,NRL 2019,Round 15,"Thursday, 27th June, 2019",7:50pm (local time),38564,940,"9,807",WESTS TIGERS,8,14,,"South Sydney
+RABBITOHS",8,9,
+0,NRL 2019,Round 15,"Friday, 28th June, 2019",6:00pm (local time),38565,21,"7,008","St George Illawarra
+DRAGONS",6,22,,"North Queensland
+COWBOYS",10,14,
+0,NRL 2019,Round 15,"Friday, 28th June, 2019",7:55pm (local time),38587,33,"16,297","Sydney
+ROOSTERS",12,12,,"Melbourne
+STORM",12,14,
+0,NRL 2019,Round 15,"Saturday, 29th June, 2019",3:00pm (local time),38566,149,"11,056","Gold Coast
+TITANS",2,12,,"Manly Warringah
+SEA EAGLES",20,30,
+0,NRL 2019,Round 15,"Saturday, 29th June, 2019",5:30pm (local time),38567,11,"24,397","Newcastle
+KNIGHTS",18,26,,"Brisbane
+BRONCOS",0,12,
+0,NRL 2019,Round 15,"Saturday, 29th June, 2019",7:35pm (local time),38568,423,"5,391","Parramatta
+EELS",12,22,,"Canberra
+RAIDERS",16,16,
+0,NRL 2019,Round 15,"Sunday, 30th June, 2019",2:00pm (local time),38569,6,"12,952",WARRIORS,12,18,,"Penrith
+PANTHERS",6,19,
+0,NRL 2019,Round 15,"Sunday, 30th June, 2019",4:05pm (local time),38570,20,"8,358","Canterbury Bankstown
+BULLDOGS",14,14,,"Cronulla Sutherland
+SHARKS",8,12,
+0,NRL 2019,Round 16,"Thursday, 4th July, 2019",7:50pm (local time),38571,21,"5,578","St George Illawarra
+DRAGONS",6,14,,"Melbourne
+STORM",8,16,
+0,NRL 2019,Round 16,"Friday, 5th July, 2019",7:55pm (local time),38572,940,"13,918",WESTS TIGERS,8,16,,"Sydney
+ROOSTERS",12,24,
+0,NRL 2019,Round 16,"Saturday, 6th July, 2019",7:35pm (local time),38573,11,"12,740","Newcastle
+KNIGHTS",8,20,,WARRIORS,2,24,
+0,NRL 2019,Round 16,"Sunday, 7th July, 2019",4:05pm (local time),38574,9,"10,964","Cronulla Sutherland
+SHARKS",8,22,,"Brisbane
+BRONCOS",12,24,
+0,NRL 2019,Round 17,"Friday, 12th July, 2019",6:00pm (local time),38576,3,"10,317","Penrith
+PANTHERS",14,24,,"Gold Coast
+TITANS",2,2,
+0,NRL 2019,Round 17,"Friday, 12th July, 2019",7:55pm (local time),38577,11,"17,757","Newcastle
+KNIGHTS",6,14,,"Canterbury Bankstown
+BULLDOGS",0,20,
+0,NRL 2019,Round 17,"Saturday, 13th July, 2019",3:00pm (local time),38578,20,"13,434","South Sydney
+RABBITOHS",18,21,,"Manly Warringah
+SEA EAGLES",6,20,
+0,NRL 2019,Round 17,"Saturday, 13th July, 2019",5:30pm (local time),38579,1097,"31,018","Brisbane
+BRONCOS",6,18,,WARRIORS,16,18,
+0,NRL 2019,Round 17,"Saturday, 13th July, 2019",7:35pm (local time),38580,251,"22,737","Melbourne
+STORM",18,40,,"Cronulla Sutherland
+SHARKS",4,16,
+0,NRL 2019,Round 17,"Sunday, 14th July, 2019",2:00pm (local time),38581,26,"14,668","Sydney
+ROOSTERS",0,12,7,"North Queensland
+COWBOYS",6,15,7
+0,NRL 2019,Round 17,"Sunday, 14th July, 2019",4:05pm (local time),38582,940,"24,125",WESTS TIGERS,4,18,,"Parramatta
+EELS",16,30,
+0,NRL 2019,Round 17,"Sunday, 14th July, 2019",6:10pm (local time),38583,21,"9,159","St George Illawarra
+DRAGONS",0,14,,"Canberra
+RAIDERS",16,36,
+0,NRL 2019,Round 18,"Thursday, 18th July, 2019",7:50pm (local time),38584,1097,"20,818","Brisbane
+BRONCOS",10,28,,"Canterbury Bankstown
+BULLDOGS",6,6,
+0,NRL 2019,Round 18,"Friday, 19th July, 2019",6:00pm (local time),38585,18,"14,295",WARRIORS,8,19,,"Cronulla Sutherland
+SHARKS",12,18,
+0,NRL 2019,Round 18,"Friday, 19th July, 2019",7:55pm (local time),38586,3,"13,610","Penrith
+PANTHERS",16,40,,"St George Illawarra
+DRAGONS",12,18,
+0,NRL 2019,Round 18,"Saturday, 20th July, 2019",3:00pm (local time),38609,24,"14,053","Sydney
+ROOSTERS",6,48,,"Newcastle
+KNIGHTS",4,10,
+0,NRL 2019,Round 18,"Saturday, 20th July, 2019",5:30pm (local time),38610,4,"15,656","Canberra
+RAIDERS",20,20,,WESTS TIGERS,6,12,
+0,NRL 2019,Round 18,"Saturday, 20th July, 2019",7:35pm (local time),38611,14,"16,638","North Queensland
+COWBOYS",10,18,,"South Sydney
+RABBITOHS",12,30,
+0,NRL 2019,Round 18,"Sunday, 21st July, 2019",2:00pm (local time),38612,149,"11,143","Gold Coast
+TITANS",18,18,,"Melbourne
+STORM",22,38,
+0,NRL 2019,Round 18,"Sunday, 21st July, 2019",4:05pm (local time),38637,5,"15,245","Manly Warringah
+SEA EAGLES",26,36,,"Parramatta
+EELS",12,24,
+0,NRL 2019,Round 19,"Thursday, 25th July, 2019",7:50pm (local time),38638,9,"6,144","Cronulla Sutherland
+SHARKS",4,16,,"North Queensland
+COWBOYS",8,14,
+0,NRL 2019,Round 19,"Friday, 26th July, 2019",6:00pm (local time),38639,11,"21,029","Newcastle
+KNIGHTS",12,26,,WESTS TIGERS,18,28,
+0,NRL 2019,Round 19,"Friday, 26th July, 2019",7:55pm (local time),38640,20,"12,318","South Sydney
+RABBITOHS",6,20,,"St George Illawarra
+DRAGONS",2,16,
+0,NRL 2019,Round 19,"Saturday, 27th July, 2019",3:00pm (local time),38641,940,"17,392","Parramatta
+EELS",12,24,,WARRIORS,18,22,
+0,NRL 2019,Round 19,"Saturday, 27th July, 2019",5:30pm (local time),38642,149,"16,201","Gold Coast
+TITANS",6,12,,"Brisbane
+BRONCOS",28,34,
+0,NRL 2019,Round 19,"Saturday, 27th July, 2019",7:35pm (local time),38643,251,"14,836","Melbourne
+STORM",0,10,,"Manly Warringah
+SEA EAGLES",10,11,
+0,NRL 2019,Round 19,"Sunday, 28th July, 2019",2:00pm (local time),38644,20,"10,586","Canterbury Bankstown
+BULLDOGS",0,12,,"Sydney
+ROOSTERS",14,20,
+0,NRL 2019,Round 19,"Sunday, 28th July, 2019",4:05pm (local time),38645,3,"15,560","Penrith
+PANTHERS",6,18,,"Canberra
+RAIDERS",12,30,
+0,NRL 2019,Round 20,"Thursday, 1st August, 2019",7:50pm (local time),38646,7,"10,016",WESTS TIGERS,16,28,,"North Queensland
+COWBOYS",0,4,
+0,NRL 2019,Round 20,"Friday, 2nd August, 2019",6:00pm (local time),38647,6,"10,395",WARRIORS,0,12,,"Canberra
+RAIDERS",30,46,
+0,NRL 2019,Round 20,"Friday, 2nd August, 2019",7:50pm (local time),38648,1097,"36,049","Brisbane
+BRONCOS",0,4,,"Melbourne
+STORM",18,40,
+0,NRL 2019,Round 20,"Saturday, 3rd August, 2019",3:00pm (local time),38649,5,"15,012","Manly Warringah
+SEA EAGLES",8,30,,"Newcastle
+KNIGHTS",6,6,
+0,NRL 2019,Round 20,"Saturday, 3rd August, 2019",5:30pm (local time),38650,940,"10,062","Canterbury Bankstown
+BULLDOGS",6,16,,"Penrith
+PANTHERS",8,8,
+0,NRL 2019,Round 20,"Saturday, 3rd August, 2019",7:35pm (local time),38651,9,"13,523","Cronulla Sutherland
+SHARKS",24,39,,"South Sydney
+RABBITOHS",12,24,
+0,NRL 2019,Round 20,"Sunday, 4th August, 2019",2:00pm (local time),38664,24,"9,763","Sydney
+ROOSTERS",28,58,,"Gold Coast
+TITANS",0,6,
+0,NRL 2019,Round 20,"Sunday, 4th August, 2019",4:05pm (local time),38652,23,"9,645","St George Illawarra
+DRAGONS",0,4,,"Parramatta
+EELS",10,12,
+0,NRL 2019,Round 21,"Thursday, 8th August, 2019",7:50pm (local time),38653,14,"17,530","North Queensland
+COWBOYS",6,14,,"Brisbane
+BRONCOS",6,18,
+0,NRL 2019,Round 21,"Friday, 9th August, 2019",6:00pm (local time),38654,6,"9,595",WARRIORS,18,24,,"Manly Warringah
+SEA EAGLES",0,16,
+0,NRL 2019,Round 21,"Friday, 9th August, 2019",7:55pm (local time),38655,3,"10,860","Penrith
+PANTHERS",14,26,,"Cronulla Sutherland
+SHARKS",4,20,
+0,NRL 2019,Round 21,"Saturday, 10th August, 2019",3:00pm (local time),38656,23,"6,532","St George Illawarra
+DRAGONS",18,40,,"Gold Coast
+TITANS",12,28,
+0,NRL 2019,Round 21,"Saturday, 10th August, 2019",5:30pm (local time),38657,940,"20,671","Parramatta
+EELS",8,20,,"Newcastle
+KNIGHTS",2,14,
+0,NRL 2019,Round 21,"Saturday, 10th August, 2019",7:35pm (local time),38658,20,"9,636","Canterbury Bankstown
+BULLDOGS",0,18,,WESTS TIGERS,8,16,
+0,NRL 2019,Round 21,"Sunday, 11th August, 2019",2:00pm (local time),38659,4,"19,530","Canberra
+RAIDERS",12,18,,"Sydney
+ROOSTERS",18,22,
+0,NRL 2019,Round 21,"Sunday, 11th August, 2019",4:05pm (local time),38660,26,"19,533","South Sydney
+RABBITOHS",6,16,,"Melbourne
+STORM",12,26,
+0,NRL 2019,Round 22,"Thursday, 15th August, 2019",7:50pm (local time),38661,5,"8,512","Manly Warringah
+SEA EAGLES",18,32,,WESTS TIGERS,6,12,
+0,NRL 2019,Round 22,"Friday, 16th August, 2019",6:00pm (local time),38662,149,"10,780","Gold Coast
+TITANS",6,12,,"Parramatta
+EELS",12,36,
+0,NRL 2019,Round 22,"Friday, 16th August, 2019",7:55pm (local time),38663,1097,"23,643","Brisbane
+BRONCOS",8,24,,"Penrith
+PANTHERS",6,12,
+0,NRL 2019,Round 22,"Saturday, 17th August, 2019",3:00pm (local time),38677,11,"16,752","Newcastle
+KNIGHTS",18,42,,"North Queensland
+COWBOYS",6,6,
+0,NRL 2019,Round 22,"Saturday, 17th August, 2019",5:30pm (local time),38678,251,"17,769","Melbourne
+STORM",18,18,,"Canberra
+RAIDERS",4,22,
+0,NRL 2019,Round 22,"Saturday, 17th August, 2019",7:35pm (local time),38679,20,"14,112","South Sydney
+RABBITOHS",2,6,7,"Canterbury Bankstown
+BULLDOGS",2,14,6
+0,NRL 2019,Round 22,"Sunday, 18th August, 2019",2:00pm (local time),38886,24,"12,227","Sydney
+ROOSTERS",12,42,,WARRIORS,6,6,
+0,NRL 2019,Round 22,"Sunday, 18th August, 2019",4:05pm (local time),38680,9,"13,652","Cronulla Sutherland
+SHARKS",12,18,,"St George Illawarra
+DRAGONS",6,12,
+0,NRL 2019,Round 23,"Thursday, 22nd August, 2019",7:50pm (local time),38681,940,"18,071","Parramatta
+EELS",6,6,,"Canterbury Bankstown
+BULLDOGS",6,12,
+0,NRL 2019,Round 23,"Friday, 23rd August, 2019",6:00pm (local time),38682,14,"10,523","North Queensland
+COWBOYS",12,24,,"Penrith
+PANTHERS",4,10,
+0,NRL 2019,Round 23,"Friday, 23rd August, 2019",7:55pm (local time),38683,1097,"33,225","Brisbane
+BRONCOS",6,20,,"South Sydney
+RABBITOHS",8,22,
+0,NRL 2019,Round 23,"Saturday, 24th August, 2019",3:00pm (local time),38684,9,"11,218","Cronulla Sutherland
+SHARKS",24,42,,WARRIORS,10,16,
+0,NRL 2019,Round 23,"Saturday, 24th August, 2019",5:30pm (local time),38685,19,"11,107",WESTS TIGERS,30,46,,"Newcastle
+KNIGHTS",0,4,
+0,NRL 2019,Round 23,"Saturday, 24th August, 2019",7:35pm (local time),38686,23,"9,087","St George Illawarra
+DRAGONS",0,12,,"Sydney
+ROOSTERS",28,34,
+0,NRL 2019,Round 23,"Sunday, 25th August, 2019",2:00pm (local time),38687,251,"11,758","Melbourne
+STORM",6,24,,"Gold Coast
+TITANS",8,8,
+0,NRL 2019,Round 23,"Sunday, 25th August, 2019",4:05pm (local time),38688,4,"20,265","Canberra
+RAIDERS",8,14,,"Manly Warringah
+SEA EAGLES",4,18,
+0,NRL 2019,Round 24,"Thursday, 29th August, 2019",7:50pm (local time),38689,14,"15,141","North Queensland
+COWBOYS",2,15,,"Canterbury Bankstown
+BULLDOGS",2,8,
+0,NRL 2019,Round 24,"Friday, 30th August, 2019",6:00pm (local time),38690,6,"15,295",WARRIORS,10,10,,"South Sydney
+RABBITOHS",14,31,
+0,NRL 2019,Round 24,"Friday, 30th August, 2019",7:55pm (local time),38691,1097,"33,020","Brisbane
+BRONCOS",10,17,,"Parramatta
+EELS",6,16,
+0,NRL 2019,Round 24,"Saturday, 31st August, 2019",3:00pm (local time),38692,11,"8,274","Newcastle
+KNIGHTS",24,38,,"Gold Coast
+TITANS",4,4,
+0,NRL 2019,Round 24,"Saturday, 31st August, 2019",5:30pm (local time),38693,5,"14,640","Manly Warringah
+SEA EAGLES",6,6,,"Melbourne
+STORM",18,36,
+0,NRL 2019,Round 24,"Saturday, 31st August, 2019",7:35pm (local time),38694,24,"11,311","Sydney
+ROOSTERS",12,22,,"Penrith
+PANTHERS",6,6,
+0,NRL 2019,Round 24,"Sunday, 1st September, 2019",2:00pm (local time),38695,9,"18,985","Cronulla Sutherland
+SHARKS",12,14,,"Canberra
+RAIDERS",0,15,
+0,NRL 2019,Round 24,"Sunday, 1st September, 2019",4:05pm (local time),38696,24,"9,136","St George Illawarra
+DRAGONS",8,14,,WESTS TIGERS,12,42,
+0,NRL 2019,Round 25,"Thursday, 5th September, 2019",7:50pm (local time),38697,20,"20,093","South Sydney
+RABBITOHS",2,16,,"Sydney
+ROOSTERS",10,10,
+0,NRL 2019,Round 25,"Friday, 6th September, 2019",6:00pm (local time),38698,940,"25,034","Parramatta
+EELS",14,32,,"Manly Warringah
+SEA EAGLES",2,16,
+0,NRL 2019,Round 25,"Friday, 6th September, 2019",7:55pm (local time),38699,251,"12,085","Melbourne
+STORM",12,24,,"North Queensland
+COWBOYS",4,16,
+0,NRL 2019,Round 25,"Saturday, 7th September, 2019",3:00pm (local time),38700,4,"13,331","Canberra
+RAIDERS",16,20,,WARRIORS,12,24,
+0,NRL 2019,Round 25,"Saturday, 7th September, 2019",5:30pm (local time),38701,20,"9,807","Canterbury Bankstown
+BULLDOGS",12,30,,"Brisbane
+BRONCOS",10,14,
+0,NRL 2019,Round 25,"Saturday, 7th September, 2019",7:35pm (local time),38702,149,"11,274","Gold Coast
+TITANS",6,16,,"St George Illawarra
+DRAGONS",6,24,
+0,NRL 2019,Round 25,"Sunday, 8th September, 2019",2:00pm (local time),38703,7,"19,491",WESTS TIGERS,4,8,,"Cronulla Sutherland
+SHARKS",6,25,
+0,NRL 2019,Round 25,"Sunday, 8th September, 2019",4:05pm (local time),38704,3,"12,027","Penrith
+PANTHERS",18,54,,"Newcastle
+KNIGHTS",4,10,
+0,NRL 2019,Qualif Final,"Friday, 13th September, 2019",7:50pm (local time),39917,24,"30,370","Sydney
+ROOSTERS",26,30,,"South Sydney
+RABBITOHS",0,6,
+0,NRL 2019,Qualif Final,"Saturday, 14th September, 2019",5:40pm (local time),39918,251,"20,136","Melbourne
+STORM",2,10,,"Canberra
+RAIDERS",6,12,
+0,NRL 2019,Qualif Final,"Saturday, 14th September, 2019",7:50pm (local time),39919,5,"15,495","Manly Warringah
+SEA EAGLES",18,28,,"Cronulla Sutherland
+SHARKS",4,16,
+0,NRL 2019,Qualif Final,"Sunday, 15th September, 2019",4:05pm (local time),39920,940,"29,372","Parramatta
+EELS",24,58,,"Brisbane
+BRONCOS",0,0,
+0,NRL 2019,Semi Final,"Friday, 20th September, 2019",7:40pm (local time),39943,20,"32,127","South Sydney
+RABBITOHS",18,34,,"Manly Warringah
+SEA EAGLES",16,26,
+0,NRL 2019,Semi Final,"Saturday, 21st September, 2019",7:40pm (local time),39944,251,"21,015","Melbourne
+STORM",22,32,,"Parramatta
+EELS",0,0,
+0,NRL 2019,Prelim Final,"Friday, 27th September, 2019",7:50pm (local time),39991,4,"26,567","Canberra
+RAIDERS",6,16,,"South Sydney
+RABBITOHS",6,10,
+0,NRL 2019,Prelim Final,"Saturday, 28th September, 2019",7:50pm (local time),39992,24,"32,184","Sydney
+ROOSTERS",8,14,,"Melbourne
+STORM",0,6,
+0,NRL 2019,Grand Final,"Sunday, 6th October, 2019",7:30pm (local time),39999,20,"82,922","Sydney
+ROOSTERS",8,14,,"Canberra
+RAIDERS",6,8,

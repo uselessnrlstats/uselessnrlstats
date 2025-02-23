@@ -1,0 +1,530 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2009,Round 1,"Friday, 13th March, 2009",7:30pm (local time),15084,12,"14,870","Melbourne
+STORM",4,17,11,"St George Illawarra
+DRAGONS",8,16,7
+0,NRL 2009,Round 1,"Friday, 13th March, 2009",7:30pm (local time),15085,1097,"45,022","Brisbane
+BRONCOS",10,19,11,"North Queensland
+COWBOYS",6,18,6
+0,NRL 2009,Round 1,"Saturday, 14th March, 2009",7:30pm (local time),15086,6,"20,102",WARRIORS,18,26,10,"Parramatta
+EELS",6,18,7
+0,NRL 2009,Round 1,"Saturday, 14th March, 2009",7:30pm (local time),15088,20,"19,791",BULLDOGS,22,34,10,"Manly Warringah
+SEA EAGLES",0,12,6
+0,NRL 2009,Round 1,"Saturday, 14th March, 2009",7:30pm (local time),15087,9,"10,617","Cronulla Sutherland
+SHARKS",8,18,9,"Penrith
+PANTHERS",8,10,7
+0,NRL 2009,Round 1,"Sunday, 15th March, 2009",1:00pm (local time),15090,149,"16,203","Gold Coast
+TITANS",16,34,9,"Newcastle
+KNIGHTS",14,20,9
+0,NRL 2009,Round 1,"Sunday, 15th March, 2009",3:00pm (local time),15091,1,"24,486","Sydney
+ROOSTERS",6,12,7,"South Sydney
+RABBITOHS",30,52,5
+0,NRL 2009,Round 1,"Monday, 16th March, 2009",7:00pm (local time),15097,19,"17,392",WESTS TIGERS,18,34,6,"Canberra
+RAIDERS",26,26,8
+0,NRL 2009,Round 2,"Friday, 20th March, 2009",7:35pm (local time),15099,20,"20,871","South Sydney
+RABBITOHS",8,8,6,"Parramatta
+EELS",8,14,5
+0,NRL 2009,Round 2,"Friday, 20th March, 2009",8:35pm (local time),15100,1097,"36,647","Brisbane
+BRONCOS",10,16,8,"Melbourne
+STORM",8,14,10
+0,NRL 2009,Round 2,"Saturday, 21st March, 2009",5:30pm (local time),15101,21,"13,329","St George Illawarra
+DRAGONS",6,16,10,"Gold Coast
+TITANS",4,10,6
+0,NRL 2009,Round 2,"Saturday, 21st March, 2009",7:30pm (local time),15102,3,"16,846","Penrith
+PANTHERS",20,26,7,BULLDOGS,12,28,5
+0,NRL 2009,Round 2,"Saturday, 21st March, 2009",8:30pm (local time),15103,14,"19,879","North Queensland
+COWBOYS",18,42,7,WESTS TIGERS,8,14,8
+0,NRL 2009,Round 2,"Sunday, 22nd March, 2009",2:00pm (local time),15104,4,"13,100","Canberra
+RAIDERS",0,4,9,"Sydney
+ROOSTERS",4,28,3
+0,NRL 2009,Round 2,"Sunday, 22nd March, 2009",3:00pm (local time),15105,5,"16,307","Manly Warringah
+SEA EAGLES",10,24,10,WARRIORS,16,26,9
+0,NRL 2009,Round 2,"Monday, 23rd March, 2009",7:00pm (local time),15106,9,"11,148","Cronulla Sutherland
+SHARKS",6,12,9,"Newcastle
+KNIGHTS",12,24,8
+0,NRL 2009,Round 3,"Friday, 27th March, 2009",7:35pm (local time),15107,1,"14,426",WESTS TIGERS,10,40,5,"Sydney
+ROOSTERS",18,24,5
+0,NRL 2009,Round 3,"Friday, 27th March, 2009",7:35pm (local time),15108,149,"19,854","Gold Coast
+TITANS",10,20,7,BULLDOGS,6,12,7
+0,NRL 2009,Round 3,"Saturday, 28th March, 2009",7:30pm (local time),15109,6,"24,538",WARRIORS,0,10,9,"Brisbane
+BRONCOS",16,26,7
+0,NRL 2009,Round 3,"Saturday, 28th March, 2009",7:30pm (local time),15110,8,"11,116","Parramatta
+EELS",4,18,4,"Canberra
+RAIDERS",6,16,4
+0,NRL 2009,Round 3,"Saturday, 28th March, 2009",7:30pm (local time),15111,14,"21,489","North Queensland
+COWBOYS",12,12,7,"Melbourne
+STORM",18,26,7
+0,NRL 2009,Round 3,"Sunday, 29th March, 2009",2:00pm (local time),15112,26,"15,227","South Sydney
+RABBITOHS",0,22,9,"Newcastle
+KNIGHTS",8,12,8
+0,NRL 2009,Round 3,"Sunday, 29th March, 2009",3:00pm (local time),15113,23,"20,047","St George Illawarra
+DRAGONS",6,10,4,"Cronulla Sutherland
+SHARKS",0,6,4
+0,NRL 2009,Round 3,"Monday, 30th March, 2009",7:00pm (local time),15114,5,"8,667","Manly Warringah
+SEA EAGLES",6,10,8,"Penrith
+PANTHERS",0,12,7
+0,NRL 2009,Round 4,"Friday, 3rd April, 2009",6:35pm (local time),15254,1097,"42,435","Brisbane
+BRONCOS",6,12,8,"St George Illawarra
+DRAGONS",8,25,5
+0,NRL 2009,Round 4,"Friday, 3rd April, 2009",7:35pm (local time),15255,1,"11,231","Sydney
+ROOSTERS",16,24,6,"Parramatta
+EELS",0,6,8
+0,NRL 2009,Round 4,"Saturday, 4th April, 2009",5:30pm (local time),15256,3,"15,813","Penrith
+PANTHERS",22,42,9,WESTS TIGERS,12,22,2
+0,NRL 2009,Round 4,"Saturday, 4th April, 2009",7:30pm (local time),15257,12,"11,698","Melbourne
+STORM",0,6,7,"Gold Coast
+TITANS",10,18,7
+0,NRL 2009,Round 4,"Sunday, 5th April, 2009",2:00pm (local time),15258,6,"19,386",WARRIORS,16,16,7,"South Sydney
+RABBITOHS",12,22,4
+0,NRL 2009,Round 4,"Sunday, 5th April, 2009",2:00pm (local time),15259,20,"15,520",BULLDOGS,18,24,5,"Cronulla Sutherland
+SHARKS",6,12,6
+0,NRL 2009,Round 4,"Sunday, 5th April, 2009",3:00pm (local time),15260,11,"15,324","Newcastle
+KNIGHTS",10,26,8,"Manly Warringah
+SEA EAGLES",6,12,7
+0,NRL 2009,Round 4,"Monday, 6th April, 2009",7:00pm (local time),15261,4,"12,198","Canberra
+RAIDERS",20,23,9,"North Queensland
+COWBOYS",6,18,4
+0,NRL 2009,Round 5,"Friday, 10th April, 2009",7:35pm (local time),15520,8,"19,017","Parramatta
+EELS",2,8,11,"St George Illawarra
+DRAGONS",14,22,7
+0,NRL 2009,Round 5,"Friday, 10th April, 2009",7:35pm (local time),15519,1,"18,464","Sydney
+ROOSTERS",0,24,4,"Brisbane
+BRONCOS",6,28,5
+0,NRL 2009,Round 5,"Saturday, 11th April, 2009",5:30pm (local time),15521,9,"8,561","Cronulla Sutherland
+SHARKS",6,14,6,"Canberra
+RAIDERS",6,24,3
+0,NRL 2009,Round 5,"Saturday, 11th April, 2009",7:30pm (local time),15522,12,"10,110","Melbourne
+STORM",6,16,8,"Penrith
+PANTHERS",6,14,5
+0,NRL 2009,Round 5,"Saturday, 11th April, 2009",7:30pm (local time),15523,14,"18,123","North Queensland
+COWBOYS",0,10,9,"Gold Coast
+TITANS",12,14,5
+0,NRL 2009,Round 5,"Sunday, 12th April, 2009",2:00pm (local time),15525,11,"13,626","Newcastle
+KNIGHTS",14,24,3,WARRIORS,6,22,6
+0,NRL 2009,Round 5,"Sunday, 12th April, 2009",3:00pm (local time),15526,5,"17,942","Manly Warringah
+SEA EAGLES",16,23,10,WESTS TIGERS,4,10,9
+0,NRL 2009,Round 5,"Monday, 13th April, 2009",7:00pm (local time),15527,20,"22,775",BULLDOGS,12,14,4,"South Sydney
+RABBITOHS",6,12,8
+0,NRL 2009,Round 6,"Friday, 17th April, 2009",7:35pm (local time),15536,149,"18,510","Gold Coast
+TITANS",4,16,5,"Canberra
+RAIDERS",6,10,6
+0,NRL 2009,Round 6,"Friday, 17th April, 2009",7:35pm (local time),15535,3,"14,332","Penrith
+PANTHERS",6,18,5,"Brisbane
+BRONCOS",24,38,7
+0,NRL 2009,Round 6,"Saturday, 18th April, 2009",5:30pm (local time),15537,23,"14,477","St George Illawarra
+DRAGONS",14,18,8,"Newcastle
+KNIGHTS",6,24,7
+0,NRL 2009,Round 6,"Saturday, 18th April, 2009",7:30pm (local time),15538,20,"14,225","South Sydney
+RABBITOHS",0,8,6,"Manly Warringah
+SEA EAGLES",18,24,3
+0,NRL 2009,Round 6,"Sunday, 19th April, 2009",2:00pm (local time),15539,6,"16,309",WARRIORS,0,17,10,"Sydney
+ROOSTERS",16,16,3
+0,NRL 2009,Round 6,"Sunday, 19th April, 2009",1:30pm (local time),15540,40,"8,547","Cronulla Sutherland
+SHARKS",4,10,6,"North Queensland
+COWBOYS",6,34,7
+0,NRL 2009,Round 6,"Sunday, 19th April, 2009",3:00pm (local time),15541,20,"18,233","Parramatta
+EELS",12,18,8,BULLDOGS,18,48,3
+0,NRL 2009,Round 6,"Monday, 20th April, 2009",7:00pm (local time),15542,7,"12,646",WESTS TIGERS,10,16,4,"Melbourne
+STORM",6,6,4
+0,NRL 2009,Round 7,"Friday, 24th April, 2009",7:35pm (local time),15683,1097,"30,887","Brisbane
+BRONCOS",16,40,7,"Parramatta
+EELS",0,8,7
+0,NRL 2009,Round 7,"Friday, 24th April, 2009",7:35pm (local time),15684,20,"11,208","South Sydney
+RABBITOHS",22,32,5,"Cronulla Sutherland
+SHARKS",18,26,6
+0,NRL 2009,Round 7,"Saturday, 25th April, 2009",3:15pm (local time),15685,1,"28,926","Sydney
+ROOSTERS",0,0,8,"St George Illawarra
+DRAGONS",9,29,8
+0,NRL 2009,Round 7,"Saturday, 25th April, 2009",5:45pm (local time),15686,12,"15,200","Melbourne
+STORM",10,14,5,WARRIORS,6,14,6
+0,NRL 2009,Round 7,"Saturday, 25th April, 2009",7:50pm (local time),15687,14,"16,153","North Queensland
+COWBOYS",14,26,7,"Manly Warringah
+SEA EAGLES",6,12,7
+0,NRL 2009,Round 7,"Sunday, 26th April, 2009",2:00pm (local time),15688,4,"10,240","Canberra
+RAIDERS",16,20,9,BULLDOGS,18,30,4
+0,NRL 2009,Round 7,"Sunday, 26th April, 2009",3:00pm (local time),15689,19,"17,898",WESTS TIGERS,6,26,5,"Newcastle
+KNIGHTS",18,24,7
+0,NRL 2009,Round 7,"Monday, 27th April, 2009",7:00pm (local time),15690,3,"9,769","Penrith
+PANTHERS",22,34,8,"Gold Coast
+TITANS",4,20,8
+0,NRL 2009,Round 8,"Friday, 1st May, 2009",7:35pm (local time),15691,5,"10,752","Manly Warringah
+SEA EAGLES",4,8,9,"Melbourne
+STORM",16,22,8
+0,NRL 2009,Round 8,"Friday, 1st May, 2009",7:35pm (local time),15692,8,"8,104","Parramatta
+EELS",14,28,8,"North Queensland
+COWBOYS",0,18,8
+0,NRL 2009,Round 8,"Saturday, 2nd May, 2009",3:00pm (local time),15693,149,"19,833","Gold Coast
+TITANS",6,22,6,"South Sydney
+RABBITOHS",8,14,8
+0,NRL 2009,Round 8,"Saturday, 2nd May, 2009",5:30pm (local time),15694,9,"9,879","Cronulla Sutherland
+SHARKS",6,12,9,"Sydney
+ROOSTERS",10,19,8
+0,NRL 2009,Round 8,"Saturday, 2nd May, 2009",7:30pm (local time),15696,4,"8,850","Canberra
+RAIDERS",6,10,11,"Penrith
+PANTHERS",12,18,5
+0,NRL 2009,Round 8,"Saturday, 2nd May, 2009",7:40pm (local time),15695,11,"18,154","Newcastle
+KNIGHTS",18,28,8,"Brisbane
+BRONCOS",6,12,7
+0,NRL 2009,Round 8,"Sunday, 3rd May, 2009",2:00pm (local time),15697,21,"14,562","St George Illawarra
+DRAGONS",2,12,10,WARRIORS,7,11,9
+0,NRL 2009,Round 8,"Sunday, 3rd May, 2009",3:00pm (local time),15698,20,"25,622",BULLDOGS,10,22,4,WESTS TIGERS,10,20,6
+0,NRL 2009,Round 9,"Saturday, 9th May, 2009",7:30pm (local time),15726,14,"16,031","North Queensland
+COWBOYS",8,24,9,"St George Illawarra
+DRAGONS",10,20,13
+0,NRL 2009,Round 9,"Sunday, 10th May, 2009",2:00pm (local time),15727,11,"11,258","Newcastle
+KNIGHTS",18,23,10,"Gold Coast
+TITANS",16,18,6
+0,NRL 2009,Round 9,"Sunday, 10th May, 2009",3:00pm (local time),15728,1097,"27,527","Brisbane
+BRONCOS",16,20,4,"Manly Warringah
+SEA EAGLES",6,22,6
+0,NRL 2009,Round 9,"Monday, 11th May, 2009",7:00pm (local time),15729,26,"8,412","Sydney
+ROOSTERS",6,12,7,"Melbourne
+STORM",16,28,10
+0,NRL 2009,Round 10,"Friday, 15th May, 2009",7:35pm (local time),15730,1097,"43,079","Brisbane
+BRONCOS",8,32,6,"Gold Coast
+TITANS",12,18,8
+0,NRL 2009,Round 10,"Friday, 15th May, 2009",7:35pm (local time),15731,23,"18,415","St George Illawarra
+DRAGONS",14,20,7,BULLDOGS,6,18,8
+0,NRL 2009,Round 10,"Saturday, 16th May, 2009",5:30pm (local time),15732,1,"8,611","Sydney
+ROOSTERS",0,6,4,"Newcastle
+KNIGHTS",22,38,10
+0,NRL 2009,Round 10,"Saturday, 16th May, 2009",7:30pm (local time),15733,3,"11,750","Penrith
+PANTHERS",12,26,6,"Cronulla Sutherland
+SHARKS",6,22,7
+0,NRL 2009,Round 10,"Sunday, 17th May, 2009",2:00pm (local time),15734,6,"16,345",WARRIORS,2,12,10,"North Queensland
+COWBOYS",10,34,6
+0,NRL 2009,Round 10,"Sunday, 17th May, 2009",2:00pm (local time),15735,5,"15,916","Manly Warringah
+SEA EAGLES",22,34,7,"Parramatta
+EELS",4,10,6
+0,NRL 2009,Round 10,"Sunday, 17th May, 2009",3:00pm (local time),15736,24,"29,970",WESTS TIGERS,10,22,6,"South Sydney
+RABBITOHS",10,23,8
+0,NRL 2009,Round 10,"Monday, 18th May, 2009",7:00pm (local time),15737,12,"10,112","Melbourne
+STORM",18,46,8,"Canberra
+RAIDERS",6,6,5
+0,NRL 2009,Round 11,"Friday, 22nd May, 2009",7:35pm (local time),15738,20,"10,670","Parramatta
+EELS",4,16,9,"South Sydney
+RABBITOHS",10,16,5
+0,NRL 2009,Round 11,"Friday, 22nd May, 2009",7:35pm (local time),15739,19,"9,675",WESTS TIGERS,14,18,9,"Brisbane
+BRONCOS",8,20,9
+0,NRL 2009,Round 11,"Saturday, 23rd May, 2009",5:35pm (local time),15742,26,"10,923",BULLDOGS,14,26,6,"Melbourne
+STORM",0,10,6
+0,NRL 2009,Round 11,"Saturday, 23rd May, 2009",5:35pm (local time),15740,9,"15,201","Cronulla Sutherland
+SHARKS",0,4,7,"St George Illawarra
+DRAGONS",4,26,8
+0,NRL 2009,Round 11,"Saturday, 23rd May, 2009",5:35pm (local time),15741,3,"8,515","Penrith
+PANTHERS",22,48,5,"Sydney
+ROOSTERS",6,6,6
+0,NRL 2009,Round 11,"Sunday, 24th May, 2009",2:00pm (local time),15744,4,"8,383","Canberra
+RAIDERS",16,38,7,WARRIORS,12,12,5
+0,NRL 2009,Round 11,"Sunday, 24th May, 2009",3:00pm (local time),15745,149,"16,126","Gold Coast
+TITANS",10,18,5,"Manly Warringah
+SEA EAGLES",10,17,6
+0,NRL 2009,Round 11,"Monday, 25th May, 2009",7:00pm (local time),15746,14,"11,892","North Queensland
+COWBOYS",18,36,5,"Newcastle
+KNIGHTS",6,10,8
+0,NRL 2009,Round 12,"Friday, 29th May, 2009",7:35pm (local time),15757,21,"10,623","St George Illawarra
+DRAGONS",12,38,7,"Penrith
+PANTHERS",6,10,3
+0,NRL 2009,Round 12,"Saturday, 30th May, 2009",7:30pm (local time),15758,8,"7,014","Parramatta
+EELS",10,10,5,"Cronulla Sutherland
+SHARKS",6,13,6
+0,NRL 2009,Round 12,"Sunday, 31st May, 2009",2:00pm (local time),15759,6,"15,835",WARRIORS,4,14,6,WESTS TIGERS,0,0,5
+0,NRL 2009,Round 12,"Sunday, 31st May, 2009",3:00pm (local time),15760,11,"18,322","Newcastle
+KNIGHTS",20,22,5,BULLDOGS,0,14,6
+0,NRL 2009,Round 12,"Monday, 1st June, 2009",7:00pm (local time),15761,20,"9,805","South Sydney
+RABBITOHS",14,18,7,"Canberra
+RAIDERS",16,34,3
+0,NRL 2009,Round 13,"Friday, 5th June, 2009",7:35pm (local time),15765,12,"15,318","Melbourne
+STORM",20,48,3,"Brisbane
+BRONCOS",0,4,3
+0,NRL 2009,Round 13,"Friday, 5th June, 2009",7:35pm (local time),15763,7,"14,100",WESTS TIGERS,4,10,4,"Penrith
+PANTHERS",6,26,3
+0,NRL 2009,Round 13,"Saturday, 6th June, 2009",5:30pm (local time),15766,5,"10,549","Manly Warringah
+SEA EAGLES",12,38,7,"Sydney
+ROOSTERS",8,18,4
+0,NRL 2009,Round 13,"Saturday, 6th June, 2009",7:30pm (local time),15767,14,"16,568","North Queensland
+COWBOYS",22,46,7,"South Sydney
+RABBITOHS",6,12,3
+0,NRL 2009,Round 13,"Sunday, 7th June, 2009",2:00pm (local time),15768,9,"14,082","Cronulla Sutherland
+SHARKS",18,18,4,WARRIORS,4,10,5
+0,NRL 2009,Round 13,"Sunday, 7th June, 2009",3:00pm (local time),15769,11,"18,085","Newcastle
+KNIGHTS",12,18,5,"Parramatta
+EELS",6,20,5
+0,NRL 2009,Round 13,"Monday, 8th June, 2009",7:00pm (local time),15770,149,"20,416","Gold Coast
+TITANS",22,28,6,"St George Illawarra
+DRAGONS",2,24,7
+0,NRL 2009,Round 14,"Friday, 12th June, 2009",8:35pm (local time),15771,6,"14,255",WARRIORS,6,13,3,"Newcastle
+KNIGHTS",0,0,4
+0,NRL 2009,Round 14,"Friday, 12th June, 2009",7:35pm (local time),15772,1097,"26,353","Brisbane
+BRONCOS",18,22,6,BULLDOGS,16,44,2
+0,NRL 2009,Round 14,"Saturday, 13th June, 2009",5:30pm (local time),15773,26,"6,232","Sydney
+ROOSTERS",6,20,5,"Gold Coast
+TITANS",18,24,6
+0,NRL 2009,Round 14,"Saturday, 13th June, 2009",7:30pm (local time),15774,3,"15,806","Penrith
+PANTHERS",6,6,4,"Manly Warringah
+SEA EAGLES",8,20,6
+0,NRL 2009,Round 14,"Saturday, 13th June, 2009",7:30pm (local time),15775,47,"15,197","South Sydney
+RABBITOHS",10,22,3,"Melbourne
+STORM",10,28,4
+0,NRL 2009,Round 14,"Sunday, 14th June, 2009",2:00pm (local time),15776,4,"10,104","Canberra
+RAIDERS",14,22,7,"Cronulla Sutherland
+SHARKS",10,24,6
+0,NRL 2009,Round 14,"Sunday, 14th June, 2009",3:00pm (local time),15777,21,"11,374","St George Illawarra
+DRAGONS",18,32,5,"North Queensland
+COWBOYS",6,18,4
+0,NRL 2009,Round 14,"Monday, 15th June, 2009",7:00pm (local time),15778,8,"12,003","Parramatta
+EELS",6,6,9,WESTS TIGERS,6,23,5
+0,NRL 2009,Round 15,"Friday, 19th June, 2009",7:35pm (local time),15779,20,"13,992",BULLDOGS,6,19,7,"Penrith
+PANTHERS",6,12,3
+0,NRL 2009,Round 15,"Saturday, 20th June, 2009",7:30pm (local time),15780,14,"13,486","North Queensland
+COWBOYS",24,24,8,"Sydney
+ROOSTERS",16,22,4
+0,NRL 2009,Round 15,"Sunday, 21st June, 2009",2:00pm (local time),15781,12,"10,417","Melbourne
+STORM",8,14,7,WESTS TIGERS,6,12,6
+0,NRL 2009,Round 15,"Sunday, 21st June, 2009",3:00pm (local time),15782,5,"8,182","Manly Warringah
+SEA EAGLES",14,20,6,"Canberra
+RAIDERS",0,14,4
+0,NRL 2009,Round 15,"Monday, 22nd June, 2009",7:00pm (local time),15783,9,"8,117","Cronulla Sutherland
+SHARKS",18,46,8,"Brisbane
+BRONCOS",6,12,6
+0,NRL 2009,Round 16,"Friday, 26th June, 2009",7:35pm (local time),15785,20,"13,461",BULLDOGS,12,30,6,"North Queensland
+COWBOYS",0,18,2
+0,NRL 2009,Round 16,"Friday, 26th June, 2009",7:35pm (local time),15784,1,"15,211",WESTS TIGERS,4,10,7,"St George Illawarra
+DRAGONS",20,21,4
+0,NRL 2009,Round 16,"Saturday, 27th June, 2009",5:30pm (local time),15786,149,"20,031","Gold Coast
+TITANS",16,28,6,WARRIORS,2,12,8
+0,NRL 2009,Round 16,"Saturday, 27th June, 2009",7:30pm (local time),15787,1,"7,472","Sydney
+ROOSTERS",6,19,2,"Cronulla Sutherland
+SHARKS",12,12,6
+0,NRL 2009,Round 16,"Sunday, 28th June, 2009",2:00pm (local time),15788,4,"9,551","Canberra
+RAIDERS",14,26,7,"Melbourne
+STORM",4,16,1
+0,NRL 2009,Round 16,"Sunday, 28th June, 2009",3:00pm (local time),15789,8,"10,030","Parramatta
+EELS",8,21,2,"Brisbane
+BRONCOS",4,14,2
+0,NRL 2009,Round 16,"Monday, 29th June, 2009",7:00pm (local time),15790,11,"14,204","Newcastle
+KNIGHTS",6,25,4,"South Sydney
+RABBITOHS",12,20,4
+0,NRL 2009,Round 17,"Friday, 3rd July, 2009",7:35pm (local time),15903,1097,"32,456","Brisbane
+BRONCOS",4,28,7,WARRIORS,8,14,6
+0,NRL 2009,Round 17,"Friday, 3rd July, 2009",7:35pm (local time),15904,23,"12,472","St George Illawarra
+DRAGONS",6,34,5,"Sydney
+ROOSTERS",12,12,5
+0,NRL 2009,Round 17,"Saturday, 4th July, 2009",5:30pm (local time),15905,20,"14,586","South Sydney
+RABBITOHS",10,20,7,WESTS TIGERS,26,54,3
+0,NRL 2009,Round 17,"Saturday, 4th July, 2009",7:30pm (local time),15906,12,"9,041","Melbourne
+STORM",6,18,4,"Newcastle
+KNIGHTS",8,14,4
+0,NRL 2009,Round 17,"Saturday, 4th July, 2009",7:30pm (local time),15907,14,"17,283","North Queensland
+COWBOYS",0,24,5,"Cronulla Sutherland
+SHARKS",0,4,8
+0,NRL 2009,Round 17,"Sunday, 5th July, 2009",2:00pm (local time),15908,4,"9,800","Canberra
+RAIDERS",28,34,3,"Gold Coast
+TITANS",6,28,5
+0,NRL 2009,Round 17,"Sunday, 5th July, 2009",3:00pm (local time),15909,3,"16,845","Penrith
+PANTHERS",22,38,4,"Parramatta
+EELS",18,34,3
+0,NRL 2009,Round 17,"Monday, 6th July, 2009",7:00pm (local time),15910,5,"15,501","Manly Warringah
+SEA EAGLES",7,19,6,BULLDOGS,6,12,4
+0,NRL 2009,Round 18,"Friday, 10th July, 2009",7:35pm (local time),15911,20,"9,017","South Sydney
+RABBITOHS",20,36,7,"Penrith
+PANTHERS",0,12,3
+0,NRL 2009,Round 18,"Saturday, 11th July, 2009",7:30pm (local time),15912,11,"15,355","Newcastle
+KNIGHTS",16,23,2,"Canberra
+RAIDERS",0,4,3
+0,NRL 2009,Round 18,"Sunday, 12th July, 2009",4:00pm (local time),15914,6,"11,802",WARRIORS,4,14,9,BULLDOGS,6,18,4
+0,NRL 2009,Round 18,"Sunday, 12th July, 2009",3:00pm (local time),15913,21,"16,792","St George Illawarra
+DRAGONS",24,48,3,"Manly Warringah
+SEA EAGLES",12,18,2
+0,NRL 2009,Round 18,"Monday, 13th July, 2009",7:00pm (local time),15915,149,"14,009","Gold Coast
+TITANS",14,18,2,"Parramatta
+EELS",8,12,5
+0,NRL 2009,Round 19,"Friday, 17th July, 2009",6:40pm (local time),15916,1097,"50,109","Brisbane
+BRONCOS",6,12,5,"South Sydney
+RABBITOHS",16,44,7
+0,NRL 2009,Round 19,"Friday, 17th July, 2009",8:30pm (local time),15917,1097,"50,109",BULLDOGS,16,23,2,"Gold Coast
+TITANS",0,16,7
+0,NRL 2009,Round 19,"Saturday, 18th July, 2009",5:30pm (local time),15918,3,"8,074","Penrith
+PANTHERS",18,27,4,"Canberra
+RAIDERS",0,14,7
+0,NRL 2009,Round 19,"Saturday, 18th July, 2009",7:30pm (local time),15919,9,"10,114","Cronulla Sutherland
+SHARKS",22,26,6,"Manly Warringah
+SEA EAGLES",16,32,7
+0,NRL 2009,Round 19,"Sunday, 19th July, 2009",2:00pm (local time),15920,1,"8,021","Sydney
+ROOSTERS",18,24,4,WARRIORS,10,30,5
+0,NRL 2009,Round 19,"Sunday, 19th July, 2009",3:00pm (local time),15921,7,"18,804",WESTS TIGERS,16,34,7,"North Queensland
+COWBOYS",8,14,5
+0,NRL 2009,Round 19,"Monday, 20th July, 2009",7:00pm (local time),15922,8,"10,804","Parramatta
+EELS",10,18,6,"Melbourne
+STORM",0,16,9
+0,NRL 2009,Round 20,"Friday, 24th July, 2009",7:35pm (local time),15924,149,"26,336","Gold Coast
+TITANS",22,34,6,"Brisbane
+BRONCOS",2,18,6
+0,NRL 2009,Round 20,"Friday, 24th July, 2009",7:35pm (local time),15923,26,"15,857","Manly Warringah
+SEA EAGLES",16,44,5,"Newcastle
+KNIGHTS",14,20,7
+0,NRL 2009,Round 20,"Saturday, 25th July, 2009",5:30pm (local time),15925,20,"31,664",BULLDOGS,8,8,4,"Parramatta
+EELS",10,27,5
+0,NRL 2009,Round 20,"Saturday, 25th July, 2009",7:30pm (local time),15927,12,"10,533","Melbourne
+STORM",4,30,7,"Cronulla Sutherland
+SHARKS",0,10,8
+0,NRL 2009,Round 20,"Saturday, 25th July, 2009",7:30pm (local time),15926,14,"14,274","North Queensland
+COWBOYS",10,20,9,"Penrith
+PANTHERS",10,28,4
+0,NRL 2009,Round 20,"Sunday, 26th July, 2009",2:00pm (local time),15928,4,"11,150","Canberra
+RAIDERS",0,4,8,WESTS TIGERS,19,25,5
+0,NRL 2009,Round 20,"Sunday, 26th July, 2009",4:00pm (local time),15929,6,"13,507",WARRIORS,4,4,4,"St George Illawarra
+DRAGONS",18,29,5
+0,NRL 2009,Round 20,"Monday, 27th July, 2009",7:00pm (local time),15930,20,"11,031","South Sydney
+RABBITOHS",18,40,5,"Sydney
+ROOSTERS",4,20,3
+0,NRL 2009,Round 21,"Friday, 31st July, 2009",7:35pm (local time),15932,149,"20,315","Gold Coast
+TITANS",0,18,5,"North Queensland
+COWBOYS",22,34,5
+0,NRL 2009,Round 21,"Friday, 31st July, 2009",7:35pm (local time),15931,23,"16,474","St George Illawarra
+DRAGONS",8,26,6,"Melbourne
+STORM",12,12,3
+0,NRL 2009,Round 21,"Saturday, 1st August, 2009",5:30pm (local time),15933,4,"10,200","Canberra
+RAIDERS",16,56,5,"Brisbane
+BRONCOS",0,0,3
+0,NRL 2009,Round 21,"Saturday, 1st August, 2009",7:30pm (local time),15934,11,"15,112","Newcastle
+KNIGHTS",6,18,8,"Sydney
+ROOSTERS",24,30,5
+0,NRL 2009,Round 21,"Saturday, 1st August, 2009",7:30pm (local time),15935,3,"12,677","Penrith
+PANTHERS",6,32,9,WARRIORS,20,32,8
+0,NRL 2009,Round 21,"Sunday, 2nd August, 2009",2:00pm (local time),15936,9,"12,246","Cronulla Sutherland
+SHARKS",0,0,4,"Parramatta
+EELS",10,30,6
+0,NRL 2009,Round 21,"Sunday, 2nd August, 2009",3:00pm (local time),15937,20,"24,217","South Sydney
+RABBITOHS",18,18,4,BULLDOGS,10,26,3
+0,NRL 2009,Round 21,"Monday, 3rd August, 2009",7:00pm (local time),15938,1,"13,531",WESTS TIGERS,18,19,4,"Manly Warringah
+SEA EAGLES",0,18,5
+0,NRL 2009,Round 22,"Friday, 7th August, 2009",7:35pm (local time),15940,12,"10,510","Melbourne
+STORM",10,20,5,"North Queensland
+COWBOYS",4,8,5
+0,NRL 2009,Round 22,"Friday, 7th August, 2009",7:35pm (local time),15939,3,"19,987","Penrith
+PANTHERS",0,6,5,"St George Illawarra
+DRAGONS",12,25,2
+0,NRL 2009,Round 22,"Saturday, 8th August, 2009",5:30pm (local time),15941,5,"15,702","Manly Warringah
+SEA EAGLES",12,22,6,"South Sydney
+RABBITOHS",22,36,9
+0,NRL 2009,Round 22,"Saturday, 8th August, 2009",7:30pm (local time),15942,20,"13,310",BULLDOGS,15,23,5,"Canberra
+RAIDERS",6,20,6
+0,NRL 2009,Round 22,"Sunday, 9th August, 2009",2:00pm (local time),15944,6,"10,205",WARRIORS,0,10,9,"Gold Coast
+TITANS",14,30,5
+0,NRL 2009,Round 22,"Sunday, 9th August, 2009",2:00pm (local time),15943,1,"16,427","Sydney
+ROOSTERS",8,10,7,WESTS TIGERS,4,17,9
+0,NRL 2009,Round 22,"Sunday, 9th August, 2009",3:00pm (local time),15945,8,"17,669","Parramatta
+EELS",20,40,8,"Newcastle
+KNIGHTS",8,8,5
+0,NRL 2009,Round 22,"Monday, 10th August, 2009",7:00pm (local time),15946,1097,"20,114","Brisbane
+BRONCOS",12,30,5,"Cronulla Sutherland
+SHARKS",4,10,8
+0,NRL 2009,Round 23,"Friday, 14th August, 2009",7:35pm (local time),15947,14,"18,199","North Queensland
+COWBOYS",12,12,4,BULLDOGS,6,22,7
+0,NRL 2009,Round 23,"Friday, 14th August, 2009",7:35pm (local time),15948,20,"11,977","South Sydney
+RABBITOHS",14,14,7,"Gold Coast
+TITANS",12,22,4
+0,NRL 2009,Round 23,"Saturday, 15th August, 2009",5:30pm (local time),15949,1,"9,968","Sydney
+ROOSTERS",6,12,3,"Manly Warringah
+SEA EAGLES",20,44,4
+0,NRL 2009,Round 23,"Saturday, 15th August, 2009",7:30pm (local time),15950,4,"19,350","Canberra
+RAIDERS",0,24,9,"St George Illawarra
+DRAGONS",6,12,7
+0,NRL 2009,Round 23,"Saturday, 15th August, 2009",7:30pm (local time),15951,8,"12,627","Parramatta
+EELS",24,40,4,WARRIORS,4,4,3
+0,NRL 2009,Round 23,"Sunday, 16th August, 2009",2:00pm (local time),15952,9,"12,982","Cronulla Sutherland
+SHARKS",0,10,7,WESTS TIGERS,28,56,2
+0,NRL 2009,Round 23,"Sunday, 16th August, 2009",3:00pm (local time),15953,1097,"25,305","Brisbane
+BRONCOS",18,58,6,"Penrith
+PANTHERS",24,24,5
+0,NRL 2009,Round 23,"Monday, 17th August, 2009",7:00pm (local time),15954,11,"13,580","Newcastle
+KNIGHTS",18,26,4,"Melbourne
+STORM",0,14,5
+0,NRL 2009,Round 24,"Friday, 21st August, 2009",7:35pm (local time),17161,21,"17,044","St George Illawarra
+DRAGONS",2,2,8,"Brisbane
+BRONCOS",6,12,4
+0,NRL 2009,Round 24,"Friday, 21st August, 2009",7:35pm (local time),17162,1,"34,272",WESTS TIGERS,8,18,3,"Parramatta
+EELS",8,26,5
+0,NRL 2009,Round 24,"Saturday, 22nd August, 2009",5:30pm (local time),17163,11,"15,408","Newcastle
+KNIGHTS",8,32,6,"North Queensland
+COWBOYS",22,26,6
+0,NRL 2009,Round 24,"Saturday, 22nd August, 2009",7:30pm (local time),17164,3,"14,214","Penrith
+PANTHERS",18,40,3,"South Sydney
+RABBITOHS",10,10,2
+0,NRL 2009,Round 24,"Sunday, 23rd August, 2009",2:00pm (local time),17165,6,"8,812",WARRIORS,16,34,6,"Canberra
+RAIDERS",10,20,4
+0,NRL 2009,Round 24,"Sunday, 23rd August, 2009",2:00pm (local time),17166,149,"14,714","Gold Coast
+TITANS",14,20,6,"Cronulla Sutherland
+SHARKS",6,10,6
+0,NRL 2009,Round 24,"Sunday, 23rd August, 2009",3:00pm (local time),17167,12,"12,601","Melbourne
+STORM",4,16,4,"Manly Warringah
+SEA EAGLES",12,20,3
+0,NRL 2009,Round 24,"Monday, 24th August, 2009",7:00pm (local time),17168,20,"12,298",BULLDOGS,12,28,6,"Sydney
+ROOSTERS",4,4,4
+0,NRL 2009,Round 25,"Friday, 28th August, 2009",7:35pm (local time),17174,14,"24,332","North Queensland
+COWBOYS",10,10,5,"Brisbane
+BRONCOS",4,16,8
+0,NRL 2009,Round 25,"Friday, 28th August, 2009",7:35pm (local time),17173,8,"20,237","Parramatta
+EELS",18,48,6,"Penrith
+PANTHERS",0,6,3
+0,NRL 2009,Round 25,"Saturday, 29th August, 2009",5:30pm (local time),17175,149,"20,102","Gold Coast
+TITANS",12,36,2,WESTS TIGERS,16,24,4
+0,NRL 2009,Round 25,"Saturday, 29th August, 2009",7:30pm (local time),17176,12,"13,332","Melbourne
+STORM",18,38,6,"Sydney
+ROOSTERS",0,4,3
+0,NRL 2009,Round 25,"Saturday, 29th August, 2009",7:30pm (local time),17177,20,"19,218","South Sydney
+RABBITOHS",19,41,9,"St George Illawarra
+DRAGONS",6,6,4
+0,NRL 2009,Round 25,"Sunday, 30th August, 2009",2:00pm (local time),17178,5,"15,844","Manly Warringah
+SEA EAGLES",10,18,8,"Cronulla Sutherland
+SHARKS",10,16,8
+0,NRL 2009,Round 25,"Sunday, 30th August, 2009",3:00pm (local time),17179,20,"41,835",BULLDOGS,28,40,3,WARRIORS,4,20,4
+0,NRL 2009,Round 25,"Monday, 31st August, 2009",7:00pm (local time),17180,4,"9,400","Canberra
+RAIDERS",22,30,8,"Newcastle
+KNIGHTS",4,14,8
+0,NRL 2009,Round 26,"Friday, 4th September, 2009",7:35pm (local time),17223,23,"17,974","St George Illawarra
+DRAGONS",21,37,8,"Parramatta
+EELS",0,0,3
+0,NRL 2009,Round 26,"Friday, 4th September, 2009",7:35pm (local time),17222,1,"17,375",WESTS TIGERS,16,34,7,BULLDOGS,0,12,3
+0,NRL 2009,Round 26,"Saturday, 5th September, 2009",5:30pm (local time),17224,6,"14,734",WARRIORS,0,0,4,"Melbourne
+STORM",12,30,3
+0,NRL 2009,Round 26,"Saturday, 5th September, 2009",7:30pm (local time),17226,9,"14,879","Cronulla Sutherland
+SHARKS",12,24,6,"South Sydney
+RABBITOHS",12,26,5
+0,NRL 2009,Round 26,"Saturday, 5th September, 2009",7:30pm (local time),17225,5,"14,165","Manly Warringah
+SEA EAGLES",22,38,6,"Gold Coast
+TITANS",0,4,9
+0,NRL 2009,Round 26,"Sunday, 6th September, 2009",2:00pm (local time),17227,1,"10,277","Sydney
+ROOSTERS",16,16,5,"North Queensland
+COWBOYS",6,32,6
+0,NRL 2009,Round 26,"Sunday, 6th September, 2009",3:00pm (local time),17228,11,"22,152","Newcastle
+KNIGHTS",13,35,5,"Penrith
+PANTHERS",0,0,6
+0,NRL 2009,Round 26,"Sunday, 6th September, 2009",7:00pm (local time),17229,1097,"35,112","Brisbane
+BRONCOS",8,22,7,"Canberra
+RAIDERS",6,10,5
+0,NRL 2009,Qualif Final,"Friday, 11th September, 2009",7:45pm (local time),17231,30,"21,155","Melbourne
+STORM",16,40,5,"Manly Warringah
+SEA EAGLES",0,12,7
+0,NRL 2009,Qualif Final,"Saturday, 12th September, 2009",6:30pm (local time),17232,149,"27,227","Gold Coast
+TITANS",10,32,5,"Brisbane
+BRONCOS",28,40,5
+0,NRL 2009,Qualif Final,"Saturday, 12th September, 2009",8:30pm (local time),17233,20,"21,369",BULLDOGS,18,26,8,"Newcastle
+KNIGHTS",6,12,4
+0,NRL 2009,Qualif Final,"Sunday, 13th September, 2009",4:00pm (local time),17234,23,"18,174","St George Illawarra
+DRAGONS",8,12,10,"Parramatta
+EELS",12,25,9
+0,NRL 2009,Semi Final,"Friday, 18th September, 2009",7:45pm (local time),17235,1,"28,524","Parramatta
+EELS",13,27,7,"Gold Coast
+TITANS",2,2,4
+0,NRL 2009,Semi Final,"Saturday, 19th September, 2009",7:45pm (local time),17236,1097,"50,225","Brisbane
+BRONCOS",12,24,5,"St George Illawarra
+DRAGONS",6,10,4
+0,NRL 2009,Prelim Final,"Friday, 25th September, 2009",7:45pm (local time),17241,20,"74,549",BULLDOGS,12,12,4,"Parramatta
+EELS",6,22,3
+0,NRL 2009,Prelim Final,"Saturday, 26th September, 2009",7:45pm (local time),17242,30,"27,687","Melbourne
+STORM",22,40,8,"Brisbane
+BRONCOS",0,10,5
+0,NRL 2009,Grand Final,"Sunday, 4th October, 2009",5:00pm (local time),17245,20,"82,538","Melbourne
+STORM",10,23,3,"Parramatta
+EELS",0,16,5

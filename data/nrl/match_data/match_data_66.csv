@@ -1,0 +1,390 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1974,Round 1,"Saturday, 30th March, 1974",2:30pm (local time),13290,109,"7,043","Eastern Suburbs
+ROOSTERS",21,31,5,"Penrith
+PANTHERS",0,6,7
+0,NSWRFL 1974,Round 1,"Saturday, 30th March, 1974",2:30pm (local time),13291,76,"3,849","Newtown
+JETS",5,10,14,"Cronulla Sutherland
+SHARKS",2,2,6
+0,NSWRFL 1974,Round 1,"Sunday, 31st March, 1974",2:30pm (local time),13293,27,"8,108",CANTERBURY BANKSTOWN,10,16,6,"South Sydney
+RABBITOHS",3,15,9
+0,NSWRFL 1974,Round 1,"Sunday, 31st March, 1974",2:30pm (local time),13294,25,"9,264","North Sydney
+BEARS",12,27,10,"Manly Warringah
+SEA EAGLES",0,15,6
+0,NSWRFL 1974,Round 1,"Sunday, 31st March, 1974",2:30pm (local time),13292,111,"10,300","Parramatta
+EELS",12,12,9,"St George
+DRAGONS",13,25,14
+0,NSWRFL 1974,Round 1,"Sunday, 31st March, 1974",2:30pm (local time),13295,110,"5,114","Western Suburbs
+MAGPIES",21,62,6,"Balmain
+TIGERS",0,5,7
+0,NSWRFL 1974,Round 2,"Saturday, 6th April, 1974",2:30pm (local time),13297,109,"9,241","Eastern Suburbs
+ROOSTERS",19,44,5,"Cronulla Sutherland
+SHARKS",5,13,7
+0,NSWRFL 1974,Round 2,"Saturday, 6th April, 1974",2:30pm (local time),13296,76,"3,278","Newtown
+JETS",13,36,12,"Balmain
+TIGERS",4,4,7
+0,NSWRFL 1974,Round 2,"Sunday, 7th April, 1974",2:30pm (local time),13300,27,"13,017",CANTERBURY BANKSTOWN,9,17,11,"St George
+DRAGONS",4,9,13
+0,NSWRFL 1974,Round 2,"Sunday, 7th April, 1974",2:30pm (local time),13298,5,"10,003","Manly Warringah
+SEA EAGLES",14,44,7,"Parramatta
+EELS",2,8,13
+0,NSWRFL 1974,Round 2,"Sunday, 7th April, 1974",2:30pm (local time),13299,3,"6,151","Penrith
+PANTHERS",13,18,10,"South Sydney
+RABBITOHS",15,40,9
+0,NSWRFL 1974,Round 2,"Sunday, 7th April, 1974",2:30pm (local time),13301,110,"8,100","Western Suburbs
+MAGPIES",9,18,9,"North Sydney
+BEARS",2,18,15
+0,NSWRFL 1974,Round 3,"Saturday, 13th April, 1974",2:30pm (local time),13302,23,"14,494","St George
+DRAGONS",10,23,10,"Manly Warringah
+SEA EAGLES",17,35,6
+0,NSWRFL 1974,Round 3,"Saturday, 13th April, 1974",2:30pm (local time),13303,44,"8,569","South Sydney
+RABBITOHS",9,24,12,"Cronulla Sutherland
+SHARKS",14,26,4
+0,NSWRFL 1974,Round 3,"Sunday, 14th April, 1974",2:30pm (local time),13305,25,"8,631","North Sydney
+BEARS",2,2,9,"Newtown
+JETS",7,7,9
+0,NSWRFL 1974,Round 3,"Sunday, 14th April, 1974",2:30pm (local time),13304,111,"10,042","Parramatta
+EELS",7,15,,"Western Suburbs
+MAGPIES",7,11,
+0,NSWRFL 1974,Round 3,"Monday, 15th April, 1974",2:30pm (local time),13306,110,"6,342","Balmain
+TIGERS",3,6,8,"Eastern Suburbs
+ROOSTERS",18,43,9
+0,NSWRFL 1974,Round 3,"Monday, 15th April, 1974",2:30pm (local time),13307,27,"9,455",CANTERBURY BANKSTOWN,8,28,7,"Penrith
+PANTHERS",2,11,12
+0,NSWRFL 1974,Round 4,"Saturday, 20th April, 1974",2:30pm (local time),13308,23,"4,140","St George
+DRAGONS",4,8,12,"Penrith
+PANTHERS",0,3,13
+0,NSWRFL 1974,Round 4,"Saturday, 20th April, 1974",2:30pm (local time),13309,44,"3,507","South Sydney
+RABBITOHS",8,11,10,"Balmain
+TIGERS",3,3,8
+0,NSWRFL 1974,Round 4,"Sunday, 21st April, 1974",2:30pm (local time),13311,27,"6,056",CANTERBURY BANKSTOWN,9,17,10,"Cronulla Sutherland
+SHARKS",6,8,8
+0,NSWRFL 1974,Round 4,"Sunday, 21st April, 1974",2:30pm (local time),13312,109,"8,890","Eastern Suburbs
+ROOSTERS",2,4,,"North Sydney
+BEARS",0,13,
+0,NSWRFL 1974,Round 4,"Sunday, 21st April, 1974",2:30pm (local time),13310,5,"10,021","Manly Warringah
+SEA EAGLES",15,20,7,"Western Suburbs
+MAGPIES",7,11,8
+0,NSWRFL 1974,Round 4,"Sunday, 21st April, 1974",2:30pm (local time),13313,111,"4,814","Parramatta
+EELS",4,8,17,"Newtown
+JETS",12,15,7
+0,NSWRFL 1974,Round 5,"Thursday, 25th April, 1974",2:30pm (local time),13314,7,"5,674","Balmain
+TIGERS",5,20,13,CANTERBURY BANKSTOWN,16,28,10
+0,NSWRFL 1974,Round 5,"Thursday, 25th April, 1974",2:30pm (local time),13315,109,"7,905","Eastern Suburbs
+ROOSTERS",18,41,7,"Parramatta
+EELS",0,0,11
+0,NSWRFL 1974,Round 5,"Saturday, 27th April, 1974",2:30pm (local time),13317,76,"9,407","Newtown
+JETS",4,6,14,"Manly Warringah
+SEA EAGLES",7,28,6
+0,NSWRFL 1974,Round 5,"Saturday, 27th April, 1974",2:30pm (local time),13316,23,"6,807","St George
+DRAGONS",0,7,11,"Western Suburbs
+MAGPIES",10,17,3
+0,NSWRFL 1974,Round 5,"Sunday, 28th April, 1974",2:30pm (local time),13318,25,"10,356","North Sydney
+BEARS",7,16,6,"South Sydney
+RABBITOHS",9,18,7
+0,NSWRFL 1974,Round 5,"Sunday, 28th April, 1974",2:30pm (local time),13319,3,"6,317","Penrith
+PANTHERS",13,28,11,"Cronulla Sutherland
+SHARKS",9,24,13
+0,NSWRFL 1974,Round 6,"Saturday, 4th May, 1974",2:30pm (local time),13320,24,"50,130","Eastern Suburbs
+ROOSTERS",10,15,7,"Manly Warringah
+SEA EAGLES",0,5,11
+0,NSWRFL 1974,Round 6,"Sunday, 5th May, 1974",2:30pm (local time),13321,9,"9,941","Cronulla Sutherland
+SHARKS",2,5,9,"St George
+DRAGONS",12,40,9
+0,NSWRFL 1974,Round 6,"Sunday, 5th May, 1974",2:30pm (local time),13325,25,"6,778","North Sydney
+BEARS",5,19,14,CANTERBURY BANKSTOWN,6,11,13
+0,NSWRFL 1974,Round 6,"Sunday, 5th May, 1974",2:30pm (local time),13323,44,"6,948","Parramatta
+EELS",6,14,9,"South Sydney
+RABBITOHS",8,8,12
+0,NSWRFL 1974,Round 6,"Sunday, 5th May, 1974",2:30pm (local time),13324,3,"5,600","Penrith
+PANTHERS",23,28,15,"Balmain
+TIGERS",8,13,7
+0,NSWRFL 1974,Round 6,"Sunday, 5th May, 1974",2:30pm (local time),13322,110,"7,271","Western Suburbs
+MAGPIES",9,13,10,"Newtown
+JETS",15,26,5
+0,NSWRFL 1974,Round 7,"Saturday, 11th May, 1974",2:30pm (local time),13326,24,"16,916","Newtown
+JETS",12,30,4,"St George
+DRAGONS",0,5,5
+0,NSWRFL 1974,Round 7,"Sunday, 12th May, 1974",2:30pm (local time),13329,9,"11,317","Cronulla Sutherland
+SHARKS",2,22,8,"Balmain
+TIGERS",5,15,9
+0,NSWRFL 1974,Round 7,"Sunday, 12th May, 1974",2:30pm (local time),13327,5,"11,317","Manly Warringah
+SEA EAGLES",12,25,18,"South Sydney
+RABBITOHS",5,12,7
+0,NSWRFL 1974,Round 7,"Sunday, 12th May, 1974",2:30pm (local time),13330,111,"7,570","Parramatta
+EELS",5,19,14,CANTERBURY BANKSTOWN,13,22,5
+0,NSWRFL 1974,Round 7,"Sunday, 12th May, 1974",2:30pm (local time),13328,3,"6,392","Penrith
+PANTHERS",11,23,12,"North Sydney
+BEARS",6,28,7
+0,NSWRFL 1974,Round 7,"Sunday, 12th May, 1974",2:30pm (local time),13331,110,"5,510","Western Suburbs
+MAGPIES",10,10,9,"Eastern Suburbs
+ROOSTERS",10,32,13
+0,NSWRFL 1974,Round 8,"Sunday, 19th May, 1974",2:30pm (local time),13334,27,"13,087",CANTERBURY BANKSTOWN,11,13,14,"Manly Warringah
+SEA EAGLES",4,11,16
+0,NSWRFL 1974,Round 8,"Sunday, 19th May, 1974",2:30pm (local time),13335,109,"10,271","Eastern Suburbs
+ROOSTERS",4,11,11,"Newtown
+JETS",9,9,6
+0,NSWRFL 1974,Round 8,"Sunday, 19th May, 1974",2:30pm (local time),13337,25,"5,393","North Sydney
+BEARS",5,10,12,"Cronulla Sutherland
+SHARKS",8,11,8
+0,NSWRFL 1974,Round 8,"Sunday, 19th May, 1974",2:30pm (local time),13332,111,"6,526","Parramatta
+EELS",8,21,10,"Penrith
+PANTHERS",0,5,9
+0,NSWRFL 1974,Round 8,"Sunday, 19th May, 1974",2:30pm (local time),13336,23,"4,696","St George
+DRAGONS",15,23,11,"Balmain
+TIGERS",5,13,7
+0,NSWRFL 1974,Round 8,"Sunday, 19th May, 1974",2:30pm (local time),13333,44,"5,104","South Sydney
+RABBITOHS",3,13,11,"Western Suburbs
+MAGPIES",5,12,9
+0,NSWRFL 1974,Round 9,"Saturday, 25th May, 1974",2:30pm (local time),13338,44,"1,295","South Sydney
+RABBITOHS",5,5,11,"Newtown
+JETS",0,0,12
+0,NSWRFL 1974,Round 9,"Sunday, 26th May, 1974",2:30pm (local time),13339,9,"2,603","Cronulla Sutherland
+SHARKS",18,21,12,"Parramatta
+EELS",0,0,3
+0,NSWRFL 1974,Round 10,"Saturday, 1st June, 1974",2:30pm (local time),13344,109,"7,579","Eastern Suburbs
+ROOSTERS",5,15,10,"South Sydney
+RABBITOHS",8,8,4
+0,NSWRFL 1974,Round 10,"Saturday, 1st June, 1974",2:30pm (local time),13345,76,"4,834","Newtown
+JETS",2,7,,CANTERBURY BANKSTOWN,0,3,
+0,NSWRFL 1974,Round 10,"Sunday, 2nd June, 1974",2:30pm (local time),13349,5,"8,860","Manly Warringah
+SEA EAGLES",13,18,6,"Cronulla Sutherland
+SHARKS",3,27,12
+0,NSWRFL 1974,Round 10,"Sunday, 2nd June, 1974",2:30pm (local time),13348,111,"4,336","Parramatta
+EELS",5,5,10,"Balmain
+TIGERS",5,15,14
+0,NSWRFL 1974,Round 10,"Sunday, 2nd June, 1974",2:30pm (local time),13346,23,"6,461","St George
+DRAGONS",0,5,17,"North Sydney
+BEARS",3,8,5
+0,NSWRFL 1974,Round 10,"Sunday, 2nd June, 1974",2:30pm (local time),13347,110,"3,009","Western Suburbs
+MAGPIES",5,20,10,"Penrith
+PANTHERS",13,26,6
+0,NSWRFL 1974,Round 11,"Saturday, 8th June, 1974",2:30pm (local time),13350,44,"11,326","South Sydney
+RABBITOHS",5,10,9,"St George
+DRAGONS",20,29,8
+0,NSWRFL 1974,Round 11,"Sunday, 9th June, 1974",2:30pm (local time),13352,7,"5,173","Balmain
+TIGERS",0,6,4,"Manly Warringah
+SEA EAGLES",9,27,11
+0,NSWRFL 1974,Round 11,"Sunday, 9th June, 1974",2:30pm (local time),13353,27,"18,034",CANTERBURY BANKSTOWN,4,11,14,"Eastern Suburbs
+ROOSTERS",0,15,12
+0,NSWRFL 1974,Round 11,"Sunday, 9th June, 1974",2:30pm (local time),13351,25,"4,514","North Sydney
+BEARS",22,34,8,"Parramatta
+EELS",0,0,12
+0,NSWRFL 1974,Round 11,"Sunday, 9th June, 1974",2:30pm (local time),13354,3,"6,576","Penrith
+PANTHERS",9,9,9,"Newtown
+JETS",5,5,14
+0,NSWRFL 1974,Round 11,"Sunday, 9th June, 1974",2:30pm (local time),13355,110,"3,585","Western Suburbs
+MAGPIES",9,16,11,"Cronulla Sutherland
+SHARKS",0,6,8
+0,NSWRFL 1974,Round 9,"Wednesday, 12th June, 1974",6:15pm (local time),13340,7,"1,446","Balmain
+TIGERS",4,4,10,"North Sydney
+BEARS",4,4,16
+0,NSWRFL 1974,Round 9,"Thursday, 13th June, 1974",4:00pm (local time),13341,110,"1,346","Western Suburbs
+MAGPIES",8,20,10,CANTERBURY BANKSTOWN,0,3,7
+0,NSWRFL 1974,Round 12,"Saturday, 15th June, 1974",2:30pm (local time),13356,23,"4,291","St George
+DRAGONS",5,8,11,"Parramatta
+EELS",9,23,5
+0,NSWRFL 1974,Round 12,"Sunday, 16th June, 1974",2:30pm (local time),13357,9,"4,231","Cronulla Sutherland
+SHARKS",2,4,10,"Newtown
+JETS",0,3,7
+0,NSWRFL 1974,Round 12,"Sunday, 16th June, 1974",2:30pm (local time),13358,3,"6,997","Penrith
+PANTHERS",15,19,9,"Eastern Suburbs
+ROOSTERS",0,9,14
+0,NSWRFL 1974,Round 12,"Monday, 17th June, 1974",2:30pm (local time),13359,5,"17,348","Manly Warringah
+SEA EAGLES",13,37,2,"North Sydney
+BEARS",4,4,11
+0,NSWRFL 1974,Round 9,"Thursday, 20th June, 1974",8:00pm (local time),13342,5,"7,213","Manly Warringah
+SEA EAGLES",14,28,,"Penrith
+PANTHERS",2,12,
+0,NSWRFL 1974,Round 13,"Saturday, 22nd June, 1974",2:30pm (local time),13363,23,"8,349","St George
+DRAGONS",3,16,14,CANTERBURY BANKSTOWN,5,5,5
+0,NSWRFL 1974,Round 13,"Saturday, 22nd June, 1974",2:30pm (local time),13362,44,"6,708","South Sydney
+RABBITOHS",10,20,10,"Penrith
+PANTHERS",5,17,11
+0,NSWRFL 1974,Round 13,"Sunday, 23rd June, 1974",2:30pm (local time),13365,7,"4,758","Balmain
+TIGERS",8,13,9,"Newtown
+JETS",5,13,11
+0,NSWRFL 1974,Round 13,"Sunday, 23rd June, 1974",2:30pm (local time),13366,9,"9,633","Cronulla Sutherland
+SHARKS",2,5,7,"Eastern Suburbs
+ROOSTERS",16,30,6
+0,NSWRFL 1974,Round 13,"Sunday, 23rd June, 1974",2:30pm (local time),13364,25,"6,066","North Sydney
+BEARS",3,3,14,"Western Suburbs
+MAGPIES",0,13,7
+0,NSWRFL 1974,Round 13,"Sunday, 23rd June, 1974",2:30pm (local time),13367,111,"8,258","Parramatta
+EELS",3,8,8,"Manly Warringah
+SEA EAGLES",8,23,8
+0,NSWRFL 1974,Round 9,"Tuesday, 25th June, 1974",3:00pm (local time),13343,23,"6,629","St George
+DRAGONS",6,6,10,"Eastern Suburbs
+ROOSTERS",3,5,11
+0,NSWRFL 1974,Round 12,"Tuesday, 25th June, 1974",3:30pm (local time),13361,44,"4,101","South Sydney
+RABBITOHS",0,5,7,CANTERBURY BANKSTOWN,7,20,12
+0,NSWRFL 1974,Round 12,"Tuesday, 25th June, 1974",7:30pm (local time),13360,7,"4,039","Balmain
+TIGERS",4,12,7,"Western Suburbs
+MAGPIES",3,7,5
+0,NSWRFL 1974,Round 14,"Sunday, 30th June, 1974",2:30pm (local time),13370,9,"6,271","Cronulla Sutherland
+SHARKS",9,12,12,"South Sydney
+RABBITOHS",9,22,6
+0,NSWRFL 1974,Round 14,"Sunday, 30th June, 1974",2:30pm (local time),13372,109,"9,116","Eastern Suburbs
+ROOSTERS",26,41,9,"Balmain
+TIGERS",4,15,8
+0,NSWRFL 1974,Round 14,"Sunday, 30th June, 1974",2:30pm (local time),13368,5,"16,116","Manly Warringah
+SEA EAGLES",23,38,6,"St George
+DRAGONS",10,20,9
+0,NSWRFL 1974,Round 14,"Sunday, 30th June, 1974",2:30pm (local time),13369,76,"3,780","Newtown
+JETS",2,11,11,"North Sydney
+BEARS",2,13,11
+0,NSWRFL 1974,Round 14,"Sunday, 30th June, 1974",2:30pm (local time),13373,3,"8,874","Penrith
+PANTHERS",8,28,11,CANTERBURY BANKSTOWN,13,31,7
+0,NSWRFL 1974,Round 14,"Sunday, 30th June, 1974",2:30pm (local time),13371,110,"4,376","Western Suburbs
+MAGPIES",11,14,14,"Parramatta
+EELS",8,8,3
+0,NSWRFL 1974,Round 15,"Sunday, 7th July, 1974",2:30pm (local time),13376,7,"5,167","Balmain
+TIGERS",9,15,12,"South Sydney
+RABBITOHS",14,20,11
+0,NSWRFL 1974,Round 15,"Sunday, 7th July, 1974",2:30pm (local time),13378,9,"6,179","Cronulla Sutherland
+SHARKS",5,8,6,CANTERBURY BANKSTOWN,13,34,4
+0,NSWRFL 1974,Round 15,"Sunday, 7th July, 1974",2:30pm (local time),13374,76,"2,306","Newtown
+JETS",7,23,9,"Parramatta
+EELS",0,0,8
+0,NSWRFL 1974,Round 15,"Sunday, 7th July, 1974",2:30pm (local time),13379,25,"6,911","North Sydney
+BEARS",4,8,13,"Eastern Suburbs
+ROOSTERS",6,16,9
+0,NSWRFL 1974,Round 15,"Sunday, 7th July, 1974",2:30pm (local time),13375,3,"9,203","Penrith
+PANTHERS",16,22,11,"St George
+DRAGONS",8,21,7
+0,NSWRFL 1974,Round 15,"Sunday, 7th July, 1974",2:30pm (local time),13377,110,"3,813","Western Suburbs
+MAGPIES",11,22,8,"Manly Warringah
+SEA EAGLES",7,17,7
+0,NSWRFL 1974,Round 16,"Saturday, 13th July, 1974",2:30pm (local time),13382,44,"8,009","South Sydney
+RABBITOHS",5,19,11,"North Sydney
+BEARS",12,14,8
+0,NSWRFL 1974,Round 16,"Sunday, 14th July, 1974",2:30pm (local time),13384,27,"8,346",CANTERBURY BANKSTOWN,12,17,11,"Balmain
+TIGERS",5,15,9
+0,NSWRFL 1974,Round 16,"Sunday, 14th July, 1974",2:30pm (local time),13381,9,"5,629","Cronulla Sutherland
+SHARKS",7,11,20,"Penrith
+PANTHERS",7,14,14
+0,NSWRFL 1974,Round 16,"Sunday, 14th July, 1974",2:30pm (local time),13380,5,"11,728","Manly Warringah
+SEA EAGLES",6,36,13,"Newtown
+JETS",4,9,10
+0,NSWRFL 1974,Round 16,"Sunday, 14th July, 1974",2:30pm (local time),13385,111,"5,405","Parramatta
+EELS",13,18,8,"Eastern Suburbs
+ROOSTERS",5,20,6
+0,NSWRFL 1974,Round 16,"Sunday, 14th July, 1974",2:30pm (local time),13383,110,"11,986","Western Suburbs
+MAGPIES",11,22,12,"St George
+DRAGONS",2,14,6
+0,NSWRFL 1974,Round 17,"Sunday, 21st July, 1974",2:30pm (local time),13388,7,"4,415","Balmain
+TIGERS",2,18,10,"Penrith
+PANTHERS",2,5,6
+0,NSWRFL 1974,Round 17,"Sunday, 21st July, 1974",2:30pm (local time),13389,27,"9,049",CANTERBURY BANKSTOWN,2,5,13,"North Sydney
+BEARS",2,9,12
+0,NSWRFL 1974,Round 17,"Sunday, 21st July, 1974",2:30pm (local time),13391,5,"20,126","Manly Warringah
+SEA EAGLES",0,10,13,"Eastern Suburbs
+ROOSTERS",15,29,9
+0,NSWRFL 1974,Round 17,"Sunday, 21st July, 1974",2:30pm (local time),13386,76,"6,184","Newtown
+JETS",2,7,13,"Western Suburbs
+MAGPIES",13,25,7
+0,NSWRFL 1974,Round 17,"Sunday, 21st July, 1974",2:30pm (local time),13387,111,"7,038","Parramatta
+EELS",3,10,3,"South Sydney
+RABBITOHS",10,20,18
+0,NSWRFL 1974,Round 17,"Sunday, 21st July, 1974",2:30pm (local time),13390,23,"4,519","St George
+DRAGONS",9,17,4,"Cronulla Sutherland
+SHARKS",11,31,8
+0,NSWRFL 1974,Round 18,"Saturday, 27th July, 1974",2:30pm (local time),13392,24,"21,249","Eastern Suburbs
+ROOSTERS",20,25,2,"Western Suburbs
+MAGPIES",2,17,9
+0,NSWRFL 1974,Round 18,"Saturday, 27th July, 1974",2:30pm (local time),13393,23,"3,718","St George
+DRAGONS",2,11,8,"Newtown
+JETS",0,3,10
+0,NSWRFL 1974,Round 18,"Sunday, 28th July, 1974",2:30pm (local time),13395,7,"4,939","Balmain
+TIGERS",8,14,10,"Cronulla Sutherland
+SHARKS",8,21,9
+0,NSWRFL 1974,Round 18,"Sunday, 28th July, 1974",2:30pm (local time),13396,27,"7,052",CANTERBURY BANKSTOWN,13,25,11,"Parramatta
+EELS",8,11,9
+0,NSWRFL 1974,Round 18,"Sunday, 28th July, 1974",2:30pm (local time),13394,25,"4,633","North Sydney
+BEARS",8,12,12,"Penrith
+PANTHERS",3,6,12
+0,NSWRFL 1974,Round 18,"Sunday, 28th July, 1974",2:30pm (local time),13397,44,"10,402","South Sydney
+RABBITOHS",5,7,9,"Manly Warringah
+SEA EAGLES",6,6,12
+0,NSWRFL 1974,Round 19,"Saturday, 3rd August, 1974",2:30pm (local time),13398,9,"4,922","Cronulla Sutherland
+SHARKS",7,19,13,"North Sydney
+BEARS",5,13,6
+0,NSWRFL 1974,Round 19,"Saturday, 3rd August, 1974",2:30pm (local time),13400,76,"3,649","Newtown
+JETS",6,6,10,"Eastern Suburbs
+ROOSTERS",8,17,9
+0,NSWRFL 1974,Round 19,"Saturday, 3rd August, 1974",2:30pm (local time),13399,24,"17,322","Western Suburbs
+MAGPIES",13,18,3,"South Sydney
+RABBITOHS",5,10,8
+0,NSWRFL 1974,Round 19,"Sunday, 4th August, 1974",2:30pm (local time),13401,7,"5,544","Balmain
+TIGERS",2,5,13,"St George
+DRAGONS",8,15,12
+0,NSWRFL 1974,Round 19,"Sunday, 4th August, 1974",2:30pm (local time),13403,5,"12,135","Manly Warringah
+SEA EAGLES",12,23,11,CANTERBURY BANKSTOWN,12,16,10
+0,NSWRFL 1974,Round 19,"Sunday, 4th August, 1974",2:30pm (local time),13402,3,"5,931","Penrith
+PANTHERS",11,29,6,"Parramatta
+EELS",3,21,10
+0,NSWRFL 1974,Round 20,"Saturday, 10th August, 1974",2:30pm (local time),13405,24,"18,391","Eastern Suburbs
+ROOSTERS",11,37,6,"St George
+DRAGONS",5,5,8
+0,NSWRFL 1974,Round 20,"Saturday, 10th August, 1974",2:30pm (local time),13404,76,"5,585","Newtown
+JETS",10,15,11,"South Sydney
+RABBITOHS",5,15,5
+0,NSWRFL 1974,Round 20,"Sunday, 11th August, 1974",2:30pm (local time),13406,27,"15,056",CANTERBURY BANKSTOWN,12,22,10,"Western Suburbs
+MAGPIES",2,8,10
+0,NSWRFL 1974,Round 20,"Sunday, 11th August, 1974",2:30pm (local time),13408,25,"4,866","North Sydney
+BEARS",7,16,15,"Balmain
+TIGERS",2,12,11
+0,NSWRFL 1974,Round 20,"Sunday, 11th August, 1974",2:30pm (local time),13409,111,"3,228","Parramatta
+EELS",8,27,10,"Cronulla Sutherland
+SHARKS",5,10,7
+0,NSWRFL 1974,Round 20,"Sunday, 11th August, 1974",2:30pm (local time),13407,3,"10,674","Penrith
+PANTHERS",9,14,12,"Manly Warringah
+SEA EAGLES",5,29,7
+0,NSWRFL 1974,Round 21,"Saturday, 17th August, 1974",2:30pm (local time),13410,7,"3,852","Balmain
+TIGERS",15,25,9,"Parramatta
+EELS",5,7,14
+0,NSWRFL 1974,Round 21,"Saturday, 17th August, 1974",2:30pm (local time),13411,44,"14,151","South Sydney
+RABBITOHS",0,3,9,"Eastern Suburbs
+ROOSTERS",15,18,14
+0,NSWRFL 1974,Round 21,"Sunday, 18th August, 1974",2:30pm (local time),13414,27,"10,346",CANTERBURY BANKSTOWN,2,15,7,"Newtown
+JETS",5,16,9
+0,NSWRFL 1974,Round 21,"Sunday, 18th August, 1974",2:30pm (local time),13415,9,"7,045","Cronulla Sutherland
+SHARKS",7,20,6,"Manly Warringah
+SEA EAGLES",18,21,5
+0,NSWRFL 1974,Round 21,"Sunday, 18th August, 1974",2:30pm (local time),13412,25,"7,037","North Sydney
+BEARS",10,10,15,"St George
+DRAGONS",5,16,6
+0,NSWRFL 1974,Round 21,"Sunday, 18th August, 1974",2:30pm (local time),13413,3,"10,816","Penrith
+PANTHERS",0,8,11,"Western Suburbs
+MAGPIES",15,26,7
+0,NSWRFL 1974,Round 22,"Saturday, 24th August, 1974",2:30pm (local time),13417,24,"11,256","Eastern Suburbs
+ROOSTERS",5,15,5,CANTERBURY BANKSTOWN,0,5,4
+0,NSWRFL 1974,Round 22,"Saturday, 24th August, 1974",2:30pm (local time),13416,23,"11,011","St George
+DRAGONS",0,8,12,"South Sydney
+RABBITOHS",8,12,7
+0,NSWRFL 1974,Round 22,"Sunday, 25th August, 1974",2:30pm (local time),13419,9,"8,063","Cronulla Sutherland
+SHARKS",8,8,6,"Western Suburbs
+MAGPIES",7,20,8
+0,NSWRFL 1974,Round 22,"Sunday, 25th August, 1974",2:30pm (local time),13421,5,"8,230","Manly Warringah
+SEA EAGLES",13,30,16,"Balmain
+TIGERS",4,7,11
+0,NSWRFL 1974,Round 22,"Sunday, 25th August, 1974",2:30pm (local time),13418,76,"2,232","Newtown
+JETS",5,21,13,"Penrith
+PANTHERS",17,22,5
+0,NSWRFL 1974,Round 22,"Sunday, 25th August, 1974",2:30pm (local time),13420,111,"4,038","Parramatta
+EELS",2,2,9,"North Sydney
+BEARS",2,16,8
+0,NSWRFL 1974,Major Prelim Semi,"Saturday, 31st August, 1974",2:30pm (local time),13422,24,"23,600",CANTERBURY BANKSTOWN,15,20,8,"Manly Warringah
+SEA EAGLES",7,14,12
+0,NSWRFL 1974,Minor Prelim Semi,"Sunday, 1st September, 1974",2:30pm (local time),13423,109,"26,276","Western Suburbs
+MAGPIES",7,24,12,"South Sydney
+RABBITOHS",8,8,5
+0,NSWRFL 1974,Major Semi,"Saturday, 7th September, 1974",2:30pm (local time),13424,24,"31,432",CANTERBURY BANKSTOWN,9,19,10,"Eastern Suburbs
+ROOSTERS",10,17,6
+0,NSWRFL 1974,Minor Semi,"Sunday, 8th September, 1974",2:30pm (local time),13425,24,"40,050","Western Suburbs
+MAGPIES",9,23,10,"Manly Warringah
+SEA EAGLES",15,20,6
+0,NSWRFL 1974,Prelim Final,"Saturday, 14th September, 1974",2:30pm (local time),13426,24,"43,072","Eastern Suburbs
+ROOSTERS",3,25,5,"Western Suburbs
+MAGPIES",2,2,9
+0,NSWRFL 1974,Grand Final,"Saturday, 21st September, 1974",2:30pm (local time),13427,24,"57,214","Eastern Suburbs
+ROOSTERS",7,19,7,CANTERBURY BANKSTOWN,4,4,14

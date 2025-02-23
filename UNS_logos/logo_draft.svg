@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="logo_draft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1971.4137"
+     inkscape:cy="299.81327"
+     inkscape:window-width="1898"
+     inkscape:window-height="1094"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="297"
+       id="page14745" />
+    <inkscape:page
+       x="220"
+       y="0"
+       width="210"
+       height="297"
+       id="page14747" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect667"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect659"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19522">
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:0;"
+         offset="0"
+         id="stop19518" />
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:1;"
+         offset="0.5"
+         id="stop19526" />
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:1;"
+         offset="1"
+         id="stop19520" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19512">
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:1;"
+         offset="0"
+         id="stop19508" />
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:1;"
+         offset="0.53877556"
+         id="stop19516" />
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:0;"
+         offset="1"
+         id="stop19510" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19500">
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:0;"
+         offset="0"
+         id="stop19496" />
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:1;"
+         offset="0.21428572"
+         id="stop19504" />
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:1;"
+         offset="0.84795922"
+         id="stop19506" />
+      <stop
+         style="stop-color:#ddfbf6;stop-opacity:0;"
+         offset="1"
+         id="stop19498" />
+    </linearGradient>
+    <rect
+       x="418.73215"
+       y="636.50653"
+       width="195.07201"
+       height="206.8436"
+       id="rect442" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19500"
+       id="linearGradient19502"
+       x1="417.47058"
+       y1="54.176035"
+       x2="521.63601"
+       y2="54.176035"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.110503,0,0,1.0523192,-45.939148,-2.8344478)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19512"
+       id="linearGradient19514"
+       x1="485.28314"
+       y1="106.73277"
+       x2="521.71971"
+       y2="106.73277"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4291535,0,0,0.55436246,-207.76253,47.633594)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19522"
+       id="linearGradient19524"
+       x1="417.6632"
+       y1="106.80221"
+       x2="448.64427"
+       y2="106.80221"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath611">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g607"
+         id="use613" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath651">
+      <g
+         id="g657"
+         clip-path="url(#clipPath611)"
+         transform="matrix(1,0,0,1.3465576,5.3578752e-7,-19.076414)"
+         style="display:none">
+        <g
+           inkscape:label="Clip"
+           id="g655">
+          <rect
+             style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.561639"
+             id="rect653"
+             width="2.2246897"
+             height="1.5"
+             x="144.82083"
+             y="54.058098"
+             d="m 144.82083,54.058098 h 2.22469 v 1.5 h -2.22469 z" />
+        </g>
+      </g>
+      <path
+         id="lpe_path-effect659"
+         class="powerclip"
+         d="m 127.22916,49.058098 h 37.44892 v 11.5 h -37.44892 z m 17.59167,5 v 1.5 h 2.22469 v -1.5 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath663">
+      <rect
+         style="display:none;fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.585749"
+         id="rect665"
+         width="2.2246897"
+         height="1.6315467"
+         x="144.82086"
+         y="53.992344"
+         d="m 144.82086,53.992344 h 2.22469 v 1.631547 h -2.22469 z" />
+      <path
+         id="lpe_path-effect667"
+         style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.585749"
+         class="powerclip"
+         d="m 127.22916,49.058098 h 37.44892 v 11.5 h -37.44892 z m 17.5917,4.934246 v 1.631547 h 2.22469 v -1.631547 z" />
+    </clipPath>
+  </defs>
+  <rect
+     style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.569955;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1352"
+     width="104.16516"
+     height="120.86694"
+     x="83.173164"
+     y="139.84306"
+     inkscape:export-filename="UNS_logo1.svg"
+     inkscape:export-xdpi="1096"
+     inkscape:export-ydpi="1096" />
+  <rect
+     style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.68735;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1352-5"
+     width="130.48938"
+     height="140.32304"
+     x="74.09153"
+     y="-18.037138"
+     inkscape:export-filename="UNS_logo2.png"
+     inkscape:export-xdpi="1096"
+     inkscape:export-ydpi="1096" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(188.58538,-35.17267)" />
+  <g
+     id="g1094-8"
+     inkscape:label="Goalposts"
+     transform="matrix(0.3240815,0,0,0.26282786,92.461677,24.530912)"
+     style="fill:#0e0e2f;fill-opacity:0.652709">
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498-5"
+       width="3.8"
+       height="15.572828"
+       x="129.57916"
+       y="62.680634"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.538904"
+       id="rect500-4"
+       width="1.5"
+       height="55.208759"
+       x="130.72916"
+       y="7.4718728" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552283"
+       id="rect498-9-8"
+       width="3.8"
+       height="15.572828"
+       x="158.52808"
+       y="62.680634"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.538632"
+       id="rect500-2-2"
+       width="1.5"
+       height="55.153145"
+       x="159.67809"
+       y="7.5274873" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke:none;stroke-width:0.490635;stroke-dasharray:none"
+       id="rect502-1"
+       width="27.448925"
+       height="1.5"
+       x="132.22916"
+       y="54.058098" />
+    <rect
+       style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.585749"
+       id="rect531-9"
+       width="2.2246897"
+       height="1.6315467"
+       x="144.82083"
+       y="53.992325" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.8769px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';opacity:1;fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+     x="121.42581"
+     y="58.818729"
+     id="text458"
+     transform="scale(0.99116171,1.0089171)"><tspan
+       sodipodi:role="line"
+       id="tspan456"
+       x="121.42581"
+       y="58.818729"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8769px;font-family:Inter;-inkscape-font-specification:'Inter Bold';opacity:1;fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1">UNS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:23.2833px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';letter-spacing:0px;fill:#ffffff;fill-opacity:0.864532;fill-rule:evenodd;stroke:#a71b16;stroke-width:0.648;stroke-dasharray:none;stroke-opacity:1"
+     x="101.18488"
+     y="211.01945"
+     id="text458-8"><tspan
+       sodipodi:role="line"
+       id="tspan456-4"
+       x="101.18488"
+       y="211.01945"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.2833px;font-family:'Anek Kannada';-inkscape-font-specification:'Anek Kannada Bold';opacity:1;fill:#ffffff;fill-opacity:0.864532;fill-rule:nonzero;stroke:#a71b16;stroke-width:0.648;stroke-dasharray:none;stroke-opacity:1">UN</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:23.2833px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';letter-spacing:0px;fill:#ffffff;fill-opacity:0.864532;fill-rule:evenodd;stroke:#a71b16;stroke-width:0.648;stroke-dasharray:none;stroke-opacity:1"
+     x="134.68225"
+     y="211.15939"
+     id="text458-8-4"><tspan
+       sodipodi:role="line"
+       id="tspan456-4-2"
+       x="134.68225"
+       y="211.15939"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.2833px;font-family:'Anek Kannada';-inkscape-font-specification:'Anek Kannada Bold';opacity:1;fill:#ffffff;fill-opacity:0.864532;fill-rule:nonzero;stroke:#a71b16;stroke-width:0.648;stroke-dasharray:none;stroke-opacity:1">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.2777px;font-family:Kodchasan;-inkscape-font-specification:'Kodchasan Medium Italic';fill:#000000;stroke-width:0.499999"
+     x="-29.350925"
+     y="-220.34131"
+     id="text343-6"
+     transform="rotate(90.118228)"><tspan
+       sodipodi:role="line"
+       id="tspan341-0"
+       x="-29.350925"
+       y="-220.34131"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Kodchasan;-inkscape-font-specification:'Kodchasan Medium';stroke-width:0.5">U</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.2777px;font-family:Kodchasan;-inkscape-font-specification:'Kodchasan Medium Italic';fill:#000000;stroke-width:0.499999"
+     x="-19.996601"
+     y="-230.57489"
+     id="text347-2"
+     transform="rotate(90.118228)"><tspan
+       sodipodi:role="line"
+       id="tspan345-4"
+       x="-19.996601"
+       y="-230.57489"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Kodchasan;-inkscape-font-specification:'Kodchasan Medium';stroke-width:0.5">N</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.26458333,0,0,0.26458333,188.58538,-35.17267)"
+     id="text440"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.333px;font-family:Kodchasan;-inkscape-font-specification:'Kodchasan Medium';white-space:pre;shape-inside:url(#rect442);display:inline;fill:#000000;stroke-width:1.88976" />
+  <g
+     id="g1094"
+     inkscape:label="Goalposts"
+     transform="matrix(1.4775757,0,0,1.2565302,-76.321283,-5.4588201)">
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498"
+       width="3.8"
+       height="15.572828"
+       x="129.57916"
+       y="62.736244"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498-1"
+       width="3.8"
+       height="15.572828"
+       x="158.52809"
+       y="62.736244"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.491013"
+       id="rect500"
+       width="1.5"
+       height="45.832268"
+       x="130.72916"
+       y="16.903976" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.491015"
+       id="rect500-2"
+       width="1.5"
+       height="45.832626"
+       x="159.6781"
+       y="16.903618" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke:none;stroke-width:0.490635;stroke-dasharray:none"
+       id="rect502"
+       width="27.448925"
+       height="1.5"
+       x="132.22916"
+       y="54.058098" />
+    <rect
+       style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.585749"
+       id="rect531"
+       width="2.2246897"
+       height="1.6315467"
+       x="144.82083"
+       y="53.992325" />
+  </g>
+  <g
+     id="g1094-8-8"
+     inkscape:label="Goalposts"
+     transform="matrix(0.3240815,0,0,0.26282786,305.14116,180.08369)"
+     style="fill:#0e0e2f;fill-opacity:0.652709">
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498-5-77"
+       width="3.8"
+       height="15.572828"
+       x="129.57916"
+       y="62.680634"
+       ry="0"
+       inkscape:export-filename="UNS_logos\UNS_watermark.png"
+       inkscape:export-xdpi="1096"
+       inkscape:export-ydpi="1096" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.538904"
+       id="rect500-4-4"
+       width="1.5"
+       height="55.208759"
+       x="130.72916"
+       y="7.4718728" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552283"
+       id="rect498-9-8-6"
+       width="3.8"
+       height="15.572828"
+       x="158.52808"
+       y="62.680634"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.538632"
+       id="rect500-2-2-2"
+       width="1.5"
+       height="55.153145"
+       x="159.67809"
+       y="7.5274873" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke:none;stroke-width:0.490635;stroke-dasharray:none"
+       id="rect502-1-71"
+       width="27.448925"
+       height="1.5"
+       x="132.22916"
+       y="54.058098"
+       clip-path="url(#clipPath663)"
+       inkscape:path-effect="#path-effect667"
+       d="m 132.22916,54.058098 h 27.44892 v 1.5 h -27.44892 z" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.8769px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+     x="336.00177"
+     y="212.99669"
+     id="text458-7"
+     transform="scale(0.99116171,1.0089171)"><tspan
+       sodipodi:role="line"
+       id="tspan456-78"
+       x="336.00177"
+       y="212.99669"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8769px;font-family:Inter;-inkscape-font-specification:'Inter Bold';opacity:1;fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1">UNS</tspan></text>
+  <g
+     id="g1094-11"
+     inkscape:label="Goalposts"
+     transform="matrix(1.4775757,0,0,1.2565302,136.35819,150.09396)">
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498-3"
+       width="3.8"
+       height="15.572828"
+       x="129.57916"
+       y="62.736244"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498-1-5"
+       width="3.8"
+       height="15.572828"
+       x="158.52809"
+       y="62.736244"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.491013"
+       id="rect500-3"
+       width="1.5"
+       height="45.832268"
+       x="130.72916"
+       y="16.903976" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.491015"
+       id="rect500-2-9"
+       width="1.5"
+       height="45.832626"
+       x="159.6781"
+       y="16.903618" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke:none;stroke-width:0.490635;stroke-dasharray:none"
+       id="rect502-5"
+       width="27.448925"
+       height="1.5"
+       x="132.22916"
+       y="54.058098"
+       clip-path="url(#clipPath651)"
+       inkscape:path-effect="#path-effect659"
+       d="m 132.22916,54.058098 h 27.44892 v 1.5 h -27.44892 z" />
+  </g>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#a71b16;stroke-width:2.15137;stroke-dasharray:none;stroke-opacity:1"
+     d="m 132.66889,139.84311 0.005,120.86684"
+     id="path8476" />
+  <path
+     style="fill:#7d2f2f;fill-opacity:1;stroke:#ddfbf6;stroke-width:2.88721;stroke-dasharray:none;stroke-opacity:1"
+     d="m 187.42196,229.99975 -36.43641,-0.002"
+     id="path8476-2-5-0-4-0-6-8-3-9" />
+  <path
+     style="fill:#7d2f2f;fill-opacity:1;stroke:#ddfbf6;stroke-width:2.37785;stroke-dasharray:none;stroke-opacity:1"
+     d="M 187.33833,177.44225 83.172917,177.44178"
+     id="path8476-2-5-0-4-0" />
+  <path
+     style="fill:#7d2f2f;fill-opacity:1;stroke:#ddfbf6;stroke-width:2.56906;stroke-dasharray:none;stroke-opacity:1"
+     d="m 114.34652,230.06919 -30.980913,-0.002"
+     id="path8476-2-5-0-4-0-6" />
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:0.86;stroke:#a71b16;stroke-width:0.520099;stroke-dasharray:none;stroke-opacity:1"
+     id="path20888"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="145.48776"
+     sodipodi:cy="194.4026"
+     sodipodi:r1="2.3546894"
+     sodipodi:r2="0.023546893"
+     sodipodi:arg1="0.51391968"
+     sodipodi:arg2="1.5611172"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 147.53828,195.56016 -4.07825,0.0395 2.00494,-3.55161 z"
+     inkscape:transform-center-x="-0.014713013"
+     inkscape:transform-center-y="-0.016824848"
+     transform="matrix(-0.01019669,1.8556721,-1.035512,-0.01827283,354.11626,-62.704482)" />
+  <rect
+     style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.949428;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1352-5-2"
+     width="290.63727"
+     height="120.20335"
+     x="248.31592"
+     y="15.781086"
+     inkscape:export-filename="UNS_logos\UNS_cover.png"
+     inkscape:export-xdpi="1096"
+     inkscape:export-ydpi="1096" />
+  <g
+     id="g1094-8-4"
+     inkscape:label="Goalposts"
+     transform="matrix(0.3240815,0,0,0.26282786,241.24201,45.777696)"
+     style="fill:#0e0e2f;fill-opacity:0.652709">
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498-5-7"
+       width="3.8"
+       height="15.572828"
+       x="129.57916"
+       y="62.680634"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.538904"
+       id="rect500-4-8"
+       width="1.5"
+       height="55.208759"
+       x="130.72916"
+       y="7.4718728" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552283"
+       id="rect498-9-8-7"
+       width="3.8"
+       height="15.572828"
+       x="158.52808"
+       y="62.680634"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.538632"
+       id="rect500-2-2-1"
+       width="1.5"
+       height="55.153145"
+       x="159.67809"
+       y="7.5274873" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke:none;stroke-width:0.490635;stroke-dasharray:none"
+       id="rect502-1-7"
+       width="27.448925"
+       height="1.5"
+       x="132.22916"
+       y="54.058098" />
+    <rect
+       style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.585749"
+       id="rect531-9-1"
+       width="2.2246897"
+       height="1.6315467"
+       x="144.82083"
+       y="53.992325" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.8769px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+     x="271.53287"
+     y="79.877731"
+     id="text458-5"
+     transform="scale(0.99116171,1.0089171)"><tspan
+       sodipodi:role="line"
+       id="tspan456-7"
+       x="271.53287"
+       y="79.877731"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8769px;font-family:Inter;-inkscape-font-specification:'Inter Bold';opacity:1;fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1">UNS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.8769px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+     x="323.25009"
+     y="68.583633"
+     id="text458-5-1"
+     transform="scale(0.99116171,1.0089171)"><tspan
+       id="tspan456-7-3"
+       x="323.25009"
+       y="68.583633"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8769px;font-family:Inter;-inkscape-font-specification:'Inter Bold';opacity:1;fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:role="line">Useless</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.8769px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+     x="335.87289"
+     y="84.401596"
+     id="text458-5-1-0"
+     transform="scale(0.99116171,1.0089171)"><tspan
+       id="tspan456-7-3-6"
+       x="335.87289"
+       y="84.401596"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8769px;font-family:Inter;-inkscape-font-specification:'Inter Bold';opacity:1;fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:role="line">NRL</tspan></text>
+  <g
+     id="g1094-1"
+     inkscape:label="Goalposts"
+     transform="matrix(1.4775757,0,0,1.2565302,72.459049,15.787961)">
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498-9"
+       width="3.8"
+       height="15.572828"
+       x="129.57916"
+       y="62.736244"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.552284"
+       id="rect498-1-8"
+       width="3.8"
+       height="15.572828"
+       x="158.52809"
+       y="62.736244"
+       ry="0" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.491013"
+       id="rect500-9"
+       width="1.5"
+       height="45.832268"
+       x="130.72916"
+       y="16.903976" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke-width:0.491015"
+       id="rect500-2-4"
+       width="1.5"
+       height="45.832626"
+       x="159.6781"
+       y="16.903618" />
+    <rect
+       style="fill:#0e0e2f;fill-opacity:0.652709;stroke:none;stroke-width:0.490635;stroke-dasharray:none"
+       id="rect502-2"
+       width="27.448925"
+       height="1.5"
+       x="132.22916"
+       y="54.058098" />
+    <rect
+       style="fill:#1ac7a8;fill-opacity:1;stroke:none;stroke-width:0.585749"
+       id="rect531-3"
+       width="2.2246897"
+       height="1.6315467"
+       x="144.82083"
+       y="53.992325" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.8769px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+     x="349.10492"
+     y="100.20686"
+     id="text458-5-1-5"
+     transform="scale(0.99116171,1.0089171)"><tspan
+       id="tspan456-7-3-7"
+       x="349.10492"
+       y="100.20686"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8769px;font-family:Inter;-inkscape-font-specification:'Inter Bold';opacity:1;fill:#10092d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806188;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:role="line">Stats</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2222px;line-height:0;font-family:'Font Awesome 5 Free Regular';-inkscape-font-specification:'Font Awesome 5 Free Regular,  Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:0.864532;fill-rule:evenodd;stroke:#a71b16;stroke-width:0.648;stroke-dasharray:none;stroke-opacity:1"
+     x="447.77625"
+     y="90.638412"
+     id="text458-8-6"><tspan
+       sodipodi:role="line"
+       id="tspan456-4-9"
+       x="447.77625"
+       y="90.638412"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:semi-condensed;font-size:28.2222px;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Semi-Bold Semi-Condensed';opacity:1;fill:#ffffff;fill-opacity:0.864532;fill-rule:nonzero;stroke:#a71b16;stroke-width:0.648;stroke-dasharray:none;stroke-opacity:1">4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.2222px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';letter-spacing:0px;fill:#ffffff;fill-opacity:0.864532;fill-rule:evenodd;stroke:#a71b16;stroke-width:0.648;stroke-dasharray:none;stroke-opacity:1"
+     x="469.47241"
+     y="90.638412"
+     id="text458-8-6-3"><tspan
+       sodipodi:role="line"
+       id="tspan456-4-9-8"
+       x="469.47241"
+       y="90.638412"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:semi-condensed;font-size:28.2222px;font-family:'Lucida Sans Typewriter';-inkscape-font-specification:'Lucida Sans Typewriter Semi-Bold Semi-Condensed';opacity:1;fill:#ffffff;fill-opacity:0.864532;fill-rule:nonzero;stroke:#a71b16;stroke-width:0.648;stroke-dasharray:none;stroke-opacity:1">0</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#a71b16;stroke-width:2.15137;stroke-dasharray:none;stroke-opacity:1"
+     d="m 466.96656,15.518796 0.005,120.866834"
+     id="path8476-1" />
+  <path
+     style="fill:#7d2f2f;fill-opacity:1;stroke:url(#linearGradient19514);stroke-width:2.56989;stroke-dasharray:none;stroke-opacity:1"
+     d="m 537.85489,106.8028 -52.07322,-0.001"
+     id="path8476-2-5-0-4-0-6-8-3-9-1" />
+  <path
+     style="fill:#7d2f2f;fill-opacity:1;stroke:url(#linearGradient19502);stroke-width:2.57051;stroke-dasharray:none;stroke-opacity:1"
+     d="M 533.33924,54.17628 417.66323,54.175786"
+     id="path8476-2-5-0-4-0-1" />
+  <path
+     style="fill:#7d2f2f;fill-opacity:1;stroke:url(#linearGradient19524);stroke-width:2.56906;stroke-dasharray:none;stroke-opacity:1"
+     d="m 448.64419,106.80321 -30.98091,-0.002"
+     id="path8476-2-5-0-4-0-6-0" />
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:0.86;stroke:#a71b16;stroke-width:0.520099;stroke-dasharray:none;stroke-opacity:1"
+     id="path20888-0"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="145.48776"
+     sodipodi:cy="194.4026"
+     sodipodi:r1="2.3546894"
+     sodipodi:r2="0.023546893"
+     sodipodi:arg1="0.51391968"
+     sodipodi:arg2="1.5611172"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 147.53828,195.56016 -4.07825,0.0395 2.00494,-3.55161 z"
+     inkscape:transform-center-x="-0.014713013"
+     inkscape:transform-center-y="-0.016824848"
+     transform="matrix(-0.01019669,1.8556721,-1.035512,-0.01827283,692.90472,-186.09817)" />
+</svg>

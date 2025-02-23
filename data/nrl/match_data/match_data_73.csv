@@ -1,0 +1,415 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1981,Round 1,"Saturday, 28th March, 1981",3:00pm (local time),4468,7,"7,815","Balmain
+TIGERS",2,12,7,"Eastern Suburbs
+ROOSTERS",9,11,18
+0,NSWRFL 1981,Round 1,"Sunday, 29th March, 1981",3:00pm (local time),4469,27,"17,501","Canterbury Bankstown
+BULLDOGS",2,2,9,"St George
+DRAGONS",10,28,10
+0,NSWRFL 1981,Round 1,"Sunday, 29th March, 1981",3:00pm (local time),4471,111,"7,928","Parramatta
+EELS",17,33,10,"Newtown
+JETS",9,9,12
+0,NSWRFL 1981,Round 1,"Sunday, 29th March, 1981",3:00pm (local time),4473,3,"5,835","Penrith
+PANTHERS",17,23,12,"Cronulla Sutherland
+SHARKS",7,12,9
+0,NSWRFL 1981,Round 1,"Sunday, 29th March, 1981",3:00pm (local time),4472,44,"6,126","South Sydney
+RABBITOHS",2,7,6,"North Sydney
+BEARS",7,22,15
+0,NSWRFL 1981,Round 1,"Sunday, 29th March, 1981",3:00pm (local time),4470,110,"9,137","Western Suburbs
+MAGPIES",2,12,11,"Manly Warringah
+SEA EAGLES",7,24,16
+0,NSWRFL 1981,Round 2,"Saturday, 4th April, 1981",3:00pm (local time),4474,76,"3,376","Newtown
+JETS",10,12,15,"Western Suburbs
+MAGPIES",7,12,16
+0,NSWRFL 1981,Round 2,"Sunday, 5th April, 1981",3:00pm (local time),4476,7,"9,254","Balmain
+TIGERS",7,12,9,"Manly Warringah
+SEA EAGLES",7,19,14
+0,NSWRFL 1981,Round 2,"Sunday, 5th April, 1981",3:00pm (local time),4477,109,"4,468","Eastern Suburbs
+ROOSTERS",15,20,11,"Penrith
+PANTHERS",7,17,13
+0,NSWRFL 1981,Round 2,"Sunday, 5th April, 1981",3:00pm (local time),4479,25,"4,215","North Sydney
+BEARS",3,6,12,"Cronulla Sutherland
+SHARKS",12,24,10
+0,NSWRFL 1981,Round 2,"Sunday, 5th April, 1981",3:00pm (local time),4478,111,"10,282","Parramatta
+EELS",11,12,10,"Canterbury Bankstown
+BULLDOGS",0,8,12
+0,NSWRFL 1981,Round 2,"Sunday, 5th April, 1981",3:00pm (local time),4475,23,"9,584","St George
+DRAGONS",12,22,7,"South Sydney
+RABBITOHS",3,13,9
+0,NSWRFL 1981,Round 3,"Saturday, 11th April, 1981",3:00pm (local time),4480,44,"6,742","South Sydney
+RABBITOHS",2,5,7,"Parramatta
+EELS",18,39,10
+0,NSWRFL 1981,Round 3,"Sunday, 12th April, 1981",3:00pm (local time),4481,27,"13,125","Canterbury Bankstown
+BULLDOGS",7,22,12,"Western Suburbs
+MAGPIES",0,3,14
+0,NSWRFL 1981,Round 3,"Sunday, 12th April, 1981",3:00pm (local time),4482,9,"10,090","Cronulla Sutherland
+SHARKS",10,24,6,"St George
+DRAGONS",15,18,11
+0,NSWRFL 1981,Round 3,"Sunday, 12th April, 1981",3:00pm (local time),4485,5,"14,245","Manly Warringah
+SEA EAGLES",10,10,12,"Eastern Suburbs
+ROOSTERS",3,16,6
+0,NSWRFL 1981,Round 3,"Sunday, 12th April, 1981",3:00pm (local time),4484,76,"6,357","Newtown
+JETS",13,21,8,"Balmain
+TIGERS",5,13,8
+0,NSWRFL 1981,Round 3,"Sunday, 12th April, 1981",3:00pm (local time),4483,3,"5,978","Penrith
+PANTHERS",10,15,12,"North Sydney
+BEARS",0,5,6
+0,NSWRFL 1981,Round 4,"Saturday, 18th April, 1981",3:00pm (local time),4486,3,"10,739","Penrith
+PANTHERS",8,28,13,"Manly Warringah
+SEA EAGLES",10,10,7
+0,NSWRFL 1981,Round 4,"Sunday, 19th April, 1981",3:00pm (local time),4488,9,"13,105","Cronulla Sutherland
+SHARKS",8,23,10,"Parramatta
+EELS",7,12,10
+0,NSWRFL 1981,Round 4,"Sunday, 19th April, 1981",3:00pm (local time),4489,109,"8,554","Eastern Suburbs
+ROOSTERS",8,27,5,"Newtown
+JETS",0,5,11
+0,NSWRFL 1981,Round 4,"Sunday, 19th April, 1981",3:00pm (local time),4487,25,"6,300","North Sydney
+BEARS",28,39,12,"St George
+DRAGONS",0,10,9
+0,NSWRFL 1981,Round 4,"Sunday, 19th April, 1981",3:00pm (local time),4490,110,"6,818","Western Suburbs
+MAGPIES",7,20,12,"South Sydney
+RABBITOHS",9,18,11
+0,NSWRFL 1981,Round 4,"Monday, 20th April, 1981",3:00pm (local time),4491,7,"13,911","Balmain
+TIGERS",7,13,7,"Canterbury Bankstown
+BULLDOGS",31,52,9
+0,NSWRFL 1981,Round 5,"Saturday, 25th April, 1981",3:00pm (local time),4492,23,"7,805","St George
+DRAGONS",13,23,10,"Penrith
+PANTHERS",7,15,9
+0,NSWRFL 1981,Round 5,"Sunday, 26th April, 1981",3:00pm (local time),4496,109,"12,976","Eastern Suburbs
+ROOSTERS",2,15,8,"Canterbury Bankstown
+BULLDOGS",5,5,6
+0,NSWRFL 1981,Round 5,"Sunday, 26th April, 1981",3:00pm (local time),4493,5,"8,428","Manly Warringah
+SEA EAGLES",0,8,10,"Newtown
+JETS",12,20,14
+0,NSWRFL 1981,Round 5,"Sunday, 26th April, 1981",3:00pm (local time),4494,111,"9,966","Parramatta
+EELS",10,13,12,"North Sydney
+BEARS",2,15,11
+0,NSWRFL 1981,Round 5,"Sunday, 26th April, 1981",3:00pm (local time),4495,44,"6,203","South Sydney
+RABBITOHS",7,27,10,"Balmain
+TIGERS",4,12,10
+0,NSWRFL 1981,Round 5,"Sunday, 26th April, 1981",3:00pm (local time),4497,110,"6,357","Western Suburbs
+MAGPIES",7,9,10,"Cronulla Sutherland
+SHARKS",7,12,12
+0,NSWRFL 1981,Round 6,"Saturday, 2nd May, 1981",3:00pm (local time),4498,25,"6,429","North Sydney
+BEARS",4,4,8,"Western Suburbs
+MAGPIES",8,19,16
+0,NSWRFL 1981,Round 6,"Sunday, 3rd May, 1981",3:00pm (local time),4501,27,"14,313","Canterbury Bankstown
+BULLDOGS",3,23,10,"Manly Warringah
+SEA EAGLES",7,12,15
+0,NSWRFL 1981,Round 6,"Sunday, 3rd May, 1981",3:00pm (local time),4502,9,"8,052","Cronulla Sutherland
+SHARKS",17,19,16,"Balmain
+TIGERS",3,13,13
+0,NSWRFL 1981,Round 6,"Sunday, 3rd May, 1981",3:00pm (local time),4499,76,"4,661","Newtown
+JETS",12,24,10,"Penrith
+PANTHERS",3,6,11
+0,NSWRFL 1981,Round 6,"Sunday, 3rd May, 1981",3:00pm (local time),4500,111,"15,271","Parramatta
+EELS",17,25,5,"St George
+DRAGONS",13,16,12
+0,NSWRFL 1981,Round 6,"Sunday, 3rd May, 1981",3:00pm (local time),4503,44,"10,307","South Sydney
+RABBITOHS",8,11,17,"Eastern Suburbs
+ROOSTERS",3,6,3
+0,NSWRFL 1981,Round 7,"Saturday, 9th May, 1981",3:00pm (local time),4504,9,"10,161","Cronulla Sutherland
+SHARKS",4,12,5,"Eastern Suburbs
+ROOSTERS",16,21,13
+0,NSWRFL 1981,Round 7,"Sunday, 10th May, 1981",3:00pm (local time),4507,7,"6,092","Balmain
+TIGERS",13,20,10,"North Sydney
+BEARS",8,15,13
+0,NSWRFL 1981,Round 7,"Sunday, 10th May, 1981",3:00pm (local time),4508,27,"12,157","Canterbury Bankstown
+BULLDOGS",9,14,4,"Newtown
+JETS",9,24,11
+0,NSWRFL 1981,Round 7,"Sunday, 10th May, 1981",3:00pm (local time),4505,5,"9,071","Manly Warringah
+SEA EAGLES",12,21,12,"South Sydney
+RABBITOHS",10,13,6
+0,NSWRFL 1981,Round 7,"Sunday, 10th May, 1981",3:00pm (local time),4509,3,"14,736","Penrith
+PANTHERS",10,10,14,"Parramatta
+EELS",5,13,11
+0,NSWRFL 1981,Round 7,"Sunday, 10th May, 1981",3:00pm (local time),4506,23,"10,097","St George
+DRAGONS",5,12,12,"Western Suburbs
+MAGPIES",4,16,12
+0,NSWRFL 1981,Round 8,"Sunday, 17th May, 1981",3:00pm (local time),4511,109,"6,766","Eastern Suburbs
+ROOSTERS",8,18,12,"North Sydney
+BEARS",17,17,8
+0,NSWRFL 1981,Round 8,"Sunday, 17th May, 1981",3:00pm (local time),4515,5,"10,181","Manly Warringah
+SEA EAGLES",10,20,13,"Cronulla Sutherland
+SHARKS",5,15,6
+0,NSWRFL 1981,Round 8,"Sunday, 17th May, 1981",3:00pm (local time),4510,76,"7,877","Newtown
+JETS",18,30,8,"South Sydney
+RABBITOHS",9,14,11
+0,NSWRFL 1981,Round 8,"Sunday, 17th May, 1981",3:00pm (local time),4514,3,"11,491","Penrith
+PANTHERS",15,28,14,"Canterbury Bankstown
+BULLDOGS",10,18,14
+0,NSWRFL 1981,Round 8,"Sunday, 17th May, 1981",3:00pm (local time),4513,23,"9,745","St George
+DRAGONS",5,17,13,"Balmain
+TIGERS",12,14,9
+0,NSWRFL 1981,Round 8,"Sunday, 17th May, 1981",3:00pm (local time),4512,110,"13,096","Western Suburbs
+MAGPIES",10,13,9,"Parramatta
+EELS",2,7,8
+0,NSWRFL 1981,Round 9,"Saturday, 23rd May, 1981",3:00pm (local time),4516,110,"2,956","Western Suburbs
+MAGPIES",5,8,12,"Penrith
+PANTHERS",2,7,12
+0,NSWRFL 1981,Round 9,"Sunday, 24th May, 1981",3:00pm (local time),4517,25,"6,131","North Sydney
+BEARS",10,23,10,"Manly Warringah
+SEA EAGLES",2,4,7
+0,NSWRFL 1981,Round 9,"Sunday, 24th May, 1981",3:00pm (local time),4518,111,"7,878","Parramatta
+EELS",13,26,8,"Balmain
+TIGERS",2,7,6
+0,NSWRFL 1981,Round 10,"Saturday, 30th May, 1981",3:00pm (local time),4522,76,"6,052","Newtown
+JETS",8,9,7,"North Sydney
+BEARS",0,11,7
+0,NSWRFL 1981,Round 10,"Sunday, 31st May, 1981",3:00pm (local time),4524,7,"5,353","Balmain
+TIGERS",4,7,8,"Western Suburbs
+MAGPIES",7,14,17
+0,NSWRFL 1981,Round 10,"Sunday, 31st May, 1981",3:00pm (local time),4525,27,"8,086","Canterbury Bankstown
+BULLDOGS",9,12,10,"Cronulla Sutherland
+SHARKS",9,19,17
+0,NSWRFL 1981,Round 10,"Sunday, 31st May, 1981",3:00pm (local time),4527,111,"8,193","Parramatta
+EELS",5,7,12,"Eastern Suburbs
+ROOSTERS",10,15,10
+0,NSWRFL 1981,Round 10,"Sunday, 31st May, 1981",3:00pm (local time),4523,3,"4,992","Penrith
+PANTHERS",8,22,9,"South Sydney
+RABBITOHS",3,3,10
+0,NSWRFL 1981,Round 10,"Sunday, 31st May, 1981",3:00pm (local time),4526,23,"6,239","St George
+DRAGONS",11,22,9,"Manly Warringah
+SEA EAGLES",4,4,15
+0,NSWRFL 1981,Round 11,"Saturday, 6th June, 1981",3:00pm (local time),4528,76,"4,803","Newtown
+JETS",2,20,6,"St George
+DRAGONS",3,3,12
+0,NSWRFL 1981,Round 11,"Sunday, 7th June, 1981",3:00pm (local time),4530,7,"5,824","Balmain
+TIGERS",6,19,10,"Penrith
+PANTHERS",9,12,11
+0,NSWRFL 1981,Round 11,"Sunday, 7th June, 1981",3:00pm (local time),4531,9,"6,499","Cronulla Sutherland
+SHARKS",4,15,9,"South Sydney
+RABBITOHS",5,15,9
+0,NSWRFL 1981,Round 11,"Sunday, 7th June, 1981",3:00pm (local time),4532,109,"11,678","Eastern Suburbs
+ROOSTERS",6,22,4,"Western Suburbs
+MAGPIES",8,18,10
+0,NSWRFL 1981,Round 11,"Sunday, 7th June, 1981",3:00pm (local time),4529,5,"10,099","Manly Warringah
+SEA EAGLES",15,22,11,"Parramatta
+EELS",0,8,12
+0,NSWRFL 1981,Round 11,"Monday, 8th June, 1981",3:00pm (local time),4533,25,"10,106","North Sydney
+BEARS",5,5,10,"Canterbury Bankstown
+BULLDOGS",6,16,12
+0,NSWRFL 1981,Round 9,"Saturday, 13th June, 1981",3:00pm (local time),4519,109,"11,109","Eastern Suburbs
+ROOSTERS",7,20,18,"St George
+DRAGONS",2,2,11
+0,NSWRFL 1981,Round 9,"Sunday, 14th June, 1981",3:00pm (local time),4520,9,"8,509","Cronulla Sutherland
+SHARKS",3,6,11,"Newtown
+JETS",2,12,13
+0,NSWRFL 1981,Round 9,"Sunday, 14th June, 1981",3:00pm (local time),4521,44,"9,235","South Sydney
+RABBITOHS",6,11,10,"Canterbury Bankstown
+BULLDOGS",8,8,13
+0,NSWRFL 1981,Round 12,"Saturday, 20th June, 1981",3:00pm (local time),4534,76,"5,906","Newtown
+JETS",8,14,15,"Parramatta
+EELS",2,9,12
+0,NSWRFL 1981,Round 12,"Sunday, 21st June, 1981",3:00pm (local time),4537,9,"4,488","Cronulla Sutherland
+SHARKS",8,19,10,"Penrith
+PANTHERS",10,10,12
+0,NSWRFL 1981,Round 12,"Sunday, 21st June, 1981",3:00pm (local time),4538,109,"6,663","Eastern Suburbs
+ROOSTERS",0,7,15,"Balmain
+TIGERS",6,6,10
+0,NSWRFL 1981,Round 12,"Sunday, 21st June, 1981",3:00pm (local time),4535,5,"11,021","Manly Warringah
+SEA EAGLES",12,30,15,"Western Suburbs
+MAGPIES",2,2,12
+0,NSWRFL 1981,Round 12,"Sunday, 21st June, 1981",3:00pm (local time),4536,25,"4,269","North Sydney
+BEARS",10,13,8,"South Sydney
+RABBITOHS",5,8,9
+0,NSWRFL 1981,Round 12,"Sunday, 21st June, 1981",3:00pm (local time),4539,23,"11,126","St George
+DRAGONS",8,18,10,"Canterbury Bankstown
+BULLDOGS",10,12,12
+0,NSWRFL 1981,Round 13,"Saturday, 27th June, 1981",3:00pm (local time),4540,44,"8,156","South Sydney
+RABBITOHS",19,34,12,"St George
+DRAGONS",12,17,12
+0,NSWRFL 1981,Round 13,"Sunday, 28th June, 1981",3:00pm (local time),4541,27,"13,250","Canterbury Bankstown
+BULLDOGS",4,4,7,"Parramatta
+EELS",9,18,15
+0,NSWRFL 1981,Round 13,"Sunday, 28th June, 1981",3:00pm (local time),4542,9,"6,709","Cronulla Sutherland
+SHARKS",5,17,7,"North Sydney
+BEARS",10,16,15
+0,NSWRFL 1981,Round 13,"Sunday, 28th June, 1981",3:00pm (local time),4544,5,"13,096","Manly Warringah
+SEA EAGLES",7,14,15,"Balmain
+TIGERS",7,7,12
+0,NSWRFL 1981,Round 13,"Sunday, 28th June, 1981",3:00pm (local time),4545,3,"11,697","Penrith
+PANTHERS",0,8,8,"Eastern Suburbs
+ROOSTERS",17,22,6
+0,NSWRFL 1981,Round 13,"Sunday, 28th June, 1981",3:00pm (local time),4543,110,"8,543","Western Suburbs
+MAGPIES",8,23,13,"Newtown
+JETS",0,7,11
+0,NSWRFL 1981,Round 14,"Sunday, 5th July, 1981",3:00pm (local time),4548,7,"6,518","Balmain
+TIGERS",0,11,7,"Newtown
+JETS",5,12,17
+0,NSWRFL 1981,Round 14,"Sunday, 5th July, 1981",3:00pm (local time),4549,109,"13,894","Eastern Suburbs
+ROOSTERS",2,17,15,"Manly Warringah
+SEA EAGLES",5,7,11
+0,NSWRFL 1981,Round 14,"Sunday, 5th July, 1981",3:00pm (local time),4546,25,"3,232","North Sydney
+BEARS",8,31,12,"Penrith
+PANTHERS",5,10,11
+0,NSWRFL 1981,Round 14,"Sunday, 5th July, 1981",3:00pm (local time),4547,111,"10,129","Parramatta
+EELS",7,27,16,"South Sydney
+RABBITOHS",16,16,7
+0,NSWRFL 1981,Round 14,"Sunday, 5th July, 1981",3:00pm (local time),4551,23,"10,047","St George
+DRAGONS",3,8,11,"Cronulla Sutherland
+SHARKS",13,28,12
+0,NSWRFL 1981,Round 14,"Sunday, 5th July, 1981",3:00pm (local time),4550,110,"7,580","Western Suburbs
+MAGPIES",10,22,13,"Canterbury Bankstown
+BULLDOGS",2,5,16
+0,NSWRFL 1981,Round 15,"Saturday, 11th July, 1981",3:00pm (local time),4552,76,"7,221","Newtown
+JETS",2,18,9,"Eastern Suburbs
+ROOSTERS",3,8,9
+0,NSWRFL 1981,Round 15,"Sunday, 12th July, 1981",3:00pm (local time),4556,27,"9,035","Canterbury Bankstown
+BULLDOGS",10,18,13,"Balmain
+TIGERS",2,7,11
+0,NSWRFL 1981,Round 15,"Sunday, 12th July, 1981",3:00pm (local time),4553,5,"8,142","Manly Warringah
+SEA EAGLES",0,5,9,"Penrith
+PANTHERS",5,11,15
+0,NSWRFL 1981,Round 15,"Sunday, 12th July, 1981",3:00pm (local time),4557,111,"10,766","Parramatta
+EELS",15,20,16,"Cronulla Sutherland
+SHARKS",2,5,12
+0,NSWRFL 1981,Round 15,"Sunday, 12th July, 1981",3:00pm (local time),4555,23,"6,501","St George
+DRAGONS",8,19,19,"North Sydney
+BEARS",2,12,14
+0,NSWRFL 1981,Round 15,"Sunday, 12th July, 1981",3:00pm (local time),4554,44,"8,652","South Sydney
+RABBITOHS",5,23,8,"Western Suburbs
+MAGPIES",15,17,14
+0,NSWRFL 1981,Round 16,"Saturday, 18th July, 1981",3:00pm (local time),4558,3,"8,043","Penrith
+PANTHERS",17,22,12,"St George
+DRAGONS",7,7,13
+0,NSWRFL 1981,Round 16,"Sunday, 19th July, 1981",3:00pm (local time),4560,7,"7,430","Balmain
+TIGERS",5,13,8,"South Sydney
+RABBITOHS",10,10,15
+0,NSWRFL 1981,Round 16,"Sunday, 19th July, 1981",3:00pm (local time),4561,27,"12,035","Canterbury Bankstown
+BULLDOGS",2,2,12,"Eastern Suburbs
+ROOSTERS",10,35,11
+0,NSWRFL 1981,Round 16,"Sunday, 19th July, 1981",3:00pm (local time),4562,9,"9,623","Cronulla Sutherland
+SHARKS",6,16,8,"Western Suburbs
+MAGPIES",7,15,17
+0,NSWRFL 1981,Round 16,"Sunday, 19th July, 1981",3:00pm (local time),4563,76,"7,786","Newtown
+JETS",10,10,9,"Manly Warringah
+SEA EAGLES",0,10,12
+0,NSWRFL 1981,Round 16,"Sunday, 19th July, 1981",3:00pm (local time),4559,25,"7,577","North Sydney
+BEARS",5,5,7,"Parramatta
+EELS",16,19,7
+0,NSWRFL 1981,Round 17,"Saturday, 25th July, 1981",3:00pm (local time),4564,109,"8,317","Eastern Suburbs
+ROOSTERS",7,15,7,"South Sydney
+RABBITOHS",13,20,11
+0,NSWRFL 1981,Round 17,"Sunday, 26th July, 1981",3:00pm (local time),4565,7,"5,282","Balmain
+TIGERS",7,19,14,"Cronulla Sutherland
+SHARKS",12,22,12
+0,NSWRFL 1981,Round 17,"Sunday, 26th July, 1981",3:00pm (local time),4569,5,"8,727","Manly Warringah
+SEA EAGLES",10,22,12,"Canterbury Bankstown
+BULLDOGS",10,15,6
+0,NSWRFL 1981,Round 17,"Sunday, 26th July, 1981",3:00pm (local time),4566,3,"9,053","Penrith
+PANTHERS",3,8,16,"Newtown
+JETS",3,18,10
+0,NSWRFL 1981,Round 17,"Sunday, 26th July, 1981",3:00pm (local time),4568,23,"11,201","St George
+DRAGONS",2,2,18,"Parramatta
+EELS",7,14,20
+0,NSWRFL 1981,Round 17,"Sunday, 26th July, 1981",3:00pm (local time),4567,110,"6,854","Western Suburbs
+MAGPIES",15,28,10,"North Sydney
+BEARS",7,15,11
+0,NSWRFL 1981,Round 18,"Saturday, 1st August, 1981",3:00pm (local time),4570,44,"7,294","South Sydney
+RABBITOHS",7,10,6,"Manly Warringah
+SEA EAGLES",5,21,9
+0,NSWRFL 1981,Round 18,"Sunday, 2nd August, 1981",3:00pm (local time),4575,109,"9,776","Eastern Suburbs
+ROOSTERS",3,8,6,"Cronulla Sutherland
+SHARKS",10,10,10
+0,NSWRFL 1981,Round 18,"Sunday, 2nd August, 1981",3:00pm (local time),4574,76,"5,941","Newtown
+JETS",3,3,10,"Canterbury Bankstown
+BULLDOGS",10,18,12
+0,NSWRFL 1981,Round 18,"Sunday, 2nd August, 1981",3:00pm (local time),4573,25,"3,386","North Sydney
+BEARS",9,25,8,"Balmain
+TIGERS",10,15,17
+0,NSWRFL 1981,Round 18,"Sunday, 2nd August, 1981",3:00pm (local time),4571,111,"9,682","Parramatta
+EELS",11,22,8,"Penrith
+PANTHERS",5,5,12
+0,NSWRFL 1981,Round 18,"Sunday, 2nd August, 1981",3:00pm (local time),4572,110,"7,197","Western Suburbs
+MAGPIES",3,8,13,"St George
+DRAGONS",7,25,11
+0,NSWRFL 1981,Round 19,"Saturday, 8th August, 1981",3:00pm (local time),4576,25,"4,905","North Sydney
+BEARS",0,5,11,"Eastern Suburbs
+ROOSTERS",15,25,12
+0,NSWRFL 1981,Round 19,"Sunday, 9th August, 1981",3:00pm (local time),4578,7,"5,248","Balmain
+TIGERS",16,24,7,"St George
+DRAGONS",17,24,16
+0,NSWRFL 1981,Round 19,"Sunday, 9th August, 1981",3:00pm (local time),4579,27,"6,675","Canterbury Bankstown
+BULLDOGS",10,12,10,"Penrith
+PANTHERS",2,16,11
+0,NSWRFL 1981,Round 19,"Sunday, 9th August, 1981",3:00pm (local time),4580,9,"10,083","Cronulla Sutherland
+SHARKS",7,12,11,"Manly Warringah
+SEA EAGLES",8,21,10
+0,NSWRFL 1981,Round 19,"Sunday, 9th August, 1981",3:00pm (local time),4577,111,"16,083","Parramatta
+EELS",23,32,12,"Western Suburbs
+MAGPIES",0,5,15
+0,NSWRFL 1981,Round 19,"Sunday, 9th August, 1981",3:00pm (local time),4581,44,"5,378","South Sydney
+RABBITOHS",8,13,11,"Newtown
+JETS",5,10,11
+0,NSWRFL 1981,Round 20,"Saturday, 15th August, 1981",3:00pm (local time),4582,23,"7,811","St George
+DRAGONS",0,5,8,"Eastern Suburbs
+ROOSTERS",10,17,10
+0,NSWRFL 1981,Round 20,"Sunday, 16th August, 1981",3:00pm (local time),4585,7,"9,077","Balmain
+TIGERS",5,7,9,"Parramatta
+EELS",5,16,12
+0,NSWRFL 1981,Round 20,"Sunday, 16th August, 1981",3:00pm (local time),4586,27,"9,140","Canterbury Bankstown
+BULLDOGS",15,37,8,"South Sydney
+RABBITOHS",2,11,12
+0,NSWRFL 1981,Round 20,"Sunday, 16th August, 1981",3:00pm (local time),4583,5,"12,111","Manly Warringah
+SEA EAGLES",15,30,10,"North Sydney
+BEARS",4,10,9
+0,NSWRFL 1981,Round 20,"Sunday, 16th August, 1981",3:00pm (local time),4587,76,"6,499","Newtown
+JETS",5,14,10,"Cronulla Sutherland
+SHARKS",0,0,11
+0,NSWRFL 1981,Round 20,"Sunday, 16th August, 1981",3:00pm (local time),4584,3,"8,732","Penrith
+PANTHERS",7,15,7,"Western Suburbs
+MAGPIES",5,17,9
+0,NSWRFL 1981,Round 21,"Saturday, 22nd August, 1981",3:00pm (local time),4588,9,"5,514","Cronulla Sutherland
+SHARKS",4,4,11,"Canterbury Bankstown
+BULLDOGS",2,22,10
+0,NSWRFL 1981,Round 21,"Sunday, 23rd August, 1981",3:00pm (local time),4593,24,"30,633","Eastern Suburbs
+ROOSTERS",17,20,11,"Parramatta
+EELS",3,6,6
+0,NSWRFL 1981,Round 21,"Sunday, 23rd August, 1981",3:00pm (local time),4589,5,"12,678","Manly Warringah
+SEA EAGLES",8,16,10,"St George
+DRAGONS",5,11,14
+0,NSWRFL 1981,Round 21,"Sunday, 23rd August, 1981",3:00pm (local time),4590,25,"4,216","North Sydney
+BEARS",8,10,7,"Newtown
+JETS",7,14,20
+0,NSWRFL 1981,Round 21,"Sunday, 23rd August, 1981",3:00pm (local time),4591,44,"4,211","South Sydney
+RABBITOHS",10,17,10,"Penrith
+PANTHERS",7,11,14
+0,NSWRFL 1981,Round 21,"Sunday, 23rd August, 1981",3:00pm (local time),4592,110,"5,215","Western Suburbs
+MAGPIES",5,8,12,"Balmain
+TIGERS",7,17,11
+0,NSWRFL 1981,Round 22,"Saturday, 29th August, 1981",3:00pm (local time),4594,110,"5,057","Western Suburbs
+MAGPIES",13,22,11,"Eastern Suburbs
+ROOSTERS",12,20,14
+0,NSWRFL 1981,Round 22,"Sunday, 30th August, 1981",3:00pm (local time),4595,27,"7,145","Canterbury Bankstown
+BULLDOGS",10,15,6,"North Sydney
+BEARS",5,18,9
+0,NSWRFL 1981,Round 22,"Sunday, 30th August, 1981",3:00pm (local time),4596,111,"18,449","Parramatta
+EELS",17,20,7,"Manly Warringah
+SEA EAGLES",10,20,4
+0,NSWRFL 1981,Round 22,"Sunday, 30th August, 1981",3:00pm (local time),4598,3,"6,338","Penrith
+PANTHERS",5,6,9,"Balmain
+TIGERS",5,25,10
+0,NSWRFL 1981,Round 22,"Sunday, 30th August, 1981",3:00pm (local time),4597,23,"5,306","St George
+DRAGONS",3,11,12,"Newtown
+JETS",10,20,8
+0,NSWRFL 1981,Round 22,"Sunday, 30th August, 1981",3:00pm (local time),4599,44,"5,647","South Sydney
+RABBITOHS",8,23,8,"Cronulla Sutherland
+SHARKS",15,25,10
+0,NSWRFL 1981,Major Prelim Semi,"Saturday, 5th September, 1981",3:00pm (local time),4600,24,"17,265","Parramatta
+EELS",5,10,7,"Newtown
+JETS",5,8,5
+0,NSWRFL 1981,Minor Prelim Semi,"Sunday, 6th September, 1981",3:00pm (local time),4601,24,"21,635","Manly Warringah
+SEA EAGLES",5,14,13,"Cronulla Sutherland
+SHARKS",2,11,10
+0,NSWRFL 1981,Major Semi,"Saturday, 12th September, 1981",3:00pm (local time),4602,24,"27,600","Parramatta
+EELS",0,12,13,"Eastern Suburbs
+ROOSTERS",0,8,16
+0,NSWRFL 1981,Minor Semi,"Sunday, 13th September, 1981",3:00pm (local time),4603,24,"22,440","Newtown
+JETS",13,20,7,"Manly Warringah
+SEA EAGLES",0,15,9
+0,NSWRFL 1981,Prelim Final,"Saturday, 19th September, 1981",3:00pm (local time),4604,24,"25,243","Newtown
+JETS",5,15,8,"Eastern Suburbs
+ROOSTERS",5,5,11
+0,NSWRFL 1981,Grand Final,"Sunday, 27th September, 1981",3:00pm (local time),4605,24,"57,333","Parramatta
+EELS",7,20,7,"Newtown
+JETS",6,11,8

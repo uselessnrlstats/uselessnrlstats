@@ -1,0 +1,138 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1922,Round 1,"Saturday, 29th April, 1922",3:15pm (local time),8919,24,"6,000","Balmain
+TIGERS",3,8,,GLEBE,5,15,
+0,NSWRFL 1922,Round 1,"Saturday, 29th April, 1922",3:15pm (local time),8920,109,"2,000",EASTERN SUBURBS,12,20,,"St George
+DRAGONS",0,3,
+0,NSWRFL 1922,Round 1,"Saturday, 29th April, 1922",3:15pm (local time),8921,25,"5,000",NORTH SYDNEY,7,17,,NEWTOWN,5,10,
+0,NSWRFL 1922,Round 1,"Saturday, 29th April, 1922",3:15pm (local time),8922,112,"3,000","Western Suburbs
+MAGPIES",12,12,,"South Sydney
+RABBITOHS",10,20,
+0,NSWRFL 1922,Round 2,"Saturday, 6th May, 1922",3:15pm (local time),8925,150,"2,500","Balmain
+TIGERS",2,4,,EASTERN SUBURBS,2,4,
+0,NSWRFL 1922,Round 2,"Saturday, 6th May, 1922",3:15pm (local time),8923,109,"15,000",GLEBE,6,6,,NORTH SYDNEY,5,17,
+0,NSWRFL 1922,Round 2,"Saturday, 6th May, 1922",3:15pm (local time),8924,24,"2,000",NEWTOWN,0,8,,UNIVERSITY,7,11,
+0,NSWRFL 1922,Round 2,"Saturday, 6th May, 1922",3:15pm (local time),8926,157,"4,000","South Sydney
+RABBITOHS",11,22,,"St George
+DRAGONS",7,7,
+0,NSWRFL 1922,Round 3,"Saturday, 13th May, 1922",3:15pm (local time),8927,109,"1,000",GLEBE,3,8,,UNIVERSITY,0,0,
+0,NSWRFL 1922,Round 3,"Saturday, 13th May, 1922",3:15pm (local time),8928,112,,NEWTOWN,2,10,,"Western Suburbs
+MAGPIES",0,3,
+0,NSWRFL 1922,Round 3,"Saturday, 13th May, 1922",3:15pm (local time),8929,25,"6,000",NORTH SYDNEY,0,0,,"Balmain
+TIGERS",4,6,
+0,NSWRFL 1922,Round 3,"Saturday, 13th May, 1922",3:15pm (local time),8930,24,"10,000","South Sydney
+RABBITOHS",8,8,,EASTERN SUBURBS,2,8,
+0,NSWRFL 1922,Round 4,"Saturday, 20th May, 1922",3:15pm (local time),8932,24,"2,000","Balmain
+TIGERS",2,13,,UNIVERSITY,0,0,
+0,NSWRFL 1922,Round 4,"Saturday, 20th May, 1922",3:15pm (local time),8933,109,"20,000",EASTERN SUBURBS,5,5,,NORTH SYDNEY,5,18,
+0,NSWRFL 1922,Round 4,"Saturday, 20th May, 1922",3:15pm (local time),8931,158,"3,500",NEWTOWN,13,18,,"St George
+DRAGONS",10,10,
+0,NSWRFL 1922,Round 4,"Saturday, 20th May, 1922",3:15pm (local time),8934,112,"2,000","Western Suburbs
+MAGPIES",5,5,,GLEBE,8,23,
+0,NSWRFL 1922,Round 5,"Saturday, 27th May, 1922",3:15pm (local time),8937,150,"2,000","Balmain
+TIGERS",4,12,,"Western Suburbs
+MAGPIES",3,3,
+0,NSWRFL 1922,Round 5,"Saturday, 27th May, 1922",3:15pm (local time),8935,109,"5,000",GLEBE,8,41,,"St George
+DRAGONS",0,0,
+0,NSWRFL 1922,Round 5,"Saturday, 27th May, 1922",3:15pm (local time),8936,25,"5,000",NORTH SYDNEY,13,21,,UNIVERSITY,2,8,
+0,NSWRFL 1922,Round 5,"Saturday, 27th May, 1922",3:15pm (local time),8938,24,"15,000","South Sydney
+RABBITOHS",8,11,,NEWTOWN,7,12,
+0,NSWRFL 1922,Round 6,"Saturday, 10th June, 1922",3:15pm (local time),8940,24,"2,000",EASTERN SUBURBS,0,10,,UNIVERSITY,8,18,
+0,NSWRFL 1922,Round 6,"Saturday, 10th June, 1922",3:15pm (local time),8939,109,"16,000",GLEBE,15,24,,"South Sydney
+RABBITOHS",2,7,
+0,NSWRFL 1922,Round 6,"Saturday, 10th June, 1922",3:15pm (local time),8942,150,"1,500","St George
+DRAGONS",0,5,,"Balmain
+TIGERS",10,19,
+0,NSWRFL 1922,Round 6,"Saturday, 10th June, 1922",3:15pm (local time),8941,112,"4,000","Western Suburbs
+MAGPIES",7,7,,NORTH SYDNEY,16,36,
+0,NSWRFL 1922,Round 7,"Saturday, 17th June, 1922",3:15pm (local time),8944,24,"7,000","Balmain
+TIGERS",2,6,,"South Sydney
+RABBITOHS",5,5,
+0,NSWRFL 1922,Round 7,"Saturday, 17th June, 1922",3:15pm (local time),8945,109,"5,000",EASTERN SUBURBS,10,18,,NEWTOWN,8,10,
+0,NSWRFL 1922,Round 7,"Saturday, 17th June, 1922",3:15pm (local time),8943,25,"3,000",NORTH SYDNEY,26,41,,"St George
+DRAGONS",0,8,
+0,NSWRFL 1922,Round 7,"Saturday, 17th June, 1922",3:15pm (local time),8946,112,,"Western Suburbs
+MAGPIES",15,39,,UNIVERSITY,0,5,
+0,NSWRFL 1922,Round 8,"Saturday, 24th June, 1922",3:15pm (local time),8949,112,"1,500",EASTERN SUBURBS,3,6,,"Western Suburbs
+MAGPIES",0,2,
+0,NSWRFL 1922,Round 8,"Saturday, 24th June, 1922",3:15pm (local time),8947,109,"2,000",GLEBE,6,13,,NEWTOWN,2,9,
+0,NSWRFL 1922,Round 8,"Saturday, 24th June, 1922",3:15pm (local time),8948,157,"2,000","St George
+DRAGONS",22,45,,UNIVERSITY,2,2,
+0,NSWRFL 1922,Round 8,"Saturday, 24th June, 1922",3:15pm (local time),8950,24,"10,000","South Sydney
+RABBITOHS",3,6,,NORTH SYDNEY,10,28,
+0,NSWRFL 1922,Round 9,"Saturday, 1st July, 1922",,56446,44,,"South Sydney
+RABBITOHS",,,,UNIVERSITY,,,
+0,NSWRFL 1922,Round 9,"Saturday, 1st July, 1922",3:15pm (local time),8951,24,"10,000",EASTERN SUBURBS,5,21,,GLEBE,3,5,
+0,NSWRFL 1922,Round 9,"Saturday, 1st July, 1922",3:15pm (local time),8953,109,"2,000",NEWTOWN,2,10,,"Balmain
+TIGERS",3,11,
+0,NSWRFL 1922,Round 9,"Saturday, 1st July, 1922",3:15pm (local time),8952,112,"2,000","Western Suburbs
+MAGPIES",8,13,,"St George
+DRAGONS",3,3,
+0,NSWRFL 1922,Round 10,"Saturday, 8th July, 1922",3:15pm (local time),8956,109,"12,000",GLEBE,17,22,,"Balmain
+TIGERS",7,12,
+0,NSWRFL 1922,Round 10,"Saturday, 8th July, 1922",3:15pm (local time),8954,25,"6,000",NEWTOWN,7,7,,NORTH SYDNEY,13,20,
+0,NSWRFL 1922,Round 10,"Saturday, 8th July, 1922",3:15pm (local time),8957,163,,"St George
+DRAGONS",7,7,,EASTERN SUBURBS,5,12,
+0,NSWRFL 1922,Round 10,"Saturday, 8th July, 1922",3:15pm (local time),8955,24,"2,000","South Sydney
+RABBITOHS",12,12,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1922,Round 11,"Saturday, 15th July, 1922",3:15pm (local time),8961,150,"1,500",EASTERN SUBURBS,7,12,,"Balmain
+TIGERS",7,17,
+0,NSWRFL 1922,Round 11,"Saturday, 15th July, 1922",3:15pm (local time),8958,109,500,NEWTOWN,3,18,,UNIVERSITY,8,10,
+0,NSWRFL 1922,Round 11,"Saturday, 15th July, 1922",3:15pm (local time),8960,24,"20,000",NORTH SYDNEY,11,16,,GLEBE,10,15,
+0,NSWRFL 1922,Round 11,"Saturday, 15th July, 1922",3:15pm (local time),8959,157,,"St George
+DRAGONS",9,9,,"South Sydney
+RABBITOHS",12,25,
+0,NSWRFL 1922,Round 12,"Saturday, 22nd July, 1922",3:15pm (local time),8963,109,"20,000","Balmain
+TIGERS",0,7,,NORTH SYDNEY,0,8,
+0,NSWRFL 1922,Round 12,"Saturday, 22nd July, 1922",3:15pm (local time),8964,24,"3,000",EASTERN SUBURBS,8,16,,"South Sydney
+RABBITOHS",13,18,
+0,NSWRFL 1922,Round 12,"Saturday, 22nd July, 1922",3:15pm (local time),8962,150,200,GLEBE,6,34,,UNIVERSITY,5,7,
+0,NSWRFL 1922,Round 12,"Saturday, 22nd July, 1922",3:15pm (local time),8965,112,"2,000","Western Suburbs
+MAGPIES",10,15,,NEWTOWN,3,8,
+0,NSWRFL 1922,Round 13,"Saturday, 29th July, 1922",3:15pm (local time),8967,150,"2,000","Balmain
+TIGERS",9,14,,UNIVERSITY,9,24,
+0,NSWRFL 1922,Round 13,"Saturday, 29th July, 1922",3:15pm (local time),8966,112,"2,000",GLEBE,6,11,,"Western Suburbs
+MAGPIES",5,8,
+0,NSWRFL 1922,Round 13,"Saturday, 29th July, 1922",3:15pm (local time),8969,24,"12,000",NORTH SYDNEY,10,16,,EASTERN SUBURBS,8,23,
+0,NSWRFL 1922,Round 13,"Saturday, 29th July, 1922",3:15pm (local time),8968,109,500,"St George
+DRAGONS",0,0,,NEWTOWN,6,16,
+0,NSWRFL 1922,Round 14,"Saturday, 5th August, 1922",3:15pm (local time),8970,24,"4,000",NEWTOWN,2,5,,"South Sydney
+RABBITOHS",9,14,
+0,NSWRFL 1922,Round 14,"Saturday, 5th August, 1922",3:15pm (local time),8971,109,"15,000",NORTH SYDNEY,3,6,,UNIVERSITY,0,7,
+0,NSWRFL 1922,Round 14,"Saturday, 5th August, 1922",3:15pm (local time),8972,150,500,"St George
+DRAGONS",0,5,,GLEBE,3,14,
+0,NSWRFL 1922,Round 14,"Saturday, 5th August, 1922",3:15pm (local time),8973,112,"3,000","Western Suburbs
+MAGPIES",3,5,,"Balmain
+TIGERS",0,3,
+0,NSWRFL 1922,Round 15,"Saturday, 12th August, 1922",3:15pm (local time),8975,150,"1,000","Balmain
+TIGERS",10,15,,"St George
+DRAGONS",7,7,
+0,NSWRFL 1922,Round 15,"Saturday, 12th August, 1922",3:15pm (local time),8976,109,"6,000",EASTERN SUBURBS,3,16,,UNIVERSITY,10,15,
+0,NSWRFL 1922,Round 15,"Saturday, 12th August, 1922",3:15pm (local time),8974,25,"5,000",NORTH SYDNEY,5,7,,"Western Suburbs
+MAGPIES",2,8,
+0,NSWRFL 1922,Round 15,"Saturday, 12th August, 1922",3:15pm (local time),8977,24,"15,000","South Sydney
+RABBITOHS",5,15,,GLEBE,7,10,
+0,NSWRFL 1922,Round 16,"Saturday, 19th August, 1922",3:15pm (local time),8981,24,"5,000",NEWTOWN,5,5,,EASTERN SUBURBS,11,14,
+0,NSWRFL 1922,Round 16,"Saturday, 19th August, 1922",3:15pm (local time),8978,25,"4,500","St George
+DRAGONS",2,2,,NORTH SYDNEY,12,35,
+0,NSWRFL 1922,Round 16,"Saturday, 19th August, 1922",3:15pm (local time),8980,109,"6,000","South Sydney
+RABBITOHS",3,14,,"Balmain
+TIGERS",5,10,
+0,NSWRFL 1922,Round 16,"Saturday, 19th August, 1922",3:15pm (local time),8979,112,"4,000","Western Suburbs
+MAGPIES",6,9,,UNIVERSITY,12,23,
+0,NSWRFL 1922,Round 17,"Saturday, 26th August, 1922",3:15pm (local time),8984,109,"1,000",NEWTOWN,9,12,,GLEBE,15,22,
+0,NSWRFL 1922,Round 17,"Saturday, 26th August, 1922",3:15pm (local time),8982,24,"30,000",NORTH SYDNEY,7,20,,"South Sydney
+RABBITOHS",11,11,
+0,NSWRFL 1922,Round 17,"Saturday, 26th August, 1922",3:15pm (local time),8983,163,200,"St George
+DRAGONS",13,27,,UNIVERSITY,0,5,
+0,NSWRFL 1922,Round 17,"Saturday, 26th August, 1922",3:15pm (local time),8985,112,"2,000","Western Suburbs
+MAGPIES",5,10,,EASTERN SUBURBS,10,20,
+0,NSWRFL 1922,Round 18,"Saturday, 2nd September, 1922",3:15pm (local time),8988,150,,"Balmain
+TIGERS",2,11,,NEWTOWN,0,11,
+0,NSWRFL 1922,Round 18,"Saturday, 2nd September, 1922",3:15pm (local time),8989,24,"18,000",GLEBE,13,21,,EASTERN SUBURBS,5,12,
+0,NSWRFL 1922,Round 18,"Saturday, 2nd September, 1922",3:15pm (local time),8986,112,"2,000","St George
+DRAGONS",2,2,,"Western Suburbs
+MAGPIES",8,18,
+0,NSWRFL 1922,Round 18,"Saturday, 2nd September, 1922",3:15pm (local time),8987,109,500,"South Sydney
+RABBITOHS",6,19,,UNIVERSITY,5,13,
+0,NSWRFL 1922,Final,"Wednesday, 6th September, 1922",3:15pm (local time),8990,24,"15,000",NORTH SYDNEY,10,35,,GLEBE,0,3,

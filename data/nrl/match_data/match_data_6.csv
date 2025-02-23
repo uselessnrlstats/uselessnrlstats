@@ -1,0 +1,99 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1914,Round 1,"Saturday, 2nd May, 1914",3:15pm (local time),8489,105,"15,000",GLEBE,9,14,,EASTERN SUBURBS,12,12,
+0,NSWRFL 1914,Round 1,"Saturday, 2nd May, 1914",3:15pm (local time),8487,25,"5,000",NORTH SYDNEY,3,23,,ANNANDALE,8,13,
+0,NSWRFL 1914,Round 1,"Saturday, 2nd May, 1914",3:15pm (local time),8488,24,"11,000","South Sydney
+RABBITOHS",5,14,,"Balmain
+TIGERS",0,0,
+0,NSWRFL 1914,Round 1,"Saturday, 2nd May, 1914",3:15pm (local time),8486,112,"2,000","Western Suburbs
+MAGPIES",5,5,,NEWTOWN,5,15,
+0,NSWRFL 1914,Round 2,"Saturday, 9th May, 1914",3:15pm (local time),8490,105,"3,000",ANNANDALE,3,3,,NEWTOWN,2,13,
+0,NSWRFL 1914,Round 2,"Saturday, 9th May, 1914",3:15pm (local time),8491,150,"8,000","Balmain
+TIGERS",0,3,,NORTH SYDNEY,5,24,
+0,NSWRFL 1914,Round 2,"Saturday, 9th May, 1914",3:15pm (local time),8493,24,"25,000","South Sydney
+RABBITOHS",7,9,,GLEBE,0,2,
+0,NSWRFL 1914,Round 2,"Saturday, 9th May, 1914",3:15pm (local time),8492,112,"1,000","Western Suburbs
+MAGPIES",0,2,,EASTERN SUBURBS,2,10,
+0,NSWRFL 1914,Round 3,"Saturday, 16th May, 1914",3:15pm (local time),8494,150,"3,000",ANNANDALE,7,7,,"Balmain
+TIGERS",0,7,
+0,NSWRFL 1914,Round 3,"Saturday, 16th May, 1914",3:15pm (local time),8495,105,"9,000",GLEBE,5,13,,NORTH SYDNEY,3,6,
+0,NSWRFL 1914,Round 3,"Saturday, 16th May, 1914",3:15pm (local time),8497,24,"15,000",NEWTOWN,2,2,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1914,Round 3,"Saturday, 16th May, 1914",3:15pm (local time),8496,112,"1,500","Western Suburbs
+MAGPIES",2,9,,"South Sydney
+RABBITOHS",11,17,
+0,NSWRFL 1914,Round 4,"Saturday, 23rd May, 1914",3:15pm (local time),8499,150,"5,000","Balmain
+TIGERS",16,23,,NEWTOWN,5,8,
+0,NSWRFL 1914,Round 4,"Saturday, 23rd May, 1914",3:15pm (local time),8500,105,"3,000",GLEBE,10,23,,ANNANDALE,0,3,
+0,NSWRFL 1914,Round 4,"Saturday, 23rd May, 1914",3:15pm (local time),8498,25,"7,000",NORTH SYDNEY,8,16,,"Western Suburbs
+MAGPIES",7,7,
+0,NSWRFL 1914,Round 4,"Saturday, 23rd May, 1914",3:15pm (local time),8501,24,"26,121","South Sydney
+RABBITOHS",0,4,,EASTERN SUBURBS,7,10,
+0,NSWRFL 1914,Round 5,"Saturday, 30th May, 1914",3:15pm (local time),8504,24,"15,000",EASTERN SUBURBS,5,17,,NORTH SYDNEY,0,7,
+0,NSWRFL 1914,Round 5,"Saturday, 30th May, 1914",3:15pm (local time),8505,105,"12,000",GLEBE,8,13,,"Balmain
+TIGERS",13,15,
+0,NSWRFL 1914,Round 5,"Saturday, 30th May, 1914",3:15pm (local time),8503,103,"12,000",NEWTOWN,7,9,,"South Sydney
+RABBITOHS",3,11,
+0,NSWRFL 1914,Round 5,"Saturday, 30th May, 1914",3:15pm (local time),8502,112,"1,500","Western Suburbs
+MAGPIES",18,31,,ANNANDALE,3,8,
+0,NSWRFL 1914,Round 6,"Saturday, 13th June, 1914",3:15pm (local time),8507,150,"3,000","Balmain
+TIGERS",2,4,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1914,Round 6,"Saturday, 13th June, 1914",3:15pm (local time),8508,103,700,EASTERN SUBURBS,10,15,,ANNANDALE,2,5,
+0,NSWRFL 1914,Round 6,"Saturday, 13th June, 1914",3:15pm (local time),8506,105,"16,000",GLEBE,0,9,,NEWTOWN,9,17,
+0,NSWRFL 1914,Round 6,"Saturday, 13th June, 1914",3:15pm (local time),8509,24,"12,000","South Sydney
+RABBITOHS",8,19,,NORTH SYDNEY,2,6,
+0,NSWRFL 1914,Round 7,"Saturday, 20th June, 1914",3:15pm (local time),8510,103,"1,500",ANNANDALE,5,8,,"South Sydney
+RABBITOHS",6,13,
+0,NSWRFL 1914,Round 7,"Saturday, 20th June, 1914",3:15pm (local time),8513,24,"12,000",EASTERN SUBURBS,2,8,,"Balmain
+TIGERS",0,2,
+0,NSWRFL 1914,Round 7,"Saturday, 20th June, 1914",3:15pm (local time),8511,105,"3,000",GLEBE,12,23,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1914,Round 7,"Saturday, 20th June, 1914",3:15pm (local time),8512,155,"6,000",NEWTOWN,10,12,,NORTH SYDNEY,2,7,
+0,NSWRFL 1914,Round 8,"Saturday, 11th July, 1914",3:15pm (local time),8514,25,"5,000",ANNANDALE,10,15,,NORTH SYDNEY,15,23,
+0,NSWRFL 1914,Round 8,"Saturday, 11th July, 1914",3:15pm (local time),8516,105,"10,000","Balmain
+TIGERS",2,2,,"South Sydney
+RABBITOHS",0,2,
+0,NSWRFL 1914,Round 8,"Saturday, 11th July, 1914",3:15pm (local time),8517,24,"10,000",EASTERN SUBURBS,10,28,,GLEBE,4,24,
+0,NSWRFL 1914,Round 8,"Saturday, 11th July, 1914",3:15pm (local time),8515,103,200,NEWTOWN,11,24,,"Western Suburbs
+MAGPIES",5,8,
+0,NSWRFL 1914,Round 9,"Saturday, 18th July, 1914",3:15pm (local time),8519,103,,EASTERN SUBURBS,9,25,,"Western Suburbs
+MAGPIES",10,10,
+0,NSWRFL 1914,Round 9,"Saturday, 18th July, 1914",3:15pm (local time),8518,24,"13,000",GLEBE,5,5,,"South Sydney
+RABBITOHS",0,6,
+0,NSWRFL 1914,Round 9,"Saturday, 18th July, 1914",3:15pm (local time),8520,105,"1,500",NEWTOWN,13,21,,ANNANDALE,2,5,
+0,NSWRFL 1914,Round 9,"Saturday, 18th July, 1914",3:15pm (local time),8521,25,"8,000",NORTH SYDNEY,2,2,,"Balmain
+TIGERS",0,2,
+0,NSWRFL 1914,Round 10,"Saturday, 25th July, 1914",3:15pm (local time),8524,150,"2,000","Balmain
+TIGERS",6,11,,ANNANDALE,5,5,
+0,NSWRFL 1914,Round 10,"Saturday, 25th July, 1914",3:15pm (local time),8523,24,"16,000",EASTERN SUBURBS,3,5,,NEWTOWN,4,6,
+0,NSWRFL 1914,Round 10,"Saturday, 25th July, 1914",3:15pm (local time),8525,105,"8,000",NORTH SYDNEY,2,5,,GLEBE,4,9,
+0,NSWRFL 1914,Round 10,"Saturday, 25th July, 1914",3:15pm (local time),8522,103,,"South Sydney
+RABBITOHS",14,20,,"Western Suburbs
+MAGPIES",0,3,
+0,NSWRFL 1914,Round 11,"Saturday, 1st August, 1914",3:15pm (local time),8526,105,"1,800",ANNANDALE,6,9,,GLEBE,9,29,
+0,NSWRFL 1914,Round 11,"Saturday, 1st August, 1914",3:15pm (local time),8528,24,"22,252",EASTERN SUBURBS,0,5,,"South Sydney
+RABBITOHS",7,10,
+0,NSWRFL 1914,Round 11,"Saturday, 1st August, 1914",3:15pm (local time),8529,155,"4,000",NEWTOWN,5,8,,"Balmain
+TIGERS",2,10,
+0,NSWRFL 1914,Round 11,"Saturday, 1st August, 1914",3:15pm (local time),8527,25,"2,000",NORTH SYDNEY,6,13,,"Western Suburbs
+MAGPIES",0,3,
+0,NSWRFL 1914,Round 12,"Saturday, 8th August, 1914",3:15pm (local time),8530,156,,ANNANDALE,2,4,,"Western Suburbs
+MAGPIES",3,6,
+0,NSWRFL 1914,Round 12,"Saturday, 8th August, 1914",3:15pm (local time),8531,105,"4,000","Balmain
+TIGERS",2,5,,GLEBE,3,5,
+0,NSWRFL 1914,Round 12,"Saturday, 8th August, 1914",3:15pm (local time),8533,25,"2,000",NORTH SYDNEY,11,11,,EASTERN SUBURBS,0,13,
+0,NSWRFL 1914,Round 12,"Saturday, 8th August, 1914",3:15pm (local time),8532,103,"18,000","South Sydney
+RABBITOHS",3,8,,NEWTOWN,5,12,
+0,NSWRFL 1914,Round 13,"Saturday, 15th August, 1914",3:15pm (local time),8534,105,"8,000",ANNANDALE,11,16,,EASTERN SUBURBS,8,14,
+0,NSWRFL 1914,Round 13,"Saturday, 15th August, 1914",3:15pm (local time),8536,150,"3,000","Balmain
+TIGERS",19,39,,"Western Suburbs
+MAGPIES",3,8,
+0,NSWRFL 1914,Round 13,"Saturday, 15th August, 1914",3:15pm (local time),8537,155,"3,000",NEWTOWN,10,18,,GLEBE,2,5,
+0,NSWRFL 1914,Round 13,"Saturday, 15th August, 1914",3:15pm (local time),8535,25,"5,000",NORTH SYDNEY,0,3,,"South Sydney
+RABBITOHS",6,19,
+0,NSWRFL 1914,Round 14,"Saturday, 22nd August, 1914",3:15pm (local time),8539,24,"8,000","Balmain
+TIGERS",5,9,,EASTERN SUBURBS,2,2,
+0,NSWRFL 1914,Round 14,"Saturday, 22nd August, 1914",3:15pm (local time),8538,105,,GLEBE,2,13,,"Western Suburbs
+MAGPIES",3,5,
+0,NSWRFL 1914,Round 14,"Saturday, 22nd August, 1914",3:15pm (local time),8541,25,"5,000",NORTH SYDNEY,3,12,,NEWTOWN,6,20,
+0,NSWRFL 1914,Round 14,"Saturday, 22nd August, 1914",3:15pm (local time),8540,103,"8,000","South Sydney
+RABBITOHS",3,14,,ANNANDALE,3,5,

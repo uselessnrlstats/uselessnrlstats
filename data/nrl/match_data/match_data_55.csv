@@ -1,0 +1,229 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1963,Round 1,"Friday, 5th April, 1963",9:00pm (local time),11958,44,"11,900","Manly Warringah
+SEA EAGLES",6,6,,"Western Suburbs
+MAGPIES",4,13,
+0,NSWRFL 1963,Round 1,"Saturday, 6th April, 1963",3:00pm (local time),11960,27,"6,895",CANTERBURY BANKSTOWN,7,19,,"South Sydney
+RABBITOHS",4,9,
+0,NSWRFL 1963,Round 1,"Saturday, 6th April, 1963",3:00pm (local time),11961,76,"5,553",NEWTOWN,6,15,,"Balmain
+TIGERS",14,22,
+0,NSWRFL 1963,Round 1,"Saturday, 6th April, 1963",3:00pm (local time),11959,24,"23,298","Parramatta
+EELS",2,2,,"St George
+DRAGONS",19,51,
+0,NSWRFL 1963,Round 1,"Sunday, 7th April, 1963",3:00pm (local time),11962,109,"11,352",EASTERN SUBURBS,6,14,,"North Sydney
+BEARS",3,10,
+0,NSWRFL 1963,Round 2,"Saturday, 13th April, 1963",3:00pm (local time),11964,24,"13,192","Balmain
+TIGERS",0,9,15,"Manly Warringah
+SEA EAGLES",0,8,10
+0,NSWRFL 1963,Round 2,"Saturday, 13th April, 1963",3:00pm (local time),11963,25,"7,239","North Sydney
+BEARS",7,16,,"Western Suburbs
+MAGPIES",4,6,
+0,NSWRFL 1963,Round 2,"Saturday, 13th April, 1963",3:00pm (local time),11965,111,"8,548","Parramatta
+EELS",2,12,,CANTERBURY BANKSTOWN,5,10,
+0,NSWRFL 1963,Round 2,"Saturday, 13th April, 1963",3:00pm (local time),11966,23,"10,118","St George
+DRAGONS",15,25,,EASTERN SUBURBS,4,9,
+0,NSWRFL 1963,Round 2,"Sunday, 14th April, 1963",3:00pm (local time),11967,44,"11,818","South Sydney
+RABBITOHS",3,3,19,NEWTOWN,0,10,15
+0,NSWRFL 1963,Round 3,"Saturday, 20th April, 1963",3:00pm (local time),11969,24,"17,818","Balmain
+TIGERS",7,9,17,"Parramatta
+EELS",5,16,12
+0,NSWRFL 1963,Round 3,"Saturday, 20th April, 1963",3:00pm (local time),11970,25,"9,204","North Sydney
+BEARS",13,23,,"Manly Warringah
+SEA EAGLES",7,16,
+0,NSWRFL 1963,Round 3,"Saturday, 20th April, 1963",3:00pm (local time),11968,23,"10,462","St George
+DRAGONS",22,34,,"South Sydney
+RABBITOHS",12,12,
+0,NSWRFL 1963,Round 3,"Saturday, 20th April, 1963",3:00pm (local time),11971,112,"6,482","Western Suburbs
+MAGPIES",6,16,,CANTERBURY BANKSTOWN,4,14,
+0,NSWRFL 1963,Round 3,"Sunday, 21st April, 1963",3:00pm (local time),11972,109,"8,098",EASTERN SUBURBS,2,8,,NEWTOWN,7,11,
+0,NSWRFL 1963,Round 4,"Thursday, 25th April, 1963",3:00pm (local time),11973,7,"5,132","Balmain
+TIGERS",3,13,,EASTERN SUBURBS,0,5,
+0,NSWRFL 1963,Round 4,"Thursday, 25th April, 1963",3:00pm (local time),11977,76,"3,989",NEWTOWN,7,11,21,CANTERBURY BANKSTOWN,10,19,19
+0,NSWRFL 1963,Round 4,"Thursday, 25th April, 1963",3:00pm (local time),11974,111,"9,079","Parramatta
+EELS",4,8,,"Manly Warringah
+SEA EAGLES",8,13,
+0,NSWRFL 1963,Round 4,"Thursday, 25th April, 1963",3:00pm (local time),11975,44,"8,362","South Sydney
+RABBITOHS",7,9,,"North Sydney
+BEARS",2,11,
+0,NSWRFL 1963,Round 4,"Thursday, 25th April, 1963",3:00pm (local time),11976,24,"19,263","Western Suburbs
+MAGPIES",,8,,"St George
+DRAGONS",,5,
+0,NSWRFL 1963,Round 5,"Saturday, 27th April, 1963",3:00pm (local time),11978,27,"4,148",CANTERBURY BANKSTOWN,5,10,,"North Sydney
+BEARS",4,4,
+0,NSWRFL 1963,Round 5,"Saturday, 27th April, 1963",3:00pm (local time),11980,24,"10,777","St George
+DRAGONS",2,7,,"Balmain
+TIGERS",2,2,
+0,NSWRFL 1963,Round 5,"Saturday, 27th April, 1963",3:00pm (local time),11979,112,"4,872","Western Suburbs
+MAGPIES",5,13,,"South Sydney
+RABBITOHS",2,2,
+0,NSWRFL 1963,Round 5,"Sunday, 28th April, 1963",3:00pm (local time),11981,109,"3,753","Manly Warringah
+SEA EAGLES",2,2,,NEWTOWN,3,5,
+0,NSWRFL 1963,Round 6,"Saturday, 4th May, 1963",3:00pm (local time),11983,76,"4,784",NEWTOWN,5,8,,"North Sydney
+BEARS",11,35,
+0,NSWRFL 1963,Round 6,"Saturday, 4th May, 1963",3:00pm (local time),11984,24,"30,867","Parramatta
+EELS",,15,,"Western Suburbs
+MAGPIES",,4,
+0,NSWRFL 1963,Round 6,"Saturday, 4th May, 1963",3:00pm (local time),11985,44,"6,995","South Sydney
+RABBITOHS",10,22,,"Balmain
+TIGERS",7,9,
+0,NSWRFL 1963,Round 6,"Sunday, 5th May, 1963",3:00pm (local time),11987,109,"7,994",EASTERN SUBURBS,3,3,21,CANTERBURY BANKSTOWN,5,12,12
+0,NSWRFL 1963,Round 6,"Sunday, 5th May, 1963",3:00pm (local time),11986,5,"7,776","Manly Warringah
+SEA EAGLES",0,0,,"St George
+DRAGONS",13,39,
+0,NSWRFL 1963,Round 7,"Sunday, 12th May, 1963",3:00pm (local time),11990,7,"4,320","Balmain
+TIGERS",,11,,"Western Suburbs
+MAGPIES",,21,
+0,NSWRFL 1963,Round 7,"Sunday, 12th May, 1963",3:00pm (local time),11991,109,"5,246",EASTERN SUBURBS,5,10,17,"South Sydney
+RABBITOHS",8,8,8
+0,NSWRFL 1963,Round 7,"Sunday, 12th May, 1963",3:00pm (local time),11992,5,"2,750","Manly Warringah
+SEA EAGLES",3,3,,CANTERBURY BANKSTOWN,0,7,
+0,NSWRFL 1963,Round 7,"Sunday, 12th May, 1963",3:00pm (local time),11988,76,"3,343",NEWTOWN,7,7,,"St George
+DRAGONS",10,25,
+0,NSWRFL 1963,Round 7,"Sunday, 12th May, 1963",3:00pm (local time),11989,25,"11,837","North Sydney
+BEARS",4,18,,"Parramatta
+EELS",5,10,
+0,NSWRFL 1963,Round 8,"Saturday, 18th May, 1963",3:00pm (local time),11993,24,"8,396",CANTERBURY BANKSTOWN,4,4,,"St George
+DRAGONS",0,4,
+0,NSWRFL 1963,Round 8,"Saturday, 18th May, 1963",3:00pm (local time),11995,111,"4,120","Parramatta
+EELS",,4,,NEWTOWN,,5,
+0,NSWRFL 1963,Round 8,"Saturday, 18th May, 1963",3:00pm (local time),11994,44,"2,238","South Sydney
+RABBITOHS",3,6,,"Manly Warringah
+SEA EAGLES",0,2,
+0,NSWRFL 1963,Round 8,"Saturday, 18th May, 1963",3:00pm (local time),11996,112,"2,237","Western Suburbs
+MAGPIES",4,7,,EASTERN SUBURBS,2,2,
+0,NSWRFL 1963,Round 8,"Sunday, 19th May, 1963",3:00pm (local time),11997,109,"13,597","North Sydney
+BEARS",2,4,,"Balmain
+TIGERS",7,7,
+0,NSWRFL 1963,Round 9,"Sunday, 26th May, 1963",3:00pm (local time),11999,7,"7,501","Balmain
+TIGERS",0,5,,CANTERBURY BANKSTOWN,3,3,
+0,NSWRFL 1963,Round 9,"Sunday, 26th May, 1963",3:00pm (local time),12000,109,"3,636",EASTERN SUBURBS,0,2,,"Manly Warringah
+SEA EAGLES",2,11,
+0,NSWRFL 1963,Round 9,"Sunday, 26th May, 1963",3:00pm (local time),11998,76,"5,298",NEWTOWN,5,7,,"Western Suburbs
+MAGPIES",2,13,
+0,NSWRFL 1963,Round 9,"Sunday, 26th May, 1963",3:00pm (local time),12001,23,"9,784","St George
+DRAGONS",13,26,,"North Sydney
+BEARS",7,7,
+0,NSWRFL 1963,Round 9,"Sunday, 26th May, 1963",3:00pm (local time),12002,44,"9,908","South Sydney
+RABBITOHS",2,8,13,"Parramatta
+EELS",9,14,5
+0,NSWRFL 1963,Round 5,"Tuesday, 28th May, 1963",3:00pm (local time),11982,111,"6,276","Parramatta
+EELS",4,23,,EASTERN SUBURBS,0,2,
+0,NSWRFL 1963,Round 10,"Saturday, 1st June, 1963",3:00pm (local time),12003,7,"5,979","Balmain
+TIGERS",12,32,,NEWTOWN,7,9,
+0,NSWRFL 1963,Round 10,"Saturday, 1st June, 1963",3:00pm (local time),12005,24,"29,665","St George
+DRAGONS",3,6,,"Parramatta
+EELS",5,5,
+0,NSWRFL 1963,Round 10,"Saturday, 1st June, 1963",3:00pm (local time),12006,44,"6,226","South Sydney
+RABBITOHS",7,10,15,CANTERBURY BANKSTOWN,9,9,8
+0,NSWRFL 1963,Round 10,"Saturday, 1st June, 1963",3:00pm (local time),12004,112,"4,552","Western Suburbs
+MAGPIES",13,25,,"Manly Warringah
+SEA EAGLES",0,3,
+0,NSWRFL 1963,Round 10,"Sunday, 2nd June, 1963",3:00pm (local time),12007,25,"8,720","North Sydney
+BEARS",,15,,EASTERN SUBURBS,,3,
+0,NSWRFL 1963,Round 11,"Sunday, 9th June, 1963",3:00pm (local time),12008,27,"12,472",CANTERBURY BANKSTOWN,2,5,,"Parramatta
+EELS",9,20,
+0,NSWRFL 1963,Round 11,"Sunday, 9th June, 1963",3:00pm (local time),12009,109,"6,037",EASTERN SUBURBS,0,0,12,"St George
+DRAGONS",3,5,11
+0,NSWRFL 1963,Round 11,"Sunday, 9th June, 1963",3:00pm (local time),12010,5,"4,484","Manly Warringah
+SEA EAGLES",2,5,,"Balmain
+TIGERS",12,20,
+0,NSWRFL 1963,Round 11,"Monday, 10th June, 1963",3:00pm (local time),12011,76,"5,870",NEWTOWN,10,23,,"South Sydney
+RABBITOHS",7,12,
+0,NSWRFL 1963,Round 11,"Monday, 10th June, 1963",3:00pm (local time),12012,24,"21,272","Western Suburbs
+MAGPIES",10,10,,"North Sydney
+BEARS",3,6,
+0,NSWRFL 1963,Round 12,"Saturday, 15th June, 1963",3:00pm (local time),12013,27,"6,932",CANTERBURY BANKSTOWN,2,10,,"Western Suburbs
+MAGPIES",17,29,
+0,NSWRFL 1963,Round 12,"Saturday, 15th June, 1963",3:00pm (local time),12014,24,"25,932","Parramatta
+EELS",2,5,,"Balmain
+TIGERS",2,2,
+0,NSWRFL 1963,Round 12,"Sunday, 16th June, 1963",3:00pm (local time),12015,5,"5,668","Manly Warringah
+SEA EAGLES",0,8,,"North Sydney
+BEARS",9,11,
+0,NSWRFL 1963,Round 12,"Sunday, 16th June, 1963",3:00pm (local time),12017,76,"3,709",NEWTOWN,3,19,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1963,Round 12,"Sunday, 16th June, 1963",3:00pm (local time),12016,44,"12,711","South Sydney
+RABBITOHS",0,5,,"St George
+DRAGONS",14,29,
+0,NSWRFL 1963,Round 13,"Saturday, 22nd June, 1963",3:00pm (local time),12021,27,"3,622",CANTERBURY BANKSTOWN,2,2,14,NEWTOWN,11,26,15
+0,NSWRFL 1963,Round 13,"Saturday, 22nd June, 1963",3:00pm (local time),12018,5,"4,722","Manly Warringah
+SEA EAGLES",8,10,,"Parramatta
+EELS",4,7,
+0,NSWRFL 1963,Round 13,"Saturday, 22nd June, 1963",3:00pm (local time),12019,25,"6,124","North Sydney
+BEARS",15,19,,"South Sydney
+RABBITOHS",10,17,
+0,NSWRFL 1963,Round 13,"Saturday, 22nd June, 1963",3:00pm (local time),12020,24,"26,064","St George
+DRAGONS",5,5,,"Western Suburbs
+MAGPIES",7,12,
+0,NSWRFL 1963,Round 13,"Sunday, 23rd June, 1963",3:00pm (local time),12022,109,"8,046",EASTERN SUBURBS,6,6,,"Balmain
+TIGERS",12,25,
+0,NSWRFL 1963,Round 14,"Sunday, 30th June, 1963",3:00pm (local time),12024,7,"15,209","Balmain
+TIGERS",0,0,,"St George
+DRAGONS",9,27,
+0,NSWRFL 1963,Round 14,"Sunday, 30th June, 1963",3:00pm (local time),12025,109,"5,587",EASTERN SUBURBS,0,2,,"Parramatta
+EELS",3,3,
+0,NSWRFL 1963,Round 14,"Sunday, 30th June, 1963",3:00pm (local time),12026,76,"2,450",NEWTOWN,7,9,,"Manly Warringah
+SEA EAGLES",3,12,
+0,NSWRFL 1963,Round 14,"Sunday, 30th June, 1963",3:00pm (local time),12027,25,"7,693","North Sydney
+BEARS",18,29,,CANTERBURY BANKSTOWN,2,8,
+0,NSWRFL 1963,Round 14,"Sunday, 30th June, 1963",3:00pm (local time),12023,44,"9,500","South Sydney
+RABBITOHS",4,4,,"Western Suburbs
+MAGPIES",7,22,
+0,NSWRFL 1963,Round 15,"Saturday, 6th July, 1963",3:00pm (local time),12028,27,"2,554",CANTERBURY BANKSTOWN,7,18,,EASTERN SUBURBS,7,17,
+0,NSWRFL 1963,Round 15,"Saturday, 6th July, 1963",3:00pm (local time),12029,25,"7,996","North Sydney
+BEARS",17,37,,NEWTOWN,10,12,
+0,NSWRFL 1963,Round 15,"Saturday, 6th July, 1963",3:00pm (local time),12030,24,"22,224","Western Suburbs
+MAGPIES",5,5,,"Parramatta
+EELS",2,2,
+0,NSWRFL 1963,Round 15,"Sunday, 7th July, 1963",3:00pm (local time),12031,7,"7,073","Balmain
+TIGERS",19,34,,"South Sydney
+RABBITOHS",3,8,
+0,NSWRFL 1963,Round 15,"Sunday, 7th July, 1963",3:00pm (local time),12032,109,"8,905","St George
+DRAGONS",7,12,,"Manly Warringah
+SEA EAGLES",0,5,
+0,NSWRFL 1963,Round 16,"Sunday, 14th July, 1963",3:00pm (local time),12033,27,"2,811",CANTERBURY BANKSTOWN,9,9,,"Manly Warringah
+SEA EAGLES",3,14,
+0,NSWRFL 1963,Round 16,"Sunday, 14th July, 1963",3:00pm (local time),12034,111,"16,693","Parramatta
+EELS",10,10,11,"North Sydney
+BEARS",3,3,20
+0,NSWRFL 1963,Round 16,"Tuesday, 16th July, 1963",3:00pm (local time),12035,44,"8,447","Western Suburbs
+MAGPIES",0,0,,"Balmain
+TIGERS",4,13,
+0,NSWRFL 1963,Round 16,"Thursday, 18th July, 1963",3:00pm (local time),12036,44,"3,054","South Sydney
+RABBITOHS",2,21,,EASTERN SUBURBS,3,9,
+0,NSWRFL 1963,Round 17,"Saturday, 20th July, 1963",3:00pm (local time),12039,24,"25,012","Balmain
+TIGERS",17,22,,"North Sydney
+BEARS",2,16,
+0,NSWRFL 1963,Round 17,"Saturday, 20th July, 1963",3:00pm (local time),12038,5,"2,472","Manly Warringah
+SEA EAGLES",12,22,,"South Sydney
+RABBITOHS",0,7,
+0,NSWRFL 1963,Round 17,"Sunday, 21st July, 1963",3:00pm (local time),12041,109,"5,022",EASTERN SUBURBS,16,19,,"Western Suburbs
+MAGPIES",0,8,
+0,NSWRFL 1963,Round 17,"Sunday, 21st July, 1963",3:00pm (local time),12040,76,"8,092",NEWTOWN,5,5,,"Parramatta
+EELS",7,21,
+0,NSWRFL 1963,Round 17,"Sunday, 21st July, 1963",3:00pm (local time),12042,23,"9,100","St George
+DRAGONS",26,54,,CANTERBURY BANKSTOWN,5,5,
+0,NSWRFL 1963,Round 16,"Tuesday, 23rd July, 1963",3:00pm (local time),12037,23,"4,510","St George
+DRAGONS",13,40,,NEWTOWN,4,4,
+0,NSWRFL 1963,Round 18,"Sunday, 28th July, 1963",3:00pm (local time),12046,27,"5,745",CANTERBURY BANKSTOWN,,6,,"Balmain
+TIGERS",,11,
+0,NSWRFL 1963,Round 18,"Sunday, 28th July, 1963",3:00pm (local time),12047,5,"2,361","Manly Warringah
+SEA EAGLES",6,18,,EASTERN SUBURBS,5,5,
+0,NSWRFL 1963,Round 18,"Sunday, 28th July, 1963",3:00pm (local time),12043,109,"15,293","North Sydney
+BEARS",8,8,,"St George
+DRAGONS",7,40,
+0,NSWRFL 1963,Round 18,"Sunday, 28th July, 1963",3:00pm (local time),12044,111,"10,010","Parramatta
+EELS",0,9,,"South Sydney
+RABBITOHS",4,7,
+0,NSWRFL 1963,Round 18,"Sunday, 28th July, 1963",3:00pm (local time),12045,5,"3,567","Western Suburbs
+MAGPIES",18,44,,NEWTOWN,15,20,
+0,NSWRFL 1963,Minor Semi,"Saturday, 3rd August, 1963",3:00pm (local time),12048,24,"39,408","Parramatta
+EELS",4,9,11,"Balmain
+TIGERS",7,7,11
+0,NSWRFL 1963,Major Semi,"Saturday, 10th August, 1963",3:00pm (local time),12049,24,"42,065","Western Suburbs
+MAGPIES",5,10,12,"St George
+DRAGONS",5,8,16
+0,NSWRFL 1963,Prelim Final,"Saturday, 17th August, 1963",3:00pm (local time),12050,24,"57,973","St George
+DRAGONS",7,12,11,"Parramatta
+EELS",7,7,12
+0,NSWRFL 1963,Grand Final,"Saturday, 24th August, 1963",3:00pm (local time),12051,24,"69,860","St George
+DRAGONS",5,8,18,"Western Suburbs
+MAGPIES",0,3,7

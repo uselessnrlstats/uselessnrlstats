@@ -1,0 +1,568 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2024,Round 1,"Saturday, 2nd March, 2024",6:30pm (local time),62004,1290,"40,746","Manly Warringah
+SEA EAGLES",12,36,5,"South Sydney
+RABBITOHS",10,24,1
+0,NRL 2024,Round 1,"Saturday, 2nd March, 2024",8:30pm (local time),62005,1290,"40,746","Sydney
+ROOSTERS",8,20,5,"Brisbane
+BRONCOS",4,10,7
+0,NRL 2024,Round 1,"Thursday, 7th March, 2024",8:00pm (local time),62006,11,"22,378","Newcastle
+KNIGHTS",6,12,6,"Canberra
+RAIDERS",8,28,6
+0,NRL 2024,Round 1,"Friday, 8th March, 2024",8:00pm (local time),62007,6,"24,076",WARRIORS,12,12,8,"Cronulla Sutherland
+SHARKS",6,16,8
+0,NRL 2024,Round 1,"Friday, 8th March, 2024",8:05pm (local time),62008,251,"20,169","Melbourne
+STORM",2,8,9,"Penrith
+PANTHERS",0,0,6
+0,NRL 2024,Round 1,"Saturday, 9th March, 2024",5:30pm (local time),62009,940,"29,171","Parramatta
+EELS",14,26,7,"Canterbury Bankstown
+BULLDOGS",0,8,7
+0,NRL 2024,Round 1,"Saturday, 9th March, 2024",6:35pm (local time),62010,149,"14,537","Gold Coast
+TITANS",4,4,5,"St George Illawarra
+DRAGONS",6,28,3
+0,NRL 2024,Round 1,"Sunday, 10th March, 2024",3:05pm (local time),62011,1097,"32,477",DOLPHINS,12,18,3,"North Queensland
+COWBOYS",31,43,5
+0,NRL 2024,Round 2,"Thursday, 14th March, 2024",7:00pm (local time),62012,1097,"35,507","Brisbane
+BRONCOS",12,28,4,"South Sydney
+RABBITOHS",0,18,3
+0,NRL 2024,Round 2,"Friday, 15th March, 2024",6:00pm (local time),62013,9,"12,928","Cronulla Sutherland
+SHARKS",6,25,5,"Canterbury Bankstown
+BULLDOGS",6,6,5
+0,NRL 2024,Round 2,"Friday, 15th March, 2024",8:00pm (local time),62014,3,"21,522","Penrith
+PANTHERS",16,26,5,"Parramatta
+EELS",18,18,4
+0,NRL 2024,Round 2,"Saturday, 16th March, 2024",3:00pm (local time),62015,4,"16,968","Canberra
+RAIDERS",24,32,10,WESTS TIGERS,12,12,6
+0,NRL 2024,Round 2,"Saturday, 16th March, 2024",4:30pm (local time),62016,985,"18,986","North Queensland
+COWBOYS",0,21,10,"Newcastle
+KNIGHTS",12,20,5
+0,NRL 2024,Round 2,"Saturday, 16th March, 2024",7:35pm (local time),62017,251,"21,927","Melbourne
+STORM",18,30,5,WARRIORS,6,26,7
+0,NRL 2024,Round 2,"Sunday, 17th March, 2024",4:05pm (local time),62018,5,"17,284","Manly Warringah
+SEA EAGLES",12,21,9,"Sydney
+ROOSTERS",10,14,4
+0,NRL 2024,Round 2,"Sunday, 17th March, 2024",5:15pm (local time),62019,968,"10,011",DOLPHINS,10,38,3,"St George Illawarra
+DRAGONS",0,0,6
+0,NRL 2024,Round 3,"Thursday, 21st March, 2024",8:00pm (local time),62020,3,"20,089","Penrith
+PANTHERS",22,34,4,"Brisbane
+BRONCOS",2,12,7
+0,NRL 2024,Round 3,"Friday, 22nd March, 2024",8:00pm (local time),62021,134,"17,249",WARRIORS,6,18,6,"Canberra
+RAIDERS",4,10,4
+0,NRL 2024,Round 3,"Friday, 22nd March, 2024",8:00pm (local time),62022,1096,"37,594","Sydney
+ROOSTERS",18,48,5,"South Sydney
+RABBITOHS",0,6,5
+0,NRL 2024,Round 3,"Saturday, 23rd March, 2024",3:00pm (local time),62023,27,"12,037","Canterbury Bankstown
+BULLDOGS",12,32,3,"Gold Coast
+TITANS",0,0,9
+0,NRL 2024,Round 3,"Saturday, 23rd March, 2024",5:30pm (local time),62024,23,"9,252","St George Illawarra
+DRAGONS",18,24,7,"North Queensland
+COWBOYS",22,46,4
+0,NRL 2024,Round 3,"Saturday, 23rd March, 2024",7:35pm (local time),62025,7,"15,990",WESTS TIGERS,18,32,5,"Cronulla Sutherland
+SHARKS",6,6,2
+0,NRL 2024,Round 3,"Sunday, 24th March, 2024",4:05pm (local time),62026,940,"20,354","Parramatta
+EELS",16,28,9,"Manly Warringah
+SEA EAGLES",18,24,5
+0,NRL 2024,Round 3,"Sunday, 24th March, 2024",6:15pm (local time),62027,11,"21,889","Newcastle
+KNIGHTS",14,14,5,"Melbourne
+STORM",0,12,4
+0,NRL 2024,Round 4,"Thursday, 28th March, 2024",8:00pm (local time),62028,1096,"25,898","Sydney
+ROOSTERS",6,16,9,"Penrith
+PANTHERS",14,22,4
+0,NRL 2024,Round 4,"Friday, 29th March, 2024",4:05pm (local time),62029,20,"35,275","South Sydney
+RABBITOHS",10,20,6,"Canterbury Bankstown
+BULLDOGS",12,16,11
+0,NRL 2024,Round 4,"Friday, 29th March, 2024",7:00pm (local time),62030,1097,"45,793","Brisbane
+BRONCOS",20,38,3,"North Queensland
+COWBOYS",12,12,3
+0,NRL 2024,Round 4,"Saturday, 30th March, 2024",5:30pm (local time),62031,21,"16,215","St George Illawarra
+DRAGONS",14,20,5,"Manly Warringah
+SEA EAGLES",6,12,4
+0,NRL 2024,Round 4,"Saturday, 30th March, 2024",6:35pm (local time),62032,149,"13,898","Gold Coast
+TITANS",10,14,5,DOLPHINS,12,30,4
+0,NRL 2024,Round 4,"Sunday, 31st March, 2024",6:05pm (local time),62033,6,"24,112",WARRIORS,12,20,3,"Newcastle
+KNIGHTS",6,12,4
+0,NRL 2024,Round 4,"Sunday, 31st March, 2024",6:15pm (local time),62034,9,"12,692","Cronulla Sutherland
+SHARKS",18,36,3,"Canberra
+RAIDERS",18,22,3
+0,NRL 2024,Round 4,"Monday, 1st April, 2024",4:00pm (local time),62035,940,"28,608","Parramatta
+EELS",6,16,10,WESTS TIGERS,6,17,3
+0,NRL 2024,Round 5,"Thursday, 4th April, 2024",8:00pm (local time),62036,251,"20,698","Melbourne
+STORM",16,34,4,"Brisbane
+BRONCOS",18,32,7
+0,NRL 2024,Round 5,"Friday, 5th April, 2024",6:00pm (local time),62037,20,"7,169","Canterbury Bankstown
+BULLDOGS",26,30,5,"Sydney
+ROOSTERS",0,26,6
+0,NRL 2024,Round 5,"Friday, 5th April, 2024",8:00pm (local time),62038,11,"9,448","Newcastle
+KNIGHTS",24,30,5,"St George Illawarra
+DRAGONS",10,10,3
+0,NRL 2024,Round 5,"Saturday, 6th April, 2024",3:00pm (local time),62039,20,"13,181","South Sydney
+RABBITOHS",4,4,4,WARRIORS,18,34,6
+0,NRL 2024,Round 5,"Saturday, 6th April, 2024",5:30pm (local time),62040,5,"17,381","Manly Warringah
+SEA EAGLES",14,32,10,"Penrith
+PANTHERS",6,18,4
+0,NRL 2024,Round 5,"Saturday, 6th April, 2024",6:35pm (local time),62041,1097,"22,051",DOLPHINS,14,26,6,WESTS TIGERS,0,16,6
+0,NRL 2024,Round 5,"Sunday, 7th April, 2024",4:05pm (local time),62042,985,"18,870","North Queensland
+COWBOYS",16,35,5,"Gold Coast
+TITANS",0,22,5
+0,NRL 2024,Round 5,"Sunday, 7th April, 2024",6:15pm (local time),62043,4,"13,907","Canberra
+RAIDERS",13,41,10,"Parramatta
+EELS",0,8,3
+0,NRL 2024,Round 6,"Thursday, 11th April, 2024",7:50pm (local time),62044,11,"21,940","Newcastle
+KNIGHTS",14,20,6,"Sydney
+ROOSTERS",16,22,4
+0,NRL 2024,Round 6,"Friday, 12th April, 2024",6:00pm (local time),62045,251,"16,065","Melbourne
+STORM",10,16,2,"Canterbury Bankstown
+BULLDOGS",0,14,3
+0,NRL 2024,Round 6,"Friday, 12th April, 2024",8:00pm (local time),62046,1097,"46,224","Brisbane
+BRONCOS",6,28,1,DOLPHINS,4,14,8
+0,NRL 2024,Round 6,"Saturday, 13th April, 2024",5:00pm (local time),62047,6,"23,076",WARRIORS,10,22,4,"Manly Warringah
+SEA EAGLES",16,22,4
+0,NRL 2024,Round 6,"Saturday, 13th April, 2024",5:30pm (local time),62048,940,"14,433","Parramatta
+EELS",14,27,8,"North Queensland
+COWBOYS",10,20,5
+0,NRL 2024,Round 6,"Saturday, 13th April, 2024",7:35pm (local time),62049,20,"12,207","South Sydney
+RABBITOHS",6,22,6,"Cronulla Sutherland
+SHARKS",16,34,2
+0,NRL 2024,Round 6,"Sunday, 14th April, 2024",4:05pm (local time),62050,19,"17,141",WESTS TIGERS,6,12,5,"St George Illawarra
+DRAGONS",16,24,9
+0,NRL 2024,Round 6,"Sunday, 14th April, 2024",6:15pm (local time),62051,4,"11,738","Canberra
+RAIDERS",12,21,4,"Gold Coast
+TITANS",6,20,3
+0,NRL 2024,Round 7,"Thursday, 18th April, 2024",7:50pm (local time),62052,1096,"17,714","Sydney
+ROOSTERS",6,12,7,"Melbourne
+STORM",12,18,10
+0,NRL 2024,Round 7,"Friday, 19th April, 2024",6:00pm (local time),62053,21,"13,111","St George Illawarra
+DRAGONS",16,30,7,WARRIORS,6,12,5
+0,NRL 2024,Round 7,"Friday, 19th April, 2024",7:30pm (local time),62054,423,"11,094","Parramatta
+EELS",8,16,5,DOLPHINS,4,44,3
+0,NRL 2024,Round 7,"Saturday, 20th April, 2024",3:00pm (local time),62055,108,"12,000","Penrith
+PANTHERS",10,22,1,WESTS TIGERS,6,6,4
+0,NRL 2024,Round 7,"Saturday, 20th April, 2024",5:30pm (local time),62056,149,"13,336","Gold Coast
+TITANS",24,30,4,"Manly Warringah
+SEA EAGLES",22,34,3
+0,NRL 2024,Round 7,"Saturday, 20th April, 2024",7:35pm (local time),62057,1097,"37,286","Brisbane
+BRONCOS",28,34,2,"Canberra
+RAIDERS",0,10,1
+0,NRL 2024,Round 7,"Sunday, 21st April, 2024",2:00pm (local time),62058,20,"17,784","Canterbury Bankstown
+BULLDOGS",18,36,2,"Newcastle
+KNIGHTS",6,12,6
+0,NRL 2024,Round 7,"Sunday, 21st April, 2024",4:05pm (local time),62059,9,"12,415","Cronulla Sutherland
+SHARKS",24,42,4,"North Queensland
+COWBOYS",0,6,4
+0,NRL 2024,Round 8,"Thursday, 25th April, 2024",4:00pm (local time),62060,6,"23,912",WARRIORS,12,24,3,"Gold Coast
+TITANS",19,27,5
+0,NRL 2024,Round 8,"Thursday, 25th April, 2024",4:05pm (local time),62061,1096,"40,727","St George Illawarra
+DRAGONS",6,18,5,"Sydney
+ROOSTERS",30,60,4
+0,NRL 2024,Round 8,"Thursday, 25th April, 2024",7:50pm (local time),62062,251,"25,149","Melbourne
+STORM",32,54,7,"South Sydney
+RABBITOHS",4,20,4
+0,NRL 2024,Round 8,"Friday, 26th April, 2024",8:00pm (local time),62063,5,"17,385","Manly Warringah
+SEA EAGLES",6,32,10,"Parramatta
+EELS",14,18,6
+0,NRL 2024,Round 8,"Saturday, 27th April, 2024",5:30pm (local time),62064,19,"17,351",WESTS TIGERS,0,10,8,"Brisbane
+BRONCOS",16,34,4
+0,NRL 2024,Round 8,"Saturday, 27th April, 2024",7:35pm (local time),62065,985,"20,960","North Queensland
+COWBOYS",4,20,6,"Penrith
+PANTHERS",18,26,4
+0,NRL 2024,Round 8,"Sunday, 28th April, 2024",2:00pm (local time),62066,1097,"18,033",DOLPHINS,6,14,4,"Newcastle
+KNIGHTS",10,18,3
+0,NRL 2024,Round 8,"Sunday, 28th April, 2024",4:05pm (local time),62067,4,"15,820","Canberra
+RAIDERS",0,0,7,"Cronulla Sutherland
+SHARKS",18,40,2
+0,NRL 2024,Round 9,"Thursday, 2nd May, 2024",7:50pm (local time),62068,20,"8,155","South Sydney
+RABBITOHS",12,12,5,"Penrith
+PANTHERS",18,42,8
+0,NRL 2024,Round 9,"Friday, 3rd May, 2024",6:00pm (local time),62069,5,"10,215","Manly Warringah
+SEA EAGLES",20,24,8,"Canberra
+RAIDERS",6,26,3
+0,NRL 2024,Round 9,"Friday, 3rd May, 2024",8:00pm (local time),62070,1097,"40,190","Brisbane
+BRONCOS",6,18,6,"Sydney
+ROOSTERS",18,40,3
+0,NRL 2024,Round 9,"Saturday, 4th May, 2024",3:00pm (local time),62071,20,"17,068","Canterbury Bankstown
+BULLDOGS",6,22,7,WESTS TIGERS,14,14,6
+0,NRL 2024,Round 9,"Saturday, 4th May, 2024",5:30pm (local time),62072,149,"13,096","Gold Coast
+TITANS",12,20,4,"Melbourne
+STORM",20,22,7
+0,NRL 2024,Round 9,"Saturday, 4th May, 2024",7:35pm (local time),62073,985,"20,967","North Queensland
+COWBOYS",22,26,5,DOLPHINS,18,28,3
+0,NRL 2024,Round 9,"Sunday, 5th May, 2024",2:00pm (local time),62074,11,"16,094","Newcastle
+KNIGHTS",8,14,10,WARRIORS,6,8,9
+0,NRL 2024,Round 9,"Sunday, 5th May, 2024",4:05pm (local time),62075,9,"9,731","Cronulla Sutherland
+SHARKS",6,20,8,"St George Illawarra
+DARGONS",10,10,6
+0,NRL 2024,Round 10,"Thursday, 9th May, 2024",7:50pm (local time),62076,1097,"14,059",DOLPHINS,20,30,4,"Manly Warringah
+SEA EAGLES",16,24,6
+0,NRL 2024,Round 10,"Friday, 10th May, 2024",6:00pm (local time),62077,3,"21,525","Penrith
+PANTHERS",12,16,9,"Canterbury Bankstown
+BULLDOGS",0,10,4
+0,NRL 2024,Round 10,"Friday, 10th May, 2024",8:00pm (local time),62078,940,"17,393","Parramatta
+EELS",8,14,4,"Brisbane
+BRONCOS",18,30,3
+0,NRL 2024,Round 10,"Saturday, 11th May, 2024",3:00pm (local time),62079,409,"10,107",WESTS TIGERS,6,14,4,"Newcastle
+KNIGHTS",8,20,6
+0,NRL 2024,Round 10,"Saturday, 11th May, 2024",5:30pm (local time),62080,23,"7,517","St George Illawarra
+DRAGONS",12,28,4,"South Sydney
+RABBITOHS",6,14,3
+0,NRL 2024,Round 10,"Saturday, 11th May, 2024",7:35pm (local time),62081,251,"18,670","Melbourne
+STORM",12,18,8,"Cronulla Sutherland
+SHARKS",12,25,4
+0,NRL 2024,Round 10,"Sunday, 12th May, 2024",2:00pm (local time),62082,1096,"16,517","Sydney
+ROOSTERS",22,38,3,WARRIORS,0,18,8
+0,NRL 2024,Round 10,"Sunday, 12th May, 2024",4:05pm (local time),62083,149,"12,125","Gold Coast
+TITANS",20,20,8,"North Queensland
+COWBOYS",0,18,6
+0,NRL 2024,Round 11,"Friday, 17th May, 2024",6:00pm (local time),62084,1097,"50,971","Canberra
+RAIDERS",12,24,2,"Canterbury Bankstown
+BULLDOGS",14,20,6
+0,NRL 2024,Round 11,"Friday, 17th May, 2024",8:05pm (local time),62085,1097,"50,971","Manly Warringah
+SEA EAGLES",0,12,4,"Brisbane
+BRONCOS",12,13,2
+0,NRL 2024,Round 11,"Saturday, 18th May, 2024",3:00pm (local time),62086,1097,"50,708","Gold Coast
+TITANS",24,24,5,"Newcastle
+KNIGHTS",10,28,3
+0,NRL 2024,Round 11,"Saturday, 18th May, 2024",5:30pm (local time),62087,1097,"50,708","Cronulla Sutherland
+SHARKS",18,38,8,"Sydney
+ROOSTERS",24,30,6
+0,NRL 2024,Round 11,"Saturday, 18th May, 2024",7:45pm (local time),62088,1097,"50,708","South Sydney
+RABBITOHS",12,22,10,"North Queensland
+COWBOYS",16,28,2
+0,NRL 2024,Round 11,"Sunday, 19th May, 2024",1:50pm (local time),62089,1097,"47,517",WARRIORS,4,22,6,"Penrith
+PANTHERS",10,20,7
+0,NRL 2024,Round 11,"Sunday, 19th May, 2024",4:05pm (local time),62090,1097,"47,517","Melbourne
+STORM",16,48,2,"Parramatta
+EELS",10,16,4
+0,NRL 2024,Round 11,"Sunday, 19th May, 2024",6:25pm (local time),62091,1097,"47,517",WESTS TIGERS,6,12,6,DOLPHINS,12,24,7
+0,NRL 2024,Round 12,"Thursday, 23rd May, 2024",7:50pm (local time),62092,20,"15,442","Canterbury Bankstown
+BULLDOGS",6,44,7,"St George Illawarra
+DRAGONS",12,12,5
+0,NRL 2024,Round 12,"Friday, 24th May, 2024",6:00pm (local time),62093,985,"15,957","North Queensland
+COWBOYS",20,42,3,WESTS TIGERS,10,28,4
+0,NRL 2024,Round 12,"Friday, 24th May, 2024",8:00pm (local time),62094,5,"17,211","Manly Warringah
+SEA EAGLES",12,26,5,"Melbourne
+STORM",6,20,6
+0,NRL 2024,Round 12,"Saturday, 25th May, 2024",3:00pm (local time),62095,4,"18,049","Canberra
+RAIDERS",6,16,9,"Sydney
+ROOSTERS",18,44,7
+0,NRL 2024,Round 12,"Saturday, 25th May, 2024",5:30pm (local time),62096,9,"13,500","Cronulla Sutherland
+SHARKS",0,0,3,"Penrith
+PANTHERS",28,42,3
+0,NRL 2024,Round 12,"Saturday, 25th May, 2024",7:35pm (local time),62097,20,"15,202","South Sydney
+RABBITOHS",22,42,7,"Parramatta
+EELS",12,26,5
+0,NRL 2024,Round 12,"Sunday, 26th May, 2024",2:00pm (local time),62098,1097,"42,221","Brisbane
+BRONCOS",24,34,3,"Gold Coast
+TITANS",16,36,4
+0,NRL 2024,Round 12,"Sunday, 26th May, 2024",6:05pm (local time),62099,6,"23,116",WARRIORS,12,24,5,DOLPHINS,16,20, 
+0,NRL 2024,Round 13,"Thursday, 30th May, 2024",7:50pm (local time),62100,940,"11,665","Parramatta
+EELS",16,34,5,"Cronulla Sutherland
+SHARKS",10,22,4
+0,NRL 2024,Round 13,"Friday, 31st May, 2024",8:00pm (local time),62101,11,"21,204","Newcastle
+KNIGHTS",2,2,9,"Canterbury Bankstown
+BULLDOGS",10,32,7
+0,NRL 2024,Round 13,"Saturday, 1st June, 2024",5:30pm (local time),62102,3,"12,025","Penrith
+PANTHERS",10,10,3,"St George Illawarra
+DRAGONS",0,22,6
+0,NRL 2024,Round 13,"Saturday, 1st June, 2024",7:35pm (local time),62103,968,"10,024",DOLPHINS,12,25,2,"Canberra
+RAIDERS",18,26,6
+0,NRL 2024,Round 13,"Sunday, 2nd June, 2024",4:05pm (local time),62104,1096,"13,811","Sydney
+ROOSTERS",14,16,4,"North Queensland
+COWBOYS",4,18,8
+0,NRL 2024,Round 14,"Friday, 7th June, 2024",8:00pm (local time),62105,21,"9,969","St George Illawarra
+DRAGONS",12,56,6,WESTS TIGERS,14,14,5
+0,NRL 2024,Round 14,"Saturday, 8th June, 2024",3:00pm (local time),62106,149,"14,434","Gold Coast
+TITANS",6,12,4,"South Sydney
+RABBITOHS",22,46,7
+0,NRL 2024,Round 14,"Saturday, 8th June, 2024",5:30pm (local time),62107,985,"19,623","North Queensland
+COWBOYS",6,12,3,WARRIORS,22,42,4
+0,NRL 2024,Round 14,"Saturday, 8th June, 2024",7:35pm (local time),62108,1097,"41,004","Brisbane
+BRONCOS",12,12,4,"Cronulla Sutherland
+SHARKS",4,22,4
+0,NRL 2024,Round 14,"Sunday, 9th June, 2024",2:00pm (local time),62109,251,"20,269","Melbourne
+STORM",18,36,7,"Newcastle
+KNIGHTS",12,28,6
+0,NRL 2024,Round 14,"Sunday, 9th June, 2024",4:05pm (local time),62110,3,"20,101","Penrith
+PANTHERS",16,32,5,"Manly Warringah
+SEA EAGLES",12,22,5
+0,NRL 2024,Round 14,"Monday, 10th June, 2024",4:00pm (local time),62111,20,"45,496","Canterbury Bankstown
+BULLDOGS",10,22,4,"Parramatta
+EELS",12,18,9
+0,NRL 2024,Round 15,"Thursday, 13th June, 2024",7:50pm (local time),62112,9,"8,035","Cronulla Sutherland
+SHARKS",12,28,6,DOLPHINS,22,30,6
+0,NRL 2024,Round 15,"Friday, 14th June, 2024",6:00pm (local time),62113,4,"9,671","Canberra
+RAIDERS",0,16,7,"North Queensland
+COWBOYS",22,34,7
+0,NRL 2024,Round 15,"Friday, 14th June, 2024",8:00pm (local time),62114,20,"12,207","South Sydney
+RABBITOHS",18,22,6,"Brisbane
+BRONCOS",0,12,2
+0,NRL 2024,Round 15,"Saturday, 15th June, 2024",3:00pm (local time),62115,7,"8,147",WESTS TIGERS,6,18,4,"Gold Coast
+TITANS",10,10,2
+0,NRL 2024,Round 15,"Saturday, 15th June, 2024",7:30pm (local time),62116,6,"24,495",WARRIORS,14,24,5,"Melbourne
+STORM",20,38,8
+0,NRL 2024,Round 15,"Saturday, 15th June, 2024",7:35pm (local time),62117,940,"20,072","Parramatta
+EELS",6,18,9,"Sydney
+ROOSTERS",16,28,4
+0,NRL 2024,Round 15,"Sunday, 16th June, 2024",2:00pm (local time),62118,5,"17,187","Manly Warringah
+SEA EAGLES",8,30,5,"St George Illawarra
+DRAGONS",10,14,9
+0,NRL 2024,Round 15,"Sunday, 16th June, 2024",4:05pm (local time),62119,11,"27,966","Newcastle
+KNIGHTS",6,18,3,"Penrith
+PANTHERS",20,26,4
+0,NRL 2024,Round 16,"Friday, 21st June, 2024",8:00pm (local time),62120,1097,"25,167",DOLPHINS,18,24,5,"Melbourne
+STORM",18,30,4
+0,NRL 2024,Round 16,"Saturday, 22nd June, 2024",3:00pm (local time),62121,149,"22,702","Gold Coast
+TITANS",30,66,6,WARRIORS,0,6,5
+0,NRL 2024,Round 16,"Saturday, 22nd June, 2024",5:30pm (local time),62122,26,"16,868","Sydney
+ROOSTERS",14,26,4,"Canterbury Bankstown
+BULLDOGS",4,8,10
+0,NRL 2024,Round 16,"Saturday, 22nd June, 2024",7:35pm (local time),62123,20,"10,576","South Sydney
+RABBITOHS",8,14,10,"Manly Warringah
+SEA EAGLES",0,0,3
+0,NRL 2024,Round 16,"Sunday, 23rd June, 2024",4:05pm (local time),62124,19,"10,106",WESTS TIGERS,18,48,2,"Canberra
+RAIDERS",2,24,7
+0,NRL 2024,Round 17,"Friday, 28th June, 2024",8:00pm (local time),62125,20,"15,765","Canterbury Bankstown
+BULLDOGS",12,15,8,"Cronulla Sutherland
+SHARKS",6,14,4
+0,NRL 2024,Round 17,"Saturday, 29th June, 2024",5:00pm (local time),62126,6,"22,711",WARRIORS,16,32,4,"Brisbane
+BRONCOS",6,16,7
+0,NRL 2024,Round 17,"Saturday, 29th June, 2024",5:30pm (local time),62127,11,"27,424","Newcastle
+KNIGHTS",10,34,5,"Parramatta
+EELS",12,26,4
+0,NRL 2024,Round 17,"Saturday, 29th June, 2024",7:35pm (local time),62128,251,"14,127","Melbourne
+STORM",6,16,5,"Canberra
+RAIDERS",0,6,4
+0,NRL 2024,Round 17,"Sunday, 30th June, 2024",2:00pm (local time),62129,23,"8,052","St George Illawarra
+DRAGONS",2,26,9,DOLPHINS,6,6,4
+0,NRL 2024,Round 17,"Sunday, 30th June, 2024",4:05pm (local time),62130,3,"15,777","Penrith
+PANTHERS",6,6,9,"North Queensland
+COWBOYS",12,16,4
+0,NRL 2024,Round 17,"Sunday, 30th June, 2024",6:15pm (local time),62131,1096,"14,711","Sydney
+ROOSTERS",20,40,7,WESTS TIGERS,0,6,8
+0,NRL 2024,Round 18,"Thursday, 4th July, 2024",7:50pm (local time),62132,940,"13,941","Parramatta
+EELS",4,16,8,"South Sydney
+RABBITOHS",16,32,3
+0,NRL 2024,Round 18,"Friday, 5th July, 2024",6:00pm (local time),62133,130,"8,673","Cronulla Sutherland
+SHARKS",0,16,7,"Gold Coast
+TITANS",12,20,5
+0,NRL 2024,Round 18,"Friday, 5th July, 2024",8:00pm (local time),62134,1097,"42,433","Brisbane
+BRONCOS",6,6,6,"Penrith
+PANTHERS",4,14,6
+0,NRL 2024,Round 18,"Saturday, 6th July, 2024",3:00pm (local time),62135,20,"27,223","Canterbury Bankstown
+BULLDOGS",6,13,5,WARRIORS,12,12,6
+0,NRL 2024,Round 18,"Saturday, 6th July, 2024",5:30pm (local time),62136,7,"10,311",WESTS TIGERS,12,28,7,"Melbourne
+STORM",16,40,4
+0,NRL 2024,Round 18,"Saturday, 6th July, 2024",7:35pm (local time),62137,985,"18,787","North Queensland
+COWBOYS",6,20,4,"Manly Warringah
+SEA EAGLES",12,21,3
+0,NRL 2024,Round 18,"Sunday, 7th July, 2024",2:00pm (local time),62138,1096,"23,388","Sydney
+ROOSTERS",14,42,4,"St George Illawarra
+DRAGONS",6,12,7
+0,NRL 2024,Round 18,"Sunday, 7th July, 2024",4:05pm (local time),62139,4,"12,553","Canberra
+RAIDERS",6,12,4,"Newcastle
+KNIGHTS",10,16,2
+0,NRL 2024,Round 19,"Thursday, 11th July, 2024",7:50pm (local time),62140,968,"10,023",DOLPHINS,18,36,6,"South Sydney
+RABBITOHS",10,28,6
+0,NRL 2024,Round 19,"Friday, 12th July, 2024",8:00pm (local time),62141,9,"10,912","Cronulla Sutherland
+SHARKS",24,58,7,WESTS TIGERS,6,6,6
+0,NRL 2024,Round 19,"Saturday, 13th July, 2024",5:30pm (local time),62142,149,"16,670","Gold Coast
+TITANS",18,24,5,"Parramatta
+EELS",6,16,4
+0,NRL 2024,Round 19,"Saturday, 13th July, 2024",7:35pm (local time),62143,1097,"34,224","Brisbane
+BRONCOS",6,26,4,"St George Illawarra
+DRAGONS",22,30,7
+0,NRL 2024,Round 19,"Sunday, 14th July, 2024",4:05pm (local time),62144,5,"17,298","Manly Warringah
+SEA EAGLES",20,44,4,"Newcastle
+KNIGHTS",0,6,5
+0,NRL 2024,Round 20,"Friday, 19th July, 2024",8:00pm (local time),62145,4,"8,509","Canberra
+RAIDERS",14,20,5,WARRIORS,6,18,4
+0,NRL 2024,Round 20,"Saturday, 20th July, 2024",3:00pm (local time),62146,26,"16,284","South Sydney
+RABBITOHS",22,42,7,WESTS TIGERS,18,28,2
+0,NRL 2024,Round 20,"Saturday, 20th July, 2024",5:30pm (local time),62147,11,"26,952","Newcastle
+KNIGHTS",0,14,7,"Brisbane
+BRONCOS",18,30,6
+0,NRL 2024,Round 20,"Saturday, 20th July, 2024",7:35pm (local time),62148,251,"17,055","Melbourne
+STORM",14,24,6,"Sydney
+ROOSTERS",4,8,4
+0,NRL 2024,Round 20,"Sunday, 21st July, 2024",2:00pm (local time),62149,3,"20,955","Penrith
+PANTHERS",12,28,8,DOLPHINS,18,26,5
+0,NRL 2024,Round 20,"Sunday, 21st July, 2024",4:05pm (local time),62150,5,"16,050","Manly Warringah
+SEA EAGLES",12,38,5,"Gold Coast
+TITANS",8,8,3
+0,NRL 2024,Round 20,"Sunday, 21st July, 2024",6:15pm (local time),62151,985,"16,376","North Queensland
+COWBOYS",8,20,9,"Canterbury Bankstown
+BULLDOGS",12,18,6
+0,NRL 2024,Round 21,"Friday, 26th July, 2024",8:00pm (local time),62152,6,"23,976",WARRIORS,14,28,4,WESTS TIGERS,0,16,4
+0,NRL 2024,Round 21,"Friday, 26th July, 2024",8:00pm (local time),62153,940,"11,082","Parramatta
+EELS",8,14,5,"Melbourne
+STORM",14,32,3
+0,NRL 2024,Round 21,"Saturday, 27th July, 2024",3:00pm (local time),62154,1097,"42,213","Brisbane
+BRONCOS",10,16,5,"Canterbury Bankstown
+BULLDOGS",16,41,3
+0,NRL 2024,Round 21,"Saturday, 27th July, 2024",5:30pm (local time),62155,985,"17,907","North Queensland
+COWBOYS",18,30,5,"Cronulla Sutherland
+SHARKS",10,22,4
+0,NRL 2024,Round 21,"Saturday, 27th July, 2024",7:35pm (local time),62156,1096,"25,155","Sydney
+ROOSTERS",28,34,3,"Manly Warringah
+SEA EAGLES",12,30,7
+0,NRL 2024,Round 21,"Sunday, 28th July, 2024",2:00pm (local time),62157,21,"18,988","St George Illawarra
+DRAGONS",4,10,8,"Penrith
+PANTHERS",22,46,7
+0,NRL 2024,Round 21,"Sunday, 28th July, 2024",4:05pm (local time),62158,1097,"19,533",DOLPHINS,14,14,6,"Gold Coast
+TITANS",6,21,6
+0,NRL 2024,Round 21,"Sunday, 28th July, 2024",6:15pm (local time),62159,4,"12,114","Canberra
+RAIDERS",24,32,7,"South Sydney
+RABBITOHS",8,12,6
+0,NRL 2024,Round 22,"Thursday, 1st August, 2024",7:50pm (local time),62160,7,"7,231",WESTS TIGERS,10,30,6,"North Queensland
+COWBOYS",18,48,7
+0,NRL 2024,Round 22,"Friday, 2nd August, 2024",8:00pm (local time),62161,6,"23,812",WARRIORS,4,20,8,"Parramatta
+EELS",18,30,3
+0,NRL 2024,Round 22,"Friday, 2nd August, 2024",6:00pm (local time),62162,47,"20,027",DOLPHINS,20,34,8,"Sydney
+ROOSTERS",20,40,7
+0,NRL 2024,Round 22,"Saturday, 3rd August, 2024",3:00pm (local time),62163,149,"25,278","Gold Coast
+TITANS",10,46,6,"Brisbane
+BRONCOS",18,18,5
+0,NRL 2024,Round 22,"Saturday, 3rd August, 2024",5:30pm (local time),62164,251,"18,103","Melbourne
+STORM",10,16,6,"St George Illawarra
+DRAGONS",12,18,7
+0,NRL 2024,Round 22,"Saturday, 3rd August, 2024",7:35pm (local time),62165,9,"12,763","Cronulla Sutherland
+SHARKS",4,20,7,"South Sydney
+RABBITOHS",6,6,7
+0,NRL 2024,Round 22,"Sunday, 4th August, 2024",2:00pm (local time),62166,3,"20,261","Penrith
+PANTHERS",14,22,10,"Newcastle
+KNIGHTS",6,14,6
+0,NRL 2024,Round 22,"Sunday, 4th August, 2024",4:05pm (local time),62167,27,"18,110","Canterbury Bankstown
+BULLDOGS",6,22,6,"Canberra
+RAIDERS",6,18,6
+0,NRL 2024,Round 23,"Thursday, 8th August, 2024",7:50pm (local time),62168,20,"8,973","South Sydney
+RABBITOHS",4,16,5,"Melbourne
+STORM",22,28,6
+0,NRL 2024,Round 23,"Friday, 9th August, 2024",6:00pm (local time),62169,149,"13,287","Gold Coast
+TITANS",0,0,12,"Cronulla Sutherland
+SHARKS",30,44,5
+0,NRL 2024,Round 23,"Friday, 9th August, 2024",8:00pm (local time),62170,940,"18,852","Parramatta
+EELS",16,34,9,"Penrith
+PANTHERS",14,36,3
+0,NRL 2024,Round 23,"Saturday, 10th August, 2024",3:00pm (local time),62171,4,"16,690","Canberra
+RAIDERS",12,24,7,"Manly Warringah
+SEA EAGLES",18,46,3
+0,NRL 2024,Round 23,"Saturday, 10th August, 2024",5:30pm (local time),62172,985,"24,230","North Queensland
+COWBOYS",18,18,6,"Brisbane
+BRONCOS",12,42,4
+0,NRL 2024,Round 23,"Saturday, 10th August, 2024",7:35pm (local time),62173,23,"18,416","St George Illawarra
+DRAGONS",10,10,2,"Canterbury Bankstown
+BULLDOGS",20,28,4
+0,NRL 2024,Round 23,"Sunday, 11th August, 2024",2:00pm (local time),62174,1097,"28,056",DOLPHINS,20,34,4,WARRIORS,6,32,3
+0,NRL 2024,Round 23,"Sunday, 11th August, 2024",4:05pm (local time),62175,11,"22,183","Newcastle
+KNIGHTS",22,34,8,WESTS TIGERS,12,18,7
+0,NRL 2024,Round 24,"Thursday, 15th August, 2024",7:50pm (local time),62176,3,"20,516","Penrith
+PANTHERS",12,22,8,"Melbourne
+STORM",16,24,6
+0,NRL 2024,Round 24,"Friday, 16th August, 2024",6:00pm (local time),62177,5,"17,333","Manly Warringah
+SEA EAGLES",10,24,7,WARRIORS,10,10,7
+0,NRL 2024,Round 24,"Friday, 16th August, 2024",8:00pm (local time),62178,1096,"20,724","Sydney
+ROOSTERS",24,38,8,"Parramatta
+EELS",4,14,8
+0,NRL 2024,Round 24,"Saturday, 17th August, 2024",3:00pm (local time),62179,1092,"6,148","Canterbury Bankstown
+BULLDOGS",16,30,7,DOLPHINS,10,10,4
+0,NRL 2024,Round 24,"Saturday, 17th August, 2024",5:30pm (local time),62180,985,"17,920","North Queensland
+COWBOYS",24,42,5,"Canberra
+RAIDERS",4,4,3
+0,NRL 2024,Round 24,"Saturday, 17th August, 2024",7:35pm (local time),62181,19,"11,420",WESTS TIGERS,16,18,9,"South Sydney
+RABBITOHS",4,16,7
+0,NRL 2024,Round 24,"Sunday, 18th August, 2024",2:00pm (local time),62182,21,"9,240","St George Illawarra
+DRAGONS",26,32,5,"Gold Coast
+TITANS",6,16,5
+0,NRL 2024,Round 24,"Sunday, 18th August, 2024",4:05pm (local time),62183,9,"11,503","Cronulla Sutherland
+SHARKS",10,19,9,"Newcastle
+KNIGHTS",12,18,7
+0,NRL 2024,Round 25,"Thursday, 22nd August, 2024",7:50pm (local time),62184,7,"11,520",WESTS TIGERS,12,34,8,"Manly Warringah
+SEA EAGLES",16,26,5
+0,NRL 2024,Round 25,"Friday, 23rd August, 2024",8:00pm (local time),62185,6,"24,295",WARRIORS,18,18,6,"Canterbury Bankstown
+BULLDOGS",16,34,5
+0,NRL 2024,Round 25,"Friday, 23rd August, 2024",8:00pm (local time),62186,1097,"36,289","Brisbane
+BRONCOS",12,30,4,"Parramatta
+EELS",16,24,5
+0,NRL 2024,Round 25,"Saturday, 24th August, 2024",3:00pm (local time),62187,4,"17,523","Canberra
+RAIDERS",10,22,5,"Penrith
+PANTHERS",12,18,9
+0,NRL 2024,Round 25,"Saturday, 24th August, 2024",5:30pm (local time),62188,251,"26,106","Melbourne
+STORM",22,48,6,DOLPHINS,0,6,6
+0,NRL 2024,Round 25,"Saturday, 24th August, 2024",7:35pm (local time),62189,20,"9,659","South Sydney
+RABBITOHS",12,16,4,"Newcastle
+KNIGHTS",20,36,8
+0,NRL 2024,Round 25,"Sunday, 25th August, 2024",2:00pm (local time),62190,149,"19,286","Gold Coast
+TITANS",10,22,9,"Sydney
+ROOSTERS",26,48,7
+0,NRL 2024,Round 25,"Sunday, 25th August, 2024",4:05pm (local time),62191,21,"17,754","St George Illawarra
+DRAGONS",6,10,9,"Cronulla Sutherland
+SHARKS",14,38,6
+0,NRL 2024,Round 26,"Thursday, 29th August, 2024",7:50pm (local time),62192,985,"20,787","North Queensland
+COWBOYS",18,38,5,"Melbourne
+STORM",16,30,4
+0,NRL 2024,Round 26,"Friday, 30th August, 2024",6:00pm (local time),62193,20,"35,502","Canterbury Bankstown
+BULLDOGS",12,22,7,"Manly Warringah
+SEA EAGLES",24,34,4
+0,NRL 2024,Round 26,"Friday, 30th August, 2024",8:00pm (local time),62194,3,"20,176","Penrith
+PANTHERS",18,34,11,"South Sydney
+RABBITOHS",6,12,10
+0,NRL 2024,Round 26,"Saturday, 31st August, 2024",3:00pm (local time),62195,940,"21,623","Parramatta
+EELS",26,44,5,"St George Illawarra
+DRAGONS",6,40,8
+0,NRL 2024,Round 26,"Saturday, 31st August, 2024",5:30pm (local time),62196,1097,"50,049",DOLPHINS,24,40,6,"Brisbane
+BRONCOS",6,6,6
+0,NRL 2024,Round 26,"Saturday, 31st August, 2024",7:35pm (local time),62197,9,"12,637","Cronulla Sutherland
+SHARKS",22,28,6,WARRIORS,4,30,8
+0,NRL 2024,Round 26,"Sunday, 1st September, 2024",2:00pm (local time),62198,11,"24,712","Newcastle
+KNIGHTS",12,36,5,"Gold Coast
+TITANS",4,14,2
+0,NRL 2024,Round 26,"Sunday, 1st September, 2024",4:05pm (local time),62199,1096,"27,239","Sydney
+ROOSTERS",2,12,12,"Canberra
+RAIDERS",10,14,5
+0,NRL 2024,Round 27,"Thursday, 5th September, 2024",7:50pm (local time),62200,1097,"35,086","Brisbane
+BRONCOS",6,12,2,"Melbourne
+STORM",28,50,5
+0,NRL 2024,Round 27,"Friday, 6th September, 2024",6:00pm (local time),62201,19,"17,311",WESTS TIGERS,10,26,5,"Parramatta
+EELS",22,60,4
+0,NRL 2024,Round 27,"Friday, 6th September, 2024",8:00pm (local time),62202,20,"19,674","South Sydney
+RABBITOHS",10,28,7,"Sydney
+ROOSTERS",14,36,9
+0,NRL 2024,Round 27,"Saturday, 7th September, 2024",3:00pm (local time),62203,23,"11,189","St George Illawarra
+DRAGONS",24,24,4,"Canberra
+RAIDERS",10,26,5
+0,NRL 2024,Round 27,"Saturday, 7th September, 2024",5:30pm (local time),62204,20,"32,437","Canterbury Bankstown
+BULLDOGS",0,6,4,"North Queensland
+COWBOYS",20,44,5
+0,NRL 2024,Round 27,"Saturday, 7th September, 2024",7:35pm (local time),62205,3,"21,525","Penrith
+PANTHERS",4,18,7,"Gold Coast
+TITANS",6,12,4
+0,NRL 2024,Round 27,"Sunday, 8th September, 2024",2:00pm (local time),62206,5,"17,384","Manly Warringah
+SEA EAGLES",8,20,8,"Cronulla Sutherland
+SHARKS",16,40,3
+0,NRL 2024,Round 27,"Sunday, 8th September, 2024",4:05pm (local time),62207,11,"29,433","Newcastle
+KNIGHTS",6,14,8,DOLPHINS,0,6,3
+0,NRL 2024,Qualif Final,"Friday, 13th September, 2024",7:50pm (local time),103108,3,"21,483","Penrith
+PANTHERS",24,30,6,"Sydney
+ROOSTERS",0,10,3
+0,NRL 2024,Qualif Final,"Saturday, 14th September, 2024",4:05pm (local time),103107,251,"26,326","Melbourne
+STORM",14,37,8,"Cronulla Sutherland
+SHARKS",10,10,3
+0,NRL 2024,Elim Final,"Saturday, 14th September, 2024",7:50pm (local time),103110,985,"24,861","North Queensland
+COWBOYS",4,28,2,"Newcastle
+KNIGHTS",12,16,4
+0,NRL 2024,Elim Final,"Sunday, 15th September, 2024",4:05pm (local time),103109,20,"50,714","Canterbury Bankstown
+BULLDOGS",16,22,4,"Manly Warringah
+SEA EAGLES",12,24,5
+0,NRL 2024,Semi Final,"Friday, 20th September, 2024",7:50pm (local time),103120,1096,"19,124","Cronulla Sutherland
+SHARKS",24,26,3,"North Queensland
+COWBOYS",0,18,1
+0,NRL 2024,Semi Final,"Saturday, 21st September, 2024",7:50pm (local time),103121,1096,"40,818","Sydney
+ROOSTERS",20,40,7,"Manly Warringah
+SEA EAGLES",4,16,4
+0,NRL 2024,Prelim Final,"Friday, 27th September, 2024",7:50pm (local time),103129,251,"29,213","Melbourne
+STORM",22,48,5,"Sydney
+ROOSTERS",6,18,6
+0,NRL 2024,Prelim Final,"Saturday, 28th September, 2024",7:50pm (local time),103136,20,"33,753","Penrith
+PANTHERS",10,26,3,"Cronulla Sutherland
+SHARKS",2,6,7
+0,NRL 2024,Grand Final,"Sunday, 6th October, 2024",7:30pm (local time),103131,20,"80,156","Melbourne
+STORM",6,6,4,"Penrith
+PANTHERS",10,14,3

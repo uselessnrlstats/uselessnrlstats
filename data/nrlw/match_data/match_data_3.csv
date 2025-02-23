@@ -1,0 +1,55 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRLW 2021,Round 1,"Sunday, 27th February, 2022",12:00 PM (local time),45777,11,"2,615","St George Illawarra (W)
+DRAGONS",8,20,,"Gold Coast (W)
+TITANS",0,12,
+0,NRLW 2021,Round 1,"Sunday, 27th February, 2022",1:50 PM (local time),45778,11,"3,847","Sydney (W)
+ROOSTERS",0,4,,"Brisbane (W)
+BRONCOS",10,20,
+0,NRLW 2021,Round 1,"Sunday, 27th February, 2022",3:40 PM (local time),45779,11,"5,019","Newcastle (W)
+KNIGHTS",6,12,,"Parramatta (W)
+EELS",6,13,
+0,NRLW 2021,Round 2,"Sunday, 6th March, 2022",12:00 PM (local time),45784,21,"1,036","Newcastle (W)
+KNIGHTS",0,10,7,"Brisbane (W)
+BRONCOS",12,28,7
+0,NRLW 2021,Round 2,"Sunday, 6th March, 2022",1:50 PM (local time),45785,21,"1,278","Sydney (W)
+ROOSTERS",6,16,4,"Gold Coast (W)
+TITANS",16,26,8
+0,NRLW 2021,Round 2,"Sunday, 6th March, 2022",3:40 PM (local time),45786,21,"2,079","St George Illawarra (W)
+DRAGONS",6,10,7,"Parramatta (W)
+EELS",0,0,7
+0,NRLW 2021,Round 3,"Saturday, 12th March, 2022",12:50 PM (local time),45795,24,,"Sydney (W)
+ROOSTERS",10,28,7,"Newcastle (W)
+KNIGHTS",6,12,8
+0,NRLW 2021,Round 3,"Sunday, 13th March, 2022",12:00 PM (local time),45796,940,,"St George Illawarra (W)
+DRAGONS",6,18,8,"Brisbane (W)
+BRONCOS",12,22,7
+0,NRLW 2021,Round 3,"Sunday, 13th March, 2022",1:45 PM (local time),45797,940,,"Parramatta (W)
+EELS",10,24,6,"Gold Coast (W)
+TITANS",10,14,6
+0,NRLW 2021,Round 4,"Saturday, 19th March, 2022",,45915,149,,"Gold Coast (W)
+TITANS",18,28,7,"Brisbane (W)
+BRONCOS",20,26,4
+0,NRLW 2021,Round 4,"Sunday, 20th March, 2022",,45917,11,,"Newcastle (W)
+KNIGHTS",4,4,3,"St George Illawarra (W)
+DRAGONS",16,40,10
+0,NRLW 2021,Round 4,"Sunday, 20th March, 2022",,45916,11,,"Parramatta (W)
+EELS",6,18,7,"Sydney (W)
+ROOSTERS",12,19,3
+0,NRLW 2021,Round 5,"Saturday, 26th March, 2022",,46057,23,"1,023","St George Illawarra (W)
+DRAGONS",4,16,5,"Sydney (W)
+ROOSTERS",0,10,5
+0,NRLW 2021,Round 5,"Sunday, 27th March, 2022",,46059,1097,,"Brisbane (W)
+BRONCOS",16,38,8,"Parramatta (W)
+EELS",4,4,4
+0,NRLW 2021,Round 5,"Sunday, 27th March, 2022",,46058,1097,,"Gold Coast (W)
+TITANS",0,14,6,"Newcastle (W)
+KNIGHTS",6,10,5
+0,NRLW 2021,Semi Final,"Sunday, 3rd April, 2022",12:00 PM (local time),46092,7,"1,734","St George Illawarra (W)
+DRAGONS",10,24,12,"Gold Coast (W)
+TITANS",6,18,4
+0,NRLW 2021,Semi Final,"Sunday, 3rd April, 2022",1:45 PM (local time),46093,7,"2,124","Brisbane (W)
+BRONCOS",16,16,3,"Sydney (W)
+ROOSTERS",10,22,3
+0,NRLW 2021,Grand Final,"Sunday, 10th April, 2022",1:30 PM (local time),46102,968,,"St George Illawarra (W)
+DRAGONS",4,4,6,"Sydney (W)
+ROOSTERS",0,16,7

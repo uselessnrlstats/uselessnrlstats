@@ -1,0 +1,122 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1943,Round 1,"Saturday, 24th April, 1943",3:15pm (local time),10209,7,"5,050","Balmain
+TIGERS",13,13,,"Western Suburbs
+MAGPIES",3,9,
+0,NSWRFL 1943,Round 1,"Saturday, 24th April, 1943",3:15pm (local time),10210,109,"3,260",EASTERN SUBURBS,0,8,,CANTERBURY BANKSTOWN,3,16,
+0,NSWRFL 1943,Round 1,"Saturday, 24th April, 1943",3:15pm (local time),10207,76,"6,000",NEWTOWN,7,29,,"South Sydney
+RABBITOHS",7,12,
+0,NSWRFL 1943,Round 1,"Saturday, 24th April, 1943",3:15pm (local time),10208,24,"16,480",NORTH SYDNEY,8,18,,"St George
+DRAGONS",16,19,
+0,NSWRFL 1943,Round 2,"Saturday, 1st May, 1943",3:15pm (local time),10211,24,"13,109",CANTERBURY BANKSTOWN,3,3,,NORTH SYDNEY,4,9,
+0,NSWRFL 1943,Round 2,"Saturday, 1st May, 1943",3:15pm (local time),10214,76,"3,050",NEWTOWN,3,22,,EASTERN SUBURBS,3,3,
+0,NSWRFL 1943,Round 2,"Saturday, 1st May, 1943",3:15pm (local time),10213,109,"4,499","South Sydney
+RABBITOHS",0,12,,"Balmain
+TIGERS",0,0,
+0,NSWRFL 1943,Round 2,"Saturday, 1st May, 1943",3:15pm (local time),10212,112,"3,500","Western Suburbs
+MAGPIES",0,3,,"St George
+DRAGONS",7,12,
+0,NSWRFL 1943,Round 3,"Saturday, 8th May, 1943",3:15pm (local time),10217,27,"8,300",CANTERBURY BANKSTOWN,6,6,,NEWTOWN,10,33,
+0,NSWRFL 1943,Round 3,"Saturday, 8th May, 1943",3:15pm (local time),10218,109,"3,800",EASTERN SUBURBS,11,19,,"Balmain
+TIGERS",2,7,
+0,NSWRFL 1943,Round 3,"Saturday, 8th May, 1943",3:15pm (local time),10215,25,"7,300",NORTH SYDNEY,5,11,,"Western Suburbs
+MAGPIES",4,14,
+0,NSWRFL 1943,Round 3,"Saturday, 8th May, 1943",3:15pm (local time),10216,24,"19,300","St George
+DRAGONS",8,24,,"South Sydney
+RABBITOHS",3,6,
+0,NSWRFL 1943,Round 4,"Saturday, 15th May, 1943",3:15pm (local time),10219,7,"4,850","Balmain
+TIGERS",8,19,,NEWTOWN,5,7,
+0,NSWRFL 1943,Round 4,"Saturday, 15th May, 1943",3:15pm (local time),10220,27,"3,500",CANTERBURY BANKSTOWN,0,0,,"Western Suburbs
+MAGPIES",0,11,
+0,NSWRFL 1943,Round 4,"Saturday, 15th May, 1943",3:15pm (local time),10222,24,"8,839","St George
+DRAGONS",0,0,,EASTERN SUBURBS,12,20,
+0,NSWRFL 1943,Round 4,"Saturday, 15th May, 1943",3:15pm (local time),10221,109,"4,000","South Sydney
+RABBITOHS",5,5,,NORTH SYDNEY,0,2,
+0,NSWRFL 1943,Round 5,"Saturday, 22nd May, 1943",3:15pm (local time),10224,7,"3,671","Balmain
+TIGERS",2,14,,CANTERBURY BANKSTOWN,9,11,
+0,NSWRFL 1943,Round 5,"Saturday, 22nd May, 1943",3:15pm (local time),10226,25,"5,600",NORTH SYDNEY,4,18,,EASTERN SUBURBS,5,10,
+0,NSWRFL 1943,Round 5,"Saturday, 22nd May, 1943",3:15pm (local time),10225,24,"21,600","St George
+DRAGONS",4,16,,NEWTOWN,7,15,
+0,NSWRFL 1943,Round 5,"Saturday, 22nd May, 1943",3:15pm (local time),10223,109,"3,200","South Sydney
+RABBITOHS",10,17,,"Western Suburbs
+MAGPIES",7,7,
+0,NSWRFL 1943,Round 6,"Saturday, 29th May, 1943",3:15pm (local time),10228,27,"3,013",CANTERBURY BANKSTOWN,0,3,,"South Sydney
+RABBITOHS",5,13,
+0,NSWRFL 1943,Round 6,"Saturday, 29th May, 1943",3:15pm (local time),10229,109,"3,500",EASTERN SUBURBS,5,7,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1943,Round 6,"Saturday, 29th May, 1943",3:15pm (local time),10227,76,"7,000",NEWTOWN,5,5,,NORTH SYDNEY,0,5,
+0,NSWRFL 1943,Round 6,"Saturday, 29th May, 1943",3:15pm (local time),10230,24,"20,200","St George
+DRAGONS",0,6,,"Balmain
+TIGERS",3,8,
+0,NSWRFL 1943,Round 7,"Saturday, 5th June, 1943",3:15pm (local time),10232,27,"6,840",CANTERBURY BANKSTOWN,0,5,,"St George
+DRAGONS",6,13,
+0,NSWRFL 1943,Round 7,"Saturday, 5th June, 1943",3:15pm (local time),10233,24,"23,150",EASTERN SUBURBS,8,8,,"South Sydney
+RABBITOHS",2,6,
+0,NSWRFL 1943,Round 7,"Saturday, 5th June, 1943",3:15pm (local time),10231,76,"8,000",NEWTOWN,2,14,,"Western Suburbs
+MAGPIES",3,10,
+0,NSWRFL 1943,Round 7,"Saturday, 5th June, 1943",3:15pm (local time),10234,25,"11,800",NORTH SYDNEY,2,7,,"Balmain
+TIGERS",5,7,
+0,NSWRFL 1943,Round 8,"Saturday, 19th June, 1943",3:15pm (local time),10236,7,"6,379","Balmain
+TIGERS",4,14,,"South Sydney
+RABBITOHS",0,0,
+0,NSWRFL 1943,Round 8,"Saturday, 19th June, 1943",3:15pm (local time),10237,24,"21,700",EASTERN SUBURBS,7,7,,NEWTOWN,10,13,
+0,NSWRFL 1943,Round 8,"Saturday, 19th June, 1943",3:15pm (local time),10238,25,"6,600",NORTH SYDNEY,10,36,,CANTERBURY BANKSTOWN,2,11,
+0,NSWRFL 1943,Round 8,"Saturday, 19th June, 1943",3:15pm (local time),10235,157,"8,000","St George
+DRAGONS",13,15,,"Western Suburbs
+MAGPIES",7,12,
+0,NSWRFL 1943,Round 9,"Saturday, 26th June, 1943",3:15pm (local time),10239,24,"16,737","Balmain
+TIGERS",7,17,,EASTERN SUBURBS,3,5,
+0,NSWRFL 1943,Round 9,"Saturday, 26th June, 1943",3:15pm (local time),10242,76,"4,000",NEWTOWN,5,23,,CANTERBURY BANKSTOWN,0,5,
+0,NSWRFL 1943,Round 9,"Saturday, 26th June, 1943",3:15pm (local time),10241,109,"6,000","South Sydney
+RABBITOHS",17,17,,"St George
+DRAGONS",3,8,
+0,NSWRFL 1943,Round 9,"Saturday, 26th June, 1943",3:15pm (local time),10240,112,"5,120","Western Suburbs
+MAGPIES",8,13,,NORTH SYDNEY,13,31,
+0,NSWRFL 1943,Round 10,"Saturday, 3rd July, 1943",3:15pm (local time),10244,109,"4,000",EASTERN SUBURBS,7,24,,"St George
+DRAGONS",12,26,
+0,NSWRFL 1943,Round 10,"Saturday, 3rd July, 1943",3:15pm (local time),10245,24,"42,592",NEWTOWN,7,35,,"Balmain
+TIGERS",2,7,
+0,NSWRFL 1943,Round 10,"Saturday, 3rd July, 1943",3:15pm (local time),10243,25,"10,000",NORTH SYDNEY,0,12,,"South Sydney
+RABBITOHS",3,5,
+0,NSWRFL 1943,Round 10,"Saturday, 3rd July, 1943",3:15pm (local time),10246,112,"4,630","Western Suburbs
+MAGPIES",0,8,,CANTERBURY BANKSTOWN,11,16,
+0,NSWRFL 1943,Round 11,"Saturday, 10th July, 1943",3:15pm (local time),10250,27,"3,750",CANTERBURY BANKSTOWN,2,5,,"Balmain
+TIGERS",7,38,
+0,NSWRFL 1943,Round 11,"Saturday, 10th July, 1943",3:15pm (local time),10248,109,"6,700",EASTERN SUBURBS,0,5,,NORTH SYDNEY,7,19,
+0,NSWRFL 1943,Round 11,"Saturday, 10th July, 1943",3:15pm (local time),10247,24,"26,400",NEWTOWN,5,24,,"St George
+DRAGONS",8,11,
+0,NSWRFL 1943,Round 11,"Saturday, 10th July, 1943",3:15pm (local time),10249,112,"2,500","Western Suburbs
+MAGPIES",0,3,,"South Sydney
+RABBITOHS",7,10,
+0,NSWRFL 1943,Round 12,"Saturday, 17th July, 1943",3:15pm (local time),10251,7,"6,711","Balmain
+TIGERS",8,16,,"St George
+DRAGONS",10,10,
+0,NSWRFL 1943,Round 12,"Saturday, 17th July, 1943",3:15pm (local time),10252,24,"33,200",NORTH SYDNEY,5,16,,NEWTOWN,5,10,
+0,NSWRFL 1943,Round 12,"Saturday, 17th July, 1943",3:15pm (local time),10253,109,"2,000","South Sydney
+RABBITOHS",2,12,,CANTERBURY BANKSTOWN,8,10,
+0,NSWRFL 1943,Round 12,"Saturday, 17th July, 1943",3:15pm (local time),10254,112,"2,300","Western Suburbs
+MAGPIES",10,16,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1943,Round 13,"Saturday, 24th July, 1943",3:15pm (local time),10255,24,"29,650","Balmain
+TIGERS",8,8,,NORTH SYDNEY,0,0,
+0,NSWRFL 1943,Round 13,"Saturday, 24th July, 1943",3:15pm (local time),10257,157,"4,900","St George
+DRAGONS",6,16,,CANTERBURY BANKSTOWN,6,11,
+0,NSWRFL 1943,Round 13,"Saturday, 24th July, 1943",3:15pm (local time),10258,109,"5,000","South Sydney
+RABBITOHS",18,39,,EASTERN SUBURBS,5,5,
+0,NSWRFL 1943,Round 13,"Saturday, 24th July, 1943",3:15pm (local time),10256,112,"6,500","Western Suburbs
+MAGPIES",17,19,,NEWTOWN,2,20,
+0,NSWRFL 1943,Round 14,"Saturday, 31st July, 1943",3:15pm (local time),10259,27,"1,400",CANTERBURY BANKSTOWN,5,13,,EASTERN SUBURBS,5,10,
+0,NSWRFL 1943,Round 14,"Saturday, 31st July, 1943",3:15pm (local time),10261,157,"9,500","St George
+DRAGONS",4,9,,NORTH SYDNEY,6,9,
+0,NSWRFL 1943,Round 14,"Saturday, 31st July, 1943",3:15pm (local time),10260,24,"21,387","South Sydney
+RABBITOHS",2,7,,NEWTOWN,9,22,
+0,NSWRFL 1943,Round 14,"Saturday, 31st July, 1943",3:15pm (local time),10262,112,"7,048","Western Suburbs
+MAGPIES",0,5,,"Balmain
+TIGERS",6,10,
+0,NSWRFL 1943,Playoff,"Saturday, 7th August, 1943",3:15pm (local time),10263,24,"47,232",NEWTOWN,8,11,,"Balmain
+TIGERS",7,10,
+0,NSWRFL 1943,Semi Final,"Saturday, 14th August, 1943",3:15pm (local time),10264,24,"35,920",NORTH SYDNEY,15,21,,NEWTOWN,0,16,
+0,NSWRFL 1943,Semi Final,"Saturday, 21st August, 1943",3:15pm (local time),10265,24,"27,395","St George
+DRAGONS",7,12,,"Balmain
+TIGERS",5,5,
+0,NSWRFL 1943,Final,"Saturday, 28th August, 1943",3:15pm (local time),10266,24,"41,646",NORTH SYDNEY,15,25,,"St George
+DRAGONS",14,19,
+0,NSWRFL 1943,Grand Final Chall.,"Saturday, 4th September, 1943",3:15pm (local time),10267,24,"60,922",NEWTOWN,14,34,,NORTH SYDNEY,0,7,

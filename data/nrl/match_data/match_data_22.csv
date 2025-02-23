@@ -1,0 +1,124 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1930,Round 1,"Saturday, 26th April, 1930",3:15pm (local time),9439,105,"9,000","Balmain
+TIGERS",3,12,,EASTERN SUBURBS,8,26,
+0,NSWRFL 1930,Round 1,"Saturday, 26th April, 1930",3:15pm (local time),9437,158,"6,000",NEWTOWN,17,20,,"St George
+DRAGONS",0,7,
+0,NSWRFL 1930,Round 1,"Saturday, 26th April, 1930",3:15pm (local time),9438,109,"5,498","South Sydney
+RABBITOHS",16,31,,UNIVERSITY,2,10,
+0,NSWRFL 1930,Round 1,"Saturday, 26th April, 1930",3:15pm (local time),9440,112,"5,000","Western Suburbs
+MAGPIES",0,18,,NORTH SYDNEY,5,7,
+0,NSWRFL 1930,Round 2,"Saturday, 3rd May, 1930",3:15pm (local time),9441,158,"1,500",NEWTOWN,7,7,,UNIVERSITY,0,0,
+0,NSWRFL 1930,Round 2,"Saturday, 3rd May, 1930",3:15pm (local time),9444,154,"2,000","St George
+DRAGONS",0,6,,EASTERN SUBURBS,3,11,
+0,NSWRFL 1930,Round 2,"Saturday, 3rd May, 1930",3:15pm (local time),9442,109,"4,501","South Sydney
+RABBITOHS",9,24,,NORTH SYDNEY,7,7,
+0,NSWRFL 1930,Round 2,"Saturday, 3rd May, 1930",3:15pm (local time),9443,112,"2,000","Western Suburbs
+MAGPIES",10,12,,"Balmain
+TIGERS",6,8,
+0,NSWRFL 1930,Round 3,"Saturday, 10th May, 1930",3:15pm (local time),9446,109,"9,132",EASTERN SUBURBS,9,12,,"Western Suburbs
+MAGPIES",12,24,
+0,NSWRFL 1930,Round 3,"Saturday, 10th May, 1930",3:15pm (local time),9447,25,"10,000",NORTH SYDNEY,9,18,,NEWTOWN,15,27,
+0,NSWRFL 1930,Round 3,"Saturday, 10th May, 1930",3:15pm (local time),9445,154,"3,000","St George
+DRAGONS",3,9,,UNIVERSITY,5,10,
+0,NSWRFL 1930,Round 3,"Saturday, 10th May, 1930",3:15pm (local time),9448,105,"5,000","South Sydney
+RABBITOHS",15,23,,"Balmain
+TIGERS",5,8,
+0,NSWRFL 1930,Round 4,"Saturday, 17th May, 1930",3:15pm (local time),9450,105,"8,000","Balmain
+TIGERS",8,18,,NEWTOWN,9,14,
+0,NSWRFL 1930,Round 4,"Saturday, 17th May, 1930",3:15pm (local time),9449,25,"3,000",NORTH SYDNEY,3,18,,UNIVERSITY,0,5,
+0,NSWRFL 1930,Round 4,"Saturday, 17th May, 1930",3:15pm (local time),9452,109,"15,000","South Sydney
+RABBITOHS",0,11,,EASTERN SUBURBS,7,25,
+0,NSWRFL 1930,Round 4,"Saturday, 17th May, 1930",3:15pm (local time),9451,112,"6,000","Western Suburbs
+MAGPIES",10,18,,"St George
+DRAGONS",3,3,
+0,NSWRFL 1930,Round 5,"Saturday, 21st June, 1930",3:15pm (local time),9454,105,,"Balmain
+TIGERS",19,22,,UNIVERSITY,2,2,
+0,NSWRFL 1930,Round 5,"Saturday, 21st June, 1930",3:15pm (local time),9456,158,"3,300",NEWTOWN,10,13,,EASTERN SUBURBS,4,19,
+0,NSWRFL 1930,Round 5,"Saturday, 21st June, 1930",3:15pm (local time),9453,25,"2,500",NORTH SYDNEY,5,7,,"St George
+DRAGONS",5,10,
+0,NSWRFL 1930,Round 5,"Saturday, 21st June, 1930",3:15pm (local time),9455,103,"18,017","Western Suburbs
+MAGPIES",2,12,,"South Sydney
+RABBITOHS",0,5,
+0,NSWRFL 1930,Round 6,"Saturday, 28th June, 1930",3:15pm (local time),9457,105,"3,000","Balmain
+TIGERS",6,13,,NORTH SYDNEY,8,13,
+0,NSWRFL 1930,Round 6,"Saturday, 28th June, 1930",3:15pm (local time),9458,103,,EASTERN SUBURBS,18,33,,UNIVERSITY,0,5,
+0,NSWRFL 1930,Round 6,"Saturday, 28th June, 1930",3:15pm (local time),9460,154,"2,500","South Sydney
+RABBITOHS",3,23,,"St George
+DRAGONS",5,10,
+0,NSWRFL 1930,Round 6,"Saturday, 28th June, 1930",3:15pm (local time),9459,109,"8,084","Western Suburbs
+MAGPIES",8,16,,NEWTOWN,0,0,
+0,NSWRFL 1930,Round 7,"Saturday, 19th July, 1930",3:15pm (local time),9464,103,,NORTH SYDNEY,10,12,,EASTERN SUBURBS,7,36,
+0,NSWRFL 1930,Round 7,"Saturday, 19th July, 1930",3:15pm (local time),9463,154,"2,500","St George
+DRAGONS",14,19,,"Balmain
+TIGERS",5,16,
+0,NSWRFL 1930,Round 7,"Saturday, 19th July, 1930",3:15pm (local time),9461,109,"8,200","South Sydney
+RABBITOHS",10,16,,NEWTOWN,2,12,
+0,NSWRFL 1930,Round 7,"Saturday, 19th July, 1930",3:15pm (local time),9462,112,,"Western Suburbs
+MAGPIES",12,34,,UNIVERSITY,11,17,
+0,NSWRFL 1930,Round 8,"Saturday, 26th July, 1930",3:15pm (local time),9468,109,"4,851",EASTERN SUBURBS,2,15,,"Balmain
+TIGERS",9,22,
+0,NSWRFL 1930,Round 8,"Saturday, 26th July, 1930",3:15pm (local time),9465,25,"2,500",NORTH SYDNEY,0,0,,"Western Suburbs
+MAGPIES",0,3,
+0,NSWRFL 1930,Round 8,"Saturday, 26th July, 1930",3:15pm (local time),9467,154,,"St George
+DRAGONS",3,8,,NEWTOWN,3,8,
+0,NSWRFL 1930,Round 8,"Saturday, 26th July, 1930",3:15pm (local time),9466,105,,"South Sydney
+RABBITOHS",6,17,,UNIVERSITY,3,8,
+0,NSWRFL 1930,Round 9,"Saturday, 9th August, 1930",3:15pm (local time),9471,154,,EASTERN SUBURBS,3,13,,"St George
+DRAGONS",0,5,
+0,NSWRFL 1930,Round 9,"Saturday, 9th August, 1930",3:15pm (local time),9469,158,,NEWTOWN,8,8,,UNIVERSITY,6,11,
+0,NSWRFL 1930,Round 9,"Saturday, 9th August, 1930",3:15pm (local time),9470,25,"3,000",NORTH SYDNEY,3,17,,"South Sydney
+RABBITOHS",15,27,
+0,NSWRFL 1930,Round 9,"Saturday, 9th August, 1930",3:15pm (local time),9472,109,"5,685","Western Suburbs
+MAGPIES",16,16,,"Balmain
+TIGERS",0,11,
+0,NSWRFL 1930,Round 10,"Saturday, 16th August, 1930",3:15pm (local time),9475,105,"5,000","Balmain
+TIGERS",8,10,,"South Sydney
+RABBITOHS",6,21,
+0,NSWRFL 1930,Round 10,"Saturday, 16th August, 1930",3:15pm (local time),9476,109,"13,172",EASTERN SUBURBS,8,23,,"Western Suburbs
+MAGPIES",5,18,
+0,NSWRFL 1930,Round 10,"Saturday, 16th August, 1930",3:15pm (local time),9473,158,"2,000",NEWTOWN,6,27,,NORTH SYDNEY,3,10,
+0,NSWRFL 1930,Round 10,"Saturday, 16th August, 1930",3:15pm (local time),9474,154,"2,500","St George
+DRAGONS",10,33,,UNIVERSITY,2,2,
+0,NSWRFL 1930,Round 11,"Saturday, 23rd August, 1930",3:15pm (local time),9479,109,"11,864",EASTERN SUBURBS,5,10,,"South Sydney
+RABBITOHS",5,16,
+0,NSWRFL 1930,Round 11,"Saturday, 23rd August, 1930",3:15pm (local time),9480,158,"2,000",NEWTOWN,16,25,,"Balmain
+TIGERS",10,12,
+0,NSWRFL 1930,Round 11,"Saturday, 23rd August, 1930",3:15pm (local time),9477,25,,NORTH SYDNEY,8,16,,UNIVERSITY,0,10,
+0,NSWRFL 1930,Round 11,"Saturday, 23rd August, 1930",3:15pm (local time),9478,154,,"St George
+DRAGONS",8,19,,"Western Suburbs
+MAGPIES",6,9,
+0,NSWRFL 1930,Round 12,"Saturday, 30th August, 1930",3:15pm (local time),9482,150,"1,000","Balmain
+TIGERS",16,31,,UNIVERSITY,6,9,
+0,NSWRFL 1930,Round 12,"Saturday, 30th August, 1930",3:15pm (local time),9483,158,"2,000",EASTERN SUBURBS,2,7,,NEWTOWN,5,5,
+0,NSWRFL 1930,Round 12,"Saturday, 30th August, 1930",3:15pm (local time),9484,154,,"St George
+DRAGONS",14,18,,NORTH SYDNEY,0,8,
+0,NSWRFL 1930,Round 12,"Saturday, 30th August, 1930",3:15pm (local time),9481,109,"10,418","South Sydney
+RABBITOHS",5,5,,"Western Suburbs
+MAGPIES",5,16,
+0,NSWRFL 1930,Round 13,"Saturday, 6th September, 1930",3:15pm (local time),9487,105,,"Balmain
+TIGERS",22,28,,NORTH SYDNEY,9,20,
+0,NSWRFL 1930,Round 13,"Saturday, 6th September, 1930",3:15pm (local time),9488,103,500,EASTERN SUBURBS,23,43,,UNIVERSITY,10,18,
+0,NSWRFL 1930,Round 13,"Saturday, 6th September, 1930",3:15pm (local time),9485,109,"7,465",NEWTOWN,7,10,,"Western Suburbs
+MAGPIES",8,22,
+0,NSWRFL 1930,Round 13,"Saturday, 6th September, 1930",3:15pm (local time),9486,154,,"St George
+DRAGONS",3,11,,"South Sydney
+RABBITOHS",0,3,
+0,NSWRFL 1930,Round 14,"Saturday, 13th September, 1930",3:15pm (local time),9490,154,"5,000","Balmain
+TIGERS",0,3,,"St George
+DRAGONS",3,3,
+0,NSWRFL 1930,Round 14,"Saturday, 13th September, 1930",3:15pm (local time),9489,109,"4,725",NEWTOWN,10,18,,"South Sydney
+RABBITOHS",3,12,
+0,NSWRFL 1930,Round 14,"Saturday, 13th September, 1930",3:15pm (local time),9492,103,500,NORTH SYDNEY,0,11,,EASTERN SUBURBS,14,43,
+0,NSWRFL 1930,Round 14,"Saturday, 13th September, 1930",3:15pm (local time),9491,105,,"Western Suburbs
+MAGPIES",8,19,,UNIVERSITY,3,10,
+0,NSWRFL 1930,Semi Final,"Saturday, 20th September, 1930",3:15pm (local time),9493,154,"6,980","St George
+DRAGONS",0,11,,EASTERN SUBURBS,5,10,
+0,NSWRFL 1930,Semi Final,"Saturday, 20th September, 1930",3:15pm (local time),9494,109,"13,000","Western Suburbs
+MAGPIES",2,9,,"South Sydney
+RABBITOHS",2,5,
+0,NSWRFL 1930,Final,"Saturday, 27th September, 1930",3:15pm (local time),9495,109,"16,557","St George
+DRAGONS",4,14,,"Western Suburbs
+MAGPIES",0,6,
+0,NSWRFL 1930,Grand Final Chall.,"Saturday, 4th October, 1930",3:15pm (local time),9496,109,"12,178","Western Suburbs
+MAGPIES",8,27,,"St George
+DRAGONS",2,2,

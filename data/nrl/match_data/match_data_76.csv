@@ -1,0 +1,490 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1984,Round 1,"Saturday, 24th March, 1984",3:00pm (local time),4983,24,"11,462","Eastern Suburbs
+ROOSTERS",8,24,10,"Manly Warringah
+SEA EAGLES",8,8,16
+0,NSWRL 1984,Round 1,"Sunday, 25th March, 1984",,4986,7,"5,869","Balmain
+TIGERS",8,20,9,"Illawarra
+STEELERS",14,18,10
+0,NSWRL 1984,Round 1,"Sunday, 25th March, 1984",,4987,27,"20,374","Canterbury Bankstown
+BULLDOGS",12,18,13,"Parramatta
+EELS",8,16,11
+0,NSWRL 1984,Round 1,"Sunday, 25th March, 1984",,4988,9,"4,704","Cronulla Sutherland
+SHARKS",6,14,13,"Canberra
+RAIDERS",8,18,7
+0,NSWRL 1984,Round 1,"Sunday, 25th March, 1984",,4984,3,"10,790","Penrith
+PANTHERS",4,10,10,"St George
+DRAGONS",14,24,11
+0,NSWRL 1984,Round 1,"Sunday, 25th March, 1984",,4985,44,"8,223","South Sydney
+RABBITOHS",14,20,13,"Western Suburbs
+MAGPIES",4,4,13
+0,NSWRL 1984,Round 2,"Wednesday, 28th March, 1984",,4990,48,"8,203","Canberra
+RAIDERS",10,22,8,"Western Suburbs
+MAGPIES",12,12,11
+0,NSWRL 1984,Round 2,"Wednesday, 28th March, 1984",,4994,24,"21,438","Canterbury Bankstown
+BULLDOGS",6,16,13,"Eastern Suburbs
+ROOSTERS",0,6,9
+0,NSWRL 1984,Round 2,"Wednesday, 28th March, 1984",,4992,21,"5,611","Illawarra
+STEELERS",8,20,12,"Cronulla Sutherland
+SHARKS",0,0,8
+0,NSWRL 1984,Round 2,"Wednesday, 28th March, 1984",,4989,5,"4,520","Manly Warringah
+SEA EAGLES",6,26,11,"Penrith
+PANTHERS",2,8,7
+0,NSWRL 1984,Round 2,"Wednesday, 28th March, 1984",,4991,27,"4,782","Parramatta
+EELS",14,30,11,"North Sydney
+BEARS",2,8,10
+0,NSWRL 1984,Round 2,"Wednesday, 28th March, 1984",,4993,24,"21,438","St George
+DRAGONS",6,18,6,"South Sydney
+RABBITOHS",2,10,13
+0,NSWRL 1984,Round 3,"Saturday, 31st March, 1984",,4995,7,"7,082","Balmain
+TIGERS",10,10,8,"Manly Warringah
+SEA EAGLES",12,32,17
+0,NSWRL 1984,Round 3,"Sunday, 1st April, 1984",,4997,9,"7,459","Cronulla Sutherland
+SHARKS",10,20,15,"St George
+DRAGONS",2,12,5
+0,NSWRL 1984,Round 3,"Sunday, 1st April, 1984",,4999,25,"5,120","North Sydney
+BEARS",20,32,11,"Canberra
+RAIDERS",8,8,6
+0,NSWRL 1984,Round 3,"Sunday, 1st April, 1984",,5000,3,"4,815","Penrith
+PANTHERS",4,16,11,"Eastern Suburbs
+ROOSTERS",0,8,7
+0,NSWRL 1984,Round 3,"Sunday, 1st April, 1984",,4998,44,"9,327","South Sydney
+RABBITOHS",2,8,12,"Parramatta
+EELS",2,12,14
+0,NSWRL 1984,Round 3,"Sunday, 1st April, 1984",3:00pm (local time),4996,27,"7,340","Canterbury Bankstown
+BULLDOGS",8,21,8,"Illawarra
+STEELERS",4,8,10
+0,NSWRL 1984,Round 4,"Wednesday, 4th April, 1984",,5005,24,"17,793","Balmain
+TIGERS",14,20,12,"Eastern Suburbs
+ROOSTERS",4,12,11
+0,NSWRL 1984,Round 4,"Wednesday, 4th April, 1984",,5002,48,"9,935","Canberra
+RAIDERS",6,29,12,"South Sydney
+RABBITOHS",4,4,10
+0,NSWRL 1984,Round 4,"Wednesday, 4th April, 1984",,5001,21,"5,243","Illawarra
+STEELERS",10,10,11,"Penrith
+PANTHERS",2,6,10
+0,NSWRL 1984,Round 4,"Wednesday, 4th April, 1984",,5004,27,"4,243","Parramatta
+EELS",6,14,12,"Cronulla Sutherland
+SHARKS",0,6,9
+0,NSWRL 1984,Round 4,"Wednesday, 4th April, 1984",,5003,110,"3,682","Western Suburbs
+MAGPIES",4,8,9,"North Sydney
+BEARS",6,16,11
+0,NSWRL 1984,Round 4,"Wednesday, 4th April, 1984",3:00pm (local time),5006,24,"17,793","St George
+DRAGONS",10,17,10,"Canterbury Bankstown
+BULLDOGS",0,8,8
+0,NSWRL 1984,Round 5,"Saturday, 7th April, 1984",,5007,25,"5,362","North Sydney
+BEARS",16,27,15,"St George
+DRAGONS",8,20,8
+0,NSWRL 1984,Round 5,"Sunday, 8th April, 1984",,5008,27,"7,414","Canterbury Bankstown
+BULLDOGS",4,8,11,"Manly Warringah
+SEA EAGLES",0,6,9
+0,NSWRL 1984,Round 5,"Sunday, 8th April, 1984",,5009,9,"3,725","Cronulla Sutherland
+SHARKS",6,26,13,"Eastern Suburbs
+ROOSTERS",2,4,11
+0,NSWRL 1984,Round 5,"Sunday, 8th April, 1984",,5012,3,"3,280","Penrith
+PANTHERS",4,8,13,"Balmain
+TIGERS",8,16,7
+0,NSWRL 1984,Round 5,"Sunday, 8th April, 1984",,5010,44,"2,566","South Sydney
+RABBITOHS",10,16,8,"Illawarra
+STEELERS",0,8,10
+0,NSWRL 1984,Round 5,"Sunday, 8th April, 1984",,5011,110,"4,957","Western Suburbs
+MAGPIES",4,4,8,"Parramatta
+EELS",2,27,13
+0,NSWRL 1984,Round 6,"Saturday, 14th April, 1984",,5013,27,"4,390","Parramatta
+EELS",12,19,8,"Canberra
+RAIDERS",0,6,11
+0,NSWRL 1984,Round 6,"Sunday, 15th April, 1984",,5016,7,"9,694","Balmain
+TIGERS",2,6,13,"Canterbury Bankstown
+BULLDOGS",2,7,14
+0,NSWRL 1984,Round 6,"Sunday, 15th April, 1984",,5014,21,"6,780","Illawarra
+STEELERS",6,18,10,"North Sydney
+BEARS",8,14,9
+0,NSWRL 1984,Round 6,"Sunday, 15th April, 1984",,5017,5,"8,117","Manly Warringah
+SEA EAGLES",18,50,9,"Cronulla Sutherland
+SHARKS",8,14,12
+0,NSWRL 1984,Round 6,"Sunday, 15th April, 1984",,5015,23,"6,035","St George
+DRAGONS",6,17,6,"Western Suburbs
+MAGPIES",10,14,11
+0,NSWRL 1984,Round 6,"Sunday, 15th April, 1984",,5018,44,"7,753","South Sydney
+RABBITOHS",16,24,5,"Eastern Suburbs
+ROOSTERS",4,8,10
+0,NSWRL 1984,Round 7,"Saturday, 21st April, 1984",,5019,23,"5,450","St George
+DRAGONS",2,8,9,"Canberra
+RAIDERS",12,12,8
+0,NSWRL 1984,Round 7,"Sunday, 22nd April, 1984",,5020,27,"8,304","Canterbury Bankstown
+BULLDOGS",10,20,8,"Penrith
+PANTHERS",0,8,7
+0,NSWRL 1984,Round 7,"Sunday, 22nd April, 1984",,5023,9,"5,244","Cronulla Sutherland
+SHARKS",14,32,11,"Balmain
+TIGERS",12,18,13
+0,NSWRL 1984,Round 7,"Sunday, 22nd April, 1984",,5024,25,"7,299","North Sydney
+BEARS",14,20,12,"Eastern Suburbs
+ROOSTERS",4,22,10
+0,NSWRL 1984,Round 7,"Sunday, 22nd April, 1984",,5022,44,"9,643","South Sydney
+RABBITOHS",4,8,15,"Manly Warringah
+SEA EAGLES",6,16,11
+0,NSWRL 1984,Round 7,"Sunday, 22nd April, 1984",,5021,110,"3,951","Western Suburbs
+MAGPIES",10,13,10,"Illawarra
+STEELERS",0,10,11
+0,NSWRL 1984,Round 8,"Wednesday, 25th April, 1984",,5026,7,"8,362","Balmain
+TIGERS",12,16,9,"South Sydney
+RABBITOHS",0,2,12
+0,NSWRL 1984,Round 8,"Wednesday, 25th April, 1984",,5027,109,"4,924","Eastern Suburbs
+ROOSTERS",30,54,10,"Western Suburbs
+MAGPIES",0,6,3
+0,NSWRL 1984,Round 8,"Wednesday, 25th April, 1984",,5029,21,"6,127","Illawarra
+STEELERS",10,10,13,"Canberra
+RAIDERS",2,14,13
+0,NSWRL 1984,Round 8,"Wednesday, 25th April, 1984",,5025,5,"13,029","Manly Warringah
+SEA EAGLES",6,12,12,"North Sydney
+BEARS",10,26,8
+0,NSWRL 1984,Round 8,"Wednesday, 25th April, 1984",,5030,3,"4,414","Penrith
+PANTHERS",14,24,8,"Cronulla Sutherland
+SHARKS",10,12,6
+0,NSWRL 1984,Round 8,"Wednesday, 25th April, 1984",,5028,23,"17,460","St George
+DRAGONS",16,24,8,"Parramatta
+EELS",12,20,10
+0,NSWRL 1984,Round 9,"Saturday, 28th April, 1984",,5031,25,"7,019","North Sydney
+BEARS",4,6,12,"Balmain
+TIGERS",6,12,6
+0,NSWRL 1984,Round 9,"Sunday, 29th April, 1984",,5032,48,"14,754","Canberra
+RAIDERS",26,44,6,"Eastern Suburbs
+ROOSTERS",8,12,8
+0,NSWRL 1984,Round 9,"Sunday, 29th April, 1984",,5036,9,"7,099","Cronulla Sutherland
+SHARKS",8,10,16,"Canterbury Bankstown
+BULLDOGS",18,26,10
+0,NSWRL 1984,Round 9,"Sunday, 29th April, 1984",,5033,27,"5,840","Parramatta
+EELS",16,26,12,"Illawarra
+STEELERS",2,6,11
+0,NSWRL 1984,Round 9,"Sunday, 29th April, 1984",,5035,44,"3,627","South Sydney
+RABBITOHS",6,8,4,"Penrith
+PANTHERS",6,22,12
+0,NSWRL 1984,Round 9,"Sunday, 29th April, 1984",,5034,110,"4,477","Western Suburbs
+MAGPIES",8,14,10,"Manly Warringah
+SEA EAGLES",8,16,10
+0,NSWRL 1984,Round 10,"Saturday, 5th May, 1984",,5037,21,"6,445","Illawarra
+STEELERS",4,8,5,"St George
+DRAGONS",12,20,15
+0,NSWRL 1984,Round 10,"Sunday, 6th May, 1984",,5038,7,"6,145","Balmain
+TIGERS",12,18,10,"Western Suburbs
+MAGPIES",10,16,12
+0,NSWRL 1984,Round 10,"Sunday, 6th May, 1984",,5039,27,"9,159","Canterbury Bankstown
+BULLDOGS",10,18,10,"South Sydney
+RABBITOHS",2,4,10
+0,NSWRL 1984,Round 10,"Sunday, 6th May, 1984",,5041,5,"13,240","Manly Warringah
+SEA EAGLES",16,28,6,"Canberra
+RAIDERS",4,10,10
+0,NSWRL 1984,Round 10,"Sunday, 6th May, 1984",,5042,24,"9,542","Parramatta
+EELS",8,12,4,"Eastern Suburbs
+ROOSTERS",0,2,13
+0,NSWRL 1984,Round 10,"Sunday, 6th May, 1984",,5040,3,"4,218","Penrith
+PANTHERS",12,12,6,"North Sydney
+BEARS",2,4,9
+0,NSWRL 1984,Round 11,"Saturday, 12th May, 1984",,5043,25,"6,266","North Sydney
+BEARS",0,8,8,"Canterbury Bankstown
+BULLDOGS",12,19,7
+0,NSWRL 1984,Round 11,"Sunday, 13th May, 1984",,5046,48,"12,434","Canberra
+RAIDERS",8,12,11,"Balmain
+TIGERS",4,14,10
+0,NSWRL 1984,Round 11,"Sunday, 13th May, 1984",,5044,27,"16,635","Parramatta
+EELS",10,19,6,"Manly Warringah
+SEA EAGLES",0,8,8
+0,NSWRL 1984,Round 11,"Sunday, 13th May, 1984",,5048,23,"8,131","St George
+DRAGONS",4,10,9,"Eastern Suburbs
+ROOSTERS",12,20,11
+0,NSWRL 1984,Round 11,"Sunday, 13th May, 1984",,5047,44,"3,596","South Sydney
+RABBITOHS",14,40,10,"Cronulla Sutherland
+SHARKS",16,16,13
+0,NSWRL 1984,Round 11,"Sunday, 13th May, 1984",,5045,110,"3,470","Western Suburbs
+MAGPIES",12,20,11,"Penrith
+PANTHERS",8,30,9
+0,NSWRL 1984,Round 12,"Sunday, 20th May, 1984",,5050,7,"12,475","Balmain
+TIGERS",0,2,10,"Parramatta
+EELS",8,12,10
+0,NSWRL 1984,Round 12,"Sunday, 20th May, 1984",,5051,27,"8,317","Canterbury Bankstown
+BULLDOGS",14,18,10,"Western Suburbs
+MAGPIES",0,10,12
+0,NSWRL 1984,Round 12,"Sunday, 20th May, 1984",,5052,9,"3,720","Cronulla Sutherland
+SHARKS",2,12,9,"North Sydney
+BEARS",2,10,14
+0,NSWRL 1984,Round 12,"Sunday, 20th May, 1984",,5053,109,"2,907","Eastern Suburbs
+ROOSTERS",0,0,10,"Illawarra
+STEELERS",10,10,12
+0,NSWRL 1984,Round 12,"Sunday, 20th May, 1984",,5049,5,"12,119","Manly Warringah
+SEA EAGLES",,10,12,"St George
+DRAGONS",,18,15
+0,NSWRL 1984,Round 12,"Sunday, 20th May, 1984",,5054,3,"7,905","Penrith
+PANTHERS",10,28,6,"Canberra
+RAIDERS",0,10,7
+0,NSWRL 1984,Round 13,"Saturday, 26th May, 1984",,5055,23,"7,481","St George
+DRAGONS",8,20,10,"Balmain
+TIGERS",6,8,10
+0,NSWRL 1984,Round 13,"Sunday, 27th May, 1984",,5059,48,"15,679","Canberra
+RAIDERS",12,18,10,"Canterbury Bankstown
+BULLDOGS",2,14,10
+0,NSWRL 1984,Round 13,"Sunday, 27th May, 1984",,5056,21,"10,026","Illawarra
+STEELERS",8,18,9,"Manly Warringah
+SEA EAGLES",10,14,8
+0,NSWRL 1984,Round 13,"Sunday, 27th May, 1984",,5057,25,"4,842","North Sydney
+BEARS",,6,15,"South Sydney
+RABBITOHS",,14,10
+0,NSWRL 1984,Round 13,"Sunday, 27th May, 1984",,5058,27,"9,086","Parramatta
+EELS",2,10,12,"Penrith
+PANTHERS",10,22,12
+0,NSWRL 1984,Round 13,"Sunday, 27th May, 1984",,5060,110,"3,471","Western Suburbs
+MAGPIES",2,6,13,"Cronulla Sutherland
+SHARKS",16,32,4
+0,NSWRL 1984,Round 14,"Saturday, 2nd June, 1984",,5061,23,"7,594","St George
+DRAGONS",26,40,3,"Penrith
+PANTHERS",0,6,11
+0,NSWRL 1984,Round 14,"Sunday, 3rd June, 1984",,5062,48,"9,611","Canberra
+RAIDERS",10,38,14,"Cronulla Sutherland
+SHARKS",14,14,10
+0,NSWRL 1984,Round 14,"Sunday, 3rd June, 1984",,5064,21,"9,165","Illawarra
+STEELERS",12,44,7,"Balmain
+TIGERS",8,26,5
+0,NSWRL 1984,Round 14,"Sunday, 3rd June, 1984",,5066,5,"9,021","Manly Warringah
+SEA EAGLES",24,38,8,"Eastern Suburbs
+ROOSTERS",0,12,5
+0,NSWRL 1984,Round 14,"Sunday, 3rd June, 1984",,5065,27,"22,749","Parramatta
+EELS",8,14,12,"Canterbury Bankstown
+BULLDOGS",8,13,6
+0,NSWRL 1984,Round 14,"Sunday, 3rd June, 1984",,5063,110,"4,023","Western Suburbs
+MAGPIES",4,4,9,"South Sydney
+RABBITOHS",14,26,13
+0,NSWRL 1984,Round 15,"Sunday, 10th June, 1984",,5068,27,"18,228","Canterbury Bankstown
+BULLDOGS",6,8,10,"St George
+DRAGONS",4,4,14
+0,NSWRL 1984,Round 15,"Sunday, 10th June, 1984",,5069,9,"5,447","Cronulla Sutherland
+SHARKS",6,16,12,"Parramatta
+EELS",6,6,8
+0,NSWRL 1984,Round 15,"Sunday, 10th June, 1984",,5067,25,"1,689","North Sydney
+BEARS",7,13,8,"Western Suburbs
+MAGPIES",6,6,8
+0,NSWRL 1984,Round 15,"Sunday, 10th June, 1984",,5070,3,"5,053","Penrith
+PANTHERS",,18,8,"Illawarra
+STEELERS",,10,9
+0,NSWRL 1984,Round 15,"Sunday, 10th June, 1984",,5071,44,"3,663","South Sydney
+RABBITOHS",,16,3,"Canberra
+RAIDERS",,6,7
+0,NSWRL 1984,Round 15,"Monday, 11th June, 1984",,5072,7,"7,014","Balmain
+TIGERS",10,22,8,"Eastern Suburbs
+ROOSTERS",8,16,9
+0,NSWRL 1984,Round 16,"Saturday, 16th June, 1984",,5073,5,"10,276","Manly Warringah
+SEA EAGLES",0,4,9,"Balmain
+TIGERS",8,15,4
+0,NSWRL 1984,Round 16,"Sunday, 17th June, 1984",,5075,48,"8,574","Canberra
+RAIDERS",2,14,4,"North Sydney
+BEARS",6,17,11
+0,NSWRL 1984,Round 16,"Sunday, 17th June, 1984",,5077,21,"10,088","Illawarra
+STEELERS",4,18,10,"Canterbury Bankstown
+BULLDOGS",6,8,6
+0,NSWRL 1984,Round 16,"Sunday, 17th June, 1984",,5074,27,"9,525","Parramatta
+EELS",4,4,8,"South Sydney
+RABBITOHS",0,18,8
+0,NSWRL 1984,Round 16,"Sunday, 17th June, 1984",,5078,23,"10,293","St George
+DRAGONS",14,32,7,"Cronulla Sutherland
+SHARKS",6,22,7
+0,NSWRL 1984,Round 16,"Sunday, 17th June, 1984",3:00pm (local time),5076,109,"2,750","Eastern Suburbs
+ROOSTERS",6,12,13,"Penrith
+PANTHERS",20,32,10
+0,NSWRL 1984,Round 17,"Saturday, 23rd June, 1984",,5079,3,"11,597","Penrith
+PANTHERS",10,14,14,"Manly Warringah
+SEA EAGLES",10,15,7
+0,NSWRL 1984,Round 17,"Sunday, 24th June, 1984",,5081,27,"9,166","Canterbury Bankstown
+BULLDOGS",18,42,12,"Eastern Suburbs
+ROOSTERS",8,16,9
+0,NSWRL 1984,Round 17,"Sunday, 24th June, 1984",,5082,9,"4,675","Cronulla Sutherland
+SHARKS",,8,8,"Illawarra
+STEELERS",,24,9
+0,NSWRL 1984,Round 17,"Sunday, 24th June, 1984",,5080,25,"5,836","North Sydney
+BEARS",,10,10,"Parramatta
+EELS",,22,6
+0,NSWRL 1984,Round 17,"Sunday, 24th June, 1984",,5083,44,"15,349","South Sydney
+RABBITOHS",10,10,11,"St George
+DRAGONS",4,18,16
+0,NSWRL 1984,Round 17,"Sunday, 24th June, 1984",,5084,110,"2,526","Western Suburbs
+MAGPIES",6,12,11,"Canberra
+RAIDERS",14,26,7
+0,NSWRL 1984,Round 18,"Saturday, 30th June, 1984",3:00pm (local time),5085,21,"7,110","Illawarra
+STEELERS",8,12,12,"South Sydney
+RABBITOHS",10,22,5
+0,NSWRL 1984,Round 18,"Sunday, 1st July, 1984",,5087,7,"6,222","Balmain
+TIGERS",2,14,8,"Penrith
+PANTHERS",14,24,12
+0,NSWRL 1984,Round 18,"Sunday, 1st July, 1984",,5090,109,"2,009","Eastern Suburbs
+ROOSTERS",2,16,11,"Cronulla Sutherland
+SHARKS",16,34,6
+0,NSWRL 1984,Round 18,"Sunday, 1st July, 1984",,5089,5,"14,305","Manly Warringah
+SEA EAGLES",0,6,15,"Canterbury Bankstown
+BULLDOGS",10,16,8
+0,NSWRL 1984,Round 18,"Sunday, 1st July, 1984",,5086,27,"6,123","Parramatta
+EELS",24,46,6,"Western Suburbs
+MAGPIES",6,12,10
+0,NSWRL 1984,Round 18,"Sunday, 1st July, 1984",,5088,23,"8,416","St George
+DRAGONS",8,18,10,"North Sydney
+BEARS",6,12,7
+0,NSWRL 1984,Round 19,"Sunday, 8th July, 1984",,5091,48,"17,407","Canberra
+RAIDERS",4,14,14,"Parramatta
+EELS",6,10,9
+0,NSWRL 1984,Round 19,"Sunday, 8th July, 1984",,5096,27,"12,537","Canterbury Bankstown
+BULLDOGS",12,16,9,"Balmain
+TIGERS",10,10,15
+0,NSWRL 1984,Round 19,"Sunday, 8th July, 1984",,5092,9,"6,136","Cronulla Sutherland
+SHARKS",10,16,10,"Manly Warringah
+SEA EAGLES",18,20,13
+0,NSWRL 1984,Round 19,"Sunday, 8th July, 1984",,5093,109,"5,286","Eastern Suburbs
+ROOSTERS",12,12,4,"South Sydney
+RABBITOHS",8,14,9
+0,NSWRL 1984,Round 19,"Sunday, 8th July, 1984",,5094,25,"2,367","North Sydney
+BEARS",20,34,4,"Illawarra
+STEELERS",8,24,4
+0,NSWRL 1984,Round 19,"Sunday, 8th July, 1984",,5095,110,"5,452","Western Suburbs
+MAGPIES",7,7,12,"St George
+DRAGONS",4,26,8
+0,NSWRL 1984,Round 20,"Saturday, 14th July, 1984",,5097,48,"13,434","Canberra
+RAIDERS",2,2,8,"St George
+DRAGONS",6,15,8
+0,NSWRL 1984,Round 20,"Sunday, 15th July, 1984",,5100,7,"4,211","Balmain
+TIGERS",4,18,12,"Cronulla Sutherland
+SHARKS",8,8,14
+0,NSWRL 1984,Round 20,"Sunday, 15th July, 1984",,5101,109,"2,102","Eastern Suburbs
+ROOSTERS",0,6,8,"North Sydney
+BEARS",4,6,5
+0,NSWRL 1984,Round 20,"Sunday, 15th July, 1984",,5098,21,"4,149","Illawarra
+STEELERS",8,22,13,"Western Suburbs
+MAGPIES",4,16,8
+0,NSWRL 1984,Round 20,"Sunday, 15th July, 1984",,5099,5,"10,885","Manly Warringah
+SEA EAGLES",2,20,17,"South Sydney
+RABBITOHS",2,2,10
+0,NSWRL 1984,Round 20,"Sunday, 15th July, 1984",,5102,3,"13,892","Penrith
+PANTHERS",6,20,11,"Canterbury Bankstown
+BULLDOGS",16,22,8
+0,NSWRL 1984,Round 21,"Saturday, 21st July, 1984",,5103,9,"4,095","Cronulla Sutherland
+SHARKS",18,22,7,"Penrith
+PANTHERS",18,22,13
+0,NSWRL 1984,Round 21,"Sunday, 22nd July, 1984",,5105,48,"3,465","Canberra
+RAIDERS",4,8,9,"Illawarra
+STEELERS",6,14,7
+0,NSWRL 1984,Round 21,"Sunday, 22nd July, 1984",,5106,25,"2,828","North Sydney
+BEARS",0,4,7,"Manly Warringah
+SEA EAGLES",30,56,9
+0,NSWRL 1984,Round 21,"Sunday, 22nd July, 1984",,5104,27,"13,108","Parramatta
+EELS",3,3,10,"St George
+DRAGONS",0,2,10
+0,NSWRL 1984,Round 21,"Sunday, 22nd July, 1984",,5107,44,"3,406","South Sydney
+RABBITOHS",4,10,9,"Balmain
+TIGERS",0,0,11
+0,NSWRL 1984,Round 21,"Sunday, 22nd July, 1984",,5108,110,"1,395","Western Suburbs
+MAGPIES",4,6,11,"Eastern Suburbs
+ROOSTERS",2,8,12
+0,NSWRL 1984,Round 22,"Saturday, 28th July, 1984",,5109,27,"6,192","Canterbury Bankstown
+BULLDOGS",2,6,7,"Cronulla Sutherland
+SHARKS",16,24,13
+0,NSWRL 1984,Round 22,"Sunday, 29th July, 1984",,5113,7,"3,675","Balmain
+TIGERS",0,16,2,"North Sydney
+BEARS",16,32,18
+0,NSWRL 1984,Round 22,"Sunday, 29th July, 1984",,5114,109,"2,402","Eastern Suburbs
+ROOSTERS",0,4,11,"Canberra
+RAIDERS",8,10,12
+0,NSWRL 1984,Round 22,"Sunday, 29th July, 1984",,5110,21,"9,072","Illawarra
+STEELERS",0,4,12,"Parramatta
+EELS",6,18,12
+0,NSWRL 1984,Round 22,"Sunday, 29th July, 1984",,5111,5,"7,021","Manly Warringah
+SEA EAGLES",6,42,11,"Western Suburbs
+MAGPIES",8,12,7
+0,NSWRL 1984,Round 22,"Sunday, 29th July, 1984",,5112,3,"10,346","Penrith
+PANTHERS",6,18,8,"South Sydney
+RABBITOHS",2,2,7
+0,NSWRL 1984,Round 23,"Saturday, 4th August, 1984",,5115,48,"7,727","Canberra
+RAIDERS",10,16,11,"Manly Warringah
+SEA EAGLES",2,12,6
+0,NSWRL 1984,Round 23,"Sunday, 5th August, 1984",,5116,25,"2,175","North Sydney
+BEARS",18,28,10,"Penrith
+PANTHERS",8,18,4
+0,NSWRL 1984,Round 23,"Sunday, 5th August, 1984",,5120,27,"5,318","Parramatta
+EELS",2,12,7,"Eastern Suburbs
+ROOSTERS",2,8,7
+0,NSWRL 1984,Round 23,"Sunday, 5th August, 1984",,5117,23,"6,417","St George
+DRAGONS",4,8,11,"Illawarra
+STEELERS",6,12,9
+0,NSWRL 1984,Round 23,"Sunday, 5th August, 1984",,5119,44,"6,150","South Sydney
+RABBITOHS",6,6,14,"Canterbury Bankstown
+BULLDOGS",10,20,12
+0,NSWRL 1984,Round 23,"Sunday, 5th August, 1984",,5118,110,"2,859","Western Suburbs
+MAGPIES",4,14,11,"Balmain
+TIGERS",10,22,3
+0,NSWRL 1984,Round 24,"Saturday, 11th August, 1984",,5121,7,"3,850","Balmain
+TIGERS",10,39,3,"Canberra
+RAIDERS",6,12,7
+0,NSWRL 1984,Round 24,"Saturday, 11th August, 1984",,5122,109,"4,732","Eastern Suburbs
+ROOSTERS",0,2,12,"St George
+DRAGONS",6,20,13
+0,NSWRL 1984,Round 24,"Sunday, 12th August, 1984",,5125,27,"7,613","Canterbury Bankstown
+BULLDOGS",8,17,9,"North Sydney
+BEARS",0,0,14
+0,NSWRL 1984,Round 24,"Sunday, 12th August, 1984",,5126,9,"5,051","Cronulla Sutherland
+SHARKS",0,6,7,"South Sydney
+RABBITOHS",12,20,6
+0,NSWRL 1984,Round 24,"Sunday, 12th August, 1984",,5123,5,"18,180","Manly Warringah
+SEA EAGLES",10,19,10,"Parramatta
+EELS",4,16,5
+0,NSWRL 1984,Round 24,"Sunday, 12th August, 1984",,5124,3,"5,935","Penrith
+PANTHERS",22,23,7,"Western Suburbs
+MAGPIES",10,16,12
+0,NSWRL 1984,Round 25,"Saturday, 18th August, 1984",,5127,27,"6,576","Parramatta
+EELS",10,22,11,"Balmain
+TIGERS",14,20,10
+0,NSWRL 1984,Round 25,"Sunday, 19th August, 1984",,5128,48,"6,443","Canberra
+RAIDERS",4,30,10,"Penrith
+PANTHERS",6,10,6
+0,NSWRL 1984,Round 25,"Sunday, 19th August, 1984",,5132,21,"5,213","Illawarra
+STEELERS",24,30,4,"Eastern Suburbs
+ROOSTERS",10,24,11
+0,NSWRL 1984,Round 25,"Sunday, 19th August, 1984",,5129,23,"15,776","St George
+DRAGONS",20,28,10,"Manly Warringah
+SEA EAGLES",10,20,10
+0,NSWRL 1984,Round 25,"Sunday, 19th August, 1984",,5130,110,"4,592","Western Suburbs
+MAGPIES",2,2,13,"Canterbury Bankstown
+BULLDOGS",18,38,10
+0,NSWRL 1984,Round 25,"Sunday, 19th August, 1984",3:00pm (local time),5131,25,"2,060","North Sydney
+BEARS",14,24,6,"Cronulla Sutherland
+SHARKS",14,34,11
+0,NSWRL 1984,Round 26,"Saturday, 25th August, 1984",,5133,27,"7,166","Canterbury Bankstown
+BULLDOGS",12,36,7,"Canberra
+RAIDERS",0,0,10
+0,NSWRL 1984,Round 26,"Sunday, 26th August, 1984",,5134,7,"11,670","Balmain
+TIGERS",2,18,3,"St George
+DRAGONS",22,26,16
+0,NSWRL 1984,Round 26,"Sunday, 26th August, 1984",,5135,9,"3,230","Cronulla Sutherland
+SHARKS",26,48,12,"Western Suburbs
+MAGPIES",4,10,9
+0,NSWRL 1984,Round 26,"Sunday, 26th August, 1984",,5136,5,"12,012","Manly Warringah
+SEA EAGLES",12,34,11,"Illawarra
+STEELERS",0,10,11
+0,NSWRL 1984,Round 26,"Sunday, 26th August, 1984",,5138,3,"20,523","Penrith
+PANTHERS",0,10,6,"Parramatta
+EELS",12,22,4
+0,NSWRL 1984,Round 26,"Sunday, 26th August, 1984",,5137,44,"5,144","South Sydney
+RABBITOHS",12,29,7,"North Sydney
+BEARS",8,14,10
+0,NSWRL 1984,Playoff,"Tuesday, 28th August, 1984",7:00pm (local time),5139,24,"10,101","South Sydney
+RABBITOHS",13,23,10,"Canberra
+RAIDERS",4,4,10
+0,NSWRL 1984,Minor Prelim Semi,"Saturday, 1st September, 1984",3:00pm (local time),5140,24,"15,801","South Sydney
+RABBITOHS",14,22,6,"Manly Warringah
+SEA EAGLES",14,18,5
+0,NSWRL 1984,Major Prelim Semi,"Sunday, 2nd September, 1984",,5141,24,"25,675","Parramatta
+EELS",16,22,7,"St George
+DRAGONS",16,16,5
+0,NSWRL 1984,Minor Semi,"Saturday, 8th September, 1984",,5142,24,"32,162","St George
+DRAGONS",4,24,8,"South Sydney
+RABBITOHS",6,6,12
+0,NSWRL 1984,Major Semi,"Sunday, 9th September, 1984",,5143,24,"30,044","Canterbury Bankstown
+BULLDOGS",12,16,9,"Parramatta
+EELS",6,8,10
+0,NSWRL 1984,Prelim Final,"Sunday, 16th September, 1984",,5144,24,"37,004","Parramatta
+EELS",4,8,11,"St George
+DRAGONS",0,7,5
+0,NSWRL 1984,Grand Final,"Sunday, 23rd September, 1984",,5145,24,"47,076","Canterbury Bankstown
+BULLDOGS",0,6,3,"Parramatta
+EELS",4,4,8

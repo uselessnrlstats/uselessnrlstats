@@ -1,0 +1,652 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,ARL 1996,Round 1,"Friday, 22nd March, 1996",7:30pm (local time),575,21,"9,744","Illawarra
+STEELERS",,8,6,"Western Suburbs
+MAGPIES",,17,6
+0,ARL 1996,Round 1,"Saturday, 23rd March, 1996",2:30pm (local time),576,1,"5,631","Sydney City
+ROOSTERS",,38,10,"Sydney
+TIGERS",,10,6
+0,ARL 1996,Round 1,"Saturday, 23rd March, 1996",7:30pm (local time),577,28,"8,291","Gold Coast
+CHARGERS",,26,4,"North Sydney
+BEARS",,42,5
+0,ARL 1996,Round 1,"Saturday, 23rd March, 1996",7:30pm (local time),58378,14,,"North Queensland
+COWBOYS",,,,"Canterbury Bankstown
+BULLDOGS",,,
+0,ARL 1996,Round 1,"Sunday, 24th March, 1996",2:30pm (local time),578,5,"6,532","Manly Warringah
+SEA EAGLES",,44,4,"South Sydney
+RABBITOHS",,6,4
+0,ARL 1996,Round 2,"Friday, 29th March, 1996",,574,22,"12,704","South Queensland
+CRUSHERS",,24,12,"Parramatta
+EELS",,20,6
+0,ARL 1996,Round 2,"Saturday, 30th March, 1996",,579,9,"9,722","Cronulla Sutherland
+SHARKS",,24,7,"St George
+DRAGONS",,16,6
+0,ARL 1996,Round 2,"Saturday, 30th March, 1996",,248,14,"16,186","North Queensland
+COWBOYS",,2,6,"Sydney City
+ROOSTERS",,40,10
+0,ARL 1996,Round 2,"Saturday, 30th March, 1996",,580,32,"9,108",WESTERN REDS,,16,7,"Newcastle
+KNIGHTS",,22,6
+0,ARL 1996,Round 2,"Sunday, 31st March, 1996",,583,6,"17,246","Auckland
+WARRIORS",,18,8,"Illawarra
+STEELERS",,10,4
+0,ARL 1996,Round 2,"Sunday, 31st March, 1996",,582,5,"5,895","Manly Warringah
+SEA EAGLES",,36,6,"Gold Coast
+CHARGERS",,22,6
+0,ARL 1996,Round 2,"Sunday, 31st March, 1996",,585,3,"6,000","Penrith
+PANTHERS",,16,7,"Canberra
+RAIDERS",,16,6
+0,ARL 1996,Round 2,"Sunday, 31st March, 1996",,586,1,"5,614","South Sydney
+RABBITOHS",,16,6,"North Sydney
+BEARS",,32,9
+0,ARL 1996,Round 2,"Sunday, 31st March, 1996",,581,8,"4,021","Sydney
+TIGERS",,20,6,"Canterbury Bankstown
+BULLDOGS",,16,7
+0,ARL 1996,Round 2,"Sunday, 31st March, 1996",,584,19,"9,106","Western Suburbs
+MAGPIES",,14,15,"Brisbane
+BRONCOS",,36,8
+0,ARL 1996,Round 3,"Thursday, 4th April, 1996",,587,19,"10,088","Western Suburbs
+MAGPIES",,22,9,"Auckland
+WARRIORS",,8,8
+0,ARL 1996,Round 3,"Friday, 5th April, 1996",,588,1,"16,416","Sydney City
+ROOSTERS",,10,11,"Canterbury Bankstown
+BULLDOGS",,4,6
+0,ARL 1996,Round 3,"Saturday, 6th April, 1996",,589,13,"24,577","Brisbane
+BRONCOS",,54,4,"Illawarra
+STEELERS",,4,7
+0,ARL 1996,Round 3,"Saturday, 6th April, 1996",,249,14,"15,912","North Queensland
+COWBOYS",,17,8,"Sydney
+TIGERS",,2,10
+0,ARL 1996,Round 3,"Sunday, 7th April, 1996",,592,4,"11,098","Canberra
+RAIDERS",,14,11,"Parramatta
+EELS",,20,14
+0,ARL 1996,Round 3,"Sunday, 7th April, 1996",,590,25,"21,379","North Sydney
+BEARS",,20,5,"Manly Warringah
+SEA EAGLES",,10,5
+0,ARL 1996,Round 3,"Sunday, 7th April, 1996",,593,22,"11,694","South Queensland
+CRUSHERS",,4,13,"Penrith
+PANTHERS",,22,7
+0,ARL 1996,Round 3,"Sunday, 7th April, 1996",,591,44,"4,015","South Sydney
+RABBITOHS",,16,4,"Gold Coast
+CHARGERS",,18,8
+0,ARL 1996,Round 3,"Sunday, 7th April, 1996",,594,32,"9,345",WESTERN REDS,,19,7,"Cronulla Sutherland
+SHARKS",,12,8
+0,ARL 1996,Round 3,"Monday, 8th April, 1996",,595,23,"9,209","St George
+DRAGONS",,34,7,"Newcastle
+KNIGHTS",,30,3
+0,ARL 1996,Round 4,"Friday, 12th April, 1996",,596,22,"34,263","South Queensland
+CRUSHERS",,8,4,"Brisbane
+BRONCOS",,28,7
+0,ARL 1996,Round 4,"Saturday, 13th April, 1996",,598,9,"9,132","Cronulla Sutherland
+SHARKS",,26,5,WESTERN REDS,,12,8
+0,ARL 1996,Round 4,"Saturday, 13th April, 1996",,597,8,"12,349","Parramatta
+EELS",,14,6,"Western Suburbs
+MAGPIES",,18,11
+0,ARL 1996,Round 4,"Sunday, 14th April, 1996",,600,6,"22,500","Auckland
+WARRIORS",,12,9,"North Sydney
+BEARS",,8,5
+0,ARL 1996,Round 4,"Sunday, 14th April, 1996",,25,4,"9,115","Canberra
+RAIDERS",,66,4,"North Queensland
+COWBOYS",,10,2
+0,ARL 1996,Round 4,"Sunday, 14th April, 1996",,602,27,"14,924","Canterbury Bankstown
+BULLDOGS",,6,4,"St George
+DRAGONS",,26,6
+0,ARL 1996,Round 4,"Sunday, 14th April, 1996",,603,28,"10,643","Gold Coast
+CHARGERS",,6,7,"Manly Warringah
+SEA EAGLES",,10,10
+0,ARL 1996,Round 4,"Sunday, 14th April, 1996",,604,21,"7,083","Illawarra
+STEELERS",,56,9,"South Sydney
+RABBITOHS",,14,8
+0,ARL 1996,Round 4,"Sunday, 14th April, 1996",,599,11,"18,826","Newcastle
+KNIGHTS",,12,14,"Sydney
+TIGERS",,24,2
+0,ARL 1996,Round 4,"Sunday, 14th April, 1996",,601,1,"10,317","Sydney City
+ROOSTERS",,30,5,"Penrith
+PANTHERS",,14,10
+0,ARL 1996,Round 5,"Friday, 19th April, 1996",,605,5,"18,588","Manly Warringah
+SEA EAGLES",,22,1,"Auckland
+WARRIORS",,10,8
+0,ARL 1996,Round 5,"Friday, 19th April, 1996",,606,32,"6,403",WESTERN REDS,,14,9,"Canterbury Bankstown
+BULLDOGS",,18,5
+0,ARL 1996,Round 5,"Saturday, 20th April, 1996",,608,28,"7,251","Gold Coast
+CHARGERS",,28,6,"Illawarra
+STEELERS",,20,7
+0,ARL 1996,Round 5,"Saturday, 20th April, 1996",,607,1,"6,420","South Sydney
+RABBITOHS",,10,8,"Parramatta
+EELS",,38,6
+0,ARL 1996,Round 5,"Saturday, 20th April, 1996",2:40pm (local time),609,19,"7,850","Western Suburbs
+MAGPIES",,0,8,"Sydney City
+ROOSTERS",,20,3
+0,ARL 1996,Round 5,"Sunday, 21st April, 1996",,26,13,"18,609","Brisbane
+BRONCOS",,58,4,"North Queensland
+COWBOYS",,14,4
+0,ARL 1996,Round 5,"Sunday, 21st April, 1996",,612,25,"7,871","North Sydney
+BEARS",,18,7,"South Queensland
+CRUSHERS",,4,7
+0,ARL 1996,Round 5,"Sunday, 21st April, 1996",,610,3,"7,283","Penrith
+PANTHERS",,22,3,"Newcastle
+KNIGHTS",,24,10
+0,ARL 1996,Round 5,"Sunday, 21st April, 1996",,613,23,"16,802","St George
+DRAGONS",,30,17,"Canberra
+RAIDERS",,20,7
+0,ARL 1996,Round 5,"Sunday, 21st April, 1996",,611,8,"4,681","Sydney
+TIGERS",,16,4,"Cronulla Sutherland
+SHARKS",,36,5
+0,ARL 1996,Round 6,"Thursday, 25th April, 1996",2:35pm (local time),614,1,"15,103","Sydney City
+ROOSTERS",,62,13,"South Sydney
+RABBITOHS",,0,5
+0,ARL 1996,Round 6,"Friday, 26th April, 1996",7:30pm (local time),615,4,"12,458","Canberra
+RAIDERS",14,34,5,"Canterbury Bankstown
+BULLDOGS",0,4,7
+0,ARL 1996,Round 6,"Saturday, 27th April, 1996",,618,9,"10,720","Cronulla Sutherland
+SHARKS",,10,5,"Penrith
+PANTHERS",,2,10
+0,ARL 1996,Round 6,"Saturday, 27th April, 1996",,250,14,"20,864","North Queensland
+COWBOYS",,6,9,"North Sydney
+BEARS",,50,8
+0,ARL 1996,Round 6,"Saturday, 27th April, 1996",,617,23,"13,090","St George
+DRAGONS",,4,6,"Brisbane
+BRONCOS",,22,4
+0,ARL 1996,Round 6,"Saturday, 27th April, 1996",,616,8,"4,227","Sydney
+TIGERS",,10,6,WESTERN REDS,,6,6
+0,ARL 1996,Round 6,"Sunday, 28th April, 1996",,622,21,"8,055","Illawarra
+STEELERS",,20,7,"Auckland
+WARRIORS",,30,7
+0,ARL 1996,Round 6,"Sunday, 28th April, 1996",,620,11,"17,758","Newcastle
+KNIGHTS",,26,6,"Western Suburbs
+MAGPIES",,4,9
+0,ARL 1996,Round 6,"Sunday, 28th April, 1996",,621,8,"9,160","Parramatta
+EELS",,14,10,"Gold Coast
+CHARGERS",,27,5
+0,ARL 1996,Round 6,"Sunday, 28th April, 1996",,619,22,"15,202","South Queensland
+CRUSHERS",,6,9,"Manly Warringah
+SEA EAGLES",,14,8
+0,ARL 1996,Round 7,"Saturday, 4th May, 1996",,625,27,"5,246","Canterbury Bankstown
+BULLDOGS",,8,3,"Brisbane
+BRONCOS",,30,4
+0,ARL 1996,Round 7,"Saturday, 4th May, 1996",,624,28,"3,300","Gold Coast
+CHARGERS",,10,7,"Sydney City
+ROOSTERS",,13,8
+0,ARL 1996,Round 7,"Saturday, 4th May, 1996",,623,3,"4,489","Penrith
+PANTHERS",,16,12,"Sydney
+TIGERS",,18,7
+0,ARL 1996,Round 7,"Saturday, 4th May, 1996",,626,1,"3,683","South Sydney
+RABBITOHS",,14,7,"Newcastle
+KNIGHTS",,20,4
+0,ARL 1996,Round 7,"Sunday, 5th May, 1996",,630,6,"23,432","Auckland
+WARRIORS",,28,11,"Parramatta
+EELS",,4,8
+0,ARL 1996,Round 7,"Sunday, 5th May, 1996",,628,21,"4,883","Illawarra
+STEELERS",,18,9,"South Queensland
+CRUSHERS",,14,7
+0,ARL 1996,Round 7,"Sunday, 5th May, 1996",,28,5,"5,227","Manly Warringah
+SEA EAGLES",,46,3,"North Queensland
+COWBOYS",,4,4
+0,ARL 1996,Round 7,"Sunday, 5th May, 1996",,627,25,"10,129","North Sydney
+BEARS",,42,7,"St George
+DRAGONS",,0,3
+0,ARL 1996,Round 7,"Sunday, 5th May, 1996",,631,19,"5,010","Western Suburbs
+MAGPIES",,18,7,"Cronulla Sutherland
+SHARKS",,10,6
+0,ARL 1996,Round 7,"Sunday, 5th May, 1996",,629,32,"10,226",WESTERN REDS,,12,7,"Canberra
+RAIDERS",,32,10
+0,ARL 1996,Round 8,"Friday, 10th May, 1996",,632,23,"13,079","St George
+DRAGONS",,2,8,"Manly Warringah
+SEA EAGLES",,6,5
+0,ARL 1996,Round 8,"Saturday, 11th May, 1996",,633,9,"10,078","Cronulla Sutherland
+SHARKS",,18,12,"South Sydney
+RABBITOHS",,0,5
+0,ARL 1996,Round 8,"Saturday, 11th May, 1996",,251,14,"15,289","North Queensland
+COWBOYS",,8,6,"Illawarra
+STEELERS",,24,4
+0,ARL 1996,Round 8,"Saturday, 11th May, 1996",,635,8,"9,261","Parramatta
+EELS",,14,5,"South Queensland
+CRUSHERS",,4,7
+0,ARL 1996,Round 8,"Saturday, 11th May, 1996",,634,1,"13,471","Sydney City
+ROOSTERS",,28,6,"Auckland
+WARRIORS",,16,6
+0,ARL 1996,Round 8,"Sunday, 12th May, 1996",,639,13,"37,248","Brisbane
+BRONCOS",,50,5,"Canberra
+RAIDERS",,16,4
+0,ARL 1996,Round 8,"Sunday, 12th May, 1996",,636,11,"12,471","Newcastle
+KNIGHTS",,42,6,"Gold Coast
+CHARGERS",,0,9
+0,ARL 1996,Round 8,"Sunday, 12th May, 1996",,637,25,"10,212","North Sydney
+BEARS",,22,6,"Canterbury Bankstown
+BULLDOGS",,14,3
+0,ARL 1996,Round 8,"Sunday, 12th May, 1996",,638,3,"3,125","Penrith
+PANTHERS",,46,7,WESTERN REDS,,12,9
+0,ARL 1996,Round 8,"Sunday, 12th May, 1996",,640,8,"4,467","Sydney
+TIGERS",,22,8,"Western Suburbs
+MAGPIES",,16,5
+0,ARL 1996,Round 9,"Friday, 17th May, 1996",,641,19,"6,116","Western Suburbs
+MAGPIES",,16,7,"Penrith
+PANTHERS",,6,7
+0,ARL 1996,Round 9,"Saturday, 18th May, 1996",,642,9,"3,623","Cronulla Sutherland
+SHARKS",,18,6,"Gold Coast
+CHARGERS",,10,11
+0,ARL 1996,Round 9,"Sunday, 19th May, 1996",,643,21,"8,529","Illawarra
+STEELERS",,18,8,"St George
+DRAGONS",,12,9
+0,ARL 1996,Round 9,"Sunday, 19th May, 1996",,644,1,"6,820","South Sydney
+RABBITOHS",,32,11,"Sydney
+TIGERS",,4,6
+0,ARL 1996,Round 9,"Friday, 24th May, 1996",,645,5,"14,591","Manly Warringah
+SEA EAGLES",,24,9,"Canterbury Bankstown
+BULLDOGS",,4,8
+0,ARL 1996,Round 9,"Friday, 24th May, 1996",,646,32,"10,735",WESTERN REDS,,14,5,"Brisbane
+BRONCOS",,22,7
+0,ARL 1996,Round 9,"Saturday, 25th May, 1996",,252,14,"12,088","North Queensland
+COWBOYS",,12,6,"Parramatta
+EELS",,26,4
+0,ARL 1996,Round 9,"Saturday, 25th May, 1996",,647,22,"10,107","South Queensland
+CRUSHERS",,12,8,"Sydney City
+ROOSTERS",,38,8
+0,ARL 1996,Round 9,"Sunday, 26th May, 1996",,649,6,"17,000","Auckland
+WARRIORS",,18,12,"Newcastle
+KNIGHTS",,22,5
+0,ARL 1996,Round 9,"Sunday, 26th May, 1996",2:30pm (local time),648,4,"13,680","Canberra
+RAIDERS",26,46,5,"North Sydney
+BEARS",2,12,9
+0,ARL 1996,Round 10,"Friday, 31st May, 1996",,650,27,"6,022","Canterbury Bankstown
+BULLDOGS",,12,5,"Illawarra
+STEELERS",,0,7
+0,ARL 1996,Round 10,"Saturday, 1st June, 1996",,651,28,"3,670","Gold Coast
+CHARGERS",,28,2,"Sydney
+TIGERS",,16,8
+0,ARL 1996,Round 10,"Saturday, 1st June, 1996",,652,32,"6,535",WESTERN REDS,,8,9,"Western Suburbs
+MAGPIES",,22,15
+0,ARL 1996,Round 10,"Sunday, 2nd June, 1996",,653,3,"4,011","Penrith
+PANTHERS",,20,5,"South Sydney
+RABBITOHS",,12,6
+0,ARL 1996,Round 10,"Friday, 7th June, 1996",,654,13,"25,092","Brisbane
+BRONCOS",,10,9,"North Sydney
+BEARS",,16,7
+0,ARL 1996,Round 10,"Saturday, 8th June, 1996",,656,6,"22,810","Auckland
+WARRIORS",,24,7,"Cronulla Sutherland
+SHARKS",,28,6
+0,ARL 1996,Round 10,"Saturday, 8th June, 1996",,655,8,"11,168","Parramatta
+EELS",12,20,13,"St George
+DRAGONS",8,16,7
+0,ARL 1996,Round 10,"Sunday, 9th June, 1996",,657,5,"20,557","Manly Warringah
+SEA EAGLES",,28,14,"Canberra
+RAIDERS",,12,6
+0,ARL 1996,Round 10,"Sunday, 9th June, 1996",,658,11,"17,599","Newcastle
+KNIGHTS",,22,7,"South Queensland
+CRUSHERS",,6,12
+0,ARL 1996,Round 10,"Sunday, 9th June, 1996",,31,1,"9,287","Sydney City
+ROOSTERS",,38,2,"North Queensland
+COWBOYS",,14,8
+0,ARL 1996,Round 11,"Friday, 14th June, 1996",,659,13,"19,837","Brisbane
+BRONCOS",4,4,5,"Manly Warringah
+SEA EAGLES",18,18,7
+0,ARL 1996,Round 11,"Saturday, 15th June, 1996",,662,9,"7,021","Cronulla Sutherland
+SHARKS",,28,4,"South Queensland
+CRUSHERS",,4,5
+0,ARL 1996,Round 11,"Saturday, 15th June, 1996",,660,28,"1,500","Gold Coast
+CHARGERS",,8,4,"Penrith
+PANTHERS",,14,7
+0,ARL 1996,Round 11,"Saturday, 15th June, 1996",,253,14,"14,153","North Queensland
+COWBOYS",,26,6,"Newcastle
+KNIGHTS",,10,10
+0,ARL 1996,Round 11,"Saturday, 15th June, 1996",,661,23,"8,014","St George
+DRAGONS",14,24,7,"Sydney City
+ROOSTERS",8,8,9
+0,ARL 1996,Round 11,"Sunday, 16th June, 1996",,664,45,"10,000","Sydney
+TIGERS",,34,8,"Auckland
+WARRIORS",,22,5
+0,ARL 1996,Round 11,"Sunday, 16th June, 1996",,665,4,"7,021","Canberra
+RAIDERS",,16,6,"Illawarra
+STEELERS",,14,11
+0,ARL 1996,Round 11,"Sunday, 16th June, 1996",,663,27,"7,056","Canterbury Bankstown
+BULLDOGS",2,22,3,"Parramatta
+EELS",0,4,6
+0,ARL 1996,Round 11,"Sunday, 16th June, 1996",,667,25,"7,002","North Sydney
+BEARS",,28,3,WESTERN REDS,,6,9
+0,ARL 1996,Round 11,"Sunday, 16th June, 1996",,666,19,"5,100","Western Suburbs
+MAGPIES",,14,10,"South Sydney
+RABBITOHS",,14,5
+0,ARL 1996,Round 12,"Friday, 21st June, 1996",,668,5,"21,217","Manly Warringah
+SEA EAGLES",,29,5,"North Sydney
+BEARS",,6,8
+0,ARL 1996,Round 12,"Saturday, 22nd June, 1996",,670,11,"21,338","Newcastle
+KNIGHTS",,23,9,"St George
+DRAGONS",,12,12
+0,ARL 1996,Round 12,"Saturday, 22nd June, 1996",,254,14,"22,014","North Queensland
+COWBOYS",,16,7,"Cronulla Sutherland
+SHARKS",,10,6
+0,ARL 1996,Round 12,"Saturday, 22nd June, 1996",,669,22,"10,166","South Queensland
+CRUSHERS",,2,12,"Sydney
+TIGERS",,12,5
+0,ARL 1996,Round 12,"Sunday, 23rd June, 1996",,674,27,"7,203","Canterbury Bankstown
+BULLDOGS",,28,7,"Sydney City
+ROOSTERS",,16,3
+0,ARL 1996,Round 12,"Sunday, 23rd June, 1996",,675,21,"6,121","Illawarra
+STEELERS",,14,8,"Brisbane
+BRONCOS",,6,9
+0,ARL 1996,Round 12,"Sunday, 23rd June, 1996",,676,8,"10,497","Parramatta
+EELS",,50,4,"Canberra
+RAIDERS",,10,7
+0,ARL 1996,Round 12,"Sunday, 23rd June, 1996",,673,3,"6,981","Penrith
+PANTHERS",,16,3,"Auckland
+WARRIORS",,26,5
+0,ARL 1996,Round 12,"Sunday, 23rd June, 1996",,671,44,"4,576","South Sydney
+RABBITOHS",,24,9,WESTERN REDS,,18,10
+0,ARL 1996,Round 12,"Sunday, 23rd June, 1996",,672,19,"4,083","Western Suburbs
+MAGPIES",,42,11,"Gold Coast
+CHARGERS",,10,4
+0,ARL 1996,Round 13,"Friday, 28th June, 1996",,677,4,"10,410","Canberra
+RAIDERS",,16,8,"Sydney City
+ROOSTERS",,12,9
+0,ARL 1996,Round 13,"Saturday, 29th June, 1996",,679,6,"17,500","Auckland
+WARRIORS",,32,8,"Western Suburbs
+MAGPIES",,16,6
+0,ARL 1996,Round 13,"Saturday, 29th June, 1996",,680,28,"11,153","Gold Coast
+CHARGERS",,16,9,"South Sydney
+RABBITOHS",,18,10
+0,ARL 1996,Round 13,"Saturday, 29th June, 1996",,678,25,"8,404","North Sydney
+BEARS",,48,7,"Illawarra
+STEELERS",,18,6
+0,ARL 1996,Round 13,"Saturday, 29th June, 1996",,34,8,"4,257","Sydney
+TIGERS",,18,8,"North Queensland
+COWBOYS",,16,5
+0,ARL 1996,Round 13,"Sunday, 30th June, 1996",,682,13,"22,412","Brisbane
+BRONCOS",16,30,8,"Parramatta
+EELS",14,24,7
+0,ARL 1996,Round 13,"Sunday, 30th June, 1996",,681,27,"7,628","Canterbury Bankstown
+BULLDOGS",,24,9,"Newcastle
+KNIGHTS",,14,5
+0,ARL 1996,Round 13,"Sunday, 30th June, 1996",,685,3,"4,215","Penrith
+PANTHERS",,16,12,"South Queensland
+CRUSHERS",,20,5
+0,ARL 1996,Round 13,"Sunday, 30th June, 1996",,683,23,"13,093","St George
+DRAGONS",,20,8,"Cronulla Sutherland
+SHARKS",,20,4
+0,ARL 1996,Round 13,"Sunday, 30th June, 1996",,684,32,"6,584",WESTERN REDS,,11,4,"Manly Warringah
+SEA EAGLES",,8,6
+0,ARL 1996,Round 14,"Friday, 5th July, 1996",,687,6,"20,000","Auckland
+WARRIORS",,24,6,"South Sydney
+RABBITOHS",,10,6
+0,ARL 1996,Round 14,"Friday, 5th July, 1996",,686,11,"21,039","Newcastle
+KNIGHTS",,14,9,"Canberra
+RAIDERS",,16,8
+0,ARL 1996,Round 14,"Friday, 5th July, 1996",,688,32,"5,728",WESTERN REDS,,14,4,"Gold Coast
+CHARGERS",,14,6
+0,ARL 1996,Round 14,"Saturday, 6th July, 1996",,689,9,"13,460","Cronulla Sutherland
+SHARKS",,16,8,"Canterbury Bankstown
+BULLDOGS",,6,7
+0,ARL 1996,Round 14,"Saturday, 6th July, 1996",,255,14,"25,068","North Queensland
+COWBOYS",,0,7,"Penrith
+PANTHERS",,21,7
+0,ARL 1996,Round 14,"Saturday, 6th July, 1996",,690,8,"12,012","Parramatta
+EELS",,18,7,"North Sydney
+BEARS",,20,9
+0,ARL 1996,Round 14,"Sunday, 7th July, 1996",,693,21,"9,638","Illawarra
+STEELERS",,8,4,"Manly Warringah
+SEA EAGLES",,16,5
+0,ARL 1996,Round 14,"Sunday, 7th July, 1996",,692,22,"8,961","South Queensland
+CRUSHERS",,24,3,"Western Suburbs
+MAGPIES",,22,6
+0,ARL 1996,Round 14,"Sunday, 7th July, 1996",,691,8,"9,588","Sydney
+TIGERS",,19,5,"St George
+DRAGONS",,30,7
+0,ARL 1996,Round 14,"Monday, 8th July, 1996",,694,1,"35,075","Sydney City
+ROOSTERS",,12,9,"Brisbane
+BRONCOS",,10, 
+0,ARL 1996,Round 15,"Saturday, 13th July, 1996",,696,4,"11,539","Canberra
+RAIDERS",,16,4,"Cronulla Sutherland
+SHARKS",,24,10
+0,ARL 1996,Round 15,"Saturday, 13th July, 1996",,697,27,"11,658","Canterbury Bankstown
+BULLDOGS",,18,6,"Sydney
+TIGERS",,20,10
+0,ARL 1996,Round 15,"Saturday, 13th July, 1996",,695,28,"11,870","Gold Coast
+CHARGERS",,14,4,"Auckland
+WARRIORS",,28,7
+0,ARL 1996,Round 15,"Sunday, 14th July, 1996",,699,21,"7,115","Illawarra
+STEELERS",,18,4,WESTERN REDS,,19,10
+0,ARL 1996,Round 15,"Sunday, 14th July, 1996",,700,5,"15,021","Manly Warringah
+SEA EAGLES",,44,6,"Parramatta
+EELS",,0,9
+0,ARL 1996,Round 15,"Sunday, 14th July, 1996",,702,25,"16,695","North Sydney
+BEARS",,25,4,"Sydney City
+ROOSTERS",,30,3
+0,ARL 1996,Round 15,"Sunday, 14th July, 1996",,698,23,"6,009","St George
+DRAGONS",,36,7,"Penrith
+PANTHERS",,10,10
+0,ARL 1996,Round 15,"Sunday, 14th July, 1996",,701,44,"3,107","South Sydney
+RABBITOHS",,48,7,"South Queensland
+CRUSHERS",,16,8
+0,ARL 1996,Round 15,"Sunday, 14th July, 1996",,36,19,"5,281","Western Suburbs
+MAGPIES",,40,5,"North Queensland
+COWBOYS",,32,2
+0,ARL 1996,Round 15,"Monday, 15th July, 1996",,703,13,"28,600","Brisbane
+BRONCOS",,24,6,"Newcastle
+KNIGHTS",,19,9
+0,ARL 1996,Round 16,"Friday, 19th July, 1996",7:30pm (local time),704,8,"10,541","Sydney
+TIGERS",6,10,6,"Canberra
+RAIDERS",28,28,8
+0,ARL 1996,Round 16,"Saturday, 20th July, 1996",,706,9,"19,078","Cronulla Sutherland
+SHARKS",,12,8,"Brisbane
+BRONCOS",,15,2
+0,ARL 1996,Round 16,"Saturday, 20th July, 1996",,705,11,"15,048","Newcastle
+KNIGHTS",,14,8,"North Sydney
+BEARS",,14,10
+0,ARL 1996,Round 16,"Saturday, 20th July, 1996",,256,14,"27,096","North Queensland
+COWBOYS",,20,3,"South Sydney
+RABBITOHS",,22,7
+0,ARL 1996,Round 16,"Saturday, 20th July, 1996",,707,32,"12,760",WESTERN REDS,,32,6,"Auckland
+WARRIORS",,12,9
+0,ARL 1996,Round 16,"Sunday, 21st July, 1996",,710,3,"5,141","Penrith
+PANTHERS",,32,9,"Canterbury Bankstown
+BULLDOGS",,34,8
+0,ARL 1996,Round 16,"Sunday, 21st July, 1996",,708,23,"9,057","St George
+DRAGONS",,24,5,"Western Suburbs
+MAGPIES",,16,10
+0,ARL 1996,Round 16,"Sunday, 21st July, 1996",,711,22,"8,776","South Queensland
+CRUSHERS",,4,9,"Gold Coast
+CHARGERS",,52,10
+0,ARL 1996,Round 16,"Sunday, 21st July, 1996",2:30pm (local time),709,8,"7,392","Parramatta
+EELS",,34,13,"Illawarra
+STEELERS",,18,11
+0,ARL 1996,Round 16,"Monday, 22nd July, 1996",,712,1,"37,981","Sydney City
+ROOSTERS",,6,7,"Manly Warringah
+SEA EAGLES",,34,4
+0,ARL 1996,Round 17,"Friday, 26th July, 1996",,713,13,"15,129","Brisbane
+BRONCOS",,26,8,"Sydney
+TIGERS",,6,5
+0,ARL 1996,Round 17,"Friday, 26th July, 1996",,38,28,"5,777","Gold Coast
+CHARGERS",,14,5,"North Queensland
+COWBOYS",,24,6
+0,ARL 1996,Round 17,"Saturday, 27th July, 1996",,714,5,"7,228","Manly Warringah
+SEA EAGLES",,28,3,"Newcastle
+KNIGHTS",,12,8
+0,ARL 1996,Round 17,"Saturday, 27th July, 1996",,715,1,"9,410","South Sydney
+RABBITOHS",,12,5,"St George
+DRAGONS",,32,7
+0,ARL 1996,Round 17,"Sunday, 28th July, 1996",,716,6,"17,000","Auckland
+WARRIORS",,16,5,"South Queensland
+CRUSHERS",,12,8
+0,ARL 1996,Round 17,"Sunday, 28th July, 1996",,719,4,"5,935","Canberra
+RAIDERS",,32,12,"Penrith
+PANTHERS",,16,13
+0,ARL 1996,Round 17,"Sunday, 28th July, 1996",,718,27,"5,870","Canterbury Bankstown
+BULLDOGS",,16,7,"Western Suburbs
+MAGPIES",,20,9
+0,ARL 1996,Round 17,"Sunday, 28th July, 1996",,717,21,"5,247","Illawarra
+STEELERS",,16,5,"Sydney City
+ROOSTERS",,32,10
+0,ARL 1996,Round 17,"Sunday, 28th July, 1996",,720,8,"5,060","Parramatta
+EELS",,18,6,WESTERN REDS,,6,9
+0,ARL 1996,Round 17,"Monday, 29th July, 1996",,721,25,"16,421","North Sydney
+BEARS",,15,8,"Cronulla Sutherland
+SHARKS",,15,10
+0,ARL 1996,Round 18,"Friday, 2nd August, 1996",,722,1,"13,092","Sydney City
+ROOSTERS",,20,4,"Parramatta
+EELS",,20,10
+0,ARL 1996,Round 18,"Saturday, 3rd August, 1996",,39,6,"14,600","Auckland
+WARRIORS",,52,10,"North Queensland
+COWBOYS",,6,4
+0,ARL 1996,Round 18,"Saturday, 3rd August, 1996",,724,28,"9,029","Gold Coast
+CHARGERS",,10,4,"St George
+DRAGONS",,22,7
+0,ARL 1996,Round 18,"Saturday, 3rd August, 1996",,725,8,"5,532","Sydney
+TIGERS",,6,7,"North Sydney
+BEARS",,30,6
+0,ARL 1996,Round 18,"Saturday, 3rd August, 1996",,723,19,"7,243","Western Suburbs
+MAGPIES",,24,11,"Canberra
+RAIDERS",,16,6
+0,ARL 1996,Round 18,"Sunday, 4th August, 1996",,728,11,"13,207","Newcastle
+KNIGHTS",,22,11,"Illawarra
+STEELERS",,34,9
+0,ARL 1996,Round 18,"Sunday, 4th August, 1996",,726,3,"6,318","Penrith
+PANTHERS",,20,5,"Brisbane
+BRONCOS",,50,3
+0,ARL 1996,Round 18,"Sunday, 4th August, 1996",,727,22,"7,789","South Queensland
+CRUSHERS",,16,7,WESTERN REDS,,18,7
+0,ARL 1996,Round 18,"Sunday, 4th August, 1996",,729,1,"4,371","South Sydney
+RABBITOHS",,4,4,"Canterbury Bankstown
+BULLDOGS",,28,7
+0,ARL 1996,Round 18,"Monday, 5th August, 1996",,730,9,"18,270","Cronulla Sutherland
+SHARKS",,12,7,"Manly Warringah
+SEA EAGLES",,10,9
+0,ARL 1996,Round 19,"Friday, 9th August, 1996",,257,14,"24,989","North Queensland
+COWBOYS",,11,5,"South Queensland
+CRUSHERS",,6,6
+0,ARL 1996,Round 19,"Friday, 9th August, 1996",,731,23,"14,256","St George
+DRAGONS",,35,6,"Auckland
+WARRIORS",,6,10
+0,ARL 1996,Round 19,"Saturday, 10th August, 1996",,733,13,"19,866","Brisbane
+BRONCOS",,36,8,"Western Suburbs
+MAGPIES",,6,5
+0,ARL 1996,Round 19,"Saturday, 10th August, 1996",,732,1,"7,467","Sydney City
+ROOSTERS",,22,5,WESTERN REDS,,10,9
+0,ARL 1996,Round 19,"Sunday, 11th August, 1996",,737,4,"8,614","Canberra
+RAIDERS",,40,5,"South Sydney
+RABBITOHS",,10,5
+0,ARL 1996,Round 19,"Sunday, 11th August, 1996",,736,27,"5,760","Canterbury Bankstown
+BULLDOGS",,26,7,"Gold Coast
+CHARGERS",,16,8
+0,ARL 1996,Round 19,"Sunday, 11th August, 1996",,735,21,"8,017","Illawarra
+STEELERS",,21,7,"Cronulla Sutherland
+SHARKS",,14,8
+0,ARL 1996,Round 19,"Sunday, 11th August, 1996",,734,5,"8,270","Manly Warringah
+SEA EAGLES",,18,13,"Sydney
+TIGERS",,0,6
+0,ARL 1996,Round 19,"Sunday, 11th August, 1996",,738,25,"7,378","North Sydney
+BEARS",,44,8,"Penrith
+PANTHERS",,10,6
+0,ARL 1996,Round 19,"Monday, 12th August, 1996",,739,8,"21,191","Parramatta
+EELS",,18,11,"Newcastle
+KNIGHTS",,16,9
+0,ARL 1996,Round 20,"Friday, 16th August, 1996",,740,6,"23,300","Auckland
+WARRIORS",,18,7,"Canterbury Bankstown
+BULLDOGS",,20,5
+0,ARL 1996,Round 20,"Saturday, 17th August, 1996",,742,9,"9,241","Cronulla Sutherland
+SHARKS",,26,7,"Parramatta
+EELS",,18,10
+0,ARL 1996,Round 20,"Saturday, 17th August, 1996",,741,28,"5,901","Gold Coast
+CHARGERS",,12,6,"Canberra
+RAIDERS",,26,4
+0,ARL 1996,Round 20,"Saturday, 17th August, 1996",,743,1,"3,011","South Sydney
+RABBITOHS",,18,7,"Brisbane
+BRONCOS",,20,6
+0,ARL 1996,Round 20,"Saturday, 17th August, 1996",,41,32,"5,889",WESTERN REDS,,30,10,"North Queensland
+COWBOYS",,4,3
+0,ARL 1996,Round 20,"Sunday, 18th August, 1996",,744,11,"17,354","Newcastle
+KNIGHTS",,28,4,"Sydney City
+ROOSTERS",,12,11
+0,ARL 1996,Round 20,"Sunday, 18th August, 1996",,745,3,"7,426","Penrith
+PANTHERS",,18,7,"Manly Warringah
+SEA EAGLES",,14,9
+0,ARL 1996,Round 20,"Sunday, 18th August, 1996",,746,22,"9,567","South Queensland
+CRUSHERS",,8,9,"St George
+DRAGONS",,26,12
+0,ARL 1996,Round 20,"Sunday, 18th August, 1996",,747,8,"3,518","Sydney
+TIGERS",,16,5,"Illawarra
+STEELERS",,14,6
+0,ARL 1996,Round 20,"Monday, 19th August, 1996",,748,19,"13,186","Western Suburbs
+MAGPIES",10,23,10,"North Sydney
+BEARS",8,22,7
+0,ARL 1996,Round 21,"Friday, 23rd August, 1996",,749,4,"14,528","Canberra
+RAIDERS",,30,4,"Auckland
+WARRIORS",,6,7
+0,ARL 1996,Round 21,"Saturday, 24th August, 1996",,751,11,"20,110","Newcastle
+KNIGHTS",,24,4,WESTERN REDS,,20,9
+0,ARL 1996,Round 21,"Saturday, 24th August, 1996",,750,8,"13,043","Parramatta
+EELS",4,14,11,"Sydney
+TIGERS",10,26,9
+0,ARL 1996,Round 21,"Sunday, 25th August, 1996",,755,13,"25,749","Brisbane
+BRONCOS",,38,5,"Gold Coast
+CHARGERS",,10,10
+0,ARL 1996,Round 21,"Sunday, 25th August, 1996",,752,27,"5,025","Canterbury Bankstown
+BULLDOGS",,17,3,"South Queensland
+CRUSHERS",,16,4
+0,ARL 1996,Round 21,"Sunday, 25th August, 1996",,754,21,"7,346","Illawarra
+STEELERS",,42,7,"Penrith
+PANTHERS",,2,10
+0,ARL 1996,Round 21,"Sunday, 25th August, 1996",,753,5,"14,580","Manly Warringah
+SEA EAGLES",,42,8,"Western Suburbs
+MAGPIES",,12,14
+0,ARL 1996,Round 21,"Sunday, 25th August, 1996",,756,25,"8,922","North Sydney
+BEARS",,46,9,"South Sydney
+RABBITOHS",,4,2
+0,ARL 1996,Round 21,"Sunday, 25th August, 1996",,42,23,"9,062","St George
+DRAGONS",,20,11,"North Queensland
+COWBOYS",,24,9
+0,ARL 1996,Round 21,"Monday, 26th August, 1996",,757,1,"23,819","Sydney City
+ROOSTERS",,10,7,"Cronulla Sutherland
+SHARKS",,18,7
+0,ARL 1996,Round 22,"Friday, 30th August, 1996",,760,6,"26,000","Auckland
+WARRIORS",,6,5,"Brisbane
+BRONCOS",,38,10
+0,ARL 1996,Round 22,"Friday, 30th August, 1996",,758,3,"3,870","Penrith
+PANTHERS",,24,12,"Parramatta
+EELS",,16,7
+0,ARL 1996,Round 22,"Friday, 30th August, 1996",,759,32,"7,564",WESTERN REDS,,16,8,"St George
+DRAGONS",,22,5
+0,ARL 1996,Round 22,"Saturday, 31st August, 1996",,761,9,"5,320","Cronulla Sutherland
+SHARKS",,22,3,"Newcastle
+KNIGHTS",,0,9
+0,ARL 1996,Round 22,"Saturday, 31st August, 1996",,762,19,"3,542","Western Suburbs
+MAGPIES",,12,8,"Illawarra
+STEELERS",,8,5
+0,ARL 1996,Round 22,"Sunday, 1st September, 1996",,43,27,"6,595","Canterbury Bankstown
+BULLDOGS",,50,4,"North Queensland
+COWBOYS",,22,6
+0,ARL 1996,Round 22,"Sunday, 1st September, 1996",,766,25,"6,177","North Sydney
+BEARS",,38,6,"Gold Coast
+CHARGERS",,8,8
+0,ARL 1996,Round 22,"Sunday, 1st September, 1996",,763,22,"13,945","South Queensland
+CRUSHERS",,10,17,"Canberra
+RAIDERS",,36,5
+0,ARL 1996,Round 22,"Sunday, 1st September, 1996",,764,1,"4,317","South Sydney
+RABBITOHS",,10,9,"Manly Warringah
+SEA EAGLES",,48,4
+0,ARL 1996,Round 22,"Sunday, 1st September, 1996",,765,8,"6,197","Sydney
+TIGERS",,10,6,"Sydney City
+ROOSTERS",,24,7
+0,ARL 1996,Qualif Final,"Friday, 6th September, 1996",,767,8,"22,433","Cronulla Sutherland
+SHARKS",2,20,5,"Western Suburbs
+MAGPIES",6,12,8
+0,ARL 1996,Qualif Final,"Saturday, 7th September, 1996",,768,22,"25,983","Brisbane
+BRONCOS",,16,9,"North Sydney
+BEARS",,21,8
+0,ARL 1996,Qualif Final,"Saturday, 7th September, 1996",,769,1,"28,185","St George
+DRAGONS",,16,8,"Canberra
+RAIDERS",,14,11
+0,ARL 1996,Qualif Final,"Sunday, 8th September, 1996",,770,1,"31,327","Manly Warringah
+SEA EAGLES",,16,12,"Sydney City
+ROOSTERS",,14,7
+0,ARL 1996,Semi Final,"Saturday, 14th September, 1996",,771,1,"27,665","Cronulla Sutherland
+SHARKS",,22,9,"Brisbane
+BRONCOS",,16,4
+0,ARL 1996,Semi Final,"Sunday, 15th September, 1996",,772,1,"37,858","St George
+DRAGONS",,36,8,"Sydney City
+ROOSTERS",,16,7
+0,ARL 1996,Prelim Final,"Saturday, 21st September, 1996",,773,1,"37,779","St George
+DRAGONS",7,29,3,"North Sydney
+BEARS",6,12,8
+0,ARL 1996,Prelim Final,"Sunday, 22nd September, 1996",,774,1,"40,525","Manly Warringah
+SEA EAGLES",6,24,4,"Cronulla Sutherland
+SHARKS",0,0,3
+0,ARL 1996,Grand Final,"Sunday, 29th September, 1996",,775,1,"40,985","Manly Warringah
+SEA EAGLES",14,20,7,"St George
+DRAGONS",2,8,6

@@ -1,0 +1,124 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1932,Round 1,"Saturday, 16th April, 1932",3:15pm (local time),9558,150,,"Balmain
+TIGERS",5,11,,"St George
+DRAGONS",4,4,
+0,NSWRFL 1932,Round 1,"Saturday, 16th April, 1932",3:15pm (local time),9557,154,"2,000",NEWTOWN,3,16,,UNIVERSITY,6,17,
+0,NSWRFL 1932,Round 1,"Saturday, 16th April, 1932",3:15pm (local time),9560,25,"4,000",NORTH SYDNEY,5,7,,EASTERN SUBURBS,5,15,
+0,NSWRFL 1932,Round 1,"Saturday, 16th April, 1932",3:15pm (local time),9559,109,"15,555","Western Suburbs
+MAGPIES",9,13,,"South Sydney
+RABBITOHS",7,12,
+0,NSWRFL 1932,Round 2,"Saturday, 23rd April, 1932",3:15pm (local time),9562,150,"3,000","Balmain
+TIGERS",8,8,,"Western Suburbs
+MAGPIES",3,19,
+0,NSWRFL 1932,Round 2,"Saturday, 23rd April, 1932",3:15pm (local time),9563,109,"6,093",EASTERN SUBURBS,3,21,,UNIVERSITY,2,2,
+0,NSWRFL 1932,Round 2,"Saturday, 23rd April, 1932",3:15pm (local time),9561,112,,NEWTOWN,12,14,,"South Sydney
+RABBITOHS",17,19,
+0,NSWRFL 1932,Round 2,"Saturday, 23rd April, 1932",3:15pm (local time),9564,154,"4,000","St George
+DRAGONS",6,14,,NORTH SYDNEY,0,5,
+0,NSWRFL 1932,Round 3,"Monday, 25th April, 1932",3:15pm (local time),9567,150,"4,000","Balmain
+TIGERS",7,12,,"South Sydney
+RABBITOHS",8,26,
+0,NSWRFL 1932,Round 3,"Monday, 25th April, 1932",3:15pm (local time),9568,109,"12,055",EASTERN SUBURBS,13,28,,NEWTOWN,2,12,
+0,NSWRFL 1932,Round 3,"Monday, 25th April, 1932",3:15pm (local time),9565,25,,NORTH SYDNEY,2,10,,"Western Suburbs
+MAGPIES",9,25,
+0,NSWRFL 1932,Round 3,"Monday, 25th April, 1932",3:15pm (local time),9566,154,"6,000","St George
+DRAGONS",7,23,,UNIVERSITY,7,7,
+0,NSWRFL 1932,Round 4,"Saturday, 21st May, 1932",3:15pm (local time),9570,150,"4,000","Balmain
+TIGERS",6,11,,NEWTOWN,14,36,
+0,NSWRFL 1932,Round 4,"Saturday, 21st May, 1932",3:15pm (local time),9569,25,"5,000",NORTH SYDNEY,4,7,,"South Sydney
+RABBITOHS",12,32,
+0,NSWRFL 1932,Round 4,"Saturday, 21st May, 1932",3:15pm (local time),9572,109,"10,000","St George
+DRAGONS",4,7,,EASTERN SUBURBS,8,23,
+0,NSWRFL 1932,Round 4,"Saturday, 21st May, 1932",3:15pm (local time),9571,112,,"Western Suburbs
+MAGPIES",15,35,,UNIVERSITY,5,13,
+0,NSWRFL 1932,Round 5,"Saturday, 11th June, 1932",3:15pm (local time),9575,109,"13,083",EASTERN SUBURBS,11,24,,"Western Suburbs
+MAGPIES",3,13,
+0,NSWRFL 1932,Round 5,"Saturday, 11th June, 1932",3:15pm (local time),9573,158,,NEWTOWN,16,23,,"St George
+DRAGONS",7,15,
+0,NSWRFL 1932,Round 5,"Saturday, 11th June, 1932",3:15pm (local time),9576,25,"4,000",NORTH SYDNEY,18,26,,"Balmain
+TIGERS",5,8,
+0,NSWRFL 1932,Round 5,"Saturday, 11th June, 1932",3:15pm (local time),9574,154,"2,000","South Sydney
+RABBITOHS",8,16,,UNIVERSITY,2,14,
+0,NSWRFL 1932,Round 6,"Saturday, 18th June, 1932",3:15pm (local time),9578,150,,"Balmain
+TIGERS",11,26,,UNIVERSITY,5,10,
+0,NSWRFL 1932,Round 6,"Saturday, 18th June, 1932",3:15pm (local time),9577,158,"4,000",NEWTOWN,2,12,,NORTH SYDNEY,10,10,
+0,NSWRFL 1932,Round 6,"Saturday, 18th June, 1932",3:15pm (local time),9580,109,"13,000","South Sydney
+RABBITOHS",8,15,,EASTERN SUBURBS,5,5,
+0,NSWRFL 1932,Round 6,"Saturday, 18th June, 1932",3:15pm (local time),9579,112,,"Western Suburbs
+MAGPIES",12,15,,"St George
+DRAGONS",0,5,
+0,NSWRFL 1932,Round 7,"Saturday, 25th June, 1932",3:15pm (local time),9583,153,,"Balmain
+TIGERS",7,7,,EASTERN SUBURBS,0,5,
+0,NSWRFL 1932,Round 7,"Saturday, 25th June, 1932",3:15pm (local time),9581,25,"3,000",NORTH SYDNEY,8,8,,UNIVERSITY,2,11,
+0,NSWRFL 1932,Round 7,"Saturday, 25th June, 1932",3:15pm (local time),9582,154,"4,000","St George
+DRAGONS",5,5,,"South Sydney
+RABBITOHS",17,22,
+0,NSWRFL 1932,Round 7,"Saturday, 25th June, 1932",3:15pm (local time),9584,109,"5,327","Western Suburbs
+MAGPIES",15,38,,NEWTOWN,0,5,
+0,NSWRFL 1932,Round 8,"Saturday, 2nd July, 1932",3:15pm (local time),9587,25,"2,000",EASTERN SUBURBS,8,29,,NORTH SYDNEY,4,9,
+0,NSWRFL 1932,Round 8,"Saturday, 2nd July, 1932",3:15pm (local time),9585,158,,NEWTOWN,8,16,,UNIVERSITY,2,9,
+0,NSWRFL 1932,Round 8,"Saturday, 2nd July, 1932",3:15pm (local time),9588,154,,"St George
+DRAGONS",2,9,,"Balmain
+TIGERS",2,9,
+0,NSWRFL 1932,Round 8,"Saturday, 2nd July, 1932",3:15pm (local time),9586,109,"14,308","South Sydney
+RABBITOHS",4,12,,"Western Suburbs
+MAGPIES",5,8,
+0,NSWRFL 1932,Round 9,"Saturday, 23rd July, 1932",3:15pm (local time),9590,154,,EASTERN SUBURBS,3,20,,UNIVERSITY,0,0,
+0,NSWRFL 1932,Round 9,"Saturday, 23rd July, 1932",3:15pm (local time),9589,25,,NORTH SYDNEY,3,13,,"St George
+DRAGONS",12,19,
+0,NSWRFL 1932,Round 9,"Saturday, 23rd July, 1932",3:15pm (local time),9591,109,"4,960","South Sydney
+RABBITOHS",13,21,,NEWTOWN,7,17,
+0,NSWRFL 1932,Round 9,"Saturday, 23rd July, 1932",3:15pm (local time),9592,112,,"Western Suburbs
+MAGPIES",13,33,,"Balmain
+TIGERS",2,9,
+0,NSWRFL 1932,Round 10,"Saturday, 30th July, 1932",3:15pm (local time),9596,158,"6,000",NEWTOWN,0,0,,EASTERN SUBURBS,29,40,
+0,NSWRFL 1932,Round 10,"Saturday, 30th July, 1932",3:15pm (local time),9593,154,,"St George
+DRAGONS",7,9,,UNIVERSITY,0,8,
+0,NSWRFL 1932,Round 10,"Saturday, 30th July, 1932",3:15pm (local time),9595,109,"4,000","South Sydney
+RABBITOHS",5,17,,"Balmain
+TIGERS",2,4,
+0,NSWRFL 1932,Round 10,"Saturday, 30th July, 1932",3:15pm (local time),9594,112,,"Western Suburbs
+MAGPIES",24,45,,NORTH SYDNEY,0,5,
+0,NSWRFL 1932,Round 11,"Saturday, 6th August, 1932",3:15pm (local time),9597,109,"5,150",EASTERN SUBURBS,6,16,,"St George
+DRAGONS",7,9,
+0,NSWRFL 1932,Round 11,"Saturday, 6th August, 1932",3:15pm (local time),9600,158,,NEWTOWN,5,10,,"Balmain
+TIGERS",25,25,
+0,NSWRFL 1932,Round 11,"Saturday, 6th August, 1932",3:15pm (local time),9598,154,,"South Sydney
+RABBITOHS",23,40,,NORTH SYDNEY,9,14,
+0,NSWRFL 1932,Round 11,"Saturday, 6th August, 1932",3:15pm (local time),9599,112,,"Western Suburbs
+MAGPIES",25,33,,UNIVERSITY,5,10,
+0,NSWRFL 1932,Round 12,"Saturday, 13th August, 1932",3:15pm (local time),9602,153,,"Balmain
+TIGERS",23,36,,NORTH SYDNEY,7,10,
+0,NSWRFL 1932,Round 12,"Saturday, 13th August, 1932",3:15pm (local time),9603,154,"3,000","St George
+DRAGONS",3,3,,NEWTOWN,3,5,
+0,NSWRFL 1932,Round 12,"Saturday, 13th August, 1932",3:15pm (local time),9601,158,"2,000","South Sydney
+RABBITOHS",15,23,,UNIVERSITY,7,13,
+0,NSWRFL 1932,Round 12,"Saturday, 13th August, 1932",3:15pm (local time),9604,109,"8,737","Western Suburbs
+MAGPIES",6,14,,EASTERN SUBURBS,10,10,
+0,NSWRFL 1932,Round 13,"Saturday, 20th August, 1932",3:15pm (local time),9606,153,,"Balmain
+TIGERS",3,14,,UNIVERSITY,7,7,
+0,NSWRFL 1932,Round 13,"Saturday, 20th August, 1932",3:15pm (local time),9607,109,"15,175",EASTERN SUBURBS,0,2,,"South Sydney
+RABBITOHS",11,14,
+0,NSWRFL 1932,Round 13,"Saturday, 20th August, 1932",3:15pm (local time),9608,25,,NORTH SYDNEY,2,8,,NEWTOWN,13,18,
+0,NSWRFL 1932,Round 13,"Saturday, 20th August, 1932",3:15pm (local time),9605,154,"2,000","St George
+DRAGONS",5,16,,"Western Suburbs
+MAGPIES",14,23,
+0,NSWRFL 1932,Round 14,"Saturday, 27th August, 1932",3:15pm (local time),9612,153,,EASTERN SUBURBS,10,15,,"Balmain
+TIGERS",2,24,
+0,NSWRFL 1932,Round 14,"Saturday, 27th August, 1932",3:15pm (local time),9609,109,"4,545",NEWTOWN,15,17,,"Western Suburbs
+MAGPIES",0,7,
+0,NSWRFL 1932,Round 14,"Saturday, 27th August, 1932",3:15pm (local time),9610,25,"1,500",NORTH SYDNEY,8,15,,UNIVERSITY,3,13,
+0,NSWRFL 1932,Round 14,"Saturday, 27th August, 1932",3:15pm (local time),9611,154,,"South Sydney
+RABBITOHS",9,23,,"St George
+DRAGONS",0,2,
+0,NSWRFL 1932,Semi Final,"Saturday, 3rd September, 1932",3:15pm (local time),9613,109,"14,353","South Sydney
+RABBITOHS",8,26,,EASTERN SUBURBS,5,8,
+0,NSWRFL 1932,Semi Final,"Saturday, 10th September, 1932",3:15pm (local time),9614,109,"5,715","Western Suburbs
+MAGPIES",3,15,,"Balmain
+TIGERS",7,7,
+0,NSWRFL 1932,Final,"Saturday, 17th September, 1932",3:15pm (local time),9615,109,"18,724","Western Suburbs
+MAGPIES",14,23,,"South Sydney
+RABBITOHS",0,8,
+0,NSWRFL 1932,Grand Final Chall.,"Saturday, 24th September, 1932",3:15pm (local time),9616,109,"16,925","South Sydney
+RABBITOHS",9,19,,"Western Suburbs
+MAGPIES",2,12,

@@ -1,0 +1,99 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1919,Round 1,"Saturday, 10th May, 1919",3:15pm (local time),8768,150,"4,000","Balmain
+TIGERS",15,20,,NORTH SYDNEY,2,6,
+0,NSWRFL 1919,Round 1,"Saturday, 10th May, 1919",3:15pm (local time),8769,105,"2,000",GLEBE,21,25,,ANNANDALE,3,7,
+0,NSWRFL 1919,Round 1,"Saturday, 10th May, 1919",3:15pm (local time),8770,24,"2,000",NEWTOWN,3,3,,EASTERN SUBURBS,6,19,
+0,NSWRFL 1919,Round 1,"Saturday, 10th May, 1919",3:15pm (local time),8767,103,"20,000","South Sydney
+RABBITOHS",4,9,,"Western Suburbs
+MAGPIES",13,25,
+0,NSWRFL 1919,Round 2,"Saturday, 17th May, 1919",3:15pm (local time),8771,105,500,ANNANDALE,3,8,,"South Sydney
+RABBITOHS",5,8,
+0,NSWRFL 1919,Round 2,"Saturday, 17th May, 1919",3:15pm (local time),8773,103,"4,000",EASTERN SUBURBS,8,10,,GLEBE,3,13,
+0,NSWRFL 1919,Round 2,"Saturday, 17th May, 1919",3:15pm (local time),8772,25,"1,500",NEWTOWN,5,5,,NORTH SYDNEY,0,2,
+0,NSWRFL 1919,Round 2,"Saturday, 17th May, 1919",3:15pm (local time),8774,24,"10,000","Western Suburbs
+MAGPIES",2,2,,"Balmain
+TIGERS",5,15,
+0,NSWRFL 1919,Round 3,"Saturday, 24th May, 1919",3:15pm (local time),8775,150,"2,000","Balmain
+TIGERS",19,37,,ANNANDALE,2,2,
+0,NSWRFL 1919,Round 3,"Saturday, 24th May, 1919",3:15pm (local time),8778,25,"2,000",NORTH SYDNEY,0,5,,EASTERN SUBURBS,10,23,
+0,NSWRFL 1919,Round 3,"Saturday, 24th May, 1919",3:15pm (local time),8776,103,"17,000","South Sydney
+RABBITOHS",7,18,,GLEBE,5,14,
+0,NSWRFL 1919,Round 3,"Saturday, 24th May, 1919",3:15pm (local time),8777,24,"3,000","Western Suburbs
+MAGPIES",4,11,,NEWTOWN,4,6,
+0,NSWRFL 1919,Round 4,"Saturday, 31st May, 1919",3:15pm (local time),8779,24,"25,000","Balmain
+TIGERS",13,24,,"South Sydney
+RABBITOHS",5,8,
+0,NSWRFL 1919,Round 4,"Saturday, 31st May, 1919",3:15pm (local time),8780,103,"3,000",EASTERN SUBURBS,13,19,,"Western Suburbs
+MAGPIES",5,10,
+0,NSWRFL 1919,Round 4,"Saturday, 31st May, 1919",3:15pm (local time),8781,105,300,NEWTOWN,6,6,,ANNANDALE,3,3,
+0,NSWRFL 1919,Round 4,"Saturday, 31st May, 1919",3:15pm (local time),8782,25,"2,000",NORTH SYDNEY,2,8,,GLEBE,13,16,
+0,NSWRFL 1919,Round 5,"Saturday, 14th June, 1919",3:15pm (local time),8783,105,300,ANNANDALE,0,12,,EASTERN SUBURBS,17,27,
+0,NSWRFL 1919,Round 5,"Saturday, 14th June, 1919",3:15pm (local time),8786,103,"10,000",GLEBE,3,5,,"Balmain
+TIGERS",2,15,
+0,NSWRFL 1919,Round 5,"Saturday, 14th June, 1919",3:15pm (local time),8784,24,"2,000","South Sydney
+RABBITOHS",16,23,,NEWTOWN,5,10,
+0,NSWRFL 1919,Round 5,"Saturday, 14th June, 1919",3:15pm (local time),8785,164,300,"Western Suburbs
+MAGPIES",33,51,,NORTH SYDNEY,0,0,
+0,NSWRFL 1919,Round 6,"Saturday, 28th June, 1919",3:15pm (local time),8787,25,"1,000",ANNANDALE,6,9,,NORTH SYDNEY,5,14,
+0,NSWRFL 1919,Round 6,"Saturday, 28th June, 1919",3:15pm (local time),8788,24,"8,000",EASTERN SUBURBS,6,16,,"South Sydney
+RABBITOHS",5,8,
+0,NSWRFL 1919,Round 6,"Saturday, 28th June, 1919",3:15pm (local time),8790,105,"2,000",NEWTOWN,0,8,,"Balmain
+TIGERS",10,23,
+0,NSWRFL 1919,Round 6,"Saturday, 28th June, 1919",3:15pm (local time),8789,103,"3,000","Western Suburbs
+MAGPIES",0,5,,GLEBE,3,8,
+0,NSWRFL 1919,Round 7,"Saturday, 5th July, 1919",3:15pm (local time),8791,112,"1,000",ANNANDALE,0,3,,"Western Suburbs
+MAGPIES",16,29,
+0,NSWRFL 1919,Round 7,"Saturday, 5th July, 1919",3:15pm (local time),8794,24,"17,000","Balmain
+TIGERS",0,3,,EASTERN SUBURBS,0,3,
+0,NSWRFL 1919,Round 7,"Saturday, 5th July, 1919",3:15pm (local time),8792,105,"2,000",GLEBE,7,9,,NEWTOWN,2,15,
+0,NSWRFL 1919,Round 7,"Saturday, 5th July, 1919",3:15pm (local time),8793,25,"2,000",NORTH SYDNEY,13,24,,"South Sydney
+RABBITOHS",11,36,
+0,NSWRFL 1919,Round 8,"Saturday, 12th July, 1919",3:15pm (local time),8795,105,"1,000",ANNANDALE,0,2,,GLEBE,5,9,
+0,NSWRFL 1919,Round 8,"Saturday, 12th July, 1919",3:15pm (local time),8796,103,"5,000",EASTERN SUBURBS,10,15,,NEWTOWN,8,15,
+0,NSWRFL 1919,Round 8,"Saturday, 12th July, 1919",3:15pm (local time),8798,25,"3,000",NORTH SYDNEY,2,8,,"Balmain
+TIGERS",15,41,
+0,NSWRFL 1919,Round 8,"Saturday, 12th July, 1919",3:15pm (local time),8797,24,"5,000","Western Suburbs
+MAGPIES",2,18,,"South Sydney
+RABBITOHS",8,8,
+0,NSWRFL 1919,Round 9,"Saturday, 26th July, 1919",3:15pm (local time),8799,103,"8,000","Balmain
+TIGERS",11,18,,"Western Suburbs
+MAGPIES",14,21,
+0,NSWRFL 1919,Round 9,"Saturday, 26th July, 1919",3:15pm (local time),8802,24,"5,000",GLEBE,3,11,,EASTERN SUBURBS,5,15,
+0,NSWRFL 1919,Round 9,"Saturday, 26th July, 1919",3:15pm (local time),8801,25,"1,500",NORTH SYDNEY,10,10,,NEWTOWN,5,10,
+0,NSWRFL 1919,Round 9,"Saturday, 26th July, 1919",3:15pm (local time),8800,105,500,"South Sydney
+RABBITOHS",3,18,,ANNANDALE,10,10,
+0,NSWRFL 1919,Round 10,"Saturday, 2nd August, 1919",3:15pm (local time),8803,150,"1,000",ANNANDALE,0,5,,"Balmain
+TIGERS",22,25,
+0,NSWRFL 1919,Round 10,"Saturday, 2nd August, 1919",3:15pm (local time),8806,24,"2,000",EASTERN SUBURBS,12,33,,NORTH SYDNEY,0,0,
+0,NSWRFL 1919,Round 10,"Saturday, 2nd August, 1919",3:15pm (local time),8804,105,"4,000",GLEBE,9,22,,"South Sydney
+RABBITOHS",0,10,
+0,NSWRFL 1919,Round 10,"Saturday, 2nd August, 1919",3:15pm (local time),8805,103,"6,000",NEWTOWN,10,10,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1919,Round 11,"Saturday, 9th August, 1919",3:15pm (local time),8807,105,500,ANNANDALE,5,5,,NEWTOWN,5,8,
+0,NSWRFL 1919,Round 11,"Saturday, 9th August, 1919",3:15pm (local time),8808,25,"1,000",GLEBE,2,17,,NORTH SYDNEY,2,2,
+0,NSWRFL 1919,Round 11,"Saturday, 9th August, 1919",3:15pm (local time),8809,103,"3,000","South Sydney
+RABBITOHS",3,11,,"Balmain
+TIGERS",13,13,
+0,NSWRFL 1919,Round 11,"Saturday, 9th August, 1919",3:15pm (local time),8810,24,"7,000","Western Suburbs
+MAGPIES",0,0,,EASTERN SUBURBS,5,5,
+0,NSWRFL 1919,Round 12,"Saturday, 16th August, 1919",3:15pm (local time),8813,103,"10,000","Balmain
+TIGERS",6,12,,GLEBE,13,21,
+0,NSWRFL 1919,Round 12,"Saturday, 16th August, 1919",3:15pm (local time),8814,105,,EASTERN SUBURBS,7,28,,ANNANDALE,0,0,
+0,NSWRFL 1919,Round 12,"Saturday, 16th August, 1919",3:15pm (local time),8811,24,"2,000",NEWTOWN,10,17,,"South Sydney
+RABBITOHS",5,12,
+0,NSWRFL 1919,Round 12,"Saturday, 16th August, 1919",3:15pm (local time),8812,25,"2,000",NORTH SYDNEY,2,9,,"Western Suburbs
+MAGPIES",13,21,
+0,NSWRFL 1919,Round 13,"Saturday, 23rd August, 1919",3:15pm (local time),8816,24,"4,000","Balmain
+TIGERS",8,18,,NEWTOWN,0,5,
+0,NSWRFL 1919,Round 13,"Saturday, 23rd August, 1919",3:15pm (local time),8815,105,"3,000",GLEBE,8,8,,"Western Suburbs
+MAGPIES",7,10,
+0,NSWRFL 1919,Round 13,"Saturday, 23rd August, 1919",3:15pm (local time),8817,25,"2,000",NORTH SYDNEY,0,5,,ANNANDALE,8,8,
+0,NSWRFL 1919,Round 13,"Saturday, 23rd August, 1919",3:15pm (local time),8818,103,"6,000","South Sydney
+RABBITOHS",10,15,,EASTERN SUBURBS,7,12,
+0,NSWRFL 1919,Round 14,"Saturday, 30th August, 1919",3:15pm (local time),8822,103,"20,000",EASTERN SUBURBS,2,4,,"Balmain
+TIGERS",4,13,
+0,NSWRFL 1919,Round 14,"Saturday, 30th August, 1919",3:15pm (local time),8820,105,"2,000",NEWTOWN,5,5,,GLEBE,10,31,
+0,NSWRFL 1919,Round 14,"Saturday, 30th August, 1919",3:15pm (local time),8821,24,500,"South Sydney
+RABBITOHS",8,24,,NORTH SYDNEY,0,10,
+0,NSWRFL 1919,Round 14,"Saturday, 30th August, 1919",3:15pm (local time),8819,164,"1,500","Western Suburbs
+MAGPIES",18,31,,ANNANDALE,6,12,

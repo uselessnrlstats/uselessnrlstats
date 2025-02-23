@@ -1,0 +1,118 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1936,Round 1,"Saturday, 11th April, 1936",3:15pm (local time),9812,109,"7,143","Balmain
+TIGERS",3,33,,"St George
+DRAGONS",0,6,
+0,NSWRFL 1936,Round 1,"Saturday, 11th April, 1936",3:15pm (local time),9811,76,"1,000",NEWTOWN,20,21,,UNIVERSITY,3,0,
+0,NSWRFL 1936,Round 1,"Monday, 13th April, 1936",3:15pm (local time),9813,27,"4,000",CANTERBURY BANKSTOWN,2,11,,"Western Suburbs
+MAGPIES",3,6,
+0,NSWRFL 1936,Round 1,"Monday, 13th April, 1936",3:15pm (local time),9814,109,"9,480","South Sydney
+RABBITOHS",4,9,,EASTERN SUBURBS,15,26,
+0,NSWRFL 1936,Round 2,"Saturday, 18th April, 1936",3:15pm (local time),9816,27,"3,000",CANTERBURY BANKSTOWN,17,22,,UNIVERSITY,3,7,
+0,NSWRFL 1936,Round 2,"Saturday, 18th April, 1936",3:15pm (local time),9815,76,"7,000",NEWTOWN,11,21,,"South Sydney
+RABBITOHS",2,2,
+0,NSWRFL 1936,Round 2,"Saturday, 18th April, 1936",3:15pm (local time),9818,154,"4,000","St George
+DRAGONS",5,15,,EASTERN SUBURBS,7,18,
+0,NSWRFL 1936,Round 2,"Saturday, 18th April, 1936",3:15pm (local time),9817,24,"9,200","Western Suburbs
+MAGPIES",3,8,,NORTH SYDNEY,10,28,
+0,NSWRFL 1936,Round 3,"Saturday, 25th April, 1936",3:15pm (local time),9821,7,"8,861","Balmain
+TIGERS",0,13,,"Western Suburbs
+MAGPIES",12,30,
+0,NSWRFL 1936,Round 3,"Saturday, 25th April, 1936",3:15pm (local time),9822,24,"16,598",NEWTOWN,7,20,,CANTERBURY BANKSTOWN,4,4,
+0,NSWRFL 1936,Round 3,"Saturday, 25th April, 1936",3:15pm (local time),9819,25,"6,000",NORTH SYDNEY,21,41,,UNIVERSITY,5,5,
+0,NSWRFL 1936,Round 3,"Saturday, 25th April, 1936",3:15pm (local time),9820,154,"6,000","St George
+DRAGONS",2,7,,"South Sydney
+RABBITOHS",5,11,
+0,NSWRFL 1936,Round 4,"Saturday, 2nd May, 1936",3:15pm (local time),9823,7,"4,000","Balmain
+TIGERS",10,25,,UNIVERSITY,4,9,
+0,NSWRFL 1936,Round 4,"Saturday, 2nd May, 1936",3:15pm (local time),9824,24,"16,517",NORTH SYDNEY,2,8,,NEWTOWN,20,29,
+0,NSWRFL 1936,Round 4,"Saturday, 2nd May, 1936",3:15pm (local time),9825,27,"5,000","South Sydney
+RABBITOHS",4,22,,CANTERBURY BANKSTOWN,3,5,
+0,NSWRFL 1936,Round 4,"Saturday, 2nd May, 1936",3:15pm (local time),9826,112,"7,786","Western Suburbs
+MAGPIES",12,17,,EASTERN SUBURBS,8,17,
+0,NSWRFL 1936,Round 5,"Saturday, 13th June, 1936",3:15pm (local time),9827,24,"9,806","Balmain
+TIGERS",6,11,,NEWTOWN,0,6,
+0,NSWRFL 1936,Round 5,"Saturday, 13th June, 1936",3:15pm (local time),9828,109,"4,000",EASTERN SUBURBS,10,34,,UNIVERSITY,5,8,
+0,NSWRFL 1936,Round 5,"Saturday, 13th June, 1936",3:15pm (local time),9830,25,"3,000",NORTH SYDNEY,0,3,,CANTERBURY BANKSTOWN,3,8,
+0,NSWRFL 1936,Round 5,"Saturday, 13th June, 1936",3:15pm (local time),9829,112,"3,000","Western Suburbs
+MAGPIES",5,11,,"St George
+DRAGONS",15,15,
+0,NSWRFL 1936,Round 6,"Saturday, 20th June, 1936",3:15pm (local time),9834,27,"4,000",CANTERBURY BANKSTOWN,13,24,,"Balmain
+TIGERS",2,12,
+0,NSWRFL 1936,Round 6,"Saturday, 20th June, 1936",3:15pm (local time),9833,24,"9,033",EASTERN SUBURBS,5,23,,NEWTOWN,3,11,
+0,NSWRFL 1936,Round 6,"Saturday, 20th June, 1936",3:15pm (local time),9831,25,"6,000",NORTH SYDNEY,7,12,,"South Sydney
+RABBITOHS",4,9,
+0,NSWRFL 1936,Round 6,"Saturday, 20th June, 1936",3:15pm (local time),9832,154,"1,500","St George
+DRAGONS",5,12,,UNIVERSITY,6,6,
+0,NSWRFL 1936,Round 7,"Saturday, 27th June, 1936",3:15pm (local time),9836,7,"4,000","Balmain
+TIGERS",2,12,,NORTH SYDNEY,2,7,
+0,NSWRFL 1936,Round 7,"Saturday, 27th June, 1936",3:15pm (local time),9838,24,"7,938",EASTERN SUBURBS,2,18,,CANTERBURY BANKSTOWN,8,18,
+0,NSWRFL 1936,Round 7,"Saturday, 27th June, 1936",3:15pm (local time),9835,76,"5,000",NEWTOWN,2,23,,"St George
+DRAGONS",12,15,
+0,NSWRFL 1936,Round 7,"Saturday, 27th June, 1936",3:15pm (local time),9837,112,"3,000","Western Suburbs
+MAGPIES",0,12,,"South Sydney
+RABBITOHS",5,5,
+0,NSWRFL 1936,Round 8,"Saturday, 4th July, 1936",3:15pm (local time),9839,7,"3,000","Balmain
+TIGERS",12,23,,"South Sydney
+RABBITOHS",3,6,
+0,NSWRFL 1936,Round 8,"Saturday, 4th July, 1936",3:15pm (local time),9840,27,"4,000",CANTERBURY BANKSTOWN,6,13,,"St George
+DRAGONS",5,5,
+0,NSWRFL 1936,Round 8,"Saturday, 4th July, 1936",3:15pm (local time),9842,109,"4,973",NORTH SYDNEY,9,11,,EASTERN SUBURBS,0,19,
+0,NSWRFL 1936,Round 8,"Saturday, 4th July, 1936",3:15pm (local time),9841,112,"1,500","Western Suburbs
+MAGPIES",21,29,,UNIVERSITY,5,10,
+0,NSWRFL 1936,Round 9,"Saturday, 11th July, 1936",3:15pm (local time),9846,109,"7,987",EASTERN SUBURBS,13,19,,"Balmain
+TIGERS",2,15,
+0,NSWRFL 1936,Round 9,"Saturday, 11th July, 1936",3:15pm (local time),9843,25,"3,000",NORTH SYDNEY,8,21,,"St George
+DRAGONS",2,7,
+0,NSWRFL 1936,Round 9,"Saturday, 11th July, 1936",3:15pm (local time),9844,154,"1,500","South Sydney
+RABBITOHS",23,49,,UNIVERSITY,7,9,
+0,NSWRFL 1936,Round 9,"Saturday, 11th July, 1936",3:15pm (local time),9845,112,"4,363","Western Suburbs
+MAGPIES",16,38,,NEWTOWN,0,9,
+0,NSWRFL 1936,Round 10,"Saturday, 25th July, 1936",3:15pm (local time),9848,24,"7,806",EASTERN SUBURBS,0,23,,"South Sydney
+RABBITOHS",8,8,
+0,NSWRFL 1936,Round 10,"Saturday, 25th July, 1936",3:15pm (local time),9847,76,800,NEWTOWN,10,18,,UNIVERSITY,10,10,
+0,NSWRFL 1936,Round 10,"Saturday, 25th July, 1936",3:15pm (local time),9849,154,"3,000","St George
+DRAGONS",3,8,,"Balmain
+TIGERS",15,28,
+0,NSWRFL 1936,Round 10,"Saturday, 25th July, 1936",3:15pm (local time),9850,112,"5,000","Western Suburbs
+MAGPIES",0,2,,CANTERBURY BANKSTOWN,4,20,
+0,NSWRFL 1936,Round 11,"Saturday, 1st August, 1936",3:15pm (local time),9852,27,"7,181",CANTERBURY BANKSTOWN,18,41,,UNIVERSITY,0,0,
+0,NSWRFL 1936,Round 11,"Saturday, 1st August, 1936",3:15pm (local time),9853,24,"5,317",EASTERN SUBURBS,12,23,,"St George
+DRAGONS",3,5,
+0,NSWRFL 1936,Round 11,"Saturday, 1st August, 1936",3:15pm (local time),9851,25,"2,000",NORTH SYDNEY,4,9,,"Western Suburbs
+MAGPIES",6,8,
+0,NSWRFL 1936,Round 11,"Saturday, 1st August, 1936",3:15pm (local time),9854,76,"5,317","South Sydney
+RABBITOHS",5,15,,NEWTOWN,8,16,
+0,NSWRFL 1936,Round 12,"Saturday, 8th August, 1936",3:15pm (local time),9856,24,"7,181",CANTERBURY BANKSTOWN,6,10,,NEWTOWN,3,3,
+0,NSWRFL 1936,Round 12,"Saturday, 8th August, 1936",3:15pm (local time),9855,25,"2,000",NORTH SYDNEY,11,21,,UNIVERSITY,5,5,
+0,NSWRFL 1936,Round 12,"Saturday, 8th August, 1936",3:15pm (local time),9857,154,"5,000","South Sydney
+RABBITOHS",15,20,,"St George
+DRAGONS",2,7,
+0,NSWRFL 1936,Round 12,"Saturday, 8th August, 1936",3:15pm (local time),9858,112,"2,281","Western Suburbs
+MAGPIES",7,17,,"Balmain
+TIGERS",0,7,
+0,NSWRFL 1936,Round 13,"Saturday, 15th August, 1936",3:15pm (local time),9860,7,"2,000","Balmain
+TIGERS",15,40,,UNIVERSITY,5,5,
+0,NSWRFL 1936,Round 13,"Saturday, 15th August, 1936",3:15pm (local time),9861,27,"3,000",CANTERBURY BANKSTOWN,7,12,,"South Sydney
+RABBITOHS",0,2,
+0,NSWRFL 1936,Round 13,"Saturday, 15th August, 1936",3:15pm (local time),9862,24,"7,853",EASTERN SUBURBS,16,29,,"Western Suburbs
+MAGPIES",10,13,
+0,NSWRFL 1936,Round 13,"Saturday, 15th August, 1936",3:15pm (local time),9859,76,"3,000",NEWTOWN,3,11,,NORTH SYDNEY,13,24,
+0,NSWRFL 1936,Round 14,"Saturday, 22nd August, 1936",3:15pm (local time),9864,24,"7,183",CANTERBURY BANKSTOWN,8,13,,NORTH SYDNEY,4,13,
+0,NSWRFL 1936,Round 14,"Saturday, 22nd August, 1936",3:15pm (local time),9865,109,"3,000",EASTERN SUBURBS,31,50,,UNIVERSITY,0,12,
+0,NSWRFL 1936,Round 14,"Saturday, 22nd August, 1936",3:15pm (local time),9866,76,"2,000",NEWTOWN,7,12,,"Balmain
+TIGERS",8,30,
+0,NSWRFL 1936,Round 14,"Saturday, 22nd August, 1936",3:15pm (local time),9863,154,"3,000","St George
+DRAGONS",10,28,,"Western Suburbs
+MAGPIES",0,8,
+0,NSWRFL 1936,Round 15,"Saturday, 29th August, 1936",2:00pm (local time),9870,24,"10,856",NEWTOWN,3,3,,EASTERN SUBURBS,6,36,
+0,NSWRFL 1936,Round 15,"Saturday, 29th August, 1936",3:30pm (local time),9868,24,"10,856","Balmain
+TIGERS",12,19,,CANTERBURY BANKSTOWN,5,12,
+0,NSWRFL 1936,Round 15,"Saturday, 29th August, 1936",3:15pm (local time),9867,154,"2,000","St George
+DRAGONS",0,11,,UNIVERSITY,10,13,
+0,NSWRFL 1936,Round 15,"Saturday, 29th August, 1936",3:15pm (local time),9869,152,"3,000","South Sydney
+RABBITOHS",0,27,,NORTH SYDNEY,7,12,
+0,NSWRFL 1936,Semi Final,"Saturday, 5th September, 1936",3:15pm (local time),9871,24,"7,605","Balmain
+TIGERS",10,16,,NORTH SYDNEY,0,3,
+0,NSWRFL 1936,Semi Final,"Saturday, 5th September, 1936",3:15pm (local time),9872,27,"7,201",EASTERN SUBURBS,11,25,,CANTERBURY BANKSTOWN,9,13,
+0,NSWRFL 1936,Final,"Saturday, 12th September, 1936",3:15pm (local time),9873,24,"14,395",EASTERN SUBURBS,8,32,,"Balmain
+TIGERS",6,12,

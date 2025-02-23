@@ -1,0 +1,550 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1988,Round 1,"Friday, 4th March, 1988",8:00pm (local time),5634,1,"19,295","Eastern Suburbs
+ROOSTERS",6,14,14,"St George
+DRAGONS",12,24,5
+0,NSWRL 1988,Round 1,"Saturday, 5th March, 1988",3:00pm (local time),5635,11,"26,340","Newcastle
+KNIGHTS",2,4,10,"Parramatta
+EELS",16,28,11
+0,NSWRL 1988,Round 1,"Saturday, 5th March, 1988",6:30pm (local time),5636,48,"6,695","Canberra
+RAIDERS",10,28,7,"Illawarra
+STEELERS",2,8,7
+0,NSWRL 1988,Round 1,"Saturday, 5th March, 1988",8:30pm (local time),5637,34,"5,280","Gold Coast/Tweed Heads
+GIANTS",10,10,6,"Canterbury Bankstown
+BULLDOGS",4,21,12
+0,NSWRL 1988,Round 1,"Sunday, 6th March, 1988",3:00pm (local time),5639,7,"7,418","Balmain
+TIGERS",6,24,9,"North Sydney
+BEARS",4,4,10
+0,NSWRL 1988,Round 1,"Sunday, 6th March, 1988",3:00pm (local time),5641,9,"9,273","Cronulla Sutherland
+SHARKS",8,20,6,"South Sydney
+RABBITOHS",8,21,5
+0,NSWRL 1988,Round 1,"Sunday, 6th March, 1988",3:00pm (local time),5638,3,"5,333","Penrith
+PANTHERS",8,28,8,"Western Suburbs
+MAGPIES",0,8,8
+0,NSWRL 1988,Round 1,"Sunday, 6th March, 1988",5:00pm (local time),5640,22,"17,451","Brisbane
+BRONCOS",14,44,10,"Manly Warringah
+SEA EAGLES",6,10,9
+0,NSWRL 1988,Round 2,"Friday, 11th March, 1988",7:30pm (local time),5642,1,"20,685","South Sydney
+RABBITOHS",8,16,7,"Eastern Suburbs
+ROOSTERS",6,14,12
+0,NSWRL 1988,Round 2,"Saturday, 12th March, 1988",3:05pm (local time),5644,27,"6,175","Canterbury Bankstown
+BULLDOGS",12,22,7,"Cronulla Sutherland
+SHARKS",12,18,6
+0,NSWRL 1988,Round 2,"Saturday, 12th March, 1988",6:30pm (local time),5643,22,"13,621","Brisbane
+BRONCOS",16,20,6,"Penrith
+PANTHERS",2,18,7
+0,NSWRL 1988,Round 2,"Sunday, 13th March, 1988",3:00pm (local time),5646,21,"9,458","Illawarra
+STEELERS",12,18,10,"Gold Coast/Tweed Heads
+GIANTS",6,18,10
+0,NSWRL 1988,Round 2,"Sunday, 13th March, 1988",3:00pm (local time),5645,5,"9,030","Manly Warringah
+SEA EAGLES",28,44,7,"North Sydney
+BEARS",2,18,10
+0,NSWRL 1988,Round 2,"Sunday, 13th March, 1988",3:00pm (local time),5648,8,"18,245","Parramatta
+EELS",16,30,13,"Balmain
+TIGERS",4,10,8
+0,NSWRL 1988,Round 2,"Sunday, 13th March, 1988",3:00pm (local time),5649,27,"6,556","St George
+DRAGONS",10,10,9,"Canberra
+RAIDERS",10,34,7
+0,NSWRL 1988,Round 2,"Sunday, 13th March, 1988",3:00pm (local time),5647,19,"5,011","Western Suburbs
+MAGPIES",6,16,16,"Newcastle
+KNIGHTS",14,20,8
+0,NSWRL 1988,Round 3,"Friday, 18th March, 1988",7:30pm (local time),5650,1,"13,943","Eastern Suburbs
+ROOSTERS",6,10,8,"Canterbury Bankstown
+BULLDOGS",2,14,8
+0,NSWRL 1988,Round 3,"Saturday, 19th March, 1988",3:00pm (local time),5652,34,"2,585","Gold Coast/Tweed Heads
+GIANTS",6,12,10,"Cronulla Sutherland
+SHARKS",12,13,4
+0,NSWRL 1988,Round 3,"Saturday, 19th March, 1988",7:30pm (local time),5651,48,"12,268","Canberra
+RAIDERS",18,34,7,"South Sydney
+RABBITOHS",2,6,10
+0,NSWRL 1988,Round 3,"Sunday, 20th March, 1988",3:00pm (local time),5653,21,"8,688","Illawarra
+STEELERS",12,20,15,"St George
+DRAGONS",4,4,6
+0,NSWRL 1988,Round 3,"Sunday, 20th March, 1988",3:00pm (local time),5656,11,"24,060","Newcastle
+KNIGHTS",8,20,7,"Balmain
+TIGERS",12,16,12
+0,NSWRL 1988,Round 3,"Sunday, 20th March, 1988",3:00pm (local time),5654,25,"5,179","North Sydney
+BEARS",2,2,12,"Penrith
+PANTHERS",8,29,4
+0,NSWRL 1988,Round 3,"Sunday, 20th March, 1988",3:00pm (local time),5655,8,"20,072","Parramatta
+EELS",12,12,7,"Manly Warringah
+SEA EAGLES",34,64,7
+0,NSWRL 1988,Round 3,"Sunday, 20th March, 1988",3:00pm (local time),5657,19,"10,112","Western Suburbs
+MAGPIES",0,4,11,"Brisbane
+BRONCOS",16,38,2
+0,NSWRL 1988,Round 4,"Saturday, 26th March, 1988",3:05pm (local time),5660,27,"7,114","Canterbury Bankstown
+BULLDOGS",6,22,10,"Canberra
+RAIDERS",11,17,7
+0,NSWRL 1988,Round 4,"Saturday, 26th March, 1988",6:00pm (local time),5659,1,"5,961","South Sydney
+RABBITOHS",12,31,4,"Illawarra
+STEELERS",6,18,5
+0,NSWRL 1988,Round 4,"Saturday, 26th March, 1988",7:30pm (local time),5658,34,"7,000","Gold Coast/Tweed Heads
+GIANTS",6,6,9,"St George
+DRAGONS",6,14,12
+0,NSWRL 1988,Round 4,"Sunday, 27th March, 1988",3:00pm (local time),5662,7,"5,813","Balmain
+TIGERS",10,15,12,"Western Suburbs
+MAGPIES",8,12,10
+0,NSWRL 1988,Round 4,"Sunday, 27th March, 1988",3:00pm (local time),5663,9,"6,413","Cronulla Sutherland
+SHARKS",14,18,9,"Eastern Suburbs
+ROOSTERS",12,18,6
+0,NSWRL 1988,Round 4,"Sunday, 27th March, 1988",3:00pm (local time),5661,5,"10,031","Manly Warringah
+SEA EAGLES",20,44,9,"Newcastle
+KNIGHTS",6,12,5
+0,NSWRL 1988,Round 4,"Sunday, 27th March, 1988",3:00pm (local time),5665,25,"9,329","North Sydney
+BEARS",6,12,10,"Brisbane
+BRONCOS",6,24,5
+0,NSWRL 1988,Round 4,"Sunday, 27th March, 1988",3:00pm (local time),5664,3,"11,611","Penrith
+PANTHERS",2,8,11,"Parramatta
+EELS",4,6,9
+0,NSWRL 1988,Round 5,"Saturday, 2nd April, 1988",3:05pm (local time),5666,7,"6,300","Balmain
+TIGERS",6,8,9,"Manly Warringah
+SEA EAGLES",6,6,12
+0,NSWRL 1988,Round 5,"Saturday, 2nd April, 1988",6:00pm (local time),5667,1,"3,712","Eastern Suburbs
+ROOSTERS",12,28,8,"Gold Coast/Tweed Heads
+GIANTS",2,10,9
+0,NSWRL 1988,Round 5,"Sunday, 3rd April, 1988",,5671,19,"3,444","Western Suburbs
+MAGPIES",,16,10,"North Sydney
+BEARS",,23,8
+0,NSWRL 1988,Round 5,"Sunday, 3rd April, 1988",3:00pm (local time),5668,22,"23,202","Brisbane
+BRONCOS",10,24,6,"Parramatta
+EELS",16,18,6
+0,NSWRL 1988,Round 5,"Sunday, 3rd April, 1988",3:00pm (local time),5669,48,"8,889","Canberra
+RAIDERS",20,38,9,"Cronulla Sutherland
+SHARKS",2,20,3
+0,NSWRL 1988,Round 5,"Sunday, 3rd April, 1988",3:00pm (local time),5672,21,"8,728","Illawarra
+STEELERS",6,8,8,"Canterbury Bankstown
+BULLDOGS",2,2,10
+0,NSWRL 1988,Round 5,"Sunday, 3rd April, 1988",3:00pm (local time),5670,3,"4,435","Penrith
+PANTHERS",6,14,10,"Newcastle
+KNIGHTS",2,8,7
+0,NSWRL 1988,Round 5,"Monday, 4th April, 1988",3:00pm (local time),5673,27,"8,872","St George
+DRAGONS",0,4,8,"South Sydney
+RABBITOHS",20,36,8
+0,NSWRL 1988,Round 6,"Friday, 8th April, 1988",7:30pm (local time),5674,34,"3,224","Gold Coast/Tweed Heads
+GIANTS",10,16,10,"South Sydney
+RABBITOHS",12,28,9
+0,NSWRL 1988,Round 6,"Saturday, 9th April, 1988",3:05pm (local time),5675,1,"5,126","Eastern Suburbs
+ROOSTERS",4,4,8,"Canberra
+RAIDERS",16,40,4
+0,NSWRL 1988,Round 6,"Sunday, 10th April, 1988",,5678,8,"10,245","Parramatta
+EELS",,8,8,"North Sydney
+BEARS",,12,4
+0,NSWRL 1988,Round 6,"Sunday, 10th April, 1988",3:00pm (local time),5677,9,"3,000","Cronulla Sutherland
+SHARKS",16,36,7,"Illawarra
+STEELERS",6,18,4
+0,NSWRL 1988,Round 6,"Sunday, 10th April, 1988",3:00pm (local time),5676,5,"6,049","Manly Warringah
+SEA EAGLES",2,26,9,"Western Suburbs
+MAGPIES",6,6,11
+0,NSWRL 1988,Round 6,"Sunday, 10th April, 1988",3:00pm (local time),5680,11,"30,220","Newcastle
+KNIGHTS",4,10,10,"Brisbane
+BRONCOS",8,24,10
+0,NSWRL 1988,Round 6,"Sunday, 10th April, 1988",3:00pm (local time),5679,3,"7,691","Penrith
+PANTHERS",8,18,10,"Balmain
+TIGERS",4,8,12
+0,NSWRL 1988,Round 6,"Sunday, 10th April, 1988",3:00pm (local time),5681,27,"7,615","St George
+DRAGONS",6,8,12,"Canterbury Bankstown
+BULLDOGS",10,22,9
+0,NSWRL 1988,Round 7,"Saturday, 16th April, 1988",3:05pm (local time),5682,22,"18,434","Brisbane
+BRONCOS",8,18,10,"Balmain
+TIGERS",14,26,12
+0,NSWRL 1988,Round 7,"Sunday, 17th April, 1988",2:30pm (local time),5684,48,"9,843","Canberra
+RAIDERS",24,50,13,"Gold Coast/Tweed Heads
+GIANTS",0,6,5
+0,NSWRL 1988,Round 7,"Sunday, 17th April, 1988",3:00pm (local time),5689,21,"8,146","Illawarra
+STEELERS",16,18,7,"Eastern Suburbs
+ROOSTERS",6,14,10
+0,NSWRL 1988,Round 7,"Sunday, 17th April, 1988",3:00pm (local time),5683,5,"12,885","Manly Warringah
+SEA EAGLES",0,0,10,"Penrith
+PANTHERS",8,22,7
+0,NSWRL 1988,Round 7,"Sunday, 17th April, 1988",3:00pm (local time),5685,25,"6,637","North Sydney
+BEARS",24,40,5,"Newcastle
+KNIGHTS",2,6,6
+0,NSWRL 1988,Round 7,"Sunday, 17th April, 1988",3:00pm (local time),5688,27,"6,362","St George
+DRAGONS",12,18,13,"Cronulla Sutherland
+SHARKS",14,34,8
+0,NSWRL 1988,Round 7,"Sunday, 17th April, 1988",3:00pm (local time),5687,1,"18,835","South Sydney
+RABBITOHS",10,12,13,"Canterbury Bankstown
+BULLDOGS",6,16,9
+0,NSWRL 1988,Round 7,"Sunday, 17th April, 1988",3:00pm (local time),5686,19,"7,040","Western Suburbs
+MAGPIES",8,16,10,"Parramatta
+EELS",4,14,5
+0,NSWRL 1988,Round 8,"Friday, 22nd April, 1988",7:30pm (local time),5691,1,"7,174","Eastern Suburbs
+ROOSTERS",13,14,4,"North Sydney
+BEARS",8,14,8
+0,NSWRL 1988,Round 8,"Friday, 22nd April, 1988",7:30pm (local time),5690,34,"4,138","Gold Coast/Tweed Heads
+GIANTS",0,0,8,"Western Suburbs
+MAGPIES",16,20,7
+0,NSWRL 1988,Round 8,"Saturday, 23rd April, 1988",3:05pm (local time),5692,9,"10,115","Cronulla Sutherland
+SHARKS",24,38,9,"Brisbane
+BRONCOS",4,8,3
+0,NSWRL 1988,Round 8,"Sunday, 24th April, 1988",3:00pm (local time),5693,7,"10,426","Balmain
+TIGERS",16,26,13,"St George
+DRAGONS",8,18,6
+0,NSWRL 1988,Round 8,"Sunday, 24th April, 1988",3:00pm (local time),5694,27,"15,295","Canterbury Bankstown
+BULLDOGS",14,18,7,"Penrith
+PANTHERS",6,12,13
+0,NSWRL 1988,Round 8,"Sunday, 24th April, 1988",3:00pm (local time),5695,11,"18,470","Newcastle
+KNIGHTS",2,16,10,"Illawarra
+STEELERS",14,24,6
+0,NSWRL 1988,Round 8,"Sunday, 24th April, 1988",3:00pm (local time),5696,8,"12,217","Parramatta
+EELS",28,40,8,"Canberra
+RAIDERS",0,12,7
+0,NSWRL 1988,Round 8,"Monday, 25th April, 1988",3:00pm (local time),5697,5,"20,532","Manly Warringah
+SEA EAGLES",2,14,6,"South Sydney
+RABBITOHS",10,28,8
+0,NSWRL 1988,Round 9,"Sunday, 1st May, 1988",3:00pm (local time),5699,22,"16,489","Brisbane
+BRONCOS",0,24,7,"Eastern Suburbs
+ROOSTERS",14,20,4
+0,NSWRL 1988,Round 9,"Sunday, 1st May, 1988",3:00pm (local time),5700,27,"12,117","Canterbury Bankstown
+BULLDOGS",0,0,11,"Manly Warringah
+SEA EAGLES",8,18,9
+0,NSWRL 1988,Round 9,"Sunday, 1st May, 1988",3:00pm (local time),5698,21,"11,504","Illawarra
+STEELERS",6,12,10,"Parramatta
+EELS",20,34,7
+0,NSWRL 1988,Round 9,"Sunday, 1st May, 1988",3:00pm (local time),5701,25,"4,464","North Sydney
+BEARS",8,12,17,"Gold Coast/Tweed Heads
+GIANTS",6,8,9
+0,NSWRL 1988,Round 9,"Sunday, 1st May, 1988",3:00pm (local time),5704,3,"5,673","Penrith
+PANTHERS",4,4,10,"Cronulla Sutherland
+SHARKS",16,26,5
+0,NSWRL 1988,Round 9,"Sunday, 1st May, 1988",3:00pm (local time),5705,9,"4,267","St George
+DRAGONS",20,32,9,"Newcastle
+KNIGHTS",8,20,9
+0,NSWRL 1988,Round 9,"Sunday, 1st May, 1988",3:00pm (local time),5702,1,"18,116","South Sydney
+RABBITOHS",2,22,8,"Balmain
+TIGERS",7,13,8
+0,NSWRL 1988,Round 9,"Sunday, 1st May, 1988",3:00pm (local time),5703,19,"4,083","Western Suburbs
+MAGPIES",2,16,7,"Canberra
+RAIDERS",20,30,3
+0,NSWRL 1988,Round 10,"Saturday, 7th May, 1988",3:05pm (local time),5707,5,"7,234","Manly Warringah
+SEA EAGLES",24,44,4,"Cronulla Sutherland
+SHARKS",12,30,8
+0,NSWRL 1988,Round 10,"Saturday, 7th May, 1988",5:00pm (local time),5706,48,"7,916","Canberra
+RAIDERS",10,12,11,"North Sydney
+BEARS",0,20,5
+0,NSWRL 1988,Round 10,"Sunday, 8th May, 1988",3:00pm (local time),5711,7,"9,213","Balmain
+TIGERS",2,19,6,"Canterbury Bankstown
+BULLDOGS",6,8,11
+0,NSWRL 1988,Round 10,"Sunday, 8th May, 1988",3:00pm (local time),5712,1,"5,249","Eastern Suburbs
+ROOSTERS",10,34,10,"Penrith
+PANTHERS",12,12,9
+0,NSWRL 1988,Round 10,"Sunday, 8th May, 1988",3:00pm (local time),5713,34,"14,438","Gold Coast/Tweed Heads
+GIANTS",12,25,5,"Brisbane
+BRONCOS",10,22,12
+0,NSWRL 1988,Round 10,"Sunday, 8th May, 1988",3:00pm (local time),5708,21,"6,134","Illawarra
+STEELERS",16,28,6,"Western Suburbs
+MAGPIES",8,12,12
+0,NSWRL 1988,Round 10,"Sunday, 8th May, 1988",3:00pm (local time),5709,11,"19,784","Newcastle
+KNIGHTS",10,17,5,"South Sydney
+RABBITOHS",4,10,9
+0,NSWRL 1988,Round 10,"Sunday, 8th May, 1988",3:00pm (local time),5710,8,"14,267","Parramatta
+EELS",2,16,13,"St George
+DRAGONS",10,28,5
+0,NSWRL 1988,Round 11,"Saturday, 14th May, 1988",,5714,19,"3,777","Western Suburbs
+MAGPIES",,22,12,"St George
+DRAGONS",,24,5
+0,NSWRL 1988,Round 11,"Sunday, 15th May, 1988",3:00pm (local time),5716,25,"8,379","North Sydney
+BEARS",18,41,5,"Illawarra
+STEELERS",0,12,5
+0,NSWRL 1988,Round 11,"Sunday, 15th May, 1988",3:00pm (local time),5715,3,"4,739","Penrith
+PANTHERS",24,47,11,"Gold Coast/Tweed Heads
+GIANTS",2,12,8
+0,NSWRL 1988,Round 11,"Saturday, 21st May, 1988",,5717,1,"10,466","South Sydney
+RABBITOHS",,14,6,"Parramatta
+EELS",,22,7
+0,NSWRL 1988,Round 11,"Sunday, 22nd May, 1988",3:00pm (local time),5718,22,"15,909","Brisbane
+BRONCOS",6,16,7,"Canberra
+RAIDERS",16,36,5
+0,NSWRL 1988,Round 11,"Sunday, 22nd May, 1988",3:00pm (local time),5719,27,"6,253","Canterbury Bankstown
+BULLDOGS",12,26,10,"Newcastle
+KNIGHTS",6,8,6
+0,NSWRL 1988,Round 11,"Sunday, 22nd May, 1988",3:00pm (local time),5721,9,"11,158","Cronulla Sutherland
+SHARKS",10,16,8,"Balmain
+TIGERS",2,14,9
+0,NSWRL 1988,Round 11,"Sunday, 22nd May, 1988",3:00pm (local time),5720,1,"11,721","Eastern Suburbs
+ROOSTERS",14,22,8,"Manly Warringah
+SEA EAGLES",6,18,8
+0,NSWRL 1988,Round 12,"Saturday, 28th May, 1988",3:05pm (local time),5722,1,"5,536","South Sydney
+RABBITOHS",22,26,9,"Western Suburbs
+MAGPIES",6,18,6
+0,NSWRL 1988,Round 12,"Sunday, 29th May, 1988",,5723,27,"6,119","St George
+DRAGONS",,24,12,"North Sydney
+BEARS",,16,9
+0,NSWRL 1988,Round 12,"Saturday, 4th June, 1988",3:00pm (local time),5724,7,"5,330","Balmain
+TIGERS",4,22,10,"Eastern Suburbs
+ROOSTERS",6,12,5
+0,NSWRL 1988,Round 12,"Sunday, 5th June, 1988",3:00pm (local time),5725,48,"8,111","Canberra
+RAIDERS",6,10,13,"Penrith
+PANTHERS",6,16,7
+0,NSWRL 1988,Round 12,"Sunday, 5th June, 1988",3:00pm (local time),5727,21,"9,738","Illawarra
+STEELERS",10,10,12,"Brisbane
+BRONCOS",6,32,6
+0,NSWRL 1988,Round 12,"Sunday, 5th June, 1988",3:00pm (local time),5726,5,"6,394","Manly Warringah
+SEA EAGLES",8,30,12,"Gold Coast/Tweed Heads
+GIANTS",2,2,7
+0,NSWRL 1988,Round 12,"Sunday, 5th June, 1988",3:00pm (local time),5729,11,"12,550","Newcastle
+KNIGHTS",4,10,9,"Cronulla Sutherland
+SHARKS",10,10,9
+0,NSWRL 1988,Round 12,"Sunday, 5th June, 1988",3:00pm (local time),5728,8,"16,360","Parramatta
+EELS",6,10,13,"Canterbury Bankstown
+BULLDOGS",16,38,5
+0,NSWRL 1988,Round 13,"Sunday, 12th June, 1988",,5730,25,"17,568","North Sydney
+BEARS",,18,5,"South Sydney
+RABBITOHS",,18,7
+0,NSWRL 1988,Round 13,"Sunday, 12th June, 1988",3:00pm (local time),5731,48,"14,824","Canberra
+RAIDERS",10,20,9,"Manly Warringah
+SEA EAGLES",10,26,5
+0,NSWRL 1988,Round 13,"Sunday, 12th June, 1988",3:00pm (local time),5732,9,"9,488","Cronulla Sutherland
+SHARKS",0,18,10,"Parramatta
+EELS",12,13,9
+0,NSWRL 1988,Round 13,"Sunday, 12th June, 1988",3:00pm (local time),5733,1,"4,838","Eastern Suburbs
+ROOSTERS",12,26,9,"Newcastle
+KNIGHTS",0,10,10
+0,NSWRL 1988,Round 13,"Sunday, 12th June, 1988",3:00pm (local time),5734,34,"7,428","Gold Coast/Tweed Heads
+GIANTS",4,16,15,"Balmain
+TIGERS",14,30,7
+0,NSWRL 1988,Round 13,"Sunday, 12th June, 1988",3:00pm (local time),5735,19,"8,061","Western Suburbs
+MAGPIES",0,0,9,"Canterbury Bankstown
+BULLDOGS",15,25,8
+0,NSWRL 1988,Round 13,"Monday, 13th June, 1988",3:00pm (local time),5736,22,"19,954","Brisbane
+BRONCOS",18,26,14,"St George
+DRAGONS",14,22,4
+0,NSWRL 1988,Round 13,"Monday, 13th June, 1988",3:00pm (local time),5737,3,"7,132","Penrith
+PANTHERS",10,36,8,"Illawarra
+STEELERS",2,2,6
+0,NSWRL 1988,Round 14,"Friday, 17th June, 1988",7:35pm (local time),5738,1,"10,871","South Sydney
+RABBITOHS",16,16,12,"Brisbane
+BRONCOS",0,4,10
+0,NSWRL 1988,Round 14,"Saturday, 18th June, 1988",3:05pm (local time),5739,27,"7,018","Canterbury Bankstown
+BULLDOGS",4,18,9,"North Sydney
+BEARS",16,30,7
+0,NSWRL 1988,Round 14,"Sunday, 19th June, 1988",,5744,27,"6,573","St George
+DRAGONS",,8,11,"Penrith
+PANTHERS",,12,11
+0,NSWRL 1988,Round 14,"Sunday, 19th June, 1988",3:00pm (local time),5740,7,"8,860","Balmain
+TIGERS",14,15,10,"Canberra
+RAIDERS",8,39,5
+0,NSWRL 1988,Round 14,"Sunday, 19th June, 1988",3:00pm (local time),5741,9,"6,619","Cronulla Sutherland
+SHARKS",20,42,7,"Western Suburbs
+MAGPIES",0,6,9
+0,NSWRL 1988,Round 14,"Sunday, 19th June, 1988",3:00pm (local time),5743,5,"7,367","Manly Warringah
+SEA EAGLES",18,32,15,"Illawarra
+STEELERS",6,16,7
+0,NSWRL 1988,Round 14,"Sunday, 19th June, 1988",3:00pm (local time),5742,11,"15,020","Newcastle
+KNIGHTS",0,0,13,"Gold Coast/Tweed Heads
+GIANTS",8,9,7
+0,NSWRL 1988,Round 14,"Sunday, 19th June, 1988",3:00pm (local time),5745,8,"10,325","Parramatta
+EELS",0,12,5,"Eastern Suburbs
+ROOSTERS",2,8,6
+0,NSWRL 1988,Round 15,"Friday, 24th June, 1988",7:35pm (local time),5746,27,"5,264","St George
+DRAGONS",6,18,9,"Manly Warringah
+SEA EAGLES",4,34,8
+0,NSWRL 1988,Round 15,"Saturday, 25th June, 1988",3:05pm (local time),5747,3,"8,485","Penrith
+PANTHERS",10,22,7,"South Sydney
+RABBITOHS",8,14,11
+0,NSWRL 1988,Round 15,"Sunday, 26th June, 1988",3:00pm (local time),5749,22,"15,371","Brisbane
+BRONCOS",6,10,8,"Canterbury Bankstown
+BULLDOGS",9,25,7
+0,NSWRL 1988,Round 15,"Sunday, 26th June, 1988",3:00pm (local time),5750,48,"8,293","Canberra
+RAIDERS",26,30,12,"Newcastle
+KNIGHTS",0,12,5
+0,NSWRL 1988,Round 15,"Sunday, 26th June, 1988",3:00pm (local time),5748,34,"7,028","Gold Coast/Tweed Heads
+GIANTS",13,13,7,"Parramatta
+EELS",4,10,13
+0,NSWRL 1988,Round 15,"Sunday, 26th June, 1988",3:00pm (local time),5751,21,"8,478","Illawarra
+STEELERS",8,12,9,"Balmain
+TIGERS",12,24,7
+0,NSWRL 1988,Round 15,"Sunday, 26th June, 1988",3:00pm (local time),5752,25,"14,005","North Sydney
+BEARS",12,12,6,"Cronulla Sutherland
+SHARKS",2,16,10
+0,NSWRL 1988,Round 15,"Sunday, 26th June, 1988",3:00pm (local time),5753,19,"3,153","Western Suburbs
+MAGPIES",12,20,10,"Eastern Suburbs
+ROOSTERS",4,20,4
+0,NSWRL 1988,Round 16,"Friday, 1st July, 1988",7:38pm (local time),5754,1,"10,792","South Sydney
+RABBITOHS",6,12,9,"Cronulla Sutherland
+SHARKS",2,14,9
+0,NSWRL 1988,Round 16,"Saturday, 2nd July, 1988",3:05pm (local time),5755,25,"9,039","North Sydney
+BEARS",14,20,12,"Balmain
+TIGERS",12,30,8
+0,NSWRL 1988,Round 16,"Saturday, 2nd July, 1988",7:30pm (local time),5756,27,"4,162","St George
+DRAGONS",6,12,13,"Eastern Suburbs
+ROOSTERS",15,33,10
+0,NSWRL 1988,Round 16,"Sunday, 3rd July, 1988",,5759,19,"3,672","Western Suburbs
+MAGPIES",,8,13,"Penrith
+PANTHERS",,20,8
+0,NSWRL 1988,Round 16,"Sunday, 3rd July, 1988",3:00pm (local time),5757,27,"6,620","Canterbury Bankstown
+BULLDOGS",7,15,12,"Gold Coast/Tweed Heads
+GIANTS",0,0,9
+0,NSWRL 1988,Round 16,"Sunday, 3rd July, 1988",3:00pm (local time),5761,21,"6,126","Illawarra
+STEELERS",16,22,7,"Canberra
+RAIDERS",10,31,8
+0,NSWRL 1988,Round 16,"Sunday, 3rd July, 1988",3:00pm (local time),5760,5,"17,193","Manly Warringah
+SEA EAGLES",4,10,7,"Brisbane
+BRONCOS",16,28,7
+0,NSWRL 1988,Round 16,"Sunday, 3rd July, 1988",3:00pm (local time),5758,8,"7,758","Parramatta
+EELS",6,16,10,"Newcastle
+KNIGHTS",12,17,9
+0,NSWRL 1988,Round 17,"Friday, 8th July, 1988",7:39pm (local time),5762,1,"9,742","Eastern Suburbs
+ROOSTERS",0,10,8,"South Sydney
+RABBITOHS",16,35,6
+0,NSWRL 1988,Round 17,"Sunday, 10th July, 1988",3:00pm (local time),5765,7,"9,501","Balmain
+TIGERS",,22,13,"Parramatta
+EELS",,6,5
+0,NSWRL 1988,Round 17,"Sunday, 10th July, 1988",3:00pm (local time),5766,48,"9,834","Canberra
+RAIDERS",14,24,6,"St George
+DRAGONS",4,8,7
+0,NSWRL 1988,Round 17,"Sunday, 10th July, 1988",3:00pm (local time),5769,9,"14,413","Cronulla Sutherland
+SHARKS",10,18,5,"Canterbury Bankstown
+BULLDOGS",6,10,5
+0,NSWRL 1988,Round 17,"Sunday, 10th July, 1988",3:00pm (local time),5763,34,"3,794","Gold Coast/Tweed Heads
+GIANTS",12,25,4,"Illawarra
+STEELERS",0,10,9
+0,NSWRL 1988,Round 17,"Sunday, 10th July, 1988",3:00pm (local time),5764,11,"16,720","Newcastle
+KNIGHTS",4,4,11,"Western Suburbs
+MAGPIES",4,14,12
+0,NSWRL 1988,Round 17,"Sunday, 10th July, 1988",3:00pm (local time),5767,25,"15,513","North Sydney
+BEARS",4,18,7,"Manly Warringah
+SEA EAGLES",14,22,6
+0,NSWRL 1988,Round 17,"Sunday, 10th July, 1988",3:00pm (local time),5768,3,"17,106","Penrith
+PANTHERS",2,6,12,"Brisbane
+BRONCOS",8,8,9
+0,NSWRL 1988,Round 18,"Friday, 15th July, 1988",7:39pm (local time),5770,1,"11,541","South Sydney
+RABBITOHS",2,2,9,"Canberra
+RAIDERS",6,35,8
+0,NSWRL 1988,Round 18,"Saturday, 16th July, 1988",3:05pm (local time),5772,27,"5,298","Canterbury Bankstown
+BULLDOGS",15,29,11,"Eastern Suburbs
+ROOSTERS",8,14,8
+0,NSWRL 1988,Round 18,"Saturday, 16th July, 1988",5:30pm (local time),5771,22,"11,419","Brisbane
+BRONCOS",22,32,9,"Western Suburbs
+MAGPIES",2,6,9
+0,NSWRL 1988,Round 18,"Sunday, 17th July, 1988",,5777,3,"5,704","Penrith
+PANTHERS",,15,8,"North Sydney
+BEARS",,10,7
+0,NSWRL 1988,Round 18,"Sunday, 17th July, 1988",3:00pm (local time),5774,7,"6,110","Balmain
+TIGERS",8,18,5,"Newcastle
+KNIGHTS",12,16,9
+0,NSWRL 1988,Round 18,"Sunday, 17th July, 1988",3:00pm (local time),5775,9,"7,900","Cronulla Sutherland
+SHARKS",14,26,10,"Gold Coast/Tweed Heads
+GIANTS",0,6,5
+0,NSWRL 1988,Round 18,"Sunday, 17th July, 1988",3:00pm (local time),5773,5,"10,135","Manly Warringah
+SEA EAGLES",14,40,5,"Parramatta
+EELS",0,10,7
+0,NSWRL 1988,Round 18,"Sunday, 17th July, 1988",3:00pm (local time),5776,27,"3,265","St George
+DRAGONS",14,22,10,"Illawarra
+STEELERS",14,20,8
+0,NSWRL 1988,Round 19,"Friday, 22nd July, 1988",7:30pm (local time),5778,8,"9,174","Parramatta
+EELS",,10,4,"Penrith
+PANTHERS",,14,5
+0,NSWRL 1988,Round 19,"Saturday, 23rd July, 1988",3:05pm (local time),5779,22,"11,452","Brisbane
+BRONCOS",10,24,7,"North Sydney
+BEARS",6,6,6
+0,NSWRL 1988,Round 19,"Sunday, 24th July, 1988",3:00pm (local time),5781,48,"16,402","Canberra
+RAIDERS",12,16,11,"Canterbury Bankstown
+BULLDOGS",8,23,7
+0,NSWRL 1988,Round 19,"Sunday, 24th July, 1988",3:00pm (local time),5785,1,"7,115","Eastern Suburbs
+ROOSTERS",0,6,10,"Cronulla Sutherland
+SHARKS",8,24,4
+0,NSWRL 1988,Round 19,"Sunday, 24th July, 1988",3:00pm (local time),5780,21,"6,892","Illawarra
+STEELERS",18,20,12,"South Sydney
+RABBITOHS",10,22,6
+0,NSWRL 1988,Round 19,"Sunday, 24th July, 1988",3:00pm (local time),5783,11,"23,642","Newcastle
+KNIGHTS",2,2,12,"Manly Warringah
+SEA EAGLES",0,10,9
+0,NSWRL 1988,Round 19,"Sunday, 24th July, 1988",3:00pm (local time),5782,27,"3,575","St George
+DRAGONS",10,14,8,"Gold Coast/Tweed Heads
+GIANTS",8,12,10
+0,NSWRL 1988,Round 19,"Sunday, 24th July, 1988",3:00pm (local time),5784,19,"7,473","Western Suburbs
+MAGPIES",2,16,9,"Balmain
+TIGERS",14,22,6
+0,NSWRL 1988,Round 20,"Friday, 29th July, 1988",7:35pm (local time),5786,27,"5,372","Canterbury Bankstown
+BULLDOGS",10,18,7,"Illawarra
+STEELERS",6,12,5
+0,NSWRL 1988,Round 20,"Saturday, 30th July, 1988",3:00pm (local time),5787,9,"11,184","Cronulla Sutherland
+SHARKS",8,32,9,"Canberra
+RAIDERS",0,10,10
+0,NSWRL 1988,Round 20,"Saturday, 30th July, 1988",8:00pm (local time),5788,34,"3,271","Gold Coast/Tweed Heads
+GIANTS",8,14,11,"Eastern Suburbs
+ROOSTERS",18,38,8
+0,NSWRL 1988,Round 20,"Sunday, 31st July, 1988",,5790,25,"4,251","North Sydney
+BEARS",,20,7,"Western Suburbs
+MAGPIES",,16,6
+0,NSWRL 1988,Round 20,"Sunday, 31st July, 1988",,5791,1,"7,576","South Sydney
+RABBITOHS",14,24,14,"St George
+DRAGONS",18,26,4
+0,NSWRL 1988,Round 20,"Sunday, 31st July, 1988",3:00pm (local time),5792,5,"22,492","Manly Warringah
+SEA EAGLES",4,8,7,"Balmain
+TIGERS",2,4,9
+0,NSWRL 1988,Round 20,"Sunday, 31st July, 1988",3:00pm (local time),5789,11,"20,940","Newcastle
+KNIGHTS",12,12,6,"Penrith
+PANTHERS",12,23,7
+0,NSWRL 1988,Round 20,"Sunday, 31st July, 1988",3:00pm (local time),5793,8,"13,190","Parramatta
+EELS",10,22,7,"Brisbane
+BRONCOS",10,14,5
+0,NSWRL 1988,Round 21,"Friday, 5th August, 1988",7:53pm (local time),5794,27,"8,521","St George
+DRAGONS",0,0,7,"Canterbury Bankstown
+BULLDOGS",16,26,10
+0,NSWRL 1988,Round 21,"Saturday, 6th August, 1988",3:05pm (local time),5795,22,"13,919","Brisbane
+BRONCOS",12,24,7,"Newcastle
+KNIGHTS",4,8,2
+0,NSWRL 1988,Round 21,"Sunday, 7th August, 1988",,5796,25,"7,132","North Sydney
+BEARS",,12,4,"Parramatta
+EELS",,6,6
+0,NSWRL 1988,Round 21,"Sunday, 7th August, 1988",3:00pm (local time),5797,7,"12,450","Balmain
+TIGERS",10,16,12,"Penrith
+PANTHERS",2,14,7
+0,NSWRL 1988,Round 21,"Sunday, 7th August, 1988",3:00pm (local time),5798,48,"6,789","Canberra
+RAIDERS",12,26,9,"Eastern Suburbs
+ROOSTERS",12,18,5
+0,NSWRL 1988,Round 21,"Sunday, 7th August, 1988",3:00pm (local time),5801,21,"8,350","Illawarra
+STEELERS",14,14,11,"Cronulla Sutherland
+SHARKS",18,22,9
+0,NSWRL 1988,Round 21,"Sunday, 7th August, 1988",3:00pm (local time),5799,1,"4,207","South Sydney
+RABBITOHS",12,14,7,"Gold Coast/Tweed Heads
+GIANTS",6,14,8
+0,NSWRL 1988,Round 21,"Sunday, 7th August, 1988",3:00pm (local time),5800,19,"6,201","Western Suburbs
+MAGPIES",8,23,8,"Manly Warringah
+SEA EAGLES",20,20,6
+0,NSWRL 1988,Round 22,"Friday, 12th August, 1988",7:39pm (local time),5802,27,"8,152","Canterbury Bankstown
+BULLDOGS",6,14,8,"South Sydney
+RABBITOHS",6,18,10
+0,NSWRL 1988,Round 22,"Saturday, 13th August, 1988",3:05pm (local time),5803,7,"13,015","Balmain
+TIGERS",12,20,9,"Brisbane
+BRONCOS",8,10,8
+0,NSWRL 1988,Round 22,"Saturday, 13th August, 1988",7:30pm (local time),5804,34,"3,855","Gold Coast/Tweed Heads
+GIANTS",0,4,7,"Canberra
+RAIDERS",10,24,7
+0,NSWRL 1988,Round 22,"Sunday, 14th August, 1988",3:00pm (local time),5807,9,"18,111","Cronulla Sutherland
+SHARKS",2,16,9,"St George
+DRAGONS",14,14,11
+0,NSWRL 1988,Round 22,"Sunday, 14th August, 1988",3:00pm (local time),5808,1,"3,459","Eastern Suburbs
+ROOSTERS",6,10,7,"Illawarra
+STEELERS",6,31,12
+0,NSWRL 1988,Round 22,"Sunday, 14th August, 1988",3:00pm (local time),5805,11,"19,040","Newcastle
+KNIGHTS",14,38,10,"North Sydney
+BEARS",0,6,6
+0,NSWRL 1988,Round 22,"Sunday, 14th August, 1988",3:00pm (local time),5806,8,"12,683","Parramatta
+EELS",4,16,7,"Western Suburbs
+MAGPIES",12,12,5
+0,NSWRL 1988,Round 22,"Sunday, 14th August, 1988",3:00pm (local time),5809,3,"21,956","Penrith
+PANTHERS",2,4,11,"Manly Warringah
+SEA EAGLES",4,18,7
+0,NSWRL 1988,Playoff,"Tuesday, 16th August, 1988",7:30pm (local time),5810,8,"14,206","Balmain
+TIGERS",4,28,8,"Penrith
+PANTHERS",2,8,6
+0,NSWRL 1988,Minor Prelim Semi,"Saturday, 20th August, 1988",3:00pm (local time),5811,1,"25,327","Balmain
+TIGERS",13,19,4,"Manly Warringah
+SEA EAGLES",0,6,7
+0,NSWRL 1988,Major Prelim Semi,"Sunday, 21st August, 1988",3:00pm (local time),5812,1,"19,259","Canterbury Bankstown
+BULLDOGS",16,19,8,"Canberra
+RAIDERS",6,18,11
+0,NSWRL 1988,Minor Semi,"Saturday, 27th August, 1988",3:00pm (local time),5813,1,"28,879","Balmain
+TIGERS",2,14,9,"Canberra
+RAIDERS",6,6,7
+0,NSWRL 1988,Major Semi,"Sunday, 28th August, 1988",3:00pm (local time),5814,1,"31,684","Canterbury Bankstown
+BULLDOGS",10,26,5,"Cronulla Sutherland
+SHARKS",4,8,8
+0,NSWRL 1988,Prelim Final,"Sunday, 4th September, 1988",3:00pm (local time),5815,1,"34,848","Balmain
+TIGERS",0,9,9,"Cronulla Sutherland
+SHARKS",2,2,7
+0,NSWRL 1988,Grand Final,"Sunday, 11th September, 1988",3:00pm (local time),5816,1,"40,000","Canterbury Bankstown
+BULLDOGS",10,24,7,"Balmain
+TIGERS",8,12,9

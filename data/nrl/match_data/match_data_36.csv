@@ -1,0 +1,122 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1944,Round 1,"Saturday, 29th April, 1944",3:15pm (local time),10270,76,,NEWTOWN,4,22,,CANTERBURY BANKSTOWN,6,11,
+0,NSWRFL 1944,Round 1,"Saturday, 29th April, 1944",3:15pm (local time),10269,24,"19,559",NORTH SYDNEY,10,13,,"Balmain
+TIGERS",0,10,
+0,NSWRFL 1944,Round 1,"Saturday, 29th April, 1944",3:15pm (local time),10268,109,"6,877","South Sydney
+RABBITOHS",6,13,,"St George
+DRAGONS",3,8,
+0,NSWRFL 1944,Round 1,"Saturday, 29th April, 1944",3:15pm (local time),10271,112,,"Western Suburbs
+MAGPIES",0,7,,EASTERN SUBURBS,4,19,
+0,NSWRFL 1944,Round 2,"Saturday, 6th May, 1944",3:15pm (local time),10272,7,"5,466","Balmain
+TIGERS",9,32,,EASTERN SUBURBS,8,13,
+0,NSWRFL 1944,Round 2,"Saturday, 6th May, 1944",3:15pm (local time),10273,24,"28,198",NORTH SYDNEY,17,17,,NEWTOWN,12,22,
+0,NSWRFL 1944,Round 2,"Saturday, 6th May, 1944",3:15pm (local time),10275,109,,"South Sydney
+RABBITOHS",10,12,,CANTERBURY BANKSTOWN,10,10,
+0,NSWRFL 1944,Round 2,"Saturday, 6th May, 1944",3:15pm (local time),10274,112,"5,134","Western Suburbs
+MAGPIES",3,8,,"St George
+DRAGONS",11,11,
+0,NSWRFL 1944,Round 3,"Saturday, 13th May, 1944",3:15pm (local time),10277,27,"4,145",CANTERBURY BANKSTOWN,7,12,,"Western Suburbs
+MAGPIES",13,18,
+0,NSWRFL 1944,Round 3,"Saturday, 13th May, 1944",3:15pm (local time),10278,109,,EASTERN SUBURBS,7,17,,NORTH SYDNEY,2,2,
+0,NSWRFL 1944,Round 3,"Saturday, 13th May, 1944",3:15pm (local time),10276,24,"27,029",NEWTOWN,6,26,,"South Sydney
+RABBITOHS",5,5,
+0,NSWRFL 1944,Round 3,"Saturday, 13th May, 1944",3:15pm (local time),10279,157,"7,433","St George
+DRAGONS",13,17,,"Balmain
+TIGERS",7,15,
+0,NSWRFL 1944,Round 4,"Saturday, 20th May, 1944",3:15pm (local time),10281,7,"4,840","Balmain
+TIGERS",18,46,,CANTERBURY BANKSTOWN,5,12,
+0,NSWRFL 1944,Round 4,"Saturday, 20th May, 1944",3:15pm (local time),10282,24,"26,085",EASTERN SUBURBS,5,26,,NEWTOWN,22,42,
+0,NSWRFL 1944,Round 4,"Saturday, 20th May, 1944",3:15pm (local time),10280,25,"9,000",NORTH SYDNEY,0,11,,"St George
+DRAGONS",4,19,
+0,NSWRFL 1944,Round 4,"Saturday, 20th May, 1944",3:15pm (local time),10283,112,"4,200","Western Suburbs
+MAGPIES",5,12,,"South Sydney
+RABBITOHS",9,17,
+0,NSWRFL 1944,Round 5,"Saturday, 27th May, 1944",3:15pm (local time),10285,27,"4,755",CANTERBURY BANKSTOWN,5,15,,NORTH SYDNEY,20,30,
+0,NSWRFL 1944,Round 5,"Saturday, 27th May, 1944",3:15pm (local time),10284,76,,NEWTOWN,10,15,,"Western Suburbs
+MAGPIES",5,14,
+0,NSWRFL 1944,Round 5,"Saturday, 27th May, 1944",3:15pm (local time),10287,157,"7,700","St George
+DRAGONS",10,22,,EASTERN SUBURBS,3,8,
+0,NSWRFL 1944,Round 5,"Saturday, 27th May, 1944",3:15pm (local time),10286,24,"23,265","South Sydney
+RABBITOHS",3,13,,"Balmain
+TIGERS",22,37,
+0,NSWRFL 1944,Round 6,"Saturday, 3rd June, 1944",3:15pm (local time),10290,7,"8,500","Balmain
+TIGERS",2,15,,"Western Suburbs
+MAGPIES",5,7,
+0,NSWRFL 1944,Round 6,"Saturday, 3rd June, 1944",3:15pm (local time),10291,109,"2,659",EASTERN SUBURBS,8,18,,CANTERBURY BANKSTOWN,16,25,
+0,NSWRFL 1944,Round 6,"Saturday, 3rd June, 1944",3:15pm (local time),10288,24,"34,000",NEWTOWN,11,52,,"St George
+DRAGONS",7,7,
+0,NSWRFL 1944,Round 6,"Saturday, 3rd June, 1944",3:15pm (local time),10289,25,"8,000",NORTH SYDNEY,8,8,,"South Sydney
+RABBITOHS",5,10,
+0,NSWRFL 1944,Round 7,"Saturday, 10th June, 1944",3:15pm (local time),10292,25,"2,250",EASTERN SUBURBS,5,23,,"South Sydney
+RABBITOHS",11,26,
+0,NSWRFL 1944,Round 7,"Saturday, 10th June, 1944",3:15pm (local time),10294,109,"28,230",NEWTOWN,7,15,,"Balmain
+TIGERS",17,35,
+0,NSWRFL 1944,Round 7,"Saturday, 10th June, 1944",3:15pm (local time),10295,157,"5,900","St George
+DRAGONS",9,12,,CANTERBURY BANKSTOWN,8,22,
+0,NSWRFL 1944,Round 7,"Saturday, 10th June, 1944",3:15pm (local time),10293,112,"5,585","Western Suburbs
+MAGPIES",7,17,,NORTH SYDNEY,14,17,
+0,NSWRFL 1944,Round 8,"Saturday, 1st July, 1944",3:15pm (local time),10297,24,"18,800","Balmain
+TIGERS",12,22,,NORTH SYDNEY,3,7,
+0,NSWRFL 1944,Round 8,"Saturday, 1st July, 1944",3:15pm (local time),10298,27,"6,010",CANTERBURY BANKSTOWN,16,20,,NEWTOWN,16,33,
+0,NSWRFL 1944,Round 8,"Saturday, 1st July, 1944",3:15pm (local time),10299,109,"3,190",EASTERN SUBURBS,2,4,,"Western Suburbs
+MAGPIES",12,30,
+0,NSWRFL 1944,Round 8,"Saturday, 1st July, 1944",3:15pm (local time),10296,157,"5,630","St George
+DRAGONS",7,20,,"South Sydney
+RABBITOHS",15,34,
+0,NSWRFL 1944,Round 9,"Saturday, 8th July, 1944",3:15pm (local time),10300,7,"7,100","Balmain
+TIGERS",7,11,,"St George
+DRAGONS",9,14,
+0,NSWRFL 1944,Round 9,"Saturday, 8th July, 1944",3:15pm (local time),10303,25,"4,800",NORTH SYDNEY,32,51,,EASTERN SUBURBS,2,10,
+0,NSWRFL 1944,Round 9,"Saturday, 8th July, 1944",3:15pm (local time),10301,24,"23,900","South Sydney
+RABBITOHS",2,5,,NEWTOWN,23,47,
+0,NSWRFL 1944,Round 9,"Saturday, 8th July, 1944",3:15pm (local time),10302,112,"5,700","Western Suburbs
+MAGPIES",3,22,,CANTERBURY BANKSTOWN,0,6,
+0,NSWRFL 1944,Round 10,"Saturday, 15th July, 1944",3:15pm (local time),10306,27,"3,000",CANTERBURY BANKSTOWN,5,13,,"Balmain
+TIGERS",5,13,
+0,NSWRFL 1944,Round 10,"Saturday, 15th July, 1944",3:15pm (local time),10307,76,"2,300",NEWTOWN,13,36,,EASTERN SUBURBS,14,17,
+0,NSWRFL 1944,Round 10,"Saturday, 15th July, 1944",3:15pm (local time),10305,24,"13,040","St George
+DRAGONS",0,2,,NORTH SYDNEY,5,5,
+0,NSWRFL 1944,Round 10,"Saturday, 15th July, 1944",3:15pm (local time),10304,109,"5,500","South Sydney
+RABBITOHS",5,8,,"Western Suburbs
+MAGPIES",6,8,
+0,NSWRFL 1944,Round 11,"Saturday, 22nd July, 1944",3:15pm (local time),10308,7,"6,000","Balmain
+TIGERS",22,37,,"South Sydney
+RABBITOHS",7,12,
+0,NSWRFL 1944,Round 11,"Saturday, 22nd July, 1944",3:15pm (local time),10309,109,"2,480",EASTERN SUBURBS,5,14,,"St George
+DRAGONS",7,19,
+0,NSWRFL 1944,Round 11,"Saturday, 22nd July, 1944",3:15pm (local time),10311,25,"6,901",NORTH SYDNEY,8,18,,CANTERBURY BANKSTOWN,12,17,
+0,NSWRFL 1944,Round 11,"Saturday, 22nd July, 1944",3:15pm (local time),10310,24,"24,100","Western Suburbs
+MAGPIES",0,5,,NEWTOWN,8,18,
+0,NSWRFL 1944,Round 12,"Saturday, 29th July, 1944",3:15pm (local time),10312,27,"2,750",CANTERBURY BANKSTOWN,5,10,,EASTERN SUBURBS,10,26,
+0,NSWRFL 1944,Round 12,"Saturday, 29th July, 1944",3:15pm (local time),10313,24,"16,970","St George
+DRAGONS",8,31,,NEWTOWN,16,16,
+0,NSWRFL 1944,Round 12,"Saturday, 29th July, 1944",3:15pm (local time),10314,109,"9,184","South Sydney
+RABBITOHS",11,14,,NORTH SYDNEY,5,10,
+0,NSWRFL 1944,Round 12,"Saturday, 29th July, 1944",3:15pm (local time),10315,112,"8,000","Western Suburbs
+MAGPIES",2,2,,"Balmain
+TIGERS",31,64,
+0,NSWRFL 1944,Round 13,"Saturday, 5th August, 1944",3:15pm (local time),10317,24,"28,200","Balmain
+TIGERS",10,23,,NEWTOWN,5,20,
+0,NSWRFL 1944,Round 13,"Saturday, 5th August, 1944",3:15pm (local time),10318,27,"4,282",CANTERBURY BANKSTOWN,8,11,,"St George
+DRAGONS",7,19,
+0,NSWRFL 1944,Round 13,"Saturday, 5th August, 1944",3:15pm (local time),10316,25,"4,217",NORTH SYDNEY,3,11,,"Western Suburbs
+MAGPIES",5,12,
+0,NSWRFL 1944,Round 13,"Saturday, 5th August, 1944",3:15pm (local time),10319,109,"2,450","South Sydney
+RABBITOHS",9,16,,EASTERN SUBURBS,14,19,
+0,NSWRFL 1944,Round 14,"Saturday, 12th August, 1944",3:15pm (local time),10322,27,"2,527",CANTERBURY BANKSTOWN,11,22,,"South Sydney
+RABBITOHS",5,8,
+0,NSWRFL 1944,Round 14,"Saturday, 12th August, 1944",3:15pm (local time),10323,24,"14,159",EASTERN SUBURBS,13,13,,"Balmain
+TIGERS",11,42,
+0,NSWRFL 1944,Round 14,"Saturday, 12th August, 1944",3:15pm (local time),10320,76,"5,490",NEWTOWN,10,15,,NORTH SYDNEY,4,4,
+0,NSWRFL 1944,Round 14,"Saturday, 12th August, 1944",3:15pm (local time),10321,157,"4,953","St George
+DRAGONS",16,29,,"Western Suburbs
+MAGPIES",10,18,
+0,NSWRFL 1944,Semi Final,"Saturday, 26th August, 1944",3:15pm (local time),10324,24,"34,883",NEWTOWN,15,55,,"St George
+DRAGONS",2,7,
+0,NSWRFL 1944,Semi Final,"Saturday, 2nd September, 1944",3:15pm (local time),10325,24,"28,237","Balmain
+TIGERS",5,15,,"South Sydney
+RABBITOHS",4,6,
+0,NSWRFL 1944,Final,"Saturday, 9th September, 1944",3:15pm (local time),10326,24,"41,807","Balmain
+TIGERS",9,19,,NEWTOWN,13,16,
+0,NSWRFL 1944,Grand Final Chall.,"Saturday, 16th September, 1944",3:15pm (local time),10327,24,"24,186","Balmain
+TIGERS",5,12,,NEWTOWN,3,8,

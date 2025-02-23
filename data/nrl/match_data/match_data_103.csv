@@ -1,0 +1,552 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2010,Round 1,"Friday, 12th March, 2010",7:30pm (local time),17723,8,"18,293","Parramatta
+EELS",6,12,4,"St George Illawarra
+DRAGONS",12,18,4
+0,NRL 2010,Round 1,"Friday, 12th March, 2010",8:30pm (local time),17724,1097,"48,516","Brisbane
+BRONCOS",20,30,4,"North Queensland
+COWBOYS",0,24,4
+0,NRL 2010,Round 1,"Saturday, 13th March, 2010",5:30pm (local time),17725,20,"18,110","Canterbury Bankstown
+BULLDOGS",0,16,7,"Newcastle
+KNIGHTS",16,20,4
+0,NRL 2010,Round 1,"Saturday, 13th March, 2010",7:30pm (local time),17727,9,"11,820","Cronulla Sutherland
+SHARKS",4,10,10,"Melbourne
+STORM",6,14,10
+0,NRL 2010,Round 1,"Saturday, 13th March, 2010",7:30pm (local time),17726,3,"11,133","Penrith
+PANTHERS",22,34,5,"Canberra
+RAIDERS",0,16,6
+0,NRL 2010,Round 1,"Sunday, 14th March, 2010",1:00pm (local time),17728,149,"16,112","Gold Coast
+TITANS",12,24,8,WARRIORS,18,18,7
+0,NRL 2010,Round 1,"Sunday, 14th March, 2010",3:00pm (local time),17729,20,"23,149","South Sydney
+RABBITOHS",6,10,7,"Sydney
+ROOSTERS",12,36,5
+0,NRL 2010,Round 1,"Monday, 15th March, 2010",7:00pm (local time),17730,1,"18,421",WESTS TIGERS,4,26,9,"Manly Warringah
+SEA EAGLES",20,22,10
+0,NRL 2010,Round 2,"Friday, 19th March, 2010",7:30pm (local time),17731,21,"16,177","St George Illawarra
+DRAGONS",16,26,9,"Canterbury Bankstown
+BULLDOGS",0,6,3
+0,NRL 2010,Round 2,"Friday, 19th March, 2010",8:30pm (local time),17732,20,"10,943","South Sydney
+RABBITOHS",6,18,11,"Gold Coast
+TITANS",12,19,10
+0,NRL 2010,Round 2,"Saturday, 20th March, 2010",7:30pm (local time),17733,6,"15,314",WARRIORS,16,30,6,"Cronulla Sutherland
+SHARKS",14,16,10
+0,NRL 2010,Round 2,"Saturday, 20th March, 2010",7:30pm (local time),17734,11,"16,242","Newcastle
+KNIGHTS",14,14,9,"Melbourne
+STORM",12,20,8
+0,NRL 2010,Round 2,"Saturday, 20th March, 2010",6:30pm (local time),17735,14,"13,335","North Queensland
+COWBOYS",2,28,9,"Penrith
+PANTHERS",14,20,8
+0,NRL 2010,Round 2,"Sunday, 21st March, 2010",2:00pm (local time),17736,8,"15,602","Parramatta
+EELS",0,24,9,"Manly Warringah
+SEA EAGLES",14,20,6
+0,NRL 2010,Round 2,"Sunday, 21st March, 2010",3:00pm (local time),17737,1,"19,021","Sydney
+ROOSTERS",20,44,4,WESTS TIGERS,12,32,5
+0,NRL 2010,Round 2,"Monday, 22nd March, 2010",7:00pm (local time),17738,4,"14,200","Canberra
+RAIDERS",18,22,3,"Brisbane
+BRONCOS",0,14,7
+0,NRL 2010,Round 3,"Friday, 26th March, 2010",7:35pm (local time),17739,1,"21,318",WESTS TIGERS,9,23,5,"Parramatta
+EELS",0,12,7
+0,NRL 2010,Round 3,"Friday, 26th March, 2010",8:35pm (local time),17740,21,"13,267","St George Illawarra
+DRAGONS",17,33,6,"North Queensland
+COWBOYS",2,8,7
+0,NRL 2010,Round 3,"Saturday, 27th March, 2010",5:30pm (local time),17741,3,"11,024","Penrith
+PANTHERS",4,10,7,"Melbourne
+STORM",6,16,4
+0,NRL 2010,Round 3,"Saturday, 27th March, 2010",7:30pm (local time),17742,26,"12,138","Manly Warringah
+SEA EAGLES",24,36,8,"Newcastle
+KNIGHTS",6,12,7
+0,NRL 2010,Round 3,"Saturday, 27th March, 2010",8:30pm (local time),17743,149,"11,521","Gold Coast
+TITANS",8,24,4,"Canberra
+RAIDERS",0,4,8
+0,NRL 2010,Round 3,"Sunday, 28th March, 2010",1:00pm (local time),17744,1097,"32,338","Brisbane
+BRONCOS",10,16,4,WARRIORS,14,48,5
+0,NRL 2010,Round 3,"Sunday, 28th March, 2010",3:00pm (local time),17745,20,"19,738","Canterbury Bankstown
+BULLDOGS",30,60,5,"Sydney
+ROOSTERS",4,14,3
+0,NRL 2010,Round 3,"Monday, 29th March, 2010",7:00pm (local time),17746,9,"10,741","Cronulla Sutherland
+SHARKS",4,8,10,"South Sydney
+RABBITOHS",18,30,8
+0,NRL 2010,Round 4,"Friday, 2nd April, 2010",2:00pm (local time),17762,30,"25,480","Melbourne
+STORM",4,17,8,"St George Illawarra
+DRAGONS",0,4,5
+0,NRL 2010,Round 4,"Friday, 2nd April, 2010",8:35pm (local time),17763,1,"17,106","Sydney
+ROOSTERS",18,25,7,"Brisbane
+BRONCOS",0,6,5
+0,NRL 2010,Round 4,"Saturday, 3rd April, 2010",5:30pm (local time),17764,9,"13,213","Cronulla Sutherland
+SHARKS",0,11,10,"Parramatta
+EELS",0,0,5
+0,NRL 2010,Round 4,"Saturday, 3rd April, 2010",6:30pm (local time),17765,14,"16,551","North Queensland
+COWBOYS",18,32,4,"Gold Coast
+TITANS",6,18,7
+0,NRL 2010,Round 4,"Sunday, 4th April, 2010",4:00pm (local time),17766,6,"19,230",WARRIORS,0,6,8,"Manly Warringah
+SEA EAGLES",6,14,9
+0,NRL 2010,Round 4,"Sunday, 4th April, 2010",3:00pm (local time),17767,4,"17,112","Canberra
+RAIDERS",22,22,7,WESTS TIGERS,10,35,8
+0,NRL 2010,Round 4,"Monday, 5th April, 2010",4:00pm (local time),17768,11,"15,894","Newcastle
+KNIGHTS",24,30,6,"Penrith
+PANTHERS",6,34,4
+0,NRL 2010,Round 4,"Monday, 5th April, 2010",7:00pm (local time),17769,20,"30,120","South Sydney
+RABBITOHS",26,38,6,"Canterbury Bankstown
+BULLDOGS",6,16,5
+0,NRL 2010,Round 5,"Friday, 9th April, 2010",7:30pm (local time),17778,149,"20,083","Gold Coast
+TITANS",4,20,8,"Melbourne
+STORM",16,16,6
+0,NRL 2010,Round 5,"Friday, 9th April, 2010",7:30pm (local time),17777,21,"15,374","St George Illawarra
+DRAGONS",18,34,7,"Brisbane
+BRONCOS",6,16,7
+0,NRL 2010,Round 5,"Saturday, 10th April, 2010",5:30pm (local time),17779,26,"16,098","South Sydney
+RABBITOHS",12,28,8,"Newcastle
+KNIGHTS",4,10,3
+0,NRL 2010,Round 5,"Saturday, 10th April, 2010",7:30pm (local time),17780,20,"17,095","Canterbury Bankstown
+BULLDOGS",12,24,6,WARRIORS,12,30,3
+0,NRL 2010,Round 5,"Saturday, 10th April, 2010",7:30pm (local time),17781,14,"16,273","North Queensland
+COWBOYS",2,16,10,WESTS TIGERS,18,23,6
+0,NRL 2010,Round 5,"Sunday, 11th April, 2010",2:00pm (local time),17782,5,"16,055","Manly Warringah
+SEA EAGLES",30,40,8,"Cronulla Sutherland
+SHARKS",6,12,9
+0,NRL 2010,Round 5,"Sunday, 11th April, 2010",3:00pm (local time),17783,3,"14,023","Penrith
+PANTHERS",16,28,6,"Sydney
+ROOSTERS",0,6,4
+0,NRL 2010,Round 5,"Monday, 12th April, 2010",7:00pm (local time),17784,8,"15,122","Parramatta
+EELS",10,14,7,"Canberra
+RAIDERS",18,24,7
+0,NRL 2010,Round 6,"Friday, 16th April, 2010",7:35pm (local time),17786,149,"21,336","Gold Coast
+TITANS",0,6,4,"St George Illawarra
+DRAGONS",6,19,8
+0,NRL 2010,Round 6,"Friday, 16th April, 2010",7:35pm (local time),17785,1,"19,491",WESTS TIGERS,0,4,5,"Canterbury Bankstown
+BULLDOGS",6,24,4
+0,NRL 2010,Round 6,"Saturday, 17th April, 2010",5:30pm (local time),17787,11,"14,205","Newcastle
+KNIGHTS",30,36,6,"North Queensland
+COWBOYS",6,18,6
+0,NRL 2010,Round 6,"Saturday, 17th April, 2010",7:30pm (local time),17788,1,"9,308","Sydney
+ROOSTERS",18,36,8,"Canberra
+RAIDERS",0,6,9
+0,NRL 2010,Round 6,"Sunday, 18th April, 2010",2:00pm (local time),17789,6,"14,620",WARRIORS,0,12,7,"Penrith
+PANTHERS",22,40,5
+0,NRL 2010,Round 6,"Sunday, 18th April, 2010",2:00pm (local time),17790,1097,"25,688","Brisbane
+BRONCOS",32,44,8,"Cronulla Sutherland
+SHARKS",0,16,6
+0,NRL 2010,Round 6,"Sunday, 18th April, 2010",3:00pm (local time),17791,20,"25,152","Parramatta
+EELS",2,22,10,"South Sydney
+RABBITOHS",8,8,11
+0,NRL 2010,Round 6,"Monday, 19th April, 2010",7:00pm (local time),17792,30,"14,171","Melbourne
+STORM",6,16,9,"Manly Warringah
+SEA EAGLES",18,18,6
+0,NRL 2010,Round 7,"Friday, 23rd April, 2010",7:35pm (local time),17793,20,"17,014","Canterbury Bankstown
+BULLDOGS",12,36,6,"Brisbane
+BRONCOS",6,18,4
+0,NRL 2010,Round 7,"Friday, 23rd April, 2010",7:35pm (local time),17794,14,"11,335","North Queensland
+COWBOYS",12,18,3,"Parramatta
+EELS",12,24,2
+0,NRL 2010,Round 7,"Saturday, 24th April, 2010",5:30pm (local time),17795,3,"19,220","Penrith
+PANTHERS",14,26,6,WESTS TIGERS,12,18,7
+0,NRL 2010,Round 7,"Saturday, 24th April, 2010",7:30pm (local time),17796,9,"10,662","Cronulla Sutherland
+SHARKS",10,26,6,"Newcastle
+KNIGHTS",0,6,6
+0,NRL 2010,Round 7,"Sunday, 25th April, 2010",2:00pm (local time),17797,4,"13,145","Canberra
+RAIDERS",24,24,3,"South Sydney
+RABBITOHS",6,26,4
+0,NRL 2010,Round 7,"Sunday, 25th April, 2010",4:00pm (local time),17798,1,"36,212","St George Illawarra
+DRAGONS",4,28,8,"Sydney
+ROOSTERS",6,6,6
+0,NRL 2010,Round 7,"Sunday, 25th April, 2010",6:00pm (local time),17799,30,"23,906","Melbourne
+STORM",22,40,9,WARRIORS,0,6,8
+0,NRL 2010,Round 7,"Monday, 26th April, 2010",7:00pm (local time),17800,5,"15,195","Manly Warringah
+SEA EAGLES",16,22,6,"Gold Coast
+TITANS",12,24,2
+0,NRL 2010,Round 8,"Friday, 30th April, 2010",7:35pm (local time),17802,1097,"25,178","Brisbane
+BRONCOS",22,22,6,"Newcastle
+KNIGHTS",12,30,3
+0,NRL 2010,Round 8,"Friday, 30th April, 2010",7:35pm (local time),17801,20,"31,991","Parramatta
+EELS",8,26,4,"Canterbury Bankstown
+BULLDOGS",0,10,6
+0,NRL 2010,Round 8,"Saturday, 1st May, 2010",3:00pm (local time),17803,6,"11,499",WARRIORS,0,16,8,"Canberra
+RAIDERS",16,23,2
+0,NRL 2010,Round 8,"Saturday, 1st May, 2010",5:30pm (local time),17804,149,"15,430","Gold Coast
+TITANS",12,38,7,"Penrith
+PANTHERS",12,24,2
+0,NRL 2010,Round 8,"Saturday, 1st May, 2010",7:30pm (local time),17805,14,"19,853","North Queensland
+COWBOYS",0,6,4,"Melbourne
+STORM",18,34,2
+0,NRL 2010,Round 8,"Saturday, 1st May, 2010",7:30pm (local time),17806,21,"15,779","St George Illawarra
+DRAGONS",18,38,8,"Cronulla Sutherland
+SHARKS",0,0,2
+0,NRL 2010,Round 8,"Sunday, 2nd May, 2010",2:00pm (local time),17807,19,"19,901",WESTS TIGERS,8,8,8,"Sydney
+ROOSTERS",0,12,5
+0,NRL 2010,Round 8,"Sunday, 2nd May, 2010",3:00pm (local time),17808,20,"15,459","South Sydney
+RABBITOHS",6,22,7,"Manly Warringah
+SEA EAGLES",18,30,5
+0,NRL 2010,Round 9,"Saturday, 8th May, 2010",7:30pm (local time),17809,5,"16,745","Manly Warringah
+SEA EAGLES",10,24,6,"St George Illawarra
+DRAGONS",6,6,6
+0,NRL 2010,Round 9,"Sunday, 9th May, 2010",2:00pm (local time),17810,11,"13,384","Newcastle
+KNIGHTS",20,36,5,"Gold Coast
+TITANS",16,38,4
+0,NRL 2010,Round 9,"Sunday, 9th May, 2010",3:00pm (local time),17811,251,"20,032","Melbourne
+STORM",4,14,6,"Brisbane
+BRONCOS",24,36,3
+0,NRL 2010,Round 9,"Monday, 10th May, 2010",7:00pm (local time),17812,1,"6,478","Sydney
+ROOSTERS",10,14,3,"North Queensland
+COWBOYS",18,32,3
+0,NRL 2010,Round 10,"Friday, 14th May, 2010",7:35pm (local time),17814,1097,"40,168","Brisbane
+BRONCOS",12,28,6,"Gold Coast
+TITANS",6,6,5
+0,NRL 2010,Round 10,"Friday, 14th May, 2010",7:35pm (local time),17813,20,"37,773","Canterbury Bankstown
+BULLDOGS",6,6,4,"St George Illawarra
+DRAGONS",12,19,4
+0,NRL 2010,Round 10,"Saturday, 15th May, 2010",5:30pm (local time),17815,6,"10,800",WARRIORS,20,24,5,"North Queensland
+COWBOYS",0,12,10
+0,NRL 2010,Round 10,"Saturday, 15th May, 2010",7:30pm (local time),17817,4,"12,165","Canberra
+RAIDERS",0,6,6,"Melbourne
+STORM",13,17,2
+0,NRL 2010,Round 10,"Saturday, 15th May, 2010",7:30pm (local time),17816,26,"10,018","Sydney
+ROOSTERS",12,18,2,"Newcastle
+KNIGHTS",18,34,5
+0,NRL 2010,Round 10,"Sunday, 16th May, 2010",2:00pm (local time),17818,24,"30,685",WESTS TIGERS,6,10,7,"South Sydney
+RABBITOHS",18,50,2
+0,NRL 2010,Round 10,"Sunday, 16th May, 2010",3:00pm (local time),17819,9,"10,352","Cronulla Sutherland
+SHARKS",8,14,9,"Penrith
+PANTHERS",22,34,5
+0,NRL 2010,Round 10,"Monday, 17th May, 2010",7:00pm (local time),17820,5,"11,023","Manly Warringah
+SEA EAGLES",12,12,7,"Parramatta
+EELS",12,19,5
+0,NRL 2010,Round 11,"Friday, 21st May, 2010",7:35pm (local time),17821,11,"14,458","Newcastle
+KNIGHTS",6,6,5,WESTS TIGERS,6,23,9
+0,NRL 2010,Round 11,"Saturday, 22nd May, 2010",7:30pm (local time),17849,8,"13,058","Parramatta
+EELS",18,18,3,"Cronulla Sutherland
+SHARKS",10,22,5
+0,NRL 2010,Round 11,"Sunday, 23rd May, 2010",2:00pm (local time),17850,6,"10,485",WARRIORS,14,26,4,"South Sydney
+RABBITOHS",18,24,2
+0,NRL 2010,Round 11,"Sunday, 23rd May, 2010",3:00pm (local time),17851,21,"14,728","St George Illawarra
+DRAGONS",4,14,7,"Canberra
+RAIDERS",6,22,3
+0,NRL 2010,Round 11,"Monday, 24th May, 2010",7:00pm (local time),17852,3,"11,278","Penrith
+PANTHERS",18,31,1,"Canterbury Bankstown
+BULLDOGS",4,16,4
+0,NRL 2010,Round 12,"Friday, 28th May, 2010",7:35pm (local time),19932,23,"15,068","St George Illawarra
+DRAGONS",8,30,8,"Parramatta
+EELS",0,0,5
+0,NRL 2010,Round 12,"Friday, 28th May, 2010",7:35pm (local time),19933,19,"10,061",WESTS TIGERS,16,50,3,WARRIORS,6,6,4
+0,NRL 2010,Round 12,"Saturday, 29th May, 2010",5:30pm (local time),19934,9,"7,826","Cronulla Sutherland
+SHARKS",0,4,3,"Brisbane
+BRONCOS",6,20,4
+0,NRL 2010,Round 12,"Saturday, 29th May, 2010",7:30pm (local time),19935,14,"13,538","North Queensland
+COWBOYS",6,20,3,"Manly Warringah
+SEA EAGLES",24,24,4
+0,NRL 2010,Round 12,"Sunday, 30th May, 2010",2:00pm (local time),19936,251,"12,420","Melbourne
+STORM",23,23,7,"Canterbury Bankstown
+BULLDOGS",0,12,4
+0,NRL 2010,Round 12,"Sunday, 30th May, 2010",3:00pm (local time),19937,20,"11,108","South Sydney
+RABBITOHS",24,42,5,"Penrith
+PANTHERS",6,22,2
+0,NRL 2010,Round 12,"Monday, 31st May, 2010",7:00pm (local time),19938,149,"13,235","Gold Coast
+TITANS",16,16,7,"Sydney
+ROOSTERS",18,30,6
+0,NRL 2010,Round 13,"Friday, 4th June, 2010",7:35pm (local time),19940,20,"11,837","Canterbury Bankstown
+BULLDOGS",6,12,3,WESTS TIGERS,6,19,4
+0,NRL 2010,Round 13,"Friday, 4th June, 2010",7:35pm (local time),19939,8,"7,572","Parramatta
+EELS",10,24,5,"Melbourne
+STORM",6,10,5
+0,NRL 2010,Round 13,"Saturday, 5th June, 2010",5:30pm (local time),19941,3,"10,969","Penrith
+PANTHERS",18,28,7,"Newcastle
+KNIGHTS",0,10,5
+0,NRL 2010,Round 13,"Saturday, 5th June, 2010",7:30pm (local time),19942,1,"7,934","Sydney
+ROOSTERS",6,18,5,"Cronulla Sutherland
+SHARKS",22,42,5
+0,NRL 2010,Round 13,"Sunday, 6th June, 2010",2:00pm (local time),19943,6,"8,312",WARRIORS,8,20,4,"St George Illawarra
+DRAGONS",6,22,8
+0,NRL 2010,Round 13,"Sunday, 6th June, 2010",2:00pm (local time),19944,4,"10,425","Canberra
+RAIDERS",22,28,5,"Gold Coast
+TITANS",6,24,2
+0,NRL 2010,Round 13,"Sunday, 6th June, 2010",3:00pm (local time),19945,5,"11,316","Manly Warringah
+SEA EAGLES",6,6,2,"Brisbane
+BRONCOS",4,22,2
+0,NRL 2010,Round 13,"Monday, 7th June, 2010",7:00pm (local time),19946,20,"9,688","South Sydney
+RABBITOHS",16,32,4,"North Queensland
+COWBOYS",0,4,3
+0,NRL 2010,Round 14,"Friday, 11th June, 2010",7:30pm (local time),19947,149,"17,508","Gold Coast
+TITANS",14,28,6,"Manly Warringah
+SEA EAGLES",6,14,5
+0,NRL 2010,Round 14,"Saturday, 12th June, 2010",7:30pm (local time),19948,14,"12,058","North Queensland
+COWBOYS",12,16,7,"Canberra
+RAIDERS",4,8,3
+0,NRL 2010,Round 14,"Sunday, 13th June, 2010",2:00pm (local time),19949,11,"10,535","Newcastle
+KNIGHTS",12,24,6,WARRIORS,12,32,5
+0,NRL 2010,Round 14,"Sunday, 13th June, 2010",3:00pm (local time),19950,1097,"30,311","Brisbane
+BRONCOS",28,50,3,"South Sydney
+RABBITOHS",10,22,4
+0,NRL 2010,Round 14,"Monday, 14th June, 2010",7:00pm (local time),19951,251,"10,449","Melbourne
+STORM",0,6,7,"Sydney
+ROOSTERS",18,38,5
+0,NRL 2010,Round 15,"Friday, 18th June, 2010",7:00pm (local time),19952,1097,"42,233","Brisbane
+BRONCOS",6,12,8,"Penrith
+PANTHERS",10,22,3
+0,NRL 2010,Round 15,"Friday, 18th June, 2010",8:45pm (local time),19953,1097,"42,233","Canterbury Bankstown
+BULLDOGS",6,24,3,"Gold Coast
+TITANS",18,25,3
+0,NRL 2010,Round 15,"Saturday, 19th June, 2010",5:30pm (local time),19954,251,"10,661","Melbourne
+STORM",24,58,7,"North Queensland
+COWBOYS",6,12,3
+0,NRL 2010,Round 15,"Saturday, 19th June, 2010",7:30pm (local time),19955,5,"11,661","Manly Warringah
+SEA EAGLES",12,26,4,"South Sydney
+RABBITOHS",13,25,6
+0,NRL 2010,Round 15,"Sunday, 20th June, 2010",2:00pm (local time),19956,9,"16,773","Cronulla Sutherland
+SHARKS",4,4,6,"St George Illawarra
+DRAGONS",6,22,2
+0,NRL 2010,Round 15,"Sunday, 20th June, 2010",3:00pm (local time),19957,7,"19,428",WESTS TIGERS,6,18,5,"Canberra
+RAIDERS",6,8,4
+0,NRL 2010,Round 15,"Monday, 21st June, 2010",7:00pm (local time),19958,11,"8,474","Newcastle
+KNIGHTS",0,6,6,"Parramatta
+EELS",0,4,5
+0,NRL 2010,Round 16,"Friday, 25th June, 2010",7:35pm (local time),19960,3,"14,978","Penrith
+PANTHERS",24,40,5,"Manly Warringah
+SEA EAGLES",6,22,6
+0,NRL 2010,Round 16,"Friday, 25th June, 2010",7:35pm (local time),19959,23,"16,574","St George Illawarra
+DRAGONS",14,34,5,WESTS TIGERS,4,10,5
+0,NRL 2010,Round 16,"Saturday, 26th June, 2010",5:30pm (local time),19961,8,"15,929","Parramatta
+EELS",6,6,3,"Brisbane
+BRONCOS",6,10,4
+0,NRL 2010,Round 16,"Saturday, 26th June, 2010",7:30pm (local time),19962,14,"13,063","North Queensland
+COWBOYS",18,19,4,"Cronulla Sutherland
+SHARKS",0,20,3
+0,NRL 2010,Round 16,"Saturday, 26th June, 2010",7:30pm (local time),19963,47,"13,164","South Sydney
+RABBITOHS",4,16,2,"Melbourne
+STORM",4,14,2
+0,NRL 2010,Round 16,"Sunday, 27th June, 2010",4:00pm (local time),19964,45,"20,721","Sydney
+ROOSTERS",12,18,3,WARRIORS,8,20,2
+0,NRL 2010,Round 16,"Sunday, 27th June, 2010",3:00pm (local time),19965,149,"13,396","Gold Coast
+TITANS",12,16,4,"Newcastle
+KNIGHTS",18,24,2
+0,NRL 2010,Round 16,"Monday, 28th June, 2010",7:00pm (local time),19966,4,"11,194","Canberra
+RAIDERS",10,10,7,"Canterbury Bankstown
+BULLDOGS",18,18,4
+0,NRL 2010,Round 17,"Friday, 2nd July, 2010",7:35pm (local time),19967,1097,"30,127","Brisbane
+BRONCOS",8,14,6,WESTS TIGERS,12,16,2
+0,NRL 2010,Round 17,"Saturday, 3rd July, 2010",7:30pm (local time),19968,26,"9,826","Cronulla Sutherland
+SHARKS",8,12,7,"Canterbury Bankstown
+BULLDOGS",24,24,2
+0,NRL 2010,Round 17,"Sunday, 4th July, 2010",2:00pm (local time),19969,4,"10,767","Canberra
+RAIDERS",12,12,5,"Sydney
+ROOSTERS",10,22,1
+0,NRL 2010,Round 17,"Sunday, 4th July, 2010",4:00pm (local time),19970,6,"9,912",WARRIORS,12,35,2,"Parramatta
+EELS",6,6,3
+0,NRL 2010,Round 17,"Monday, 5th July, 2010",7:00pm (local time),19971,23,"12,974","St George Illawarra
+DRAGONS",0,8,9,"Penrith
+PANTHERS",6,12,6
+0,NRL 2010,Round 18,"Friday, 9th July, 2010",7:35pm (local time),19973,1,"18,424","Sydney
+ROOSTERS",6,18,6,"South Sydney
+RABBITOHS",8,14,5
+0,NRL 2010,Round 18,"Friday, 9th July, 2010",7:35pm (local time),19972,19,"14,050",WESTS TIGERS,9,15,8,"Gold Coast
+TITANS",8,14,3
+0,NRL 2010,Round 18,"Saturday, 10th July, 2010",5:30pm (local time),19974,5,"10,027","Manly Warringah
+SEA EAGLES",16,22,6,"Canberra
+RAIDERS",18,24,4
+0,NRL 2010,Round 18,"Saturday, 10th July, 2010",7:00pm (local time),19975,33,"10,350","Canterbury Bankstown
+BULLDOGS",12,20,5,"Melbourne
+STORM",12,18,7
+0,NRL 2010,Round 18,"Sunday, 11th July, 2010",2:00pm (local time),19976,11,"12,909","Newcastle
+KNIGHTS",12,21,10,"Cronulla Sutherland
+SHARKS",6,10,7
+0,NRL 2010,Round 18,"Sunday, 11th July, 2010",3:00pm (local time),19977,3,"9,983","Penrith
+PANTHERS",6,6,11,WARRIORS,12,12,3
+0,NRL 2010,Round 18,"Monday, 12th July, 2010",7:00pm (local time),19978,8,"11,177","Parramatta
+EELS",24,36,8,"North Queensland
+COWBOYS",6,24,6
+0,NRL 2010,Round 19,"Friday, 16th July, 2010",7:35pm (local time),19979,149,"26,197","Gold Coast
+TITANS",10,10,6,"Brisbane
+BRONCOS",6,24,4
+0,NRL 2010,Round 19,"Friday, 16th July, 2010",7:35pm (local time),19980,20,"22,238","South Sydney
+RABBITOHS",6,13,3,"St George Illawarra
+DRAGONS",4,16,5
+0,NRL 2010,Round 19,"Saturday, 17th July, 2010",7:30pm (local time),19981,6,"13,118",WARRIORS,12,13,8,"Melbourne
+STORM",0,6,5
+0,NRL 2010,Round 19,"Saturday, 17th July, 2010",7:30pm (local time),19983,9,"8,863","Cronulla Sutherland
+SHARKS",0,18,9,"Manly Warringah
+SEA EAGLES",36,48,6
+0,NRL 2010,Round 19,"Saturday, 17th July, 2010",7:30pm (local time),19982,3,"22,582","Penrith
+PANTHERS",22,28,3,"Parramatta
+EELS",12,34,6
+0,NRL 2010,Round 19,"Sunday, 18th July, 2010",2:00pm (local time),19984,4,"9,459","Canberra
+RAIDERS",40,52,9,"Newcastle
+KNIGHTS",0,18,4
+0,NRL 2010,Round 19,"Sunday, 18th July, 2010",3:00pm (local time),19985,1,"19,129","Sydney
+ROOSTERS",18,36,2,"Canterbury Bankstown
+BULLDOGS",24,32,7
+0,NRL 2010,Round 19,"Monday, 19th July, 2010",7:00pm (local time),19986,7,"11,364",WESTS TIGERS,4,26,9,"North Queensland
+COWBOYS",16,16,2
+0,NRL 2010,Round 20,"Friday, 23rd July, 2010",7:35pm (local time),19987,20,"34,662","Canterbury Bankstown
+BULLDOGS",4,16,3,"Parramatta
+EELS",28,32,5
+0,NRL 2010,Round 20,"Friday, 23rd July, 2010",7:35pm (local time),19988,23,"12,668","St George Illawarra
+DRAGONS",10,10,8,"Gold Coast
+TITANS",6,11,4
+0,NRL 2010,Round 20,"Saturday, 24th July, 2010",5:30pm (local time),19989,4,"9,280","Canberra
+RAIDERS",6,20,8,"Cronulla Sutherland
+SHARKS",7,13,6
+0,NRL 2010,Round 20,"Saturday, 24th July, 2010",7:30pm (local time),19990,251,"11,212","Melbourne
+STORM",6,18,7,"Penrith
+PANTHERS",4,10,6
+0,NRL 2010,Round 20,"Saturday, 24th July, 2010",7:30pm (local time),19991,14,"12,146","North Queensland
+COWBOYS",14,28,4,"Newcastle
+KNIGHTS",12,24,7
+0,NRL 2010,Round 20,"Sunday, 25th July, 2010",2:00pm (local time),19992,20,"13,895","South Sydney
+RABBITOHS",10,38,6,WARRIORS,20,28,4
+0,NRL 2010,Round 20,"Sunday, 25th July, 2010",3:00pm (local time),19993,26,"20,059","Manly Warringah
+SEA EAGLES",24,38,5,WESTS TIGERS,12,20,9
+0,NRL 2010,Round 20,"Monday, 26th July, 2010",7:00pm (local time),19994,1097,"26,486","Brisbane
+BRONCOS",6,30,8,"Sydney
+ROOSTERS",16,34,3
+0,NRL 2010,Round 21,"Friday, 30th July, 2010",7:35pm (local time),19995,20,"15,312","Canterbury Bankstown
+BULLDOGS",18,32,5,"South Sydney
+RABBITOHS",6,12,7
+0,NRL 2010,Round 21,"Friday, 30th July, 2010",7:35pm (local time),19996,3,"7,080","Penrith
+PANTHERS",10,24,9,"North Queensland
+COWBOYS",16,16,6
+0,NRL 2010,Round 21,"Saturday, 31st July, 2010",5:30pm (local time),19997,8,"19,824","Parramatta
+EELS",12,12,11,"Sydney
+ROOSTERS",24,48,5
+0,NRL 2010,Round 21,"Saturday, 31st July, 2010",7:30pm (local time),19998,7,"14,942",WESTS TIGERS,14,24,12,"Cronulla Sutherland
+SHARKS",10,22,8
+0,NRL 2010,Round 21,"Sunday, 1st August, 2010",2:00pm (local time),19999,6,"12,017",WARRIORS,12,20,4,"Gold Coast
+TITANS",12,28,4
+0,NRL 2010,Round 21,"Sunday, 1st August, 2010",2:00pm (local time),20000,251,"9,112","Melbourne
+STORM",12,36,8,"Canberra
+RAIDERS",6,12,4
+0,NRL 2010,Round 21,"Sunday, 1st August, 2010",3:00pm (local time),20001,1097,"42,269","Brisbane
+BRONCOS",4,10,7,"St George Illawarra
+DRAGONS",0,6,6
+0,NRL 2010,Round 21,"Monday, 2nd August, 2010",7:00pm (local time),20002,11,"14,267","Newcastle
+KNIGHTS",24,32,7,"Manly Warringah
+SEA EAGLES",4,14,6
+0,NRL 2010,Round 22,"Friday, 6th August, 2010",7:35pm (local time),20004,149,"19,568","Gold Coast
+TITANS",0,34,3,"Parramatta
+EELS",12,12,3
+0,NRL 2010,Round 22,"Friday, 6th August, 2010",7:35pm (local time),20003,14,"20,148","North Queensland
+COWBOYS",8,26,3,"Brisbane
+BRONCOS",24,34,5
+0,NRL 2010,Round 22,"Saturday, 7th August, 2010",5:30pm (local time),20005,5,"12,550","Manly Warringah
+SEA EAGLES",18,26,6,"Melbourne
+STORM",6,6,7
+0,NRL 2010,Round 22,"Saturday, 7th August, 2010",7:30pm (local time),20007,9,"7,510","Cronulla Sutherland
+SHARKS",6,10,8,WARRIORS,14,37,4
+0,NRL 2010,Round 22,"Saturday, 7th August, 2010",7:30pm (local time),20006,20,"23,298","South Sydney
+RABBITOHS",6,34,9,WESTS TIGERS,16,30,9
+0,NRL 2010,Round 22,"Sunday, 8th August, 2010",2:00pm (local time),20008,11,"17,316","Newcastle
+KNIGHTS",18,30,7,"Canterbury Bankstown
+BULLDOGS",0,6,7
+0,NRL 2010,Round 22,"Sunday, 8th August, 2010",3:00pm (local time),20009,24,"37,994","Sydney
+ROOSTERS",6,12,6,"St George Illawarra
+DRAGONS",4,19,7
+0,NRL 2010,Round 22,"Monday, 9th August, 2010",7:00pm (local time),20010,4,"8,850","Canberra
+RAIDERS",12,30,6,"Penrith
+PANTHERS",26,26,4
+0,NRL 2010,Round 23,"Friday, 13th August, 2010",7:35pm (local time),20011,1097,"38,193","Brisbane
+BRONCOS",4,14,4,"Parramatta
+EELS",12,30,5
+0,NRL 2010,Round 23,"Friday, 13th August, 2010",7:35pm (local time),20012,9,"8,911","Cronulla Sutherland
+SHARKS",6,18,12,"Sydney
+ROOSTERS",12,12,6
+0,NRL 2010,Round 23,"Saturday, 14th August, 2010",5:30pm (local time),20013,149,"14,032","Gold Coast
+TITANS",19,37,7,"North Queensland
+COWBOYS",0,18,6
+0,NRL 2010,Round 23,"Saturday, 14th August, 2010",7:30pm (local time),20014,20,"10,116","Canterbury Bankstown
+BULLDOGS",14,14,6,"Canberra
+RAIDERS",12,28,5
+0,NRL 2010,Round 23,"Sunday, 15th August, 2010",2:00pm (local time),20015,6,"12,824",WARRIORS,10,22,11,"Newcastle
+KNIGHTS",4,10,6
+0,NRL 2010,Round 23,"Sunday, 15th August, 2010",2:00pm (local time),20016,251,"9,172","Melbourne
+STORM",12,18,3,"South Sydney
+RABBITOHS",4,16,6
+0,NRL 2010,Round 23,"Sunday, 15th August, 2010",3:00pm (local time),20017,19,"17,208",WESTS TIGERS,18,43,7,"Penrith
+PANTHERS",6,18,4
+0,NRL 2010,Round 23,"Monday, 16th August, 2010",7:00pm (local time),20018,23,"14,740","St George Illawarra
+DRAGONS",10,32,4,"Manly Warringah
+SEA EAGLES",4,10,4
+0,NRL 2010,Round 24,"Friday, 20th August, 2010",7:35pm (local time),20020,11,"16,668","Newcastle
+KNIGHTS",24,44,7,"Brisbane
+BRONCOS",12,18,3
+0,NRL 2010,Round 24,"Friday, 20th August, 2010",7:35pm (local time),20019,3,"13,411","Penrith
+PANTHERS",40,54,7,"South Sydney
+RABBITOHS",0,18,6
+0,NRL 2010,Round 24,"Saturday, 21st August, 2010",5:30pm (local time),20021,5,"13,095","Manly Warringah
+SEA EAGLES",10,19,10,WARRIORS,14,16,5
+0,NRL 2010,Round 24,"Saturday, 21st August, 2010",7:30pm (local time),20023,251,"8,902","Melbourne
+STORM",6,24,8,"Cronulla Sutherland
+SHARKS",0,4,7
+0,NRL 2010,Round 24,"Saturday, 21st August, 2010",7:30pm (local time),20022,14,"11,742","North Queensland
+COWBOYS",14,20,5,"Canterbury Bankstown
+BULLDOGS",6,22,4
+0,NRL 2010,Round 24,"Sunday, 22nd August, 2010",2:00pm (local time),20024,4,"20,445","Canberra
+RAIDERS",0,32,7,"St George Illawarra
+DRAGONS",4,16,4
+0,NRL 2010,Round 24,"Sunday, 22nd August, 2010",3:00pm (local time),20025,8,"19,854","Parramatta
+EELS",6,18,9,WESTS TIGERS,10,20,3
+0,NRL 2010,Round 24,"Monday, 23rd August, 2010",7:00pm (local time),20026,1,"9,113","Sydney
+ROOSTERS",6,14,5,"Gold Coast
+TITANS",10,23,3
+0,NRL 2010,Round 25,"Friday, 27th August, 2010",8:00pm (local time),20027,6,"21,627",WARRIORS,24,36,7,"Brisbane
+BRONCOS",0,4,5
+0,NRL 2010,Round 25,"Friday, 27th August, 2010",7:35pm (local time),20028,20,"19,098","South Sydney
+RABBITOHS",0,24,8,"Parramatta
+EELS",0,16,7
+0,NRL 2010,Round 25,"Saturday, 28th August, 2010",5:30pm (local time),20029,9,"10,116","Cronulla Sutherland
+SHARKS",18,30,7,"Gold Coast
+TITANS",6,16,6
+0,NRL 2010,Round 25,"Saturday, 28th August, 2010",7:30pm (local time),20031,4,"11,434","Canberra
+RAIDERS",28,48,7,"North Queensland
+COWBOYS",0,4,5
+0,NRL 2010,Round 25,"Saturday, 28th August, 2010",7:30pm (local time),20030,11,"23,148","Newcastle
+KNIGHTS",0,18,8,"St George Illawarra
+DRAGONS",16,26,5
+0,NRL 2010,Round 25,"Sunday, 29th August, 2010",2:00pm (local time),20032,7,"20,168",WESTS TIGERS,10,26,5,"Melbourne
+STORM",8,14,4
+0,NRL 2010,Round 25,"Sunday, 29th August, 2010",3:00pm (local time),20033,1,"18,962","Sydney
+ROOSTERS",6,30,5,"Manly Warringah
+SEA EAGLES",14,14,6
+0,NRL 2010,Round 25,"Monday, 30th August, 2010",7:00pm (local time),20034,20,"13,794","Canterbury Bankstown
+BULLDOGS",16,18,8,"Penrith
+PANTHERS",6,24,10
+0,NRL 2010,Round 26,"Friday, 3rd September, 2010",7:35pm (local time),20036,1097,"38,872","Brisbane
+BRONCOS",4,16,7,"Canberra
+RAIDERS",12,18,2
+0,NRL 2010,Round 26,"Friday, 3rd September, 2010",7:35pm (local time),20035,149,"26,103","Gold Coast
+TITANS",13,21,6,WESTS TIGERS,0,18,3
+0,NRL 2010,Round 26,"Saturday, 4th September, 2010",5:30pm (local time),20037,8,"11,383","Parramatta
+EELS",6,12,9,WARRIORS,8,26,3
+0,NRL 2010,Round 26,"Saturday, 4th September, 2010",7:30pm (local time),20038,14,"12,033","North Queensland
+COWBOYS",4,8,9,"Sydney
+ROOSTERS",6,18,4
+0,NRL 2010,Round 26,"Saturday, 4th September, 2010",7:30pm (local time),20039,3,"10,997","Penrith
+PANTHERS",28,50,4,"Cronulla Sutherland
+SHARKS",6,12,6
+0,NRL 2010,Round 26,"Sunday, 5th September, 2010",2:00pm (local time),20040,251,"20,517","Melbourne
+STORM",12,34,9,"Newcastle
+KNIGHTS",0,4,7
+0,NRL 2010,Round 26,"Sunday, 5th September, 2010",3:00pm (local time),20041,5,"15,933","Manly Warringah
+SEA EAGLES",16,24,3,"Canterbury Bankstown
+BULLDOGS",18,30,2
+0,NRL 2010,Round 26,"Sunday, 5th September, 2010",7:00pm (local time),20042,23,"18,274","St George Illawarra
+DRAGONS",16,38,6,"South Sydney
+RABBITOHS",18,24,4
+0,NRL 2010,Qualif Final,"Friday, 10th September, 2010",7:45pm (local time),20043,149,"27,026","Gold Coast
+TITANS",22,28,4,WARRIORS,6,16,2
+0,NRL 2010,Qualif Final,"Saturday, 11th September, 2010",6:30pm (local time),20044,1,"33,315",WESTS TIGERS,10,15,3,"Sydney
+ROOSTERS",2,19,5
+0,NRL 2010,Qualif Final,"Saturday, 11th September, 2010",8:30pm (local time),20045,3,"16,668","Penrith
+PANTHERS",12,22,5,"Canberra
+RAIDERS",18,24,6
+0,NRL 2010,Qualif Final,"Sunday, 12th September, 2010",4:00pm (local time),20046,23,"15,574","St George Illawarra
+DRAGONS",10,28,10,"Manly Warringah
+SEA EAGLES",0,0,5
+0,NRL 2010,Semi Final,"Friday, 17th September, 2010",7:45pm (local time),20047,4,"26,476","Canberra
+RAIDERS",12,24,6,WESTS TIGERS,18,26,5
+0,NRL 2010,Semi Final,"Saturday, 18th September, 2010",7:45pm (local time),20048,1,"23,459","Sydney
+ROOSTERS",12,34,7,"Penrith
+PANTHERS",0,12,5
+0,NRL 2010,Prelim Final,"Friday, 24th September, 2010",7:45pm (local time),20049,1097,"44,787","Gold Coast
+TITANS",6,6,6,"Sydney
+ROOSTERS",12,32,5
+0,NRL 2010,Prelim Final,"Saturday, 25th September, 2010",7:45pm (local time),20050,20,"71,212","St George Illawarra
+DRAGONS",6,13,5,WESTS TIGERS,12,12,4
+0,NRL 2010,Grand Final,"Sunday, 3rd October, 2010",5:15pm (local time),20051,20,"82,334","St George Illawarra
+DRAGONS",6,32,5,"Sydney
+ROOSTERS",8,8,2

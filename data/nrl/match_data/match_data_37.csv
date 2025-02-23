@@ -1,0 +1,121 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1945,Round 1,"Saturday, 21st April, 1945",3:15pm (local time),10328,27,"6,578",CANTERBURY BANKSTOWN,7,17,,NORTH SYDNEY,5,22,
+0,NSWRFL 1945,Round 1,"Saturday, 21st April, 1945",3:15pm (local time),10329,24,"24,148",EASTERN SUBURBS,13,16,,NEWTOWN,5,15,
+0,NSWRFL 1945,Round 1,"Saturday, 21st April, 1945",3:15pm (local time),10330,109,"4,500","South Sydney
+RABBITOHS",10,13,,"St George
+DRAGONS",14,21,
+0,NSWRFL 1945,Round 1,"Saturday, 21st April, 1945",3:15pm (local time),10331,112,"10,008","Western Suburbs
+MAGPIES",6,14,,"Balmain
+TIGERS",7,22,
+0,NSWRFL 1945,Round 2,"Saturday, 28th April, 1945",3:15pm (local time),10335,109,"9,000",EASTERN SUBURBS,5,31,,CANTERBURY BANKSTOWN,5,13,
+0,NSWRFL 1945,Round 2,"Saturday, 28th April, 1945",3:15pm (local time),10332,76,"6,000",NEWTOWN,5,38,,"South Sydney
+RABBITOHS",10,12,
+0,NSWRFL 1945,Round 2,"Saturday, 28th April, 1945",3:15pm (local time),10333,25,"10,265",NORTH SYDNEY,10,10,,"Western Suburbs
+MAGPIES",3,9,
+0,NSWRFL 1945,Round 2,"Saturday, 28th April, 1945",3:15pm (local time),10334,24,"23,418","St George
+DRAGONS",5,11,,"Balmain
+TIGERS",12,28,
+0,NSWRFL 1945,Round 3,"Saturday, 5th May, 1945",3:15pm (local time),10336,27,"6,664",CANTERBURY BANKSTOWN,0,11,,"Western Suburbs
+MAGPIES",12,12,
+0,NSWRFL 1945,Round 3,"Saturday, 5th May, 1945",3:15pm (local time),10337,109,,EASTERN SUBURBS,6,33,,"South Sydney
+RABBITOHS",3,6,
+0,NSWRFL 1945,Round 3,"Saturday, 5th May, 1945",3:15pm (local time),10339,24,"30,513",NEWTOWN,12,25,,"Balmain
+TIGERS",9,17,
+0,NSWRFL 1945,Round 3,"Saturday, 5th May, 1945",3:15pm (local time),10338,157,"7,918","St George
+DRAGONS",5,7,,NORTH SYDNEY,5,18,
+0,NSWRFL 1945,Round 4,"Saturday, 12th May, 1945",3:15pm (local time),10340,7,"7,934","Balmain
+TIGERS",10,22,,EASTERN SUBURBS,14,25,
+0,NSWRFL 1945,Round 4,"Saturday, 12th May, 1945",3:15pm (local time),10341,24,"33,216",NORTH SYDNEY,2,10,,NEWTOWN,9,18,
+0,NSWRFL 1945,Round 4,"Saturday, 12th May, 1945",3:15pm (local time),10343,109,"3,776","South Sydney
+RABBITOHS",3,13,,CANTERBURY BANKSTOWN,2,17,
+0,NSWRFL 1945,Round 4,"Saturday, 12th May, 1945",3:15pm (local time),10342,112,"5,000","Western Suburbs
+MAGPIES",10,28,,"St George
+DRAGONS",2,12,
+0,NSWRFL 1945,Round 5,"Saturday, 19th May, 1945",3:15pm (local time),10344,7,"3,500","Balmain
+TIGERS",11,24,,"South Sydney
+RABBITOHS",5,13,
+0,NSWRFL 1945,Round 5,"Saturday, 19th May, 1945",3:15pm (local time),10345,27,"5,960",CANTERBURY BANKSTOWN,3,16,,"St George
+DRAGONS",5,7,
+0,NSWRFL 1945,Round 5,"Saturday, 19th May, 1945",3:15pm (local time),10346,109,"13,000",EASTERN SUBURBS,11,24,,NORTH SYDNEY,0,10,
+0,NSWRFL 1945,Round 5,"Saturday, 19th May, 1945",3:15pm (local time),10347,24,"26,199","Western Suburbs
+MAGPIES",2,18,,NEWTOWN,8,14,
+0,NSWRFL 1945,Round 6,"Saturday, 26th May, 1945",3:15pm (local time),10351,27,"7,863",CANTERBURY BANKSTOWN,0,8,,"Balmain
+TIGERS",8,11,
+0,NSWRFL 1945,Round 6,"Saturday, 26th May, 1945",3:15pm (local time),10349,24,"40,293",EASTERN SUBURBS,7,9,,"Western Suburbs
+MAGPIES",8,13,
+0,NSWRFL 1945,Round 6,"Saturday, 26th May, 1945",3:15pm (local time),10348,25,"6,549",NORTH SYDNEY,0,17,,"South Sydney
+RABBITOHS",5,5,
+0,NSWRFL 1945,Round 6,"Saturday, 26th May, 1945",3:15pm (local time),10350,157,"7,500","St George
+DRAGONS",7,9,,NEWTOWN,6,24,
+0,NSWRFL 1945,Round 7,"Saturday, 2nd June, 1945",3:15pm (local time),10354,76,"8,670",NEWTOWN,17,44,,CANTERBURY BANKSTOWN,2,10,
+0,NSWRFL 1945,Round 7,"Saturday, 2nd June, 1945",3:15pm (local time),10353,24,"27,695",NORTH SYDNEY,4,11,,"Balmain
+TIGERS",5,7,
+0,NSWRFL 1945,Round 7,"Saturday, 2nd June, 1945",3:15pm (local time),10355,157,"5,253","St George
+DRAGONS",7,15,,EASTERN SUBURBS,7,18,
+0,NSWRFL 1945,Round 7,"Saturday, 2nd June, 1945",3:15pm (local time),10352,109,"5,953","South Sydney
+RABBITOHS",5,10,,"Western Suburbs
+MAGPIES",3,8,
+0,NSWRFL 1945,Round 8,"Saturday, 23rd June, 1945",3:15pm (local time),10357,7,"8,325","Balmain
+TIGERS",0,15,,"Western Suburbs
+MAGPIES",0,15,
+0,NSWRFL 1945,Round 8,"Saturday, 23rd June, 1945",3:15pm (local time),10359,24,"25,647",NEWTOWN,9,26,,EASTERN SUBURBS,5,10,
+0,NSWRFL 1945,Round 8,"Saturday, 23rd June, 1945",3:15pm (local time),10358,25,"6,441",NORTH SYDNEY,2,13,,CANTERBURY BANKSTOWN,18,21,
+0,NSWRFL 1945,Round 8,"Saturday, 23rd June, 1945",3:15pm (local time),10356,157,"6,153","St George
+DRAGONS",18,18,,"South Sydney
+RABBITOHS",2,12,
+0,NSWRFL 1945,Round 9,"Saturday, 30th June, 1945",3:15pm (local time),10360,7,"6,203","Balmain
+TIGERS",8,18,,"St George
+DRAGONS",6,18,
+0,NSWRFL 1945,Round 9,"Saturday, 30th June, 1945",3:15pm (local time),10361,24,"20,005",CANTERBURY BANKSTOWN,5,21,,EASTERN SUBURBS,11,27,
+0,NSWRFL 1945,Round 9,"Saturday, 30th June, 1945",3:15pm (local time),10362,109,,"South Sydney
+RABBITOHS",7,13,,NEWTOWN,8,32,
+0,NSWRFL 1945,Round 9,"Saturday, 30th June, 1945",3:15pm (local time),10363,112,,"Western Suburbs
+MAGPIES",5,18,,NORTH SYDNEY,5,12,
+0,NSWRFL 1945,Round 10,"Saturday, 7th July, 1945",3:15pm (local time),10365,24,"23,644","Balmain
+TIGERS",12,12,,NEWTOWN,3,12,
+0,NSWRFL 1945,Round 10,"Saturday, 7th July, 1945",3:15pm (local time),10364,25,"6,639",NORTH SYDNEY,13,26,,"St George
+DRAGONS",5,13,
+0,NSWRFL 1945,Round 10,"Saturday, 7th July, 1945",3:15pm (local time),10367,109,"4,733","South Sydney
+RABBITOHS",13,15,,EASTERN SUBURBS,10,33,
+0,NSWRFL 1945,Round 10,"Saturday, 7th July, 1945",3:15pm (local time),10366,112,,"Western Suburbs
+MAGPIES",16,29,,CANTERBURY BANKSTOWN,2,14,
+0,NSWRFL 1945,Round 11,"Saturday, 14th July, 1945",3:15pm (local time),10370,27,"3,770",CANTERBURY BANKSTOWN,6,16,,"South Sydney
+RABBITOHS",4,6,
+0,NSWRFL 1945,Round 11,"Saturday, 14th July, 1945",3:15pm (local time),10371,24,"20,991",EASTERN SUBURBS,7,13,,"Balmain
+TIGERS",2,10,
+0,NSWRFL 1945,Round 11,"Saturday, 14th July, 1945",3:15pm (local time),10368,76,"7,108",NEWTOWN,0,3,,NORTH SYDNEY,5,5,
+0,NSWRFL 1945,Round 11,"Saturday, 14th July, 1945",3:15pm (local time),10369,157,"5,605","St George
+DRAGONS",10,16,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1945,Round 12,"Saturday, 28th July, 1945",3:15pm (local time),10373,7,"6,000","Balmain
+TIGERS",15,23,,CANTERBURY BANKSTOWN,13,23,
+0,NSWRFL 1945,Round 12,"Saturday, 28th July, 1945",3:15pm (local time),10372,76,"5,936",NEWTOWN,3,23,,"St George
+DRAGONS",3,11,
+0,NSWRFL 1945,Round 12,"Saturday, 28th July, 1945",3:15pm (local time),10374,109,"4,524","South Sydney
+RABBITOHS",6,6,,NORTH SYDNEY,8,25,
+0,NSWRFL 1945,Round 12,"Saturday, 28th July, 1945",3:15pm (local time),10375,24,"23,571","Western Suburbs
+MAGPIES",3,15,,EASTERN SUBURBS,2,11,
+0,NSWRFL 1945,Round 13,"Saturday, 4th August, 1945",3:15pm (local time),10376,24,"20,009","Balmain
+TIGERS",4,14,,NORTH SYDNEY,2,2,
+0,NSWRFL 1945,Round 13,"Saturday, 4th August, 1945",3:15pm (local time),10377,27,,CANTERBURY BANKSTOWN,11,19,,NEWTOWN,3,24,
+0,NSWRFL 1945,Round 13,"Saturday, 4th August, 1945",3:15pm (local time),10378,109,"4,298",EASTERN SUBURBS,3,13,,"St George
+DRAGONS",0,2,
+0,NSWRFL 1945,Round 13,"Saturday, 4th August, 1945",3:15pm (local time),10379,112,"6,029","Western Suburbs
+MAGPIES",10,39,,"South Sydney
+RABBITOHS",5,8,
+0,NSWRFL 1945,Round 14,"Saturday, 11th August, 1945",3:15pm (local time),10380,24,"28,687",NEWTOWN,15,28,,"Western Suburbs
+MAGPIES",10,15,
+0,NSWRFL 1945,Round 14,"Saturday, 11th August, 1945",3:15pm (local time),10383,112,"5,500",NORTH SYDNEY,2,7,,EASTERN SUBURBS,11,13,
+0,NSWRFL 1945,Round 14,"Saturday, 11th August, 1945",3:15pm (local time),10382,157,"3,290","St George
+DRAGONS",10,23,,CANTERBURY BANKSTOWN,4,11,
+0,NSWRFL 1945,Round 14,"Saturday, 11th August, 1945",3:15pm (local time),10381,109,"4,579","South Sydney
+RABBITOHS",0,12,,"Balmain
+TIGERS",13,29,
+0,NSWRFL 1945,Playoff,"Thursday, 16th August, 1945",2:00pm (local time),10384,24,"17,207","Balmain
+TIGERS",2,9,,NORTH SYDNEY,2,5,
+0,NSWRFL 1945,Semi Final,"Saturday, 18th August, 1945",3:15pm (local time),10385,24,"34,916",EASTERN SUBURBS,8,28,,"Western Suburbs
+MAGPIES",5,13,
+0,NSWRFL 1945,Semi Final,"Saturday, 25th August, 1945",3:15pm (local time),10386,24,"35,151","Balmain
+TIGERS",4,13,,NEWTOWN,2,9,
+0,NSWRFL 1945,Final,"Saturday, 1st September, 1945",3:15pm (local time),10387,24,"44,585",EASTERN SUBURBS,5,22,,"Balmain
+TIGERS",10,18,

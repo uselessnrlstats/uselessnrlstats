@@ -1,0 +1,233 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1960,Round 1,"Saturday, 2nd April, 1960",3:15pm (local time),11674,27,"5,697",CANTERBURY BANKSTOWN,,18,,"North Sydney
+BEARS",,7,
+0,NSWRFL 1960,Round 1,"Saturday, 2nd April, 1960",3:15pm (local time),11672,76,"4,355",NEWTOWN,7,17,,"Western Suburbs
+MAGPIES",14,20,
+0,NSWRFL 1960,Round 1,"Saturday, 2nd April, 1960",3:15pm (local time),11673,24,"15,438","Parramatta
+EELS",0,0,,"St George
+DRAGONS",22,52,
+0,NSWRFL 1960,Round 1,"Saturday, 2nd April, 1960",3:15pm (local time),11675,44,"8,708","South Sydney
+RABBITOHS",2,2,,"Balmain
+TIGERS",4,9,
+0,NSWRFL 1960,Round 1,"Sunday, 3rd April, 1960",3:15pm (local time),11676,109,"11,164",EASTERN SUBURBS,8,8,,"Manly Warringah
+SEA EAGLES",0,9,
+0,NSWRFL 1960,Round 2,"Saturday, 9th April, 1960",3:15pm (local time),11678,7,"5,274","Balmain
+TIGERS",0,15,,NEWTOWN,10,18,
+0,NSWRFL 1960,Round 2,"Saturday, 9th April, 1960",3:15pm (local time),11677,24,"13,705","Manly Warringah
+SEA EAGLES",6,22,,"St George
+DRAGONS",7,10,
+0,NSWRFL 1960,Round 2,"Saturday, 9th April, 1960",3:15pm (local time),11680,25,"4,678","North Sydney
+BEARS",5,16,,EASTERN SUBURBS,2,10,
+0,NSWRFL 1960,Round 2,"Saturday, 9th April, 1960",3:15pm (local time),11679,112,"8,896","Western Suburbs
+MAGPIES",,31,,CANTERBURY BANKSTOWN,,20,
+0,NSWRFL 1960,Round 2,"Sunday, 10th April, 1960",3:15pm (local time),11681,44,"12,859","South Sydney
+RABBITOHS",9,16,,"Parramatta
+EELS",0,3,
+0,NSWRFL 1960,Round 3,"Saturday, 16th April, 1960",3:15pm (local time),11682,27,"4,461",CANTERBURY BANKSTOWN,9,14,,EASTERN SUBURBS,2,22,
+0,NSWRFL 1960,Round 3,"Saturday, 16th April, 1960",3:15pm (local time),11684,111,"4,485","Parramatta
+EELS",4,21,,NEWTOWN,12,24,
+0,NSWRFL 1960,Round 3,"Saturday, 16th April, 1960",3:15pm (local time),11685,23,"8,952","St George
+DRAGONS",,46,,"North Sydney
+BEARS",,7,
+0,NSWRFL 1960,Round 3,"Saturday, 16th April, 1960",3:15pm (local time),11683,24,"18,842","South Sydney
+RABBITOHS",0,13,13,"Manly Warringah
+SEA EAGLES",8,14,11
+0,NSWRFL 1960,Round 3,"Monday, 18th April, 1960",3:15pm (local time),11686,24,"18,890","Western Suburbs
+MAGPIES",13,27,4,"Balmain
+TIGERS",12,15,24
+0,NSWRFL 1960,Round 4,"Saturday, 23rd April, 1960",3:15pm (local time),11687,27,"7,050",CANTERBURY BANKSTOWN,4,12,,"Balmain
+TIGERS",9,19,
+0,NSWRFL 1960,Round 4,"Saturday, 23rd April, 1960",3:15pm (local time),11688,24,"16,110","St George
+DRAGONS",,10,,EASTERN SUBURBS,,3,
+0,NSWRFL 1960,Round 4,"Sunday, 24th April, 1960",3:15pm (local time),11689,44,"18,077","South Sydney
+RABBITOHS",14,21,,"North Sydney
+BEARS",5,15,
+0,NSWRFL 1960,Round 4,"Monday, 25th April, 1960",3:15pm (local time),11690,24,"15,278","Manly Warringah
+SEA EAGLES",2,13,,NEWTOWN,12,12,
+0,NSWRFL 1960,Round 4,"Monday, 25th April, 1960",3:15pm (local time),11691,112,"8,933","Western Suburbs
+MAGPIES",,22,,"Parramatta
+EELS",,8,
+0,NSWRFL 1960,Round 5,"Saturday, 30th April, 1960",3:15pm (local time),11693,7,"4,438","Balmain
+TIGERS",14,26,,"Parramatta
+EELS",7,13,
+0,NSWRFL 1960,Round 5,"Saturday, 30th April, 1960",3:15pm (local time),11692,24,"29,702","Manly Warringah
+SEA EAGLES",8,13,,"Western Suburbs
+MAGPIES",2,9,
+0,NSWRFL 1960,Round 5,"Saturday, 30th April, 1960",3:15pm (local time),11694,25,"5,105","North Sydney
+BEARS",,11,,NEWTOWN,,21,
+0,NSWRFL 1960,Round 5,"Sunday, 1st May, 1960",3:15pm (local time),11695,109,"15,954",EASTERN SUBURBS,13,22,3,"South Sydney
+RABBITOHS",0,7,17
+0,NSWRFL 1960,Round 5,"Sunday, 1st May, 1960",3:15pm (local time),11696,23,"10,405","St George
+DRAGONS",26,38,,CANTERBURY BANKSTOWN,2,5,
+0,NSWRFL 1960,Round 6,"Saturday, 7th May, 1960",3:15pm (local time),11697,24,"19,077","Balmain
+TIGERS",,16,,"Manly Warringah
+SEA EAGLES",,14,
+0,NSWRFL 1960,Round 6,"Saturday, 7th May, 1960",3:15pm (local time),11698,27,"3,650",CANTERBURY BANKSTOWN,13,16,,"Parramatta
+EELS",5,5,
+0,NSWRFL 1960,Round 6,"Saturday, 7th May, 1960",3:15pm (local time),11700,76,"4,505",NEWTOWN,7,22,,EASTERN SUBURBS,7,17,
+0,NSWRFL 1960,Round 6,"Saturday, 7th May, 1960",3:15pm (local time),11699,112,"5,788","Western Suburbs
+MAGPIES",20,35,,"North Sydney
+BEARS",11,24,
+0,NSWRFL 1960,Round 6,"Sunday, 8th May, 1960",3:15pm (local time),11701,44,"5,850","South Sydney
+RABBITOHS",2,6,26,"St George
+DRAGONS",7,18,12
+0,NSWRFL 1960,Round 7,"Sunday, 15th May, 1960",3:15pm (local time),11703,27,"5,850",CANTERBURY BANKSTOWN,9,13,,"South Sydney
+RABBITOHS",4,6,
+0,NSWRFL 1960,Round 7,"Sunday, 15th May, 1960",3:15pm (local time),11704,109,"10,885",EASTERN SUBURBS,12,16,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1960,Round 7,"Sunday, 15th May, 1960",3:15pm (local time),11702,76,"10,899",NEWTOWN,0,10,,"St George
+DRAGONS",12,15,
+0,NSWRFL 1960,Round 7,"Sunday, 15th May, 1960",3:15pm (local time),11706,25,"8,524","North Sydney
+BEARS",,31,,"Balmain
+TIGERS",,11,
+0,NSWRFL 1960,Round 7,"Sunday, 15th May, 1960",3:15pm (local time),11705,111,"4,426","Parramatta
+EELS",2,7,22,"Manly Warringah
+SEA EAGLES",19,24,10
+0,NSWRFL 1960,Round 8,"Sunday, 22nd May, 1960",3:15pm (local time),11709,7,"6,808","Balmain
+TIGERS",11,13,,EASTERN SUBURBS,5,14,
+0,NSWRFL 1960,Round 8,"Sunday, 22nd May, 1960",3:15pm (local time),11711,5,"5,238","Manly Warringah
+SEA EAGLES",,6,,CANTERBURY BANKSTOWN,,9,
+0,NSWRFL 1960,Round 8,"Sunday, 22nd May, 1960",3:15pm (local time),11707,25,"4,814","North Sydney
+BEARS",17,26,,"Parramatta
+EELS",4,14,
+0,NSWRFL 1960,Round 8,"Sunday, 22nd May, 1960",3:15pm (local time),11708,109,"20,052","St George
+DRAGONS",20,39,8,"Western Suburbs
+MAGPIES",6,6,14
+0,NSWRFL 1960,Round 8,"Sunday, 22nd May, 1960",3:15pm (local time),11710,44,"6,612","South Sydney
+RABBITOHS",4,17,,NEWTOWN,2,4,
+0,NSWRFL 1960,Round 9,"Sunday, 29th May, 1960",3:15pm (local time),11714,7,"10,344","Balmain
+TIGERS",15,19,,"St George
+DRAGONS",5,15,
+0,NSWRFL 1960,Round 9,"Sunday, 29th May, 1960",3:15pm (local time),11712,5,"8,413","Manly Warringah
+SEA EAGLES",4,21,,"North Sydney
+BEARS",5,12,
+0,NSWRFL 1960,Round 9,"Sunday, 29th May, 1960",3:15pm (local time),11715,76,"4,610",NEWTOWN,,22,,CANTERBURY BANKSTOWN,,3,
+0,NSWRFL 1960,Round 9,"Sunday, 29th May, 1960",3:15pm (local time),11716,111,"4,645","Parramatta
+EELS",,16,,EASTERN SUBURBS,,28,
+0,NSWRFL 1960,Round 9,"Sunday, 29th May, 1960",3:15pm (local time),11713,44,"13,685","South Sydney
+RABBITOHS",17,22,,"Western Suburbs
+MAGPIES",8,13,
+0,NSWRFL 1960,Round 10,"Sunday, 12th June, 1960",3:15pm (local time),11717,109,"19,762","Balmain
+TIGERS",5,8,,"South Sydney
+RABBITOHS",14,14,
+0,NSWRFL 1960,Round 10,"Monday, 13th June, 1960",3:15pm (local time),11721,24,"15,345","Manly Warringah
+SEA EAGLES",2,7,,EASTERN SUBURBS,5,14,
+0,NSWRFL 1960,Round 10,"Monday, 13th June, 1960",3:15pm (local time),11720,25,"5,617","North Sydney
+BEARS",8,12,,CANTERBURY BANKSTOWN,15,22,
+0,NSWRFL 1960,Round 10,"Monday, 13th June, 1960",3:15pm (local time),11719,23,"5,638","St George
+DRAGONS",24,44,,"Parramatta
+EELS",9,14,
+0,NSWRFL 1960,Round 10,"Monday, 13th June, 1960",3:15pm (local time),11718,112,"7,710","Western Suburbs
+MAGPIES",,24,,NEWTOWN,,15,
+0,NSWRFL 1960,Round 11,"Saturday, 18th June, 1960",3:15pm (local time),11723,27,"6,535",CANTERBURY BANKSTOWN,5,20,,"Western Suburbs
+MAGPIES",8,10,
+0,NSWRFL 1960,Round 11,"Saturday, 18th June, 1960",3:15pm (local time),11725,76,"2,500",NEWTOWN,0,10,,"Balmain
+TIGERS",0,13,
+0,NSWRFL 1960,Round 11,"Saturday, 18th June, 1960",3:15pm (local time),11722,111,"4,625","Parramatta
+EELS",2,15,,"South Sydney
+RABBITOHS",5,7,
+0,NSWRFL 1960,Round 11,"Saturday, 18th June, 1960",3:15pm (local time),11724,24,"17,935","St George
+DRAGONS",4,13,,"Manly Warringah
+SEA EAGLES",0,9,
+0,NSWRFL 1960,Round 11,"Sunday, 19th June, 1960",3:15pm (local time),11726,109,"10,263",EASTERN SUBURBS,7,14,,"North Sydney
+BEARS",13,13,
+0,NSWRFL 1960,Round 12,"Saturday, 25th June, 1960",3:15pm (local time),11730,24,"13,557",EASTERN SUBURBS,7,10,,CANTERBURY BANKSTOWN,8,14,
+0,NSWRFL 1960,Round 12,"Saturday, 25th June, 1960",3:15pm (local time),11727,5,"3,994","Manly Warringah
+SEA EAGLES",2,18,,"South Sydney
+RABBITOHS",7,13,
+0,NSWRFL 1960,Round 12,"Saturday, 25th June, 1960",3:15pm (local time),11728,76,"2,008",NEWTOWN,7,15,,"Parramatta
+EELS",6,6,
+0,NSWRFL 1960,Round 12,"Saturday, 25th June, 1960",3:15pm (local time),11729,25,"4,457","North Sydney
+BEARS",,17,,"St George
+DRAGONS",,3,
+0,NSWRFL 1960,Round 12,"Sunday, 26th June, 1960",3:15pm (local time),11731,109,"8,753","Balmain
+TIGERS",,13,,"Western Suburbs
+MAGPIES",,10,
+0,NSWRFL 1960,Round 13,"Saturday, 2nd July, 1960",3:15pm (local time),11734,24,"15,709","Balmain
+TIGERS",5,5,16,CANTERBURY BANKSTOWN,5,15,6
+0,NSWRFL 1960,Round 13,"Saturday, 2nd July, 1960",3:15pm (local time),11735,76,"3,478",NEWTOWN,4,4,,"Manly Warringah
+SEA EAGLES",0,7,
+0,NSWRFL 1960,Round 13,"Saturday, 2nd July, 1960",3:15pm (local time),11732,25,"5,756","North Sydney
+BEARS",4,12,,"South Sydney
+RABBITOHS",10,10,
+0,NSWRFL 1960,Round 13,"Saturday, 2nd July, 1960",3:15pm (local time),11733,111,"4,402","Parramatta
+EELS",7,15,,"Western Suburbs
+MAGPIES",11,25,
+0,NSWRFL 1960,Round 13,"Sunday, 3rd July, 1960",3:15pm (local time),11736,109,"15,148",EASTERN SUBURBS,7,7,,"St George
+DRAGONS",0,4,
+0,NSWRFL 1960,Round 14,"Saturday, 9th July, 1960",3:15pm (local time),11738,24,"14,049",CANTERBURY BANKSTOWN,2,2,,"St George
+DRAGONS",8,38,
+0,NSWRFL 1960,Round 14,"Saturday, 9th July, 1960",3:15pm (local time),11737,76,"3,039",NEWTOWN,7,14,,"North Sydney
+BEARS",8,18,
+0,NSWRFL 1960,Round 14,"Saturday, 9th July, 1960",3:15pm (local time),11739,111,"4,876","Parramatta
+EELS",4,7,,"Balmain
+TIGERS",7,28,
+0,NSWRFL 1960,Round 14,"Saturday, 9th July, 1960",3:15pm (local time),11740,44,"8,205","South Sydney
+RABBITOHS",4,14,,EASTERN SUBURBS,13,18,
+0,NSWRFL 1960,Round 14,"Sunday, 10th July, 1960",3:15pm (local time),11741,109,"13,295","Western Suburbs
+MAGPIES",17,28,8,"Manly Warringah
+SEA EAGLES",0,5,14
+0,NSWRFL 1960,Round 15,"Sunday, 17th July, 1960",3:15pm (local time),11744,109,"9,834",EASTERN SUBURBS,7,29,,NEWTOWN,6,11,
+0,NSWRFL 1960,Round 15,"Sunday, 17th July, 1960",3:15pm (local time),11745,5,"6,750","Manly Warringah
+SEA EAGLES",0,12,,"Balmain
+TIGERS",8,13,
+0,NSWRFL 1960,Round 15,"Sunday, 17th July, 1960",3:15pm (local time),11742,25,"9,136","North Sydney
+BEARS",13,21,,"Western Suburbs
+MAGPIES",9,23,
+0,NSWRFL 1960,Round 15,"Sunday, 17th July, 1960",3:15pm (local time),11746,111,"3,915","Parramatta
+EELS",17,30,,CANTERBURY BANKSTOWN,11,18,
+0,NSWRFL 1960,Round 15,"Sunday, 17th July, 1960",3:15pm (local time),11743,23,"8,714","St George
+DRAGONS",11,23,,"South Sydney
+RABBITOHS",10,20,
+0,NSWRFL 1960,Round 16,"Saturday, 23rd July, 1960",3:15pm (local time),11747,5,"3,500","Manly Warringah
+SEA EAGLES",4,19,,"Parramatta
+EELS",5,12,
+0,NSWRFL 1960,Round 16,"Saturday, 23rd July, 1960",3:15pm (local time),11748,44,"4,100","South Sydney
+RABBITOHS",3,3,,CANTERBURY BANKSTOWN,14,17,
+0,NSWRFL 1960,Round 16,"Saturday, 23rd July, 1960",3:15pm (local time),11749,24,"19,614","Western Suburbs
+MAGPIES",13,28,,EASTERN SUBURBS,7,7,
+0,NSWRFL 1960,Round 16,"Sunday, 24th July, 1960",3:15pm (local time),11750,109,"13,993","Balmain
+TIGERS",17,46,,"North Sydney
+BEARS",12,22,
+0,NSWRFL 1960,Round 16,"Sunday, 24th July, 1960",3:15pm (local time),11751,23,"8,400","St George
+DRAGONS",18,54,,NEWTOWN,5,10,
+0,NSWRFL 1960,Round 17,"Saturday, 30th July, 1960",3:15pm (local time),11753,27,"6,600",CANTERBURY BANKSTOWN,10,14,,"Manly Warringah
+SEA EAGLES",7,11,
+0,NSWRFL 1960,Round 17,"Saturday, 30th July, 1960",3:15pm (local time),11752,76,"1,585",NEWTOWN,9,12,,"South Sydney
+RABBITOHS",8,13,
+0,NSWRFL 1960,Round 17,"Saturday, 30th July, 1960",3:15pm (local time),11754,111,"3,000","Parramatta
+EELS",8,21,,"North Sydney
+BEARS",25,43,
+0,NSWRFL 1960,Round 17,"Saturday, 30th July, 1960",3:15pm (local time),11755,24,"20,404","Western Suburbs
+MAGPIES",5,10,,"St George
+DRAGONS",11,21,
+0,NSWRFL 1960,Round 17,"Sunday, 31st July, 1960",3:15pm (local time),11756,109,"17,167",EASTERN SUBURBS,0,5,,"Balmain
+TIGERS",3,8,
+0,NSWRFL 1960,Round 18,"Saturday, 6th August, 1960",3:15pm (local time),11757,27,"3,117",CANTERBURY BANKSTOWN,14,17,,NEWTOWN,4,10,
+0,NSWRFL 1960,Round 18,"Saturday, 6th August, 1960",3:15pm (local time),11758,25,"8,314","North Sydney
+BEARS",,10,,"Manly Warringah
+SEA EAGLES",,7,
+0,NSWRFL 1960,Round 18,"Saturday, 6th August, 1960",3:15pm (local time),11760,24,"16,369","St George
+DRAGONS",0,13,11,"Balmain
+TIGERS",4,9,20
+0,NSWRFL 1960,Round 18,"Saturday, 6th August, 1960",3:15pm (local time),11759,112,"3,293","Western Suburbs
+MAGPIES",8,22,,"South Sydney
+RABBITOHS",2,7,
+0,NSWRFL 1960,Round 18,"Sunday, 7th August, 1960",3:15pm (local time),11761,109,"8,679",EASTERN SUBURBS,,20,,"Parramatta
+EELS",,8,
+0,NSWRFL 1960,Prelim Playoff,"Tuesday, 9th August, 1960",1:30pm (local time),11763,109,"21,308",EASTERN SUBURBS,15,20,,CANTERBURY BANKSTOWN,7,11,
+0,NSWRFL 1960,Prelim Playoff,"Tuesday, 9th August, 1960",3:00pm (local time),11762,109,"21,308","Western Suburbs
+MAGPIES",15,28,,"Balmain
+TIGERS",7,10,
+0,NSWRFL 1960,Playoff,"Saturday, 13th August, 1960",2:45pm (local time),11764,24,"21,855","Western Suburbs
+MAGPIES",7,18,,EASTERN SUBURBS,3,7,
+0,NSWRFL 1960,Playoff,"Sunday, 14th August, 1960",2:45pm (local time),11765,109,"16,507",CANTERBURY BANKSTOWN,,18,,"Balmain
+TIGERS",,7,
+0,NSWRFL 1960,Major Semi,"Saturday, 20th August, 1960",2:45pm (local time),11766,24,"38,407","St George
+DRAGONS",15,31,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1960,Minor Semi,"Sunday, 21st August, 1960",2:45pm (local time),11767,109,"18,455",EASTERN SUBURBS,9,16,,CANTERBURY BANKSTOWN,0,9,
+0,NSWRFL 1960,Prelim Final,"Saturday, 27th August, 1960",2:45pm (local time),11768,24,"29,393",EASTERN SUBURBS,7,20,,"Western Suburbs
+MAGPIES",5,15,
+0,NSWRFL 1960,Grand Final,"Saturday, 3rd September, 1960",3:00pm (local time),11769,24,"53,156","St George
+DRAGONS",15,31,,EASTERN SUBURBS,2,6,

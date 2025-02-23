@@ -1,0 +1,550 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1990,Round 1,"Friday, 16th March, 1990",7:45pm (local time),5817,4,"22,257","Canberra
+RAIDERS",,26,2,"St George
+DRAGONS",,10,8
+0,NSWRL 1990,Round 1,"Saturday, 17th March, 1990",3:05pm (local time),5818,1,"8,202","South Sydney
+RABBITOHS",8,10,8,"Canterbury Bankstown
+BULLDOGS",6,14,11
+0,NSWRL 1990,Round 1,"Saturday, 17th March, 1990",6:30pm (local time),5819,34,"6,423","Gold Coast
+SEAGULLS",,2,6,"Cronulla Sutherland
+SHARKS",,32,7
+0,NSWRL 1990,Round 1,"Sunday, 18th March, 1990",3:00pm (local time),5822,7,"10,170","Balmain
+TIGERS",,12,10,"Manly Warringah
+SEA EAGLES",,14,9
+0,NSWRL 1990,Round 1,"Sunday, 18th March, 1990",3:00pm (local time),5824,21,"7,342","Illawarra
+STEELERS",,11,11,"Eastern Suburbs
+ROOSTERS",,10,9
+0,NSWRL 1990,Round 1,"Sunday, 18th March, 1990",3:00pm (local time),5820,11,"15,236","Newcastle
+KNIGHTS",,13,14,"North Sydney
+BEARS",,8,9
+0,NSWRL 1990,Round 1,"Sunday, 18th March, 1990",3:00pm (local time),5821,8,"15,036","Parramatta
+EELS",,19,8,"Penrith
+PANTHERS",,10,7
+0,NSWRL 1990,Round 1,"Sunday, 18th March, 1990",3:00pm (local time),5823,19,"9,670","Western Suburbs
+MAGPIES",,12,8,"Brisbane
+BRONCOS",,12,9
+0,NSWRL 1990,Round 2,"Friday, 23rd March, 1990",,5825,22,"22,003","Brisbane
+BRONCOS",,28,6,"Parramatta
+EELS",,8,4
+0,NSWRL 1990,Round 2,"Saturday, 24th March, 1990",,5826,3,"8,356","Penrith
+PANTHERS",,24,8,"Balmain
+TIGERS",,10,6
+0,NSWRL 1990,Round 2,"Sunday, 25th March, 1990",,5829,27,"12,850","Canterbury Bankstown
+BULLDOGS",,18,3,"St George
+DRAGONS",,20,8
+0,NSWRL 1990,Round 2,"Sunday, 25th March, 1990",,5830,9,"10,800","Cronulla Sutherland
+SHARKS",,36,8,"South Sydney
+RABBITOHS",,10,8
+0,NSWRL 1990,Round 2,"Sunday, 25th March, 1990",,5831,1,"3,535","Eastern Suburbs
+ROOSTERS",,20,5,"Gold Coast
+SEAGULLS",,6,12
+0,NSWRL 1990,Round 2,"Sunday, 25th March, 1990",,5832,21,"9,695","Illawarra
+STEELERS",,4,10,"Canberra
+RAIDERS",,18,7
+0,NSWRL 1990,Round 2,"Sunday, 25th March, 1990",,5827,5,"11,146","Manly Warringah
+SEA EAGLES",,28,5,"Newcastle
+KNIGHTS",,12,15
+0,NSWRL 1990,Round 2,"Sunday, 25th March, 1990",,5828,25,"7,262","North Sydney
+BEARS",,14,10,"Western Suburbs
+MAGPIES",,12,6
+0,NSWRL 1990,Round 3,"Friday, 30th March, 1990",,5833,1,"12,747","South Sydney
+RABBITOHS",,26,13,"Eastern Suburbs
+ROOSTERS",,12,11
+0,NSWRL 1990,Round 3,"Saturday, 31st March, 1990",,5835,4,"13,221","Canberra
+RAIDERS",,2,6,"Canterbury Bankstown
+BULLDOGS",,6,15
+0,NSWRL 1990,Round 3,"Saturday, 31st March, 1990",,5834,34,"3,171","Gold Coast
+SEAGULLS",,6,9,"Illawarra
+STEELERS",,41,6
+0,NSWRL 1990,Round 3,"Sunday, 1st April, 1990",,5837,7,"13,062","Balmain
+TIGERS",,18,10,"Brisbane
+BRONCOS",,16,12
+0,NSWRL 1990,Round 3,"Sunday, 1st April, 1990",,5838,9,"16,779","Cronulla Sutherland
+SHARKS",,25,11,"St George
+DRAGONS",,12,15
+0,NSWRL 1990,Round 3,"Sunday, 1st April, 1990",,5836,11,"16,218","Newcastle
+KNIGHTS",,34,2,"Western Suburbs
+MAGPIES",,0,10
+0,NSWRL 1990,Round 3,"Sunday, 1st April, 1990",,5840,8,"11,017","Parramatta
+EELS",,11,12,"North Sydney
+BEARS",,10,7
+0,NSWRL 1990,Round 3,"Sunday, 1st April, 1990",,5839,3,"11,083","Penrith
+PANTHERS",,24,8,"Manly Warringah
+SEA EAGLES",,10,7
+0,NSWRL 1990,Round 4,"Friday, 6th April, 1990",,5841,21,"10,023","Illawarra
+STEELERS",,6,8,"Canterbury Bankstown
+BULLDOGS",,24,7
+0,NSWRL 1990,Round 4,"Saturday, 7th April, 1990",,5843,9,"9,945","Cronulla Sutherland
+SHARKS",,8,9,"Canberra
+RAIDERS",,7,3
+0,NSWRL 1990,Round 4,"Saturday, 7th April, 1990",,5842,34,"5,227","Gold Coast
+SEAGULLS",,27,7,"South Sydney
+RABBITOHS",,14,11
+0,NSWRL 1990,Round 4,"Sunday, 8th April, 1990",,5844,22,"21,807","Brisbane
+BRONCOS",,14,5,"Manly Warringah
+SEA EAGLES",,12,8
+0,NSWRL 1990,Round 4,"Sunday, 8th April, 1990",,5845,1,"7,008","Eastern Suburbs
+ROOSTERS",,22,9,"St George
+DRAGONS",,18,11
+0,NSWRL 1990,Round 4,"Sunday, 8th April, 1990",,5848,25,"14,288","North Sydney
+BEARS",,18,10,"Balmain
+TIGERS",,30,9
+0,NSWRL 1990,Round 4,"Sunday, 8th April, 1990",,5846,3,"8,929","Penrith
+PANTHERS",,6,11,"Newcastle
+KNIGHTS",,6,11
+0,NSWRL 1990,Round 4,"Sunday, 8th April, 1990",,5847,19,"11,058","Western Suburbs
+MAGPIES",,34,5,"Parramatta
+EELS",,18,5
+0,NSWRL 1990,Round 5,"Saturday, 14th April, 1990",,5849,22,"22,842","Brisbane
+BRONCOS",,18,3,"Penrith
+PANTHERS",,26,8
+0,NSWRL 1990,Round 5,"Sunday, 15th April, 1990",,5850,21,"11,117","Illawarra
+STEELERS",,22,9,"South Sydney
+RABBITOHS",,20,6
+0,NSWRL 1990,Round 5,"Sunday, 15th April, 1990",,5851,5,"11,130","Manly Warringah
+SEA EAGLES",,2,7,"North Sydney
+BEARS",,10,13
+0,NSWRL 1990,Round 5,"Sunday, 15th April, 1990",,5852,11,"24,509","Newcastle
+KNIGHTS",,0,10,"Parramatta
+EELS",,23,11
+0,NSWRL 1990,Round 5,"Sunday, 15th April, 1990",,5855,9,"3,662","St George
+DRAGONS",,32,11,"Gold Coast
+SEAGULLS",,12,10
+0,NSWRL 1990,Round 5,"Sunday, 15th April, 1990",3:00pm (local time),5853,4,"12,675","Canberra
+RAIDERS",26,66,9,"Eastern Suburbs
+ROOSTERS",0,4,6
+0,NSWRL 1990,Round 5,"Sunday, 15th April, 1990",3:00pm (local time),5854,27,"14,482","Canterbury Bankstown
+BULLDOGS",2,18,12,"Cronulla Sutherland
+SHARKS",8,10,11
+0,NSWRL 1990,Round 5,"Monday, 16th April, 1990",,5856,7,"8,537","Balmain
+TIGERS",,16,6,"Western Suburbs
+MAGPIES",,8,9
+0,NSWRL 1990,Round 6,"Friday, 20th April, 1990",,5857,113,"8,648","Eastern Suburbs
+ROOSTERS",,12,9,"Canterbury Bankstown
+BULLDOGS",,12,12
+0,NSWRL 1990,Round 6,"Saturday, 21st April, 1990",,5859,34,"9,340","Gold Coast
+SEAGULLS",,6,7,"Canberra
+RAIDERS",,14,12
+0,NSWRL 1990,Round 6,"Saturday, 21st April, 1990",,5858,8,"16,056","Parramatta
+EELS",,14,10,"Balmain
+TIGERS",,31,8
+0,NSWRL 1990,Round 6,"Sunday, 22nd April, 1990",,5861,9,"11,152","Cronulla Sutherland
+SHARKS",,14,1,"Illawarra
+STEELERS",,26,7
+0,NSWRL 1990,Round 6,"Sunday, 22nd April, 1990",,5864,11,"23,195","Newcastle
+KNIGHTS",,4,8,"Brisbane
+BRONCOS",,28,8
+0,NSWRL 1990,Round 6,"Sunday, 22nd April, 1990",,5860,25,"10,137","North Sydney
+BEARS",,22,5,"Penrith
+PANTHERS",,26,6
+0,NSWRL 1990,Round 6,"Sunday, 22nd April, 1990",,5863,1,"14,700","South Sydney
+RABBITOHS",,10,5,"St George
+DRAGONS",,33,10
+0,NSWRL 1990,Round 6,"Sunday, 22nd April, 1990",,5862,19,"10,359","Western Suburbs
+MAGPIES",,4,7,"Manly Warringah
+SEA EAGLES",,18,5
+0,NSWRL 1990,Round 7,"Friday, 27th April, 1990",,5865,22,"20,801","Brisbane
+BRONCOS",,12,3,"North Sydney
+BEARS",,14,7
+0,NSWRL 1990,Round 7,"Saturday, 28th April, 1990",,5866,7,"6,415","Balmain
+TIGERS",,24,7,"Newcastle
+KNIGHTS",,4,11
+0,NSWRL 1990,Round 7,"Sunday, 29th April, 1990",,5870,4,"16,082","Canberra
+RAIDERS",,48,9,"South Sydney
+RABBITOHS",,14,5
+0,NSWRL 1990,Round 7,"Sunday, 29th April, 1990",,5871,27,"7,716","Canterbury Bankstown
+BULLDOGS",,30,6,"Gold Coast
+SEAGULLS",,8,8
+0,NSWRL 1990,Round 7,"Sunday, 29th April, 1990",,5872,9,"8,845","Cronulla Sutherland
+SHARKS",,30,7,"Eastern Suburbs
+ROOSTERS",,2,11
+0,NSWRL 1990,Round 7,"Sunday, 29th April, 1990",,5867,21,"15,296","Illawarra
+STEELERS",,12,8,"St George
+DRAGONS",,19,12
+0,NSWRL 1990,Round 7,"Sunday, 29th April, 1990",,5868,5,"17,416","Manly Warringah
+SEA EAGLES",,32,1,"Parramatta
+EELS",,18,6
+0,NSWRL 1990,Round 7,"Sunday, 29th April, 1990",,5869,3,"9,676","Penrith
+PANTHERS",,28,4,"Western Suburbs
+MAGPIES",,26,7
+0,NSWRL 1990,Round 8,"Friday, 4th May, 1990",,5873,8,"10,256","Parramatta
+EELS",,16,8,"Illawarra
+STEELERS",,12,5
+0,NSWRL 1990,Round 8,"Saturday, 5th May, 1990",,5874,19,"8,040","Western Suburbs
+MAGPIES",,16,14,"South Sydney
+RABBITOHS",,8,8
+0,NSWRL 1990,Round 8,"Sunday, 6th May, 1990",,5875,11,"17,550","Newcastle
+KNIGHTS",,32,6,"St George
+DRAGONS",,10,10
+0,NSWRL 1990,Round 8,"Sunday, 6th May, 1990",,5876,25,"6,693","North Sydney
+BEARS",,27,8,"Gold Coast
+SEAGULLS",,4,10
+0,NSWRL 1990,Round 8,"Friday, 11th May, 1990",,5877,27,"13,091","Canterbury Bankstown
+BULLDOGS",,14,10,"Manly Warringah
+SEA EAGLES",,4,8
+0,NSWRL 1990,Round 8,"Saturday, 12th May, 1990",,5878,9,"6,738","Cronulla Sutherland
+SHARKS",,30,8,"Penrith
+PANTHERS",,14,10
+0,NSWRL 1990,Round 8,"Sunday, 13th May, 1990",,5880,1,"5,794","Eastern Suburbs
+ROOSTERS",,12,8,"Brisbane
+BRONCOS",,36,8
+0,NSWRL 1990,Round 8,"Sunday, 13th May, 1990",3:00pm (local time),5879,4,"23,252","Canberra
+RAIDERS",6,14,6,"Balmain
+TIGERS",0,0,2
+0,NSWRL 1990,Round 9,"Friday, 18th May, 1990",,5881,22,"21,393","Brisbane
+BRONCOS",,20,8,"Cronulla Sutherland
+SHARKS",,8,10
+0,NSWRL 1990,Round 9,"Friday, 18th May, 1990",7:30pm (local time),5882,32,"23,566","Manly Warringah
+SEA EAGLES",,12,6,"Canberra
+RAIDERS",,29,6
+0,NSWRL 1990,Round 9,"Saturday, 19th May, 1990",,5884,7,"7,540","Balmain
+TIGERS",,16,4,"St George
+DRAGONS",,14,11
+0,NSWRL 1990,Round 9,"Saturday, 19th May, 1990",,5883,34,"6,128","Gold Coast
+SEAGULLS",,14,7,"Western Suburbs
+MAGPIES",,29,10
+0,NSWRL 1990,Round 9,"Sunday, 20th May, 1990",,5888,76,"4,100","Eastern Suburbs
+ROOSTERS",,8,11,"North Sydney
+BEARS",,38,10
+0,NSWRL 1990,Round 9,"Sunday, 20th May, 1990",,5885,21,"9,896","Illawarra
+STEELERS",,16,4,"Newcastle
+KNIGHTS",,22,11
+0,NSWRL 1990,Round 9,"Sunday, 20th May, 1990",3:00pm (local time),5887,3,"12,812","Penrith
+PANTHERS",2,2,13,"Canterbury Bankstown
+BULLDOGS",12,24,6
+0,NSWRL 1990,Round 9,"Sunday, 20th May, 1990",3:00pm (local time),5886,1,"10,838","South Sydney
+RABBITOHS",6,28,3,"Parramatta
+EELS",6,12,12
+0,NSWRL 1990,Round 10,"Friday, 25th May, 1990",,5889,1,"7,478","South Sydney
+RABBITOHS",,10,7,"North Sydney
+BEARS",,27,10
+0,NSWRL 1990,Round 10,"Saturday, 26th May, 1990",,5890,21,"6,378","Illawarra
+STEELERS",,20,4,"Western Suburbs
+MAGPIES",,8,8
+0,NSWRL 1990,Round 10,"Sunday, 27th May, 1990",,5891,3,"7,791","Penrith
+PANTHERS",,14,6,"Eastern Suburbs
+ROOSTERS",,12,4
+0,NSWRL 1990,Round 10,"Friday, 1st June, 1990",7:30pm (local time),5892,7,"10,519","Balmain
+TIGERS",,24,7,"Canterbury Bankstown
+BULLDOGS",,4,9
+0,NSWRL 1990,Round 10,"Saturday, 2nd June, 1990",3:05pm (local time),5893,5,"8,110","Manly Warringah
+SEA EAGLES",,24,7,"Cronulla Sutherland
+SHARKS",,8,6
+0,NSWRL 1990,Round 10,"Sunday, 3rd June, 1990",3:00pm (local time),5894,22,"17,680","Brisbane
+BRONCOS",,30,8,"Gold Coast
+SEAGULLS",,14,11
+0,NSWRL 1990,Round 10,"Sunday, 3rd June, 1990",3:00pm (local time),5895,4,"10,767","Canberra
+RAIDERS",12,27,6,"Newcastle
+KNIGHTS",12,21,6
+0,NSWRL 1990,Round 10,"Sunday, 3rd June, 1990",3:00pm (local time),5896,23,"18,172","St George
+DRAGONS",,12,10,"Parramatta
+EELS",,22,5
+0,NSWRL 1990,Round 11,"Friday, 8th June, 1990",7:30pm (local time),5897,8,"15,048","Parramatta
+EELS",,17,5,"Canberra
+RAIDERS",,8,8
+0,NSWRL 1990,Round 11,"Saturday, 9th June, 1990",3:05pm (local time),5899,11,"19,629","Newcastle
+KNIGHTS",,8,8,"Canterbury Bankstown
+BULLDOGS",,6,8
+0,NSWRL 1990,Round 11,"Saturday, 9th June, 1990",6:30pm (local time),5898,34,"5,854","Gold Coast
+SEAGULLS",,4,9,"Penrith
+PANTHERS",,26,9
+0,NSWRL 1990,Round 11,"Sunday, 10th June, 1990",3:00pm (local time),5902,9,"15,163","Cronulla Sutherland
+SHARKS",,18,12,"Balmain
+TIGERS",,10,7
+0,NSWRL 1990,Round 11,"Sunday, 10th June, 1990",3:00pm (local time),5904,76,"8,011","Eastern Suburbs
+ROOSTERS",,0,3,"Manly Warringah
+SEA EAGLES",,34,6
+0,NSWRL 1990,Round 11,"Sunday, 10th June, 1990",3:00pm (local time),5900,25,"9,346","North Sydney
+BEARS",,16,5,"Illawarra
+STEELERS",,8,8
+0,NSWRL 1990,Round 11,"Sunday, 10th June, 1990",3:00pm (local time),5903,1,"10,059","South Sydney
+RABBITOHS",,6,11,"Brisbane
+BRONCOS",,34,12
+0,NSWRL 1990,Round 11,"Sunday, 10th June, 1990",3:00pm (local time),5901,19,"11,537","Western Suburbs
+MAGPIES",,18,9,"St George
+DRAGONS",,12,5
+0,NSWRL 1990,Round 12,"Friday, 15th June, 1990",,5905,27,"11,732","Canterbury Bankstown
+BULLDOGS",,4,10,"Parramatta
+EELS",,24,6
+0,NSWRL 1990,Round 12,"Saturday, 16th June, 1990",,5906,23,"5,102","St George
+DRAGONS",,18,7,"North Sydney
+BEARS",,12,10
+0,NSWRL 1990,Round 12,"Sunday, 17th June, 1990",,5908,7,"5,167","Balmain
+TIGERS",,22,11,"Eastern Suburbs
+ROOSTERS",,2,13
+0,NSWRL 1990,Round 12,"Sunday, 17th June, 1990",,5909,22,"18,789","Brisbane
+BRONCOS",,36,14,"Illawarra
+STEELERS",,6,6
+0,NSWRL 1990,Round 12,"Sunday, 17th June, 1990",,5910,4,"8,908","Canberra
+RAIDERS",,26,5,"Western Suburbs
+MAGPIES",,22,6
+0,NSWRL 1990,Round 12,"Sunday, 17th June, 1990",,5911,9,"5,907","Cronulla Sutherland
+SHARKS",,8,8,"Newcastle
+KNIGHTS",,10,11
+0,NSWRL 1990,Round 12,"Sunday, 17th June, 1990",,5912,5,"7,427","Manly Warringah
+SEA EAGLES",,34,10,"Gold Coast
+SEAGULLS",,0,8
+0,NSWRL 1990,Round 12,"Sunday, 17th June, 1990",,5907,3,"7,339","Penrith
+PANTHERS",,44,14,"South Sydney
+RABBITOHS",,6,7
+0,NSWRL 1990,Round 13,"Friday, 22nd June, 1990",,5913,8,"18,042","Parramatta
+EELS",,8,9,"Cronulla Sutherland
+SHARKS",,14,4
+0,NSWRL 1990,Round 13,"Saturday, 23rd June, 1990",,5914,34,"12,144","Gold Coast
+SEAGULLS",,2,5,"Balmain
+TIGERS",,46,8
+0,NSWRL 1990,Round 13,"Saturday, 23rd June, 1990",,5915,23,"8,187","St George
+DRAGONS",,14,10,"Brisbane
+BRONCOS",,18,5
+0,NSWRL 1990,Round 13,"Sunday, 24th June, 1990",,5916,21,"7,755","Illawarra
+STEELERS",,30,9,"Penrith
+PANTHERS",,22,5
+0,NSWRL 1990,Round 13,"Sunday, 24th June, 1990",,5920,11,"19,557","Newcastle
+KNIGHTS",,34,11,"Eastern Suburbs
+ROOSTERS",,16,7
+0,NSWRL 1990,Round 13,"Sunday, 24th June, 1990",,5918,25,"11,537","North Sydney
+BEARS",,10,5,"Canberra
+RAIDERS",,33,5
+0,NSWRL 1990,Round 13,"Sunday, 24th June, 1990",,5917,1,"10,260","South Sydney
+RABBITOHS",,20,10,"Manly Warringah
+SEA EAGLES",,26,7
+0,NSWRL 1990,Round 13,"Sunday, 24th June, 1990",,5919,19,"11,404","Western Suburbs
+MAGPIES",,26,10,"Canterbury Bankstown
+BULLDOGS",,18,6
+0,NSWRL 1990,Round 14,"Friday, 29th June, 1990",,5921,27,"5,150","Canterbury Bankstown
+BULLDOGS",,6,3,"North Sydney
+BEARS",,12,9
+0,NSWRL 1990,Round 14,"Saturday, 30th June, 1990",,5922,34,"4,200","Gold Coast
+SEAGULLS",,8,6,"Newcastle
+KNIGHTS",,16,7
+0,NSWRL 1990,Round 14,"Saturday, 30th June, 1990",,5923,5,"6,265","Manly Warringah
+SEA EAGLES",,22,11,"Illawarra
+STEELERS",,4,5
+0,NSWRL 1990,Round 14,"Sunday, 1st July, 1990",,5925,7,"10,083","Balmain
+TIGERS",,44,8,"South Sydney
+RABBITOHS",,10,9
+0,NSWRL 1990,Round 14,"Sunday, 1st July, 1990",,5926,22,"32,124","Brisbane
+BRONCOS",,22,10,"Canberra
+RAIDERS",,20,7
+0,NSWRL 1990,Round 14,"Sunday, 1st July, 1990",,5927,9,"8,180","Cronulla Sutherland
+SHARKS",,16,5,"Western Suburbs
+MAGPIES",,10,8
+0,NSWRL 1990,Round 14,"Sunday, 1st July, 1990",,5924,3,"8,350","Penrith
+PANTHERS",,26,7,"St George
+DRAGONS",,16,8
+0,NSWRL 1990,Round 14,"Sunday, 1st July, 1990",3:00pm (local time),5928,76,"4,100","Eastern Suburbs
+ROOSTERS",6,12,4,"Parramatta
+EELS",14,42,8
+0,NSWRL 1990,Round 15,"Friday, 6th July, 1990",,5929,27,"7,202","Canterbury Bankstown
+BULLDOGS",,8,8,"Brisbane
+BRONCOS",,26,6
+0,NSWRL 1990,Round 15,"Saturday, 7th July, 1990",,5930,25,"7,668","North Sydney
+BEARS",,22,7,"Cronulla Sutherland
+SHARKS",,6,9
+0,NSWRL 1990,Round 15,"Saturday, 7th July, 1990",,5931,19,"11,008","Western Suburbs
+MAGPIES",,14,9,"Eastern Suburbs
+ROOSTERS",,26,8
+0,NSWRL 1990,Round 15,"Sunday, 8th July, 1990",,5933,4,"12,963","Canberra
+RAIDERS",,2,3,"Penrith
+PANTHERS",,23,15
+0,NSWRL 1990,Round 15,"Sunday, 8th July, 1990",,5936,21,"14,954","Illawarra
+STEELERS",,8,9,"Balmain
+TIGERS",,32,7
+0,NSWRL 1990,Round 15,"Sunday, 8th July, 1990",,5932,11,"21,128","Newcastle
+KNIGHTS",,18,7,"South Sydney
+RABBITOHS",,13,7
+0,NSWRL 1990,Round 15,"Sunday, 8th July, 1990",,5934,8,"12,303","Parramatta
+EELS",,40,6,"Gold Coast
+SEAGULLS",,0,3
+0,NSWRL 1990,Round 15,"Sunday, 8th July, 1990",,5935,23,"10,901","St George
+DRAGONS",,6,2,"Manly Warringah
+SEA EAGLES",,10,9
+0,NSWRL 1990,Round 16,"Friday, 13th July, 1990",,5937,22,"15,906","Brisbane
+BRONCOS",,30,5,"Western Suburbs
+MAGPIES",,10,7
+0,NSWRL 1990,Round 16,"Saturday, 14th July, 1990",,5938,3,"13,137","Penrith
+PANTHERS",,14,7,"Parramatta
+EELS",,2,5
+0,NSWRL 1990,Round 16,"Sunday, 15th July, 1990",,5939,27,"7,271","Canterbury Bankstown
+BULLDOGS",,22,12,"South Sydney
+RABBITOHS",,6,7
+0,NSWRL 1990,Round 16,"Sunday, 15th July, 1990",,5940,9,"6,445","Cronulla Sutherland
+SHARKS",,32,5,"Gold Coast
+SEAGULLS",,4,10
+0,NSWRL 1990,Round 16,"Sunday, 15th July, 1990",,5944,76,"2,600","Eastern Suburbs
+ROOSTERS",,12,7,"Illawarra
+STEELERS",,28,10
+0,NSWRL 1990,Round 16,"Sunday, 15th July, 1990",,5941,25,"12,644","North Sydney
+BEARS",,8,7,"Newcastle
+KNIGHTS",,28,6
+0,NSWRL 1990,Round 16,"Sunday, 15th July, 1990",,5943,23,"7,516","St George
+DRAGONS",,12,4,"Canberra
+RAIDERS",,28,3
+0,NSWRL 1990,Round 16,"Sunday, 15th July, 1990",3:00pm (local time),5942,5,"23,102","Manly Warringah
+SEA EAGLES",10,24,8,"Balmain
+TIGERS",8,10,7
+0,NSWRL 1990,Round 17,"Friday, 20th July, 1990",,5945,7,"9,238","Balmain
+TIGERS",,9,7,"Penrith
+PANTHERS",,4,9
+0,NSWRL 1990,Round 17,"Saturday, 21st July, 1990",,5947,34,"6,253","Gold Coast
+SEAGULLS",10,28,6,"Eastern Suburbs
+ROOSTERS",8,12,3
+0,NSWRL 1990,Round 17,"Saturday, 21st July, 1990",,5946,11,"22,907","Newcastle
+KNIGHTS",,10,9,"Manly Warringah
+SEA EAGLES",,4,10
+0,NSWRL 1990,Round 17,"Sunday, 22nd July, 1990",,5948,4,"9,470","Canberra
+RAIDERS",,8,8,"Illawarra
+STEELERS",,8,13
+0,NSWRL 1990,Round 17,"Sunday, 22nd July, 1990",,5950,8,"20,138","Parramatta
+EELS",,22,7,"Brisbane
+BRONCOS",,24,4
+0,NSWRL 1990,Round 17,"Sunday, 22nd July, 1990",,5951,23,"7,884","St George
+DRAGONS",,9,6,"Canterbury Bankstown
+BULLDOGS",,8,9
+0,NSWRL 1990,Round 17,"Sunday, 22nd July, 1990",,5952,1,"8,326","South Sydney
+RABBITOHS",,20,5,"Cronulla Sutherland
+SHARKS",,36,5
+0,NSWRL 1990,Round 17,"Sunday, 22nd July, 1990",,5949,19,"8,208","Western Suburbs
+MAGPIES",,6,6,"North Sydney
+BEARS",,16,9
+0,NSWRL 1990,Round 18,"Friday, 27th July, 1990",7:30pm (local time),5953,5,"4,055","Manly Warringah
+SEA EAGLES",4,4,4,"Penrith
+PANTHERS",6,22,8
+0,NSWRL 1990,Round 18,"Saturday, 28th July, 1990",3:05pm (local time),5954,27,"5,764","Canterbury Bankstown
+BULLDOGS",8,20,6,"Canberra
+RAIDERS",18,28,7
+0,NSWRL 1990,Round 18,"Sunday, 29th July, 1990",,5958,22,"32,168","Brisbane
+BRONCOS",,30,6,"Balmain
+TIGERS",,16,9
+0,NSWRL 1990,Round 18,"Sunday, 29th July, 1990",,5960,76,"5,410","Eastern Suburbs
+ROOSTERS",,21,10,"South Sydney
+RABBITOHS",,13,8
+0,NSWRL 1990,Round 18,"Sunday, 29th July, 1990",,5956,21,"7,242","Illawarra
+STEELERS",,20,14,"Gold Coast
+SEAGULLS",,12,5
+0,NSWRL 1990,Round 18,"Sunday, 29th July, 1990",,5955,25,"12,638","North Sydney
+BEARS",,10,9,"Parramatta
+EELS",,12,7
+0,NSWRL 1990,Round 18,"Sunday, 29th July, 1990",,5959,23,"12,163","St George
+DRAGONS",,28,4,"Cronulla Sutherland
+SHARKS",,6,9
+0,NSWRL 1990,Round 18,"Sunday, 29th July, 1990",,5957,19,"7,019","Western Suburbs
+MAGPIES",,2,7,"Newcastle
+KNIGHTS",,34,5
+0,NSWRL 1990,Round 19,"Friday, 3rd August, 1990",,5961,7,"2,351","Balmain
+TIGERS",,14,7,"North Sydney
+BEARS",,6,8
+0,NSWRL 1990,Round 19,"Saturday, 4th August, 1990",3:05pm (local time),5962,4,"10,990","Canberra
+RAIDERS",0,24,9,"Cronulla Sutherland
+SHARKS",6,10,6
+0,NSWRL 1990,Round 19,"Sunday, 5th August, 1990",,5965,27,"4,177","Canterbury Bankstown
+BULLDOGS",,16,11,"Illawarra
+STEELERS",,12,7
+0,NSWRL 1990,Round 19,"Sunday, 5th August, 1990",,5967,5,"16,656","Manly Warringah
+SEA EAGLES",,18,6,"Brisbane
+BRONCOS",,4,5
+0,NSWRL 1990,Round 19,"Sunday, 5th August, 1990",,5964,8,"12,278","Parramatta
+EELS",10,19,2,"Western Suburbs
+MAGPIES",10,12,10
+0,NSWRL 1990,Round 19,"Sunday, 5th August, 1990",,5968,23,"4,941","St George
+DRAGONS",,12,9,"Eastern Suburbs
+ROOSTERS",,24,5
+0,NSWRL 1990,Round 19,"Sunday, 5th August, 1990",,5966,1,"3,903","South Sydney
+RABBITOHS",,12,4,"Gold Coast
+SEAGULLS",,38,9
+0,NSWRL 1990,Round 19,"Sunday, 5th August, 1990",3:10pm (local time),5963,11,"30,054","Newcastle
+KNIGHTS",4,6,8,"Penrith
+PANTHERS",8,20,12
+0,NSWRL 1990,Round 20,"Friday, 10th August, 1990",,5969,8,"14,031","Parramatta
+EELS",,12,11,"Newcastle
+KNIGHTS",,12,7
+0,NSWRL 1990,Round 20,"Saturday, 11th August, 1990",,5970,34,"7,241","Gold Coast
+SEAGULLS",,20,4,"St George
+DRAGONS",,12,10
+0,NSWRL 1990,Round 20,"Saturday, 11th August, 1990",,5971,25,"10,422","North Sydney
+BEARS",,8,5,"Manly Warringah
+SEA EAGLES",,15,10
+0,NSWRL 1990,Round 20,"Sunday, 12th August, 1990",,5975,9,"8,864","Cronulla Sutherland
+SHARKS",,12,9,"Canterbury Bankstown
+BULLDOGS",,38,3
+0,NSWRL 1990,Round 20,"Sunday, 12th August, 1990",,5976,76,"5,310","Eastern Suburbs
+ROOSTERS",,10,5,"Canberra
+RAIDERS",,26,8
+0,NSWRL 1990,Round 20,"Sunday, 12th August, 1990",,5974,3,"15,000","Penrith
+PANTHERS",,18,9,"Brisbane
+BRONCOS",,2,8
+0,NSWRL 1990,Round 20,"Sunday, 12th August, 1990",,5972,1,"4,291","South Sydney
+RABBITOHS",4,22,6,"Illawarra
+STEELERS",16,28,6
+0,NSWRL 1990,Round 20,"Sunday, 12th August, 1990",,5973,19,"11,477","Western Suburbs
+MAGPIES",,20,12,"Balmain
+TIGERS",,24,7
+0,NSWRL 1990,Round 21,"Friday, 17th August, 1990",,5977,22,"24,282","Brisbane
+BRONCOS",,24,7,"Newcastle
+KNIGHTS",,4,6
+0,NSWRL 1990,Round 21,"Saturday, 18th August, 1990",3:05pm (local time),5978,5,"5,500","Manly Warringah
+SEA EAGLES",14,18,6,"Western Suburbs
+MAGPIES",6,12,15
+0,NSWRL 1990,Round 21,"Sunday, 19th August, 1990",,5981,4,"8,382","Canberra
+RAIDERS",,30,4,"Gold Coast
+SEAGULLS",,6,9
+0,NSWRL 1990,Round 21,"Sunday, 19th August, 1990",,5982,27,"5,029","Canterbury Bankstown
+BULLDOGS",,26,9,"Eastern Suburbs
+ROOSTERS",,18,11
+0,NSWRL 1990,Round 21,"Sunday, 19th August, 1990",,5984,21,"9,951","Illawarra
+STEELERS",,34,8,"Cronulla Sutherland
+SHARKS",,0,5
+0,NSWRL 1990,Round 21,"Sunday, 19th August, 1990",,5983,3,"7,799","Penrith
+PANTHERS",,10,10,"North Sydney
+BEARS",,6,4
+0,NSWRL 1990,Round 21,"Sunday, 19th August, 1990",3:00pm (local time),5980,7,"14,943","Balmain
+TIGERS",,10,5,"Parramatta
+EELS",,14,9
+0,NSWRL 1990,Round 21,"Sunday, 19th August, 1990",3:00pm (local time),5979,23,"4,466","St George
+DRAGONS",,46,9,"South Sydney
+RABBITOHS",,24,8
+0,NSWRL 1990,Round 22,"Friday, 24th August, 1990",,5985,8,"23,071","Parramatta
+EELS",,14,5,"Manly Warringah
+SEA EAGLES",,30,3
+0,NSWRL 1990,Round 22,"Saturday, 25th August, 1990",,5987,34,"6,892","Gold Coast
+SEAGULLS",,12,8,"Canterbury Bankstown
+BULLDOGS",,18,12
+0,NSWRL 1990,Round 22,"Saturday, 25th August, 1990",3:05pm (local time),5986,25,"5,803","North Sydney
+BEARS",2,8,10,"Brisbane
+BRONCOS",0,14,11
+0,NSWRL 1990,Round 22,"Sunday, 26th August, 1990",,5992,76,"2,000","Eastern Suburbs
+ROOSTERS",,16,8,"Cronulla Sutherland
+SHARKS",,11,8
+0,NSWRL 1990,Round 22,"Sunday, 26th August, 1990",,5990,11,"32,217","Newcastle
+KNIGHTS",,16,7,"Balmain
+TIGERS",,14,9
+0,NSWRL 1990,Round 22,"Sunday, 26th August, 1990",,5988,23,"5,709","St George
+DRAGONS",,6,8,"Illawarra
+STEELERS",,10,8
+0,NSWRL 1990,Round 22,"Sunday, 26th August, 1990",,5991,1,"5,691","South Sydney
+RABBITOHS",,0,5,"Canberra
+RAIDERS",,48,5
+0,NSWRL 1990,Round 22,"Sunday, 26th August, 1990",,5989,19,"8,312","Western Suburbs
+MAGPIES",,22,7,"Penrith
+PANTHERS",,12,12
+0,NSWRL 1990,Playoff,"Tuesday, 28th August, 1990",,5993,8,"19,174","Balmain
+TIGERS",,12,10,"Newcastle
+KNIGHTS",,4,12
+0,NSWRL 1990,Minor Prelim Semi,"Saturday, 1st September, 1990",,5994,1,"30,965","Manly Warringah
+SEA EAGLES",,16,5,"Balmain
+TIGERS",,0,5
+0,NSWRL 1990,Major Prelim Semi,"Sunday, 2nd September, 1990",3:00pm (local time),5995,1,"24,409","Penrith
+PANTHERS",18,26,11,"Brisbane
+BRONCOS",2,16,7
+0,NSWRL 1990,Minor Semi,"Saturday, 8th September, 1990",3:00pm (local time),5996,1,"31,424","Brisbane
+BRONCOS",6,12,14,"Manly Warringah
+SEA EAGLES",2,4,6
+0,NSWRL 1990,Major Semi,"Sunday, 9th September, 1990",,5997,1,"35,263","Penrith
+PANTHERS",,30,4,"Canberra
+RAIDERS",,12,7
+0,NSWRL 1990,Prelim Final,"Sunday, 16th September, 1990",3:00pm (local time),5998,1,"31,628","Canberra
+RAIDERS",12,32,11,"Brisbane
+BRONCOS",0,4,6
+0,NSWRL 1990,Grand Final,"Sunday, 23rd September, 1990",,5999,1,"41,535","Canberra
+RAIDERS",12,18,4,"Penrith
+PANTHERS",6,14,7

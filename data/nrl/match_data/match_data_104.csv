@@ -1,0 +1,550 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2011,Round 1,"Friday, 11th March, 2011",7:30pm (local time),21483,1,"28,703","Sydney
+ROOSTERS",22,40,6,"South Sydney
+RABBITOHS",6,29,9
+0,NRL 2011,Round 1,"Friday, 11th March, 2011",7:30pm (local time),21484,1097,"45,119","Brisbane
+BRONCOS",4,14,6,"North Queensland
+COWBOYS",16,16,3
+0,NRL 2011,Round 1,"Saturday, 12th March, 2011",7:30pm (local time),21485,167,"38,405",WARRIORS,6,18,7,"Parramatta
+EELS",14,24,6
+0,NRL 2011,Round 1,"Saturday, 12th March, 2011",6:30pm (local time),21487,149,"21,709","Gold Coast
+TITANS",6,16,3,"St George Illawarra
+DRAGONS",12,25,4
+0,NRL 2011,Round 1,"Saturday, 12th March, 2011",7:30pm (local time),21486,251,"14,651","Melbourne
+STORM",6,18,5,"Manly Warringah
+SEA EAGLES",6,6,4
+0,NRL 2011,Round 1,"Sunday, 13th March, 2011",2:00pm (local time),21488,4,"13,450","Canberra
+RAIDERS",22,40,4,"Cronulla Sutherland
+SHARKS",6,12,8
+0,NRL 2011,Round 1,"Sunday, 13th March, 2011",3:00pm (local time),21489,3,"12,431","Penrith
+PANTHERS",2,8,8,"Newcastle
+KNIGHTS",22,42,8
+0,NRL 2011,Round 1,"Monday, 14th March, 2011",7:00pm (local time),21490,20,"26,737","Canterbury Bankstown
+BULLDOGS",6,24,6,WESTS TIGERS,4,14,6
+0,NRL 2011,Round 2,"Friday, 18th March, 2011",7:30pm (local time),21491,8,"15,974","Parramatta
+EELS",0,6,8,"Penrith
+PANTHERS",10,20,8
+0,NRL 2011,Round 2,"Friday, 18th March, 2011",8:30pm (local time),21492,4,"16,146","Canberra
+RAIDERS",4,4,6,"Brisbane
+BRONCOS",6,20,8
+0,NRL 2011,Round 2,"Saturday, 19th March, 2011",5:30pm (local time),21493,251,"12,391","Melbourne
+STORM",28,40,6,"Gold Coast
+TITANS",0,12,11
+0,NRL 2011,Round 2,"Saturday, 19th March, 2011",7:30pm (local time),21494,7,"13,161",WESTS TIGERS,6,20,6,WARRIORS,6,12,6
+0,NRL 2011,Round 2,"Saturday, 19th March, 2011",8:30pm (local time),21495,14,"14,061","North Queensland
+COWBOYS",6,22,8,"Newcastle
+KNIGHTS",16,34,4
+0,NRL 2011,Round 2,"Sunday, 20th March, 2011",2:00pm (local time),21496,20,"18,271","South Sydney
+RABBITOHS",8,19,5,"Canterbury Bankstown
+BULLDOGS",12,28,4
+0,NRL 2011,Round 2,"Sunday, 20th March, 2011",3:00pm (local time),21497,1,"11,016","Sydney
+ROOSTERS",10,16,6,"Manly Warringah
+SEA EAGLES",14,27,6
+0,NRL 2011,Round 2,"Monday, 21st March, 2011",7:00pm (local time),21498,9,"12,183","Cronulla Sutherland
+SHARKS",10,16,7,"St George Illawarra
+DRAGONS",0,10,8
+0,NRL 2011,Round 3,"Friday, 25th March, 2011",7:30pm (local time),21499,20,"22,153","Parramatta
+EELS",12,18,5,"South Sydney
+RABBITOHS",12,32,6
+0,NRL 2011,Round 3,"Friday, 25th March, 2011",7:30pm (local time),21500,149,"20,226","Gold Coast
+TITANS",6,8,7,"Brisbane
+BRONCOS",0,14,4
+0,NRL 2011,Round 3,"Saturday, 26th March, 2011",5:30pm (local time),21501,3,"9,275","Penrith
+PANTHERS",6,12,4,"Cronulla Sutherland
+SHARKS",24,44,10
+0,NRL 2011,Round 3,"Saturday, 26th March, 2011",6:30pm (local time),21506,19,"14,091",WESTS TIGERS,16,34,8,"Canberra
+RAIDERS",4,24,5
+0,NRL 2011,Round 3,"Sunday, 27th March, 2011",2:00pm (local time),21503,6,"11,651",WARRIORS,0,12,7,"St George Illawarra
+DRAGONS",18,25,2
+0,NRL 2011,Round 3,"Sunday, 27th March, 2011",2:00pm (local time),21504,20,"23,723","Canterbury Bankstown
+BULLDOGS",18,24,10,"Sydney
+ROOSTERS",14,20,8
+0,NRL 2011,Round 3,"Sunday, 27th March, 2011",3:00pm (local time),21505,5,"13,087","Manly Warringah
+SEA EAGLES",16,26,7,"Newcastle
+KNIGHTS",6,12,10
+0,NRL 2011,Round 3,"Monday, 28th March, 2011",7:00pm (local time),21502,14,"9,554","North Queensland
+COWBOYS",10,34,7,"Melbourne
+STORM",6,6,6
+0,NRL 2011,Round 4,"Friday, 1st April, 2011",7:30pm (local time),21507,26,"18,108","South Sydney
+RABBITOHS",16,32,5,"Manly Warringah
+SEA EAGLES",10,30,3
+0,NRL 2011,Round 4,"Friday, 1st April, 2011",7:30pm (local time),21508,1097,"25,263","Brisbane
+BRONCOS",6,18,9,"Penrith
+PANTHERS",10,10,5
+0,NRL 2011,Round 4,"Saturday, 2nd April, 2011",5:30pm (local time),21509,4,"12,165","Canberra
+RAIDERS",10,22,6,"Gold Coast
+TITANS",12,23,3
+0,NRL 2011,Round 4,"Saturday, 2nd April, 2011",7:30pm (local time),21510,8,"12,226","Parramatta
+EELS",10,22,6,"North Queensland
+COWBOYS",10,20,4
+0,NRL 2011,Round 4,"Sunday, 3rd April, 2011",2:00pm (local time),21511,306,"14,645","Cronulla Sutherland
+SHARKS",12,18,4,WARRIORS,8,26,5
+0,NRL 2011,Round 4,"Sunday, 3rd April, 2011",2:00pm (local time),21512,11,"20,986","Newcastle
+KNIGHTS",6,18,4,"St George Illawarra
+DRAGONS",14,20,4
+0,NRL 2011,Round 4,"Sunday, 3rd April, 2011",3:00pm (local time),21513,1,"20,479","Sydney
+ROOSTERS",12,24,7,WESTS TIGERS,0,6,7
+0,NRL 2011,Round 4,"Monday, 4th April, 2011",7:00pm (local time),21514,251,"11,592","Melbourne
+STORM",18,30,5,"Canterbury Bankstown
+BULLDOGS",4,16,5
+0,NRL 2011,Round 5,"Friday, 8th April, 2011",7:30pm (local time),21515,14,"13,651","North Queensland
+COWBOYS",22,22,10,"Gold Coast
+TITANS",0,12,9
+0,NRL 2011,Round 5,"Friday, 8th April, 2011",7:30pm (local time),21516,1,"22,677",WESTS TIGERS,12,30,8,"South Sydney
+RABBITOHS",6,6,5
+0,NRL 2011,Round 5,"Saturday, 9th April, 2011",7:30pm (local time),21517,6,"13,312",WARRIORS,10,24,9,"Sydney
+ROOSTERS",6,12,7
+0,NRL 2011,Round 5,"Saturday, 9th April, 2011",7:30pm (local time),21518,9,"15,133","Cronulla Sutherland
+SHARKS",7,13,4,"Manly Warringah
+SEA EAGLES",0,19,6
+0,NRL 2011,Round 5,"Saturday, 9th April, 2011",7:30pm (local time),21519,3,"10,229","Penrith
+PANTHERS",18,36,8,"Canberra
+RAIDERS",4,10,8
+0,NRL 2011,Round 5,"Sunday, 10th April, 2011",2:00pm (local time),21520,251,"11,805","Melbourne
+STORM",22,38,5,"Parramatta
+EELS",0,0,4
+0,NRL 2011,Round 5,"Sunday, 10th April, 2011",3:00pm (local time),21521,24,"31,122","St George Illawarra
+DRAGONS",9,25,4,"Canterbury Bankstown
+BULLDOGS",0,6,3
+0,NRL 2011,Round 5,"Monday, 11th April, 2011",7:00pm (local time),21522,1097,"24,522","Brisbane
+BRONCOS",8,17,8,"Newcastle
+KNIGHTS",6,6,6
+0,NRL 2011,Round 6,"Friday, 15th April, 2011",7:30pm (local time),22385,149,"17,221","Gold Coast
+TITANS",8,20,10,WESTS TIGERS,14,14,8
+0,NRL 2011,Round 6,"Friday, 15th April, 2011",7:30pm (local time),22384,20,"30,687","Parramatta
+EELS",14,14,5,"Canterbury Bankstown
+BULLDOGS",14,34,4
+0,NRL 2011,Round 6,"Saturday, 16th April, 2011",5:30pm (local time),22386,5,"8,680","Manly Warringah
+SEA EAGLES",14,20,7,WARRIORS,4,10,7
+0,NRL 2011,Round 6,"Saturday, 16th April, 2011",7:30pm (local time),22388,14,"10,741","North Queensland
+COWBOYS",24,26,11,"Canberra
+RAIDERS",6,18,4
+0,NRL 2011,Round 6,"Saturday, 16th April, 2011",7:30pm (local time),22387,26,"8,616","Sydney
+ROOSTERS",0,6,4,"Brisbane
+BRONCOS",12,24,5
+0,NRL 2011,Round 6,"Sunday, 17th April, 2011",2:00pm (local time),22389,11,"12,796","Newcastle
+KNIGHTS",18,24,3,"Cronulla Sutherland
+SHARKS",10,20,9
+0,NRL 2011,Round 6,"Sunday, 17th April, 2011",3:00pm (local time),22390,3,"11,137","Penrith
+PANTHERS",6,10,7,"Melbourne
+STORM",8,25,5
+0,NRL 2011,Round 6,"Monday, 18th April, 2011",7:00pm (local time),22391,20,"22,771","South Sydney
+RABBITOHS",0,0,6,"St George Illawarra
+DRAGONS",2,16,8
+0,NRL 2011,Round 7,"Friday, 22nd April, 2011",7:30pm (local time),22393,5,"14,623","Manly Warringah
+SEA EAGLES",10,22,7,"Penrith
+PANTHERS",4,16,9
+0,NRL 2011,Round 7,"Friday, 22nd April, 2011",7:30pm (local time),22392,1,"19,494",WESTS TIGERS,6,18,7,"Brisbane
+BRONCOS",25,31,9
+0,NRL 2011,Round 7,"Saturday, 23rd April, 2011",5:30pm (local time),22394,9,"7,340","Cronulla Sutherland
+SHARKS",0,12,7,"North Queensland
+COWBOYS",8,30,2
+0,NRL 2011,Round 7,"Saturday, 23rd April, 2011",7:30pm (local time),22395,20,"22,352","Canterbury Bankstown
+BULLDOGS",20,36,3,"South Sydney
+RABBITOHS",6,24,4
+0,NRL 2011,Round 7,"Sunday, 24th April, 2011",2:00pm (local time),22399,4,"11,879","Canberra
+RAIDERS",12,12,3,"Newcastle
+KNIGHTS",0,22,5
+0,NRL 2011,Round 7,"Sunday, 24th April, 2011",3:00pm (local time),22397,8,"10,052","Parramatta
+EELS",10,22,9,"Gold Coast
+TITANS",12,18,4
+0,NRL 2011,Round 7,"Monday, 25th April, 2011",4:00pm (local time),22398,1,"34,976","Sydney
+ROOSTERS",0,10,5,"St George Illawarra
+DRAGONS",6,24,3
+0,NRL 2011,Round 7,"Monday, 25th April, 2011",7:00pm (local time),22396,251,"22,694","Melbourne
+STORM",8,14,8,WARRIORS,18,18,5
+0,NRL 2011,Round 8,"Friday, 29th April, 2011",7:30pm (local time),22400,1097,"30,538","Brisbane
+BRONCOS",8,20,5,"Canterbury Bankstown
+BULLDOGS",6,12,3
+0,NRL 2011,Round 8,"Friday, 29th April, 2011",7:30pm (local time),22401,20,"9,263","South Sydney
+RABBITOHS",6,31,3,"Cronulla Sutherland
+SHARKS",12,12,3
+0,NRL 2011,Round 8,"Saturday, 30th April, 2011",5:30pm (local time),22402,149,"15,177","Gold Coast
+TITANS",6,24,5,"Sydney
+ROOSTERS",6,13,8
+0,NRL 2011,Round 8,"Saturday, 30th April, 2011",7:30pm (local time),22403,251,"9,460","Melbourne
+STORM",18,42,8,"Newcastle
+KNIGHTS",12,12,6
+0,NRL 2011,Round 8,"Saturday, 30th April, 2011",7:30pm (local time),22404,14,"14,884","North Queensland
+COWBOYS",16,22,6,"Manly Warringah
+SEA EAGLES",4,20,3
+0,NRL 2011,Round 8,"Sunday, 1st May, 2011",2:00pm (local time),22405,6,"11,412",WARRIORS,6,26,8,"Penrith
+PANTHERS",6,18,5
+0,NRL 2011,Round 8,"Sunday, 1st May, 2011",2:00pm (local time),22406,4,"13,425","Canberra
+RAIDERS",6,12,5,WESTS TIGERS,24,49,6
+0,NRL 2011,Round 8,"Sunday, 1st May, 2011",3:00pm (local time),22407,23,"19,319","St George Illawarra
+DRAGONS",22,30,4,"Parramatta
+EELS",0,0,2
+0,NRL 2011,Round 9,"Saturday, 7th May, 2011",7:30pm (local time),22408,1097,"34,175","Brisbane
+BRONCOS",6,22,7,"Melbourne
+STORM",12,29,3
+0,NRL 2011,Round 9,"Sunday, 8th May, 2011",2:00pm (local time),22409,149,"17,285","Gold Coast
+TITANS",8,14,6,WARRIORS,22,34,2
+0,NRL 2011,Round 9,"Sunday, 8th May, 2011",3:00pm (local time),22410,23,"13,056","St George Illawarra
+DRAGONS",18,22,3,"North Queensland
+COWBOYS",2,8,2
+0,NRL 2011,Round 9,"Monday, 9th May, 2011",7:00pm (local time),22411,5,"6,148","Manly Warringah
+SEA EAGLES",10,20,5,"Canberra
+RAIDERS",0,0,4
+0,NRL 2011,Round 10,"Friday, 13th May, 2011",7:30pm (local time),22412,20,"34,322","Canterbury Bankstown
+BULLDOGS",0,10,2,"St George Illawarra
+DRAGONS",15,15,7
+0,NRL 2011,Round 10,"Friday, 13th May, 2011",7:30pm (local time),22413,3,"11,336","Penrith
+PANTHERS",12,33,5,"Brisbane
+BRONCOS",10,10,9
+0,NRL 2011,Round 10,"Saturday, 14th May, 2011",5:30pm (local time),22414,251,"9,628","Melbourne
+STORM",6,12,6,"Canberra
+RAIDERS",12,20,5
+0,NRL 2011,Round 10,"Saturday, 14th May, 2011",7:30pm (local time),22416,14,"13,610","North Queensland
+COWBOYS",10,40,3,"Parramatta
+EELS",16,26,3
+0,NRL 2011,Round 10,"Saturday, 14th May, 2011",7:30pm (local time),22415,20,"18,245","South Sydney
+RABBITOHS",27,29,5,WESTS TIGERS,0,18,4
+0,NRL 2011,Round 10,"Sunday, 15th May, 2011",2:00pm (local time),22417,11,"18,158","Newcastle
+KNIGHTS",16,16,4,WARRIORS,12,25,2
+0,NRL 2011,Round 10,"Sunday, 15th May, 2011",3:00pm (local time),22418,9,"14,459","Cronulla Sutherland
+SHARKS",8,18,7,"Sydney
+ROOSTERS",4,4,4
+0,NRL 2011,Round 10,"Monday, 16th May, 2011",7:00pm (local time),22419,149,"12,360","Gold Coast
+TITANS",6,12,5,"Manly Warringah
+SEA EAGLES",10,16,6
+0,NRL 2011,Round 11,"Friday, 20th May, 2011",7:30pm (local time),22420,4,"12,865","Canberra
+RAIDERS",10,20,4,"Canterbury Bankstown
+BULLDOGS",0,12,4
+0,NRL 2011,Round 11,"Saturday, 21st May, 2011",7:30pm (local time),22421,19,"16,172",WESTS TIGERS,10,20,8,"Penrith
+PANTHERS",12,18,6
+0,NRL 2011,Round 11,"Sunday, 22nd May, 2011",4:00pm (local time),22422,6,"16,872",WARRIORS,6,12,3,"South Sydney
+RABBITOHS",0,6,3
+0,NRL 2011,Round 11,"Sunday, 22nd May, 2011",3:00pm (local time),22423,1,"10,146","Sydney
+ROOSTERS",6,12,6,"Newcastle
+KNIGHTS",0,10,4
+0,NRL 2011,Round 11,"Monday, 23rd May, 2011",7:00pm (local time),22424,8,"10,628","Parramatta
+EELS",22,40,7,"Cronulla Sutherland
+SHARKS",0,6,5
+0,NRL 2011,Round 12,"Friday, 27th May, 2011",7:00pm (local time),22466,1097,"32,283","Manly Warringah
+SEA EAGLES",4,34,3,"Brisbane
+BRONCOS",10,10,7
+0,NRL 2011,Round 12,"Friday, 27th May, 2011",8:45pm (local time),22467,1097,"32,283","Canterbury Bankstown
+BULLDOGS",16,28,7,"Gold Coast
+TITANS",0,6,9
+0,NRL 2011,Round 12,"Saturday, 28th May, 2011",5:30pm (local time),22468,11,"18,723","Newcastle
+KNIGHTS",6,8,8,"Parramatta
+EELS",0,6,5
+0,NRL 2011,Round 12,"Saturday, 28th May, 2011",7:30pm (local time),22469,14,"13,335","North Queensland
+COWBOYS",8,20,7,"Sydney
+ROOSTERS",0,6,5
+0,NRL 2011,Round 12,"Sunday, 29th May, 2011",2:00pm (local time),22470,251,"9,733","Melbourne
+STORM",0,14,6,"Cronulla Sutherland
+SHARKS",0,8,8
+0,NRL 2011,Round 12,"Sunday, 29th May, 2011",3:00pm (local time),22471,23,"19,892","St George Illawarra
+DRAGONS",20,24,5,WESTS TIGERS,6,18,8
+0,NRL 2011,Round 12,"Monday, 30th May, 2011",7:00pm (local time),22472,3,"5,703","Penrith
+PANTHERS",16,22,6,"South Sydney
+RABBITOHS",4,10,6
+0,NRL 2011,Round 13,"Friday, 3rd June, 2011",7:30pm (local time),22474,9,"14,436","Cronulla Sutherland
+SHARKS",10,16,4,"Brisbane
+BRONCOS",16,34,5
+0,NRL 2011,Round 13,"Friday, 3rd June, 2011",7:30pm (local time),22473,8,"16,066","Parramatta
+EELS",14,14,6,"St George Illawarra
+DRAGONS",6,14,1
+0,NRL 2011,Round 13,"Saturday, 4th June, 2011",5:30pm (local time),22475,149,"12,262","Gold Coast
+TITANS",4,10,4,"Penrith
+PANTHERS",10,23,3
+0,NRL 2011,Round 13,"Saturday, 4th June, 2011",7:30pm (local time),22476,20,"19,830","Canterbury Bankstown
+BULLDOGS",0,4,3,"Manly Warringah
+SEA EAGLES",22,38,4
+0,NRL 2011,Round 13,"Saturday, 4th June, 2011",7:30pm (local time),22477,1,"10,116","Sydney
+ROOSTERS",12,13,8,WARRIORS,0,6,8
+0,NRL 2011,Round 13,"Sunday, 5th June, 2011",2:00pm (local time),22478,4,"11,128","Canberra
+RAIDERS",22,24,4,"North Queensland
+COWBOYS",18,40,5
+0,NRL 2011,Round 13,"Sunday, 5th June, 2011",3:00pm (local time),22479,20,"11,528","South Sydney
+RABBITOHS",6,6,6,"Melbourne
+STORM",10,16,1
+0,NRL 2011,Round 13,"Monday, 6th June, 2011",7:00pm (local time),22480,7,"18,021",WESTS TIGERS,10,17,9,"Newcastle
+KNIGHTS",10,16,2
+0,NRL 2011,Round 14,"Friday, 10th June, 2011",7:45pm (local time),23394,23,"10,139","St George Illawarra
+DRAGONS",8,14,3,"Gold Coast
+TITANS",4,28,4
+0,NRL 2011,Round 14,"Saturday, 11th June, 2011",7:30pm (local time),23395,5,"8,452","Manly Warringah
+SEA EAGLES",12,24,5,"North Queensland
+COWBOYS",0,4,8
+0,NRL 2011,Round 14,"Sunday, 12th June, 2011",2:00pm (local time),23396,1097,"21,378","Brisbane
+BRONCOS",18,25,6,"Canberra
+RAIDERS",0,24,3
+0,NRL 2011,Round 14,"Sunday, 12th June, 2011",4:00pm (local time),23397,6,"15,889",WARRIORS,8,22,5,WESTS TIGERS,4,26,5
+0,NRL 2011,Round 14,"Monday, 13th June, 2011",7:00pm (local time),23398,251,"9,843","Melbourne
+STORM",8,21,9,"Sydney
+ROOSTERS",4,4,3
+0,NRL 2011,Round 15,"Friday, 17th June, 2011",7:30pm (local time),23407,1097,"34,185","Brisbane
+BRONCOS",14,21,4,"St George Illawarra
+DRAGONS",4,14,1
+0,NRL 2011,Round 15,"Friday, 17th June, 2011",7:30pm (local time),23408,20,"8,021","South Sydney
+RABBITOHS",14,31,7,"Gold Coast
+TITANS",0,8,7
+0,NRL 2011,Round 15,"Saturday, 18th June, 2011",5:30pm (local time),23409,11,"16,652","Newcastle
+KNIGHTS",8,16,8,"Penrith
+PANTHERS",0,12,6
+0,NRL 2011,Round 15,"Saturday, 18th June, 2011",7:30pm (local time),23410,14,"16,081","North Queensland
+COWBOYS",8,30,4,WARRIORS,10,10,4
+0,NRL 2011,Round 15,"Sunday, 19th June, 2011",2:00pm (local time),23411,20,"14,879","Canterbury Bankstown
+BULLDOGS",10,10,7,"Cronulla Sutherland
+SHARKS",12,26,7
+0,NRL 2011,Round 15,"Sunday, 19th June, 2011",3:00pm (local time),23412,7,"20,486",WESTS TIGERS,4,4,11,"Melbourne
+STORM",12,12,7
+0,NRL 2011,Round 15,"Monday, 20th June, 2011",7:00pm (local time),23413,5,"13,959","Manly Warringah
+SEA EAGLES",14,22,4,"Parramatta
+EELS",8,18,2
+0,NRL 2011,Round 16,"Friday, 24th June, 2011",7:30pm (local time),23423,19,"19,252",WESTS TIGERS,0,6,8,"Canterbury Bankstown
+BULLDOGS",6,16,5
+0,NRL 2011,Round 16,"Friday, 24th June, 2011",7:00pm (local time),23422,47,"15,371","South Sydney
+RABBITOHS",14,16,8,"Brisbane
+BRONCOS",6,12,2
+0,NRL 2011,Round 16,"Saturday, 25th June, 2011",5:30pm (local time),23424,149,"12,997","Gold Coast
+TITANS",8,12,5,"Cronulla Sutherland
+SHARKS",12,36,11
+0,NRL 2011,Round 16,"Saturday, 25th June, 2011",7:30pm (local time),23425,4,"13,457","Canberra
+RAIDERS",14,25,5,"Parramatta
+EELS",0,12,4
+0,NRL 2011,Round 16,"Sunday, 26th June, 2011",2:00pm (local time),23426,6,"13,362",WARRIORS,2,8,7,"Melbourne
+STORM",10,16,4
+0,NRL 2011,Round 16,"Sunday, 26th June, 2011",2:00pm (local time),23427,3,"14,090","Penrith
+PANTHERS",14,30,7,"North Queensland
+COWBOYS",10,20,6
+0,NRL 2011,Round 16,"Sunday, 26th June, 2011",3:00pm (local time),23428,11,"22,326","Newcastle
+KNIGHTS",12,18,5,"Sydney
+ROOSTERS",4,10,2
+0,NRL 2011,Round 16,"Monday, 27th June, 2011",7:00pm (local time),23429,21,"18,974","St George Illawarra
+DRAGONS",12,24,9,"Manly Warringah
+SEA EAGLES",0,6,6
+0,NRL 2011,Round 17,"Friday, 1st July, 2011",7:45pm (local time),23430,8,"11,079","Parramatta
+EELS",0,12,5,"Brisbane
+BRONCOS",6,16,2
+0,NRL 2011,Round 17,"Saturday, 2nd July, 2011",7:30pm (local time),23431,3,"15,383","Penrith
+PANTHERS",12,20,7,"Canterbury Bankstown
+BULLDOGS",0,6,7
+0,NRL 2011,Round 17,"Sunday, 3rd July, 2011",2:00pm (local time),23432,9,"18,829","Cronulla Sutherland
+SHARKS",20,26,7,"South Sydney
+RABBITOHS",0,4,6
+0,NRL 2011,Round 17,"Sunday, 3rd July, 2011",3:00pm (local time),23433,21,"17,205","St George Illawarra
+DRAGONS",6,10,9,"Newcastle
+KNIGHTS",0,14,4
+0,NRL 2011,Round 17,"Monday, 4th July, 2011",7:00pm (local time),23434,1,"9,817","Sydney
+ROOSTERS",12,12,3,"Canberra
+RAIDERS",18,38,5
+0,NRL 2011,Round 18,"Friday, 8th July, 2011",8:30pm (local time),23436,6,"10,780",WARRIORS,10,22,5,"Gold Coast
+TITANS",6,6,6
+0,NRL 2011,Round 18,"Friday, 8th July, 2011",7:30pm (local time),23435,8,"19,654","Parramatta
+EELS",6,22,6,WESTS TIGERS,0,6,5
+0,NRL 2011,Round 18,"Saturday, 9th July, 2011",5:30pm (local time),23437,9,"10,303","Cronulla Sutherland
+SHARKS",14,26,3,"Canberra
+RAIDERS",12,12,3
+0,NRL 2011,Round 18,"Saturday, 9th July, 2011",7:30pm (local time),23438,33,"9,963","Canterbury Bankstown
+BULLDOGS",6,18,7,"Melbourne
+STORM",16,28,3
+0,NRL 2011,Round 18,"Sunday, 10th July, 2011",2:00pm (local time),23439,1,"9,713","Sydney
+ROOSTERS",22,34,8,"Penrith
+PANTHERS",14,26,7
+0,NRL 2011,Round 18,"Sunday, 10th July, 2011",3:00pm (local time),23440,5,"19,856","Manly Warringah
+SEA EAGLES",16,36,8,"South Sydney
+RABBITOHS",8,22,5
+0,NRL 2011,Round 18,"Monday, 11th July, 2011",7:00pm (local time),23441,11,"17,212","Newcastle
+KNIGHTS",6,12,4,"North Queensland
+COWBOYS",6,22,3
+0,NRL 2011,Round 19,"Friday, 15th July, 2011",8:30pm (local time),23443,6,"12,012",WARRIORS,12,36,5,"Canterbury Bankstown
+BULLDOGS",12,12,5
+0,NRL 2011,Round 19,"Friday, 15th July, 2011",7:30pm (local time),23442,1097,"31,035","Brisbane
+BRONCOS",10,30,6,"Gold Coast
+TITANS",10,10,12
+0,NRL 2011,Round 19,"Saturday, 16th July, 2011",5:30pm (local time),23444,20,"14,671","South Sydney
+RABBITOHS",6,21,7,"Sydney
+ROOSTERS",10,20,3
+0,NRL 2011,Round 19,"Saturday, 16th July, 2011",7:30pm (local time),23445,14,"12,880","North Queensland
+COWBOYS",4,18,1,WESTS TIGERS,12,38,5
+0,NRL 2011,Round 19,"Saturday, 16th July, 2011",7:30pm (local time),23446,3,"17,333","Penrith
+PANTHERS",12,23,4,"Parramatta
+EELS",12,22,8
+0,NRL 2011,Round 19,"Sunday, 17th July, 2011",2:00pm (local time),23447,4,"11,853","Canberra
+RAIDERS",0,0,5,"Melbourne
+STORM",10,26,5
+0,NRL 2011,Round 19,"Sunday, 17th July, 2011",3:00pm (local time),23448,11,"21,798","Newcastle
+KNIGHTS",0,10,4,"Manly Warringah
+SEA EAGLES",22,32,5
+0,NRL 2011,Round 19,"Monday, 18th July, 2011",7:00pm (local time),23449,23,"16,879","St George Illawarra
+DRAGONS",24,38,8,"Cronulla Sutherland
+SHARKS",0,8,6
+0,NRL 2011,Round 20,"Friday, 22nd July, 2011",7:30pm (local time),23450,20,"15,126","Canterbury Bankstown
+BULLDOGS",6,8,8,"Parramatta
+EELS",0,7,6
+0,NRL 2011,Round 20,"Friday, 22nd July, 2011",7:30pm (local time),23451,251,"22,912","Melbourne
+STORM",6,26,4,"Brisbane
+BRONCOS",6,6,2
+0,NRL 2011,Round 20,"Saturday, 23rd July, 2011",5:30pm (local time),23452,149,"15,741","Gold Coast
+TITANS",14,20,4,"North Queensland
+COWBOYS",6,28,3
+0,NRL 2011,Round 20,"Saturday, 23rd July, 2011",7:30pm (local time),23454,9,"6,513","Cronulla Sutherland
+SHARKS",0,0,9,"Newcastle
+KNIGHTS",2,18,7
+0,NRL 2011,Round 20,"Saturday, 23rd July, 2011",7:30pm (local time),23453,7,"10,178",WESTS TIGERS,8,19,9,"Sydney
+ROOSTERS",12,12,5
+0,NRL 2011,Round 20,"Sunday, 24th July, 2011",2:00pm (local time),23455,20,"11,208","South Sydney
+RABBITOHS",4,16,5,WARRIORS,24,48,3
+0,NRL 2011,Round 20,"Sunday, 24th July, 2011",3:00pm (local time),23456,3,"13,832","Penrith
+PANTHERS",0,8,10,"Manly Warringah
+SEA EAGLES",6,12,3
+0,NRL 2011,Round 20,"Monday, 25th July, 2011",7:00pm (local time),23457,4,"10,425","Canberra
+RAIDERS",6,24,4,"St George Illawarra
+DRAGONS",18,19,6
+0,NRL 2011,Round 21,"Friday, 29th July, 2011",7:30pm (local time),23458,1097,"24,164","Brisbane
+BRONCOS",34,46,5,"Cronulla Sutherland
+SHARKS",6,16,4
+0,NRL 2011,Round 21,"Friday, 29th July, 2011",7:30pm (local time),23459,26,"20,059","Manly Warringah
+SEA EAGLES",12,12,4,WESTS TIGERS,0,14,4
+0,NRL 2011,Round 21,"Saturday, 30th July, 2011",5:30pm (local time),23460,1,"11,926","Sydney
+ROOSTERS",16,32,7,"Canterbury Bankstown
+BULLDOGS",12,28,2
+0,NRL 2011,Round 21,"Saturday, 30th July, 2011",7:30pm (local time),23461,14,"12,349","North Queensland
+COWBOYS",6,30,6,"Penrith
+PANTHERS",12,18,4
+0,NRL 2011,Round 21,"Sunday, 31st July, 2011",2:00pm (local time),23463,6,"13,615",WARRIORS,8,29,2,"Canberra
+RAIDERS",10,10,6
+0,NRL 2011,Round 21,"Sunday, 31st July, 2011",2:00pm (local time),23462,11,"17,327","Newcastle
+KNIGHTS",16,50,6,"Gold Coast
+TITANS",12,20,3
+0,NRL 2011,Round 21,"Sunday, 31st July, 2011",3:00pm (local time),23464,21,"18,980","St George Illawarra
+DRAGONS",20,24,4,"South Sydney
+RABBITOHS",6,34,1
+0,NRL 2011,Round 21,"Monday, 1st August, 2011",7:00pm (local time),23465,8,"10,078","Parramatta
+EELS",8,18,11,"Melbourne
+STORM",0,22,4
+0,NRL 2011,Round 22,"Friday, 5th August, 2011",7:30pm (local time),23466,20,"8,654","Canterbury Bankstown
+BULLDOGS",6,14,9,"North Queensland
+COWBOYS",0,6,7
+0,NRL 2011,Round 22,"Friday, 5th August, 2011",7:30pm (local time),23467,1,"27,687",WESTS TIGERS,0,16,4,"St George Illawarra
+DRAGONS",2,14,3
+0,NRL 2011,Round 22,"Saturday, 6th August, 2011",5:30pm (local time),23468,251,"12,162","Melbourne
+STORM",6,26,8,"Penrith
+PANTHERS",6,6,4
+0,NRL 2011,Round 22,"Saturday, 6th August, 2011",7:30pm (local time),23470,1097,"37,173","Brisbane
+BRONCOS",8,21,5,WARRIORS,12,20,3
+0,NRL 2011,Round 22,"Saturday, 6th August, 2011",7:30pm (local time),23469,9,"6,313","Cronulla Sutherland
+SHARKS",4,16,10,"Gold Coast
+TITANS",12,20,3
+0,NRL 2011,Round 22,"Sunday, 7th August, 2011",2:00pm (local time),23471,11,"14,109","Newcastle
+KNIGHTS",22,40,5,"Canberra
+RAIDERS",4,8,4
+0,NRL 2011,Round 22,"Sunday, 7th August, 2011",3:00pm (local time),23472,5,"13,743","Manly Warringah
+SEA EAGLES",12,36,6,"Sydney
+ROOSTERS",0,8,7
+0,NRL 2011,Round 22,"Monday, 8th August, 2011",7:00pm (local time),23473,20,"13,908","South Sydney
+RABBITOHS",34,56,6,"Parramatta
+EELS",0,6,4
+0,NRL 2011,Round 23,"Friday, 12th August, 2011",7:30pm (local time),23545,14,"26,463","North Queensland
+COWBOYS",10,16,6,"Brisbane
+BRONCOS",18,34,6
+0,NRL 2011,Round 23,"Friday, 12th August, 2011",7:30pm (local time),23544,3,"15,192","Penrith
+PANTHERS",6,18,7,WESTS TIGERS,16,32,4
+0,NRL 2011,Round 23,"Saturday, 13th August, 2011",7:30pm (local time),23546,6,"13,279",WARRIORS,4,20,6,"Newcastle
+KNIGHTS",12,12,7
+0,NRL 2011,Round 23,"Saturday, 13th August, 2011",7:30pm (local time),23548,149,"11,663","Gold Coast
+TITANS",6,16,8,"Melbourne
+STORM",22,40,5
+0,NRL 2011,Round 23,"Saturday, 13th August, 2011",7:30pm (local time),23547,8,"11,102","Parramatta
+EELS",14,20,6,"Manly Warringah
+SEA EAGLES",6,26,3
+0,NRL 2011,Round 23,"Sunday, 14th August, 2011",2:00pm (local time),23549,4,"12,150","Canberra
+RAIDERS",6,18,4,"South Sydney
+RABBITOHS",24,47,3
+0,NRL 2011,Round 23,"Sunday, 14th August, 2011",3:00pm (local time),23550,21,"14,141","St George Illawarra
+DRAGONS",12,12,7,"Sydney
+ROOSTERS",10,20,6
+0,NRL 2011,Round 23,"Monday, 15th August, 2011",7:00pm (local time),23551,9,"8,089","Cronulla Sutherland
+SHARKS",6,12,5,"Canterbury Bankstown
+BULLDOGS",12,19,5
+0,NRL 2011,Round 24,"Friday, 19th August, 2011",7:30pm (local time),23552,251,"24,081","Melbourne
+STORM",8,8,4,"St George Illawarra
+DRAGONS",6,6,3
+0,NRL 2011,Round 24,"Friday, 19th August, 2011",7:30pm (local time),23553,20,"11,208","South Sydney
+RABBITOHS",12,26,8,"North Queensland
+COWBOYS",12,24,3
+0,NRL 2011,Round 24,"Saturday, 20th August, 2011",5:30pm (local time),23554,149,"10,230","Gold Coast
+TITANS",12,26,7,"Canberra
+RAIDERS",6,18,4
+0,NRL 2011,Round 24,"Saturday, 20th August, 2011",7:30pm (local time),23555,3,"11,644","Penrith
+PANTHERS",0,12,5,WARRIORS,16,26,5
+0,NRL 2011,Round 24,"Saturday, 20th August, 2011",7:30pm (local time),23556,1,"8,761","Sydney
+ROOSTERS",12,36,7,"Cronulla Sutherland
+SHARKS",22,25,9
+0,NRL 2011,Round 24,"Sunday, 21st August, 2011",2:00pm (local time),23557,5,"12,250","Manly Warringah
+SEA EAGLES",7,27,7,"Canterbury Bankstown
+BULLDOGS",10,16,6
+0,NRL 2011,Round 24,"Sunday, 21st August, 2011",3:00pm (local time),23558,1,"18,626",WESTS TIGERS,16,31,7,"Parramatta
+EELS",0,12,5
+0,NRL 2011,Round 24,"Monday, 22nd August, 2011",7:00pm (local time),23559,11,"19,412","Newcastle
+KNIGHTS",6,6,6,"Brisbane
+BRONCOS",10,26,7
+0,NRL 2011,Round 25,"Friday, 26th August, 2011",7:30pm (local time),23561,5,"20,414","Manly Warringah
+SEA EAGLES",14,18,8,"Melbourne
+STORM",0,4,2
+0,NRL 2011,Round 25,"Friday, 26th August, 2011",7:30pm (local time),23562,8,"12,097","Parramatta
+EELS",6,12,5,"Sydney
+ROOSTERS",0,13,4
+0,NRL 2011,Round 25,"Saturday, 27th August, 2011",5:30pm (local time),23563,20,"10,257","Canterbury Bankstown
+BULLDOGS",6,32,5,"Newcastle
+KNIGHTS",22,22,6
+0,NRL 2011,Round 25,"Saturday, 27th August, 2011",7:30pm (local time),23565,4,"10,085","Canberra
+RAIDERS",12,18,8,"Penrith
+PANTHERS",6,19,6
+0,NRL 2011,Round 25,"Saturday, 27th August, 2011",7:30pm (local time),23564,14,"12,655","North Queensland
+COWBOYS",6,28,7,"Cronulla Sutherland
+SHARKS",14,20,3
+0,NRL 2011,Round 25,"Sunday, 28th August, 2011",2:00pm (local time),23566,21,"15,732","St George Illawarra
+DRAGONS",10,26,6,WARRIORS,16,22,6
+0,NRL 2011,Round 25,"Sunday, 28th August, 2011",3:00pm (local time),23567,1097,"40,094","Brisbane
+BRONCOS",18,22,6,"South Sydney
+RABBITOHS",10,10,2
+0,NRL 2011,Round 25,"Monday, 29th August, 2011",7:00pm (local time),23568,19,"14,378",WESTS TIGERS,22,39,9,"Gold Coast
+TITANS",4,10,5
+0,NRL 2011,Round 26,"Friday, 2nd September, 2011",7:30pm (local time),23569,11,"30,729","Newcastle
+KNIGHTS",30,40,2,"South Sydney
+RABBITOHS",6,24,2
+0,NRL 2011,Round 26,"Friday, 2nd September, 2011",7:30pm (local time),23570,21,"13,621","St George Illawarra
+DRAGONS",12,32,3,"Penrith
+PANTHERS",0,12,7
+0,NRL 2011,Round 26,"Saturday, 3rd September, 2011",7:30pm (local time),23571,6,"20,082",WARRIORS,12,18,7,"North Queensland
+COWBOYS",6,6,7
+0,NRL 2011,Round 26,"Saturday, 3rd September, 2011",7:30pm (local time),23572,9,"16,879","Cronulla Sutherland
+SHARKS",12,22,6,WESTS TIGERS,20,30,3
+0,NRL 2011,Round 26,"Saturday, 3rd September, 2011",7:30pm (local time),23573,149,"18,265","Gold Coast
+TITANS",0,12,5,"Parramatta
+EELS",22,32,5
+0,NRL 2011,Round 26,"Sunday, 4th September, 2011",2:00pm (local time),23574,20,"16,206","Canterbury Bankstown
+BULLDOGS",8,36,5,"Canberra
+RAIDERS",12,22,3
+0,NRL 2011,Round 26,"Sunday, 4th September, 2011",4:00pm (local time),23575,1097,"50,859","Brisbane
+BRONCOS",14,18,9,"Manly Warringah
+SEA EAGLES",0,10,4
+0,NRL 2011,Round 26,"Sunday, 4th September, 2011",7:00pm (local time),23576,1,"8,753","Sydney
+ROOSTERS",22,40,10,"Melbourne
+STORM",4,8,7
+0,NRL 2011,Qualif Final,"Friday, 9th September, 2011",7:45pm (local time),23608,20,"45,631",WESTS TIGERS,6,21,3,"St George Illawarra
+DRAGONS",12,12,4
+0,NRL 2011,Qualif Final,"Saturday, 10th September, 2011",6:30pm (local time),23609,1097,"48,943","Brisbane
+BRONCOS",18,40,5,WARRIORS,0,10,3
+0,NRL 2011,Qualif Final,"Saturday, 10th September, 2011",8:30pm (local time),23610,1,"13,972","Manly Warringah
+SEA EAGLES",0,42,8,"North Queensland
+COWBOYS",8,8,6
+0,NRL 2011,Qualif Final,"Sunday, 11th September, 2011",4:00pm (local time),23611,251,"14,845","Melbourne
+STORM",16,18,8,"Newcastle
+KNIGHTS",0,8,7
+0,NRL 2011,Semi Final,"Friday, 16th September, 2011",7:45pm (local time),23612,1,"27,109",WESTS TIGERS,18,20,9,WARRIORS,6,22,4
+0,NRL 2011,Semi Final,"Saturday, 17th September, 2011",6:45pm (local time),23613,1097,"48,474","Brisbane
+BRONCOS",6,13,6,"St George Illawarra
+DRAGONS",0,12,2
+0,NRL 2011,Prelim Final,"Friday, 23rd September, 2011",7:45pm (local time),23620,1,"31,894","Manly Warringah
+SEA EAGLES",16,26,8,"Brisbane
+BRONCOS",4,14,6
+0,NRL 2011,Prelim Final,"Saturday, 24th September, 2011",7:45pm (local time),23621,251,"28,580","Melbourne
+STORM",12,12,1,WARRIORS,14,20,4
+0,NRL 2011,Grand Final,"Sunday, 2nd October, 2011",5:00pm (local time),23622,20,"81,988","Manly Warringah
+SEA EAGLES",12,24,3,WARRIORS,2,10,3

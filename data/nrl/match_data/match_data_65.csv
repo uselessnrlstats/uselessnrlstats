@@ -1,0 +1,395 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1973,Round 1,"Saturday, 24th March, 1973",2:30pm (local time),13151,44,"8,820","South Sydney
+RABBITOHS",12,19,11,"Parramatta
+EELS",10,36,10
+0,NSWRFL 1973,Round 1,"Sunday, 25th March, 1973",2:30pm (local time),13152,7,"12,580","Balmain
+TIGERS",11,14,11,"St George
+DRAGONS",2,29,14
+0,NSWRFL 1973,Round 1,"Sunday, 25th March, 1973",2:30pm (local time),13153,9,"6,558","Cronulla Sutherland
+SHARKS",13,21,11,"Newtown
+JETS",6,18,9
+0,NSWRFL 1973,Round 1,"Sunday, 25th March, 1973",2:30pm (local time),13155,5,"14,154","Manly Warringah
+SEA EAGLES",5,12,15,CANTERBURY BANKSTOWN,7,12,7
+0,NSWRFL 1973,Round 1,"Sunday, 25th March, 1973",2:30pm (local time),13156,3,"5,069","Penrith
+PANTHERS",10,20,9,"Eastern Suburbs
+ROOSTERS",5,9,9
+0,NSWRFL 1973,Round 1,"Sunday, 25th March, 1973",2:30pm (local time),13154,110,"4,961","Western Suburbs
+MAGPIES",2,6,14,"North Sydney
+BEARS",16,23,7
+0,NSWRFL 1973,Round 2,"Saturday, 31st March, 1973",2:30pm (local time),13158,76,"5,782","Newtown
+JETS",11,12,10,CANTERBURY BANKSTOWN,2,6,7
+0,NSWRFL 1973,Round 2,"Saturday, 31st March, 1973",2:30pm (local time),13157,109,"14,444","St George
+DRAGONS",0,0,15,"Manly Warringah
+SEA EAGLES",3,13,9
+0,NSWRFL 1973,Round 2,"Sunday, 1st April, 1973",2:30pm (local time),13162,109,"8,366","Eastern Suburbs
+ROOSTERS",15,20,9,"Cronulla Sutherland
+SHARKS",12,17,13
+0,NSWRFL 1973,Round 2,"Sunday, 1st April, 1973",2:30pm (local time),13161,25,"9,055","North Sydney
+BEARS",4,8,10,"Balmain
+TIGERS",4,11,13
+0,NSWRFL 1973,Round 2,"Sunday, 1st April, 1973",2:30pm (local time),13159,111,"8,614","Parramatta
+EELS",20,27,17,"Western Suburbs
+MAGPIES",8,18,10
+0,NSWRFL 1973,Round 2,"Sunday, 1st April, 1973",2:30pm (local time),13160,44,"6,697","South Sydney
+RABBITOHS",11,22,10,"Penrith
+PANTHERS",6,12,10
+0,NSWRFL 1973,Round 3,"Saturday, 7th April, 1973",2:30pm (local time),13163,24,"10,850","Manly Warringah
+SEA EAGLES",8,10,9,"Newtown
+JETS",18,20,12
+0,NSWRFL 1973,Round 3,"Saturday, 7th April, 1973",2:30pm (local time),13164,25,"6,590","North Sydney
+BEARS",2,4,13,"St George
+DRAGONS",18,31,8
+0,NSWRFL 1973,Round 3,"Sunday, 8th April, 1973",2:30pm (local time),13166,7,"9,483","Balmain
+TIGERS",10,23,16,"Parramatta
+EELS",5,16,9
+0,NSWRFL 1973,Round 3,"Sunday, 8th April, 1973",2:30pm (local time),13167,27,"11,456",CANTERBURY BANKSTOWN,10,15,13,"Eastern Suburbs
+ROOSTERS",10,14,12
+0,NSWRFL 1973,Round 3,"Sunday, 8th April, 1973",2:30pm (local time),13168,9,"10,054","Cronulla Sutherland
+SHARKS",2,15,13,"South Sydney
+RABBITOHS",5,14,11
+0,NSWRFL 1973,Round 3,"Sunday, 8th April, 1973",2:30pm (local time),13165,3,"5,099","Penrith
+PANTHERS",0,9,9,"Western Suburbs
+MAGPIES",8,16,10
+0,NSWRFL 1973,Round 4,"Saturday, 14th April, 1973",2:30pm (local time),13169,24,"12,430","Eastern Suburbs
+ROOSTERS",8,11,6,"Newtown
+JETS",0,9,14
+0,NSWRFL 1973,Round 4,"Sunday, 15th April, 1973",2:30pm (local time),13170,27,"11,338",CANTERBURY BANKSTOWN,22,29,12,"South Sydney
+RABBITOHS",8,20,14
+0,NSWRFL 1973,Round 4,"Sunday, 15th April, 1973",2:30pm (local time),13171,25,"8,824","North Sydney
+BEARS",2,7,10,"Manly Warringah
+SEA EAGLES",14,30,8
+0,NSWRFL 1973,Round 4,"Sunday, 15th April, 1973",2:30pm (local time),13173,3,"6,031","Penrith
+PANTHERS",12,31,9,"Balmain
+TIGERS",5,8,15
+0,NSWRFL 1973,Round 4,"Sunday, 15th April, 1973",2:30pm (local time),13172,23,"9,245","St George
+DRAGONS",7,21,10,"Parramatta
+EELS",2,7,6
+0,NSWRFL 1973,Round 4,"Sunday, 15th April, 1973",2:30pm (local time),13174,110,"3,993","Western Suburbs
+MAGPIES",4,7,6,"Cronulla Sutherland
+SHARKS",12,33,5
+0,NSWRFL 1973,Round 5,"Saturday, 21st April, 1973",2:30pm (local time),13175,44,"10,259","South Sydney
+RABBITOHS",11,22,10,"Newtown
+JETS",11,16,7
+0,NSWRFL 1973,Round 5,"Saturday, 21st April, 1973",2:30pm (local time),13176,112,"5,445","Western Suburbs
+MAGPIES",4,14,13,CANTERBURY BANKSTOWN,18,42,9
+0,NSWRFL 1973,Round 5,"Sunday, 22nd April, 1973",2:30pm (local time),13177,7,"7,708","Balmain
+TIGERS",6,14,13,"Cronulla Sutherland
+SHARKS",11,11,9
+0,NSWRFL 1973,Round 5,"Sunday, 22nd April, 1973",2:30pm (local time),13180,5,"17,616","Manly Warringah
+SEA EAGLES",12,22,11,"Eastern Suburbs
+ROOSTERS",0,13,7
+0,NSWRFL 1973,Round 5,"Sunday, 22nd April, 1973",2:30pm (local time),13178,111,"6,815","Parramatta
+EELS",10,10,13,"North Sydney
+BEARS",0,13,10
+0,NSWRFL 1973,Round 5,"Monday, 23rd April, 1973",2:30pm (local time),13179,23,"11,361","St George
+DRAGONS",11,23,13,"Penrith
+PANTHERS",7,17,7
+0,NSWRFL 1973,Round 6,"Wednesday, 25th April, 1973",2:30pm (local time),13182,24,"17,992","Eastern Suburbs
+ROOSTERS",8,15,9,"South Sydney
+RABBITOHS",9,16,11
+0,NSWRFL 1973,Round 6,"Wednesday, 25th April, 1973",2:30pm (local time),13181,76,"4,371","Newtown
+JETS",0,16,10,"Western Suburbs
+MAGPIES",5,14,9
+0,NSWRFL 1973,Round 6,"Saturday, 28th April, 1973",2:30pm (local time),13183,24,"11,060","Balmain
+TIGERS",3,9,14,CANTERBURY BANKSTOWN,15,24,6
+0,NSWRFL 1973,Round 6,"Sunday, 29th April, 1973",2:30pm (local time),13185,9,"9,632","Cronulla Sutherland
+SHARKS",0,12,7,"St George
+DRAGONS",5,5,14
+0,NSWRFL 1973,Round 6,"Sunday, 29th April, 1973",2:30pm (local time),13184,25,"3,029","North Sydney
+BEARS",2,10,6,"Penrith
+PANTHERS",2,4,14
+0,NSWRFL 1973,Round 6,"Sunday, 29th April, 1973",2:30pm (local time),13186,111,"6,988","Parramatta
+EELS",4,10,10,"Manly Warringah
+SEA EAGLES",0,0,15
+0,NSWRFL 1973,Round 7,"Saturday, 5th May, 1973",2:30pm (local time),13188,25,"5,213","North Sydney
+BEARS",2,11,13,"Cronulla Sutherland
+SHARKS",5,5,13
+0,NSWRFL 1973,Round 7,"Saturday, 5th May, 1973",2:30pm (local time),13187,24,"20,085","St George
+DRAGONS",21,28,14,CANTERBURY BANKSTOWN,4,12,9
+0,NSWRFL 1973,Round 7,"Sunday, 6th May, 1973",2:30pm (local time),13190,7,"7,812","Balmain
+TIGERS",7,7,7,"Newtown
+JETS",5,31,5
+0,NSWRFL 1973,Round 7,"Sunday, 6th May, 1973",2:30pm (local time),13189,5,"18,205","Manly Warringah
+SEA EAGLES",14,24,16,"South Sydney
+RABBITOHS",5,11,14
+0,NSWRFL 1973,Round 7,"Sunday, 6th May, 1973",2:30pm (local time),13191,3,"8,676","Penrith
+PANTHERS",15,12,9,"Parramatta
+EELS",10,21,11
+0,NSWRFL 1973,Round 7,"Sunday, 6th May, 1973",2:30pm (local time),13192,110,"4,061","Western Suburbs
+MAGPIES",14,34,5,"Eastern Suburbs
+ROOSTERS",12,25,15
+0,NSWRFL 1973,Round 8,"Saturday, 12th May, 1973",2:30pm (local time),13193,24,"16,684","Newtown
+JETS",0,1,9,"St George
+DRAGONS",0,0,10
+0,NSWRFL 1973,Round 8,"Sunday, 13th May, 1973",2:30pm (local time),13196,7,"5,604","Balmain
+TIGERS",4,11,11,"Eastern Suburbs
+ROOSTERS",8,31,11
+0,NSWRFL 1973,Round 8,"Sunday, 13th May, 1973",2:30pm (local time),13197,27,"8,729",CANTERBURY BANKSTOWN,9,16,12,"North Sydney
+BEARS",2,5,10
+0,NSWRFL 1973,Round 8,"Sunday, 13th May, 1973",2:30pm (local time),13194,5,"9,630","Manly Warringah
+SEA EAGLES",21,41,11,"Penrith
+PANTHERS",2,5,9
+0,NSWRFL 1973,Round 8,"Sunday, 13th May, 1973",2:30pm (local time),13198,111,"9,416","Parramatta
+EELS",5,5,7,"Cronulla Sutherland
+SHARKS",3,11,13
+0,NSWRFL 1973,Round 8,"Sunday, 13th May, 1973",2:30pm (local time),13195,44,"7,536","South Sydney
+RABBITOHS",5,19,17,"Western Suburbs
+MAGPIES",5,12,13
+0,NSWRFL 1973,Round 9,"Sunday, 20th May, 1973",2:30pm (local time),13199,7,"6,573","Balmain
+TIGERS",9,16,13,"South Sydney
+RABBITOHS",6,18,9
+0,NSWRFL 1973,Round 9,"Sunday, 20th May, 1973",2:30pm (local time),13200,27,"10,203",CANTERBURY BANKSTOWN,9,26,13,"Parramatta
+EELS",5,7,14
+0,NSWRFL 1973,Round 9,"Sunday, 20th May, 1973",2:30pm (local time),13201,9,"5,255","Cronulla Sutherland
+SHARKS",16,22,19,"Penrith
+PANTHERS",8,8,10
+0,NSWRFL 1973,Round 9,"Sunday, 20th May, 1973",2:30pm (local time),13202,109,"12,899","Eastern Suburbs
+ROOSTERS",8,11,11,"St George
+DRAGONS",7,20,9
+0,NSWRFL 1973,Round 9,"Sunday, 20th May, 1973",2:30pm (local time),13204,25,"5,342","North Sydney
+BEARS",5,7,11,"Newtown
+JETS",2,12,10
+0,NSWRFL 1973,Round 9,"Sunday, 20th May, 1973",2:30pm (local time),13203,110,"4,923","Western Suburbs
+MAGPIES",4,13,18,"Manly Warringah
+SEA EAGLES",14,17,6
+0,NSWRFL 1973,Round 10,"Saturday, 26th May, 1973",2:30pm (local time),13205,76,"4,436","Newtown
+JETS",12,18,9,"Parramatta
+EELS",7,10,9
+0,NSWRFL 1973,Round 10,"Saturday, 26th May, 1973",2:30pm (local time),13206,24,"22,902","St George
+DRAGONS",9,11,8,"South Sydney
+RABBITOHS",9,13,13
+0,NSWRFL 1973,Round 10,"Sunday, 27th May, 1973",2:30pm (local time),13207,7,"5,546","Balmain
+TIGERS",7,12,12,"Western Suburbs
+MAGPIES",12,17,9
+0,NSWRFL 1973,Round 10,"Sunday, 27th May, 1973",2:30pm (local time),13208,109,"6,649","Eastern Suburbs
+ROOSTERS",10,19,11,"North Sydney
+BEARS",8,18,14
+0,NSWRFL 1973,Round 10,"Sunday, 27th May, 1973",2:30pm (local time),13210,5,"14,065","Manly Warringah
+SEA EAGLES",6,12,10,"Cronulla Sutherland
+SHARKS",0,8,6
+0,NSWRFL 1973,Round 10,"Sunday, 27th May, 1973",2:30pm (local time),13209,3,"5,663","Penrith
+PANTHERS",3,16,15,CANTERBURY BANKSTOWN,6,11,16
+0,NSWRFL 1973,Round 11,"Saturday, 2nd June, 1973",2:30pm (local time),13211,24,"10,400",CANTERBURY BANKSTOWN,7,10,11,"Cronulla Sutherland
+SHARKS",11,24,9
+0,NSWRFL 1973,Round 11,"Sunday, 3rd June, 1973",2:30pm (local time),13214,7,"6,066","Balmain
+TIGERS",7,13,12,"Manly Warringah
+SEA EAGLES",7,33,19
+0,NSWRFL 1973,Round 11,"Sunday, 3rd June, 1973",2:30pm (local time),13212,76,"4,183","Newtown
+JETS",13,27,12,"Penrith
+PANTHERS",7,7,7
+0,NSWRFL 1973,Round 11,"Sunday, 3rd June, 1973",2:30pm (local time),13216,111,"7,937","Parramatta
+EELS",2,2,7,"Eastern Suburbs
+ROOSTERS",14,43,7
+0,NSWRFL 1973,Round 11,"Sunday, 3rd June, 1973",2:30pm (local time),13213,23,"9,886","St George
+DRAGONS",7,22,10,"Western Suburbs
+MAGPIES",6,14,9
+0,NSWRFL 1973,Round 11,"Sunday, 3rd June, 1973",2:30pm (local time),13215,44,"8,209","South Sydney
+RABBITOHS",5,14,7,"North Sydney
+BEARS",2,14,12
+0,NSWRFL 1973,Round 12,"Saturday, 9th June, 1973",2:30pm (local time),13217,24,"14,618","Newtown
+JETS",2,7,6,"Cronulla Sutherland
+SHARKS",10,16,11
+0,NSWRFL 1973,Round 12,"Sunday, 10th June, 1973",2:30pm (local time),13220,109,"6,082","Eastern Suburbs
+ROOSTERS",14,36,8,"Penrith
+PANTHERS",0,2,13
+0,NSWRFL 1973,Round 12,"Sunday, 10th June, 1973",2:30pm (local time),13218,25,"5,811","North Sydney
+BEARS",2,11,14,"Western Suburbs
+MAGPIES",15,20,14
+0,NSWRFL 1973,Round 12,"Sunday, 10th June, 1973",2:30pm (local time),13219,111,"9,272","Parramatta
+EELS",18,24,9,"South Sydney
+RABBITOHS",3,16,16
+0,NSWRFL 1973,Round 12,"Sunday, 10th June, 1973",2:30pm (local time),13221,23,"8,436","St George
+DRAGONS",11,24,8,"Balmain
+TIGERS",0,9,14
+0,NSWRFL 1973,Round 12,"Monday, 11th June, 1973",2:30pm (local time),13222,27,"18,216",CANTERBURY BANKSTOWN,7,9,9,"Manly Warringah
+SEA EAGLES",0,17,11
+0,NSWRFL 1973,Round 13,"Saturday, 16th June, 1973",2:30pm (local time),13223,24,"21,682","Manly Warringah
+SEA EAGLES",2,4,8,"St George
+DRAGONS",0,3,15
+0,NSWRFL 1973,Round 13,"Sunday, 17th June, 1973",2:30pm (local time),13225,7,"2,485","Balmain
+TIGERS",5,13,7,"North Sydney
+BEARS",7,7,7
+0,NSWRFL 1973,Round 13,"Sunday, 17th June, 1973",2:30pm (local time),13226,27,"8,885",CANTERBURY BANKSTOWN,0,0,9,"Newtown
+JETS",9,11,10
+0,NSWRFL 1973,Round 13,"Sunday, 17th June, 1973",2:30pm (local time),13227,9,"7,813","Cronulla Sutherland
+SHARKS",3,12,11,"Eastern Suburbs
+ROOSTERS",2,7,14
+0,NSWRFL 1973,Round 13,"Sunday, 17th June, 1973",2:30pm (local time),13224,3,"5,625","Penrith
+PANTHERS",4,9,4,"South Sydney
+RABBITOHS",14,24,12
+0,NSWRFL 1973,Round 13,"Sunday, 17th June, 1973",2:30pm (local time),13228,110,"6,905","Western Suburbs
+MAGPIES",5,12,15,"Parramatta
+EELS",7,9,12
+0,NSWRFL 1973,Round 14,"Saturday, 23rd June, 1973",2:30pm (local time),13229,44,"14,088","South Sydney
+RABBITOHS",4,9,11,"Cronulla Sutherland
+SHARKS",13,19,7
+0,NSWRFL 1973,Round 14,"Sunday, 24th June, 1973",2:30pm (local time),13234,109,"7,430","Eastern Suburbs
+ROOSTERS",5,14,13,CANTERBURY BANKSTOWN,2,7,10
+0,NSWRFL 1973,Round 14,"Sunday, 24th June, 1973",2:30pm (local time),13230,76,"9,633","Newtown
+JETS",10,11,8,"Manly Warringah
+SEA EAGLES",10,13,10
+0,NSWRFL 1973,Round 14,"Sunday, 24th June, 1973",2:30pm (local time),13233,111,"6,606","Parramatta
+EELS",15,24,11,"Balmain
+TIGERS",5,13,10
+0,NSWRFL 1973,Round 14,"Sunday, 24th June, 1973",2:30pm (local time),13231,23,"5,855","St George
+DRAGONS",5,7,23,"North Sydney
+BEARS",0,10,10
+0,NSWRFL 1973,Round 14,"Sunday, 24th June, 1973",2:30pm (local time),13232,110,"3,601","Western Suburbs
+MAGPIES",17,33,10,"Penrith
+PANTHERS",13,18,11
+0,NSWRFL 1973,Round 15,"Saturday, 30th June, 1973",2:30pm (local time),13235,24,"13,683","Newtown
+JETS",0,10,9,"Eastern Suburbs
+ROOSTERS",10,13,5
+0,NSWRFL 1973,Round 15,"Sunday, 1st July, 1973",2:30pm (local time),13238,7,"2,217","Balmain
+TIGERS",11,18,11,"Penrith
+PANTHERS",3,13,9
+0,NSWRFL 1973,Round 15,"Sunday, 1st July, 1973",2:30pm (local time),13239,9,"7,216","Cronulla Sutherland
+SHARKS",7,20,10,"Western Suburbs
+MAGPIES",3,13,10
+0,NSWRFL 1973,Round 15,"Sunday, 1st July, 1973",2:30pm (local time),13236,5,"12,344","Manly Warringah
+SEA EAGLES",12,14,13,"North Sydney
+BEARS",7,12,11
+0,NSWRFL 1973,Round 15,"Sunday, 1st July, 1973",2:30pm (local time),13237,111,"7,469","Parramatta
+EELS",3,5,11,"St George
+DRAGONS",13,28,5
+0,NSWRFL 1973,Round 15,"Sunday, 1st July, 1973",2:30pm (local time),13240,44,"6,636","South Sydney
+RABBITOHS",0,0,11,CANTERBURY BANKSTOWN,2,11,11
+0,NSWRFL 1973,Round 16,"Saturday, 7th July, 1973",2:30pm (local time),13241,24,"13,465","Eastern Suburbs
+ROOSTERS",8,15,11,"Manly Warringah
+SEA EAGLES",3,10,9
+0,NSWRFL 1973,Round 16,"Sunday, 8th July, 1973",2:30pm (local time),13245,27,"3,785",CANTERBURY BANKSTOWN,5,15,12,"Western Suburbs
+MAGPIES",0,5,8
+0,NSWRFL 1973,Round 16,"Sunday, 8th July, 1973",2:30pm (local time),13246,9,"5,653","Cronulla Sutherland
+SHARKS",13,21,11,"Balmain
+TIGERS",0,0,4
+0,NSWRFL 1973,Round 16,"Sunday, 8th July, 1973",2:30pm (local time),13242,76,"3,909","Newtown
+JETS",2,7,11,"South Sydney
+RABBITOHS",5,8,5
+0,NSWRFL 1973,Round 16,"Sunday, 8th July, 1973",2:30pm (local time),13243,25,"2,662","North Sydney
+BEARS",2,7,13,"Parramatta
+EELS",0,6,10
+0,NSWRFL 1973,Round 16,"Sunday, 8th July, 1973",2:30pm (local time),13244,3,"2,305","Penrith
+PANTHERS",5,5,14,"St George
+DRAGONS",9,21,5
+0,NSWRFL 1973,Round 17,"Saturday, 14th July, 1973",2:30pm (local time),13247,24,"28,575","St George
+DRAGONS",7,15,8,"Cronulla Sutherland
+SHARKS",7,10,4
+0,NSWRFL 1973,Round 17,"Sunday, 15th July, 1973",2:30pm (local time),13251,27,"8,030",CANTERBURY BANKSTOWN,14,39,14,"Balmain
+TIGERS",4,4,13
+0,NSWRFL 1973,Round 17,"Sunday, 15th July, 1973",2:30pm (local time),13248,5,"12,082","Manly Warringah
+SEA EAGLES",20,53,7,"Parramatta
+EELS",0,8,5
+0,NSWRFL 1973,Round 17,"Sunday, 15th July, 1973",2:30pm (local time),13250,3,"2,819","Penrith
+PANTHERS",11,21,5,"North Sydney
+BEARS",13,20,5
+0,NSWRFL 1973,Round 17,"Sunday, 15th July, 1973",2:30pm (local time),13252,44,"10,593","South Sydney
+RABBITOHS",2,19,9,"Eastern Suburbs
+ROOSTERS",12,17,9
+0,NSWRFL 1973,Round 17,"Sunday, 15th July, 1973",2:30pm (local time),13249,110,"5,684","Western Suburbs
+MAGPIES",0,0,6,"Newtown
+JETS",7,17,7
+0,NSWRFL 1973,Round 18,"Saturday, 21st July, 1973",2:30pm (local time),13253,24,"24,693","South Sydney
+RABBITOHS",12,24,10,"Manly Warringah
+SEA EAGLES",21,31,13
+0,NSWRFL 1973,Round 18,"Sunday, 22nd July, 1973",2:30pm (local time),13255,27,"18,043",CANTERBURY BANKSTOWN,7,9,8,"St George
+DRAGONS",5,12,8
+0,NSWRFL 1973,Round 18,"Sunday, 22nd July, 1973",2:30pm (local time),13256,9,"6,552","Cronulla Sutherland
+SHARKS",12,20,6,"North Sydney
+BEARS",2,9,9
+0,NSWRFL 1973,Round 18,"Sunday, 22nd July, 1973",2:30pm (local time),13257,109,"5,945","Eastern Suburbs
+ROOSTERS",0,0,13,"Western Suburbs
+MAGPIES",5,10,5
+0,NSWRFL 1973,Round 18,"Sunday, 22nd July, 1973",2:30pm (local time),13258,76,"4,360","Newtown
+JETS",21,27,3,"Balmain
+TIGERS",2,14,9
+0,NSWRFL 1973,Round 18,"Sunday, 22nd July, 1973",2:30pm (local time),13254,111,"4,381","Parramatta
+EELS",5,15,7,"Penrith
+PANTHERS",13,29,5
+0,NSWRFL 1973,Round 19,"Saturday, 28th July, 1973",2:30pm (local time),13259,24,"17,716","St George
+DRAGONS",8,20,8,"Newtown
+JETS",2,2,9
+0,NSWRFL 1973,Round 19,"Saturday, 28th July, 1973",2:30pm (local time),13260,112,"7,016","Western Suburbs
+MAGPIES",10,13,8,"South Sydney
+RABBITOHS",5,20,13
+0,NSWRFL 1973,Round 19,"Sunday, 29th July, 1973",2:30pm (local time),13261,9,"6,903","Cronulla Sutherland
+SHARKS",18,32,9,"Parramatta
+EELS",0,3,4
+0,NSWRFL 1973,Round 19,"Sunday, 29th July, 1973",2:30pm (local time),13263,109,"5,971","Eastern Suburbs
+ROOSTERS",9,19,13,"Balmain
+TIGERS",13,20,12
+0,NSWRFL 1973,Round 19,"Sunday, 29th July, 1973",2:30pm (local time),13264,25,"5,303","North Sydney
+BEARS",2,10,11,CANTERBURY BANKSTOWN,4,20,7
+0,NSWRFL 1973,Round 19,"Sunday, 29th July, 1973",2:30pm (local time),13262,3,"6,750","Penrith
+PANTHERS",7,7,3,"Manly Warringah
+SEA EAGLES",28,70,8
+0,NSWRFL 1973,Round 20,"Sunday, 5th August, 1973",2:30pm (local time),13265,5,"12,472","Manly Warringah
+SEA EAGLES",10,25,8,"Western Suburbs
+MAGPIES",3,13,6
+0,NSWRFL 1973,Round 20,"Sunday, 5th August, 1973",2:30pm (local time),13266,76,"8,831","Newtown
+JETS",12,27,10,"North Sydney
+BEARS",2,7,11
+0,NSWRFL 1973,Round 20,"Sunday, 5th August, 1973",2:30pm (local time),13268,111,"5,185","Parramatta
+EELS",2,12,8,CANTERBURY BANKSTOWN,7,18,8
+0,NSWRFL 1973,Round 20,"Sunday, 5th August, 1973",2:30pm (local time),13269,3,"3,676","Penrith
+PANTHERS",13,13,9,"Cronulla Sutherland
+SHARKS",14,32,8
+0,NSWRFL 1973,Round 20,"Sunday, 5th August, 1973",2:30pm (local time),13270,23,"9,279","St George
+DRAGONS",13,18,12,"Eastern Suburbs
+ROOSTERS",10,20,10
+0,NSWRFL 1973,Round 20,"Sunday, 5th August, 1973",2:30pm (local time),13267,44,"8,485","South Sydney
+RABBITOHS",11,20,9,"Balmain
+TIGERS",5,8,9
+0,NSWRFL 1973,Round 21,"Saturday, 11th August, 1973",2:30pm (local time),13271,24,"8,831","Cronulla Sutherland
+SHARKS",3,9,6,"Manly Warringah
+SEA EAGLES",10,7,8
+0,NSWRFL 1973,Round 21,"Saturday, 11th August, 1973",2:30pm (local time),13272,112,"1,095","Western Suburbs
+MAGPIES",8,10,5,"Balmain
+TIGERS",9,14,12
+0,NSWRFL 1973,Round 21,"Sunday, 12th August, 1973",2:30pm (local time),13273,27,"6,559",CANTERBURY BANKSTOWN,10,26,8,"Penrith
+PANTHERS",4,4,15
+0,NSWRFL 1973,Round 21,"Sunday, 12th August, 1973",2:30pm (local time),13276,25,"3,151","North Sydney
+BEARS",9,12,13,"Eastern Suburbs
+ROOSTERS",10,22,12
+0,NSWRFL 1973,Round 21,"Sunday, 12th August, 1973",2:30pm (local time),13274,111,"4,480","Parramatta
+EELS",8,8,8,"Newtown
+JETS",10,39,9
+0,NSWRFL 1973,Round 21,"Sunday, 12th August, 1973",2:30pm (local time),13275,44,"16,204","South Sydney
+RABBITOHS",2,5,13,"St George
+DRAGONS",7,14,6
+0,NSWRFL 1973,Round 22,"Saturday, 18th August, 1973",2:30pm (local time),13277,24,"16,143","Cronulla Sutherland
+SHARKS",9,19,13,CANTERBURY BANKSTOWN,10,12,8
+0,NSWRFL 1973,Round 22,"Sunday, 19th August, 1973",2:30pm (local time),13279,109,"3,257","Eastern Suburbs
+ROOSTERS",3,41,,"Parramatta
+EELS",5,10,
+0,NSWRFL 1973,Round 22,"Sunday, 19th August, 1973",2:30pm (local time),13282,5,"12,501","Manly Warringah
+SEA EAGLES",21,42,12,"Balmain
+TIGERS",0,3,9
+0,NSWRFL 1973,Round 22,"Sunday, 19th August, 1973",2:30pm (local time),13278,25,"6,234","North Sydney
+BEARS",9,14,8,"South Sydney
+RABBITOHS",0,12,12
+0,NSWRFL 1973,Round 22,"Sunday, 19th August, 1973",2:30pm (local time),13280,3,"3,506","Penrith
+PANTHERS",10,10,8,"Newtown
+JETS",5,20,12
+0,NSWRFL 1973,Round 22,"Sunday, 19th August, 1973",2:30pm (local time),13281,110,"7,233","Western Suburbs
+MAGPIES",11,16,11,"St George
+DRAGONS",12,20,14
+0,NSWRFL 1973,Major Prelim Semi,"Saturday, 25th August, 1973",2:30pm (local time),13283,24,"37,778","Cronulla Sutherland
+SHARKS",6,18,10,"St George
+DRAGONS",0,0,10
+0,NSWRFL 1973,Minor Prelim Semi,"Sunday, 26th August, 1973",2:30pm (local time),13284,109,"17,778","Newtown
+JETS",5,13,15,CANTERBURY BANKSTOWN,0,2,9
+0,NSWRFL 1973,Major Semi,"Saturday, 1st September, 1973",2:30pm (local time),13285,24,"41,898","Manly Warringah
+SEA EAGLES",5,14,10,"Cronulla Sutherland
+SHARKS",2,4,9
+0,NSWRFL 1973,Minor Semi,"Sunday, 2nd September, 1973",2:30pm (local time),13286,24,"24,390","St George
+DRAGONS",4,12,13,"Newtown
+JETS",7,12,11
+0,NSWRFL 1973,Minor Semi,"Tuesday, 4th September, 1973",3:30pm (local time),13287,109,"27,791","Newtown
+JETS",3,8,10,"St George
+DRAGONS",5,5,7
+0,NSWRFL 1973,Prelim Final,"Saturday, 8th September, 1973",2:30pm (local time),13288,24,"30,649","Cronulla Sutherland
+SHARKS",18,20,7,"Newtown
+JETS",4,11,11
+0,NSWRFL 1973,Grand Final,"Saturday, 15th September, 1973",2:30pm (local time),13289,24,"52,044","Manly Warringah
+SEA EAGLES",5,10,8,"Cronulla Sutherland
+SHARKS",0,7,12

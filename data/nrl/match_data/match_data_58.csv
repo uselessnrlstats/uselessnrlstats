@@ -1,0 +1,230 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1966,Round 1,"Saturday, 2nd April, 1966",3:00pm (local time),12240,5,"6,251","Manly Warringah
+SEA EAGLES",10,20,,"North Sydney
+BEARS",7,10,
+0,NSWRFL 1966,Round 1,"Saturday, 2nd April, 1966",3:00pm (local time),12241,111,"12,407","Parramatta
+EELS",6,11,,"South Sydney
+RABBITOHS",12,21,
+0,NSWRFL 1966,Round 1,"Saturday, 2nd April, 1966",3:00pm (local time),12243,24,"18,359","St George
+DRAGONS",6,16,,"Balmain
+TIGERS",4,19,
+0,NSWRFL 1966,Round 1,"Saturday, 2nd April, 1966",3:00pm (local time),12242,112,"3,976","Western Suburbs
+MAGPIES",22,28,,CANTERBURY BANKSTOWN,2,18,
+0,NSWRFL 1966,Round 1,"Sunday, 3rd April, 1966",3:00pm (local time),12244,109,"7,015",EASTERN SUBURBS,8,16,,NEWTOWN,9,23,
+0,NSWRFL 1966,Round 2,"Saturday, 9th April, 1966",3:00pm (local time),12245,25,"14,636","North Sydney
+BEARS",7,17,,"South Sydney
+RABBITOHS",9,12,
+0,NSWRFL 1966,Round 2,"Saturday, 9th April, 1966",3:00pm (local time),12246,111,"15,385","Parramatta
+EELS",4,12,,"St George
+DRAGONS",7,12,
+0,NSWRFL 1966,Round 2,"Saturday, 9th April, 1966",3:00pm (local time),12247,112,"7,341","Western Suburbs
+MAGPIES",7,19,,"Manly Warringah
+SEA EAGLES",9,12,
+0,NSWRFL 1966,Round 2,"Sunday, 10th April, 1966",3:00pm (local time),12248,44,"9,727",EASTERN SUBURBS,2,17,,"Balmain
+TIGERS",13,23,
+0,NSWRFL 1966,Round 2,"Monday, 11th April, 1966",3:00pm (local time),12249,27,"9,309",CANTERBURY BANKSTOWN,0,12,,NEWTOWN,9,19,
+0,NSWRFL 1966,Round 3,"Saturday, 16th April, 1966",3:00pm (local time),12251,76,"3,753",NEWTOWN,9,27,11,"Manly Warringah
+SEA EAGLES",11,19,1
+0,NSWRFL 1966,Round 3,"Saturday, 16th April, 1966",3:00pm (local time),12250,24,"23,733","South Sydney
+RABBITOHS",8,17,5,"Western Suburbs
+MAGPIES",5,11,13
+0,NSWRFL 1966,Round 3,"Sunday, 17th April, 1966",3:00pm (local time),12253,7,"11,425","Balmain
+TIGERS",14,20,15,CANTERBURY BANKSTOWN,10,16,18
+0,NSWRFL 1966,Round 3,"Sunday, 17th April, 1966",3:00pm (local time),12252,109,"15,591","North Sydney
+BEARS",,23,,"Parramatta
+EELS",,15,
+0,NSWRFL 1966,Round 3,"Sunday, 17th April, 1966",3:00pm (local time),12254,23,"11,473","St George
+DRAGONS",8,26,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1966,Round 4,"Saturday, 23rd April, 1966",3:00pm (local time),12255,111,"7,155","Parramatta
+EELS",8,11,,"Western Suburbs
+MAGPIES",0,0,
+0,NSWRFL 1966,Round 4,"Saturday, 23rd April, 1966",3:00pm (local time),12256,24,"17,583","St George
+DRAGONS",2,7,13,"North Sydney
+BEARS",4,6,13
+0,NSWRFL 1966,Round 4,"Sunday, 24th April, 1966",3:00pm (local time),12257,7,"11,545","Balmain
+TIGERS",2,22,,"Manly Warringah
+SEA EAGLES",15,17,
+0,NSWRFL 1966,Round 4,"Sunday, 24th April, 1966",3:00pm (local time),12258,109,"8,068",EASTERN SUBURBS,5,9,,CANTERBURY BANKSTOWN,12,24,
+0,NSWRFL 1966,Round 4,"Monday, 25th April, 1966",3:00pm (local time),12259,24,"26,723",NEWTOWN,7,15,,"South Sydney
+RABBITOHS",4,11,
+0,NSWRFL 1966,Round 5,"Saturday, 30th April, 1966",3:00pm (local time),12262,5,"2,534","Manly Warringah
+SEA EAGLES",7,24,,EASTERN SUBURBS,5,7,
+0,NSWRFL 1966,Round 5,"Saturday, 30th April, 1966",3:00pm (local time),12261,24,"35,567","South Sydney
+RABBITOHS",6,8,14,"Balmain
+TIGERS",2,12,9
+0,NSWRFL 1966,Round 5,"Saturday, 30th April, 1966",3:00pm (local time),12260,112,"6,154","Western Suburbs
+MAGPIES",10,24,,"North Sydney
+BEARS",7,19,
+0,NSWRFL 1966,Round 5,"Sunday, 1st May, 1966",3:00pm (local time),12263,27,"15,216",CANTERBURY BANKSTOWN,4,6,,"St George
+DRAGONS",5,8,
+0,NSWRFL 1966,Round 5,"Sunday, 1st May, 1966",3:00pm (local time),12264,111,"21,593","Parramatta
+EELS",3,11,,NEWTOWN,14,18,
+0,NSWRFL 1966,Round 6,"Saturday, 7th May, 1966",3:00pm (local time),12265,7,"14,471","Balmain
+TIGERS",12,23,,"Parramatta
+EELS",7,14,
+0,NSWRFL 1966,Round 6,"Saturday, 7th May, 1966",3:00pm (local time),12266,24,"26,691","Western Suburbs
+MAGPIES",0,2,8,"St George
+DRAGONS",8,30,7
+0,NSWRFL 1966,Round 6,"Sunday, 8th May, 1966",3:00pm (local time),12267,109,"10,389",EASTERN SUBURBS,11,16,9,"South Sydney
+RABBITOHS",10,23,7
+0,NSWRFL 1966,Round 6,"Sunday, 8th May, 1966",3:00pm (local time),12269,5,"6,351","Manly Warringah
+SEA EAGLES",14,32,,CANTERBURY BANKSTOWN,2,9,
+0,NSWRFL 1966,Round 6,"Sunday, 8th May, 1966",3:00pm (local time),12268,25,"16,212","North Sydney
+BEARS",2,12,,NEWTOWN,10,20,
+0,NSWRFL 1966,Round 7,"Saturday, 14th May, 1966",3:00pm (local time),12270,24,"25,604","Balmain
+TIGERS",3,26,,"North Sydney
+BEARS",6,6,
+0,NSWRFL 1966,Round 7,"Saturday, 14th May, 1966",3:00pm (local time),12271,111,"7,723","Parramatta
+EELS",5,21,,EASTERN SUBURBS,7,9,
+0,NSWRFL 1966,Round 7,"Sunday, 15th May, 1966",3:00pm (local time),12273,27,"15,240",CANTERBURY BANKSTOWN,7,14,,"South Sydney
+RABBITOHS",2,10,
+0,NSWRFL 1966,Round 7,"Sunday, 15th May, 1966",3:00pm (local time),12272,109,"15,172",NEWTOWN,8,15,,"Western Suburbs
+MAGPIES",7,16,
+0,NSWRFL 1966,Round 7,"Sunday, 15th May, 1966",3:00pm (local time),12274,23,"16,971","St George
+DRAGONS",7,34,,"Manly Warringah
+SEA EAGLES",11,15,
+0,NSWRFL 1966,Round 8,"Saturday, 21st May, 1966",3:00pm (local time),12275,24,"24,069","Balmain
+TIGERS",5,9,12,NEWTOWN,4,6,14
+0,NSWRFL 1966,Round 8,"Saturday, 21st May, 1966",3:00pm (local time),12276,112,"2,400","Western Suburbs
+MAGPIES",7,13,,EASTERN SUBURBS,2,4,
+0,NSWRFL 1966,Round 8,"Sunday, 22nd May, 1966",3:00pm (local time),12277,5,"6,446","Manly Warringah
+SEA EAGLES",4,11,,"Parramatta
+EELS",8,18,
+0,NSWRFL 1966,Round 8,"Sunday, 22nd May, 1966",3:00pm (local time),12279,25,"5,718","North Sydney
+BEARS",8,25,,CANTERBURY BANKSTOWN,4,16,
+0,NSWRFL 1966,Round 8,"Sunday, 22nd May, 1966",3:00pm (local time),12278,103,"18,354","South Sydney
+RABBITOHS",5,5,,"St George
+DRAGONS",20,33,
+0,NSWRFL 1966,Round 9,"Saturday, 28th May, 1966",3:00pm (local time),12280,7,"16,489","Balmain
+TIGERS",4,17,,"Western Suburbs
+MAGPIES",8,12,
+0,NSWRFL 1966,Round 9,"Saturday, 28th May, 1966",3:00pm (local time),12281,44,"8,129","South Sydney
+RABBITOHS",10,22,,"Manly Warringah
+SEA EAGLES",6,11,
+0,NSWRFL 1966,Round 9,"Sunday, 29th May, 1966",3:00pm (local time),12283,27,"13,011",CANTERBURY BANKSTOWN,10,12,,"Parramatta
+EELS",2,10,
+0,NSWRFL 1966,Round 9,"Sunday, 29th May, 1966",3:00pm (local time),12282,109,"23,479",NEWTOWN,9,11,,"St George
+DRAGONS",15,28,
+0,NSWRFL 1966,Round 9,"Sunday, 29th May, 1966",3:00pm (local time),12284,25,"5,535","North Sydney
+BEARS",17,35,,EASTERN SUBURBS,4,17,
+0,NSWRFL 1966,Round 10,"Sunday, 5th June, 1966",3:00pm (local time),12285,76,"4,378",NEWTOWN,7,15,,EASTERN SUBURBS,4,9,
+0,NSWRFL 1966,Round 10,"Sunday, 19th June, 1966",3:00pm (local time),12286,24,"55,934","Balmain
+TIGERS",6,10,,"St George
+DRAGONS",3,3,
+0,NSWRFL 1966,Round 10,"Sunday, 19th June, 1966",3:00pm (local time),12287,25,"7,325","North Sydney
+BEARS",13,15,,"Manly Warringah
+SEA EAGLES",9,21,
+0,NSWRFL 1966,Round 10,"Sunday, 19th June, 1966",3:00pm (local time),12288,44,"12,765","South Sydney
+RABBITOHS",10,18,,"Parramatta
+EELS",2,2,
+0,NSWRFL 1966,Round 10,"Sunday, 19th June, 1966",3:00pm (local time),12289,27,"10,653","Western Suburbs
+MAGPIES",3,11,,CANTERBURY BANKSTOWN,7,14,
+0,NSWRFL 1966,Round 11,"Sunday, 26th June, 1966",3:00pm (local time),12291,7,"8,944","Balmain
+TIGERS",8,28,9,EASTERN SUBURBS,5,5,3
+0,NSWRFL 1966,Round 11,"Sunday, 26th June, 1966",3:00pm (local time),12290,5,"5,777","Manly Warringah
+SEA EAGLES",12,27,,"Western Suburbs
+MAGPIES",4,6,
+0,NSWRFL 1966,Round 11,"Sunday, 26th June, 1966",3:00pm (local time),12294,76,"7,129",NEWTOWN,14,17,,CANTERBURY BANKSTOWN,12,22,
+0,NSWRFL 1966,Round 11,"Sunday, 26th June, 1966",3:00pm (local time),12293,23,"10,325","St George
+DRAGONS",5,18,14,"Parramatta
+EELS",6,8,4
+0,NSWRFL 1966,Round 11,"Sunday, 26th June, 1966",3:00pm (local time),12292,109,"14,622","South Sydney
+RABBITOHS",16,36,,"North Sydney
+BEARS",9,14,
+0,NSWRFL 1966,Round 12,"Saturday, 2nd July, 1966",3:00pm (local time),12297,109,"13,436",CANTERBURY BANKSTOWN,9,15,14,"Balmain
+TIGERS",9,11,11
+0,NSWRFL 1966,Round 12,"Saturday, 2nd July, 1966",3:00pm (local time),12295,5,"3,628","Manly Warringah
+SEA EAGLES",13,23,,NEWTOWN,7,7,
+0,NSWRFL 1966,Round 12,"Saturday, 2nd July, 1966",3:00pm (local time),12296,112,"6,552","Western Suburbs
+MAGPIES",3,7,,"South Sydney
+RABBITOHS",3,3,
+0,NSWRFL 1966,Round 12,"Sunday, 3rd July, 1966",3:00pm (local time),12298,109,"7,269",EASTERN SUBURBS,5,10,,"St George
+DRAGONS",13,25,
+0,NSWRFL 1966,Round 12,"Sunday, 3rd July, 1966",3:00pm (local time),12299,111,"7,269","Parramatta
+EELS",5,12,,"North Sydney
+BEARS",7,12,
+0,NSWRFL 1966,Round 13,"Saturday, 9th July, 1966",3:00pm (local time),12302,24,"20,255","Manly Warringah
+SEA EAGLES",4,11,,"Balmain
+TIGERS",6,24,
+0,NSWRFL 1966,Round 13,"Saturday, 9th July, 1966",3:00pm (local time),12300,25,"5,103","North Sydney
+BEARS",3,10,,"St George
+DRAGONS",9,21,
+0,NSWRFL 1966,Round 13,"Saturday, 9th July, 1966",3:00pm (local time),12301,112,"7,544","Western Suburbs
+MAGPIES",4,9,,"Parramatta
+EELS",10,19,
+0,NSWRFL 1966,Round 13,"Sunday, 10th July, 1966",3:00pm (local time),12303,27,"7,557",CANTERBURY BANKSTOWN,10,10,,EASTERN SUBURBS,8,8,
+0,NSWRFL 1966,Round 13,"Sunday, 10th July, 1966",3:00pm (local time),12304,109,"14,656","South Sydney
+RABBITOHS",2,4,11,NEWTOWN,12,14,7
+0,NSWRFL 1966,Round 14,"Saturday, 16th July, 1966",3:00pm (local time),12305,7,"10,474","Balmain
+TIGERS",0,2,,"South Sydney
+RABBITOHS",5,10,
+0,NSWRFL 1966,Round 14,"Saturday, 16th July, 1966",3:00pm (local time),12306,24,"17,127","St George
+DRAGONS",8,10,17,CANTERBURY BANKSTOWN,2,8,12
+0,NSWRFL 1966,Round 14,"Sunday, 17th July, 1966",3:00pm (local time),12309,109,"3,345",EASTERN SUBURBS,0,0,,"Manly Warringah
+SEA EAGLES",20,53,
+0,NSWRFL 1966,Round 14,"Sunday, 17th July, 1966",3:00pm (local time),12307,76,"6,674",NEWTOWN,3,10,,"Parramatta
+EELS",17,17,
+0,NSWRFL 1966,Round 14,"Sunday, 17th July, 1966",3:00pm (local time),12308,25,"5,029","North Sydney
+BEARS",2,12,,"Western Suburbs
+MAGPIES",0,3,
+0,NSWRFL 1966,Round 18,"Sunday, 24th July, 1966",3:00pm (local time),12310,109,"3,288",EASTERN SUBURBS,5,12,,"North Sydney
+BEARS",5,25,
+0,NSWRFL 1966,Round 15,"Saturday, 30th July, 1966",3:00pm (local time),12315,24,"13,393",CANTERBURY BANKSTOWN,10,17,7,"Manly Warringah
+SEA EAGLES",4,21,7
+0,NSWRFL 1966,Round 15,"Saturday, 30th July, 1966",3:00pm (local time),12316,44,"4,108","South Sydney
+RABBITOHS",19,32,,EASTERN SUBURBS,2,2,
+0,NSWRFL 1966,Round 15,"Sunday, 31st July, 1966",3:00pm (local time),12317,109,"4,889",NEWTOWN,5,21,,"North Sydney
+BEARS",9,12,
+0,NSWRFL 1966,Round 15,"Sunday, 31st July, 1966",3:00pm (local time),12319,111,"21,187","Parramatta
+EELS",5,9,,"Balmain
+TIGERS",2,7,
+0,NSWRFL 1966,Round 15,"Sunday, 31st July, 1966",3:00pm (local time),12318,23,"10,880","St George
+DRAGONS",4,9,,"Western Suburbs
+MAGPIES",7,12,
+0,NSWRFL 1966,Round 16,"Saturday, 6th August, 1966",3:00pm (local time),12320,24,"17,237","Manly Warringah
+SEA EAGLES",2,7,9,"St George
+DRAGONS",5,5,5
+0,NSWRFL 1966,Round 16,"Saturday, 6th August, 1966",3:00pm (local time),12322,25,"6,445","North Sydney
+BEARS",7,18,,"Balmain
+TIGERS",6,13,
+0,NSWRFL 1966,Round 16,"Saturday, 6th August, 1966",3:00pm (local time),12321,112,"7,642","Western Suburbs
+MAGPIES",10,10,,NEWTOWN,0,5,
+0,NSWRFL 1966,Round 16,"Sunday, 7th August, 1966",3:00pm (local time),12323,109,"4,025",EASTERN SUBURBS,4,4,,"Parramatta
+EELS",2,13,
+0,NSWRFL 1966,Round 16,"Sunday, 7th August, 1966",3:00pm (local time),12324,44,"17,472","South Sydney
+RABBITOHS",7,24,12,CANTERBURY BANKSTOWN,3,5,13
+0,NSWRFL 1966,Round 17,"Saturday, 13th August, 1966",3:00pm (local time),12326,27,"3,664",CANTERBURY BANKSTOWN,10,17,,"North Sydney
+BEARS",6,11,
+0,NSWRFL 1966,Round 17,"Saturday, 13th August, 1966",3:00pm (local time),12329,76,"5,945",NEWTOWN,2,8,,"Balmain
+TIGERS",4,6,
+0,NSWRFL 1966,Round 17,"Saturday, 13th August, 1966",3:00pm (local time),12325,24,"33,188","St George
+DRAGONS",13,34,8,"South Sydney
+RABBITOHS",5,5,5
+0,NSWRFL 1966,Round 17,"Sunday, 14th August, 1966",3:00pm (local time),12327,109,"3,834",EASTERN SUBURBS,2,2,,"Western Suburbs
+MAGPIES",13,33,
+0,NSWRFL 1966,Round 17,"Sunday, 14th August, 1966",3:00pm (local time),12328,111,"17,205","Parramatta
+EELS",5,12,,"Manly Warringah
+SEA EAGLES",2,16,
+0,NSWRFL 1966,Round 18,"Saturday, 20th August, 1966",3:00pm (local time),12311,5,"11,571","Manly Warringah
+SEA EAGLES",4,8,24,"South Sydney
+RABBITOHS",2,2,12
+0,NSWRFL 1966,Round 18,"Saturday, 20th August, 1966",3:00pm (local time),12312,24,"15,177","St George
+DRAGONS",10,12,,NEWTOWN,8,10,
+0,NSWRFL 1966,Round 18,"Sunday, 21st August, 1966",3:00pm (local time),12314,111,"6,675","Parramatta
+EELS",3,21,,CANTERBURY BANKSTOWN,9,9,
+0,NSWRFL 1966,Round 18,"Sunday, 21st August, 1966",3:00pm (local time),12313,109,"21,045","Western Suburbs
+MAGPIES",10,12,,"Balmain
+TIGERS",2,7,
+0,NSWRFL 1966,Playoff,"Tuesday, 23rd August, 1966",3:00pm (local time),12330,109,"10,724",NEWTOWN,5,20,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1966,Minor Semi,"Saturday, 27th August, 1966",3:00pm (local time),12331,24,"31,803","Manly Warringah
+SEA EAGLES",10,10,,NEWTOWN,0,9,
+0,NSWRFL 1966,Major Semi,"Saturday, 3rd September, 1966",3:00pm (local time),12332,24,"46,531","St George
+DRAGONS",5,10,8,"Balmain
+TIGERS",2,2,9
+0,NSWRFL 1966,Prelim Final,"Saturday, 10th September, 1966",3:00pm (local time),12333,24,"39,461","Balmain
+TIGERS",6,8,7,"Manly Warringah
+SEA EAGLES",2,5,13
+0,NSWRFL 1966,Grand Final,"Saturday, 17th September, 1966",3:00pm (local time),12334,24,"61,129","St George
+DRAGONS",14,23,15,"Balmain
+TIGERS",4,4,5

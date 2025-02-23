@@ -1,0 +1,415 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1980,Round 1,"Saturday, 29th March, 1980",3:00pm (local time),4330,23,"9,137","St George
+DRAGONS",5,12,14,"South Sydney
+RABBITOHS",14,26,7
+0,NSWRFL 1980,Round 1,"Sunday, 30th March, 1980",3:00pm (local time),4331,7,"11,246","Balmain
+TIGERS",7,10,7,"Parramatta
+EELS",15,37,11
+0,NSWRFL 1980,Round 1,"Sunday, 30th March, 1980",3:00pm (local time),4332,9,"7,144","Cronulla Sutherland
+SHARKS",7,10,13,"Western Suburbs
+MAGPIES",7,16,13
+0,NSWRFL 1980,Round 1,"Sunday, 30th March, 1980",3:00pm (local time),4333,109,"4,896","Eastern Suburbs
+ROOSTERS",5,20,9,"North Sydney
+BEARS",15,29,5
+0,NSWRFL 1980,Round 1,"Sunday, 30th March, 1980",3:00pm (local time),4335,76,"6,658","Newtown
+JETS",7,17,9,"Canterbury Bankstown
+BULLDOGS",3,38,14
+0,NSWRFL 1980,Round 1,"Sunday, 30th March, 1980",3:00pm (local time),4334,3,"7,788","Penrith
+PANTHERS",15,20,13,"Manly Warringah
+SEA EAGLES",8,25,17
+0,NSWRFL 1980,Round 2,"Saturday, 5th April, 1980",3:00pm (local time),4336,110,"6,297","Western Suburbs
+MAGPIES",18,27,10,"Penrith
+PANTHERS",14,24,10
+0,NSWRFL 1980,Round 2,"Sunday, 6th April, 1980",3:00pm (local time),4340,9,"10,120","Cronulla Sutherland
+SHARKS",22,35,6,"Canterbury Bankstown
+BULLDOGS",0,9,9
+0,NSWRFL 1980,Round 2,"Sunday, 6th April, 1980",3:00pm (local time),4337,5,"11,304","Manly Warringah
+SEA EAGLES",8,22,9,"North Sydney
+BEARS",5,7,11
+0,NSWRFL 1980,Round 2,"Sunday, 6th April, 1980",3:00pm (local time),4338,76,"6,863","Newtown
+JETS",3,11,13,"St George
+DRAGONS",8,17,10
+0,NSWRFL 1980,Round 2,"Sunday, 6th April, 1980",3:00pm (local time),4339,44,"11,292","South Sydney
+RABBITOHS",7,28,9,"Balmain
+TIGERS",2,2,15
+0,NSWRFL 1980,Round 2,"Monday, 7th April, 1980",3:00pm (local time),4341,111,"17,936","Parramatta
+EELS",9,22,11,"Eastern Suburbs
+ROOSTERS",5,10,9
+0,NSWRFL 1980,Round 3,"Saturday, 12th April, 1980",3:00pm (local time),4342,5,"8,717","Manly Warringah
+SEA EAGLES",15,34,6,"Eastern Suburbs
+ROOSTERS",5,7,15
+0,NSWRFL 1980,Round 3,"Sunday, 13th April, 1980",3:00pm (local time),4345,76,"5,785","Newtown
+JETS",6,23,10,"Balmain
+TIGERS",4,9,13
+0,NSWRFL 1980,Round 3,"Sunday, 13th April, 1980",3:00pm (local time),4343,25,"5,348","North Sydney
+BEARS",8,8,8,"Western Suburbs
+MAGPIES",8,14,11
+0,NSWRFL 1980,Round 3,"Sunday, 13th April, 1980",3:00pm (local time),4344,111,"18,060","Parramatta
+EELS",19,40,6,"South Sydney
+RABBITOHS",0,5,5
+0,NSWRFL 1980,Round 3,"Sunday, 13th April, 1980",3:00pm (local time),4346,3,"10,525","Penrith
+PANTHERS",4,14,11,"Canterbury Bankstown
+BULLDOGS",18,40,10
+0,NSWRFL 1980,Round 3,"Sunday, 13th April, 1980",3:00pm (local time),4347,23,"16,650","St George
+DRAGONS",7,7,6,"Cronulla Sutherland
+SHARKS",9,32,9
+0,NSWRFL 1980,Round 4,"Saturday, 19th April, 1980",3:00pm (local time),4348,7,"5,701","Balmain
+TIGERS",7,27,14,"Cronulla Sutherland
+SHARKS",0,10,7
+0,NSWRFL 1980,Round 4,"Sunday, 20th April, 1980",3:00pm (local time),4350,109,"9,218","Eastern Suburbs
+ROOSTERS",4,12,11,"South Sydney
+RABBITOHS",4,4,13
+0,NSWRFL 1980,Round 4,"Sunday, 20th April, 1980",3:00pm (local time),4349,76,"9,177","Newtown
+JETS",9,17,8,"Parramatta
+EELS",12,14,8
+0,NSWRFL 1980,Round 4,"Sunday, 20th April, 1980",3:00pm (local time),4353,25,"4,875","North Sydney
+BEARS",13,19,5,"Canterbury Bankstown
+BULLDOGS",9,22,10
+0,NSWRFL 1980,Round 4,"Sunday, 20th April, 1980",3:00pm (local time),4352,23,"8,854","St George
+DRAGONS",21,36,8,"Penrith
+PANTHERS",7,12,11
+0,NSWRFL 1980,Round 4,"Sunday, 20th April, 1980",3:00pm (local time),4351,110,"12,219","Western Suburbs
+MAGPIES",3,19,12,"Manly Warringah
+SEA EAGLES",4,4,9
+0,NSWRFL 1980,Round 5,"Friday, 25th April, 1980",3:00pm (local time),4354,109,"12,183","Eastern Suburbs
+ROOSTERS",6,14,9,"Western Suburbs
+MAGPIES",2,7,9
+0,NSWRFL 1980,Round 5,"Saturday, 26th April, 1980",3:00pm (local time),4355,44,"8,342","South Sydney
+RABBITOHS",5,10,7,"Newtown
+JETS",4,12,15
+0,NSWRFL 1980,Round 5,"Sunday, 27th April, 1980",3:00pm (local time),4357,7,"6,135","Balmain
+TIGERS",2,15,9,"Penrith
+PANTHERS",9,11,9
+0,NSWRFL 1980,Round 5,"Sunday, 27th April, 1980",3:00pm (local time),4358,5,"12,162","Manly Warringah
+SEA EAGLES",5,12,10,"Canterbury Bankstown
+BULLDOGS",13,15,7
+0,NSWRFL 1980,Round 5,"Sunday, 27th April, 1980",3:00pm (local time),4356,25,"5,600","North Sydney
+BEARS",14,16,11,"St George
+DRAGONS",4,20,12
+0,NSWRFL 1980,Round 5,"Sunday, 27th April, 1980",3:00pm (local time),4359,111,"14,882","Parramatta
+EELS",4,7,10,"Cronulla Sutherland
+SHARKS",10,14,11
+0,NSWRFL 1980,Round 6,"Saturday, 3rd May, 1980",3:00pm (local time),4360,25,"3,106","North Sydney
+BEARS",4,6,16,"Balmain
+TIGERS",2,4,12
+0,NSWRFL 1980,Round 6,"Sunday, 4th May, 1980",3:00pm (local time),4362,9,"8,863","Cronulla Sutherland
+SHARKS",8,18,9,"South Sydney
+RABBITOHS",3,12,12
+0,NSWRFL 1980,Round 6,"Sunday, 4th May, 1980",3:00pm (local time),4363,109,"7,880","Eastern Suburbs
+ROOSTERS",4,6,14,"Newtown
+JETS",12,22,14
+0,NSWRFL 1980,Round 6,"Sunday, 4th May, 1980",3:00pm (local time),4361,5,"16,301","Manly Warringah
+SEA EAGLES",2,2,13,"St George
+DRAGONS",8,21,7
+0,NSWRFL 1980,Round 6,"Sunday, 4th May, 1980",3:00pm (local time),4364,3,"13,423","Penrith
+PANTHERS",10,19,16,"Parramatta
+EELS",7,19,17
+0,NSWRFL 1980,Round 6,"Sunday, 4th May, 1980",3:00pm (local time),4365,110,"12,451","Western Suburbs
+MAGPIES",17,24,2,"Canterbury Bankstown
+BULLDOGS",0,8,11
+0,NSWRFL 1980,Round 7,"Saturday, 10th May, 1980",3:00pm (local time),4366,24,"7,717","Canterbury Bankstown
+BULLDOGS",0,5,11,"Eastern Suburbs
+ROOSTERS",14,20,7
+0,NSWRFL 1980,Round 7,"Sunday, 11th May, 1980",3:00pm (local time),4370,5,"10,631","Manly Warringah
+SEA EAGLES",6,15,13,"Balmain
+TIGERS",7,11,12
+0,NSWRFL 1980,Round 7,"Sunday, 11th May, 1980",3:00pm (local time),4371,76,"7,751","Newtown
+JETS",9,16,5,"Cronulla Sutherland
+SHARKS",5,19,8
+0,NSWRFL 1980,Round 7,"Sunday, 11th May, 1980",3:00pm (local time),4368,111,"8,814","Parramatta
+EELS",10,17,10,"North Sydney
+BEARS",2,12,10
+0,NSWRFL 1980,Round 7,"Sunday, 11th May, 1980",3:00pm (local time),4367,23,"19,872","St George
+DRAGONS",2,22,6,"Western Suburbs
+MAGPIES",3,3,10
+0,NSWRFL 1980,Round 7,"Sunday, 11th May, 1980",3:00pm (local time),4369,44,"4,752","South Sydney
+RABBITOHS",37,59,5,"Penrith
+PANTHERS",0,5,12
+0,NSWRFL 1980,Round 8,"Sunday, 18th May, 1980",3:00pm (local time),4374,27,"25,148","Canterbury Bankstown
+BULLDOGS",2,12,9,"St George
+DRAGONS",17,19,12
+0,NSWRFL 1980,Round 8,"Sunday, 18th May, 1980",3:00pm (local time),4375,9,"10,575","Cronulla Sutherland
+SHARKS",6,11,9,"Eastern Suburbs
+ROOSTERS",12,14,10
+0,NSWRFL 1980,Round 8,"Sunday, 18th May, 1980",3:00pm (local time),4372,5,"19,163","Manly Warringah
+SEA EAGLES",7,17,7,"Parramatta
+EELS",10,15,14
+0,NSWRFL 1980,Round 8,"Sunday, 18th May, 1980",3:00pm (local time),4373,25,"6,002","North Sydney
+BEARS",0,18,18,"South Sydney
+RABBITOHS",5,5,8
+0,NSWRFL 1980,Round 8,"Sunday, 18th May, 1980",3:00pm (local time),4376,3,"5,605","Penrith
+PANTHERS",15,15,9,"Newtown
+JETS",10,17,7
+0,NSWRFL 1980,Round 8,"Sunday, 18th May, 1980",3:00pm (local time),4377,110,"9,647","Western Suburbs
+MAGPIES",10,26,16,"Balmain
+TIGERS",4,4,11
+0,NSWRFL 1980,Round 9,"Saturday, 24th May, 1980",3:00pm (local time),4378,23,"12,188","St George
+DRAGONS",5,10,6,"Eastern Suburbs
+ROOSTERS",3,10,13
+0,NSWRFL 1980,Round 9,"Sunday, 25th May, 1980",3:00pm (local time),4379,7,"8,611","Balmain
+TIGERS",6,12,13,"Canterbury Bankstown
+BULLDOGS",9,14,17
+0,NSWRFL 1980,Round 9,"Sunday, 25th May, 1980",3:00pm (local time),4381,25,"6,269","North Sydney
+BEARS",3,8,9,"Newtown
+JETS",7,17,7
+0,NSWRFL 1980,Round 9,"Sunday, 25th May, 1980",3:00pm (local time),4383,3,"7,322","Penrith
+PANTHERS",2,15,11,"Cronulla Sutherland
+SHARKS",9,14,10
+0,NSWRFL 1980,Round 9,"Sunday, 25th May, 1980",3:00pm (local time),4380,44,"9,131","South Sydney
+RABBITOHS",4,9,11,"Manly Warringah
+SEA EAGLES",7,17,11
+0,NSWRFL 1980,Round 9,"Sunday, 25th May, 1980",3:00pm (local time),4382,110,"16,257","Western Suburbs
+MAGPIES",12,21,12,"Parramatta
+EELS",9,17,16
+0,NSWRFL 1980,Round 10,"Saturday, 31st May, 1980",3:00pm (local time),4384,76,"6,319","Newtown
+JETS",4,13,15,"Manly Warringah
+SEA EAGLES",8,14,10
+0,NSWRFL 1980,Round 10,"Sunday, 1st June, 1980",3:00pm (local time),4386,7,"8,389","Balmain
+TIGERS",12,27,4,"St George
+DRAGONS",8,16,8
+0,NSWRFL 1980,Round 10,"Sunday, 1st June, 1980",3:00pm (local time),4387,9,"6,841","Cronulla Sutherland
+SHARKS",7,18,9,"North Sydney
+BEARS",7,7,13
+0,NSWRFL 1980,Round 10,"Sunday, 1st June, 1980",3:00pm (local time),4388,109,"4,672","Eastern Suburbs
+ROOSTERS",10,26,12,"Penrith
+PANTHERS",2,2,14
+0,NSWRFL 1980,Round 10,"Sunday, 1st June, 1980",3:00pm (local time),4389,111,"12,827","Parramatta
+EELS",5,16,6,"Canterbury Bankstown
+BULLDOGS",2,5,7
+0,NSWRFL 1980,Round 10,"Sunday, 1st June, 1980",3:00pm (local time),4385,44,"7,800","South Sydney
+RABBITOHS",13,26,7,"Western Suburbs
+MAGPIES",0,10,7
+0,NSWRFL 1980,Round 11,"Saturday, 7th June, 1980",3:00pm (local time),4390,5,"9,458","Manly Warringah
+SEA EAGLES",9,17,14,"Cronulla Sutherland
+SHARKS",9,14,13
+0,NSWRFL 1980,Round 11,"Sunday, 8th June, 1980",3:00pm (local time),4391,27,"15,238","Canterbury Bankstown
+BULLDOGS",10,18,9,"South Sydney
+RABBITOHS",5,9,8
+0,NSWRFL 1980,Round 11,"Sunday, 8th June, 1980",3:00pm (local time),4395,109,"10,662","Eastern Suburbs
+ROOSTERS",5,15,9,"Balmain
+TIGERS",6,23,7
+0,NSWRFL 1980,Round 11,"Sunday, 8th June, 1980",3:00pm (local time),4393,3,"5,110","Penrith
+PANTHERS",5,10,15,"North Sydney
+BEARS",18,27,11
+0,NSWRFL 1980,Round 11,"Sunday, 8th June, 1980",3:00pm (local time),4394,23,"18,181","St George
+DRAGONS",7,12,13,"Parramatta
+EELS",14,19,10
+0,NSWRFL 1980,Round 11,"Sunday, 8th June, 1980",3:00pm (local time),4392,110,"7,671","Western Suburbs
+MAGPIES",10,17,7,"Newtown
+JETS",4,12,10
+0,NSWRFL 1980,Round 12,"Saturday, 14th June, 1980",3:00pm (local time),4396,111,"5,775","Parramatta
+EELS",9,19,6,"Penrith
+PANTHERS",4,9,13
+0,NSWRFL 1980,Round 13,"Saturday, 21st June, 1980",3:00pm (local time),4402,44,"8,254","South Sydney
+RABBITOHS",10,17,14,"St George
+DRAGONS",7,18,9
+0,NSWRFL 1980,Round 13,"Sunday, 22nd June, 1980",3:00pm (local time),4404,27,"12,817","Canterbury Bankstown
+BULLDOGS",12,22,9,"Newtown
+JETS",0,8,18
+0,NSWRFL 1980,Round 13,"Sunday, 22nd June, 1980",3:00pm (local time),4403,5,"9,027","Manly Warringah
+SEA EAGLES",9,20,11,"Penrith
+PANTHERS",9,14,8
+0,NSWRFL 1980,Round 13,"Sunday, 22nd June, 1980",3:00pm (local time),4407,25,"5,100","North Sydney
+BEARS",9,11,12,"Eastern Suburbs
+ROOSTERS",2,11,14
+0,NSWRFL 1980,Round 13,"Sunday, 22nd June, 1980",3:00pm (local time),4405,111,"14,549","Parramatta
+EELS",9,11,12,"Balmain
+TIGERS",5,10,13
+0,NSWRFL 1980,Round 13,"Sunday, 22nd June, 1980",3:00pm (local time),4406,110,"8,101","Western Suburbs
+MAGPIES",12,16,8,"Cronulla Sutherland
+SHARKS",4,11,16
+0,NSWRFL 1980,Round 14,"Saturday, 28th June, 1980",3:00pm (local time),4408,109,"11,740","Eastern Suburbs
+ROOSTERS",3,6,7,"Parramatta
+EELS",0,3,7
+0,NSWRFL 1980,Round 14,"Sunday, 29th June, 1980",3:00pm (local time),4410,7,"6,679","Balmain
+TIGERS",5,5,15,"South Sydney
+RABBITOHS",5,18,12
+0,NSWRFL 1980,Round 14,"Sunday, 29th June, 1980",3:00pm (local time),4411,27,"10,456","Canterbury Bankstown
+BULLDOGS",8,13,10,"Cronulla Sutherland
+SHARKS",5,10,12
+0,NSWRFL 1980,Round 14,"Sunday, 29th June, 1980",3:00pm (local time),4412,25,"6,157","North Sydney
+BEARS",4,10,17,"Manly Warringah
+SEA EAGLES",9,9,5
+0,NSWRFL 1980,Round 14,"Sunday, 29th June, 1980",3:00pm (local time),4409,3,"6,578","Penrith
+PANTHERS",5,10,14,"Western Suburbs
+MAGPIES",18,37,8
+0,NSWRFL 1980,Round 14,"Sunday, 29th June, 1980",3:00pm (local time),4413,23,"8,414","St George
+DRAGONS",11,19,14,"Newtown
+JETS",5,15,10
+0,NSWRFL 1980,Round 15,"Saturday, 5th July, 1980",3:00pm (local time),4414,110,"6,441","Western Suburbs
+MAGPIES",10,39,14,"North Sydney
+BEARS",6,8,15
+0,NSWRFL 1980,Round 15,"Sunday, 6th July, 1980",3:00pm (local time),4415,7,"6,075","Balmain
+TIGERS",4,11,8,"Newtown
+JETS",2,19,10
+0,NSWRFL 1980,Round 15,"Sunday, 6th July, 1980",3:00pm (local time),4416,27,"9,146","Canterbury Bankstown
+BULLDOGS",7,14,9,"Penrith
+PANTHERS",5,10,20
+0,NSWRFL 1980,Round 15,"Sunday, 6th July, 1980",3:00pm (local time),4417,9,"14,249","Cronulla Sutherland
+SHARKS",5,12,8,"St George
+DRAGONS",10,25,9
+0,NSWRFL 1980,Round 15,"Sunday, 6th July, 1980",3:00pm (local time),4418,109,"10,949","Eastern Suburbs
+ROOSTERS",8,29,11,"Manly Warringah
+SEA EAGLES",4,9,7
+0,NSWRFL 1980,Round 15,"Sunday, 6th July, 1980",3:00pm (local time),4419,44,"9,752","South Sydney
+RABBITOHS",13,28,3,"Parramatta
+EELS",7,12,7
+0,NSWRFL 1980,Round 16,"Saturday, 12th July, 1980",3:00pm (local time),4420,9,"5,215","Cronulla Sutherland
+SHARKS",17,33,10,"Balmain
+TIGERS",6,14,7
+0,NSWRFL 1980,Round 16,"Sunday, 13th July, 1980",3:00pm (local time),4423,27,"9,323","Canterbury Bankstown
+BULLDOGS",7,23,12,"North Sydney
+BEARS",2,2,9
+0,NSWRFL 1980,Round 16,"Sunday, 13th July, 1980",3:00pm (local time),4421,5,"18,056","Manly Warringah
+SEA EAGLES",9,11,10,"Western Suburbs
+MAGPIES",0,8,14
+0,NSWRFL 1980,Round 16,"Sunday, 13th July, 1980",3:00pm (local time),4424,111,"11,511","Parramatta
+EELS",3,37,14,"Newtown
+JETS",6,6,11
+0,NSWRFL 1980,Round 16,"Sunday, 13th July, 1980",3:00pm (local time),4422,3,"9,683","Penrith
+PANTHERS",14,20,7,"St George
+DRAGONS",7,24,13
+0,NSWRFL 1980,Round 16,"Sunday, 13th July, 1980",3:00pm (local time),4425,44,"12,611","South Sydney
+RABBITOHS",7,7,8,"Eastern Suburbs
+ROOSTERS",0,5,5
+0,NSWRFL 1980,Round 17,"Saturday, 19th July, 1980",3:00pm (local time),4426,76,"5,724","Newtown
+JETS",7,12,9,"South Sydney
+RABBITOHS",3,15,10
+0,NSWRFL 1980,Round 17,"Sunday, 20th July, 1980",3:00pm (local time),4427,27,"16,047","Canterbury Bankstown
+BULLDOGS",2,11,11,"Manly Warringah
+SEA EAGLES",7,10,14
+0,NSWRFL 1980,Round 17,"Sunday, 20th July, 1980",3:00pm (local time),4428,9,"11,742","Cronulla Sutherland
+SHARKS",2,7,7,"Parramatta
+EELS",17,32,12
+0,NSWRFL 1980,Round 17,"Sunday, 20th July, 1980",3:00pm (local time),4430,3,"5,450","Penrith
+PANTHERS",0,5,13,"Balmain
+TIGERS",31,46,8
+0,NSWRFL 1980,Round 17,"Sunday, 20th July, 1980",3:00pm (local time),4429,23,"6,291","St George
+DRAGONS",10,18,9,"North Sydney
+BEARS",5,10,6
+0,NSWRFL 1980,Round 17,"Sunday, 20th July, 1980",3:00pm (local time),4431,110,"10,531","Western Suburbs
+MAGPIES",12,14,12,"Eastern Suburbs
+ROOSTERS",14,26,8
+0,NSWRFL 1980,Round 12,"Saturday, 26th July, 1980",3:00pm (local time),4397,7,"3,546","Balmain
+TIGERS",17,37,9,"North Sydney
+BEARS",6,14,12
+0,NSWRFL 1980,Round 12,"Sunday, 27th July, 1980",3:00pm (local time),4398,27,"16,439","Canterbury Bankstown
+BULLDOGS",2,9,12,"Western Suburbs
+MAGPIES",10,29,4
+0,NSWRFL 1980,Round 12,"Sunday, 27th July, 1980",3:00pm (local time),4401,76,"4,769","Newtown
+JETS",5,5,8,"Eastern Suburbs
+ROOSTERS",6,19,11
+0,NSWRFL 1980,Round 12,"Sunday, 27th July, 1980",3:00pm (local time),4399,23,"18,153","St George
+DRAGONS",4,19,11,"Manly Warringah
+SEA EAGLES",9,19,8
+0,NSWRFL 1980,Round 12,"Sunday, 27th July, 1980",3:00pm (local time),4400,44,"7,604","South Sydney
+RABBITOHS",4,6,9,"Cronulla Sutherland
+SHARKS",3,6,14
+0,NSWRFL 1980,Round 18,"Saturday, 2nd August, 1980",3:00pm (local time),4432,110,"17,492","Western Suburbs
+MAGPIES",7,15,10,"St George
+DRAGONS",5,10,9
+0,NSWRFL 1980,Round 18,"Sunday, 3rd August, 1980",3:00pm (local time),4435,7,"8,662","Balmain
+TIGERS",5,10,8,"Manly Warringah
+SEA EAGLES",9,18,16
+0,NSWRFL 1980,Round 18,"Sunday, 3rd August, 1980",3:00pm (local time),4436,9,"4,335","Cronulla Sutherland
+SHARKS",5,11,15,"Newtown
+JETS",4,11,14
+0,NSWRFL 1980,Round 18,"Sunday, 3rd August, 1980",3:00pm (local time),4437,109,"11,296","Eastern Suburbs
+ROOSTERS",4,14,15,"Canterbury Bankstown
+BULLDOGS",5,7,13
+0,NSWRFL 1980,Round 18,"Sunday, 3rd August, 1980",3:00pm (local time),4433,25,"6,006","North Sydney
+BEARS",7,18,13,"Parramatta
+EELS",18,27,7
+0,NSWRFL 1980,Round 18,"Sunday, 3rd August, 1980",3:00pm (local time),4434,3,"5,965","Penrith
+PANTHERS",12,17,7,"South Sydney
+RABBITOHS",8,22,13
+0,NSWRFL 1980,Round 19,"Saturday, 9th August, 1980",3:00pm (local time),4438,109,"6,804","Eastern Suburbs
+ROOSTERS",25,35,11,"Cronulla Sutherland
+SHARKS",0,0,10
+0,NSWRFL 1980,Round 19,"Sunday, 10th August, 1980",3:00pm (local time),4440,7,"8,160","Balmain
+TIGERS",12,21,8,"Western Suburbs
+MAGPIES",13,18,10
+0,NSWRFL 1980,Round 19,"Sunday, 10th August, 1980",3:00pm (local time),4439,76,"3,299","Newtown
+JETS",15,28,16,"Penrith
+PANTHERS",15,22,10
+0,NSWRFL 1980,Round 19,"Sunday, 10th August, 1980",3:00pm (local time),4441,111,"21,535","Parramatta
+EELS",10,22,9,"Manly Warringah
+SEA EAGLES",17,22,9
+0,NSWRFL 1980,Round 19,"Sunday, 10th August, 1980",3:00pm (local time),4443,23,"16,598","St George
+DRAGONS",7,7,9,"Canterbury Bankstown
+BULLDOGS",7,15,6
+0,NSWRFL 1980,Round 19,"Sunday, 10th August, 1980",3:00pm (local time),4442,44,"5,972","South Sydney
+RABBITOHS",13,21,7,"North Sydney
+BEARS",5,20,11
+0,NSWRFL 1980,Round 20,"Saturday, 16th August, 1980",3:00pm (local time),4444,5,"12,354","Manly Warringah
+SEA EAGLES",12,17,8,"South Sydney
+RABBITOHS",13,26,6
+0,NSWRFL 1980,Round 20,"Sunday, 17th August, 1980",3:00pm (local time),4449,27,"11,125","Canterbury Bankstown
+BULLDOGS",7,19,11,"Balmain
+TIGERS",8,15,8
+0,NSWRFL 1980,Round 20,"Sunday, 17th August, 1980",3:00pm (local time),4447,9,"3,015","Cronulla Sutherland
+SHARKS",17,19,19,"Penrith
+PANTHERS",8,15,9
+0,NSWRFL 1980,Round 20,"Sunday, 17th August, 1980",3:00pm (local time),4448,109,"19,716","Eastern Suburbs
+ROOSTERS",8,10,17,"St George
+DRAGONS",8,4,14
+0,NSWRFL 1980,Round 20,"Sunday, 17th August, 1980",3:00pm (local time),4445,76,"2,395","Newtown
+JETS",10,25,2,"North Sydney
+BEARS",0,5,6
+0,NSWRFL 1980,Round 20,"Sunday, 17th August, 1980",3:00pm (local time),4446,111,"17,897","Parramatta
+EELS",4,9,9,"Western Suburbs
+MAGPIES",25,34,22
+0,NSWRFL 1980,Round 21,"Saturday, 23rd August, 1980",3:00pm (local time),4450,110,"14,007","Western Suburbs
+MAGPIES",10,15,8,"South Sydney
+RABBITOHS",5,21,11
+0,NSWRFL 1980,Round 21,"Sunday, 24th August, 1980",3:00pm (local time),4452,27,"20,076","Canterbury Bankstown
+BULLDOGS",5,15,5,"Parramatta
+EELS",4,14,10
+0,NSWRFL 1980,Round 21,"Sunday, 24th August, 1980",3:00pm (local time),4451,5,"9,452","Manly Warringah
+SEA EAGLES",7,9,7,"Newtown
+JETS",10,19,17
+0,NSWRFL 1980,Round 21,"Sunday, 24th August, 1980",3:00pm (local time),4454,25,"2,179","North Sydney
+BEARS",14,20,15,"Cronulla Sutherland
+SHARKS",3,11,15
+0,NSWRFL 1980,Round 21,"Sunday, 24th August, 1980",3:00pm (local time),4455,3,"6,968","Penrith
+PANTHERS",7,10,9,"Eastern Suburbs
+ROOSTERS",10,15,12
+0,NSWRFL 1980,Round 21,"Sunday, 24th August, 1980",3:00pm (local time),4453,23,"8,700","St George
+DRAGONS",9,11,16,"Balmain
+TIGERS",3,7,10
+0,NSWRFL 1980,Round 22,"Saturday, 30th August, 1980",3:00pm (local time),4456,44,"21,002","South Sydney
+RABBITOHS",11,18,7,"Canterbury Bankstown
+BULLDOGS",14,27,9
+0,NSWRFL 1980,Round 22,"Sunday, 31st August, 1980",3:00pm (local time),4460,7,"6,740","Balmain
+TIGERS",5,10,10,"Eastern Suburbs
+ROOSTERS",10,15,8
+0,NSWRFL 1980,Round 22,"Sunday, 31st August, 1980",3:00pm (local time),4461,9,"5,667","Cronulla Sutherland
+SHARKS",12,35,6,"Manly Warringah
+SEA EAGLES",2,12,9
+0,NSWRFL 1980,Round 22,"Sunday, 31st August, 1980",3:00pm (local time),4457,76,"6,095","Newtown
+JETS",7,23,6,"Western Suburbs
+MAGPIES",15,20,10
+0,NSWRFL 1980,Round 22,"Sunday, 31st August, 1980",3:00pm (local time),4458,25,"2,247","North Sydney
+BEARS",2,7,9,"Penrith
+PANTHERS",5,15,11
+0,NSWRFL 1980,Round 22,"Sunday, 31st August, 1980",3:00pm (local time),4459,111,"19,849","Parramatta
+EELS",4,11,10,"St George
+DRAGONS",12,20,11
+0,NSWRFL 1980,Major Prelim Semi,"Saturday, 6th September, 1980",3:00pm (local time),4462,24,"21,948","Canterbury Bankstown
+BULLDOGS",12,22,5,"Western Suburbs
+MAGPIES",2,17,9
+0,NSWRFL 1980,Minor Prelim Semi,"Sunday, 7th September, 1980",3:00pm (local time),4463,24,"33,552","St George
+DRAGONS",10,16,8,"South Sydney
+RABBITOHS",2,5,12
+0,NSWRFL 1980,Major Semi,"Saturday, 13th September, 1980",3:00pm (local time),4464,24,"28,883","Canterbury Bankstown
+BULLDOGS",4,13,7,"Eastern Suburbs
+ROOSTERS",5,7,6
+0,NSWRFL 1980,Minor Semi,"Sunday, 14th September, 1980",3:00pm (local time),4465,24,"28,451","Western Suburbs
+MAGPIES",2,13,12,"St George
+DRAGONS",2,7,14
+0,NSWRFL 1980,Prelim Final,"Saturday, 20th September, 1980",3:00pm (local time),4466,24,"28,596","Eastern Suburbs
+ROOSTERS",17,41,6,"Western Suburbs
+MAGPIES",0,5,7
+0,NSWRFL 1980,Grand Final,"Saturday, 27th September, 1980",3:00pm (local time),4467,24,"52,881","Canterbury Bankstown
+BULLDOGS",7,18,10,"Eastern Suburbs
+ROOSTERS",4,4,9

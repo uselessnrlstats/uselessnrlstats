@@ -1,0 +1,72 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1924,Round 1,"Saturday, 3rd May, 1924",3:15pm (local time),9064,150,"1,500",GLEBE,0,12,,NORTH SYDNEY,2,5,
+0,NSWRFL 1924,Round 1,"Saturday, 3rd May, 1924",3:15pm (local time),9067,109,"1,500",NEWTOWN,5,13,,EASTERN SUBURBS,9,14,
+0,NSWRFL 1924,Round 1,"Saturday, 3rd May, 1924",3:15pm (local time),9065,112,300,"St George
+DRAGONS",10,13,,UNIVERSITY,10,13,
+0,NSWRFL 1924,Round 1,"Saturday, 3rd May, 1924",3:15pm (local time),9066,24,"15,000","South Sydney
+RABBITOHS",10,13,,"Western Suburbs
+MAGPIES",5,5,
+0,NSWRFL 1924,Round 2,"Saturday, 10th May, 1924",3:15pm (local time),9070,150,"4,000","Balmain
+TIGERS",11,29,,"St George
+DRAGONS",0,2,
+0,NSWRFL 1924,Round 2,"Saturday, 10th May, 1924",3:15pm (local time),9071,24,"6,000",EASTERN SUBURBS,13,28,,NORTH SYDNEY,8,11,
+0,NSWRFL 1924,Round 2,"Saturday, 10th May, 1924",3:15pm (local time),9068,109,"14,000",GLEBE,5,8,,"South Sydney
+RABBITOHS",3,6,
+0,NSWRFL 1924,Round 2,"Saturday, 10th May, 1924",3:15pm (local time),9069,112,"1,500",NEWTOWN,10,10,,UNIVERSITY,9,14,
+0,NSWRFL 1924,Round 3,"Saturday, 17th May, 1924",3:15pm (local time),9072,150,"4,500","Balmain
+TIGERS",3,18,,NEWTOWN,0,0,
+0,NSWRFL 1924,Round 3,"Saturday, 17th May, 1924",3:15pm (local time),9073,24,"13,000",EASTERN SUBURBS,8,13,,UNIVERSITY,5,15,
+0,NSWRFL 1924,Round 3,"Saturday, 17th May, 1924",3:15pm (local time),9074,109,"12,000","South Sydney
+RABBITOHS",9,15,,NORTH SYDNEY,8,8,
+0,NSWRFL 1924,Round 3,"Saturday, 17th May, 1924",3:15pm (local time),9075,112,"3,000","Western Suburbs
+MAGPIES",5,10,,"St George
+DRAGONS",10,13,
+0,NSWRFL 1924,Round 4,"Saturday, 24th May, 1924",3:15pm (local time),9077,109,"22,000","Balmain
+TIGERS",2,2,,EASTERN SUBURBS,9,15,
+0,NSWRFL 1924,Round 4,"Saturday, 24th May, 1924",3:15pm (local time),9076,25,"5,000",NORTH SYDNEY,5,16,,UNIVERSITY,8,13,
+0,NSWRFL 1924,Round 4,"Saturday, 24th May, 1924",3:15pm (local time),9078,24,"3,500","St George
+DRAGONS",7,10,,GLEBE,3,7,
+0,NSWRFL 1924,Round 4,"Saturday, 24th May, 1924",3:15pm (local time),9079,112,"3,000","Western Suburbs
+MAGPIES",8,13,,NEWTOWN,10,15,
+0,NSWRFL 1924,Round 5,"Saturday, 14th June, 1924",3:15pm (local time),9081,109,"1,500",EASTERN SUBURBS,0,0,,"St George
+DRAGONS",2,9,
+0,NSWRFL 1924,Round 5,"Saturday, 14th June, 1924",3:15pm (local time),9080,112,"2,000",GLEBE,8,11,,"Western Suburbs
+MAGPIES",11,29,
+0,NSWRFL 1924,Round 5,"Saturday, 14th June, 1924",3:15pm (local time),9082,25,"3,000",NORTH SYDNEY,9,20,,NEWTOWN,10,10,
+0,NSWRFL 1924,Round 5,"Saturday, 14th June, 1924",3:15pm (local time),9083,24,"16,000","South Sydney
+RABBITOHS",5,10,,"Balmain
+TIGERS",3,10,
+0,NSWRFL 1924,Round 6,"Saturday, 5th July, 1924",3:15pm (local time),9086,109,"11,000",EASTERN SUBURBS,0,3,,"South Sydney
+RABBITOHS",8,11,
+0,NSWRFL 1924,Round 6,"Saturday, 5th July, 1924",3:15pm (local time),9084,24,"1,000",GLEBE,11,11,,UNIVERSITY,5,8,
+0,NSWRFL 1924,Round 6,"Saturday, 5th July, 1924",3:15pm (local time),9085,25,"3,000",NORTH SYDNEY,14,25,,"St George
+DRAGONS",9,15,
+0,NSWRFL 1924,Round 6,"Saturday, 5th July, 1924",3:15pm (local time),9087,112,"3,000","Western Suburbs
+MAGPIES",5,10,,"Balmain
+TIGERS",9,22,
+0,NSWRFL 1924,Round 7,"Saturday, 12th July, 1924",3:15pm (local time),9089,150,"6,000","Balmain
+TIGERS",12,15,,NORTH SYDNEY,0,6,
+0,NSWRFL 1924,Round 7,"Saturday, 12th July, 1924",3:15pm (local time),9090,24,"3,000",EASTERN SUBURBS,2,7,,GLEBE,19,27,
+0,NSWRFL 1924,Round 7,"Saturday, 12th July, 1924",3:15pm (local time),9088,109,"4,000",NEWTOWN,0,8,,"South Sydney
+RABBITOHS",10,21,
+0,NSWRFL 1924,Round 7,"Saturday, 12th July, 1924",3:15pm (local time),9091,112,"2,000","Western Suburbs
+MAGPIES",2,25,,UNIVERSITY,5,8,
+0,NSWRFL 1924,Round 8,"Saturday, 19th July, 1924",3:15pm (local time),9095,109,"12,000",GLEBE,2,7,,"Balmain
+TIGERS",8,13,
+0,NSWRFL 1924,Round 8,"Saturday, 19th July, 1924",3:15pm (local time),9092,25,"4,000",NORTH SYDNEY,0,16,,"Western Suburbs
+MAGPIES",7,20,
+0,NSWRFL 1924,Round 8,"Saturday, 19th July, 1924",3:15pm (local time),9094,112,"1,500","St George
+DRAGONS",22,25,,NEWTOWN,12,25,
+0,NSWRFL 1924,Round 8,"Saturday, 19th July, 1924",3:15pm (local time),9093,24,"7,000","South Sydney
+RABBITOHS",7,12,,UNIVERSITY,3,11,
+0,NSWRFL 1924,Round 9,"Saturday, 26th July, 1924",3:15pm (local time),9097,109,"6,000","Balmain
+TIGERS",5,15,,UNIVERSITY,0,3,
+0,NSWRFL 1924,Round 9,"Saturday, 26th July, 1924",3:15pm (local time),9098,25,"1,000",NEWTOWN,7,17,,GLEBE,4,4,
+0,NSWRFL 1924,Round 9,"Saturday, 26th July, 1924",3:15pm (local time),9096,24,"9,000","St George
+DRAGONS",5,7,,"South Sydney
+RABBITOHS",5,16,
+0,NSWRFL 1924,Round 9,"Saturday, 26th July, 1924",3:15pm (local time),9099,112,"3,000","Western Suburbs
+MAGPIES",5,18,,EASTERN SUBURBS,5,5,
+0,NSWRFL 1924,Final,"Tuesday, 29th July, 1924",3:05pm (local time),9100,24,"15,000","Balmain
+TIGERS",3,3,,"South Sydney
+RABBITOHS",0,0,

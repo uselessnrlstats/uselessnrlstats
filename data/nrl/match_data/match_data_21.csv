@@ -1,0 +1,144 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1929,Round 1,"Saturday, 20th April, 1929",3:15pm (local time),9364,150,"11,000","Balmain
+TIGERS",0,0,,"South Sydney
+RABBITOHS",5,17,
+0,NSWRFL 1929,Round 1,"Saturday, 20th April, 1929",3:15pm (local time),9365,109,"6,000",EASTERN SUBURBS,8,19,,UNIVERSITY,5,10,
+0,NSWRFL 1929,Round 1,"Saturday, 20th April, 1929",3:15pm (local time),9362,158,"9,000",GLEBE,7,7,,NEWTOWN,3,5,
+0,NSWRFL 1929,Round 1,"Saturday, 20th April, 1929",3:15pm (local time),9363,154,"11,000","St George
+DRAGONS",4,9,,"Western Suburbs
+MAGPIES",2,5,
+0,NSWRFL 1929,Round 2,"Thursday, 25th April, 1929",3:15pm (local time),9367,150,"8,000","Balmain
+TIGERS",13,18,,"Western Suburbs
+MAGPIES",10,18,
+0,NSWRFL 1929,Round 2,"Thursday, 25th April, 1929",3:15pm (local time),9369,25,,NORTH SYDNEY,8,10,,EASTERN SUBURBS,5,10,
+0,NSWRFL 1929,Round 2,"Thursday, 25th April, 1929",3:15pm (local time),9366,154,"7,000","St George
+DRAGONS",11,19,,UNIVERSITY,0,0,
+0,NSWRFL 1929,Round 2,"Thursday, 25th April, 1929",3:15pm (local time),9368,109,"14,500","South Sydney
+RABBITOHS",14,28,,GLEBE,2,2,
+0,NSWRFL 1929,Round 3,"Saturday, 27th April, 1929",3:15pm (local time),9372,105,"1,500",GLEBE,8,8,,"Balmain
+TIGERS",0,7,
+0,NSWRFL 1929,Round 3,"Saturday, 27th April, 1929",3:15pm (local time),9373,158,"3,000",NEWTOWN,12,19,,EASTERN SUBURBS,0,13,
+0,NSWRFL 1929,Round 3,"Saturday, 27th April, 1929",3:15pm (local time),9370,109,"8,000",NORTH SYDNEY,0,10,,"St George
+DRAGONS",5,8,
+0,NSWRFL 1929,Round 3,"Saturday, 27th April, 1929",3:15pm (local time),9371,112,"5,000","Western Suburbs
+MAGPIES",3,24,,UNIVERSITY,4,4,
+0,NSWRFL 1929,Round 4,"Saturday, 4th May, 1929",3:15pm (local time),9374,150,"2,000","Balmain
+TIGERS",3,27,,UNIVERSITY,9,14,
+0,NSWRFL 1929,Round 4,"Saturday, 4th May, 1929",3:15pm (local time),9375,154,"8,000","St George
+DRAGONS",2,13,,NEWTOWN,7,7,
+0,NSWRFL 1929,Round 4,"Saturday, 4th May, 1929",3:15pm (local time),9377,109,"18,000","South Sydney
+RABBITOHS",6,17,,EASTERN SUBURBS,0,5,
+0,NSWRFL 1929,Round 4,"Saturday, 4th May, 1929",3:15pm (local time),9376,112,"10,000","Western Suburbs
+MAGPIES",7,29,,NORTH SYDNEY,3,3,
+0,NSWRFL 1929,Round 5,"Saturday, 11th May, 1929",3:15pm (local time),9381,105,"1,000",GLEBE,2,5,,EASTERN SUBURBS,3,5,
+0,NSWRFL 1929,Round 5,"Saturday, 11th May, 1929",3:15pm (local time),9378,25,"2,000",NORTH SYDNEY,14,25,,UNIVERSITY,5,11,
+0,NSWRFL 1929,Round 5,"Saturday, 11th May, 1929",3:15pm (local time),9379,109,"10,134","St George
+DRAGONS",5,5,,"South Sydney
+RABBITOHS",9,17,
+0,NSWRFL 1929,Round 5,"Saturday, 11th May, 1929",3:15pm (local time),9380,112,"2,000","Western Suburbs
+MAGPIES",17,25,,NEWTOWN,0,3,
+0,NSWRFL 1929,Round 6,"Saturday, 18th May, 1929",3:15pm (local time),9382,105,"2,500",GLEBE,3,12,,"St George
+DRAGONS",8,23,
+0,NSWRFL 1929,Round 6,"Saturday, 18th May, 1929",3:15pm (local time),9383,158,"10,000",NEWTOWN,2,12,,UNIVERSITY,5,5,
+0,NSWRFL 1929,Round 6,"Saturday, 18th May, 1929",3:15pm (local time),9385,25,"4,000",NORTH SYDNEY,10,19,,"Balmain
+TIGERS",10,10,
+0,NSWRFL 1929,Round 6,"Saturday, 18th May, 1929",3:15pm (local time),9384,103,"36,818","South Sydney
+RABBITOHS",5,13,,"Western Suburbs
+MAGPIES",7,7,
+0,NSWRFL 1929,Round 7,"Saturday, 15th June, 1929",3:15pm (local time),9389,103,"1,000",EASTERN SUBURBS,0,8,,"Balmain
+TIGERS",11,23,
+0,NSWRFL 1929,Round 7,"Saturday, 15th June, 1929",3:15pm (local time),9386,109,"5,132",NEWTOWN,8,14,,NORTH SYDNEY,5,12,
+0,NSWRFL 1929,Round 7,"Saturday, 15th June, 1929",3:15pm (local time),9387,105,"2,000","South Sydney
+RABBITOHS",16,29,,UNIVERSITY,7,9,
+0,NSWRFL 1929,Round 7,"Saturday, 15th June, 1929",3:15pm (local time),9388,112,"5,000","Western Suburbs
+MAGPIES",13,17,,GLEBE,4,12,
+0,NSWRFL 1929,Round 8,"Saturday, 22nd June, 1929",3:15pm (local time),9390,105,"1,000",GLEBE,4,6,,UNIVERSITY,3,6,
+0,NSWRFL 1929,Round 8,"Saturday, 22nd June, 1929",3:15pm (local time),9392,158,"3,000",NEWTOWN,10,23,,"Balmain
+TIGERS",6,11,
+0,NSWRFL 1929,Round 8,"Saturday, 22nd June, 1929",3:15pm (local time),9393,154,"3,000","St George
+DRAGONS",10,18,,EASTERN SUBURBS,0,13,
+0,NSWRFL 1929,Round 8,"Saturday, 22nd June, 1929",3:15pm (local time),9391,109,"9,000","South Sydney
+RABBITOHS",10,10,,NORTH SYDNEY,0,2,
+0,NSWRFL 1929,Round 9,"Saturday, 29th June, 1929",3:15pm (local time),9396,150,,"Balmain
+TIGERS",9,9,,"St George
+DRAGONS",0,2,
+0,NSWRFL 1929,Round 9,"Saturday, 29th June, 1929",3:15pm (local time),9394,25,"3,000",GLEBE,7,10,,NORTH SYDNEY,5,12,
+0,NSWRFL 1929,Round 9,"Saturday, 29th June, 1929",3:15pm (local time),9395,109,"7,105",NEWTOWN,0,5,,"South Sydney
+RABBITOHS",2,2,
+0,NSWRFL 1929,Round 9,"Saturday, 29th June, 1929",3:15pm (local time),9397,112,,"Western Suburbs
+MAGPIES",6,18,,EASTERN SUBURBS,5,5,
+0,NSWRFL 1929,Round 10,"Saturday, 6th July, 1929",3:15pm (local time),9398,105,,EASTERN SUBURBS,0,16,,UNIVERSITY,6,35,
+0,NSWRFL 1929,Round 10,"Saturday, 6th July, 1929",3:15pm (local time),9399,158,"3,000",NEWTOWN,6,6,,GLEBE,2,5,
+0,NSWRFL 1929,Round 10,"Saturday, 6th July, 1929",3:15pm (local time),9401,109,"6,000","South Sydney
+RABBITOHS",9,27,,"Balmain
+TIGERS",5,10,
+0,NSWRFL 1929,Round 10,"Saturday, 6th July, 1929",3:15pm (local time),9400,112,"7,000","Western Suburbs
+MAGPIES",8,18,,"St George
+DRAGONS",2,2,
+0,NSWRFL 1929,Round 11,"Saturday, 13th July, 1929",3:15pm (local time),9404,103,,EASTERN SUBURBS,10,12,,NORTH SYDNEY,10,10,
+0,NSWRFL 1929,Round 11,"Saturday, 13th July, 1929",3:15pm (local time),9402,109,"8,539",GLEBE,2,4,,"South Sydney
+RABBITOHS",6,31,
+0,NSWRFL 1929,Round 11,"Saturday, 13th July, 1929",3:15pm (local time),9403,154,,"St George
+DRAGONS",0,8,,UNIVERSITY,0,7,
+0,NSWRFL 1929,Round 11,"Saturday, 13th July, 1929",3:15pm (local time),9405,112,"3,000","Western Suburbs
+MAGPIES",12,21,,"Balmain
+TIGERS",5,13,
+0,NSWRFL 1929,Round 12,"Saturday, 20th July, 1929",3:15pm (local time),9406,150,,"Balmain
+TIGERS",2,12,,GLEBE,10,22,
+0,NSWRFL 1929,Round 12,"Saturday, 20th July, 1929",3:15pm (local time),9407,103,"3,500",EASTERN SUBURBS,8,11,,NEWTOWN,6,9,
+0,NSWRFL 1929,Round 12,"Saturday, 20th July, 1929",3:15pm (local time),9408,109,"6,000","St George
+DRAGONS",7,14,,NORTH SYDNEY,3,6,
+0,NSWRFL 1929,Round 12,"Saturday, 20th July, 1929",3:15pm (local time),9409,112,"5,000","Western Suburbs
+MAGPIES",5,8,,UNIVERSITY,0,4,
+0,NSWRFL 1929,Round 13,"Saturday, 27th July, 1929",3:15pm (local time),9412,150,,"Balmain
+TIGERS",11,24,,UNIVERSITY,7,18,
+0,NSWRFL 1929,Round 13,"Saturday, 27th July, 1929",3:15pm (local time),9413,103,"6,500",EASTERN SUBURBS,3,18,,"South Sydney
+RABBITOHS",13,28,
+0,NSWRFL 1929,Round 13,"Saturday, 27th July, 1929",3:15pm (local time),9410,158,"5,000",NEWTOWN,3,10,,"St George
+DRAGONS",0,13,
+0,NSWRFL 1929,Round 13,"Saturday, 27th July, 1929",3:15pm (local time),9411,25,"4,500",NORTH SYDNEY,7,7,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1929,Round 14,"Saturday, 3rd August, 1929",3:15pm (local time),9416,103,"1,000",EASTERN SUBURBS,13,32,,GLEBE,5,15,
+0,NSWRFL 1929,Round 14,"Saturday, 3rd August, 1929",3:15pm (local time),9414,158,"5,000",NEWTOWN,5,21,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1929,Round 14,"Saturday, 3rd August, 1929",3:15pm (local time),9415,25,"3,000",NORTH SYDNEY,12,24,,UNIVERSITY,5,11,
+0,NSWRFL 1929,Round 14,"Saturday, 3rd August, 1929",3:15pm (local time),9417,109,"10,106","South Sydney
+RABBITOHS",5,7,,"St George
+DRAGONS",2,7,
+0,NSWRFL 1929,Round 15,"Saturday, 10th August, 1929",3:15pm (local time),9419,150,"1,000","Balmain
+TIGERS",8,14,,NORTH SYDNEY,6,11,
+0,NSWRFL 1929,Round 15,"Saturday, 10th August, 1929",3:15pm (local time),9418,158,,NEWTOWN,8,11,,UNIVERSITY,2,8,
+0,NSWRFL 1929,Round 15,"Saturday, 10th August, 1929",3:15pm (local time),9420,154,,"St George
+DRAGONS",10,15,,GLEBE,8,14,
+0,NSWRFL 1929,Round 15,"Saturday, 10th August, 1929",3:15pm (local time),9421,109,"8,000","Western Suburbs
+MAGPIES",2,6,,"South Sydney
+RABBITOHS",5,10,
+0,NSWRFL 1929,Round 16,"Saturday, 17th August, 1929",3:15pm (local time),9424,150,"3,000","Balmain
+TIGERS",12,18,,EASTERN SUBURBS,7,17,
+0,NSWRFL 1929,Round 16,"Saturday, 17th August, 1929",3:15pm (local time),9422,105,"4,000",GLEBE,10,15,,"Western Suburbs
+MAGPIES",16,25,
+0,NSWRFL 1929,Round 16,"Saturday, 17th August, 1929",3:15pm (local time),9425,109,"6,939",NORTH SYDNEY,5,5,,NEWTOWN,3,16,
+0,NSWRFL 1929,Round 16,"Saturday, 17th August, 1929",3:15pm (local time),9423,154,"3,000","South Sydney
+RABBITOHS",10,25,,UNIVERSITY,2,2,
+0,NSWRFL 1929,Round 17,"Saturday, 24th August, 1929",3:15pm (local time),9428,150,"3,000","Balmain
+TIGERS",0,10,,NEWTOWN,4,19,
+0,NSWRFL 1929,Round 17,"Saturday, 24th August, 1929",3:15pm (local time),9429,103,,EASTERN SUBURBS,0,5,,"St George
+DRAGONS",4,9,
+0,NSWRFL 1929,Round 17,"Saturday, 24th August, 1929",3:15pm (local time),9426,105,,GLEBE,3,5,,UNIVERSITY,8,13,
+0,NSWRFL 1929,Round 17,"Saturday, 24th August, 1929",3:15pm (local time),9427,109,"5,200",NORTH SYDNEY,10,14,,"South Sydney
+RABBITOHS",6,11,
+0,NSWRFL 1929,Round 18,"Saturday, 31st August, 1929",3:15pm (local time),9430,112,"3,000",EASTERN SUBURBS,4,14,,"Western Suburbs
+MAGPIES",10,25,
+0,NSWRFL 1929,Round 18,"Saturday, 31st August, 1929",3:15pm (local time),9431,25,,NORTH SYDNEY,12,24,,GLEBE,14,24,
+0,NSWRFL 1929,Round 18,"Saturday, 31st August, 1929",3:15pm (local time),9433,154,"3,000","St George
+DRAGONS",2,15,,"Balmain
+TIGERS",7,7,
+0,NSWRFL 1929,Round 18,"Saturday, 31st August, 1929",3:15pm (local time),9432,109,"12,000","South Sydney
+RABBITOHS",13,24,,NEWTOWN,0,8,
+0,NSWRFL 1929,Semi Final,"Saturday, 7th September, 1929",3:15pm (local time),9434,154,"7,000",NEWTOWN,3,8,,"St George
+DRAGONS",2,7,
+0,NSWRFL 1929,Semi Final,"Saturday, 7th September, 1929",3:15pm (local time),9435,109,"14,774","South Sydney
+RABBITOHS",8,22,,"Western Suburbs
+MAGPIES",10,10,
+0,NSWRFL 1929,Final,"Saturday, 14th September, 1929",3:15pm (local time),9436,109,"16,360","South Sydney
+RABBITOHS",19,30,,NEWTOWN,2,10,

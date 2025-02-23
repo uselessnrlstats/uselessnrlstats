@@ -1,0 +1,211 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1949,Round 1,"Saturday, 9th April, 1949",3:15pm (local time),10639,27,"6,700",CANTERBURY BANKSTOWN,2,14,,"South Sydney
+RABBITOHS",3,14,
+0,NSWRFL 1949,Round 1,"Saturday, 9th April, 1949",3:15pm (local time),10640,109,"13,222",EASTERN SUBURBS,3,19,,NEWTOWN,3,32,
+0,NSWRFL 1949,Round 1,"Saturday, 9th April, 1949",3:15pm (local time),10637,5,"4,500","Manly Warringah
+SEA EAGLES",2,11,,"St George
+DRAGONS",13,21,
+0,NSWRFL 1949,Round 1,"Saturday, 9th April, 1949",3:15pm (local time),10641,25,"4,500",NORTH SYDNEY,0,5,,"Balmain
+TIGERS",11,21,
+0,NSWRFL 1949,Round 1,"Saturday, 9th April, 1949",3:15pm (local time),10638,111,"6,230","Parramatta
+EELS",5,12,,"Western Suburbs
+MAGPIES",3,8,
+0,NSWRFL 1949,Round 2,"Saturday, 16th April, 1949",3:15pm (local time),10642,109,"18,552","South Sydney
+RABBITOHS",7,19,,NEWTOWN,7,9,
+0,NSWRFL 1949,Round 2,"Saturday, 16th April, 1949",3:15pm (local time),10643,112,"6,798","Western Suburbs
+MAGPIES",19,21,,CANTERBURY BANKSTOWN,6,19,
+0,NSWRFL 1949,Round 2,"Monday, 18th April, 1949",3:15pm (local time),10645,7,,"Balmain
+TIGERS",0,20,,"Manly Warringah
+SEA EAGLES",8,10,
+0,NSWRFL 1949,Round 2,"Monday, 18th April, 1949",3:15pm (local time),10646,109,"15,906",EASTERN SUBURBS,2,7,,"St George
+DRAGONS",10,20,
+0,NSWRFL 1949,Round 2,"Monday, 18th April, 1949",3:15pm (local time),10644,25,,NORTH SYDNEY,2,17,,"Parramatta
+EELS",15,15,
+0,NSWRFL 1949,Round 3,"Saturday, 23rd April, 1949",3:15pm (local time),10647,24,"22,744",CANTERBURY BANKSTOWN,2,9,,"St George
+DRAGONS",16,39,
+0,NSWRFL 1949,Round 3,"Saturday, 23rd April, 1949",3:15pm (local time),10648,111,"6,271","Parramatta
+EELS",8,20,,"Balmain
+TIGERS",4,6,
+0,NSWRFL 1949,Round 3,"Monday, 25th April, 1949",3:15pm (local time),10651,109,,EASTERN SUBURBS,2,12,,NORTH SYDNEY,0,2,
+0,NSWRFL 1949,Round 3,"Monday, 25th April, 1949",3:15pm (local time),10649,5,"5,000","Manly Warringah
+SEA EAGLES",0,0,,"South Sydney
+RABBITOHS",9,32,
+0,NSWRFL 1949,Round 3,"Monday, 25th April, 1949",3:15pm (local time),10650,24,"31,059",NEWTOWN,16,41,,"Western Suburbs
+MAGPIES",17,17,
+0,NSWRFL 1949,Round 4,"Saturday, 30th April, 1949",3:15pm (local time),10652,7,"4,382","Balmain
+TIGERS",11,27,,CANTERBURY BANKSTOWN,0,5,
+0,NSWRFL 1949,Round 4,"Saturday, 30th April, 1949",3:15pm (local time),10656,5,,"Manly Warringah
+SEA EAGLES",7,17,,EASTERN SUBURBS,2,7,
+0,NSWRFL 1949,Round 4,"Saturday, 30th April, 1949",3:15pm (local time),10653,25,,NORTH SYDNEY,13,22,19,NEWTOWN,21,34,8
+0,NSWRFL 1949,Round 4,"Saturday, 30th April, 1949",3:15pm (local time),10654,24,"24,626","South Sydney
+RABBITOHS",13,26,,"Parramatta
+EELS",5,22,
+0,NSWRFL 1949,Round 4,"Saturday, 30th April, 1949",3:15pm (local time),10655,112,"10,441","Western Suburbs
+MAGPIES",10,26,,"St George
+DRAGONS",7,14,
+0,NSWRFL 1949,Round 5,"Saturday, 7th May, 1949",3:15pm (local time),10657,24,"19,331","Balmain
+TIGERS",8,10,,"Western Suburbs
+MAGPIES",2,8,
+0,NSWRFL 1949,Round 5,"Saturday, 7th May, 1949",3:15pm (local time),10658,109,,EASTERN SUBURBS,5,10,,"South Sydney
+RABBITOHS",5,15,
+0,NSWRFL 1949,Round 5,"Saturday, 7th May, 1949",3:15pm (local time),10659,155,,NEWTOWN,15,41,,"Manly Warringah
+SEA EAGLES",0,5,
+0,NSWRFL 1949,Round 5,"Saturday, 7th May, 1949",3:15pm (local time),10661,111,"6,500","Parramatta
+EELS",8,25,,CANTERBURY BANKSTOWN,5,17,
+0,NSWRFL 1949,Round 5,"Saturday, 7th May, 1949",3:15pm (local time),10660,157,"6,200","St George
+DRAGONS",17,22,,NORTH SYDNEY,6,8,
+0,NSWRFL 1949,Round 6,"Saturday, 14th May, 1949",3:15pm (local time),10664,27,,CANTERBURY BANKSTOWN,10,23,,EASTERN SUBURBS,2,17,
+0,NSWRFL 1949,Round 6,"Saturday, 14th May, 1949",3:15pm (local time),10662,5,,"Manly Warringah
+SEA EAGLES",11,13,,"Western Suburbs
+MAGPIES",7,17,
+0,NSWRFL 1949,Round 6,"Saturday, 14th May, 1949",3:15pm (local time),10663,155,,NEWTOWN,13,25,,"Parramatta
+EELS",9,19,
+0,NSWRFL 1949,Round 6,"Saturday, 14th May, 1949",3:15pm (local time),10666,24,"26,900","St George
+DRAGONS",12,21,,"Balmain
+TIGERS",4,17,
+0,NSWRFL 1949,Round 6,"Saturday, 14th May, 1949",3:15pm (local time),10665,44,"6,000","South Sydney
+RABBITOHS",15,30,,NORTH SYDNEY,13,15,
+0,NSWRFL 1949,Round 7,"Saturday, 21st May, 1949",3:15pm (local time),10670,109,,EASTERN SUBURBS,0,0,,"Balmain
+TIGERS",3,9,
+0,NSWRFL 1949,Round 7,"Saturday, 21st May, 1949",3:15pm (local time),10671,25,,NORTH SYDNEY,3,5,,CANTERBURY BANKSTOWN,4,9,
+0,NSWRFL 1949,Round 7,"Saturday, 21st May, 1949",3:15pm (local time),10667,111,"2,810","Parramatta
+EELS",0,10,,"Manly Warringah
+SEA EAGLES",5,5,
+0,NSWRFL 1949,Round 7,"Saturday, 21st May, 1949",3:15pm (local time),10668,24,"21,989","St George
+DRAGONS",5,15,,NEWTOWN,10,10,
+0,NSWRFL 1949,Round 7,"Saturday, 21st May, 1949",3:15pm (local time),10669,112,"4,600","Western Suburbs
+MAGPIES",2,6,,"South Sydney
+RABBITOHS",5,13,
+0,NSWRFL 1949,Round 8,"Saturday, 28th May, 1949",3:15pm (local time),10673,109,"22,579","Balmain
+TIGERS",3,7,23,"South Sydney
+RABBITOHS",4,11,14
+0,NSWRFL 1949,Round 8,"Saturday, 28th May, 1949",3:15pm (local time),10674,27,,CANTERBURY BANKSTOWN,13,17,,NEWTOWN,5,28,
+0,NSWRFL 1949,Round 8,"Saturday, 28th May, 1949",3:15pm (local time),10675,112,,EASTERN SUBURBS,5,15,,"Western Suburbs
+MAGPIES",26,44,
+0,NSWRFL 1949,Round 8,"Saturday, 28th May, 1949",3:15pm (local time),10672,5,"2,600","Manly Warringah
+SEA EAGLES",2,16,,NORTH SYDNEY,4,7,
+0,NSWRFL 1949,Round 8,"Saturday, 28th May, 1949",3:15pm (local time),10676,157,"10,000","St George
+DRAGONS",11,11,,"Parramatta
+EELS",8,14,
+0,NSWRFL 1949,Round 9,"Saturday, 11th June, 1949",3:15pm (local time),10679,27,,CANTERBURY BANKSTOWN,7,12,,"Manly Warringah
+SEA EAGLES",3,3,
+0,NSWRFL 1949,Round 9,"Saturday, 11th June, 1949",3:15pm (local time),10680,155,,NEWTOWN,4,13,,"Balmain
+TIGERS",8,13,
+0,NSWRFL 1949,Round 9,"Saturday, 11th June, 1949",3:15pm (local time),10677,25,,NORTH SYDNEY,6,14,,"Western Suburbs
+MAGPIES",9,11,
+0,NSWRFL 1949,Round 9,"Saturday, 11th June, 1949",3:15pm (local time),10681,111,,"Parramatta
+EELS",8,15,,EASTERN SUBURBS,2,5,
+0,NSWRFL 1949,Round 9,"Saturday, 11th June, 1949",3:15pm (local time),10678,24,"37,241","St George
+DRAGONS",11,22,,"South Sydney
+RABBITOHS",2,2,
+0,NSWRFL 1949,Round 10,"Monday, 13th June, 1949",3:15pm (local time),10682,7,,"Balmain
+TIGERS",5,21,,NORTH SYDNEY,5,10,
+0,NSWRFL 1949,Round 10,"Monday, 13th June, 1949",3:15pm (local time),10686,155,,NEWTOWN,5,15,,EASTERN SUBURBS,11,13,
+0,NSWRFL 1949,Round 10,"Monday, 13th June, 1949",3:15pm (local time),10683,157,,"St George
+DRAGONS",9,27,,"Manly Warringah
+SEA EAGLES",2,7,
+0,NSWRFL 1949,Round 10,"Monday, 13th June, 1949",3:15pm (local time),10685,44,,"South Sydney
+RABBITOHS",7,12,,CANTERBURY BANKSTOWN,13,15,
+0,NSWRFL 1949,Round 10,"Monday, 13th June, 1949",3:15pm (local time),10684,109,"13,810","Western Suburbs
+MAGPIES",10,16,,"Parramatta
+EELS",5,15,
+0,NSWRFL 1949,Round 11,"Saturday, 25th June, 1949",3:15pm (local time),10688,27,"6,028",CANTERBURY BANKSTOWN,0,0,,"Western Suburbs
+MAGPIES",5,23,
+0,NSWRFL 1949,Round 11,"Saturday, 25th June, 1949",3:15pm (local time),10690,5,,"Manly Warringah
+SEA EAGLES",8,8,,"Balmain
+TIGERS",5,7,
+0,NSWRFL 1949,Round 11,"Saturday, 25th June, 1949",3:15pm (local time),10687,109,"17,182",NEWTOWN,5,12,,"South Sydney
+RABBITOHS",7,16,
+0,NSWRFL 1949,Round 11,"Saturday, 25th June, 1949",3:15pm (local time),10689,111,,"Parramatta
+EELS",14,34,,NORTH SYDNEY,16,34,
+0,NSWRFL 1949,Round 11,"Saturday, 25th June, 1949",3:15pm (local time),10691,157,"8,000","St George
+DRAGONS",12,28,,EASTERN SUBURBS,4,4,
+0,NSWRFL 1949,Round 12,"Saturday, 2nd July, 1949",3:15pm (local time),10692,7,"6,892","Balmain
+TIGERS",17,22,,"Parramatta
+EELS",12,12,
+0,NSWRFL 1949,Round 12,"Saturday, 2nd July, 1949",3:15pm (local time),10696,25,,NORTH SYDNEY,7,18,,EASTERN SUBURBS,7,14,
+0,NSWRFL 1949,Round 12,"Saturday, 2nd July, 1949",3:15pm (local time),10695,157,"8,000","St George
+DRAGONS",18,31,,CANTERBURY BANKSTOWN,5,10,
+0,NSWRFL 1949,Round 12,"Saturday, 2nd July, 1949",3:15pm (local time),10693,44,,"South Sydney
+RABBITOHS",18,32,,"Manly Warringah
+SEA EAGLES",2,10,
+0,NSWRFL 1949,Round 12,"Saturday, 2nd July, 1949",3:15pm (local time),10694,24,,"Western Suburbs
+MAGPIES",12,34,,NEWTOWN,4,14,
+0,NSWRFL 1949,Round 13,"Saturday, 9th July, 1949",3:15pm (local time),10701,27,,CANTERBURY BANKSTOWN,12,17,,"Balmain
+TIGERS",10,17,
+0,NSWRFL 1949,Round 13,"Saturday, 9th July, 1949",3:15pm (local time),10700,109,"1,406",EASTERN SUBURBS,7,9,,"Manly Warringah
+SEA EAGLES",4,12,
+0,NSWRFL 1949,Round 13,"Saturday, 9th July, 1949",3:15pm (local time),10697,155,,NEWTOWN,15,23,,NORTH SYDNEY,17,30,
+0,NSWRFL 1949,Round 13,"Saturday, 9th July, 1949",3:15pm (local time),10698,111,,"Parramatta
+EELS",0,14,,"South Sydney
+RABBITOHS",5,13,
+0,NSWRFL 1949,Round 13,"Saturday, 9th July, 1949",3:15pm (local time),10699,24,"21,902","St George
+DRAGONS",5,17,,"Western Suburbs
+MAGPIES",12,22,
+0,NSWRFL 1949,Round 14,"Saturday, 16th July, 1949",3:15pm (local time),10704,27,,CANTERBURY BANKSTOWN,14,19,,"Parramatta
+EELS",8,15,
+0,NSWRFL 1949,Round 14,"Saturday, 16th July, 1949",3:15pm (local time),10702,5,,"Manly Warringah
+SEA EAGLES",5,23,,NEWTOWN,7,7,
+0,NSWRFL 1949,Round 14,"Saturday, 16th July, 1949",3:15pm (local time),10703,25,"7,900",NORTH SYDNEY,11,11,,"St George
+DRAGONS",3,16,
+0,NSWRFL 1949,Round 14,"Saturday, 16th July, 1949",3:15pm (local time),10706,44,,"South Sydney
+RABBITOHS",14,48,,EASTERN SUBURBS,6,6,
+0,NSWRFL 1949,Round 14,"Saturday, 16th July, 1949",3:15pm (local time),10705,109,"17,294","Western Suburbs
+MAGPIES",2,7,,"Balmain
+TIGERS",8,17,
+0,NSWRFL 1949,Round 15,"Saturday, 23rd July, 1949",3:15pm (local time),10708,24,"22,154","Balmain
+TIGERS",8,16,,"St George
+DRAGONS",11,14,
+0,NSWRFL 1949,Round 15,"Saturday, 23rd July, 1949",3:15pm (local time),10711,109,,EASTERN SUBURBS,9,15,,CANTERBURY BANKSTOWN,0,0,
+0,NSWRFL 1949,Round 15,"Saturday, 23rd July, 1949",3:15pm (local time),10707,25,"6,100",NORTH SYDNEY,10,10,,"South Sydney
+RABBITOHS",11,25,
+0,NSWRFL 1949,Round 15,"Saturday, 23rd July, 1949",3:15pm (local time),10710,111,,"Parramatta
+EELS",7,29,,NEWTOWN,2,5,
+0,NSWRFL 1949,Round 15,"Saturday, 23rd July, 1949",3:15pm (local time),10709,112,,"Western Suburbs
+MAGPIES",8,15,,"Manly Warringah
+SEA EAGLES",5,10,
+0,NSWRFL 1949,Round 16,"Saturday, 30th July, 1949",3:15pm (local time),10715,7,,"Balmain
+TIGERS",3,5,,EASTERN SUBURBS,12,22,
+0,NSWRFL 1949,Round 16,"Saturday, 30th July, 1949",3:15pm (local time),10716,27,,CANTERBURY BANKSTOWN,13,26,,NORTH SYDNEY,8,16,
+0,NSWRFL 1949,Round 16,"Saturday, 30th July, 1949",3:15pm (local time),10712,5,"3,900","Manly Warringah
+SEA EAGLES",10,12,,"Parramatta
+EELS",5,12,
+0,NSWRFL 1949,Round 16,"Saturday, 30th July, 1949",3:15pm (local time),10713,155,,NEWTOWN,5,21,,"St George
+DRAGONS",7,9,
+0,NSWRFL 1949,Round 16,"Saturday, 30th July, 1949",3:15pm (local time),10714,109,"16,785","South Sydney
+RABBITOHS",11,13,,"Western Suburbs
+MAGPIES",12,18,
+0,NSWRFL 1949,Round 17,"Saturday, 6th August, 1949",3:15pm (local time),10720,155,"3,250",NEWTOWN,16,22,,CANTERBURY BANKSTOWN,3,18,
+0,NSWRFL 1949,Round 17,"Saturday, 6th August, 1949",3:15pm (local time),10718,25,,NORTH SYDNEY,2,11,,"Manly Warringah
+SEA EAGLES",2,2,
+0,NSWRFL 1949,Round 17,"Saturday, 6th August, 1949",3:15pm (local time),10717,111,"9,934","Parramatta
+EELS",3,14,,"St George
+DRAGONS",7,14,
+0,NSWRFL 1949,Round 17,"Saturday, 6th August, 1949",3:15pm (local time),10719,24,"24,730","South Sydney
+RABBITOHS",6,17,,"Balmain
+TIGERS",8,16,
+0,NSWRFL 1949,Round 17,"Saturday, 6th August, 1949",3:15pm (local time),10721,112,,"Western Suburbs
+MAGPIES",19,34,,EASTERN SUBURBS,12,25,
+0,NSWRFL 1949,Round 18,"Saturday, 13th August, 1949",3:15pm (local time),10722,7,"9,302","Balmain
+TIGERS",6,14,,NEWTOWN,4,6,
+0,NSWRFL 1949,Round 18,"Saturday, 13th August, 1949",3:15pm (local time),10723,109,,EASTERN SUBURBS,8,14,,"Parramatta
+EELS",11,14,
+0,NSWRFL 1949,Round 18,"Saturday, 13th August, 1949",3:15pm (local time),10726,5,,"Manly Warringah
+SEA EAGLES",2,7,,CANTERBURY BANKSTOWN,3,6,
+0,NSWRFL 1949,Round 18,"Saturday, 13th August, 1949",3:15pm (local time),10725,24,"33,755","South Sydney
+RABBITOHS",13,22,,"St George
+DRAGONS",4,4,
+0,NSWRFL 1949,Round 18,"Saturday, 13th August, 1949",3:15pm (local time),10724,112,,"Western Suburbs
+MAGPIES",15,38,,NORTH SYDNEY,5,18,
+0,NSWRFL 1949,Semi Final,"Saturday, 20th August, 1949",3:00pm (local time),10727,24,"41,696","St George
+DRAGONS",7,16,,"South Sydney
+RABBITOHS",7,12,
+0,NSWRFL 1949,Semi Final,"Saturday, 27th August, 1949",3:00pm (local time),10728,24,"38,209","Balmain
+TIGERS",5,20,,"Western Suburbs
+MAGPIES",8,13,
+0,NSWRFL 1949,Final,"Saturday, 3rd September, 1949",3:00pm (local time),10729,24,"55,341","St George
+DRAGONS",7,18,,"Balmain
+TIGERS",2,7,
+0,NSWRFL 1949,Grand Final Chall.,"Saturday, 10th September, 1949",3:00pm (local time),10730,24,"56,534","St George
+DRAGONS",11,19,,"South Sydney
+RABBITOHS",7,12,

@@ -1,0 +1,364 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1970,Round 1,"Saturday, 28th March, 1970",3:00pm (local time),12743,9,"5,551","Cronulla Sutherland
+SHARKS",8,23,10,NEWTOWN,5,13,12
+0,NSWRFL 1970,Round 1,"Saturday, 28th March, 1970",3:00pm (local time),12744,44,"10,055","South Sydney
+RABBITOHS",10,38,9,"Penrith
+PANTHERS",5,5,6
+0,NSWRFL 1970,Round 1,"Sunday, 29th March, 1970",3:00pm (local time),12745,27,"14,743",CANTERBURY BANKSTOWN,6,16,13,"North Sydney
+BEARS",2,14,6
+0,NSWRFL 1970,Round 1,"Sunday, 29th March, 1970",3:00pm (local time),12746,5,"16,654","Manly Warringah
+SEA EAGLES",24,44,8,"Balmain
+TIGERS",2,10,14
+0,NSWRFL 1970,Round 1,"Sunday, 29th March, 1970",3:00pm (local time),12747,23,"12,519","St George
+DRAGONS",10,23,12,"Eastern Suburbs
+ROOSTERS",5,17,6
+0,NSWRFL 1970,Round 1,"Monday, 30th March, 1970",3:00pm (local time),12748,110,"8,550","Western Suburbs
+MAGPIES",14,21,,"Parramatta
+EELS",17,24,
+0,NSWRFL 1970,Round 2,"Saturday, 4th April, 1970",3:00pm (local time),12750,24,"18,943","Balmain
+TIGERS",2,7,7,"St George
+DRAGONS",11,18,9
+0,NSWRFL 1970,Round 2,"Saturday, 4th April, 1970",3:00pm (local time),12749,76,"5,371",NEWTOWN,4,9,9,"Western Suburbs
+MAGPIES",10,31,6
+0,NSWRFL 1970,Round 2,"Sunday, 5th April, 1970",3:00pm (local time),12752,27,"14,407",CANTERBURY BANKSTOWN,9,18,9,"Cronulla Sutherland
+SHARKS",12,17,8
+0,NSWRFL 1970,Round 2,"Sunday, 5th April, 1970",3:00pm (local time),12753,109,"11,799","Eastern Suburbs
+ROOSTERS",2,17,13,"North Sydney
+BEARS",7,7,9
+0,NSWRFL 1970,Round 2,"Sunday, 5th April, 1970",3:00pm (local time),12751,111,"18,293","Parramatta
+EELS",3,6,11,"South Sydney
+RABBITOHS",11,29,9
+0,NSWRFL 1970,Round 2,"Sunday, 5th April, 1970",3:00pm (local time),12754,3,"8,558","Penrith
+PANTHERS",8,20,10,"Manly Warringah
+SEA EAGLES",4,6,12
+0,NSWRFL 1970,Round 3,"Saturday, 11th April, 1970",3:00pm (local time),12756,25,"10,579","North Sydney
+BEARS",17,17,7,"Balmain
+TIGERS",15,38,12
+0,NSWRFL 1970,Round 3,"Saturday, 11th April, 1970",3:00pm (local time),12755,24,"18,597","St George
+DRAGONS",12,25,7,"Manly Warringah
+SEA EAGLES",13,29,10
+0,NSWRFL 1970,Round 3,"Sunday, 12th April, 1970",3:00pm (local time),12759,9,"8,929","Cronulla Sutherland
+SHARKS",11,14,7,"Eastern Suburbs
+ROOSTERS",14,33,6
+0,NSWRFL 1970,Round 3,"Sunday, 12th April, 1970",3:00pm (local time),12757,109,"11,314",NEWTOWN,10,20,9,"South Sydney
+RABBITOHS",7,29,14
+0,NSWRFL 1970,Round 3,"Sunday, 12th April, 1970",3:00pm (local time),12758,111,"10,065","Parramatta
+EELS",7,9,13,"Penrith
+PANTHERS",5,12,10
+0,NSWRFL 1970,Round 3,"Sunday, 12th April, 1970",3:00pm (local time),12760,110,"11,417","Western Suburbs
+MAGPIES",5,14,18,CANTERBURY BANKSTOWN,24,29,8
+0,NSWRFL 1970,Round 4,"Saturday, 18th April, 1970",3:00pm (local time),12761,25,"8,108","North Sydney
+BEARS",5,20,11,"St George
+DRAGONS",19,40,14
+0,NSWRFL 1970,Round 4,"Saturday, 18th April, 1970",3:00pm (local time),12762,24,"29,070","South Sydney
+RABBITOHS",5,12,8,CANTERBURY BANKSTOWN,0,2,9
+0,NSWRFL 1970,Round 4,"Sunday, 19th April, 1970",3:00pm (local time),12764,7,"10,571","Balmain
+TIGERS",9,24,12,"Cronulla Sutherland
+SHARKS",4,11,13
+0,NSWRFL 1970,Round 4,"Sunday, 19th April, 1970",3:00pm (local time),12765,109,"10,887","Eastern Suburbs
+ROOSTERS",17,32,10,"Western Suburbs
+MAGPIES",5,16,14
+0,NSWRFL 1970,Round 4,"Sunday, 19th April, 1970",3:00pm (local time),12763,5,"10,933","Manly Warringah
+SEA EAGLES",13,38,5,"Parramatta
+EELS",2,5,10
+0,NSWRFL 1970,Round 4,"Sunday, 19th April, 1970",3:00pm (local time),12766,3,"8,067","Penrith
+PANTHERS",10,21,10,NEWTOWN,12,24,7
+0,NSWRFL 1970,Round 5,"Saturday, 25th April, 1970",3:00pm (local time),12767,24,"30,692","Eastern Suburbs
+ROOSTERS",2,7,19,"South Sydney
+RABBITOHS",10,18,6
+0,NSWRFL 1970,Round 5,"Saturday, 25th April, 1970",3:00pm (local time),12768,111,"5,902","Parramatta
+EELS",2,12,11,NEWTOWN,8,18,5
+0,NSWRFL 1970,Round 5,"Sunday, 26th April, 1970",3:00pm (local time),12770,109,"12,587","Balmain
+TIGERS",2,24,12,"Western Suburbs
+MAGPIES",7,12,11
+0,NSWRFL 1970,Round 5,"Sunday, 26th April, 1970",3:00pm (local time),12771,27,"11,892",CANTERBURY BANKSTOWN,12,16,12,"Penrith
+PANTHERS",5,8,9
+0,NSWRFL 1970,Round 5,"Sunday, 26th April, 1970",3:00pm (local time),12769,5,"12,929","Manly Warringah
+SEA EAGLES",4,22,12,"North Sydney
+BEARS",7,13,8
+0,NSWRFL 1970,Round 5,"Sunday, 26th April, 1970",3:00pm (local time),12772,23,"11,829","St George
+DRAGONS",3,15,8,"Cronulla Sutherland
+SHARKS",3,13,6
+0,NSWRFL 1970,Round 6,"Wednesday, 29th April, 1970",3:00pm (local time),12773,24,"14,259",NEWTOWN,3,6,9,"Manly Warringah
+SEA EAGLES",5,17,7
+0,NSWRFL 1970,Round 6,"Saturday, 2nd May, 1970",3:00pm (local time),12775,25,"4,844","North Sydney
+BEARS",13,21,10,"Cronulla Sutherland
+SHARKS",2,12,7
+0,NSWRFL 1970,Round 6,"Saturday, 2nd May, 1970",3:00pm (local time),12774,24,"37,959","South Sydney
+RABBITOHS",8,14,9,"Balmain
+TIGERS",2,5,14
+0,NSWRFL 1970,Round 6,"Sunday, 3rd May, 1970",3:00pm (local time),12776,109,"7,244","Eastern Suburbs
+ROOSTERS",9,27,13,"Penrith
+PANTHERS",2,11,10
+0,NSWRFL 1970,Round 6,"Sunday, 3rd May, 1970",3:00pm (local time),12778,111,"10,543","Parramatta
+EELS",2,5,14,CANTERBURY BANKSTOWN,7,11,9
+0,NSWRFL 1970,Round 6,"Sunday, 3rd May, 1970",3:00pm (local time),12777,110,"7,099","Western Suburbs
+MAGPIES",5,8,12,"St George
+DRAGONS",7,20,14
+0,NSWRFL 1970,Round 7,"Saturday, 9th May, 1970",3:00pm (local time),12779,25,"4,610","North Sydney
+BEARS",7,12,6,"Western Suburbs
+MAGPIES",8,15,15
+0,NSWRFL 1970,Round 7,"Saturday, 9th May, 1970",3:00pm (local time),12780,24,"32,625","South Sydney
+RABBITOHS",4,8,7,"St George
+DRAGONS",6,16,9
+0,NSWRFL 1970,Round 7,"Sunday, 10th May, 1970",3:00pm (local time),12781,27,"12,298",CANTERBURY BANKSTOWN,11,25,9,NEWTOWN,5,18,10
+0,NSWRFL 1970,Round 7,"Sunday, 10th May, 1970",3:00pm (local time),12782,9,"6,428","Cronulla Sutherland
+SHARKS",5,10,13,"Manly Warringah
+SEA EAGLES",8,21,4
+0,NSWRFL 1970,Round 7,"Sunday, 10th May, 1970",3:00pm (local time),12783,109,"7,870","Eastern Suburbs
+ROOSTERS",14,30,6,"Parramatta
+EELS",4,16,10
+0,NSWRFL 1970,Round 7,"Sunday, 10th May, 1970",3:00pm (local time),12784,3,"8,115","Penrith
+PANTHERS",7,12,11,"Balmain
+TIGERS",2,23,9
+0,NSWRFL 1970,Round 8,"Sunday, 17th May, 1970",3:00pm (local time),12786,7,"8,263","Balmain
+TIGERS",4,12,10,"Parramatta
+EELS",10,17,13
+0,NSWRFL 1970,Round 8,"Sunday, 17th May, 1970",3:00pm (local time),12787,9,"3,533","Cronulla Sutherland
+SHARKS",5,15,9,"Western Suburbs
+MAGPIES",7,17,12
+0,NSWRFL 1970,Round 8,"Sunday, 17th May, 1970",3:00pm (local time),12789,5,"16,219","Manly Warringah
+SEA EAGLES",4,11,16,CANTERBURY BANKSTOWN,5,7,13
+0,NSWRFL 1970,Round 8,"Sunday, 17th May, 1970",3:00pm (local time),12790,76,"5,333",NEWTOWN,11,15,12,"Eastern Suburbs
+ROOSTERS",9,14,10
+0,NSWRFL 1970,Round 8,"Sunday, 17th May, 1970",3:00pm (local time),12785,109,"9,052","North Sydney
+BEARS",0,0,7,"South Sydney
+RABBITOHS",4,24,14
+0,NSWRFL 1970,Round 8,"Sunday, 17th May, 1970",3:00pm (local time),12788,23,"7,531","St George
+DRAGONS",7,20,10,"Penrith
+PANTHERS",2,8,4
+0,NSWRFL 1970,Round 9,"Saturday, 23rd May, 1970",3:00pm (local time),12791,9,"7,021","Cronulla Sutherland
+SHARKS",11,25,16,"South Sydney
+RABBITOHS",0,6,7
+0,NSWRFL 1970,Round 9,"Saturday, 23rd May, 1970",3:00pm (local time),12792,76,"8,664",NEWTOWN,9,19,10,"Balmain
+TIGERS",6,13,8
+0,NSWRFL 1970,Round 9,"Sunday, 24th May, 1970",3:00pm (local time),12796,109,"15,559","Eastern Suburbs
+ROOSTERS",5,18,12,CANTERBURY BANKSTOWN,13,16,11
+0,NSWRFL 1970,Round 9,"Sunday, 24th May, 1970",3:00pm (local time),12793,111,"11,790","Parramatta
+EELS",12,17,11,"St George
+DRAGONS",11,18,4
+0,NSWRFL 1970,Round 9,"Sunday, 24th May, 1970",3:00pm (local time),12795,3,"4,767","Penrith
+PANTHERS",16,25,13,"North Sydney
+BEARS",6,12,7
+0,NSWRFL 1970,Round 9,"Sunday, 24th May, 1970",3:00pm (local time),12794,110,"7,688","Western Suburbs
+MAGPIES",5,14,16,"Manly Warringah
+SEA EAGLES",9,19,8
+0,NSWRFL 1970,Round 10,"Saturday, 30th May, 1970",3:00pm (local time),12798,24,"22,847","Manly Warringah
+SEA EAGLES",12,15,6,"Eastern Suburbs
+ROOSTERS",4,8,14
+0,NSWRFL 1970,Round 10,"Saturday, 30th May, 1970",3:00pm (local time),12797,3,"3,180","Penrith
+PANTHERS",14,27,12,"Cronulla Sutherland
+SHARKS",7,16,7
+0,NSWRFL 1970,Round 10,"Sunday, 31st May, 1970",3:00pm (local time),12802,27,"19,924",CANTERBURY BANKSTOWN,6,19,13,"Balmain
+TIGERS",2,5,9
+0,NSWRFL 1970,Round 10,"Sunday, 31st May, 1970",3:00pm (local time),12800,111,"8,113","Parramatta
+EELS",13,18,8,"North Sydney
+BEARS",8,23,4
+0,NSWRFL 1970,Round 10,"Sunday, 31st May, 1970",3:00pm (local time),12799,23,"13,864","St George
+DRAGONS",9,18,11,NEWTOWN,2,16,10
+0,NSWRFL 1970,Round 10,"Sunday, 31st May, 1970",3:00pm (local time),12801,109,"13,530","Western Suburbs
+MAGPIES",2,4,12,"South Sydney
+RABBITOHS",7,25,8
+0,NSWRFL 1970,Round 11,"Saturday, 6th June, 1970",3:00pm (local time),12804,109,"8,353","Eastern Suburbs
+ROOSTERS",10,14,7,"Balmain
+TIGERS",2,7,9
+0,NSWRFL 1970,Round 11,"Saturday, 6th June, 1970",3:00pm (local time),12803,25,"3,469","North Sydney
+BEARS",10,23,7,NEWTOWN,5,13,8
+0,NSWRFL 1970,Round 11,"Sunday, 7th June, 1970",3:00pm (local time),12805,27,"21,109",CANTERBURY BANKSTOWN,10,18,7,"St George
+DRAGONS",5,12,13
+0,NSWRFL 1970,Round 11,"Sunday, 7th June, 1970",3:00pm (local time),12806,9,"4,823","Cronulla Sutherland
+SHARKS",11,18,11,"Parramatta
+EELS",7,9,16
+0,NSWRFL 1970,Round 11,"Sunday, 7th June, 1970",3:00pm (local time),12807,24,"25,047","South Sydney
+RABBITOHS",4,6,14,"Manly Warringah
+SEA EAGLES",4,10,13
+0,NSWRFL 1970,Round 11,"Sunday, 7th June, 1970",3:00pm (local time),12808,110,"3,235","Western Suburbs
+MAGPIES",8,13,13,"Penrith
+PANTHERS",5,16,20
+0,NSWRFL 1970,Round 12,"Sunday, 14th June, 1970",3:00pm (local time),12814,109,"4,761",NEWTOWN,2,12,11,"Cronulla Sutherland
+SHARKS",14,33,11
+0,NSWRFL 1970,Round 12,"Sunday, 14th June, 1970",3:00pm (local time),12813,25,"9,163","North Sydney
+BEARS",2,2,10,CANTERBURY BANKSTOWN,9,21,13
+0,NSWRFL 1970,Round 12,"Sunday, 14th June, 1970",3:00pm (local time),12809,111,"7,977","Parramatta
+EELS",10,19,8,"Western Suburbs
+MAGPIES",7,15,9
+0,NSWRFL 1970,Round 12,"Sunday, 14th June, 1970",3:00pm (local time),12810,3,"11,008","Penrith
+PANTHERS",9,18,8,"South Sydney
+RABBITOHS",11,18,10
+0,NSWRFL 1970,Round 12,"Monday, 15th June, 1970",3:00pm (local time),12811,7,"12,378","Balmain
+TIGERS",10,18,11,"Manly Warringah
+SEA EAGLES",5,18,13
+0,NSWRFL 1970,Round 12,"Monday, 15th June, 1970",3:00pm (local time),12812,24,"22,070","Eastern Suburbs
+ROOSTERS",12,37,2,"St George
+DRAGONS",16,23,9
+0,NSWRFL 1970,Round 13,"Sunday, 21st June, 1970",3:00pm (local time),12819,9,"11,286","Cronulla Sutherland
+SHARKS",4,11,12,CANTERBURY BANKSTOWN,2,2,10
+0,NSWRFL 1970,Round 13,"Sunday, 21st June, 1970",3:00pm (local time),12815,5,"13,850","Manly Warringah
+SEA EAGLES",5,14,4,"Penrith
+PANTHERS",5,8,10
+0,NSWRFL 1970,Round 13,"Sunday, 21st June, 1970",3:00pm (local time),12820,25,"7,871","North Sydney
+BEARS",7,10,6,"Eastern Suburbs
+ROOSTERS",9,14,11
+0,NSWRFL 1970,Round 13,"Sunday, 21st June, 1970",3:00pm (local time),12818,23,"10,769","St George
+DRAGONS",10,8,7,"Balmain
+TIGERS",5,26,5
+0,NSWRFL 1970,Round 13,"Sunday, 21st June, 1970",3:00pm (local time),12817,109,"10,864","South Sydney
+RABBITOHS",18,27,14,"Parramatta
+EELS",0,9,11
+0,NSWRFL 1970,Round 13,"Sunday, 21st June, 1970",3:00pm (local time),12816,110,"2,934","Western Suburbs
+MAGPIES",7,11,14,NEWTOWN,5,14,9
+0,NSWRFL 1970,Round 14,"Saturday, 27th June, 1970",3:00pm (local time),12821,24,"14,761","Manly Warringah
+SEA EAGLES",0,14,9,"St George
+DRAGONS",10,22,7
+0,NSWRFL 1970,Round 14,"Saturday, 27th June, 1970",3:00pm (local time),12822,44,"7,326","South Sydney
+RABBITOHS",28,36,13,NEWTOWN,5,20,8
+0,NSWRFL 1970,Round 14,"Sunday, 28th June, 1970",3:00pm (local time),12823,7,"7,816","Balmain
+TIGERS",7,29,16,"North Sydney
+BEARS",0,10,5
+0,NSWRFL 1970,Round 14,"Sunday, 28th June, 1970",3:00pm (local time),12824,27,"12,759",CANTERBURY BANKSTOWN,3,13,11,"Western Suburbs
+MAGPIES",2,4,15
+0,NSWRFL 1970,Round 14,"Sunday, 28th June, 1970",3:00pm (local time),12826,109,"12,313","Eastern Suburbs
+ROOSTERS",14,17,6,"Cronulla Sutherland
+SHARKS",4,13,12
+0,NSWRFL 1970,Round 14,"Sunday, 28th June, 1970",3:00pm (local time),12825,3,"8,825","Penrith
+PANTHERS",7,14,10,"Parramatta
+EELS",7,12,9
+0,NSWRFL 1970,Round 15,"Sunday, 5th July, 1970",3:00pm (local time),12828,109,"17,247",CANTERBURY BANKSTOWN,8,11,16,"South Sydney
+RABBITOHS",10,22,7
+0,NSWRFL 1970,Round 15,"Sunday, 5th July, 1970",3:00pm (local time),12831,9,"8,208","Cronulla Sutherland
+SHARKS",13,33,12,"Balmain
+TIGERS",0,9,11
+0,NSWRFL 1970,Round 15,"Sunday, 5th July, 1970",3:00pm (local time),12827,76,"2,561",NEWTOWN,19,19,2,"Penrith
+PANTHERS",5,12,7
+0,NSWRFL 1970,Round 15,"Sunday, 5th July, 1970",3:00pm (local time),12829,111,"9,381","Parramatta
+EELS",6,11,13,"Manly Warringah
+SEA EAGLES",5,23,14
+0,NSWRFL 1970,Round 15,"Sunday, 5th July, 1970",3:00pm (local time),12830,23,"6,060","St George
+DRAGONS",8,10,19,"North Sydney
+BEARS",5,28,5
+0,NSWRFL 1970,Round 15,"Sunday, 5th July, 1970",3:00pm (local time),12832,110,"3,915","Western Suburbs
+MAGPIES",5,25,9,"Eastern Suburbs
+ROOSTERS",7,9,5
+0,NSWRFL 1970,Round 16,"Saturday, 11th July, 1970",3:00pm (local time),12833,25,"9,381","North Sydney
+BEARS",11,11,11,"Manly Warringah
+SEA EAGLES",8,17,8
+0,NSWRFL 1970,Round 16,"Saturday, 11th July, 1970",3:00pm (local time),12834,24,"20,081","South Sydney
+RABBITOHS",9,25,7,"Eastern Suburbs
+ROOSTERS",5,13,14
+0,NSWRFL 1970,Round 16,"Sunday, 12th July, 1970",3:00pm (local time),12836,9,"12,349","Cronulla Sutherland
+SHARKS",0,2,8,"St George
+DRAGONS",4,10,12
+0,NSWRFL 1970,Round 16,"Sunday, 12th July, 1970",3:00pm (local time),12835,76,"3,762",NEWTOWN,19,44,8,"Parramatta
+EELS",9,14,18
+0,NSWRFL 1970,Round 16,"Sunday, 12th July, 1970",3:00pm (local time),12838,3,"9,881","Penrith
+PANTHERS",10,15,18,CANTERBURY BANKSTOWN,15,17,10
+0,NSWRFL 1970,Round 16,"Sunday, 12th July, 1970",3:00pm (local time),12837,109,"6,444","Western Suburbs
+MAGPIES",8,13,12,"Balmain
+TIGERS",10,16,14
+0,NSWRFL 1970,Round 17,"Saturday, 18th July, 1970",3:00pm (local time),12839,24,"17,211","Balmain
+TIGERS",15,29,13,"South Sydney
+RABBITOHS",7,24,9
+0,NSWRFL 1970,Round 17,"Saturday, 18th July, 1970",3:00pm (local time),12840,9,"4,070","Cronulla Sutherland
+SHARKS",15,19,11,"North Sydney
+BEARS",5,10,17
+0,NSWRFL 1970,Round 17,"Sunday, 19th July, 1970",3:00pm (local time),12843,27,"11,455",CANTERBURY BANKSTOWN,7,15,8,"Parramatta
+EELS",4,4,18
+0,NSWRFL 1970,Round 17,"Sunday, 19th July, 1970",3:00pm (local time),12841,5,"16,693","Manly Warringah
+SEA EAGLES",10,4,11,NEWTOWN,4,15,9
+0,NSWRFL 1970,Round 17,"Sunday, 19th July, 1970",3:00pm (local time),12844,3,"5,507","Penrith
+PANTHERS",7,7,4,"Eastern Suburbs
+ROOSTERS",10,24,14
+0,NSWRFL 1970,Round 17,"Sunday, 19th July, 1970",3:00pm (local time),12842,23,"9,057","St George
+DRAGONS",7,20,11,"Western Suburbs
+MAGPIES",2,7,11
+0,NSWRFL 1970,Round 18,"Saturday, 25th July, 1970",3:00pm (local time),12845,24,"27,753","St George
+DRAGONS",9,17,8,"South Sydney
+RABBITOHS",11,18,7
+0,NSWRFL 1970,Round 18,"Saturday, 25th July, 1970",3:00pm (local time),12846,110,"1,527","Western Suburbs
+MAGPIES",14,27,10,"North Sydney
+BEARS",14,27,8
+0,NSWRFL 1970,Round 18,"Sunday, 26th July, 1970",3:00pm (local time),12847,7,"6,893","Balmain
+TIGERS",2,14,7,"Penrith
+PANTHERS",7,16,9
+0,NSWRFL 1970,Round 18,"Sunday, 26th July, 1970",3:00pm (local time),12849,5,"9,727","Manly Warringah
+SEA EAGLES",9,26,9,"Cronulla Sutherland
+SHARKS",9,14,16
+0,NSWRFL 1970,Round 18,"Sunday, 26th July, 1970",3:00pm (local time),12848,109,"10,470",NEWTOWN,10,19,10,CANTERBURY BANKSTOWN,5,10,9
+0,NSWRFL 1970,Round 18,"Sunday, 26th July, 1970",3:00pm (local time),12850,111,"6,858","Parramatta
+EELS",14,16,16,"Eastern Suburbs
+ROOSTERS",3,13,11
+0,NSWRFL 1970,Round 19,"Saturday, 1st August, 1970",3:00pm (local time),12851,24,"13,966",CANTERBURY BANKSTOWN,3,13,8,"Manly Warringah
+SEA EAGLES",11,11,11
+0,NSWRFL 1970,Round 19,"Saturday, 1st August, 1970",3:00pm (local time),12852,44,"6,916","South Sydney
+RABBITOHS",21,29,16,"North Sydney
+BEARS",8,13,5
+0,NSWRFL 1970,Round 19,"Sunday, 2nd August, 1970",3:00pm (local time),12854,109,"11,041","Eastern Suburbs
+ROOSTERS",3,12,10,NEWTOWN,2,2,8
+0,NSWRFL 1970,Round 19,"Sunday, 2nd August, 1970",3:00pm (local time),12855,111,"8,572","Parramatta
+EELS",2,4,11,"Balmain
+TIGERS",6,17,9
+0,NSWRFL 1970,Round 19,"Sunday, 2nd August, 1970",3:00pm (local time),12853,3,"7,429","Penrith
+PANTHERS",10,17,6,"St George
+DRAGONS",12,26,8
+0,NSWRFL 1970,Round 19,"Sunday, 2nd August, 1970",3:00pm (local time),12856,110,"2,522","Western Suburbs
+MAGPIES",5,16,14,"Cronulla Sutherland
+SHARKS",2,2,8
+0,NSWRFL 1970,Round 20,"Saturday, 8th August, 1970",3:00pm (local time),12858,24,"19,147",CANTERBURY BANKSTOWN,10,10,11,"Eastern Suburbs
+ROOSTERS",3,17,8
+0,NSWRFL 1970,Round 20,"Saturday, 8th August, 1970",3:00pm (local time),12857,25,"2,227","North Sydney
+BEARS",6,14,9,"Penrith
+PANTHERS",4,11,15
+0,NSWRFL 1970,Round 20,"Sunday, 9th August, 1970",3:00pm (local time),12860,7,"5,720","Balmain
+TIGERS",7,15,10,NEWTOWN,3,9,15
+0,NSWRFL 1970,Round 20,"Sunday, 9th August, 1970",3:00pm (local time),12859,5,"8,838","Manly Warringah
+SEA EAGLES",5,25,11,"Western Suburbs
+MAGPIES",10,18,6
+0,NSWRFL 1970,Round 20,"Sunday, 9th August, 1970",3:00pm (local time),12861,23,"9,925","St George
+DRAGONS",9,22,7,"Parramatta
+EELS",0,0,11
+0,NSWRFL 1970,Round 20,"Sunday, 9th August, 1970",3:00pm (local time),12862,109,"11,186","South Sydney
+RABBITOHS",10,21,15,"Cronulla Sutherland
+SHARKS",5,16,11
+0,NSWRFL 1970,Round 21,"Saturday, 15th August, 1970",3:00pm (local time),12863,9,"4,327","Cronulla Sutherland
+SHARKS",4,23,14,"Penrith
+PANTHERS",0,2,11
+0,NSWRFL 1970,Round 21,"Saturday, 15th August, 1970",3:00pm (local time),12864,24,"22,857","Eastern Suburbs
+ROOSTERS",11,7,9,"Manly Warringah
+SEA EAGLES",2,18,8
+0,NSWRFL 1970,Round 21,"Sunday, 16th August, 1970",3:00pm (local time),12868,7,"9,673","Balmain
+TIGERS",10,26,10,CANTERBURY BANKSTOWN,2,9,8
+0,NSWRFL 1970,Round 21,"Sunday, 16th August, 1970",3:00pm (local time),12865,76,"10,087",NEWTOWN,4,9,8,"St George
+DRAGONS",6,21,8
+0,NSWRFL 1970,Round 21,"Sunday, 16th August, 1970",3:00pm (local time),12866,25,"3,885","North Sydney
+BEARS",15,30,5,"Parramatta
+EELS",5,7,16
+0,NSWRFL 1970,Round 21,"Sunday, 16th August, 1970",3:00pm (local time),12867,109,"10,867","South Sydney
+RABBITOHS",14,26,6,"Western Suburbs
+MAGPIES",2,7,15
+0,NSWRFL 1970,Round 22,"Saturday, 22nd August, 1970",3:00pm (local time),12869,24,"33,506","Manly Warringah
+SEA EAGLES",17,20,8,"South Sydney
+RABBITOHS",7,24,9
+0,NSWRFL 1970,Round 22,"Sunday, 23rd August, 1970",3:00pm (local time),12872,7,"10,691","Balmain
+TIGERS",10,13,7,"Eastern Suburbs
+ROOSTERS",4,6,9
+0,NSWRFL 1970,Round 22,"Sunday, 23rd August, 1970",3:00pm (local time),12870,155,"2,666",NEWTOWN,5,11,10,"North Sydney
+BEARS",7,15,12
+0,NSWRFL 1970,Round 22,"Sunday, 23rd August, 1970",3:00pm (local time),12874,111,"4,651","Parramatta
+EELS",3,6,6,"Cronulla Sutherland
+SHARKS",11,34,4
+0,NSWRFL 1970,Round 22,"Sunday, 23rd August, 1970",3:00pm (local time),12871,3,"3,640","Penrith
+PANTHERS",7,7,7,"Western Suburbs
+MAGPIES",9,21,9
+0,NSWRFL 1970,Round 22,"Sunday, 23rd August, 1970",3:00pm (local time),12873,109,"17,768","St George
+DRAGONS",2,4,9,CANTERBURY BANKSTOWN,5,10,7
+0,NSWRFL 1970,Minor Semi,"Saturday, 29th August, 1970",3:00pm (local time),12875,24,"40,083","St George
+DRAGONS",2,12,12,CANTERBURY BANKSTOWN,4,7,7
+0,NSWRFL 1970,Major Semi,"Saturday, 5th September, 1970",3:00pm (local time),12876,24,"40,211","South Sydney
+RABBITOHS",10,22,6,"Manly Warringah
+SEA EAGLES",4,15,11
+0,NSWRFL 1970,Prelim Final,"Saturday, 12th September, 1970",3:00pm (local time),12877,24,"43,147","Manly Warringah
+SEA EAGLES",6,15,6,"St George
+DRAGONS",4,6,11
+0,NSWRFL 1970,Grand Final,"Saturday, 19th September, 1970",3:00pm (local time),12878,24,"53,241","South Sydney
+RABBITOHS",12,23,5,"Manly Warringah
+SEA EAGLES",6,12,14

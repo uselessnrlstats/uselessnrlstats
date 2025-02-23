@@ -1,0 +1,556 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2015,Round 1,"Thursday, 5th March, 2015",8:05pm (local time),30133,1097,"36,057","Brisbane
+BRONCOS",2,6,10,"South Sydney
+RABBITOHS",10,36,11
+0,NRL 2015,Round 1,"Friday, 6th March, 2015",7:45pm (local time),30134,8,"18,718","Parramatta
+EELS",16,42,7,"Manly Warringah
+SEA EAGLES",12,12,9
+0,NRL 2015,Round 1,"Saturday, 7th March, 2015",4:30pm (local time),30135,11,"16,146","Newcastle
+KNIGHTS",6,24,8,WARRIORS,14,14,10
+0,NRL 2015,Round 1,"Saturday, 7th March, 2015",6:00pm (local time),30136,149,"14,319","Gold Coast
+TITANS",12,18,10,WESTS TIGERS,6,19,8
+0,NRL 2015,Round 1,"Saturday, 7th March, 2015",8:00pm (local time),30137,14,"17,123","North Queensland
+COWBOYS",0,4,10,"Sydney
+ROOSTERS",22,28,2
+0,NRL 2015,Round 1,"Sunday, 8th March, 2015",4:00pm (local time),30138,3,"18,814","Penrith
+PANTHERS",14,24,9,"Canterbury Bankstown
+BULLDOGS",0,18,9
+0,NRL 2015,Round 1,"Sunday, 8th March, 2015",6:30pm (local time),30139,9,"11,096","Cronulla Sutherland
+SHARKS",6,20,9,"Canberra
+RAIDERS",14,24,6
+0,NRL 2015,Round 1,"Monday, 9th March, 2015",7:00pm (local time),30140,23,"10,028","St George Illawarra
+DRAGONS",0,4,9,"Melbourne
+STORM",6,12,7
+0,NRL 2015,Round 2,"Friday, 13th March, 2015",7:35pm (local time),30142,20,"28,876","Canterbury Bankstown
+BULLDOGS",8,32,9,"Parramatta
+EELS",4,12,4
+0,NRL 2015,Round 2,"Friday, 13th March, 2015",8:35pm (local time),30141,9,"8,369","Cronulla Sutherland
+SHARKS",2,2,11,"Brisbane
+BRONCOS",0,10,6
+0,NRL 2015,Round 2,"Saturday, 14th March, 2015",4:30pm (local time),30143,108,"6,240","Penrith
+PANTHERS",8,40,11,"Gold Coast
+TITANS",0,0,7
+0,NRL 2015,Round 2,"Saturday, 14th March, 2015",7:00pm (local time),30144,5,"10,531","Manly Warringah
+SEA EAGLES",24,24,8,"Melbourne
+STORM",6,22,8
+0,NRL 2015,Round 2,"Saturday, 14th March, 2015",8:00pm (local time),30145,14,"13,006","North Queensland
+COWBOYS",14,14,10,"Newcastle
+KNIGHTS",4,16,6
+0,NRL 2015,Round 2,"Sunday, 15th March, 2015",4:00pm (local time),30146,20,"27,289","South Sydney
+RABBITOHS",12,34,4,"Sydney
+ROOSTERS",16,26,4
+0,NRL 2015,Round 2,"Sunday, 15th March, 2015",6:30pm (local time),30147,4,"8,241","Canberra
+RAIDERS",6,6,6,WARRIORS,6,18,4
+0,NRL 2015,Round 2,"Monday, 16th March, 2015",7:00pm (local time),30148,19,"11,837",WESTS TIGERS,20,22,8,"St George Illawarra
+DRAGONS",4,4,10
+0,NRL 2015,Round 3,"Friday, 20th March, 2015",7:35pm (local time),30149,5,"10,498","Manly Warringah
+SEA EAGLES",4,12,5,"Canterbury Bankstown
+BULLDOGS",10,16,5
+0,NRL 2015,Round 3,"Friday, 20th March, 2015",7:35pm (local time),30150,1097,"40,047","Brisbane
+BRONCOS",32,44,6,"North Queensland
+COWBOYS",6,22,3
+0,NRL 2015,Round 3,"Saturday, 21st March, 2015",5:00pm (local time),30151,6,"14,112",WARRIORS,22,29,8,"Parramatta
+EELS",0,16,6
+0,NRL 2015,Round 3,"Saturday, 21st March, 2015",5:30pm (local time),30152,4,"11,774","Canberra
+RAIDERS",18,20,7,"St George Illawarra
+DRAGONS",8,22,10
+0,NRL 2015,Round 3,"Saturday, 21st March, 2015",7:30pm (local time),30153,251,"13,015","Melbourne
+STORM",18,36,7,"Cronulla Sutherland
+SHARKS",6,18,13
+0,NRL 2015,Round 3,"Sunday, 22nd March, 2015",4:00pm (local time),30154,20,"23,211","South Sydney
+RABBITOHS",10,20,6,WESTS TIGERS,6,6,9
+0,NRL 2015,Round 3,"Sunday, 22nd March, 2015",5:30pm (local time),30155,149,"6,962","Gold Coast
+TITANS",6,18,8,"Newcastle
+KNIGHTS",14,20,7
+0,NRL 2015,Round 3,"Monday, 23rd March, 2015",7:00pm (local time),30156,1,"10,735","Sydney
+ROOSTERS",8,20,5,"Penrith
+PANTHERS",6,12,8
+0,NRL 2015,Round 4,"Friday, 27th March, 2015",7:35pm (local time),30157,8,"15,562","Parramatta
+EELS",14,29,9,"South Sydney
+RABBITOHS",12,16,7
+0,NRL 2015,Round 4,"Friday, 27th March, 2015",7:35pm (local time),30158,20,"20,121",WESTS TIGERS,6,24,8,"Canterbury Bankstown
+BULLDOGS",6,25,9
+0,NRL 2015,Round 4,"Saturday, 28th March, 2015",3:00pm (local time),30159,11,"20,114","Newcastle
+KNIGHTS",18,26,11,"Penrith
+PANTHERS",4,14,5
+0,NRL 2015,Round 4,"Saturday, 28th March, 2015",5:30pm (local time),30160,9,"9,566","Cronulla Sutherland
+SHARKS",14,22,10,"Gold Coast
+TITANS",6,24,6
+0,NRL 2015,Round 4,"Saturday, 28th March, 2015",7:30pm (local time),30161,21,"12,087","St George Illawarra
+DRAGONS",10,12,8,"Manly Warringah
+SEA EAGLES",0,4,4
+0,NRL 2015,Round 4,"Sunday, 29th March, 2015",2:00pm (local time),30162,6,"14,679",WARRIORS,0,16,5,"Brisbane
+BRONCOS",16,24,5
+0,NRL 2015,Round 4,"Sunday, 29th March, 2015",2:00pm (local time),30163,1,"9,582","Sydney
+ROOSTERS",18,34,6,"Canberra
+RAIDERS",6,6,7
+0,NRL 2015,Round 4,"Monday, 30th March, 2015",6:00pm (local time),30164,14,"11,609","North Queensland
+COWBOYS",4,18,5,"Melbourne
+STORM",16,17,3
+0,NRL 2015,Round 5,"Friday, 3rd April, 2015",4:00pm (local time),30165,20,"40,523","Canterbury Bankstown
+BULLDOGS",10,17,7,"South Sydney
+RABBITOHS",8,18,7
+0,NRL 2015,Round 5,"Friday, 3rd April, 2015",7:35pm (local time),30166,149,"15,432","Gold Coast
+TITANS",6,16,7,"Brisbane
+BRONCOS",18,26,7
+0,NRL 2015,Round 5,"Saturday, 4th April, 2015",5:05pm (local time),30167,309,"6,436","Manly Warringah
+SEA EAGLES",4,16,7,"Canberra
+RAIDERS",23,29,3
+0,NRL 2015,Round 5,"Saturday, 4th April, 2015",7:30pm (local time),30168,11,"14,261","Newcastle
+KNIGHTS",0,0,8,"St George Illawarra
+DRAGONS",6,13,4
+0,NRL 2015,Round 5,"Sunday, 5th April, 2015",4:00pm (local time),30169,1,"12,004","Sydney
+ROOSTERS",0,12,4,"Cronulla Sutherland
+SHARKS",4,20,6
+0,NRL 2015,Round 5,"Monday, 6th April, 2015",3:00pm (local time),30170,20,"35,510","Parramatta
+EELS",6,6,6,WESTS TIGERS,4,22,5
+0,NRL 2015,Round 5,"Monday, 6th April, 2015",5:00pm (local time),30171,251,"18,179","Melbourne
+STORM",12,30,3,WARRIORS,4,14,7
+0,NRL 2015,Round 5,"Monday, 6th April, 2015",7:00pm (local time),30172,3,"8,409","Penrith
+PANTHERS",6,10,9,"North Queensland
+COWBOYS",16,30,5
+0,NRL 2015,Round 6,"Friday, 10th April, 2015",7:35pm (local time),30174,1097,"35,630","Brisbane
+BRONCOS",10,22,9,"Sydney
+ROOSTERS",12,18,5
+0,NRL 2015,Round 6,"Friday, 10th April, 2015",7:35pm (local time),30173,9,"10,057","Cronulla Sutherland
+SHARKS",12,22,4,"Newcastle
+KNIGHTS",2,6,6
+0,NRL 2015,Round 6,"Saturday, 11th April, 2015",3:00pm (local time),30175,8,"11,136","Parramatta
+EELS",16,16,8,"Gold Coast
+TITANS",12,38,8
+0,NRL 2015,Round 6,"Saturday, 11th April, 2015",7:30pm (local time),30176,6,"13,781",WARRIORS,20,32,10,WESTS TIGERS,12,22,5
+0,NRL 2015,Round 6,"Saturday, 11th April, 2015",7:30pm (local time),30177,3,"11,170","Penrith
+PANTHERS",6,22,8,"Manly Warringah
+SEA EAGLES",8,12,6
+0,NRL 2015,Round 6,"Sunday, 12th April, 2015",2:00pm (local time),30178,4,"10,536","Canberra
+RAIDERS",10,10,6,"Melbourne
+STORM",2,14,5
+0,NRL 2015,Round 6,"Sunday, 12th April, 2015",4:00pm (local time),30179,20,"20,273","St George Illawarra
+DRAGONS",18,31,4,"Canterbury Bankstown
+BULLDOGS",0,6,4
+0,NRL 2015,Round 6,"Monday, 13th April, 2015",7:00pm (local time),30180,20,"13,866","South Sydney
+RABBITOHS",12,12,10,"North Queensland
+COWBOYS",4,30,8
+0,NRL 2015,Round 7,"Friday, 17th April, 2015",7:35pm (local time),30182,20,"13,568","Canterbury Bankstown
+BULLDOGS",10,28,7,"Manly Warringah
+SEA EAGLES",8,16,6
+0,NRL 2015,Round 7,"Friday, 17th April, 2015",7:35pm (local time),30181,23,"13,029","St George Illawarra
+DRAGONS",6,12,5,"Brisbane
+BRONCOS",4,10,4
+0,NRL 2015,Round 7,"Saturday, 18th April, 2015",3:00pm (local time),30183,149,"9,244","Gold Coast
+TITANS",10,32,8,"Penrith
+PANTHERS",6,6,9
+0,NRL 2015,Round 7,"Saturday, 18th April, 2015",5:30pm (local time),30184,14,"16,038","North Queensland
+COWBOYS",10,28,4,WARRIORS,16,24,7
+0,NRL 2015,Round 7,"Saturday, 18th April, 2015",7:30pm (local time),30185,251,"12,860","Melbourne
+STORM",10,17,9,"Sydney
+ROOSTERS",10,16,6
+0,NRL 2015,Round 7,"Sunday, 19th April, 2015",2:00pm (local time),30186,7,"13,198",WESTS TIGERS,22,22,4,"Canberra
+RAIDERS",12,30,7
+0,NRL 2015,Round 7,"Sunday, 19th April, 2015",4:00pm (local time),30187,11,"16,953","Newcastle
+KNIGHTS",12,22,8,"Parramatta
+EELS",10,28,4
+0,NRL 2015,Round 7,"Monday, 20th April, 2015",7:00pm (local time),30188,9,"3,978","Cronulla Sutherland
+SHARKS",10,18,7,"South Sydney
+RABBITOHS",4,10,2
+0,NRL 2015,Round 8,"Friday, 24th April, 2015",7:45pm (local time),30189,20,"18,521","Canterbury Bankstown
+BULLDOGS",6,14,10,WESTS TIGERS,18,38,8
+0,NRL 2015,Round 8,"Saturday, 25th April, 2015",2:00pm (local time),30190,6,"15,102",WARRIORS,18,28,9,"Gold Coast
+TITANS",12,32,4
+0,NRL 2015,Round 8,"Saturday, 25th April, 2015",2:00pm (local time),30191,11,"15,518","Newcastle
+KNIGHTS",6,24,7,"North Queensland
+COWBOYS",16,26,3
+0,NRL 2015,Round 8,"Saturday, 25th April, 2015",4:00pm (local time),30192,1,"35,110","Sydney
+ROOSTERS",6,12,7,"St George Illawarra
+DRAGONS",10,14,8
+0,NRL 2015,Round 8,"Saturday, 25th April, 2015",6:00pm (local time),30193,251,"13,948","Melbourne
+STORM",10,10,10,"Manly Warringah
+SEA EAGLES",2,12,9
+0,NRL 2015,Round 8,"Saturday, 25th April, 2015",8:00pm (local time),30194,1097,"34,398","Brisbane
+BRONCOS",8,28,8,"Parramatta
+EELS",4,16,2
+0,NRL 2015,Round 8,"Sunday, 26th April, 2015",2:00pm (local time),30195,3,"12,798","Penrith
+PANTHERS",12,26,10,"Cronulla Sutherland
+SHARKS",18,18,11
+0,NRL 2015,Round 8,"Sunday, 26th April, 2015",4:00pm (local time),30196,393,"8,713","South Sydney
+RABBITOHS",16,22,6,"Canberra
+RAIDERS",4,30,9
+0,NRL 2015,Round 9,"Friday, 8th May, 2015",7:35pm (local time),30197,1097,"24,566","Brisbane
+BRONCOS",4,8,7,"Penrith
+PANTHERS",2,5,4
+0,NRL 2015,Round 9,"Friday, 8th May, 2015",7:35pm (local time),30198,1,"14,366","Sydney
+ROOSTERS",22,36,5,WESTS TIGERS,0,4,5
+0,NRL 2015,Round 9,"Saturday, 9th May, 2015",3:00pm (local time),30199,4,"8,116","Canberra
+RAIDERS",24,56,5,"Gold Coast
+TITANS",10,16,5
+0,NRL 2015,Round 9,"Saturday, 9th May, 2015",5:30pm (local time),30200,9,"13,988","Cronulla Sutherland
+SHARKS",8,16,11,WARRIORS,8,20,10
+0,NRL 2015,Round 9,"Saturday, 9th May, 2015",7:30pm (local time),30201,14,"15,794","North Queensland
+COWBOYS",12,23,4,"Canterbury Bankstown
+BULLDOGS",0,16,2
+0,NRL 2015,Round 9,"Sunday, 10th May, 2015",2:00pm (local time),30202,5,"10,065","Manly Warringah
+SEA EAGLES",18,30,3,"Newcastle
+KNIGHTS",0,10,6
+0,NRL 2015,Round 9,"Sunday, 10th May, 2015",4:00pm (local time),30203,8,"10,505","Parramatta
+EELS",10,10,6,"Melbourne
+STORM",10,28,9
+0,NRL 2015,Round 9,"Monday, 11th May, 2015",7:00pm (local time),30204,20,"14,126","South Sydney
+RABBITOHS",6,16,7,"St George Illawarra
+DRAGONS",10,10,6
+0,NRL 2015,Round 10,"Friday, 15th May, 2015",7:35pm (local time),30205,20,"17,093","Canterbury Bankstown
+BULLDOGS",4,10,4,"Sydney
+ROOSTERS",10,24,6
+0,NRL 2015,Round 10,"Friday, 15th May, 2015",7:35pm (local time),30206,14,"24,531","North Queensland
+COWBOYS",14,31,4,"Brisbane
+BRONCOS",12,20,3
+0,NRL 2015,Round 10,"Saturday, 16th May, 2015",3:00pm (local time),30207,8,"11,152","Parramatta
+EELS",0,13,5,WARRIORS,12,17,4
+0,NRL 2015,Round 10,"Saturday, 16th May, 2015",5:30pm (local time),30208,149,"10,466","Gold Coast
+TITANS",14,22,7,"Cronulla Sutherland
+SHARKS",4,23,6
+0,NRL 2015,Round 10,"Saturday, 16th May, 2015",7:30pm (local time),30209,251,"18,067","Melbourne
+STORM",16,16,8,"South Sydney
+RABBITOHS",2,12,4
+0,NRL 2015,Round 10,"Sunday, 17th May, 2015",2:00pm (local time),30210,21,"13,102","St George Illawarra
+DRAGONS",20,32,6,"Canberra
+RAIDERS",12,18,5
+0,NRL 2015,Round 10,"Sunday, 17th May, 2015",4:00pm (local time),30211,11,"15,573","Newcastle
+KNIGHTS",12,22,7,WESTS TIGERS,6,12,4
+0,NRL 2015,Round 10,"Monday, 18th May, 2015",7:00pm (local time),30212,5,"8,025","Manly Warringah
+SEA EAGLES",10,10,6,"Penrith
+PANTHERS",4,11,8
+0,NRL 2015,Round 11,"Friday, 22nd May, 2015",7:45pm (local time),30213,20,"11,658","South Sydney
+RABBITOHS",4,14,5,"Parramatta
+EELS",8,12,4
+0,NRL 2015,Round 11,"Saturday, 23rd May, 2015",7:30pm (local time),30214,19,"8,267",WESTS TIGERS,0,0,6,"North Queensland
+COWBOYS",2,8,7
+0,NRL 2015,Round 11,"Sunday, 24th May, 2015",4:00pm (local time),30215,4,"12,221","Canberra
+RAIDERS",16,34,5,"Canterbury Bankstown
+BULLDOGS",26,41,2
+0,NRL 2015,Round 11,"Monday, 25th May, 2015",7:00pm (local time),30216,11,"12,673","Newcastle
+KNIGHTS",18,18,5,"Brisbane
+BRONCOS",10,31,4
+0,NRL 2015,Round 12,"Friday, 29th May, 2015",7:45pm (local time),30217,3,"17,821","Penrith
+PANTHERS",0,20,7,"Parramatta
+EELS",14,26,4
+0,NRL 2015,Round 12,"Saturday, 30th May, 2015",3:00pm (local time),30218,149,"15,583","Gold Coast
+TITANS",10,16,6,"South Sydney
+RABBITOHS",6,22,11
+0,NRL 2015,Round 12,"Saturday, 30th May, 2015",5:30pm (local time),30219,4,"10,090","Canberra
+RAIDERS",12,12,5,"Brisbane
+BRONCOS",16,24,8
+0,NRL 2015,Round 12,"Saturday, 30th May, 2015",7:30pm (local time),30220,14,"14,196","North Queensland
+COWBOYS",6,18,5,"Manly Warringah
+SEA EAGLES",8,14,3
+0,NRL 2015,Round 12,"Sunday, 31st May, 2015",4:00pm (local time),30221,6,"13,203",WARRIORS,14,24,5,"Newcastle
+KNIGHTS",8,20,8
+0,NRL 2015,Round 12,"Sunday, 31st May, 2015",4:00pm (local time),30222,23,"18,011","St George Illawarra
+DRAGONS",14,42,11,"Cronulla Sutherland
+SHARKS",6,6,5
+0,NRL 2015,Round 12,"Monday, 1st June, 2015",7:00pm (local time),30223,1,"8,265","Sydney
+ROOSTERS",12,24,6,"Melbourne
+STORM",2,2,11
+0,NRL 2015,Round 13,"Friday, 5th June, 2015",7:35pm (local time),30224,1097,"28,691","Brisbane
+BRONCOS",20,44,6,"Manly Warringah
+SEA EAGLES",6,10,4
+0,NRL 2015,Round 13,"Friday, 5th June, 2015",7:35pm (local time),30225,7,"7,103",WESTS TIGERS,2,20,8,"Gold Coast
+TITANS",16,27,8
+0,NRL 2015,Round 13,"Saturday, 6th June, 2015",3:00pm (local time),30226,11,"13,504","Newcastle
+KNIGHTS",10,22,7,"Canberra
+RAIDERS",24,44,5
+0,NRL 2015,Round 13,"Saturday, 6th June, 2015",3:30pm (local time),30227,47,"20,272","South Sydney
+RABBITOHS",22,36,4,WARRIORS,4,4,2
+0,NRL 2015,Round 13,"Saturday, 6th June, 2015",7:30pm (local time),30228,3,"11,849","Penrith
+PANTHERS",0,0,7,"Melbourne
+STORM",18,20,5
+0,NRL 2015,Round 13,"Sunday, 7th June, 2015",4:00pm (local time),30229,9,"14,235","Cronulla Sutherland
+SHARKS",0,10,8,"Sydney
+ROOSTERS",4,4,7
+0,NRL 2015,Round 13,"Monday, 8th June, 2015",4:00pm (local time),30230,20,"27,291","Canterbury Bankstown
+BULLDOGS",10,29,2,"St George Illawarra
+DRAGONS",6,16,4
+0,NRL 2015,Round 13,"Monday, 8th June, 2015",7:00pm (local time),30231,8,"9,812","Parramatta
+EELS",24,30,5,"North Queensland
+COWBOYS",6,36,4
+0,NRL 2015,Round 14,"Friday, 12th June, 2015",7:45pm (local time),30232,20,"15,118",WESTS TIGERS,12,34,7,"South Sydney
+RABBITOHS",6,6,4
+0,NRL 2015,Round 14,"Saturday, 13th June, 2015",8:00pm (local time),30233,6,"14,167",WARRIORS,14,21,5,"Sydney
+ROOSTERS",6,25,5
+0,NRL 2015,Round 14,"Sunday, 14th June, 2015",4:00pm (local time),30234,149,"10,645","Gold Coast
+TITANS",10,28,8,"Canterbury Bankstown
+BULLDOGS",10,14,7
+0,NRL 2015,Round 14,"Monday, 15th June, 2015",7:00pm (local time),30235,251,"10,128","Melbourne
+STORM",12,22,8,"Parramatta
+EELS",10,26,6
+0,NRL 2015,Round 15,"Friday, 19th June, 2015",7:45pm (local time),30236,5,"8,093","Manly Warringah
+SEA EAGLES",18,30,6,WESTS TIGERS,10,20,10
+0,NRL 2015,Round 15,"Saturday, 20th June, 2015",3:00pm (local time),30237,4,"10,170","Canberra
+RAIDERS",6,20,7,"North Queensland
+COWBOYS",8,21,10
+0,NRL 2015,Round 15,"Saturday, 20th June, 2015",5:30pm (local time),30238,149,"14,132","Gold Coast
+TITANS",10,14,5,WARRIORS,6,36,6
+0,NRL 2015,Round 15,"Saturday, 20th June, 2015",7:30pm (local time),30239,20,"12,476","Canterbury Bankstown
+BULLDOGS",12,24,7,"Penrith
+PANTHERS",6,12,8
+0,NRL 2015,Round 15,"Sunday, 21st June, 2015",2:00pm (local time),30240,11,"14,081","Newcastle
+KNIGHTS",16,28,8,"Cronulla Sutherland
+SHARKS",12,30,7
+0,NRL 2015,Round 15,"Sunday, 21st June, 2015",4:00pm (local time),30241,251,"14,278","Melbourne
+STORM",12,12,7,"Brisbane
+BRONCOS",8,14,4
+0,NRL 2015,Round 15,"Monday, 22nd June, 2015",7:00pm (local time),30242,1,"10,185","St George Illawarra
+DRAGONS",8,14,7,"Sydney
+ROOSTERS",14,19,6
+0,NRL 2015,Round 16,"Friday, 26th June, 2015",7:35pm (local time),30244,1097,"27,246","Brisbane
+BRONCOS",20,44,4,"Newcastle
+KNIGHTS",10,22,1
+0,NRL 2015,Round 16,"Friday, 26th June, 2015",7:35pm (local time),30243,20,"14,236","South Sydney
+RABBITOHS",6,20,6,"Manly Warringah
+SEA EAGLES",4,8,9
+0,NRL 2015,Round 16,"Saturday, 27th June, 2015",5:00pm (local time),30245,6,"13,110",WARRIORS,14,30,9,"Canberra
+RAIDERS",8,8,7
+0,NRL 2015,Round 16,"Saturday, 27th June, 2015",5:30pm (local time),30246,14,"18,826","North Queensland
+COWBOYS",18,18,6,"Cronulla Sutherland
+SHARKS",0,24,7
+0,NRL 2015,Round 16,"Saturday, 27th June, 2015",7:30pm (local time),30247,8,"15,046","Parramatta
+EELS",6,16,5,"St George Illawarra
+DRAGONS",8,12,10
+0,NRL 2015,Round 16,"Sunday, 28th June, 2015",2:00pm (local time),30248,26,"12,569","Sydney
+ROOSTERS",18,20,7,"Gold Coast
+TITANS",4,10,3
+0,NRL 2015,Round 16,"Sunday, 28th June, 2015",4:00pm (local time),30249,7,"14,234",WESTS TIGERS,12,12,6,"Penrith
+PANTHERS",10,35,7
+0,NRL 2015,Round 16,"Monday, 29th June, 2015",7:00pm (local time),30250,27,"16,764","Canterbury Bankstown
+BULLDOGS",16,20,4,"Melbourne
+STORM",0,4,6
+0,NRL 2015,Round 17,"Friday, 3rd July, 2015",7:45pm (local time),30251,3,"14,068","Penrith
+PANTHERS",8,20,11,"South Sydney
+RABBITOHS",0,6,8
+0,NRL 2015,Round 17,"Saturday, 4th July, 2015",7:30pm (local time),30252,21,"11,813","St George Illawarra
+DRAGONS",6,12,5,"North Queensland
+COWBOYS",12,18,3
+0,NRL 2015,Round 17,"Sunday, 5th July, 2015",4:00pm (local time),30253,5,"14,881","Manly Warringah
+SEA EAGLES",10,28,5,"Cronulla Sutherland
+SHARKS",4,16,11
+0,NRL 2015,Round 17,"Monday, 6th July, 2015",7:00pm (local time),30254,20,"15,347",WESTS TIGERS,16,16,4,"Parramatta
+EELS",12,28,12
+0,NRL 2015,Round 18,"Friday, 10th July, 2015",7:45pm (local time),30255,4,"6,015","Canberra
+RAIDERS",24,36,5,"Newcastle
+KNIGHTS",4,22,7
+0,NRL 2015,Round 18,"Saturday, 11th July, 2015",5:30pm (local time),30256,3,"13,654","Penrith
+PANTHERS",0,4,6,"Sydney
+ROOSTERS",6,24,7
+0,NRL 2015,Round 18,"Saturday, 11th July, 2015",7:30pm (local time),30257,20,"16,253","Canterbury Bankstown
+BULLDOGS",4,8,4,"Brisbane
+BRONCOS",10,16,6
+0,NRL 2015,Round 18,"Sunday, 12th July, 2015",4:00pm (local time),30258,6,"17,278",WARRIORS,16,28,6,"Melbourne
+STORM",0,14,5
+0,NRL 2015,Round 18,"Sunday, 12th July, 2015",4:00pm (local time),30259,9,"12,792","Cronulla Sutherland
+SHARKS",16,28,4,"St George Illawarra
+DRAGONS",4,8,8
+0,NRL 2015,Round 18,"Monday, 13th July, 2015",7:00pm (local time),30260,149,"9,632","Gold Coast
+TITANS",0,6,8,"Manly Warringah
+SEA EAGLES",20,38,6
+0,NRL 2015,Round 19,"Friday, 17th July, 2015",7:35pm (local time),30262,251,"11,956","Melbourne
+STORM",26,52,5,"Penrith
+PANTHERS",0,10,5
+0,NRL 2015,Round 19,"Friday, 17th July, 2015",7:35pm (local time),30261,20,"17,082","Parramatta
+EELS",4,4,7,"Canterbury Bankstown
+BULLDOGS",6,28,6
+0,NRL 2015,Round 19,"Saturday, 18th July, 2015",3:00pm (local time),30263,4,"9,853","Canberra
+RAIDERS",4,20,8,"Cronulla Sutherland
+SHARKS",12,21,10
+0,NRL 2015,Round 19,"Saturday, 18th July, 2015",5:30pm (local time),30264,11,"10,546","Newcastle
+KNIGHTS",20,30,7,"Gold Coast
+TITANS",2,2,9
+0,NRL 2015,Round 19,"Saturday, 18th July, 2015",7:30pm (local time),30265,24,"18,217","St George Illawarra
+DRAGONS",4,8,5,"South Sydney
+RABBITOHS",8,24,7
+0,NRL 2015,Round 19,"Sunday, 19th July, 2015",2:00pm (local time),30266,1,"16,301","Sydney
+ROOSTERS",18,24,6,WARRIORS,0,0,4
+0,NRL 2015,Round 19,"Sunday, 19th July, 2015",4:00pm (local time),30267,1097,"37,260","Brisbane
+BRONCOS",26,42,7,WESTS TIGERS,0,16,3
+0,NRL 2015,Round 19,"Monday, 20th July, 2015",7:00pm (local time),30268,5,"7,643","Manly Warringah
+SEA EAGLES",6,12,5,"North Queensland
+COWBOYS",20,30,7
+0,NRL 2015,Round 20,"Friday, 24th July, 2015",7:35pm (local time),30270,1097,"27,665","Brisbane
+BRONCOS",18,34,7,"Gold Coast
+TITANS",0,0,6
+0,NRL 2015,Round 20,"Friday, 24th July, 2015",7:35pm (local time),30269,20,"10,186",WESTS TIGERS,4,8,5,"Sydney
+ROOSTERS",8,33,12
+0,NRL 2015,Round 20,"Saturday, 25th July, 2015",3:00pm (local time),30271,6,"15,812",WARRIORS,6,12,10,"Manly Warringah
+SEA EAGLES",6,32,8
+0,NRL 2015,Round 20,"Saturday, 25th July, 2015",7:30pm (local time),30273,475,"14,532","Melbourne
+STORM",12,22,5,"St George Illawarra
+DRAGONS",0,4,8
+0,NRL 2015,Round 20,"Saturday, 25th July, 2015",7:30pm (local time),30272,20,"14,603","South Sydney
+RABBITOHS",36,52,7,"Newcastle
+KNIGHTS",6,6,3
+0,NRL 2015,Round 20,"Sunday, 26th July, 2015",2:00pm (local time),30274,3,"8,048","Penrith
+PANTHERS",18,24,4,"Canberra
+RAIDERS",18,34,5
+0,NRL 2015,Round 20,"Sunday, 26th July, 2015",4:00pm (local time),30275,27,"19,005","Canterbury Bankstown
+BULLDOGS",4,16,6,"Cronulla Sutherland
+SHARKS",6,18,13
+0,NRL 2015,Round 20,"Monday, 27th July, 2015",7:00pm (local time),30276,14,"13,767","North Queensland
+COWBOYS",10,46,6,"Parramatta
+EELS",4,4,3
+0,NRL 2015,Round 21,"Friday, 31st July, 2015",7:45pm (local time),30280,1,"13,589","Sydney
+ROOSTERS",22,38,2,"Canterbury Bankstown
+BULLDOGS",16,28,7
+0,NRL 2015,Round 21,"Friday, 31st July, 2015",7:45pm (local time),30282,7,"7,419",WESTS TIGERS,18,34,8,"Melbourne
+STORM",10,16,5
+0,NRL 2015,Round 21,"Saturday, 1st August, 2015",5:00pm (local time),30284,6,"12,481",WARRIORS,10,14,6,"Cronulla Sutherland
+SHARKS",0,18,3
+0,NRL 2015,Round 21,"Saturday, 1st August, 2015",5:30pm (local time),30277,14,"16,207","North Queensland
+COWBOYS",4,32,8,"Canberra
+RAIDERS",18,24,7
+0,NRL 2015,Round 21,"Saturday, 1st August, 2015",7:30pm (local time),30281,26,"16,280","Manly Warringah
+SEA EAGLES",20,44,4,"Brisbane
+BRONCOS",0,14,4
+0,NRL 2015,Round 21,"Sunday, 2nd August, 2015",2:00pm (local time),30278,23,"10,236","St George Illawarra
+DRAGONS",14,46,8,"Newcastle
+KNIGHTS",20,24,7
+0,NRL 2015,Round 21,"Sunday, 2nd August, 2015",4:00pm (local time),30279,20,"13,391","South Sydney
+RABBITOHS",12,20,9,"Penrith
+PANTHERS",12,16,6
+0,NRL 2015,Round 21,"Monday, 3rd August, 2015",7:00pm (local time),30283,149,"7,496","Gold Coast
+TITANS",6,24,8,"Parramatta
+EELS",10,14,7
+0,NRL 2015,Round 22,"Friday, 7th August, 2015",7:45pm (local time),30285,1097,"34,082","Brisbane
+BRONCOS",10,16,6,"Canterbury Bankstown
+BULLDOGS",6,18,4
+0,NRL 2015,Round 22,"Friday, 7th August, 2015",7:45pm (local time),30289,5,"15,083","Manly Warringah
+SEA EAGLES",14,28,10,"South Sydney
+RABBITOHS",2,8,8
+0,NRL 2015,Round 22,"Saturday, 8th August, 2015",5:00pm (local time),30292,18,"18,317",WARRIORS,0,0,7,"St George Illawarra
+DRAGONS",10,36,6
+0,NRL 2015,Round 22,"Saturday, 8th August, 2015",5:30pm (local time),30290,9,"13,878","Cronulla Sutherland
+SHARKS",14,30,8,"North Queensland
+COWBOYS",0,18,6
+0,NRL 2015,Round 22,"Saturday, 8th August, 2015",7:00pm (local time),30286,423,"8,340","Parramatta
+EELS",0,10,6,"Penrith
+PANTHERS",4,4,10
+0,NRL 2015,Round 22,"Sunday, 9th August, 2015",2:00pm (local time),30291,251,"10,521","Melbourne
+STORM",6,36,8,"Gold Coast
+TITANS",8,14,5
+0,NRL 2015,Round 22,"Sunday, 9th August, 2015",4:00pm (local time),30287,11,"17,718","Newcastle
+KNIGHTS",0,22,9,"Sydney
+ROOSTERS",26,38,7
+0,NRL 2015,Round 22,"Monday, 10th August, 2015",7:00pm (local time),30288,4,"8,704","Canberra
+RAIDERS",12,18,9,WESTS TIGERS,4,20,8
+0,NRL 2015,Round 23,"Thursday, 13th August, 2015",7:45pm (local time),30295,14,"16,685","North Queensland
+COWBOYS",12,18,10,"South Sydney
+RABBITOHS",13,31,8
+0,NRL 2015,Round 23,"Friday, 14th August, 2015",7:45pm (local time),30293,1097,"33,480","Brisbane
+BRONCOS",16,32,4,"St George Illawarra
+DRAGONS",0,6,6
+0,NRL 2015,Round 23,"Saturday, 15th August, 2015",3:00pm (local time),30300,19,"10,963",WESTS TIGERS,16,18,7,"Newcastle
+KNIGHTS",12,24,8
+0,NRL 2015,Round 23,"Saturday, 15th August, 2015",5:30pm (local time),30296,3,"6,774","Penrith
+PANTHERS",20,24,7,WARRIORS,10,10,7
+0,NRL 2015,Round 23,"Saturday, 15th August, 2015",7:30pm (local time),30298,1,"11,255","Sydney
+ROOSTERS",4,28,10,"Parramatta
+EELS",18,18,5
+0,NRL 2015,Round 23,"Sunday, 16th August, 2015",2:00pm (local time),30297,4,"13,113","Canberra
+RAIDERS",8,24,9,"Manly Warringah
+SEA EAGLES",16,26,9
+0,NRL 2015,Round 23,"Sunday, 16th August, 2015",4:00pm (local time),30294,26,"11,021","Canterbury Bankstown
+BULLDOGS",12,36,5,"Gold Coast
+TITANS",4,14,4
+0,NRL 2015,Round 23,"Monday, 17th August, 2015",7:00pm (local time),30299,9,"10,269","Cronulla Sutherland
+SHARKS",2,2,5,"Melbourne
+STORM",12,30,6
+0,NRL 2015,Round 24,"Thursday, 20th August, 2015",7:45pm (local time),30301,21,"9,145","St George Illawarra
+DRAGONS",10,19,7,"Penrith
+PANTHERS",10,12,9
+0,NRL 2015,Round 24,"Friday, 21st August, 2015",7:45pm (local time),30302,20,"26,503","South Sydney
+RABBITOHS",0,18,7,"Canterbury Bankstown
+BULLDOGS",22,32,4
+0,NRL 2015,Round 24,"Saturday, 22nd August, 2015",3:00pm (local time),30305,9,"15,738","Cronulla Sutherland
+SHARKS",20,40,6,WESTS TIGERS,6,18,4
+0,NRL 2015,Round 24,"Saturday, 22nd August, 2015",7:30pm (local time),30308,6,"14,412",WARRIORS,16,16,8,"North Queensland
+COWBOYS",24,50,11
+0,NRL 2015,Round 24,"Saturday, 22nd August, 2015",7:45pm (local time),30303,1,"19,137","Sydney
+ROOSTERS",8,12,5,"Brisbane
+BRONCOS",0,10,4
+0,NRL 2015,Round 24,"Sunday, 23rd August, 2015",2:00pm (local time),30307,149,"8,762","Gold Coast
+TITANS",14,28,8,"Canberra
+RAIDERS",12,12,8
+0,NRL 2015,Round 24,"Sunday, 23rd August, 2015",4:00pm (local time),30304,5,"11,018","Manly Warringah
+SEA EAGLES",10,16,6,"Parramatta
+EELS",14,20,3
+0,NRL 2015,Round 24,"Monday, 24th August, 2015",7:00pm (local time),30306,251,"8,743","Melbourne
+STORM",6,6,7,"Newcastle
+KNIGHTS",18,20,7
+0,NRL 2015,Round 25,"Thursday, 27th August, 2015",7:45pm (local time),30311,1,"12,036","South Sydney
+RABBITOHS",6,12,6,"Brisbane
+BRONCOS",22,47,4
+0,NRL 2015,Round 25,"Friday, 28th August, 2015",7:45pm (local time),30313,5,"12,911","Manly Warringah
+SEA EAGLES",6,10,5,"Sydney
+ROOSTERS",16,46,7
+0,NRL 2015,Round 25,"Saturday, 29th August, 2015",3:00pm (local time),30309,8,"11,778","Parramatta
+EELS",10,28,4,"Cronulla Sutherland
+SHARKS",20,35,6
+0,NRL 2015,Round 25,"Saturday, 29th August, 2015",5:30pm (local time),30310,11,"23,604","Newcastle
+KNIGHTS",6,18,7,"Canterbury Bankstown
+BULLDOGS",14,20,4
+0,NRL 2015,Round 25,"Saturday, 29th August, 2015",7:30pm (local time),30314,251,"15,214","Melbourne
+STORM",8,14,7,"North Queensland
+COWBOYS",0,6,5
+0,NRL 2015,Round 25,"Sunday, 30th August, 2015",2:00pm (local time),30315,19,"6,711",WESTS TIGERS,18,50,8,WARRIORS,6,16,6
+0,NRL 2015,Round 25,"Sunday, 30th August, 2015",4:00pm (local time),30316,149,"12,335","Gold Coast
+TITANS",12,28,5,"St George Illawarra
+DRAGONS",20,26,8
+0,NRL 2015,Round 25,"Monday, 31st August, 2015",7:00pm (local time),30312,4,"6,717","Canberra
+RAIDERS",22,34,5,"Penrith
+PANTHERS",6,18,5
+0,NRL 2015,Round 26,"Thursday, 3rd September, 2015",7:45pm (local time),30317,1097,"44,015","Brisbane
+BRONCOS",4,8,8,"Melbourne
+STORM",8,15,2
+0,NRL 2015,Round 26,"Friday, 4th September, 2015",7:45pm (local time),30323,1,"25,019","Sydney
+ROOSTERS",30,30,9,"South Sydney
+RABBITOHS",0,0,10
+0,NRL 2015,Round 26,"Saturday, 5th September, 2015",3:00pm (local time),30322,3,"8,936","Penrith
+PANTHERS",8,30,13,"Newcastle
+KNIGHTS",12,12,8
+0,NRL 2015,Round 26,"Saturday, 5th September, 2015",5:30pm (local time),30320,20,"17,685","St George Illawarra
+DRAGONS",20,32,9,WESTS TIGERS,8,30,8
+0,NRL 2015,Round 26,"Saturday, 5th September, 2015",7:30pm (local time),30319,14,"16,977","North Queensland
+COWBOYS",16,42,9,"Gold Coast
+TITANS",12,12,10
+0,NRL 2015,Round 26,"Sunday, 6th September, 2015",2:00pm (local time),30321,8,"10,515","Parramatta
+EELS",6,24,6,"Canberra
+RAIDERS",6,28,6
+0,NRL 2015,Round 26,"Sunday, 6th September, 2015",4:00pm (local time),30324,9,"19,146","Cronulla Sutherland
+SHARKS",8,12,8,"Manly Warringah
+SEA EAGLES",10,14,7
+0,NRL 2015,Round 26,"Sunday, 6th September, 2015",6:30pm (local time),30318,20,"14,821","Canterbury Bankstown
+BULLDOGS",8,26,7,WARRIORS,6,22,4
+0,NRL 2015,Qualif Final,"Friday, 11th September, 2015",7:55pm (local time),30747,1,"20,521","Sydney
+ROOSTERS",8,18,4,"Melbourne
+STORM",6,20,5
+0,NRL 2015,Qualif Final,"Saturday, 12th September, 2015",5:50pm (local time),30746,20,"33,854","Canterbury Bankstown
+BULLDOGS",6,11,7,"St George Illawarra
+DRAGONS",0,10,10
+0,NRL 2015,Qualif Final,"Saturday, 12th September, 2015",7:55pm (local time),30745,1097,"50,388","Brisbane
+BRONCOS",8,16,5,"North Queensland
+COWBOYS",2,12,3
+0,NRL 2015,Qualif Final,"Sunday, 13th September, 2015",4:10pm (local time),30744,1,"27,031","Cronulla Sutherland
+SHARKS",18,28,9,"South Sydney
+RABBITOHS",0,12,7
+0,NRL 2015,Semi Final,"Friday, 18th September, 2015",7:55pm (local time),30749,1,"35,711","Sydney
+ROOSTERS",8,38,3,"Canterbury Bankstown
+BULLDOGS",4,12,6
+0,NRL 2015,Semi Final,"Saturday, 19th September, 2015",7:40pm (local time),30748,14,"21,683","North Queensland
+COWBOYS",19,39,10,"Cronulla Sutherland
+SHARKS",0,0,9
+0,NRL 2015,Prelim Final,"Friday, 25th September, 2015",7:55pm (local time),30751,1097,"51,826","Brisbane
+BRONCOS",20,31,3,"Sydney
+ROOSTERS",12,12,5
+0,NRL 2015,Prelim Final,"Saturday, 26th September, 2015",7:40pm (local time),30750,251,"29,315","Melbourne
+STORM",12,12,6,"North Queensland
+COWBOYS",16,32,5
+0,NRL 2015,Grand Final,"Sunday, 4th October, 2015",7:15pm (local time),30752,20,"82,758","Brisbane
+BRONCOS",14,16,5,"North Queensland
+COWBOYS",12,17,4

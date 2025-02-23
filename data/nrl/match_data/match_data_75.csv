@@ -1,0 +1,568 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1983,Round 1,"Saturday, 26th February, 1983",3:00pm (local time),4796,5,"8,072","Manly Warringah
+SEA EAGLES",18,38,13,"Cronulla Sutherland
+SHARKS",0,12,15
+0,NSWRFL 1983,Round 1,"Saturday, 26th February, 1983",7:30pm (local time),4794,7,"9,853","Balmain
+TIGERS",16,24,13,"South Sydney
+RABBITOHS",8,10,8
+0,NSWRFL 1983,Round 1,"Saturday, 26th February, 1983",7:30pm (local time),4795,48,"9,853","Canberra
+RAIDERS",18,22,15,"Penrith
+PANTHERS",8,46,5
+0,NSWRFL 1983,Round 1,"Sunday, 27th February, 1983",3:00pm (local time),4798,27,"9,186","Canterbury Bankstown
+BULLDOGS",14,30,16,"Illawarra
+STEELERS",12,20,12
+0,NSWRFL 1983,Round 1,"Sunday, 27th February, 1983",3:00pm (local time),4799,109,"5,342","Eastern Suburbs
+ROOSTERS",14,29,19,"Western Suburbs
+MAGPIES",2,6,17
+0,NSWRFL 1983,Round 1,"Sunday, 27th February, 1983",3:00pm (local time),4797,19,"10,686","Newtown
+JETS",2,14,15,"Parramatta
+EELS",14,54,10
+0,NSWRFL 1983,Round 1,"Sunday, 27th February, 1983",3:00pm (local time),4800,23,"9,733","St George
+DRAGONS",12,38,13,"North Sydney
+BEARS",6,18,10
+0,NSWRFL 1983,Round 2,"Saturday, 5th March, 1983",2:45pm (local time),4801,21,"6,753","Illawarra
+STEELERS",4,18,14,"Manly Warringah
+SEA EAGLES",20,26,18
+0,NSWRFL 1983,Round 2,"Saturday, 5th March, 1983",7:30pm (local time),4802,44,"9,331","South Sydney
+RABBITOHS",8,12,8,"St George
+DRAGONS",12,22,16
+0,NSWRFL 1983,Round 2,"Sunday, 6th March, 1983",2:45pm (local time),4803,9,"4,095","Cronulla Sutherland
+SHARKS",12,36,16,"Eastern Suburbs
+ROOSTERS",13,25,12
+0,NSWRFL 1983,Round 2,"Sunday, 6th March, 1983",2:45pm (local time),4804,25,"3,210","North Sydney
+BEARS",14,22,8,"Newtown
+JETS",12,20,10
+0,NSWRFL 1983,Round 2,"Sunday, 6th March, 1983",2:45pm (local time),4806,27,"4,333","Parramatta
+EELS",18,46,13,"Canberra
+RAIDERS",6,16,12
+0,NSWRFL 1983,Round 2,"Sunday, 6th March, 1983",2:45pm (local time),4807,3,"5,441","Penrith
+PANTHERS",22,34,11,"Canterbury Bankstown
+BULLDOGS",18,30,6
+0,NSWRFL 1983,Round 2,"Sunday, 6th March, 1983",2:45pm (local time),4805,110,"4,278","Western Suburbs
+MAGPIES",16,16,13,"Balmain
+TIGERS",26,44,7
+0,NSWRFL 1983,Round 3,"Friday, 11th March, 1983",7:30pm (local time),4808,109,"3,803","Eastern Suburbs
+ROOSTERS",26,47,8,"Illawarra
+STEELERS",2,2,12
+0,NSWRFL 1983,Round 3,"Saturday, 12th March, 1983",4:00pm (local time),4810,27,"5,024","Parramatta
+EELS",14,46,9,"Penrith
+PANTHERS",2,8,10
+0,NSWRFL 1983,Round 3,"Saturday, 12th March, 1983",7:30pm (local time),4811,7,"8,532","Balmain
+TIGERS",10,16,7,"Cronulla Sutherland
+SHARKS",12,12,11
+0,NSWRFL 1983,Round 3,"Saturday, 12th March, 1983",7:30pm (local time),4812,48,"8,932","Canberra
+RAIDERS",10,32,14,"North Sydney
+BEARS",6,10,12
+0,NSWRFL 1983,Round 3,"Saturday, 12th March, 1983",7:30pm (local time),4809,76,"3,860","Newtown
+JETS",10,36,8,"South Sydney
+RABBITOHS",4,10,14
+0,NSWRFL 1983,Round 3,"Sunday, 13th March, 1983",4:00pm (local time),4814,5,"9,410","Manly Warringah
+SEA EAGLES",18,36,8,"Canterbury Bankstown
+BULLDOGS",2,2,11
+0,NSWRFL 1983,Round 3,"Sunday, 13th March, 1983",4:00pm (local time),4813,23,"6,476","St George
+DRAGONS",2,18,10,"Western Suburbs
+MAGPIES",0,0,14
+0,NSWRFL 1983,Round 4,"Saturday, 19th March, 1983",4:00pm (local time),4816,27,"7,079","Canterbury Bankstown
+BULLDOGS",14,20,15,"Eastern Suburbs
+ROOSTERS",4,23,12
+0,NSWRFL 1983,Round 4,"Saturday, 19th March, 1983",7:30pm (local time),4815,7,"7,371","Balmain
+TIGERS",28,46,7,"Illawarra
+STEELERS",8,20,14
+0,NSWRFL 1983,Round 4,"Saturday, 19th March, 1983",7:30pm (local time),4817,44,"3,876","South Sydney
+RABBITOHS",2,17,10,"Canberra
+RAIDERS",6,16,18
+0,NSWRFL 1983,Round 4,"Sunday, 20th March, 1983",4:00pm (local time),4819,9,"3,142","Cronulla Sutherland
+SHARKS",14,14,11,"St George
+DRAGONS",12,12,16
+0,NSWRFL 1983,Round 4,"Sunday, 20th March, 1983",4:00pm (local time),4818,25,"2,489","North Sydney
+BEARS",10,10,9,"Parramatta
+EELS",6,12,5
+0,NSWRFL 1983,Round 4,"Sunday, 20th March, 1983",4:00pm (local time),4820,3,"3,715","Penrith
+PANTHERS",14,26,24,"Manly Warringah
+SEA EAGLES",0,4,11
+0,NSWRFL 1983,Round 4,"Sunday, 20th March, 1983",4:00pm (local time),4821,110,"1,365","Western Suburbs
+MAGPIES",8,14,10,"Newtown
+JETS",12,14,10
+0,NSWRFL 1983,Round 5,"Saturday, 26th March, 1983",2:45pm (local time),4822,7,"8,273","Balmain
+TIGERS",0,14,8,"Canterbury Bankstown
+BULLDOGS",8,18,13
+0,NSWRFL 1983,Round 5,"Saturday, 26th March, 1983",7:30pm (local time),4823,48,"10,746","Canberra
+RAIDERS",8,30,13,"Western Suburbs
+MAGPIES",14,22,7
+0,NSWRFL 1983,Round 5,"Sunday, 27th March, 1983",2:45pm (local time),4826,109,"8,448","Eastern Suburbs
+ROOSTERS",4,8,8,"Manly Warringah
+SEA EAGLES",12,22,19
+0,NSWRFL 1983,Round 5,"Sunday, 27th March, 1983",2:45pm (local time),4828,19,"4,494","Newtown
+JETS",14,24,13,"Cronulla Sutherland
+SHARKS",14,26,12
+0,NSWRFL 1983,Round 5,"Sunday, 27th March, 1983",2:45pm (local time),4824,25,"3,516","North Sydney
+BEARS",12,40,10,"Penrith
+PANTHERS",4,18,5
+0,NSWRFL 1983,Round 5,"Sunday, 27th March, 1983",2:45pm (local time),4825,27,"8,423","Parramatta
+EELS",14,24,11,"South Sydney
+RABBITOHS",4,14,9
+0,NSWRFL 1983,Round 5,"Sunday, 27th March, 1983",2:45pm (local time),4827,23,"6,534","St George
+DRAGONS",6,26,11,"Illawarra
+STEELERS",6,12,13
+0,NSWRFL 1983,Round 6,"Saturday, 2nd April, 1983",2:45pm (local time),4829,9,"3,564","Cronulla Sutherland
+SHARKS",2,8,23,"Canberra
+RAIDERS",24,24,9
+0,NSWRFL 1983,Round 6,"Sunday, 3rd April, 1983",2:45pm (local time),4830,21,"4,143","Illawarra
+STEELERS",12,16,11,"Newtown
+JETS",6,24,13
+0,NSWRFL 1983,Round 6,"Sunday, 3rd April, 1983",2:45pm (local time),4833,5,"9,021","Manly Warringah
+SEA EAGLES",28,34,10,"Balmain
+TIGERS",0,18,13
+0,NSWRFL 1983,Round 6,"Sunday, 3rd April, 1983",2:45pm (local time),4834,3,"5,689","Penrith
+PANTHERS",0,0,12,"Eastern Suburbs
+ROOSTERS",8,17,11
+0,NSWRFL 1983,Round 6,"Sunday, 3rd April, 1983",2:45pm (local time),4831,44,"3,749","South Sydney
+RABBITOHS",6,10,9,"North Sydney
+BEARS",6,24,12
+0,NSWRFL 1983,Round 6,"Sunday, 3rd April, 1983",2:45pm (local time),4832,110,"5,061","Western Suburbs
+MAGPIES",2,9,14,"Parramatta
+EELS",2,2,13
+0,NSWRFL 1983,Round 6,"Monday, 4th April, 1983",2:45pm (local time),4835,27,"12,324","Canterbury Bankstown
+BULLDOGS",6,10,11,"St George
+DRAGONS",0,6,14
+0,NSWRFL 1983,Round 7,"Saturday, 9th April, 1983",2:45pm (local time),4836,7,"8,437","Balmain
+TIGERS",4,22,11,"Eastern Suburbs
+ROOSTERS",23,30,13
+0,NSWRFL 1983,Round 7,"Sunday, 10th April, 1983",2:45pm (local time),4838,48,"12,435","Canberra
+RAIDERS",14,24,14,"Illawarra
+STEELERS",20,38,16
+0,NSWRFL 1983,Round 7,"Sunday, 10th April, 1983",2:45pm (local time),4841,76,"4,506","Newtown
+JETS",6,6,11,"Canterbury Bankstown
+BULLDOGS",8,28,13
+0,NSWRFL 1983,Round 7,"Sunday, 10th April, 1983",2:45pm (local time),4837,25,"5,425","North Sydney
+BEARS",2,22,11,"Western Suburbs
+MAGPIES",10,16,9
+0,NSWRFL 1983,Round 7,"Sunday, 10th April, 1983",2:45pm (local time),4842,27,"8,105","Parramatta
+EELS",8,14,14,"Cronulla Sutherland
+SHARKS",12,18,3
+0,NSWRFL 1983,Round 7,"Sunday, 10th April, 1983",2:45pm (local time),4839,23,"15,166","St George
+DRAGONS",4,10,13,"Manly Warringah
+SEA EAGLES",2,14,14
+0,NSWRFL 1983,Round 7,"Sunday, 10th April, 1983",2:45pm (local time),4840,44,"3,982","South Sydney
+RABBITOHS",6,13,10,"Penrith
+PANTHERS",10,36,12
+0,NSWRFL 1983,Round 8,"Saturday, 16th April, 1983",2:45pm (local time),4843,9,"3,913","Cronulla Sutherland
+SHARKS",10,18,10,"North Sydney
+BEARS",12,12,9
+0,NSWRFL 1983,Round 8,"Sunday, 17th April, 1983",2:45pm (local time),4849,27,"5,114","Canterbury Bankstown
+BULLDOGS",10,24,17,"Canberra
+RAIDERS",8,14,10
+0,NSWRFL 1983,Round 8,"Sunday, 17th April, 1983",2:45pm (local time),4846,109,"4,358","Eastern Suburbs
+ROOSTERS",8,8,7,"St George
+DRAGONS",8,8,10
+0,NSWRFL 1983,Round 8,"Sunday, 17th April, 1983",2:45pm (local time),4844,21,"10,156","Illawarra
+STEELERS",0,12,13,"Parramatta
+EELS",12,38,13
+0,NSWRFL 1983,Round 8,"Sunday, 17th April, 1983",2:45pm (local time),4845,5,"4,556","Manly Warringah
+SEA EAGLES",12,24,13,"Newtown
+JETS",0,2,14
+0,NSWRFL 1983,Round 8,"Sunday, 17th April, 1983",2:45pm (local time),4848,3,"6,790","Penrith
+PANTHERS",8,18,9,"Balmain
+TIGERS",15,17,11
+0,NSWRFL 1983,Round 8,"Sunday, 17th April, 1983",2:45pm (local time),4847,110,"2,041","Western Suburbs
+MAGPIES",2,6,12,"South Sydney
+RABBITOHS",4,6,8
+0,NSWRFL 1983,Round 9,"Saturday, 23rd April, 1983",2:45pm (local time),4850,48,"6,833","Canberra
+RAIDERS",6,14,8,"Manly Warringah
+SEA EAGLES",6,24,12
+0,NSWRFL 1983,Round 9,"Sunday, 24th April, 1983",2:45pm (local time),4855,76,"3,551","Newtown
+JETS",4,16,7,"Eastern Suburbs
+ROOSTERS",10,34,14
+0,NSWRFL 1983,Round 9,"Sunday, 24th April, 1983",2:45pm (local time),4851,25,"4,188","North Sydney
+BEARS",22,34,9,"Illawarra
+STEELERS",8,16,13
+0,NSWRFL 1983,Round 9,"Sunday, 24th April, 1983",2:45pm (local time),4853,27,"22,790","Parramatta
+EELS",6,18,9,"Canterbury Bankstown
+BULLDOGS",10,24,9
+0,NSWRFL 1983,Round 9,"Sunday, 24th April, 1983",2:45pm (local time),4854,44,"4,807","South Sydney
+RABBITOHS",20,46,13,"Cronulla Sutherland
+SHARKS",10,10,15
+0,NSWRFL 1983,Round 9,"Sunday, 24th April, 1983",2:45pm (local time),4852,110,"3,819","Western Suburbs
+MAGPIES",8,40,7,"Penrith
+PANTHERS",2,6,13
+0,NSWRFL 1983,Round 9,"Monday, 25th April, 1983",2:45pm (local time),4856,23,"13,299","St George
+DRAGONS",16,45,9,"Balmain
+TIGERS",6,12,6
+0,NSWRFL 1983,Round 10,"Sunday, 1st May, 1983",2:45pm (local time),4857,27,"8,115","Canterbury Bankstown
+BULLDOGS",0,10,3,"North Sydney
+BEARS",14,24,12
+0,NSWRFL 1983,Round 10,"Sunday, 1st May, 1983",2:45pm (local time),4861,9,"4,170","Cronulla Sutherland
+SHARKS",25,42,12,"Western Suburbs
+MAGPIES",2,16,8
+0,NSWRFL 1983,Round 10,"Sunday, 1st May, 1983",2:45pm (local time),4862,109,"3,797","Eastern Suburbs
+ROOSTERS",16,30,8,"Canberra
+RAIDERS",0,6,19
+0,NSWRFL 1983,Round 10,"Sunday, 1st May, 1983",2:45pm (local time),4858,21,"5,785","Illawarra
+STEELERS",12,18,8,"South Sydney
+RABBITOHS",12,23,5
+0,NSWRFL 1983,Round 10,"Sunday, 1st May, 1983",2:45pm (local time),4859,5,"24,156","Manly Warringah
+SEA EAGLES",0,6,10,"Parramatta
+EELS",12,24,16
+0,NSWRFL 1983,Round 10,"Sunday, 1st May, 1983",2:45pm (local time),4860,3,"9,309","Penrith
+PANTHERS",8,16,10,"St George
+DRAGONS",12,18,16
+0,NSWRFL 1983,Round 11,"Saturday, 7th May, 1983",2:45pm (local time),4864,25,"10,612","North Sydney
+BEARS",10,10,12,"Manly Warringah
+SEA EAGLES",8,20,8
+0,NSWRFL 1983,Round 11,"Sunday, 8th May, 1983",2:45pm (local time),4868,48,"9,895","Canberra
+RAIDERS",10,18,13,"Balmain
+TIGERS",16,30,13
+0,NSWRFL 1983,Round 11,"Sunday, 8th May, 1983",2:45pm (local time),4866,9,"3,174","Cronulla Sutherland
+SHARKS",18,36,10,"Penrith
+PANTHERS",6,12,9
+0,NSWRFL 1983,Round 11,"Sunday, 8th May, 1983",2:45pm (local time),4865,76,"4,179","Newtown
+JETS",8,19,13,"St George
+DRAGONS",0,12,14
+0,NSWRFL 1983,Round 11,"Sunday, 8th May, 1983",2:45pm (local time),4870,27,"13,105","Parramatta
+EELS",2,26,15,"Eastern Suburbs
+ROOSTERS",2,4,12
+0,NSWRFL 1983,Round 11,"Sunday, 8th May, 1983",2:45pm (local time),4869,44,"7,340","South Sydney
+RABBITOHS",13,15,9,"Canterbury Bankstown
+BULLDOGS",10,34,11
+0,NSWRFL 1983,Round 11,"Sunday, 8th May, 1983",2:45pm (local time),4867,110,"2,433","Western Suburbs
+MAGPIES",8,10,16,"Illawarra
+STEELERS",8,28,8
+0,NSWRFL 1983,Round 12,"Saturday, 14th May, 1983",2:45pm (local time),4871,109,"6,959","Eastern Suburbs
+ROOSTERS",0,2,8,"North Sydney
+BEARS",8,10,8
+0,NSWRFL 1983,Round 12,"Sunday, 15th May, 1983",2:45pm (local time),4874,7,"9,954","Balmain
+TIGERS",21,21,9,"Parramatta
+EELS",16,42,7
+0,NSWRFL 1983,Round 12,"Sunday, 15th May, 1983",2:45pm (local time),4875,27,"8,108","Canterbury Bankstown
+BULLDOGS",16,22,13,"Western Suburbs
+MAGPIES",2,8,14
+0,NSWRFL 1983,Round 12,"Sunday, 15th May, 1983",2:45pm (local time),4877,21,"5,921","Illawarra
+STEELERS",8,13,8,"Cronulla Sutherland
+SHARKS",6,12,5
+0,NSWRFL 1983,Round 12,"Sunday, 15th May, 1983",2:45pm (local time),4872,5,"10,723","Manly Warringah
+SEA EAGLES",20,46,10,"South Sydney
+RABBITOHS",0,0,5
+0,NSWRFL 1983,Round 12,"Sunday, 15th May, 1983",2:45pm (local time),4873,19,"4,378","Newtown
+JETS",4,34,4,"Penrith
+PANTHERS",8,8,12
+0,NSWRFL 1983,Round 12,"Sunday, 15th May, 1983",2:45pm (local time),4876,23,"6,160","St George
+DRAGONS",24,43,14,"Canberra
+RAIDERS",18,30,9
+0,NSWRFL 1983,Round 13,"Sunday, 22nd May, 1983",2:45pm (local time),4878,48,"6,894","Canberra
+RAIDERS",6,31,13,"Newtown
+JETS",6,12,11
+0,NSWRFL 1983,Round 13,"Sunday, 22nd May, 1983",2:45pm (local time),4879,9,"4,011","Cronulla Sutherland
+SHARKS",6,6,12,"Canterbury Bankstown
+BULLDOGS",0,0,14
+0,NSWRFL 1983,Round 14,"Saturday, 28th May, 1983",2:45pm (local time),4885,9,"7,174","Cronulla Sutherland
+SHARKS",0,8,9,"Parramatta
+EELS",6,24,15
+0,NSWRFL 1983,Round 14,"Sunday, 29th May, 1983",2:45pm (local time),4888,27,"7,869","Canterbury Bankstown
+BULLDOGS",6,26,13,"Newtown
+JETS",0,8,12
+0,NSWRFL 1983,Round 14,"Sunday, 29th May, 1983",2:45pm (local time),4890,109,"6,993","Eastern Suburbs
+ROOSTERS",0,16,12,"Balmain
+TIGERS",20,20,7
+0,NSWRFL 1983,Round 14,"Sunday, 29th May, 1983",2:45pm (local time),4891,21,"5,978","Illawarra
+STEELERS",14,22,11,"Canberra
+RAIDERS",16,34,7
+0,NSWRFL 1983,Round 14,"Sunday, 29th May, 1983",2:45pm (local time),4886,5,"17,153","Manly Warringah
+SEA EAGLES",14,31,7,"St George
+DRAGONS",10,24,15
+0,NSWRFL 1983,Round 14,"Sunday, 29th May, 1983",2:45pm (local time),4887,3,"5,128","Penrith
+PANTHERS",2,8,11,"South Sydney
+RABBITOHS",14,19,9
+0,NSWRFL 1983,Round 14,"Sunday, 29th May, 1983",2:45pm (local time),4889,110,"4,011","Western Suburbs
+MAGPIES",4,10,16,"North Sydney
+BEARS",6,14,8
+0,NSWRFL 1983,Round 15,"Saturday, 4th June, 1983",2:45pm (local time),4892,25,"6,427","North Sydney
+BEARS",8,8,12,"St George
+DRAGONS",0,4,12
+0,NSWRFL 1983,Round 15,"Sunday, 5th June, 1983",2:45pm (local time),4893,9,"5,087","Cronulla Sutherland
+SHARKS",4,20,8,"Manly Warringah
+SEA EAGLES",12,32,9
+0,NSWRFL 1983,Round 15,"Sunday, 5th June, 1983",2:45pm (local time),4897,21,"6,232","Illawarra
+STEELERS",8,8,12,"Canterbury Bankstown
+BULLDOGS",8,15,14
+0,NSWRFL 1983,Round 15,"Sunday, 5th June, 1983",2:45pm (local time),4894,27,"5,713","Parramatta
+EELS",22,54,8,"Newtown
+JETS",0,4,8
+0,NSWRFL 1983,Round 15,"Sunday, 5th June, 1983",2:45pm (local time),4896,3,"2,553","Penrith
+PANTHERS",14,28,17,"Canberra
+RAIDERS",18,24,10
+0,NSWRFL 1983,Round 15,"Sunday, 5th June, 1983",2:45pm (local time),4895,44,"5,490","South Sydney
+RABBITOHS",0,2,7,"Balmain
+TIGERS",8,12,11
+0,NSWRFL 1983,Round 15,"Sunday, 5th June, 1983",2:45pm (local time),4898,110,"3,453","Western Suburbs
+MAGPIES",14,18,10,"Eastern Suburbs
+ROOSTERS",14,27,5
+0,NSWRFL 1983,Round 10,"Thursday, 9th June, 1983",8:00pm (local time),4863,7,"2,097","Balmain
+TIGERS",2,18,9,"Newtown
+JETS",2,8,13
+0,NSWRFL 1983,Round 16,"Saturday, 11th June, 1983",2:45pm (local time),4899,27,"6,130","Canterbury Bankstown
+BULLDOGS",4,34,12,"Penrith
+PANTHERS",6,14,10
+0,NSWRFL 1983,Round 16,"Sunday, 12th June, 1983",2:45pm (local time),4900,7,"5,624","Balmain
+TIGERS",2,10,10,"Western Suburbs
+MAGPIES",16,21,14
+0,NSWRFL 1983,Round 16,"Sunday, 12th June, 1983",2:45pm (local time),4901,48,"13,578","Canberra
+RAIDERS",4,8,11,"Parramatta
+EELS",0,0,11
+0,NSWRFL 1983,Round 16,"Sunday, 12th June, 1983",2:45pm (local time),4903,109,"4,751","Eastern Suburbs
+ROOSTERS",4,28,6,"Cronulla Sutherland
+SHARKS",5,7,9
+0,NSWRFL 1983,Round 16,"Sunday, 12th June, 1983",2:45pm (local time),4902,5,"8,083","Manly Warringah
+SEA EAGLES",24,34,10,"Illawarra
+STEELERS",2,6,12
+0,NSWRFL 1983,Round 16,"Monday, 13th June, 1983",2:45pm (local time),4904,76,"3,359","Newtown
+JETS",4,16,9,"North Sydney
+BEARS",2,16,18
+0,NSWRFL 1983,Round 16,"Monday, 13th June, 1983",2:45pm (local time),4905,23,"9,142","St George
+DRAGONS",22,24,9,"South Sydney
+RABBITOHS",18,28,8
+0,NSWRFL 1983,Round 17,"Saturday, 18th June, 1983",2:45pm (local time),4906,25,"2,409","North Sydney
+BEARS",10,20,11,"Canberra
+RAIDERS",6,6,9
+0,NSWRFL 1983,Round 17,"Sunday, 19th June, 1983",2:45pm (local time),4907,27,"11,338","Canterbury Bankstown
+BULLDOGS",2,6,7,"Manly Warringah
+SEA EAGLES",12,34,5
+0,NSWRFL 1983,Round 17,"Sunday, 19th June, 1983",2:45pm (local time),4911,9,"3,598","Cronulla Sutherland
+SHARKS",2,8,15,"Balmain
+TIGERS",10,10,8
+0,NSWRFL 1983,Round 17,"Sunday, 19th June, 1983",2:45pm (local time),4912,21,"4,814","Illawarra
+STEELERS",0,10,7,"Eastern Suburbs
+ROOSTERS",8,14,9
+0,NSWRFL 1983,Round 17,"Sunday, 19th June, 1983",2:45pm (local time),4909,3,"9,584","Penrith
+PANTHERS",0,4,10,"Parramatta
+EELS",0,16,13
+0,NSWRFL 1983,Round 17,"Sunday, 19th June, 1983",2:45pm (local time),4908,44,"2,895","South Sydney
+RABBITOHS",6,14,9,"Newtown
+JETS",0,6,10
+0,NSWRFL 1983,Round 17,"Sunday, 19th June, 1983",2:45pm (local time),4910,110,"3,559","Western Suburbs
+MAGPIES",6,22,10,"St George
+DRAGONS",12,25,11
+0,NSWRFL 1983,Round 18,"Saturday, 25th June, 1983",2:45pm (local time),4913,109,"6,327","Eastern Suburbs
+ROOSTERS",4,12,15,"Canterbury Bankstown
+BULLDOGS",24,28,9
+0,NSWRFL 1983,Round 18,"Sunday, 26th June, 1983",2:45pm (local time),4916,48,"9,352","Canberra
+RAIDERS",2,8,14,"South Sydney
+RABBITOHS",12,18,11
+0,NSWRFL 1983,Round 18,"Sunday, 26th June, 1983",2:45pm (local time),4918,21,"5,036","Illawarra
+STEELERS",4,4,10,"Balmain
+TIGERS",4,10,12
+0,NSWRFL 1983,Round 18,"Sunday, 26th June, 1983",2:45pm (local time),4914,5,"9,089","Manly Warringah
+SEA EAGLES",22,46,8,"Penrith
+PANTHERS",16,28,9
+0,NSWRFL 1983,Round 18,"Sunday, 26th June, 1983",2:45pm (local time),4915,76,"2,034","Newtown
+JETS",12,30,12,"Western Suburbs
+MAGPIES",10,20,13
+0,NSWRFL 1983,Round 18,"Sunday, 26th June, 1983",2:45pm (local time),4917,27,"10,157","Parramatta
+EELS",8,18,4,"North Sydney
+BEARS",0,10,4
+0,NSWRFL 1983,Round 18,"Sunday, 26th June, 1983",2:45pm (local time),4919,23,"8,014","St George
+DRAGONS",16,27,11,"Cronulla Sutherland
+SHARKS",4,18,5
+0,NSWRFL 1983,Round 19,"Saturday, 2nd July, 1983",2:45pm (local time),4920,27,"7,318","Canterbury Bankstown
+BULLDOGS",4,22,16,"Balmain
+TIGERS",20,26,9
+0,NSWRFL 1983,Round 19,"Sunday, 3rd July, 1983",2:45pm (local time),4923,9,"3,252","Cronulla Sutherland
+SHARKS",6,10,13,"Newtown
+JETS",16,17,14
+0,NSWRFL 1983,Round 19,"Sunday, 3rd July, 1983",2:45pm (local time),4921,21,"7,004","Illawarra
+STEELERS",12,25,14,"St George
+DRAGONS",18,24,7
+0,NSWRFL 1983,Round 19,"Sunday, 3rd July, 1983",2:45pm (local time),4926,5,"13,101","Manly Warringah
+SEA EAGLES",14,40,3,"Eastern Suburbs
+ROOSTERS",12,18,8
+0,NSWRFL 1983,Round 19,"Sunday, 3rd July, 1983",2:45pm (local time),4924,3,"4,074","Penrith
+PANTHERS",2,14,10,"North Sydney
+BEARS",0,8,13
+0,NSWRFL 1983,Round 19,"Sunday, 3rd July, 1983",2:45pm (local time),4925,44,"9,492","South Sydney
+RABBITOHS",4,11,13,"Parramatta
+EELS",0,0,8
+0,NSWRFL 1983,Round 19,"Sunday, 3rd July, 1983",2:45pm (local time),4922,48,"6,787","Western Suburbs
+MAGPIES",4,16,14,"Canberra
+RAIDERS",2,24,10
+0,NSWRFL 1983,Round 20,"Saturday, 9th July, 1983",2:45pm (local time),4927,19,"2,503","Newtown
+JETS",2,8,11,"Illawarra
+STEELERS",10,25,11
+0,NSWRFL 1983,Round 20,"Saturday, 9th July, 1983",2:45pm (local time),4928,23,"6,434","St George
+DRAGONS",0,2,12,"Canterbury Bankstown
+BULLDOGS",4,9,13
+0,NSWRFL 1983,Round 20,"Sunday, 10th July, 1983",2:45pm (local time),4931,7,"9,791","Balmain
+TIGERS",4,9,8,"Manly Warringah
+SEA EAGLES",6,16,6
+0,NSWRFL 1983,Round 20,"Sunday, 10th July, 1983",2:45pm (local time),4932,48,"7,956","Canberra
+RAIDERS",10,22,14,"Cronulla Sutherland
+SHARKS",10,14,13
+0,NSWRFL 1983,Round 20,"Sunday, 10th July, 1983",2:45pm (local time),4933,109,"3,381","Eastern Suburbs
+ROOSTERS",18,42,10,"Penrith
+PANTHERS",18,28,7
+0,NSWRFL 1983,Round 20,"Sunday, 10th July, 1983",2:45pm (local time),4929,25,"7,550","North Sydney
+BEARS",0,12,19,"South Sydney
+RABBITOHS",0,16,12
+0,NSWRFL 1983,Round 20,"Sunday, 10th July, 1983",2:45pm (local time),4930,27,"6,669","Parramatta
+EELS",16,39,11,"Western Suburbs
+MAGPIES",0,0,10
+0,NSWRFL 1983,Round 13,"Saturday, 16th July, 1983",2:45pm (local time),4880,27,"9,028","Parramatta
+EELS",11,33,14,"St George
+DRAGONS",4,4,17
+0,NSWRFL 1983,Round 13,"Sunday, 17th July, 1983",2:45pm (local time),4883,25,"8,061","North Sydney
+BEARS",0,4,11,"Balmain
+TIGERS",4,8,10
+0,NSWRFL 1983,Round 13,"Sunday, 17th July, 1983",2:45pm (local time),4881,3,"3,240","Penrith
+PANTHERS",8,18,16,"Illawarra
+STEELERS",10,20,14
+0,NSWRFL 1983,Round 13,"Sunday, 17th July, 1983",2:45pm (local time),4884,44,"11,874","South Sydney
+RABBITOHS",4,10,6,"Eastern Suburbs
+ROOSTERS",10,34,17
+0,NSWRFL 1983,Round 13,"Sunday, 17th July, 1983",2:45pm (local time),4882,110,"4,597","Western Suburbs
+MAGPIES",14,22,13,"Manly Warringah
+SEA EAGLES",6,18,10
+0,NSWRFL 1983,Round 21,"Saturday, 23rd July, 1983",2:45pm (local time),4934,27,"4,568","Parramatta
+EELS",12,16,13,"Illawarra
+STEELERS",2,8,9
+0,NSWRFL 1983,Round 21,"Sunday, 24th July, 1983",2:45pm (local time),4936,7,"4,716","Balmain
+TIGERS",12,20,6,"Penrith
+PANTHERS",0,6,11
+0,NSWRFL 1983,Round 21,"Sunday, 24th July, 1983",2:45pm (local time),4937,48,"11,616","Canberra
+RAIDERS",16,16,11,"Canterbury Bankstown
+BULLDOGS",10,43,13
+0,NSWRFL 1983,Round 21,"Sunday, 24th July, 1983",2:45pm (local time),4938,76,"3,251","Newtown
+JETS",2,8,8,"Manly Warringah
+SEA EAGLES",4,11,14
+0,NSWRFL 1983,Round 21,"Sunday, 24th July, 1983",2:45pm (local time),4939,25,"3,459","North Sydney
+BEARS",4,14,13,"Cronulla Sutherland
+SHARKS",6,12,6
+0,NSWRFL 1983,Round 21,"Sunday, 24th July, 1983",2:45pm (local time),4940,23,"6,071","St George
+DRAGONS",12,12,8,"Eastern Suburbs
+ROOSTERS",24,47,16
+0,NSWRFL 1983,Round 21,"Sunday, 24th July, 1983",2:45pm (local time),4935,44,"4,196","South Sydney
+RABBITOHS",4,20,8,"Western Suburbs
+MAGPIES",6,12,9
+0,NSWRFL 1983,Round 22,"Saturday, 30th July, 1983",2:45pm (local time),4941,5,"7,012","Manly Warringah
+SEA EAGLES",8,18,12,"Canberra
+RAIDERS",4,12,8
+0,NSWRFL 1983,Round 22,"Sunday, 31st July, 1983",2:45pm (local time),4944,7,"7,189","Balmain
+TIGERS",0,6,10,"St George
+DRAGONS",8,22,9
+0,NSWRFL 1983,Round 22,"Sunday, 31st July, 1983",2:45pm (local time),4945,27,"23,479","Canterbury Bankstown
+BULLDOGS",10,12,15,"Parramatta
+EELS",6,8,10
+0,NSWRFL 1983,Round 22,"Sunday, 31st July, 1983",2:45pm (local time),4946,9,"4,379","Cronulla Sutherland
+SHARKS",14,23,14,"South Sydney
+RABBITOHS",10,16,14
+0,NSWRFL 1983,Round 22,"Sunday, 31st July, 1983",2:45pm (local time),4947,109,"3,880","Eastern Suburbs
+ROOSTERS",18,32,11,"Newtown
+JETS",0,10,15
+0,NSWRFL 1983,Round 22,"Sunday, 31st July, 1983",2:45pm (local time),4942,21,"5,145","Illawarra
+STEELERS",,12,8,"North Sydney
+BEARS",,11,7
+0,NSWRFL 1983,Round 22,"Sunday, 31st July, 1983",2:45pm (local time),4943,3,"3,759","Penrith
+PANTHERS",2,24,8,"Western Suburbs
+MAGPIES",30,38,8
+0,NSWRFL 1983,Round 23,"Saturday, 6th August, 1983",2:45pm (local time),4948,25,"5,598","North Sydney
+BEARS",18,25,8,"Canterbury Bankstown
+BULLDOGS",14,24,11
+0,NSWRFL 1983,Round 23,"Sunday, 7th August, 1983",2:45pm (local time),4949,48,"9,722","Canberra
+RAIDERS",24,36,13,"Eastern Suburbs
+ROOSTERS",8,8,12
+0,NSWRFL 1983,Round 23,"Sunday, 7th August, 1983",2:45pm (local time),4953,76,"5,185","Newtown
+JETS",2,6,9,"Balmain
+TIGERS",20,34,14
+0,NSWRFL 1983,Round 23,"Sunday, 7th August, 1983",2:45pm (local time),4951,27,"25,028","Parramatta
+EELS",12,26,9,"Manly Warringah
+SEA EAGLES",0,6,12
+0,NSWRFL 1983,Round 23,"Sunday, 7th August, 1983",2:45pm (local time),4952,23,"3,182","St George
+DRAGONS",14,29,13,"Penrith
+PANTHERS",16,22,8
+0,NSWRFL 1983,Round 23,"Sunday, 7th August, 1983",2:45pm (local time),4950,44,"3,242","South Sydney
+RABBITOHS",20,48,9,"Illawarra
+STEELERS",0,12,13
+0,NSWRFL 1983,Round 23,"Sunday, 7th August, 1983",2:45pm (local time),4954,110,"2,532","Western Suburbs
+MAGPIES",18,18,11,"Cronulla Sutherland
+SHARKS",8,22,10
+0,NSWRFL 1983,Round 24,"Saturday, 13th August, 1983",2:45pm (local time),4955,5,"11,125","Manly Warringah
+SEA EAGLES",16,54,8,"North Sydney
+BEARS",6,16,9
+0,NSWRFL 1983,Round 24,"Sunday, 14th August, 1983",2:45pm (local time),4957,7,"5,492","Balmain
+TIGERS",2,40,8,"Canberra
+RAIDERS",2,8,14
+0,NSWRFL 1983,Round 24,"Sunday, 14th August, 1983",2:45pm (local time),4958,27,"11,347","Canterbury Bankstown
+BULLDOGS",6,20,13,"South Sydney
+RABBITOHS",16,16,6
+0,NSWRFL 1983,Round 24,"Sunday, 14th August, 1983",2:45pm (local time),4959,109,"10,918","Eastern Suburbs
+ROOSTERS",6,8,10,"Parramatta
+EELS",18,37,13
+0,NSWRFL 1983,Round 24,"Sunday, 14th August, 1983",2:45pm (local time),4956,21,"4,689","Illawarra
+STEELERS",22,50,11,"Western Suburbs
+MAGPIES",0,14,7
+0,NSWRFL 1983,Round 24,"Sunday, 14th August, 1983",2:45pm (local time),4961,3,"2,820","Penrith
+PANTHERS",6,18,11,"Cronulla Sutherland
+SHARKS",8,20,11
+0,NSWRFL 1983,Round 24,"Sunday, 14th August, 1983",2:45pm (local time),4960,23,"3,256","St George
+DRAGONS",12,36,14,"Newtown
+JETS",14,20,12
+0,NSWRFL 1983,Round 25,"Saturday, 20th August, 1983",2:45pm (local time),4962,25,"5,321","North Sydney
+BEARS",16,29,5,"Eastern Suburbs
+ROOSTERS",14,24,13
+0,NSWRFL 1983,Round 25,"Sunday, 21st August, 1983",2:45pm (local time),4963,48,"12,574","Canberra
+RAIDERS",8,14,12,"St George
+DRAGONS",4,28,13
+0,NSWRFL 1983,Round 25,"Sunday, 21st August, 1983",2:45pm (local time),4964,9,"2,624","Cronulla Sutherland
+SHARKS",10,32,11,"Illawarra
+STEELERS",2,24,13
+0,NSWRFL 1983,Round 25,"Sunday, 21st August, 1983",2:45pm (local time),4967,27,"13,543","Parramatta
+EELS",12,20,14,"Balmain
+TIGERS",12,22,11
+0,NSWRFL 1983,Round 25,"Sunday, 21st August, 1983",2:45pm (local time),4966,3,"2,364","Penrith
+PANTHERS",4,10,10,"Newtown
+JETS",2,2,9
+0,NSWRFL 1983,Round 25,"Sunday, 21st August, 1983",2:45pm (local time),4965,44,"7,123","South Sydney
+RABBITOHS",8,12,10,"Manly Warringah
+SEA EAGLES",10,16,20
+0,NSWRFL 1983,Round 25,"Sunday, 21st August, 1983",2:45pm (local time),4968,110,"5,564","Western Suburbs
+MAGPIES",4,10,19,"Canterbury Bankstown
+BULLDOGS",6,22,10
+0,NSWRFL 1983,Round 26,"Saturday, 27th August, 1983",2:45pm (local time),4969,7,"7,971","Balmain
+TIGERS",4,16,8,"North Sydney
+BEARS",6,12,9
+0,NSWRFL 1983,Round 26,"Saturday, 27th August, 1983",2:45pm (local time),4970,19,"6,428","Newtown
+JETS",9,9,8,"Canberra
+RAIDERS",0,6,6
+0,NSWRFL 1983,Round 26,"Sunday, 28th August, 1983",2:45pm (local time),4973,27,"8,569","Canterbury Bankstown
+BULLDOGS",4,18,17,"Cronulla Sutherland
+SHARKS",6,6,14
+0,NSWRFL 1983,Round 26,"Sunday, 28th August, 1983",2:45pm (local time),4974,109,"10,006","Eastern Suburbs
+ROOSTERS",6,12,14,"South Sydney
+RABBITOHS",8,33,7
+0,NSWRFL 1983,Round 26,"Sunday, 28th August, 1983",2:45pm (local time),4971,21,"4,937","Illawarra
+STEELERS",6,12,10,"Penrith
+PANTHERS",14,26,11
+0,NSWRFL 1983,Round 26,"Sunday, 28th August, 1983",2:45pm (local time),4972,5,"11,647","Manly Warringah
+SEA EAGLES",30,40,15,"Western Suburbs
+MAGPIES",2,10,10
+0,NSWRFL 1983,Round 26,"Sunday, 28th August, 1983",2:45pm (local time),4975,23,"14,857","St George
+DRAGONS",12,32,9,"Parramatta
+EELS",2,2,20
+0,NSWRFL 1983,Playoff,"Tuesday, 30th August, 1983",5:45pm (local time),4976,24,"17,981","St George
+DRAGONS",14,44,8,"Eastern Suburbs
+ROOSTERS",8,16,18
+0,NSWRFL 1983,Minor Prelim Semi,"Saturday, 3rd September, 1983",3:00pm (local time),4977,24,"24,652","St George
+DRAGONS",6,17,9,"Balmain
+TIGERS",14,14,7
+0,NSWRFL 1983,Major Prelim Semi,"Sunday, 4th September, 1983",3:00pm (local time),4978,24,"22,311","Parramatta
+EELS",18,30,13,"Canterbury Bankstown
+BULLDOGS",0,22,7
+0,NSWRFL 1983,Minor Semi,"Saturday, 10th September, 1983",3:00pm (local time),4979,24,"27,867","Canterbury Bankstown
+BULLDOGS",18,26,9,"St George
+DRAGONS",12,24,8
+0,NSWRFL 1983,Major Semi,"Sunday, 11th September, 1983",3:00pm (local time),4980,24,"28,921","Manly Warringah
+SEA EAGLES",11,19,8,"Parramatta
+EELS",6,10,14
+0,NSWRFL 1983,Prelim Final,"Sunday, 18th September, 1983",3:00pm (local time),4981,24,"27,726","Parramatta
+EELS",18,18,6,"Canterbury Bankstown
+BULLDOGS",0,4,10
+0,NSWRFL 1983,Grand Final,"Sunday, 25th September, 1983",3:15pm (local time),4982,24,"40,285","Parramatta
+EELS",12,18,8,"Manly Warringah
+SEA EAGLES",0,6,7

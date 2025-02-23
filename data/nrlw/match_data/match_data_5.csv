@@ -1,0 +1,136 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRLW 2023,Round 1,"Saturday, 22nd July, 2023",12:50 PM (local time),57011,149,"7,926","Gold Coast (W)
+TITANS",4,16,6,"North Queensland (W)
+COWBOYS",6,6,3
+0,NRLW 2023,Round 1,"Saturday, 22nd July, 2023",3:10 PM (local time),57012,11,"8,109","Newcastle (W)
+KNIGHTS",18,32,4,"St George Illawarra (W)
+DRAGONS",6,16,5
+0,NRLW 2023,Round 1,"Saturday, 22nd July, 2023",7:45 PM (local time),57013,939,"2,832","Brisbane (W)
+BRONCOS",18,18,6,"Sydney (W)
+ROOSTERS",22,36,6
+0,NRLW 2023,Round 1,"Sunday, 23rd July, 2023",12:00 PM (local time),57014,940,"2,095","Parramatta (W)
+EELS",8,8,3,WESTS TIGERS (W),4,36,3
+0,NRLW 2023,Round 1,"Sunday, 23rd July, 2023",1:50 PM (local time),57015,9,"10,634","Cronulla (W)
+SHARKS",14,28,6,"Canberra (W)
+RAIDERS",4,14,8
+0,NRLW 2023,Round 2,"Thursday, 27th July, 2023",5:40 PM (local time),57016,119,"7,279","Brisbane (W)
+BRONCOS",10,16,4,"Gold Coast (W)
+TITANS",10,17,6
+0,NRLW 2023,Round 2,"Saturday, 29th July, 2023",12:45 PM (local time),57017,4,"8,034","Canberra (W)
+RAIDERS",6,24,4,"Sydney (W)
+ROOSTERS",0,14,6
+0,NRLW 2023,Round 2,"Saturday, 29th July, 2023",3:10 PM (local time),57018,21,"5,872","St George Illawarra (W)
+DRAGONS",20,38,6,"Parramatta (W)
+EELS",4,12,6
+0,NRLW 2023,Round 2,"Sunday, 30th July, 2023",12:00 PM (local time),57019,27,"1,584","Newcastle (W)
+KNIGHTS",10,20,9,"North Queensland (W)
+COWBOYS",12,31,5
+0,NRLW 2023,Round 2,"Sunday, 30th July, 2023",1:50 PM (local time),57020,27,"2,196",WESTS TIGERS (W),10,10,8,"Cronulla (W)
+SHARKS",0,0,7
+0,NRLW 2023,Round 3,"Thursday, 3rd August, 2023",5:40 PM (local time),57021,24,"4,201","Sydney (W)
+ROOSTERS",12,30,9,"St George Illawarra (W)
+DRAGONS",0,0,7
+0,NRLW 2023,Round 3,"Saturday, 5th August, 2023",12:50 PM (local time),57022,985,"22,659","North Queensland (W)
+COWBOYS",12,12,6,"Brisbane (W)
+BRONCOS",18,40,7
+0,NRLW 2023,Round 3,"Saturday, 5th August, 2023",3:10 PM (local time),57023,9,"3,021","Cronulla (W)
+SHARKS",8,8,8,"Gold Coast (W)
+TITANS",0,10,8
+0,NRLW 2023,Round 3,"Sunday, 6th August, 2023",12:03 PM (local time),57024,940,"23,596","Parramatta (W)
+EELS",4,4,6,"Newcastle (W)
+KNIGHTS",18,38,7
+0,NRLW 2023,Round 3,"Sunday, 6th August, 2023",1:45 PM (local time),57025,4,"7,140","Canberra (W)
+RAIDERS",12,28,7,WESTS TIGERS (W),12,22,8
+0,NRLW 2023,Round 4,"Saturday, 12th August, 2023",11:05 AM (local time),57026,21,"1,521","St George Illawarra (W)
+DRAGONS",6,18,4,"Canberra (W)
+RAIDERS",18,19,7
+0,NRLW 2023,Round 4,"Saturday, 12th August, 2023",12:50 PM (local time),57027,972,"1,173","North Queensland (W)
+COWBOYS",4,16,5,WESTS TIGERS (W),10,12,7
+0,NRLW 2023,Round 4,"Saturday, 12th August, 2023",3:10 PM (local time),57028,972,"1,811","Brisbane (W)
+BRONCOS",10,22, ,"Parramatta (W)
+EELS",6,12,5
+0,NRLW 2023,Round 4,"Sunday, 13th August, 2023",12:03 PM (local time),57029,9,"1,920","Cronulla (W)
+SHARKS",12,12,5,"Sydney (W)
+ROOSTERS",10,36,4
+0,NRLW 2023,Round 4,"Sunday, 13th August, 2023",1:50 PM (local time),57030,11,"12,889","Newcastle (W)
+KNIGHTS",16,22,4,"Gold Coast (W)
+TITANS",4,10,7
+0,NRLW 2023,Round 5,"Saturday, 19th August, 2023",11:05 AM (local time),57031,985,"1,878","North Queensland (W)
+COWBOYS",6,12,4,"Cronulla (W)
+SHARKS",24,40,8
+0,NRLW 2023,Round 5,"Saturday, 19th August, 2023",12:50 PM (local time),57032,940,"3,652",WESTS TIGERS (W),16,16,6,"St George Illawarra (W)
+DRAGONS",6,20,7
+0,NRLW 2023,Round 5,"Saturday, 19th August, 2023",3:10 PM (local time),57033,149,"6,943","Gold Coast (W)
+TITANS",4,8,6,"Sydney (W)
+ROOSTERS",16,30,3
+0,NRLW 2023,Round 5,"Sunday, 20th August, 2023",12:03 PM (local time),57034,11,"17,043","Newcastle (W)
+KNIGHTS",4,22,4,"Brisbane (W)
+BRONCOS",10,20,4
+0,NRLW 2023,Round 5,"Sunday, 20th August, 2023",1:45 PM (local time),57035,4,"7,185","Canberra (W)
+RAIDERS",18,28,5,"Parramatta (W)
+EELS",6,22,6
+0,NRLW 2023,Round 6,"Saturday, 26th August, 2023",11:05 AM (local time),57036,23,520,"Parramatta (W)
+EELS",10,16,11,"North Queensland (W)
+COWBOYS",0,12,5
+0,NRLW 2023,Round 6,"Saturday, 26th August, 2023",1:15 PM (local time),57037,23,"1,312","St George Illawarra (W)
+DRAGONS",6,22,5,"Gold Coast (W)
+TITANS",14,23,4
+0,NRLW 2023,Round 6,"Saturday, 26th August, 2023",3:10 PM (local time),57038,1096,"8,161","Sydney (W)
+ROOSTERS",28,48,4,WESTS TIGERS (W),10,10,6
+0,NRLW 2023,Round 6,"Sunday, 27th August, 2023",12:03 PM (local time),57039,972,"1,692","Brisbane (W)
+BRONCOS",10,40,4,"Canberra (W)
+RAIDERS",8,8,5
+0,NRLW 2023,Round 6,"Sunday, 27th August, 2023",1:45 PM (local time),57040,11,"19,519","Newcastle (W)
+KNIGHTS",16,22,3,"Cronulla (W)
+SHARKS",0,14,6
+0,NRLW 2023,Round 7,"Saturday, 2nd September, 2023",11:05 AM (local time),57041,4,"1,962","Canberra (W)
+RAIDERS",10,12,6,"Newcastle (W)
+KNIGHTS",0,20,6
+0,NRLW 2023,Round 7,"Saturday, 2nd September, 2023",12:50 PM (local time),57042,985,"1,478","Brisbane (W)
+BRONCOS",16,32,2,"Cronulla (W)
+SHARKS",10,28,8
+0,NRLW 2023,Round 7,"Saturday, 2nd September, 2023",3:10 PM (local time),57043,985,"2,479","North Queensland (W)
+COWBOYS",6,16,3,"St George Illawarra (W)
+DRAGONS",28,48,7
+0,NRLW 2023,Round 7,"Sunday, 3rd September, 2023",12:03 PM (local time),57044,149,"4,790","Gold Coast (W)
+TITANS",6,16,7,WESTS TIGERS (W),4,4,8
+0,NRLW 2023,Round 7,"Sunday, 3rd September, 2023",1:50 PM (local time),57045,26,"3,756","Sydney (W)
+ROOSTERS",22,46,3,"Parramatta (W)
+EELS",2,12,6
+0,NRLW 2023,Round 8,"Thursday, 7th September, 2023",7:45 PM (local time),57046,9,"1,630","Cronulla (W)
+SHARKS",6,16,4,"St George Illawarra (W)
+DRAGONS",4,8,7
+0,NRLW 2023,Round 8,"Saturday, 9th September, 2023",11:30 AM (local time),57047,11,"3,634",WESTS TIGERS (W),4,18,11,"Brisbane (W)
+BRONCOS",6,22,2
+0,NRLW 2023,Round 8,"Saturday, 9th September, 2023",1:30 PM (local time),57048,11,"3,634","Newcastle (W)
+KNIGHTS",4,20,6,"Sydney (W)
+ROOSTERS",4,4,5
+0,NRLW 2023,Round 8,"Sunday, 10th September, 2023",11:30 AM (local time),57049,149,"1,096","North Queensland (W)
+COWBOYS",0,12,1,"Canberra (W)
+RAIDERS",22,34,5
+0,NRLW 2023,Round 8,"Sunday, 10th September, 2023",1:30 PM (local time),57050,149,"2,086","Gold Coast (W)
+TITANS",20,34,6,"Parramatta (W)
+EELS",6,12,4
+0,NRLW 2023,Round 9,"Thursday, 14th September, 2023",7:45 PM (local time),57051,7,"1,733",WESTS TIGERS (W),8,8,6,"Newcastle (W)
+KNIGHTS",6,28,6
+0,NRLW 2023,Round 9,"Saturday, 16th September, 2023",6:00 PM (local time),57052,23,632,"Sydney (W)
+ROOSTERS",18,40,4,"North Queensland (W)
+COWBOYS",10,16,3
+0,NRLW 2023,Round 9,"Saturday, 16th September, 2023",8:10 PM (local time),57053,23,"1,736","St George Illawarra (W)
+DRAGONS",6,12,4,"Brisbane (W)
+BRONCOS",22,46,5
+0,NRLW 2023,Round 9,"Sunday, 17th September, 2023",1:00 PM (local time),57054,4,"2,889","Parramatta (W)
+EELS",0,6,4,"Cronulla (W)
+SHARKS",34,56,7
+0,NRLW 2023,Round 9,"Sunday, 17th September, 2023",3:15 PM (local time),57055,4,"2,889","Canberra (W)
+RAIDERS",0,6,3,"Gold Coast (W)
+TITANS",22,30,4
+0,NRLW 2023,Semi Final,"Sunday, 24th September, 2023",2:05 PM (local time),58464,11,"12,689","Newcastle (W)
+KNIGHTS",18,30,5,"Brisbane (W)
+BRONCOS",4,24,5
+0,NRLW 2023,Semi Final,"Sunday, 24th September, 2023",4:15 PM (local time),58465,1096,"3,028","Sydney (W)
+ROOSTERS",0,0,4,"Gold Coast (W)
+TITANS",6,12,6
+0,NRLW 2023,Grand Final,"Sunday, 1st October, 2023",3:55 PM (local time),58466,20,"40,649","Newcastle (W)
+KNIGHTS",12,24,4,"Gold Coast (W)
+TITANS",8,18,6

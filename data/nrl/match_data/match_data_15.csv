@@ -1,0 +1,139 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1923,Round 1,"Saturday, 5th May, 1923",3:15pm (local time),8992,150,"2,000","Balmain
+TIGERS",19,24,,"St George
+DRAGONS",0,8,
+0,NSWRFL 1923,Round 1,"Saturday, 5th May, 1923",3:15pm (local time),8993,109,"5,000",EASTERN SUBURBS,13,21,,UNIVERSITY,0,5,
+0,NSWRFL 1923,Round 1,"Saturday, 5th May, 1923",3:15pm (local time),8991,24,"6,000",GLEBE,0,6,,NEWTOWN,15,20,
+0,NSWRFL 1923,Round 1,"Saturday, 5th May, 1923",3:15pm (local time),8994,112,"10,000","Western Suburbs
+MAGPIES",3,16,,NORTH SYDNEY,9,17,
+0,NSWRFL 1923,Round 2,"Saturday, 12th May, 1923",3:15pm (local time),8996,150,"2,500","Balmain
+TIGERS",6,15,,UNIVERSITY,2,2,
+0,NSWRFL 1923,Round 2,"Saturday, 12th May, 1923",3:15pm (local time),8997,109,"13,000",EASTERN SUBURBS,5,14,,NEWTOWN,5,8,
+0,NSWRFL 1923,Round 2,"Saturday, 12th May, 1923",3:15pm (local time),8995,24,"5,000",GLEBE,2,7,,"South Sydney
+RABBITOHS",3,18,
+0,NSWRFL 1923,Round 2,"Saturday, 12th May, 1923",3:15pm (local time),8998,112,"3,000","St George
+DRAGONS",8,11,,NORTH SYDNEY,13,18,
+0,NSWRFL 1923,Round 3,"Saturday, 19th May, 1923",3:15pm (local time),9001,24,"17,000","Balmain
+TIGERS",12,12,,NORTH SYDNEY,5,17,
+0,NSWRFL 1923,Round 3,"Saturday, 19th May, 1923",3:15pm (local time),9002,109,"9,000",EASTERN SUBURBS,0,5,,"South Sydney
+RABBITOHS",6,15,
+0,NSWRFL 1923,Round 3,"Saturday, 19th May, 1923",3:15pm (local time),8999,112,"3,000",GLEBE,6,15,,"Western Suburbs
+MAGPIES",5,7,
+0,NSWRFL 1923,Round 3,"Saturday, 19th May, 1923",3:15pm (local time),9000,158,"3,000",NEWTOWN,6,14,,UNIVERSITY,3,3,
+0,NSWRFL 1923,Round 4,"Saturday, 26th May, 1923",3:15pm (local time),9005,109,"11,000","Balmain
+TIGERS",4,7,,NEWTOWN,5,7,
+0,NSWRFL 1923,Round 4,"Saturday, 26th May, 1923",3:15pm (local time),9003,150,"1,500",GLEBE,2,7,,"St George
+DRAGONS",12,17,
+0,NSWRFL 1923,Round 4,"Saturday, 26th May, 1923",3:15pm (local time),9004,24,"2,000","South Sydney
+RABBITOHS",13,21,,UNIVERSITY,6,9,
+0,NSWRFL 1923,Round 4,"Saturday, 26th May, 1923",3:15pm (local time),9006,112,"3,000","Western Suburbs
+MAGPIES",11,19,,EASTERN SUBURBS,12,14,
+0,NSWRFL 1923,Round 5,"Saturday, 2nd June, 1923",3:15pm (local time),9007,150,"4,000",GLEBE,2,5,,NORTH SYDNEY,11,16,
+0,NSWRFL 1923,Round 5,"Saturday, 2nd June, 1923",3:15pm (local time),9010,109,"1,500","St George
+DRAGONS",0,0,,EASTERN SUBURBS,2,4,
+0,NSWRFL 1923,Round 5,"Saturday, 2nd June, 1923",3:15pm (local time),9008,24,"15,000","South Sydney
+RABBITOHS",20,33,,NEWTOWN,4,10,
+0,NSWRFL 1923,Round 5,"Saturday, 2nd June, 1923",3:15pm (local time),9009,112,"3,000","Western Suburbs
+MAGPIES",11,19,,UNIVERSITY,2,9,
+0,NSWRFL 1923,Round 6,"Saturday, 9th June, 1923",3:15pm (local time),9013,109,"14,000","Balmain
+TIGERS",3,3,,"South Sydney
+RABBITOHS",7,7,
+0,NSWRFL 1923,Round 6,"Saturday, 9th June, 1923",3:15pm (local time),9014,24,"12,000",EASTERN SUBURBS,8,16,,NORTH SYDNEY,3,8,
+0,NSWRFL 1923,Round 6,"Saturday, 9th June, 1923",3:15pm (local time),9011,112,"4,000",NEWTOWN,7,17,,"Western Suburbs
+MAGPIES",11,27,
+0,NSWRFL 1923,Round 6,"Saturday, 9th June, 1923",3:15pm (local time),9012,157,"3,000","St George
+DRAGONS",8,19,,UNIVERSITY,6,9,
+0,NSWRFL 1923,Round 7,"Saturday, 16th June, 1923",3:15pm (local time),9018,105,"2,000",GLEBE,3,7,,"Balmain
+TIGERS",2,5,
+0,NSWRFL 1923,Round 7,"Saturday, 16th June, 1923",3:15pm (local time),9015,150,"1,000",NORTH SYDNEY,12,19,,UNIVERSITY,3,8,
+0,NSWRFL 1923,Round 7,"Saturday, 16th June, 1923",3:15pm (local time),9017,158,"8,000","St George
+DRAGONS",2,14,,NEWTOWN,12,12,
+0,NSWRFL 1923,Round 7,"Saturday, 16th June, 1923",3:15pm (local time),9016,109,"14,000","South Sydney
+RABBITOHS",0,10,,"Western Suburbs
+MAGPIES",3,31,
+0,NSWRFL 1923,Round 8,"Saturday, 30th June, 1923",3:15pm (local time),9022,150,"1,500",GLEBE,3,3,,EASTERN SUBURBS,8,13,
+0,NSWRFL 1923,Round 8,"Saturday, 30th June, 1923",3:15pm (local time),9019,109,"2,000",NEWTOWN,12,19,,NORTH SYDNEY,16,22,
+0,NSWRFL 1923,Round 8,"Saturday, 30th June, 1923",3:15pm (local time),9020,24,"7,000","St George
+DRAGONS",10,28,,"South Sydney
+RABBITOHS",2,5,
+0,NSWRFL 1923,Round 8,"Saturday, 30th June, 1923",3:15pm (local time),9021,112,"2,000","Western Suburbs
+MAGPIES",5,5,,"Balmain
+TIGERS",12,12,
+0,NSWRFL 1923,Round 9,"Saturday, 7th July, 1923",3:15pm (local time),9026,109,"1,500",EASTERN SUBURBS,0,10,,"Balmain
+TIGERS",0,8,
+0,NSWRFL 1923,Round 9,"Saturday, 7th July, 1923",3:15pm (local time),9023,158,"1,000",GLEBE,0,5,,UNIVERSITY,3,13,
+0,NSWRFL 1923,Round 9,"Saturday, 7th July, 1923",3:15pm (local time),9024,24,"14,000","South Sydney
+RABBITOHS",3,10,,NORTH SYDNEY,3,8,
+0,NSWRFL 1923,Round 9,"Saturday, 7th July, 1923",3:15pm (local time),9025,112,"2,000","Western Suburbs
+MAGPIES",5,16,,"St George
+DRAGONS",7,11,
+0,NSWRFL 1923,Round 10,"Saturday, 14th July, 1923",3:15pm (local time),9027,24,"2,000",EASTERN SUBURBS,7,12,,UNIVERSITY,2,5,
+0,NSWRFL 1923,Round 10,"Saturday, 14th July, 1923",3:15pm (local time),9028,158,"4,000",NEWTOWN,2,2,,GLEBE,11,24,
+0,NSWRFL 1923,Round 10,"Saturday, 14th July, 1923",3:15pm (local time),9030,150,"3,000","St George
+DRAGONS",0,3,,"Balmain
+TIGERS",10,23,
+0,NSWRFL 1923,Round 10,"Saturday, 14th July, 1923",3:15pm (local time),9029,109,"18,000","Western Suburbs
+MAGPIES",7,12,,NORTH SYDNEY,9,27,
+0,NSWRFL 1923,Round 11,"Saturday, 21st July, 1923",3:15pm (local time),9031,150,"2,500","Balmain
+TIGERS",10,20,,UNIVERSITY,3,3,
+0,NSWRFL 1923,Round 11,"Saturday, 21st July, 1923",3:15pm (local time),9034,163,"1,500",NEWTOWN,2,5,,EASTERN SUBURBS,5,25,
+0,NSWRFL 1923,Round 11,"Saturday, 21st July, 1923",3:15pm (local time),9033,24,"5,000","St George
+DRAGONS",8,16,,NORTH SYDNEY,15,20,
+0,NSWRFL 1923,Round 11,"Saturday, 21st July, 1923",3:15pm (local time),9032,109,"15,000","South Sydney
+RABBITOHS",2,10,,GLEBE,0,0,
+0,NSWRFL 1923,Round 12,"Saturday, 28th July, 1923",3:15pm (local time),9036,24,"8,000","Balmain
+TIGERS",8,16,,NORTH SYDNEY,8,13,
+0,NSWRFL 1923,Round 12,"Saturday, 28th July, 1923",3:15pm (local time),9035,158,"1,000",NEWTOWN,3,8,,UNIVERSITY,0,8,
+0,NSWRFL 1923,Round 12,"Saturday, 28th July, 1923",3:15pm (local time),9038,109,"8,000","South Sydney
+RABBITOHS",5,5,,EASTERN SUBURBS,16,19,
+0,NSWRFL 1923,Round 12,"Saturday, 28th July, 1923",3:15pm (local time),9037,112,"2,000","Western Suburbs
+MAGPIES",2,9,,GLEBE,5,8,
+0,NSWRFL 1923,Round 13,"Saturday, 4th August, 1923",3:15pm (local time),9040,150,"3,500","Balmain
+TIGERS",12,45,,NEWTOWN,3,3,
+0,NSWRFL 1923,Round 13,"Saturday, 4th August, 1923",3:15pm (local time),9041,24,"20,000",EASTERN SUBURBS,5,22,,"Western Suburbs
+MAGPIES",3,8,
+0,NSWRFL 1923,Round 13,"Saturday, 4th August, 1923",3:15pm (local time),9042,112,"1,000","St George
+DRAGONS",5,5,,GLEBE,5,15,
+0,NSWRFL 1923,Round 13,"Saturday, 4th August, 1923",3:15pm (local time),9039,109,"1,000","South Sydney
+RABBITOHS",3,16,,UNIVERSITY,7,12,
+0,NSWRFL 1923,Round 14,"Saturday, 11th August, 1923",3:15pm (local time),9045,109,"7,000",EASTERN SUBURBS,8,24,,"St George
+DRAGONS",0,2,
+0,NSWRFL 1923,Round 14,"Saturday, 11th August, 1923",3:15pm (local time),9043,24,"3,000",GLEBE,12,22,,NORTH SYDNEY,8,21,
+0,NSWRFL 1923,Round 14,"Saturday, 11th August, 1923",3:15pm (local time),9044,163,"1,500",NEWTOWN,7,7,,"South Sydney
+RABBITOHS",8,25,
+0,NSWRFL 1923,Round 14,"Saturday, 11th August, 1923",3:15pm (local time),9046,112,"2,000","Western Suburbs
+MAGPIES",3,14,,UNIVERSITY,8,8,
+0,NSWRFL 1923,Round 15,"Saturday, 18th August, 1923",3:15pm (local time),9048,24,"20,000",EASTERN SUBURBS,5,12,,NORTH SYDNEY,8,10,
+0,NSWRFL 1923,Round 15,"Saturday, 18th August, 1923",3:15pm (local time),9047,157,"1,500","St George
+DRAGONS",5,13,,UNIVERSITY,0,0,
+0,NSWRFL 1923,Round 15,"Saturday, 18th August, 1923",3:15pm (local time),9050,109,"6,000","South Sydney
+RABBITOHS",0,15,,"Balmain
+TIGERS",0,6,
+0,NSWRFL 1923,Round 15,"Saturday, 18th August, 1923",3:15pm (local time),9049,112,"1,500","Western Suburbs
+MAGPIES",6,27,,NEWTOWN,5,5,
+0,NSWRFL 1923,Round 16,"Saturday, 25th August, 1923",3:15pm (local time),9052,150,"2,000","Balmain
+TIGERS",7,19,,GLEBE,7,15,
+0,NSWRFL 1923,Round 16,"Saturday, 25th August, 1923",3:15pm (local time),9051,158,"2,500",NEWTOWN,3,14,,"St George
+DRAGONS",3,10,
+0,NSWRFL 1923,Round 16,"Saturday, 25th August, 1923",3:15pm (local time),9053,24,"1,000",UNIVERSITY,13,21,,NORTH SYDNEY,6,9,
+0,NSWRFL 1923,Round 16,"Saturday, 25th August, 1923",3:15pm (local time),9054,109,"12,000","Western Suburbs
+MAGPIES",6,9,,"South Sydney
+RABBITOHS",6,18,
+0,NSWRFL 1923,Round 17,"Saturday, 1st September, 1923",3:15pm (local time),9057,24,"10,000",EASTERN SUBURBS,5,13,,GLEBE,3,11,
+0,NSWRFL 1923,Round 17,"Saturday, 1st September, 1923",3:15pm (local time),9055,109,"1,000",NEWTOWN,7,10,,NORTH SYDNEY,5,7,
+0,NSWRFL 1923,Round 17,"Saturday, 1st September, 1923",3:15pm (local time),9056,150,"2,000","St George
+DRAGONS",6,6,,"South Sydney
+RABBITOHS",3,17,
+0,NSWRFL 1923,Round 17,"Saturday, 1st September, 1923",3:15pm (local time),9058,112,"3,000","Western Suburbs
+MAGPIES",8,10,,"Balmain
+TIGERS",3,20,
+0,NSWRFL 1923,Round 18,"Saturday, 8th September, 1923",3:15pm (local time),9061,109,"14,000","Balmain
+TIGERS",5,12,,EASTERN SUBURBS,6,11,
+0,NSWRFL 1923,Round 18,"Saturday, 8th September, 1923",3:15pm (local time),9059,150,"1,000",GLEBE,2,10,,UNIVERSITY,0,5,
+0,NSWRFL 1923,Round 18,"Saturday, 8th September, 1923",3:15pm (local time),9060,112,"1,000","St George
+DRAGONS",0,5,,"Western Suburbs
+MAGPIES",13,28,
+0,NSWRFL 1923,Round 18,"Saturday, 8th September, 1923",3:15pm (local time),9062,24,"2,000","South Sydney
+RABBITOHS",15,17,,NORTH SYDNEY,10,13,
+0,NSWRFL 1923,Final,"Wednesday, 12th September, 1923",3:30pm (local time),9063,24,"15,000",EASTERN SUBURBS,7,15,,"South Sydney
+RABBITOHS",3,12,

@@ -1,0 +1,760 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 1998,Round 1,"Friday, 13th March, 1998",7:30pm (local time),996,6,"10,754","Auckland
+WARRIORS",10,18,3,"South Sydney
+RABBITOHS",10,24,7
+0,NRL 1998,Round 1,"Friday, 13th March, 1998",7:30pm (local time),62,33,"11,289","Adelaide
+RAMS",4,8,13,"North Queensland
+COWBOYS",14,18,7
+0,NRL 1998,Round 1,"Friday, 13th March, 1998",7:30pm (local time),995,13,"39,109","Brisbane
+BRONCOS",8,22,16,"Manly Warringah
+SEA EAGLES",6,6,6
+0,NRL 1998,Round 1,"Saturday, 14th March, 1998",3:30pm (local time),999,8,"12,222","Parramatta
+EELS",14,27,11,"Penrith
+PANTHERS",10,16,6
+0,NRL 1998,Round 1,"Saturday, 14th March, 1998",7:30pm (local time),997,7,"7,120","Balmain
+TIGERS",16,40,10,"Gold Coast
+CHARGERS",0,6,8
+0,NRL 1998,Round 1,"Saturday, 14th March, 1998",7:30pm (local time),1000,9,"17,828","Cronulla Sutherland
+SHARKS",0,14,10,"Sydney City
+ROOSTERS",18,36,8
+0,NRL 1998,Round 1,"Saturday, 14th March, 1998",7:30pm (local time),998,21,"10,695","Illawarra
+STEELERS",12,12,13,"Melbourne
+STORM",6,14,10
+0,NRL 1998,Round 1,"Sunday, 15th March, 1998",2:30pm (local time),1002,27,"8,453","Canterbury Bankstown
+BULLDOGS",6,20,5,"Canberra
+RAIDERS",2,10,11
+0,NRL 1998,Round 1,"Sunday, 15th March, 1998",2:30pm (local time),1001,25,"11,268","North Sydney
+BEARS",8,14,4,"Newcastle
+KNIGHTS",6,18,6
+0,NRL 1998,Round 1,"Sunday, 15th March, 1998",2:30pm (local time),1003,23,"7,206","St George
+DRAGONS",10,36,10,"Western Suburbs
+MAGPIES",10,18,11
+0,NRL 1998,Round 2,"Friday, 20th March, 1998",7:30pm (local time),1004,1,"15,221","Sydney City
+ROOSTERS",2,8,7,"North Sydney
+BEARS",8,26,8
+0,NRL 1998,Round 2,"Saturday, 21st March, 1998",3:30pm (local time),1005,3,"7,120","Penrith
+PANTHERS",8,28,8,"Canberra
+RAIDERS",16,24,5
+0,NRL 1998,Round 2,"Saturday, 21st March, 1998",7:30pm (local time),1007,11,"23,503","Newcastle
+KNIGHTS",6,33,11,"Auckland
+WARRIORS",4,4,11
+0,NRL 1998,Round 2,"Saturday, 21st March, 1998",7:30pm (local time),1006,28,"9,734","Gold Coast
+CHARGERS",6,12,3,"Parramatta
+EELS",10,14,8
+0,NRL 1998,Round 2,"Saturday, 21st March, 1998",7:30pm (local time),267,14,"18,399","North Queensland
+COWBOYS",8,26,7,"Balmain
+TIGERS",2,2,8
+0,NRL 1998,Round 2,"Sunday, 22nd March, 1998",2:30pm (local time),1011,27,"10,963","Canterbury Bankstown
+BULLDOGS",10,12,7,"Brisbane
+BRONCOS",6,20,7
+0,NRL 1998,Round 2,"Sunday, 22nd March, 1998",2:30pm (local time),1012,5,"6,434","Manly Warringah
+SEA EAGLES",10,22,9,"Adelaide
+RAMS",2,6,10
+0,NRL 1998,Round 2,"Sunday, 22nd March, 1998",2:30pm (local time),1008,23,"15,189","St George
+DRAGONS",4,14,9,"Cronulla Sutherland
+SHARKS",6,20,9
+0,NRL 1998,Round 2,"Sunday, 22nd March, 1998",2:30pm (local time),1009,1,"8,708","South Sydney
+RABBITOHS",6,14,11,"Illawarra
+STEELERS",16,22,8
+0,NRL 1998,Round 2,"Sunday, 22nd March, 1998",2:30pm (local time),1010,19,"6,939","Western Suburbs
+MAGPIES",8,16,14,"Melbourne
+STORM",16,26,3
+0,NRL 1998,Round 3,"Friday, 27th March, 1998",7:30pm (local time),1013,6,"9,431","Auckland
+WARRIORS",14,25,5,"Sydney City
+ROOSTERS",8,14,7
+0,NRL 1998,Round 3,"Friday, 27th March, 1998",7:30pm (local time),1015,7,"15,079","Balmain
+TIGERS",10,18,10,"Manly Warringah
+SEA EAGLES",0,4,9
+0,NRL 1998,Round 3,"Friday, 27th March, 1998",7:30pm (local time),1014,33,"8,390","Adelaide
+RAMS",10,22,8,"Canterbury Bankstown
+BULLDOGS",12,20,4
+0,NRL 1998,Round 3,"Saturday, 28th March, 1998",3:30pm (local time),1017,21,"9,141","Illawarra
+STEELERS",6,18,7,"Newcastle
+KNIGHTS",18,37,8
+0,NRL 1998,Round 3,"Saturday, 28th March, 1998",7:30pm (local time),1018,9,"11,346","Cronulla Sutherland
+SHARKS",6,18,6,"Melbourne
+STORM",10,26,5
+0,NRL 1998,Round 3,"Saturday, 28th March, 1998",7:30pm (local time),1016,13,"18,570","Brisbane
+BRONCOS",18,26,5,"Penrith
+PANTHERS",12,18,4
+0,NRL 1998,Round 3,"Sunday, 29th March, 1998",2:30pm (local time),1019,43,"6,432","Canberra
+RAIDERS",0,18,7,"Gold Coast
+CHARGERS",4,4,8
+0,NRL 1998,Round 3,"Sunday, 29th March, 1998",2:30pm (local time),1020,25,"11,418","North Sydney
+BEARS",4,28,5,"St George
+DRAGONS",8,8,5
+0,NRL 1998,Round 3,"Sunday, 29th March, 1998",2:30pm (local time),64,8,"10,177","Parramatta
+EELS",14,15,8,"North Queensland
+COWBOYS",4,16,4
+0,NRL 1998,Round 3,"Sunday, 29th March, 1998",2:30pm (local time),1021,19,"9,304","Western Suburbs
+MAGPIES",14,42,3,"South Sydney
+RABBITOHS",0,6,5
+0,NRL 1998,Round 4,"Friday, 3rd April, 1998",7:30pm (local time),1022,5,"14,366","Manly Warringah
+SEA EAGLES",10,10,6,"Parramatta
+EELS",10,34,6
+0,NRL 1998,Round 4,"Friday, 3rd April, 1998",7:30pm (local time),1023,12,"20,522","Melbourne
+STORM",18,24,7,"North Sydney
+BEARS",10,16,10
+0,NRL 1998,Round 4,"Friday, 3rd April, 1998",7:30pm (local time),1024,1,"7,016","Sydney City
+ROOSTERS",22,30,4,"Illawarra
+STEELERS",4,16,10
+0,NRL 1998,Round 4,"Saturday, 4th April, 1998",3:30pm (local time),268,14,"20,048","North Queensland
+COWBOYS",2,14,14,"Canberra
+RAIDERS",10,12,9
+0,NRL 1998,Round 4,"Saturday, 4th April, 1998",3:30pm (local time),1025,1,"6,144","South Sydney
+RABBITOHS",2,2,10,"Cronulla Sutherland
+SHARKS",6,6,5
+0,NRL 1998,Round 4,"Saturday, 4th April, 1998",7:30pm (local time),1026,23,"10,003","St George
+DRAGONS",18,28,8,"Auckland
+WARRIORS",12,24,8
+0,NRL 1998,Round 4,"Sunday, 5th April, 1998",2:30pm (local time),1030,27,"10,152","Canterbury Bankstown
+BULLDOGS",6,10,5,"Balmain
+TIGERS",12,24,7
+0,NRL 1998,Round 4,"Sunday, 5th April, 1998",2:30pm (local time),1029,28,"13,126","Gold Coast
+CHARGERS",10,18,4,"Brisbane
+BRONCOS",18,40,3
+0,NRL 1998,Round 4,"Sunday, 5th April, 1998",2:30pm (local time),1028,11,"17,408","Newcastle
+KNIGHTS",14,34,5,"Western Suburbs
+MAGPIES",6,18,8
+0,NRL 1998,Round 4,"Sunday, 5th April, 1998",2:30pm (local time),1027,3,"6,637","Penrith
+PANTHERS",30,54,6,"Adelaide
+RAMS",2,12,11
+0,NRL 1998,Round 5,"Thursday, 9th April, 1998",7:30pm (local time),1031,19,"8,543","Western Suburbs
+MAGPIES",6,4,6,"Sydney City
+ROOSTERS",14,22,8
+0,NRL 1998,Round 5,"Thursday, 9th April, 1998",8:00pm (local time),1032,33,"7,058","Adelaide
+RAMS",8,8,8,"Gold Coast
+CHARGERS",12,16,6
+0,NRL 1998,Round 5,"Friday, 10th April, 1998",7:30pm (local time),1034,6,"14,213","Auckland
+WARRIORS",10,16,3,"Melbourne
+STORM",6,12,9
+0,NRL 1998,Round 5,"Friday, 10th April, 1998",7:30pm (local time),1033,11,"20,073","Newcastle
+KNIGHTS",18,24,9,"Cronulla Sutherland
+SHARKS",10,10,11
+0,NRL 1998,Round 5,"Saturday, 11th April, 1998",3:30pm (local time),1036,7,"8,277","Balmain
+TIGERS",14,30,7,"Penrith
+PANTHERS",4,10,9
+0,NRL 1998,Round 5,"Saturday, 11th April, 1998",7:30pm (local time),1035,21,"9,427","Illawarra
+STEELERS",6,12,5,"St George
+DRAGONS",10,19,4
+0,NRL 1998,Round 5,"Saturday, 11th April, 1998",7:30pm (local time),1037,8,"14,012","Parramatta
+EELS",6,22,10,"Canterbury Bankstown
+BULLDOGS",8,14,4
+0,NRL 1998,Round 5,"Sunday, 12th April, 1998",2:30pm (local time),66,13,"20,904","Brisbane
+BRONCOS",36,58,4,"North Queensland
+COWBOYS",0,4,2
+0,NRL 1998,Round 5,"Sunday, 12th April, 1998",2:30pm (local time),1038,4,"13,202","Canberra
+RAIDERS",12,26,6,"Manly Warringah
+SEA EAGLES",20,20,7
+0,NRL 1998,Round 5,"Sunday, 12th April, 1998",2:30pm (local time),1039,25,"15,077","North Sydney
+BEARS",20,42,10,"South Sydney
+RABBITOHS",8,8,8
+0,NRL 1998,Round 6,"Friday, 17th April, 1998",,1040,5,"13,194","Manly Warringah
+SEA EAGLES",22,28,13,"Brisbane
+BRONCOS",0,4,4
+0,NRL 1998,Round 6,"Friday, 17th April, 1998",,1041,1,"6,200","Sydney City
+ROOSTERS",28,50,8,"Adelaide
+RAMS",2,12,8
+0,NRL 1998,Round 6,"Saturday, 18th April, 1998",,1042,4,"8,248","Canberra
+RAIDERS",8,20,6,"Illawarra
+STEELERS",10,22,11
+0,NRL 1998,Round 6,"Saturday, 18th April, 1998",,1043,9,"16,598","Cronulla Sutherland
+SHARKS",6,10,3,"Balmain
+TIGERS",10,11,1
+0,NRL 1998,Round 6,"Saturday, 18th April, 1998",,269,14,"18,428","North Queensland
+COWBOYS",7,17,6,"Newcastle
+KNIGHTS",0,4,6
+0,NRL 1998,Round 6,"Sunday, 19th April, 1998",,1046,25,"10,945","North Sydney
+BEARS",,44,7,"Auckland
+WARRIORS",,26,10
+0,NRL 1998,Round 6,"Sunday, 19th April, 1998",,1045,8,"15,434","Parramatta
+EELS",8,22,7,"Melbourne
+STORM",18,32,4
+0,NRL 1998,Round 6,"Sunday, 19th April, 1998",,1047,3,"12,227","Penrith
+PANTHERS",6,24,7,"St George
+DRAGONS",18,30,9
+0,NRL 1998,Round 6,"Sunday, 19th April, 1998",,1044,1,"6,925","South Sydney
+RABBITOHS",26,41,5,"Western Suburbs
+MAGPIES",0,10,7
+0,NRL 1998,Round 6,"Sunday, 19th April, 1998",2:30pm (local time),1048,27,"5,175","Canterbury Bankstown
+BULLDOGS",26,56,4,"Gold Coast
+CHARGERS",6,10,6
+0,NRL 1998,Round 7,"Saturday, 25th April, 1998",,1049,33,"8,472","Adelaide
+RAMS",,12,5,"Cronulla Sutherland
+SHARKS",,22,6
+0,NRL 1998,Round 7,"Saturday, 25th April, 1998",,1050,7,"18,485","Balmain
+TIGERS",,10,5,"Canterbury Bankstown
+BULLDOGS",,26,11
+0,NRL 1998,Round 7,"Saturday, 25th April, 1998",,270,14,"21,027","North Queensland
+COWBOYS",,16,9,"Sydney City
+ROOSTERS",,50,6
+0,NRL 1998,Round 7,"Saturday, 25th April, 1998",2:00pm (local time),1051,12,"10,500","Melbourne
+STORM",12,22,8,"Penrith
+PANTHERS",12,14,7
+0,NRL 1998,Round 7,"Sunday, 26th April, 1998",,1054,6,"9,420","Auckland
+WARRIORS",,14,5,"Newcastle
+KNIGHTS",,38,5
+0,NRL 1998,Round 7,"Sunday, 26th April, 1998",,1056,13,"18,791","Brisbane
+BRONCOS",,60,2,"North Sydney
+BEARS",,6,8
+0,NRL 1998,Round 7,"Sunday, 26th April, 1998",,1052,28,"5,139","Gold Coast
+CHARGERS",,12,10,"Canberra
+RAIDERS",,24,5
+0,NRL 1998,Round 7,"Sunday, 26th April, 1998",,1053,21,"9,119","Illawarra
+STEELERS",,20,6,"Parramatta
+EELS",,12,5
+0,NRL 1998,Round 7,"Sunday, 26th April, 1998",,1055,5,"10,543","Manly Warringah
+SEA EAGLES",,22,11,"South Sydney
+RABBITOHS",,18,4
+0,NRL 1998,Round 7,"Sunday, 26th April, 1998",,1057,19,"9,036","Western Suburbs
+MAGPIES",,8,9,"St George
+DRAGONS",,12,10
+0,NRL 1998,Round 8,"Friday, 1st May, 1998",,1058,4,"9,211","Canberra
+RAIDERS",,22,5,"Balmain
+TIGERS",,12,4
+0,NRL 1998,Round 8,"Friday, 1st May, 1998",,1059,12,"11,200","Melbourne
+STORM",,54,4,"Western Suburbs
+MAGPIES",,16,7
+0,NRL 1998,Round 8,"Friday, 1st May, 1998",,1060,11,"27,119","Newcastle
+KNIGHTS",,6,4,"Brisbane
+BRONCOS",,26,4
+0,NRL 1998,Round 8,"Saturday, 2nd May, 1998",,69,9,"5,978","Cronulla Sutherland
+SHARKS",,16,7,"North Queensland
+COWBOYS",,8,7
+0,NRL 1998,Round 8,"Saturday, 2nd May, 1998",,1062,8,"6,063","Parramatta
+EELS",,24,6,"Gold Coast
+CHARGERS",,2,2
+0,NRL 1998,Round 8,"Saturday, 2nd May, 1998",,1063,3,"6,154","Penrith
+PANTHERS",,38,7,"Illawarra
+STEELERS",,14,4
+0,NRL 1998,Round 8,"Saturday, 2nd May, 1998",,1061,1,"5,308","Sydney City
+ROOSTERS",,22,6,"Auckland
+WARRIORS",,4,8
+0,NRL 1998,Round 8,"Sunday, 3rd May, 1998",,1065,27,"5,041","Canterbury Bankstown
+BULLDOGS",,30,4,"Adelaide
+RAMS",,4,4
+0,NRL 1998,Round 8,"Sunday, 3rd May, 1998",,1066,25,"11,612","North Sydney
+BEARS",,32,6,"Manly Warringah
+SEA EAGLES",,8,7
+0,NRL 1998,Round 8,"Sunday, 3rd May, 1998",,1064,23,"5,083","St George
+DRAGONS",,20,7,"South Sydney
+RABBITOHS",,14,7
+0,NRL 1998,Round 9,"Friday, 8th May, 1998",,1069,6,"9,856","Auckland
+WARRIORS",,8,6,"Cronulla Sutherland
+SHARKS",,20,10
+0,NRL 1998,Round 9,"Friday, 8th May, 1998",,1067,33,"6,500","Adelaide
+RAMS",,18,7,"Canberra
+RAIDERS",,24,9
+0,NRL 1998,Round 9,"Friday, 8th May, 1998",,1068,7,"18,117","Balmain
+TIGERS",,18,5,"Parramatta
+EELS",,21,8
+0,NRL 1998,Round 9,"Friday, 8th May, 1998",,1070,12,"13,252","Melbourne
+STORM",,14,4,"St George
+DRAGONS",,18,9
+0,NRL 1998,Round 9,"Saturday, 9th May, 1998",,1072,28,"3,774","Gold Coast
+CHARGERS",,26,4,"Penrith
+PANTHERS",,12,10
+0,NRL 1998,Round 9,"Saturday, 9th May, 1998",,1071,21,"7,636","Illawarra
+STEELERS",,42,8,"Western Suburbs
+MAGPIES",,20,12
+0,NRL 1998,Round 9,"Saturday, 9th May, 1998",7:30pm (local time),271,14,"15,288","North Queensland
+COWBOYS",12,18,8,"Canterbury Bankstown
+BULLDOGS",6,24,6
+0,NRL 1998,Round 9,"Sunday, 10th May, 1998",,1074,13,"19,346","Brisbane
+BRONCOS",,12,7,"Sydney City
+ROOSTERS",,26,4
+0,NRL 1998,Round 9,"Sunday, 10th May, 1998",,1073,5,"13,048","Manly Warringah
+SEA EAGLES",,16,5,"Newcastle
+KNIGHTS",,50,7
+0,NRL 1998,Round 9,"Sunday, 10th May, 1998",,1075,1,"5,150","South Sydney
+RABBITOHS",,14,5,"North Sydney
+BEARS",,26,5
+0,NRL 1998,Round 10,"Friday, 15th May, 1998",,1077,11,"13,021","Newcastle
+KNIGHTS",,16,5,"North Sydney
+BEARS",,14,5
+0,NRL 1998,Round 10,"Friday, 15th May, 1998",,1076,1,"5,876","South Sydney
+RABBITOHS",,6,11,"Melbourne
+STORM",,14,9
+0,NRL 1998,Round 10,"Saturday, 16th May, 1998",,1078,27,"5,224","Canterbury Bankstown
+BULLDOGS",,6,5,"Auckland
+WARRIORS",,20,10
+0,NRL 1998,Round 10,"Saturday, 16th May, 1998",,1080,9,"10,582","Cronulla Sutherland
+SHARKS",,20,8,"Brisbane
+BRONCOS",,10,2
+0,NRL 1998,Round 10,"Saturday, 16th May, 1998",,1081,42,"7,514","Parramatta
+EELS",,10,6,"Adelaide
+RAMS",,2,5
+0,NRL 1998,Round 10,"Saturday, 16th May, 1998",,1079,23,"6,296","St George
+DRAGONS",,32,8,"Illawarra
+STEELERS",,16,7
+0,NRL 1998,Round 10,"Sunday, 17th May, 1998",,71,4,"8,291","Canberra
+RAIDERS",,50,3,"North Queensland
+COWBOYS",,12,7
+0,NRL 1998,Round 10,"Sunday, 17th May, 1998",,1084,3,"9,147","Penrith
+PANTHERS",,32,5,"Balmain
+TIGERS",,18,5
+0,NRL 1998,Round 10,"Sunday, 17th May, 1998",,1082,1,"12,796","Sydney City
+ROOSTERS",,44,6,"Manly Warringah
+SEA EAGLES",,24,8
+0,NRL 1998,Round 10,"Sunday, 17th May, 1998",,1083,19,"5,218","Western Suburbs
+MAGPIES",,24,10,"Gold Coast
+CHARGERS",,14,10
+0,NRL 1998,Round 11,"Saturday, 23rd May, 1998",,1085,33,"7,387","Adelaide
+RAMS",,35,9,"Penrith
+PANTHERS",,18,3
+0,NRL 1998,Round 11,"Saturday, 23rd May, 1998",,1087,7,"7,640","Balmain
+TIGERS",,20,4,"Western Suburbs
+MAGPIES",,12,6
+0,NRL 1998,Round 11,"Saturday, 23rd May, 1998",,1086,28,"7,964","Gold Coast
+CHARGERS",,16,8,"St George
+DRAGONS",,30,7
+0,NRL 1998,Round 11,"Saturday, 23rd May, 1998",,272,14,"17,361","North Queensland
+COWBOYS",,12,4,"Parramatta
+EELS",,29,5
+0,NRL 1998,Round 11,"Sunday, 24th May, 1998",,1088,6,"8,847","Auckland
+WARRIORS",,25,8,"Canberra
+RAIDERS",,14,4
+0,NRL 1998,Round 11,"Sunday, 24th May, 1998",,1089,13,"15,407","Brisbane
+BRONCOS",10,40,6,"Canterbury Bankstown
+BULLDOGS",6,12,3
+0,NRL 1998,Round 11,"Sunday, 24th May, 1998",,1092,5,"10,240","Manly Warringah
+SEA EAGLES",,32,8,"Cronulla Sutherland
+SHARKS",,12,6
+0,NRL 1998,Round 11,"Sunday, 24th May, 1998",,1090,12,"9,018","Melbourne
+STORM",,14,5,"Illawarra
+STEELERS",,14,8
+0,NRL 1998,Round 11,"Sunday, 24th May, 1998",,1093,11,"21,357","Newcastle
+KNIGHTS",,20,8,"South Sydney
+RABBITOHS",,12,8
+0,NRL 1998,Round 11,"Sunday, 24th May, 1998",,1091,25,"13,099","North Sydney
+BEARS",,38,4,"Sydney City
+ROOSTERS",,12,4
+0,NRL 1998,Round 12,"Friday, 29th May, 1998",,73,3,"8,685","Penrith
+PANTHERS",26,28,6,"North Queensland
+COWBOYS",0,36,6
+0,NRL 1998,Round 12,"Friday, 29th May, 1998",,1094,1,"15,786","Sydney City
+ROOSTERS",,4,3,"Newcastle
+KNIGHTS",,20,5
+0,NRL 1998,Round 12,"Saturday, 30th May, 1998",,1097,9,"11,143","Cronulla Sutherland
+SHARKS",,16,2,"North Sydney
+BEARS",,12,5
+0,NRL 1998,Round 12,"Saturday, 30th May, 1998",,1096,8,"13,218","Parramatta
+EELS",,14,6,"Auckland
+WARRIORS",,6,7
+0,NRL 1998,Round 12,"Saturday, 30th May, 1998",,1095,23,"14,002","St George
+DRAGONS",,28,10,"Balmain
+TIGERS",,2,4
+0,NRL 1998,Round 12,"Sunday, 31st May, 1998",,1099,4,"14,728","Canberra
+RAIDERS",,24,5,"Brisbane
+BRONCOS",,18,4
+0,NRL 1998,Round 12,"Sunday, 31st May, 1998",,1100,27,"10,152","Canterbury Bankstown
+BULLDOGS",,28,6,"Manly Warringah
+SEA EAGLES",,2,4
+0,NRL 1998,Round 12,"Sunday, 31st May, 1998",,1101,21,"8,174","Illawarra
+STEELERS",,18,4,"South Sydney
+RABBITOHS",,12,1
+0,NRL 1998,Round 12,"Sunday, 31st May, 1998",,1098,12,"7,454","Melbourne
+STORM",,62,5,"Gold Coast
+CHARGERS",,6,6
+0,NRL 1998,Round 12,"Sunday, 31st May, 1998",,1102,19,"6,392","Western Suburbs
+MAGPIES",,36,6,"Adelaide
+RAMS",,24,4
+0,NRL 1998,Round 13,"Saturday, 6th June, 1998",,1105,33,"7,506","Adelaide
+RAMS",,22,11,"St George
+DRAGONS",,20,9
+0,NRL 1998,Round 13,"Saturday, 6th June, 1998",,1104,9,"14,583","Cronulla Sutherland
+SHARKS",,16,8,"Newcastle
+KNIGHTS",,18,10
+0,NRL 1998,Round 13,"Saturday, 6th June, 1998",,1103,28,"3,762","Gold Coast
+CHARGERS",,10,7,"Illawarra
+STEELERS",,32,5
+0,NRL 1998,Round 13,"Saturday, 6th June, 1998",,273,14,"10,840","North Queensland
+COWBOYS",,40,4,"Western Suburbs
+MAGPIES",,10,5
+0,NRL 1998,Round 13,"Sunday, 7th June, 1998",,1108,6,"7,934","Auckland
+WARRIORS",,15,9,"Penrith
+PANTHERS",,14,6
+0,NRL 1998,Round 13,"Sunday, 7th June, 1998",,1106,7,"6,979","Balmain
+TIGERS",,16,6,"Melbourne
+STORM",,25,4
+0,NRL 1998,Round 13,"Sunday, 7th June, 1998",,1107,13,"18,163","Brisbane
+BRONCOS",,16,7,"Parramatta
+EELS",,20,8
+0,NRL 1998,Round 13,"Sunday, 7th June, 1998",,1109,1,"9,215","South Sydney
+RABBITOHS",,6,5,"Sydney City
+ROOSTERS",,30,5
+0,NRL 1998,Round 13,"Sunday, 7th June, 1998",2:30pm (local time),1110,27,"9,427","Canterbury Bankstown
+BULLDOGS",2,4,4,"North Sydney
+BEARS",8,38,8
+0,NRL 1998,Round 13,"Monday, 8th June, 1998",3:00pm (local time),1111,5,"10,941","Manly Warringah
+SEA EAGLES",2,12,8,"Canberra
+RAIDERS",8,24,5
+0,NRL 1998,Round 14,"Friday, 12th June, 1998",,1112,1,"9,287","Sydney City
+ROOSTERS",,18,4,"Cronulla Sutherland
+SHARKS",,14,3
+0,NRL 1998,Round 14,"Saturday, 13th June, 1998",,1114,12,"8,293","Melbourne
+STORM",,24,7,"Adelaide
+RAMS",,4,7
+0,NRL 1998,Round 14,"Saturday, 13th June, 1998",,1113,8,"17,089","Parramatta
+EELS",,17,6,"Manly Warringah
+SEA EAGLES",,14,4
+0,NRL 1998,Round 14,"Saturday, 13th June, 1998",,1116,3,"11,637","Penrith
+PANTHERS",,4,6,"Brisbane
+BRONCOS",,44,5
+0,NRL 1998,Round 14,"Saturday, 13th June, 1998",,1115,19,"5,933","Western Suburbs
+MAGPIES",,18,6,"Auckland
+WARRIORS",,16,7
+0,NRL 1998,Round 14,"Sunday, 14th June, 1998",,1120,21,"10,076","Illawarra
+STEELERS",,16,6,"Balmain
+TIGERS",,38,4
+0,NRL 1998,Round 14,"Sunday, 14th June, 1998",,1117,11,"21,717","Newcastle
+KNIGHTS",,12,9,"Canterbury Bankstown
+BULLDOGS",,4,4
+0,NRL 1998,Round 14,"Sunday, 14th June, 1998",,1118,25,"12,367","North Sydney
+BEARS",,34,6,"Canberra
+RAIDERS",,22,4
+0,NRL 1998,Round 14,"Sunday, 14th June, 1998",,75,23,"9,486","St George
+DRAGONS",,16,8,"North Queensland
+COWBOYS",,14,5
+0,NRL 1998,Round 14,"Sunday, 14th June, 1998",,1119,1,"3,980","South Sydney
+RABBITOHS",,14,6,"Gold Coast
+CHARGERS",,16,6
+0,NRL 1998,Round 15,"Saturday, 20th June, 1998",2:30pm (local time),1122,41,"5,153","Adelaide
+RAMS",,4,6,"Illawarra
+STEELERS",,39,3
+0,NRL 1998,Round 15,"Saturday, 20th June, 1998",3:30pm (local time),1123,9,"8,849","Cronulla Sutherland
+SHARKS",,30,5,"South Sydney
+RABBITOHS",,12,3
+0,NRL 1998,Round 15,"Saturday, 20th June, 1998",6:00pm (local time),1121,8,"12,313","Parramatta
+EELS",,25,4,"North Sydney
+BEARS",,12,7
+0,NRL 1998,Round 15,"Saturday, 20th June, 1998",7:30pm (local time),1124,28,"5,227","Gold Coast
+CHARGERS",,4,7,"Balmain
+TIGERS",,18,8
+0,NRL 1998,Round 15,"Saturday, 20th June, 1998",7:30pm (local time),274,14,"24,464","North Queensland
+COWBOYS",,8,7,"Melbourne
+STORM",,10,6
+0,NRL 1998,Round 15,"Sunday, 21st June, 1998",2:30pm (local time),1126,6,"8,919","Auckland
+WARRIORS",,31,5,"St George
+DRAGONS",,14,4
+0,NRL 1998,Round 15,"Sunday, 21st June, 1998",2:30pm (local time),1127,13,"12,415","Brisbane
+BRONCOS",,56,5,"Western Suburbs
+MAGPIES",,4,9
+0,NRL 1998,Round 15,"Sunday, 21st June, 1998",2:30pm (local time),1129,4,"7,686","Canberra
+RAIDERS",12,22,6,"Newcastle
+KNIGHTS",10,12,4
+0,NRL 1998,Round 15,"Sunday, 21st June, 1998",2:30pm (local time),1125,27,"8,926","Canterbury Bankstown
+BULLDOGS",,22,8,"Sydney City
+ROOSTERS",,10,9
+0,NRL 1998,Round 15,"Sunday, 21st June, 1998",2:30pm (local time),1128,5,"5,187","Manly Warringah
+SEA EAGLES",,22,3,"Penrith
+PANTHERS",,4,9
+0,NRL 1998,Round 16,"Friday, 26th June, 1998",,1130,23,"16,258","St George
+DRAGONS",,18,6,"Brisbane
+BRONCOS",,30,6
+0,NRL 1998,Round 16,"Saturday, 27th June, 1998",,1134,9,"10,243","Cronulla Sutherland
+SHARKS",,28,6,"Canterbury Bankstown
+BULLDOGS",,6,4
+0,NRL 1998,Round 16,"Saturday, 27th June, 1998",,1132,28,"3,897","Gold Coast
+CHARGERS",,12,11,"Adelaide
+RAMS",,40,5
+0,NRL 1998,Round 16,"Saturday, 27th June, 1998",,1131,12,"13,127","Melbourne
+STORM",,21,4,"Auckland
+WARRIORS",,24,8
+0,NRL 1998,Round 16,"Saturday, 27th June, 1998",,1133,19,"7,712","Western Suburbs
+MAGPIES",,30,7,"Manly Warringah
+SEA EAGLES",,45,8
+0,NRL 1998,Round 16,"Sunday, 28th June, 1998",,1137,7,"9,620","Balmain
+TIGERS",,12,11,"South Sydney
+RABBITOHS",,16,6
+0,NRL 1998,Round 16,"Sunday, 28th June, 1998",,77,21,"6,558","Illawarra
+STEELERS",,24,7,"North Queensland
+COWBOYS",,18,8
+0,NRL 1998,Round 16,"Sunday, 28th June, 1998",,1135,11,"25,094","Newcastle
+KNIGHTS",,36,2,"Parramatta
+EELS",,12,1
+0,NRL 1998,Round 16,"Sunday, 28th June, 1998",,1136,25,"6,733","North Sydney
+BEARS",,30,9,"Penrith
+PANTHERS",,22,1
+0,NRL 1998,Round 16,"Monday, 29th June, 1998",,1138,1,"13,683","Sydney City
+ROOSTERS",,40,7,"Canberra
+RAIDERS",,12,5
+0,NRL 1998,Round 17,"Friday, 3rd July, 1998",7:30pm (local time),1139,13,"35,119","Brisbane
+BRONCOS",10,34,4,"Melbourne
+STORM",10,16,1
+0,NRL 1998,Round 17,"Friday, 3rd July, 1998",7:30pm (local time),1140,40,"7,351","Adelaide
+RAMS",24,52,5,"Balmain
+TIGERS",0,0,9
+0,NRL 1998,Round 17,"Saturday, 4th July, 1998",3:30pm (local time),1141,6,"12,623","Auckland
+WARRIORS",0,14,8,"Illawarra
+STEELERS",12,17,6
+0,NRL 1998,Round 17,"Saturday, 4th July, 1998",7:30pm (local time),275,14,"7,127","North Queensland
+COWBOYS",4,14,7,"Gold Coast
+CHARGERS",0,4,7
+0,NRL 1998,Round 17,"Saturday, 4th July, 1998",7:30pm (local time),1142,3,"12,284","Penrith
+PANTHERS",8,13,5,"Newcastle
+KNIGHTS",12,13,5
+0,NRL 1998,Round 17,"Saturday, 4th July, 1998",7:30pm (local time),1143,1,"5,822","South Sydney
+RABBITOHS",0,8,8,"Canterbury Bankstown
+BULLDOGS",8,30,7
+0,NRL 1998,Round 17,"Sunday, 5th July, 1998",2:30pm (local time),1147,4,"10,588","Canberra
+RAIDERS",0,16,4,"Cronulla Sutherland
+SHARKS",8,12,5
+0,NRL 1998,Round 17,"Sunday, 5th July, 1998",2:30pm (local time),1144,5,"12,590","Manly Warringah
+SEA EAGLES",16,34,4,"St George
+DRAGONS",6,12,12
+0,NRL 1998,Round 17,"Sunday, 5th July, 1998",2:30pm (local time),1146,25,"6,602","North Sydney
+BEARS",26,32,5,"Western Suburbs
+MAGPIES",6,18,4
+0,NRL 1998,Round 17,"Sunday, 5th July, 1998",2:30pm (local time),1145,1,"13,864","Sydney City
+ROOSTERS",18,30,6,"Parramatta
+EELS",6,12,4
+0,NRL 1998,Round 18,"Friday, 10th July, 1998",7:30pm (local time),1149,12,"13,120","Melbourne
+STORM",12,22,6,"Manly Warringah
+SEA EAGLES",4,12,15
+0,NRL 1998,Round 18,"Friday, 10th July, 1998",7:30pm (local time),1148,8,"11,098","Parramatta
+EELS",14,22,7,"Cronulla Sutherland
+SHARKS",2,12,5
+0,NRL 1998,Round 18,"Saturday, 11th July, 1998",3:30pm (local time),1150,28,"5,490","Gold Coast
+CHARGERS",18,31,7,"Auckland
+WARRIORS",0,18,9
+0,NRL 1998,Round 18,"Saturday, 11th July, 1998",7:30pm (local time),79,7,"10,653","Balmain
+TIGERS",14,18,12,"North Queensland
+COWBOYS",0,0,3
+0,NRL 1998,Round 18,"Saturday, 11th July, 1998",7:30pm (local time),1151,3,"11,156","Penrith
+PANTHERS",8,24,11,"Sydney City
+ROOSTERS",14,18,6
+0,NRL 1998,Round 18,"Sunday, 12th July, 1998",2:30pm (local time),1155,4,"9,610","Canberra
+RAIDERS",22,22,7,"Canterbury Bankstown
+BULLDOGS",12,24,3
+0,NRL 1998,Round 18,"Sunday, 12th July, 1998",2:30pm (local time),1154,21,"12,018","Illawarra
+STEELERS",12,12,5,"Brisbane
+BRONCOS",8,18,3
+0,NRL 1998,Round 18,"Sunday, 12th July, 1998",2:30pm (local time),1156,23,"8,634","St George
+DRAGONS",12,22,5,"North Sydney
+BEARS",2,14,5
+0,NRL 1998,Round 18,"Sunday, 12th July, 1998",2:30pm (local time),1153,1,"4,060","South Sydney
+RABBITOHS",12,18,9,"Adelaide
+RAMS",14,34,5
+0,NRL 1998,Round 18,"Sunday, 12th July, 1998",2:30pm (local time),1152,19,"8,010","Western Suburbs
+MAGPIES",10,17,7,"Newcastle
+KNIGHTS",10,18,8
+0,NRL 1998,Round 19,"Friday, 17th July, 1998",7:30pm (local time),1157,6,"8,321","Auckland
+WARRIORS",,21,10,"Balmain
+TIGERS",,20,10
+0,NRL 1998,Round 19,"Friday, 17th July, 1998",7:30pm (local time),1158,25,"11,775","North Sydney
+BEARS",,34,7,"Melbourne
+STORM",,10,4
+0,NRL 1998,Round 19,"Saturday, 18th July, 1998",3:30pm (local time),1160,5,"5,631","Manly Warringah
+SEA EAGLES",,22,5,"Illawarra
+STEELERS",,12,6
+0,NRL 1998,Round 19,"Saturday, 18th July, 1998",7:30pm (local time),1159,27,"9,541","Canterbury Bankstown
+BULLDOGS",,6,2,"Parramatta
+EELS",,7,3
+0,NRL 1998,Round 19,"Saturday, 18th July, 1998",7:30pm (local time),1161,9,"4,048","Cronulla Sutherland
+SHARKS",,14,4,"Penrith
+PANTHERS",,14,7
+0,NRL 1998,Round 19,"Saturday, 18th July, 1998",7:30pm (local time),276,14,"11,340","North Queensland
+COWBOYS",,14,6,"Adelaide
+RAMS",,10,6
+0,NRL 1998,Round 19,"Sunday, 19th July, 1998",2:30pm (local time),1162,13,"12,740","Brisbane
+BRONCOS",,44,7,"Gold Coast
+CHARGERS",,10,7
+0,NRL 1998,Round 19,"Sunday, 19th July, 1998",2:30pm (local time),1165,4,"7,488","Canberra
+RAIDERS",,46,8,"South Sydney
+RABBITOHS",,16,4
+0,NRL 1998,Round 19,"Sunday, 19th July, 1998",2:30pm (local time),1163,11,"25,475","Newcastle
+KNIGHTS",,28,7,"St George
+DRAGONS",,22,10
+0,NRL 1998,Round 19,"Sunday, 19th July, 1998",2:30pm (local time),1164,1,"5,644","Sydney City
+ROOSTERS",,62,3,"Western Suburbs
+MAGPIES",,4,10
+0,NRL 1998,Round 20,"Friday, 24th July, 1998",7:30pm (local time),1166,12,"14,214","Melbourne
+STORM",14,32,3,"Newcastle
+KNIGHTS",8,16,7
+0,NRL 1998,Round 20,"Saturday, 25th July, 1998",3:30pm (local time),1169,21,"6,847","Illawarra
+STEELERS",6,6,4,"North Sydney
+BEARS",8,32,9
+0,NRL 1998,Round 20,"Saturday, 25th July, 1998",7:30pm (local time),1167,7,"7,159","Balmain
+TIGERS",4,10,4,"Brisbane
+BRONCOS",6,10,7
+0,NRL 1998,Round 20,"Saturday, 25th July, 1998",7:30pm (local time),1168,28,"8,721","Gold Coast
+CHARGERS",6,6,10,"Manly Warringah
+SEA EAGLES",16,30,4
+0,NRL 1998,Round 20,"Saturday, 25th July, 1998",7:30pm (local time),277,14,"10,409","North Queensland
+COWBOYS",6,16,6,"South Sydney
+RABBITOHS",16,22,5
+0,NRL 1998,Round 20,"Saturday, 25th July, 1998",7:30pm (local time),1170,19,"7,531","Western Suburbs
+MAGPIES",2,8,6,"Cronulla Sutherland
+SHARKS",18,38,11
+0,NRL 1998,Round 20,"Sunday, 26th July, 1998",2:00pm (local time),1173,40,"7,445","Adelaide
+RAMS",14,22,12,"Auckland
+WARRIORS",6,20,7
+0,NRL 1998,Round 20,"Sunday, 26th July, 1998",2:30pm (local time),1172,8,"10,085","Parramatta
+EELS",4,8,8,"Canberra
+RAIDERS",22,22,3
+0,NRL 1998,Round 20,"Sunday, 26th July, 1998",2:30pm (local time),1171,3,"6,404","Penrith
+PANTHERS",22,26,5,"Canterbury Bankstown
+BULLDOGS",12,18,7
+0,NRL 1998,Round 20,"Sunday, 26th July, 1998",2:30pm (local time),1174,23,"5,173","St George
+DRAGONS",10,22,11,"Sydney City
+ROOSTERS",12,12,9
+0,NRL 1998,Round 21,"Friday, 31st July, 1998",,82,6,"8,560","Auckland
+WARRIORS",,34,4,"North Queensland
+COWBOYS",,18,6
+0,NRL 1998,Round 21,"Friday, 31st July, 1998",,1175,9,"18,759","Cronulla Sutherland
+SHARKS",,38,5,"St George
+DRAGONS",,10,8
+0,NRL 1998,Round 21,"Saturday, 1st August, 1998",,1178,13,"13,858","Brisbane
+BRONCOS",,46,8,"Adelaide
+RAMS",,12,6
+0,NRL 1998,Round 21,"Saturday, 1st August, 1998",,1177,28,"5,336","Gold Coast
+CHARGERS",,14,8,"North Sydney
+BEARS",,19,4
+0,NRL 1998,Round 21,"Saturday, 1st August, 1998",,1176,11,"20,026","Newcastle
+KNIGHTS",,26,11,"Illawarra
+STEELERS",,28,5
+0,NRL 1998,Round 21,"Saturday, 1st August, 1998",,1179,1,"6,140","South Sydney
+RABBITOHS",,8,3,"Parramatta
+EELS",,16,9
+0,NRL 1998,Round 21,"Sunday, 2nd August, 1998",,1181,4,"9,198","Canberra
+RAIDERS",,48,9,"Penrith
+PANTHERS",,26,2
+0,NRL 1998,Round 21,"Sunday, 2nd August, 1998",,1182,27,"6,125","Canterbury Bankstown
+BULLDOGS",,56,4,"Western Suburbs
+MAGPIES",,14,6
+0,NRL 1998,Round 21,"Sunday, 2nd August, 1998",,1183,5,"15,559","Manly Warringah
+SEA EAGLES",,20,8,"Balmain
+TIGERS",,18,9
+0,NRL 1998,Round 21,"Sunday, 2nd August, 1998",,1180,1,"14,184","Sydney City
+ROOSTERS",,20,7,"Melbourne
+STORM",,32,2
+0,NRL 1998,Round 22,"Friday, 7th August, 1998",,1184,40,"7,459","Adelaide
+RAMS",,10,9,"Manly Warringah
+SEA EAGLES",,32,6
+0,NRL 1998,Round 22,"Friday, 7th August, 1998",,1185,12,"13,667","Melbourne
+STORM",,20,6,"Cronulla Sutherland
+SHARKS",,10,6
+0,NRL 1998,Round 22,"Saturday, 8th August, 1998",,278,14,"30,250","North Queensland
+COWBOYS",,10,5,"Brisbane
+BRONCOS",,22,5
+0,NRL 1998,Round 22,"Saturday, 8th August, 1998",,1187,25,"6,619","North Sydney
+BEARS",,22,6,"Balmain
+TIGERS",,6,7
+0,NRL 1998,Round 22,"Saturday, 8th August, 1998",,1186,3,"10,214","Penrith
+PANTHERS",,14,7,"Parramatta
+EELS",,20,8
+0,NRL 1998,Round 22,"Saturday, 8th August, 1998",,1188,19,"5,749","Western Suburbs
+MAGPIES",,0,9,"Canberra
+RAIDERS",,22,6
+0,NRL 1998,Round 22,"Sunday, 9th August, 1998",,1191,21,"8,178","Illawarra
+STEELERS",,10,4,"Sydney City
+ROOSTERS",,48,4
+0,NRL 1998,Round 22,"Sunday, 9th August, 1998",,1189,11,"11,444","Newcastle
+KNIGHTS",,19,6,"Gold Coast
+CHARGERS",,12,3
+0,NRL 1998,Round 22,"Sunday, 9th August, 1998",,1192,23,"10,739","St George
+DRAGONS",,16,3,"Canterbury Bankstown
+BULLDOGS",,28,7
+0,NRL 1998,Round 22,"Sunday, 9th August, 1998",,1190,1,"3,733","South Sydney
+RABBITOHS",,20,4,"Auckland
+WARRIORS",,18,10
+0,NRL 1998,Round 23,"Friday, 14th August, 1998",,1193,4,"13,621","Canberra
+RAIDERS",,28,6,"St George
+DRAGONS",,24,6
+0,NRL 1998,Round 23,"Friday, 14th August, 1998",,1194,3,"9,427","Penrith
+PANTHERS",,36,4,"South Sydney
+RABBITOHS",,18,4
+0,NRL 1998,Round 23,"Saturday, 15th August, 1998",,1196,40,"7,035","Adelaide
+RAMS",,0,6,"North Sydney
+BEARS",,36,5
+0,NRL 1998,Round 23,"Saturday, 15th August, 1998",,1195,27,"11,179","Canterbury Bankstown
+BULLDOGS",,8,5,"Melbourne
+STORM",,4,1
+0,NRL 1998,Round 23,"Saturday, 15th August, 1998",,1197,9,"6,487","Cronulla Sutherland
+SHARKS",6,22,7,"Illawarra
+STEELERS",26,30,6
+0,NRL 1998,Round 23,"Sunday, 16th August, 1998",,1201,7,"4,864","Balmain
+TIGERS",,16,2,"Newcastle
+KNIGHTS",,30,8
+0,NRL 1998,Round 23,"Sunday, 16th August, 1998",,1200,13,"16,456","Brisbane
+BRONCOS",,16,8,"Auckland
+WARRIORS",,4,8
+0,NRL 1998,Round 23,"Sunday, 16th August, 1998",,84,5,"8,422","Manly Warringah
+SEA EAGLES",,28,3,"North Queensland
+COWBOYS",,12,10
+0,NRL 1998,Round 23,"Sunday, 16th August, 1998",,1199,8,"7,085","Parramatta
+EELS",14,50,9,"Western Suburbs
+MAGPIES",0,4,5
+0,NRL 1998,Round 23,"Sunday, 16th August, 1998",,1198,39,"4,115","Sydney City
+ROOSTERS",,34,5,"Gold Coast
+CHARGERS",,10,2
+0,NRL 1998,Round 24,"Friday, 21st August, 1998",,1202,12,"18,321","Melbourne
+STORM",,16,3,"Canberra
+RAIDERS",,12,6
+0,NRL 1998,Round 24,"Saturday, 22nd August, 1998",,1203,7,"12,914","Balmain
+TIGERS",,4,4,"Sydney City
+ROOSTERS",,40,3
+0,NRL 1998,Round 24,"Saturday, 22nd August, 1998",,1204,28,"7,017","Gold Coast
+CHARGERS",,18,6,"Cronulla Sutherland
+SHARKS",,20,4
+0,NRL 1998,Round 24,"Saturday, 22nd August, 1998",,1205,11,"17,281","Newcastle
+KNIGHTS",,34,9,"Adelaide
+RAMS",,20,7
+0,NRL 1998,Round 24,"Sunday, 23rd August, 1998",,1208,6,"11,600","Auckland
+WARRIORS",,12,8,"Manly Warringah
+SEA EAGLES",,38,8
+0,NRL 1998,Round 24,"Sunday, 23rd August, 1998",,1210,21,"13,106","Illawarra
+STEELERS",,24,6,"Canterbury Bankstown
+BULLDOGS",,25,6
+0,NRL 1998,Round 24,"Sunday, 23rd August, 1998",,85,25,"15,604","North Sydney
+BEARS",,62,5,"North Queensland
+COWBOYS",,0,3
+0,NRL 1998,Round 24,"Sunday, 23rd August, 1998",,1209,23,"16,659","St George
+DRAGONS",,15,8,"Parramatta
+EELS",,15,7
+0,NRL 1998,Round 24,"Sunday, 23rd August, 1998",,1206,1,"7,262","South Sydney
+RABBITOHS",,10,3,"Brisbane
+BRONCOS",,16,9
+0,NRL 1998,Round 24,"Sunday, 23rd August, 1998",,1207,19,"7,247","Western Suburbs
+MAGPIES",,20,6,"Penrith
+PANTHERS",,36,8
+0,NRL 1998,Minor Prelim Semi,"Friday, 28th August, 1998",,1211,4,"15,953","Canberra
+RAIDERS",,17,5,"Manly Warringah
+SEA EAGLES",,4,7
+0,NRL 1998,Major Prelim Semi,"Saturday, 29th August, 1998",,1213,8,"16,033","Parramatta
+EELS",,25,5,"North Sydney
+BEARS",,12,6
+0,NRL 1998,Minor Prelim Semi,"Saturday, 29th August, 1998",,1212,23,"16,833","St George
+DRAGONS",,12,4,"Canterbury Bankstown
+BULLDOGS",,20,6
+0,NRL 1998,Major Prelim Semi,"Sunday, 30th August, 1998",,1214,12,"18,274","Melbourne
+STORM",,12,6,"Sydney City
+ROOSTERS",,26,4
+0,NRL 1998,Minor Semi,"Friday, 4th September, 1998",,1215,25,"18,718","North Sydney
+BEARS",,2,8,"Canterbury Bankstown
+BULLDOGS",,23,6
+0,NRL 1998,Minor Semi,"Saturday, 5th September, 1998",,1216,12,"12,592","Melbourne
+STORM",,24,10,"Canberra
+RAIDERS",,10,8
+0,NRL 1998,Major Semi,"Saturday, 5th September, 1998",,1217,11,"26,482","Newcastle
+KNIGHTS",,15,6,"Sydney City
+ROOSTERS",,26,7
+0,NRL 1998,Major Semi,"Sunday, 6th September, 1998",,1218,13,"21,172","Brisbane
+BRONCOS",,10,5,"Parramatta
+EELS",,15,4
+0,NRL 1998,Elim Prelim Final,"Saturday, 12th September, 1998",,1219,1,"24,449","Canterbury Bankstown
+BULLDOGS",,28,3,"Newcastle
+KNIGHTS",,16,10
+0,NRL 1998,Elim Prelim Final,"Sunday, 13th September, 1998",,1220,1,"20,354","Brisbane
+BRONCOS",,30,1,"Melbourne
+STORM",,6,8
+0,NRL 1998,Prelim Final,"Saturday, 19th September, 1998",,1221,13,"28,374","Brisbane
+BRONCOS",,46,6,"Sydney City
+ROOSTERS",,18,6
+0,NRL 1998,Prelim Final,"Sunday, 20th September, 1998",,1222,1,"36,841","Canterbury Bankstown
+BULLDOGS",,32,4,"Parramatta
+EELS",,20,4
+0,NRL 1998,Grand Final,"Sunday, 27th September, 1998",,1223,1,"40,857","Brisbane
+BRONCOS",10,38,5,"Canterbury Bankstown
+BULLDOGS",12,12,3

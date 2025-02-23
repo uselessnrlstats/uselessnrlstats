@@ -1,0 +1,415 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1979,Round 1,"Saturday, 24th March, 1979",3:00pm (local time),13985,23,"11,335","St George
+DRAGONS",20,34,4,"Manly Warringah
+SEA EAGLES",7,9,8
+0,NSWRFL 1979,Round 1,"Sunday, 25th March, 1979",3:00pm (local time),13987,7,"10,268","Balmain
+TIGERS",10,27,7,"Eastern Suburbs
+ROOSTERS",0,5,13
+0,NSWRFL 1979,Round 1,"Sunday, 25th March, 1979",3:00pm (local time),13988,27,"7,480","Canterbury Bankstown
+BULLDOGS",7,25,10,"Penrith
+PANTHERS",6,14,9
+0,NSWRFL 1979,Round 1,"Sunday, 25th March, 1979",3:00pm (local time),13990,25,"5,399","North Sydney
+BEARS",2,7,8,"Cronulla Sutherland
+SHARKS",16,34,11
+0,NSWRFL 1979,Round 1,"Sunday, 25th March, 1979",3:00pm (local time),13986,111,"14,302","Parramatta
+EELS",7,10,10,"Western Suburbs
+MAGPIES",4,21,9
+0,NSWRFL 1979,Round 1,"Sunday, 25th March, 1979",3:00pm (local time),13989,44,"9,555","South Sydney
+RABBITOHS",4,6,13,"Newtown
+JETS",4,7,12
+0,NSWRFL 1979,Round 2,"Saturday, 31st March, 1979",3:00pm (local time),13991,110,"10,856","Western Suburbs
+MAGPIES",9,22,19,"Balmain
+TIGERS",10,12,8
+0,NSWRFL 1979,Round 2,"Sunday, 1st April, 1979",3:00pm (local time),13993,27,"5,500","Canterbury Bankstown
+BULLDOGS",10,22,15,"North Sydney
+BEARS",7,14,9
+0,NSWRFL 1979,Round 2,"Sunday, 1st April, 1979",3:00pm (local time),13994,9,"8,203","Cronulla Sutherland
+SHARKS",7,25,11,"Parramatta
+EELS",0,0,13
+0,NSWRFL 1979,Round 2,"Sunday, 1st April, 1979",3:00pm (local time),13995,109,"8,001","Eastern Suburbs
+ROOSTERS",0,0,10,"South Sydney
+RABBITOHS",2,4,8
+0,NSWRFL 1979,Round 2,"Sunday, 1st April, 1979",3:00pm (local time),13996,76,"4,456","Newtown
+JETS",4,6,14,"Manly Warringah
+SEA EAGLES",10,10,5
+0,NSWRFL 1979,Round 2,"Sunday, 1st April, 1979",3:00pm (local time),13992,3,"7,287","Penrith
+PANTHERS",2,12,12,"St George
+DRAGONS",9,9,10
+0,NSWRFL 1979,Round 3,"Saturday, 7th April, 1979",3:00pm (local time),13997,5,"8,151","Manly Warringah
+SEA EAGLES",3,15,8,"South Sydney
+RABBITOHS",2,4,11
+0,NSWRFL 1979,Round 3,"Sunday, 8th April, 1979",3:00pm (local time),14000,9,"11,868","Cronulla Sutherland
+SHARKS",5,5,12,"Balmain
+TIGERS",4,14,7
+0,NSWRFL 1979,Round 3,"Sunday, 8th April, 1979",3:00pm (local time),13998,76,"4,280","Newtown
+JETS",8,10,9,"Penrith
+PANTHERS",8,19,11
+0,NSWRFL 1979,Round 3,"Sunday, 8th April, 1979",3:00pm (local time),14001,111,"13,160","Parramatta
+EELS",17,25,3,"Canterbury Bankstown
+BULLDOGS",15,24,9
+0,NSWRFL 1979,Round 3,"Sunday, 8th April, 1979",3:00pm (local time),13999,23,"8,289","St George
+DRAGONS",22,35,10,"North Sydney
+BEARS",8,18,8
+0,NSWRFL 1979,Round 3,"Sunday, 8th April, 1979",3:00pm (local time),14002,110,"11,025","Western Suburbs
+MAGPIES",5,18,6,"Eastern Suburbs
+ROOSTERS",7,9,10
+0,NSWRFL 1979,Round 4,"Saturday, 14th April, 1979",3:00pm (local time),14003,25,"3,325","North Sydney
+BEARS",10,22,10,"Newtown
+JETS",10,23,9
+0,NSWRFL 1979,Round 4,"Sunday, 15th April, 1979",3:00pm (local time),14004,7,"15,736","Balmain
+TIGERS",13,13,7,"Canterbury Bankstown
+BULLDOGS",4,26,10
+0,NSWRFL 1979,Round 4,"Sunday, 15th April, 1979",3:00pm (local time),14007,109,"11,791","Eastern Suburbs
+ROOSTERS",3,16,9,"Cronulla Sutherland
+SHARKS",0,5,8
+0,NSWRFL 1979,Round 4,"Sunday, 15th April, 1979",3:00pm (local time),14005,3,"10,628","Penrith
+PANTHERS",7,17,10,"Manly Warringah
+SEA EAGLES",22,32,3
+0,NSWRFL 1979,Round 4,"Sunday, 15th April, 1979",3:00pm (local time),14006,23,"21,756","St George
+DRAGONS",14,14,10,"Parramatta
+EELS",0,8,9
+0,NSWRFL 1979,Round 4,"Monday, 16th April, 1979",3:00pm (local time),14008,44,"11,863","South Sydney
+RABBITOHS",9,14,12,"Western Suburbs
+MAGPIES",20,28,8
+0,NSWRFL 1979,Round 5,"Saturday, 21st April, 1979",3:00pm (local time),14009,7,"11,621","Balmain
+TIGERS",9,27,10,"St George
+DRAGONS",11,20,12
+0,NSWRFL 1979,Round 5,"Saturday, 21st April, 1979",3:00pm (local time),14010,27,"12,163","Canterbury Bankstown
+BULLDOGS",5,17,7,"Eastern Suburbs
+ROOSTERS",9,14,7
+0,NSWRFL 1979,Round 5,"Sunday, 22nd April, 1979",3:00pm (local time),14012,9,"11,865","Cronulla Sutherland
+SHARKS",13,16,11,"Western Suburbs
+MAGPIES",0,9,9
+0,NSWRFL 1979,Round 5,"Sunday, 22nd April, 1979",3:00pm (local time),14011,5,"9,647","Manly Warringah
+SEA EAGLES",9,17,9,"North Sydney
+BEARS",10,20,4
+0,NSWRFL 1979,Round 5,"Sunday, 22nd April, 1979",3:00pm (local time),14013,111,"11,020","Parramatta
+EELS",19,37,9,"Newtown
+JETS",12,19,7
+0,NSWRFL 1979,Round 5,"Sunday, 22nd April, 1979",3:00pm (local time),14014,44,"5,252","South Sydney
+RABBITOHS",13,39,10,"Penrith
+PANTHERS",2,9,11
+0,NSWRFL 1979,Round 6,"Wednesday, 25th April, 1979",3:00pm (local time),14015,24,"20,732","Eastern Suburbs
+ROOSTERS",9,9,10,"St George
+DRAGONS",3,22,8
+0,NSWRFL 1979,Round 6,"Saturday, 28th April, 1979",3:00pm (local time),14016,9,"8,602","Cronulla Sutherland
+SHARKS",14,16,6,"South Sydney
+RABBITOHS",2,7,14
+0,NSWRFL 1979,Round 6,"Sunday, 29th April, 1979",3:00pm (local time),14017,5,"20,507","Manly Warringah
+SEA EAGLES",8,13,10,"Parramatta
+EELS",15,28,11
+0,NSWRFL 1979,Round 6,"Sunday, 29th April, 1979",3:00pm (local time),14019,76,"6,328","Newtown
+JETS",7,12,10,"Balmain
+TIGERS",5,16,12
+0,NSWRFL 1979,Round 6,"Sunday, 29th April, 1979",3:00pm (local time),14018,3,"5,956","Penrith
+PANTHERS",13,23,9,"North Sydney
+BEARS",7,15,9
+0,NSWRFL 1979,Round 6,"Sunday, 29th April, 1979",3:00pm (local time),14020,110,"15,729","Western Suburbs
+MAGPIES",4,9,9,"Canterbury Bankstown
+BULLDOGS",5,15,6
+0,NSWRFL 1979,Round 7,"Saturday, 5th May, 1979",3:00pm (local time),14021,111,"6,992","Parramatta
+EELS",2,20,11,"Penrith
+PANTHERS",9,11,11
+0,NSWRFL 1979,Round 7,"Sunday, 6th May, 1979",3:00pm (local time),14024,7,"4,638","Balmain
+TIGERS",7,12,12,"Manly Warringah
+SEA EAGLES",2,7,10
+0,NSWRFL 1979,Round 7,"Sunday, 6th May, 1979",3:00pm (local time),14025,27,"7,122","Canterbury Bankstown
+BULLDOGS",9,14,7,"Cronulla Sutherland
+SHARKS",9,16,7
+0,NSWRFL 1979,Round 7,"Sunday, 6th May, 1979",3:00pm (local time),14026,76,"2,558","Newtown
+JETS",5,9,16,"Eastern Suburbs
+ROOSTERS",14,14,7
+0,NSWRFL 1979,Round 7,"Sunday, 6th May, 1979",3:00pm (local time),14022,25,"2,144","North Sydney
+BEARS",7,7,5,"South Sydney
+RABBITOHS",8,14,9
+0,NSWRFL 1979,Round 7,"Sunday, 6th May, 1979",3:00pm (local time),14023,23,"6,334","St George
+DRAGONS",12,25,10,"Western Suburbs
+MAGPIES",10,10,12
+0,NSWRFL 1979,Round 8,"Saturday, 12th May, 1979",3:00pm (local time),14027,24,"12,531","Eastern Suburbs
+ROOSTERS",8,12,8,"Manly Warringah
+SEA EAGLES",12,12,5
+0,NSWRFL 1979,Round 8,"Sunday, 13th May, 1979",3:00pm (local time),14028,76,"4,360","Newtown
+JETS",3,16,6,"Western Suburbs
+MAGPIES",9,19,8
+0,NSWRFL 1979,Round 8,"Sunday, 13th May, 1979",3:00pm (local time),14029,25,"5,621","North Sydney
+BEARS",7,17,14,"Parramatta
+EELS",12,48,6
+0,NSWRFL 1979,Round 8,"Sunday, 13th May, 1979",3:00pm (local time),14030,3,"10,736","Penrith
+PANTHERS",8,18,10,"Balmain
+TIGERS",13,18,3
+0,NSWRFL 1979,Round 8,"Sunday, 13th May, 1979",3:00pm (local time),14032,23,"17,043","St George
+DRAGONS",2,5,9,"Cronulla Sutherland
+SHARKS",4,12,8
+0,NSWRFL 1979,Round 8,"Sunday, 13th May, 1979",3:00pm (local time),14031,44,"9,838","South Sydney
+RABBITOHS",4,9,11,"Canterbury Bankstown
+BULLDOGS",8,18,5
+0,NSWRFL 1979,Round 9,"Sunday, 20th May, 1979",3:00pm (local time),14035,7,"6,689","Balmain
+TIGERS",20,25,11,"North Sydney
+BEARS",2,10,10
+0,NSWRFL 1979,Round 9,"Sunday, 20th May, 1979",3:00pm (local time),14036,27,"21,147","Canterbury Bankstown
+BULLDOGS",2,2,13,"St George
+DRAGONS",10,15,12
+0,NSWRFL 1979,Round 9,"Sunday, 20th May, 1979",3:00pm (local time),14037,9,"7,369","Cronulla Sutherland
+SHARKS",10,26,8,"Newtown
+JETS",6,6,6
+0,NSWRFL 1979,Round 9,"Sunday, 20th May, 1979",3:00pm (local time),14038,109,"6,722","Eastern Suburbs
+ROOSTERS",18,35,7,"Penrith
+PANTHERS",3,3,12
+0,NSWRFL 1979,Round 9,"Sunday, 20th May, 1979",3:00pm (local time),14033,5,"12,092","Manly Warringah
+SEA EAGLES",3,10,16,"Western Suburbs
+MAGPIES",7,17,7
+0,NSWRFL 1979,Round 9,"Sunday, 20th May, 1979",3:00pm (local time),14034,111,"15,308","Parramatta
+EELS",3,18,7,"South Sydney
+RABBITOHS",7,7,4
+0,NSWRFL 1979,Round 10,"Saturday, 26th May, 1979",3:00pm (local time),14039,76,"4,106","Newtown
+JETS",5,7,10,"Canterbury Bankstown
+BULLDOGS",12,35,9
+0,NSWRFL 1979,Round 10,"Sunday, 27th May, 1979",3:00pm (local time),14043,5,"13,185","Manly Warringah
+SEA EAGLES",7,19,10,"Cronulla Sutherland
+SHARKS",7,14,10
+0,NSWRFL 1979,Round 10,"Sunday, 27th May, 1979",3:00pm (local time),14044,25,"4,002","North Sydney
+BEARS",6,10,13,"Eastern Suburbs
+ROOSTERS",3,3,11
+0,NSWRFL 1979,Round 10,"Sunday, 27th May, 1979",3:00pm (local time),14042,111,"18,347","Parramatta
+EELS",19,42,11,"Balmain
+TIGERS",7,7,8
+0,NSWRFL 1979,Round 10,"Sunday, 27th May, 1979",3:00pm (local time),14041,44,"10,602","South Sydney
+RABBITOHS",7,9,7,"St George
+DRAGONS",10,30,6
+0,NSWRFL 1979,Round 10,"Sunday, 27th May, 1979",3:00pm (local time),14040,110,"6,471","Western Suburbs
+MAGPIES",11,18,6,"Penrith
+PANTHERS",10,17,10
+0,NSWRFL 1979,Round 11,"Saturday, 2nd June, 1979",3:00pm (local time),14045,3,"5,522","Penrith
+PANTHERS",4,17,6,"Cronulla Sutherland
+SHARKS",9,11,8
+0,NSWRFL 1979,Round 11,"Sunday, 3rd June, 1979",3:00pm (local time),14046,7,"8,003","Balmain
+TIGERS",9,15,11,"South Sydney
+RABBITOHS",2,5,13
+0,NSWRFL 1979,Round 11,"Sunday, 3rd June, 1979",3:00pm (local time),14047,27,"15,116","Canterbury Bankstown
+BULLDOGS",0,3,10,"Manly Warringah
+SEA EAGLES",5,12,7
+0,NSWRFL 1979,Round 11,"Sunday, 3rd June, 1979",3:00pm (local time),14050,111,"16,242","Parramatta
+EELS",3,15,8,"Eastern Suburbs
+ROOSTERS",10,10,9
+0,NSWRFL 1979,Round 11,"Sunday, 3rd June, 1979",3:00pm (local time),14048,23,"6,757","St George
+DRAGONS",7,20,10,"Newtown
+JETS",10,15,7
+0,NSWRFL 1979,Round 11,"Sunday, 3rd June, 1979",3:00pm (local time),14049,110,"6,802","Western Suburbs
+MAGPIES",13,23,9,"North Sydney
+BEARS",7,12,5
+0,NSWRFL 1979,Round 12,"Saturday, 9th June, 1979",3:00pm (local time),14053,9,"5,441","Cronulla Sutherland
+SHARKS",8,26,9,"North Sydney
+BEARS",10,12,9
+0,NSWRFL 1979,Round 12,"Sunday, 10th June, 1979",3:00pm (local time),14055,109,"8,027","Eastern Suburbs
+ROOSTERS",0,3,13,"Balmain
+TIGERS",13,31,7
+0,NSWRFL 1979,Round 12,"Sunday, 10th June, 1979",3:00pm (local time),14051,5,"20,176","Manly Warringah
+SEA EAGLES",12,18,10,"St George
+DRAGONS",7,25,13
+0,NSWRFL 1979,Round 12,"Sunday, 10th June, 1979",3:00pm (local time),14052,76,"3,812","Newtown
+JETS",22,32,8,"South Sydney
+RABBITOHS",0,8,11
+0,NSWRFL 1979,Round 12,"Sunday, 10th June, 1979",3:00pm (local time),14056,3,"12,839","Penrith
+PANTHERS",15,17,8,"Canterbury Bankstown
+BULLDOGS",7,12,10
+0,NSWRFL 1979,Round 12,"Sunday, 10th June, 1979",3:00pm (local time),14054,110,"14,709","Western Suburbs
+MAGPIES",9,31,10,"Parramatta
+EELS",3,13,8
+0,NSWRFL 1979,Round 13,"Saturday, 16th June, 1979",3:00pm (local time),14057,44,"4,260","South Sydney
+RABBITOHS",5,10,13,"Eastern Suburbs
+ROOSTERS",5,15,6
+0,NSWRFL 1979,Round 13,"Sunday, 17th June, 1979",3:00pm (local time),14058,5,"9,034","Manly Warringah
+SEA EAGLES",13,15,10,"Newtown
+JETS",0,9,12
+0,NSWRFL 1979,Round 13,"Sunday, 17th June, 1979",3:00pm (local time),14060,25,"4,002","North Sydney
+BEARS",2,9,10,"Canterbury Bankstown
+BULLDOGS",5,18,12
+0,NSWRFL 1979,Round 13,"Sunday, 17th June, 1979",3:00pm (local time),14061,111,"14,609","Parramatta
+EELS",11,29,10,"Cronulla Sutherland
+SHARKS",7,14,5
+0,NSWRFL 1979,Round 13,"Sunday, 17th June, 1979",3:00pm (local time),14059,23,"12,488","St George
+DRAGONS",8,37,8,"Penrith
+PANTHERS",8,15,8
+0,NSWRFL 1979,Round 13,"Monday, 18th June, 1979",3:00pm (local time),14062,7,"18,659","Balmain
+TIGERS",3,15,7,"Western Suburbs
+MAGPIES",7,17,10
+0,NSWRFL 1979,Round 14,"Saturday, 23rd June, 1979",3:00pm (local time),14063,27,"12,104","Canterbury Bankstown
+BULLDOGS",5,13,13,"Parramatta
+EELS",10,12,9
+0,NSWRFL 1979,Round 14,"Sunday, 24th June, 1979",3:00pm (local time),14064,109,"9,100","Eastern Suburbs
+ROOSTERS",4,9,8,"Western Suburbs
+MAGPIES",2,4,10
+0,NSWRFL 1979,Round 14,"Sunday, 24th June, 1979",3:00pm (local time),14065,3,"7,698","Penrith
+PANTHERS",4,7,13,"Newtown
+JETS",8,33,7
+0,NSWRFL 1979,Round 15,"Sunday, 1st July, 1979",3:00pm (local time),14074,27,"15,105","Canterbury Bankstown
+BULLDOGS",2,17,16,"Balmain
+TIGERS",10,15,6
+0,NSWRFL 1979,Round 15,"Sunday, 1st July, 1979",3:00pm (local time),14072,9,"9,341","Cronulla Sutherland
+SHARKS",7,29,8,"Eastern Suburbs
+ROOSTERS",2,7,9
+0,NSWRFL 1979,Round 15,"Sunday, 1st July, 1979",3:00pm (local time),14069,5,"8,195","Manly Warringah
+SEA EAGLES",6,20,7,"Penrith
+PANTHERS",13,15,8
+0,NSWRFL 1979,Round 15,"Sunday, 1st July, 1979",3:00pm (local time),14070,76,"3,343","Newtown
+JETS",12,30,4,"North Sydney
+BEARS",3,11,9
+0,NSWRFL 1979,Round 15,"Sunday, 1st July, 1979",3:00pm (local time),14071,111,"22,055","Parramatta
+EELS",8,18,10,"St George
+DRAGONS",15,19,5
+0,NSWRFL 1979,Round 15,"Sunday, 1st July, 1979",3:00pm (local time),14073,110,"6,334","Western Suburbs
+MAGPIES",8,14,11,"South Sydney
+RABBITOHS",8,16,6
+0,NSWRFL 1979,Round 16,"Sunday, 8th July, 1979",3:00pm (local time),14079,109,"6,756","Eastern Suburbs
+ROOSTERS",18,23,9,"Canterbury Bankstown
+BULLDOGS",5,15,12
+0,NSWRFL 1979,Round 16,"Sunday, 8th July, 1979",3:00pm (local time),14075,76,"5,470","Newtown
+JETS",16,21,13,"Parramatta
+EELS",15,34,8
+0,NSWRFL 1979,Round 16,"Sunday, 8th July, 1979",3:00pm (local time),14077,25,"6,011","North Sydney
+BEARS",5,14,13,"Manly Warringah
+SEA EAGLES",15,21,8
+0,NSWRFL 1979,Round 16,"Sunday, 8th July, 1979",3:00pm (local time),14076,3,"5,997","Penrith
+PANTHERS",7,7,15,"South Sydney
+RABBITOHS",5,24,11
+0,NSWRFL 1979,Round 16,"Sunday, 8th July, 1979",3:00pm (local time),14078,23,"17,168","St George
+DRAGONS",2,7,11,"Balmain
+TIGERS",10,20,6
+0,NSWRFL 1979,Round 16,"Sunday, 8th July, 1979",3:00pm (local time),14080,110,"7,449","Western Suburbs
+MAGPIES",9,12,7,"Cronulla Sutherland
+SHARKS",4,22,11
+0,NSWRFL 1979,Round 17,"Sunday, 15th July, 1979",3:00pm (local time),14082,7,"6,394","Balmain
+TIGERS",10,12,14,"Newtown
+JETS",5,8,6
+0,NSWRFL 1979,Round 17,"Sunday, 15th July, 1979",3:00pm (local time),14083,27,"15,127","Canterbury Bankstown
+BULLDOGS",2,17,19,"Western Suburbs
+MAGPIES",12,16,12
+0,NSWRFL 1979,Round 17,"Sunday, 15th July, 1979",3:00pm (local time),14081,25,"2,112","North Sydney
+BEARS",10,21,9,"Penrith
+PANTHERS",10,25,6
+0,NSWRFL 1979,Round 17,"Sunday, 15th July, 1979",3:00pm (local time),14084,111,"17,808","Parramatta
+EELS",6,22,12,"Manly Warringah
+SEA EAGLES",0,5,3
+0,NSWRFL 1979,Round 17,"Sunday, 15th July, 1979",3:00pm (local time),14086,23,"11,583","St George
+DRAGONS",18,25,8,"Eastern Suburbs
+ROOSTERS",0,0,5
+0,NSWRFL 1979,Round 17,"Sunday, 15th July, 1979",3:00pm (local time),14085,44,"7,093","South Sydney
+RABBITOHS",12,25,9,"Cronulla Sutherland
+SHARKS",0,10,12
+0,NSWRFL 1979,Round 18,"Friday, 20th July, 1979",3:00pm (local time),14087,44,"4,629","South Sydney
+RABBITOHS",2,15,10,"North Sydney
+BEARS",4,9,4
+0,NSWRFL 1979,Round 18,"Saturday, 21st July, 1979",3:00pm (local time),14088,3,"10,732","Penrith
+PANTHERS",2,19,12,"Parramatta
+EELS",15,22,10
+0,NSWRFL 1979,Round 18,"Sunday, 22nd July, 1979",3:00pm (local time),14092,9,"12,565","Cronulla Sutherland
+SHARKS",2,14,9,"Canterbury Bankstown
+BULLDOGS",8,12,10
+0,NSWRFL 1979,Round 18,"Sunday, 22nd July, 1979",3:00pm (local time),14089,109,"3,150","Eastern Suburbs
+ROOSTERS",0,12,8,"Newtown
+JETS",0,5,9
+0,NSWRFL 1979,Round 18,"Sunday, 22nd July, 1979",3:00pm (local time),14091,5,"12,521","Manly Warringah
+SEA EAGLES",12,24,6,"Balmain
+TIGERS",0,8,13
+0,NSWRFL 1979,Round 18,"Sunday, 22nd July, 1979",3:00pm (local time),14090,110,"13,796","Western Suburbs
+MAGPIES",7,14,7,"St George
+DRAGONS",14,15,5
+0,NSWRFL 1979,Round 19,"Saturday, 28th July, 1979",3:00pm (local time),14093,27,"11,156","Canterbury Bankstown
+BULLDOGS",8,13,10,"South Sydney
+RABBITOHS",2,7,12
+0,NSWRFL 1979,Round 19,"Sunday, 29th July, 1979",3:00pm (local time),14094,7,"8,930","Balmain
+TIGERS",5,20,13,"Penrith
+PANTHERS",3,13,9
+0,NSWRFL 1979,Round 19,"Sunday, 29th July, 1979",3:00pm (local time),14095,9,"19,462","Cronulla Sutherland
+SHARKS",3,18,9,"St George
+DRAGONS",9,13,9
+0,NSWRFL 1979,Round 19,"Sunday, 29th July, 1979",3:00pm (local time),14098,5,"11,998","Manly Warringah
+SEA EAGLES",9,27,12,"Eastern Suburbs
+ROOSTERS",5,5,6
+0,NSWRFL 1979,Round 19,"Sunday, 29th July, 1979",3:00pm (local time),14096,110,"4,404","Western Suburbs
+MAGPIES",8,21,13,"Newtown
+JETS",2,4,9
+0,NSWRFL 1979,Round 19,"Sunday, 29th July, 1979",5:00pm (local time),14097,111,"9,663","Parramatta
+EELS",23,41,10,"North Sydney
+BEARS",3,3,4
+0,NSWRFL 1979,Round 20,"Saturday, 4th August, 1979",3:00pm (local time),14099,110,"14,518","Western Suburbs
+MAGPIES",9,21,7,"Manly Warringah
+SEA EAGLES",11,13,11
+0,NSWRFL 1979,Round 20,"Sunday, 5th August, 1979",3:00pm (local time),14103,76,"3,562","Newtown
+JETS",12,20,8,"Cronulla Sutherland
+SHARKS",6,6,12
+0,NSWRFL 1979,Round 20,"Sunday, 5th August, 1979",3:00pm (local time),14101,25,"4,157","North Sydney
+BEARS",3,18,8,"Balmain
+TIGERS",17,22,10
+0,NSWRFL 1979,Round 20,"Sunday, 5th August, 1979",3:00pm (local time),14104,3,"7,027","Penrith
+PANTHERS",3,8,14,"Eastern Suburbs
+ROOSTERS",14,19,12
+0,NSWRFL 1979,Round 20,"Sunday, 5th August, 1979",3:00pm (local time),14102,23,"20,690","St George
+DRAGONS",10,20,9,"Canterbury Bankstown
+BULLDOGS",2,12,9
+0,NSWRFL 1979,Round 20,"Sunday, 5th August, 1979",3:00pm (local time),14100,44,"10,368","South Sydney
+RABBITOHS",7,7,9,"Parramatta
+EELS",5,21,9
+0,NSWRFL 1979,Round 21,"Saturday, 11th August, 1979",3:00pm (local time),14105,9,"10,335","Cronulla Sutherland
+SHARKS",10,26,11,"Manly Warringah
+SEA EAGLES",7,7,8
+0,NSWRFL 1979,Round 21,"Sunday, 12th August, 1979",3:00pm (local time),14108,7,"17,500","Balmain
+TIGERS",7,10,11,"Parramatta
+EELS",6,11,12
+0,NSWRFL 1979,Round 21,"Sunday, 12th August, 1979",3:00pm (local time),14109,27,"9,166","Canterbury Bankstown
+BULLDOGS",17,38,8,"Newtown
+JETS",3,6,10
+0,NSWRFL 1979,Round 21,"Sunday, 12th August, 1979",3:00pm (local time),14110,109,"2,247","Eastern Suburbs
+ROOSTERS",13,23,14,"North Sydney
+BEARS",9,9,9
+0,NSWRFL 1979,Round 21,"Sunday, 12th August, 1979",3:00pm (local time),14106,3,"9,518","Penrith
+PANTHERS",9,14,13,"Western Suburbs
+MAGPIES",10,22,9
+0,NSWRFL 1979,Round 21,"Sunday, 12th August, 1979",3:00pm (local time),14107,23,"11,063","St George
+DRAGONS",5,22,10,"South Sydney
+RABBITOHS",9,14,6
+0,NSWRFL 1979,Round 14,"Saturday, 18th August, 1979",3:00pm (local time),14066,44,"4,668","South Sydney
+RABBITOHS",9,30,11,"Manly Warringah
+SEA EAGLES",12,12,7
+0,NSWRFL 1979,Round 14,"Sunday, 19th August, 1979",3:00pm (local time),14068,7,"16,227","Balmain
+TIGERS",5,8,10,"Cronulla Sutherland
+SHARKS",5,11,6
+0,NSWRFL 1979,Round 14,"Sunday, 19th August, 1979",3:00pm (local time),14067,25,"4,576","North Sydney
+BEARS",14,26,17,"St George
+DRAGONS",17,29,7
+0,NSWRFL 1979,Round 22,"Saturday, 25th August, 1979",3:00pm (local time),14111,5,"9,031","Manly Warringah
+SEA EAGLES",11,23,6,"Canterbury Bankstown
+BULLDOGS",3,11,9
+0,NSWRFL 1979,Round 22,"Sunday, 26th August, 1979",3:00pm (local time),14114,9,"10,523","Cronulla Sutherland
+SHARKS",3,11,13,"Penrith
+PANTHERS",2,11,12
+0,NSWRFL 1979,Round 22,"Sunday, 26th August, 1979",3:00pm (local time),14115,109,"11,163","Eastern Suburbs
+ROOSTERS",5,7,7,"Parramatta
+EELS",8,16,9
+0,NSWRFL 1979,Round 22,"Sunday, 26th August, 1979",3:00pm (local time),14112,76,"6,824","Newtown
+JETS",15,23,12,"St George
+DRAGONS",15,35,12
+0,NSWRFL 1979,Round 22,"Sunday, 26th August, 1979",3:00pm (local time),14113,25,"5,572","North Sydney
+BEARS",5,18,12,"Western Suburbs
+MAGPIES",17,30,8
+0,NSWRFL 1979,Round 22,"Sunday, 26th August, 1979",3:00pm (local time),14116,44,"12,610","South Sydney
+RABBITOHS",9,12,7,"Balmain
+TIGERS",8,11,5
+0,NSWRFL 1979,Major Prelim Semi,"Saturday, 1st September, 1979",3:00pm (local time),14117,24,"28,335","Parramatta
+EELS",5,24,10,"Cronulla Sutherland
+SHARKS",4,4,9
+0,NSWRFL 1979,Minor Prelim Semi,"Sunday, 2nd September, 1979",3:00pm (local time),14118,24,"22,104","Canterbury Bankstown
+BULLDOGS",5,20,6,"Western Suburbs
+MAGPIES",4,6,8
+0,NSWRFL 1979,Major Semi,"Saturday, 8th September, 1979",3:00pm (local time),14119,24,"38,531","St George
+DRAGONS",5,15,10,"Parramatta
+EELS",2,11,10
+0,NSWRFL 1979,Minor Semi,"Sunday, 9th September, 1979",3:00pm (local time),14120,24,"24,132","Canterbury Bankstown
+BULLDOGS",15,30,10,"Cronulla Sutherland
+SHARKS",10,15,9
+0,NSWRFL 1979,Prelim Final,"Saturday, 15th September, 1979",3:00pm (local time),14121,24,"33,291","Canterbury Bankstown
+BULLDOGS",5,20,6,"Parramatta
+EELS",4,14,7
+0,NSWRFL 1979,Grand Final,"Saturday, 22nd September, 1979",3:00pm (local time),14122,24,"50,991","St George
+DRAGONS",17,17,6,"Canterbury Bankstown
+BULLDOGS",2,13,12

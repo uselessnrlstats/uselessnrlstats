@@ -1,0 +1,122 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1934,Round 1,"Wednesday, 25th April, 1934",3:15pm (local time),9678,7,"5,000","Balmain
+TIGERS",5,5,,"Western Suburbs
+MAGPIES",10,18,
+0,NSWRFL 1934,Round 1,"Wednesday, 25th April, 1934",3:15pm (local time),9676,158,,NEWTOWN,5,5,,"St George
+DRAGONS",4,10,
+0,NSWRFL 1934,Round 1,"Wednesday, 25th April, 1934",3:15pm (local time),9677,25,,NORTH SYDNEY,3,3,,UNIVERSITY,2,4,
+0,NSWRFL 1934,Round 1,"Wednesday, 25th April, 1934",3:15pm (local time),9679,109,"10,778","South Sydney
+RABBITOHS",3,3,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1934,Round 2,"Saturday, 28th April, 1934",3:15pm (local time),9682,7,"3,000","Balmain
+TIGERS",9,27,,UNIVERSITY,7,13,
+0,NSWRFL 1934,Round 2,"Saturday, 28th April, 1934",3:15pm (local time),9683,166,"4,000",EASTERN SUBURBS,12,19,,"St George
+DRAGONS",0,16,
+0,NSWRFL 1934,Round 2,"Saturday, 28th April, 1934",3:15pm (local time),9680,158,,NEWTOWN,7,25,,NORTH SYDNEY,9,11,
+0,NSWRFL 1934,Round 2,"Saturday, 28th April, 1934",3:15pm (local time),9681,109,"13,970","South Sydney
+RABBITOHS",6,13,,"Western Suburbs
+MAGPIES",14,17,
+0,NSWRFL 1934,Round 3,"Saturday, 5th May, 1934",3:15pm (local time),9685,153,"3,000","Balmain
+TIGERS",9,11,,NEWTOWN,3,19,
+0,NSWRFL 1934,Round 3,"Saturday, 5th May, 1934",3:15pm (local time),9687,25,"8,000",NORTH SYDNEY,0,10,,EASTERN SUBURBS,12,33,
+0,NSWRFL 1934,Round 3,"Saturday, 5th May, 1934",3:15pm (local time),9684,154,"5,000","St George
+DRAGONS",11,31,,"South Sydney
+RABBITOHS",0,8,
+0,NSWRFL 1934,Round 3,"Saturday, 5th May, 1934",3:15pm (local time),9686,109,"4,000","Western Suburbs
+MAGPIES",9,18,,UNIVERSITY,4,9,
+0,NSWRFL 1934,Round 4,"Saturday, 12th May, 1934",3:15pm (local time),9691,153,"4,000","Balmain
+TIGERS",7,15,,EASTERN SUBURBS,10,24,
+0,NSWRFL 1934,Round 4,"Saturday, 12th May, 1934",3:15pm (local time),9688,109,"13,000",NEWTOWN,7,12,,"Western Suburbs
+MAGPIES",8,15,
+0,NSWRFL 1934,Round 4,"Saturday, 12th May, 1934",3:15pm (local time),9689,25,"6,000",NORTH SYDNEY,10,28,,"St George
+DRAGONS",7,7,
+0,NSWRFL 1934,Round 4,"Saturday, 12th May, 1934",3:15pm (local time),9690,7,"2,000","South Sydney
+RABBITOHS",12,45,,UNIVERSITY,3,3,
+0,NSWRFL 1934,Round 5,"Saturday, 19th May, 1934",3:15pm (local time),9694,7,"5,000","Balmain
+TIGERS",9,14,,"St George
+DRAGONS",6,12,
+0,NSWRFL 1934,Round 5,"Saturday, 19th May, 1934",3:15pm (local time),9695,109,"25,000",EASTERN SUBURBS,5,12,,"Western Suburbs
+MAGPIES",8,15,
+0,NSWRFL 1934,Round 5,"Saturday, 19th May, 1934",3:15pm (local time),9692,158,,NEWTOWN,3,13,,UNIVERSITY,7,10,
+0,NSWRFL 1934,Round 5,"Saturday, 19th May, 1934",3:15pm (local time),9693,25,"6,000",NORTH SYDNEY,0,10,,"South Sydney
+RABBITOHS",5,10,
+0,NSWRFL 1934,Round 6,"Saturday, 9th June, 1934",3:15pm (local time),9696,7,,"Balmain
+TIGERS",10,12,,NORTH SYDNEY,12,17,
+0,NSWRFL 1934,Round 6,"Saturday, 9th June, 1934",3:15pm (local time),9697,166,"3,000",EASTERN SUBURBS,5,40,,UNIVERSITY,11,11,
+0,NSWRFL 1934,Round 6,"Saturday, 9th June, 1934",3:15pm (local time),9698,158,"5,000","South Sydney
+RABBITOHS",8,19,,NEWTOWN,4,9,
+0,NSWRFL 1934,Round 6,"Saturday, 9th June, 1934",3:15pm (local time),9699,109,"8,370","Western Suburbs
+MAGPIES",12,24,,"St George
+DRAGONS",7,15,
+0,NSWRFL 1934,Round 7,"Saturday, 16th June, 1934",3:15pm (local time),9703,166,,NEWTOWN,6,9,,EASTERN SUBURBS,8,23,
+0,NSWRFL 1934,Round 7,"Saturday, 16th June, 1934",3:15pm (local time),9700,154,,"St George
+DRAGONS",7,23,,UNIVERSITY,5,5,
+0,NSWRFL 1934,Round 7,"Saturday, 16th June, 1934",3:15pm (local time),9702,153,"2,000","South Sydney
+RABBITOHS",7,28,,"Balmain
+TIGERS",8,8,
+0,NSWRFL 1934,Round 7,"Saturday, 16th June, 1934",3:15pm (local time),9701,109,"8,674","Western Suburbs
+MAGPIES",15,37,,NORTH SYDNEY,0,7,
+0,NSWRFL 1934,Round 8,"Saturday, 23rd June, 1934",3:15pm (local time),9705,109,"15,413",EASTERN SUBURBS,3,14,,"South Sydney
+RABBITOHS",2,10,
+0,NSWRFL 1934,Round 8,"Saturday, 23rd June, 1934",3:15pm (local time),9704,7,500,NORTH SYDNEY,26,46,,UNIVERSITY,5,10,
+0,NSWRFL 1934,Round 8,"Saturday, 23rd June, 1934",3:15pm (local time),9706,154,,"St George
+DRAGONS",13,32,,NEWTOWN,6,14,
+0,NSWRFL 1934,Round 8,"Saturday, 23rd June, 1934",3:15pm (local time),9707,112,"4,000","Western Suburbs
+MAGPIES",13,23,,"Balmain
+TIGERS",2,8,
+0,NSWRFL 1934,Round 9,"Saturday, 30th June, 1934",3:15pm (local time),9708,153,,"Balmain
+TIGERS",5,33,,UNIVERSITY,7,13,
+0,NSWRFL 1934,Round 9,"Saturday, 30th June, 1934",3:15pm (local time),9709,25,"3,000",NORTH SYDNEY,5,8,,NEWTOWN,2,10,
+0,NSWRFL 1934,Round 9,"Saturday, 30th June, 1934",3:15pm (local time),9711,154,"4,500","St George
+DRAGONS",12,12,,EASTERN SUBURBS,5,14,
+0,NSWRFL 1934,Round 9,"Saturday, 30th June, 1934",3:15pm (local time),9710,109,"8,000","Western Suburbs
+MAGPIES",4,6,,"South Sydney
+RABBITOHS",0,0,
+0,NSWRFL 1934,Round 10,"Saturday, 7th July, 1934",3:15pm (local time),9712,109,"7,120",EASTERN SUBURBS,8,20,,NORTH SYDNEY,8,14,
+0,NSWRFL 1934,Round 10,"Saturday, 7th July, 1934",3:15pm (local time),9715,158,,NEWTOWN,2,15,,"Balmain
+TIGERS",7,24,
+0,NSWRFL 1934,Round 10,"Saturday, 7th July, 1934",3:15pm (local time),9713,154,"3,500","South Sydney
+RABBITOHS",4,7,,"St George
+DRAGONS",7,18,
+0,NSWRFL 1934,Round 10,"Saturday, 7th July, 1934",3:15pm (local time),9714,112,"2,000","Western Suburbs
+MAGPIES",12,25,,UNIVERSITY,0,11,
+0,NSWRFL 1934,Round 11,"Saturday, 14th July, 1934",3:15pm (local time),9719,166,"4,000",EASTERN SUBURBS,12,32,,"Balmain
+TIGERS",10,18,
+0,NSWRFL 1934,Round 11,"Saturday, 14th July, 1934",3:15pm (local time),9718,154,"2,000","St George
+DRAGONS",16,19,,NORTH SYDNEY,8,8,
+0,NSWRFL 1934,Round 11,"Saturday, 14th July, 1934",3:15pm (local time),9716,7,,"South Sydney
+RABBITOHS",8,30,,UNIVERSITY,3,5,
+0,NSWRFL 1934,Round 11,"Saturday, 14th July, 1934",3:15pm (local time),9717,109,"6,315","Western Suburbs
+MAGPIES",16,25,,NEWTOWN,0,17,
+0,NSWRFL 1934,Round 12,"Saturday, 21st July, 1934",3:15pm (local time),9720,158,,NEWTOWN,14,22,,UNIVERSITY,0,7,
+0,NSWRFL 1934,Round 12,"Saturday, 21st July, 1934",3:15pm (local time),9722,154,,"St George
+DRAGONS",13,32,,"Balmain
+TIGERS",4,9,
+0,NSWRFL 1934,Round 12,"Saturday, 21st July, 1934",3:15pm (local time),9721,152,,"South Sydney
+RABBITOHS",8,11,,NORTH SYDNEY,8,11,
+0,NSWRFL 1934,Round 12,"Saturday, 21st July, 1934",3:15pm (local time),9723,109,"20,091","Western Suburbs
+MAGPIES",3,8,,EASTERN SUBURBS,8,32,
+0,NSWRFL 1934,Round 13,"Saturday, 28th July, 1934",3:15pm (local time),9726,166,,EASTERN SUBURBS,15,22,,UNIVERSITY,2,7,
+0,NSWRFL 1934,Round 13,"Saturday, 28th July, 1934",3:15pm (local time),9724,158,"1,000",NEWTOWN,2,5,,"South Sydney
+RABBITOHS",9,11,
+0,NSWRFL 1934,Round 13,"Saturday, 28th July, 1934",3:15pm (local time),9727,25,,NORTH SYDNEY,8,11,,"Balmain
+TIGERS",5,10,
+0,NSWRFL 1934,Round 13,"Saturday, 28th July, 1934",3:15pm (local time),9725,109,"3,144","St George
+DRAGONS",0,7,,"Western Suburbs
+MAGPIES",3,6,
+0,NSWRFL 1934,Round 14,"Saturday, 4th August, 1934",3:15pm (local time),9730,153,,"Balmain
+TIGERS",7,12,,"South Sydney
+RABBITOHS",15,18,
+0,NSWRFL 1934,Round 14,"Saturday, 4th August, 1934",3:15pm (local time),9731,109,"5,741",EASTERN SUBURBS,13,23,,NEWTOWN,17,17,
+0,NSWRFL 1934,Round 14,"Saturday, 4th August, 1934",3:15pm (local time),9728,25,"3,500",NORTH SYDNEY,5,10,,"Western Suburbs
+MAGPIES",13,26,
+0,NSWRFL 1934,Round 14,"Saturday, 4th August, 1934",3:15pm (local time),9729,154,,"St George
+DRAGONS",8,17,,UNIVERSITY,5,5,
+0,NSWRFL 1934,Playoff,"Saturday, 11th August, 1934",3:15pm (local time),9732,109,"20,098","Western Suburbs
+MAGPIES",7,7,,EASTERN SUBURBS,0,2,
+0,NSWRFL 1934,Semi Final,"Saturday, 18th August, 1934",3:15pm (local time),9733,109,"16,154","Western Suburbs
+MAGPIES",11,16,,"St George
+DRAGONS",0,6,
+0,NSWRFL 1934,Semi Final,"Saturday, 25th August, 1934",3:15pm (local time),9734,109,"17,775",EASTERN SUBURBS,6,19,,"South Sydney
+RABBITOHS",4,6,
+0,NSWRFL 1934,Final,"Saturday, 8th September, 1934",3:15pm (local time),9735,109,"25,174","Western Suburbs
+MAGPIES",7,15,,EASTERN SUBURBS,2,12,

@@ -1,0 +1,154 @@
+competition,competition_year,round,date,time,time_24hr,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+NRLW,NRLW 2018,Round 1,2018-09-08,3:05 PM,15:05:00,44896,20,17168,Sydney Roosters (W),4,4,NA,New Zealand Warriors (W),10,10,NA
+NRLW,NRLW 2018,Round 1,2018-09-09,1:45 PM,13:45:00,44897,1097,47296,Brisbane Broncos (W),18,30,NA,St George Illawarra Dragons (W),4,4,NA
+NRLW,NRLW 2018,Round 2,2018-09-14,5:15 PM,17:15:00,44898,1,19211,Sydney Roosters (W),0,4,NA,Brisbane Broncos (W),10,14,NA
+NRLW,NRLW 2018,Round 2,2018-09-15,5:10 PM,17:10:00,44899,20,48188,St George Illawarra Dragons (W),12,22,NA,New Zealand Warriors (W),0,10,NA
+NRLW,NRLW 2018,Round 3,2018-09-21,5:15 PM,17:15:00,44900,251,26621,Brisbane Broncos (W),16,32,NA,New Zealand Warriors (W),10,10,NA
+NRLW,NRLW 2018,Round 3,2018-09-22,5:10 PM,17:10:00,44901,1,44380,Sydney Roosters (W),12,26,NA,St George Illawarra Dragons (W),0,0,NA
+NRLW,NRLW 2018,Grand Final,2018-09-30,1:35 PM,13:35:00,44902,20,82688,Brisbane Broncos (W),28,34,NA,Sydney Roosters (W),6,12,NA
+NRLW,NRLW 2019,Round 1,2019-09-14,3:05 PM,15:05:00,44903,251,NA,Sydney Roosters (W),6,12,NA,New Zealand Warriors (W),6,16,NA
+NRLW,NRLW 2019,Round 1,2019-09-15,2:05 PM,14:05:00,44904,940,6609,St George Illawarra Dragons (W),4,4,NA,Brisbane Broncos (W),4,14,NA
+NRLW,NRLW 2019,Round 2,2019-09-21,5:05 PM,17:05:00,44905,251,NA,Brisbane Broncos (W),10,20,NA,Sydney Roosters (W),0,0,NA
+NRLW,NRLW 2019,Round 2,2019-09-22,1:15 PM,13:15:00,44906,6,2518,New Zealand Warriors (W),6,6,NA,St George Illawarra Dragons (W),0,26,NA
+NRLW,NRLW 2019,Round 3,2019-09-28,5:05 PM,17:05:00,44907,24,6208,Brisbane Broncos (W),0,8,NA,New Zealand Warriors (W),10,10,NA
+NRLW,NRLW 2019,Round 3,2019-09-29,1:15 PM,13:15:00,44908,7,2293,St George Illawarra Dragons (W),16,24,NA,Sydney Roosters (W),10,16,NA
+NRLW,NRLW 2019,Grand Final,2019-10-06,4:05 PM,16:05:00,44909,20,NA,Brisbane Broncos (W),10,30,NA,St George Illawarra Dragons (W),0,6,NA
+NRLW,NRLW 2020,Round 1,2020-10-03,11:30 AM,11:30:00,44910,4,NA,Sydney Roosters (W),12,18,5,St George Illawarra Dragons (W),4,4,1
+NRLW,NRLW 2020,Round 1,2020-10-03,3:00 PM,15:00:00,44911,4,NA,Brisbane Broncos (W),16,28,NA,New Zealand Warriors (W),8,14,NA
+NRLW,NRLW 2020,Round 2,2020-10-10,12:30 PM,12:30:00,44933,940,NA,New Zealand Warriors (W),0,12,NA,Sydney Roosters (W),12,22,NA
+NRLW,NRLW 2020,Round 2,2020-10-10,4:00 PM,16:00:00,44934,940,NA,St George Illawarra Dragons (W),0,4,NA,Brisbane Broncos (W),12,18,NA
+NRLW,NRLW 2020,Round 3,2020-10-17,12:30 PM,12:30:00,44937,20,681,St George Illawarra Dragons (W),4,10,NA,New Zealand Warriors (W),8,22,NA
+NRLW,NRLW 2020,Round 3,2020-10-17,4:00 PM,16:00:00,44938,20,NA,Sydney Roosters (W),4,16,NA,Brisbane Broncos (W),12,24,NA
+NRLW,NRLW 2020,Grand Final,2020-10-25,4:05 PM,16:05:00,44945,20,9071,Brisbane Broncos (W),12,20,NA,Sydney Roosters (W),10,10,NA
+NRLW,NRLW 2021,Round 1,2022-02-27,12:00 PM,12:00:00,45777,11,2615,St George Illawarra Dragons (W),8,20,NA,Gold Coast Titans (W),0,12,NA
+NRLW,NRLW 2021,Round 1,2022-02-27,1:50 PM,13:50:00,45778,11,3847,Sydney Roosters (W),0,4,NA,Brisbane Broncos (W),10,20,NA
+NRLW,NRLW 2021,Round 1,2022-02-27,3:40 PM,15:40:00,45779,11,5019,Newcastle Knights (W),6,12,NA,Parramatta Eels (W),6,13,NA
+NRLW,NRLW 2021,Round 2,2022-03-06,12:00 PM,12:00:00,45784,21,1036,Newcastle Knights (W),0,10,7,Brisbane Broncos (W),12,28,7
+NRLW,NRLW 2021,Round 2,2022-03-06,1:50 PM,13:50:00,45785,21,1278,Sydney Roosters (W),6,16,4,Gold Coast Titans (W),16,26,8
+NRLW,NRLW 2021,Round 2,2022-03-06,3:40 PM,15:40:00,45786,21,2079,St George Illawarra Dragons (W),6,10,7,Parramatta Eels (W),0,0,7
+NRLW,NRLW 2021,Round 3,2022-03-12,12:50 PM,12:50:00,45795,24,NA,Sydney Roosters (W),10,28,7,Newcastle Knights (W),6,12,8
+NRLW,NRLW 2021,Round 3,2022-03-13,12:00 PM,12:00:00,45796,940,NA,St George Illawarra Dragons (W),6,18,8,Brisbane Broncos (W),12,22,7
+NRLW,NRLW 2021,Round 3,2022-03-13,1:45 PM,13:45:00,45797,940,NA,Parramatta Eels (W),10,24,6,Gold Coast Titans (W),10,14,6
+NRLW,NRLW 2021,Round 4,2022-03-19,NA,NA,45915,149,NA,Gold Coast Titans (W),18,28,7,Brisbane Broncos (W),20,26,4
+NRLW,NRLW 2021,Round 4,2022-03-20,NA,NA,45917,11,NA,Newcastle Knights (W),4,4,3,St George Illawarra Dragons (W),16,40,10
+NRLW,NRLW 2021,Round 4,2022-03-20,NA,NA,45916,11,NA,Parramatta Eels (W),6,18,7,Sydney Roosters (W),12,19,3
+NRLW,NRLW 2021,Round 5,2022-03-26,NA,NA,46057,23,1023,St George Illawarra Dragons (W),4,16,5,Sydney Roosters (W),0,10,5
+NRLW,NRLW 2021,Round 5,2022-03-27,NA,NA,46059,1097,NA,Brisbane Broncos (W),16,38,8,Parramatta Eels (W),4,4,4
+NRLW,NRLW 2021,Round 5,2022-03-27,NA,NA,46058,1097,NA,Gold Coast Titans (W),0,14,6,Newcastle Knights (W),6,10,5
+NRLW,NRLW 2021,Semi Final,2022-04-03,12:00 PM,12:00:00,46092,7,1734,St George Illawarra Dragons (W),10,24,12,Gold Coast Titans (W),6,18,4
+NRLW,NRLW 2021,Semi Final,2022-04-03,1:45 PM,13:45:00,46093,7,2124,Brisbane Broncos (W),16,16,3,Sydney Roosters (W),10,22,3
+NRLW,NRLW 2021,Grand Final,2022-04-10,1:30 PM,13:30:00,46102,968,NA,St George Illawarra Dragons (W),4,4,6,Sydney Roosters (W),0,16,7
+NRLW,NRLW 2022,Round 1,2022-08-20,1:00 PM,13:00:00,52924,940,26451,Parramatta Eels (W),12,16,2,Sydney Roosters (W),18,38,4
+NRLW,NRLW 2022,Round 1,2022-08-21,12:00 PM,12:00:00,52925,21,5135,St George Illawarra Dragons (W),18,26,9,Gold Coast Titans (W),6,12,5
+NRLW,NRLW 2022,Round 1,2022-08-21,6:10 PM,18:10:00,52926,11,8323,Newcastle Knights (W),16,32,8,Brisbane Broncos (W),10,14,8
+NRLW,NRLW 2022,Round 2,2022-08-27,1:10 PM,13:10:00,52953,1097,11816,Brisbane Broncos (W),0,8,6,Sydney Roosters (W),16,28,8
+NRLW,NRLW 2022,Round 2,2022-08-28,12:00 PM,12:00:00,52954,940,NA,Parramatta Eels (W),10,10,6,St George Illawarra Dragons (W),8,16,6
+NRLW,NRLW 2022,Round 2,2022-08-28,6:10 PM,18:10:00,52955,149,NA,Gold Coast Titans (W),6,12,4,Newcastle Knights (W),16,16,6
+NRLW,NRLW 2022,Round 3,2022-09-02,5:40 PM,17:40:00,53703,1096,NA,Sydney Roosters (W),6,34,6,St George Illawarra Dragons (W),6,6,4
+NRLW,NRLW 2022,Round 3,2022-09-03,1:10 PM,13:10:00,53704,968,NA,Brisbane Broncos (W),12,22,9,Gold Coast Titans (W),0,4,6
+NRLW,NRLW 2022,Round 3,2022-09-04,12:00 PM,12:00:00,53705,11,NA,Newcastle Knights (W),4,18,8,Parramatta Eels (W),6,16,4
+NRLW,NRLW 2022,Round 4,2022-09-10,1:05 PM,13:05:00,53729,251,505,Gold Coast Titans (W),18,18,8,Parramatta Eels (W),4,16,10
+NRLW,NRLW 2022,Round 4,2022-09-10,2:50 PM,14:50:00,53730,251,1229,St George Illawarra Dragons (W),12,19,6,Brisbane Broncos (W),4,18,2
+NRLW,NRLW 2022,Round 4,2022-09-11,1:10 PM,13:10:00,53731,1096,NA,Sydney Roosters (W),12,18,5,Newcastle Knights (W),0,16,2
+NRLW,NRLW 2022,Round 5,2022-09-18,12:05 PM,12:05:00,53744,26,3066,Brisbane Broncos (W),6,16,5,Parramatta Eels (W),14,28,7
+NRLW,NRLW 2022,Round 5,2022-09-18,1:55 PM,13:55:00,53745,26,4776,Gold Coast Titans (W),4,12,6,Sydney Roosters (W),28,38,6
+NRLW,NRLW 2022,Round 5,2022-09-18,3:45 PM,15:45:00,53746,26,6214,St George Illawarra Dragons (W),8,8,4,Newcastle Knights (W),14,30,4
+NRLW,NRLW 2022,Semi Final,2022-09-25,2:05 PM,14:05:00,53768,1097,NA,Newcastle Knights (W),18,30,5,St George Illawarra Dragons (W),6,6,9
+NRLW,NRLW 2022,Semi Final,2022-09-25,3:50 PM,15:50:00,53769,1097,NA,Sydney Roosters (W),4,10,5,Parramatta Eels (W),12,24,7
+NRLW,NRLW 2022,Grand Final,2022-10-02,3:55 PM,15:55:00,53776,20,NA,Newcastle Knights (W),14,32,9,Parramatta Eels (W),6,12,5
+NRLW,NRLW 2023,Round 1,2023-07-22,12:50 PM,12:50:00,57011,149,7926,Gold Coast Titans (W),4,16,6,North Queensland Cowboys (W),6,6,3
+NRLW,NRLW 2023,Round 1,2023-07-22,3:10 PM,15:10:00,57012,11,8109,Newcastle Knights (W),18,32,4,St George Illawarra Dragons (W),6,16,5
+NRLW,NRLW 2023,Round 1,2023-07-22,7:45 PM,19:45:00,57013,939,2832,Brisbane Broncos (W),18,18,6,Sydney Roosters (W),22,36,6
+NRLW,NRLW 2023,Round 1,2023-07-23,12:00 PM,12:00:00,57014,940,2095,Parramatta Eels (W),8,8,3,Wests Tigers (W),4,36,3
+NRLW,NRLW 2023,Round 1,2023-07-23,1:50 PM,13:50:00,57015,9,10634,Cronulla Sharks (W),14,28,6,Canberra Raiders (W),4,14,8
+NRLW,NRLW 2023,Round 2,2023-07-27,5:40 PM,17:40:00,57016,119,7279,Brisbane Broncos (W),10,16,4,Gold Coast Titans (W),10,17,6
+NRLW,NRLW 2023,Round 2,2023-07-29,12:45 PM,12:45:00,57017,4,8034,Canberra Raiders (W),6,24,4,Sydney Roosters (W),0,14,6
+NRLW,NRLW 2023,Round 2,2023-07-29,3:10 PM,15:10:00,57018,21,5872,St George Illawarra Dragons (W),20,38,6,Parramatta Eels (W),4,12,6
+NRLW,NRLW 2023,Round 2,2023-07-30,12:00 PM,12:00:00,57019,27,1584,Newcastle Knights (W),10,20,9,North Queensland Cowboys (W),12,31,5
+NRLW,NRLW 2023,Round 2,2023-07-30,1:50 PM,13:50:00,57020,27,2196,Wests Tigers (W),10,10,8,Cronulla Sharks (W),0,0,7
+NRLW,NRLW 2023,Round 3,2023-08-03,5:40 PM,17:40:00,57021,24,4201,Sydney Roosters (W),12,30,9,St George Illawarra Dragons (W),0,0,7
+NRLW,NRLW 2023,Round 3,2023-08-05,12:50 PM,12:50:00,57022,985,22659,North Queensland Cowboys (W),12,12,6,Brisbane Broncos (W),18,40,7
+NRLW,NRLW 2023,Round 3,2023-08-05,3:10 PM,15:10:00,57023,9,3021,Cronulla Sharks (W),8,8,8,Gold Coast Titans (W),0,10,8
+NRLW,NRLW 2023,Round 3,2023-08-06,12:03 PM,12:03:00,57024,940,23596,Parramatta Eels (W),4,4,6,Newcastle Knights (W),18,38,7
+NRLW,NRLW 2023,Round 3,2023-08-06,1:45 PM,13:45:00,57025,4,7140,Canberra Raiders (W),12,28,7,Wests Tigers (W),12,22,8
+NRLW,NRLW 2023,Round 4,2023-08-12,11:05 AM,11:05:00,57026,21,1521,St George Illawarra Dragons (W),6,18,4,Canberra Raiders (W),18,19,7
+NRLW,NRLW 2023,Round 4,2023-08-12,12:50 PM,12:50:00,57027,972,1173,North Queensland Cowboys (W),4,16,5,Wests Tigers (W),10,12,7
+NRLW,NRLW 2023,Round 4,2023-08-12,3:10 PM,15:10:00,57028,972,1811,Brisbane Broncos (W),10,22,NA,Parramatta Eels (W),6,12,5
+NRLW,NRLW 2023,Round 4,2023-08-13,12:03 PM,12:03:00,57029,9,1920,Cronulla Sharks (W),12,12,5,Sydney Roosters (W),10,36,4
+NRLW,NRLW 2023,Round 4,2023-08-13,1:50 PM,13:50:00,57030,11,12889,Newcastle Knights (W),16,22,4,Gold Coast Titans (W),4,10,7
+NRLW,NRLW 2023,Round 5,2023-08-19,11:05 AM,11:05:00,57031,985,1878,North Queensland Cowboys (W),6,12,4,Cronulla Sharks (W),24,40,8
+NRLW,NRLW 2023,Round 5,2023-08-19,12:50 PM,12:50:00,57032,940,3652,Wests Tigers (W),16,16,6,St George Illawarra Dragons (W),6,20,7
+NRLW,NRLW 2023,Round 5,2023-08-19,3:10 PM,15:10:00,57033,149,6943,Gold Coast Titans (W),4,8,6,Sydney Roosters (W),16,30,3
+NRLW,NRLW 2023,Round 5,2023-08-20,12:03 PM,12:03:00,57034,11,17043,Newcastle Knights (W),4,22,4,Brisbane Broncos (W),10,20,4
+NRLW,NRLW 2023,Round 5,2023-08-20,1:45 PM,13:45:00,57035,4,7185,Canberra Raiders (W),18,28,5,Parramatta Eels (W),6,22,6
+NRLW,NRLW 2023,Round 6,2023-08-26,11:05 AM,11:05:00,57036,23,520,Parramatta Eels (W),10,16,11,North Queensland Cowboys (W),0,12,5
+NRLW,NRLW 2023,Round 6,2023-08-26,1:15 PM,13:15:00,57037,23,1312,St George Illawarra Dragons (W),6,22,5,Gold Coast Titans (W),14,23,4
+NRLW,NRLW 2023,Round 6,2023-08-26,3:10 PM,15:10:00,57038,1096,8161,Sydney Roosters (W),28,48,4,Wests Tigers (W),10,10,6
+NRLW,NRLW 2023,Round 6,2023-08-27,12:03 PM,12:03:00,57039,972,1692,Brisbane Broncos (W),10,40,4,Canberra Raiders (W),8,8,5
+NRLW,NRLW 2023,Round 6,2023-08-27,1:45 PM,13:45:00,57040,11,19519,Newcastle Knights (W),16,22,3,Cronulla Sharks (W),0,14,6
+NRLW,NRLW 2023,Round 7,2023-09-02,11:05 AM,11:05:00,57041,4,1962,Canberra Raiders (W),10,12,6,Newcastle Knights (W),0,20,6
+NRLW,NRLW 2023,Round 7,2023-09-02,12:50 PM,12:50:00,57042,985,1478,Brisbane Broncos (W),16,32,2,Cronulla Sharks (W),10,28,8
+NRLW,NRLW 2023,Round 7,2023-09-02,3:10 PM,15:10:00,57043,985,2479,North Queensland Cowboys (W),6,16,3,St George Illawarra Dragons (W),28,48,7
+NRLW,NRLW 2023,Round 7,2023-09-03,12:03 PM,12:03:00,57044,149,4790,Gold Coast Titans (W),6,16,7,Wests Tigers (W),4,4,8
+NRLW,NRLW 2023,Round 7,2023-09-03,1:50 PM,13:50:00,57045,26,3756,Sydney Roosters (W),22,46,3,Parramatta Eels (W),2,12,6
+NRLW,NRLW 2023,Round 8,2023-09-07,7:45 PM,19:45:00,57046,9,1630,Cronulla Sharks (W),6,16,4,St George Illawarra Dragons (W),4,8,7
+NRLW,NRLW 2023,Round 8,2023-09-09,11:30 AM,11:30:00,57047,11,3634,Wests Tigers (W),4,18,11,Brisbane Broncos (W),6,22,2
+NRLW,NRLW 2023,Round 8,2023-09-09,1:30 PM,13:30:00,57048,11,3634,Newcastle Knights (W),4,20,6,Sydney Roosters (W),4,4,5
+NRLW,NRLW 2023,Round 8,2023-09-10,11:30 AM,11:30:00,57049,149,1096,North Queensland Cowboys (W),0,12,1,Canberra Raiders (W),22,34,5
+NRLW,NRLW 2023,Round 8,2023-09-10,1:30 PM,13:30:00,57050,149,2086,Gold Coast Titans (W),20,34,6,Parramatta Eels (W),6,12,4
+NRLW,NRLW 2023,Round 9,2023-09-14,7:45 PM,19:45:00,57051,7,1733,Wests Tigers (W),8,8,6,Newcastle Knights (W),6,28,6
+NRLW,NRLW 2023,Round 9,2023-09-16,6:00 PM,18:00:00,57052,23,632,Sydney Roosters (W),18,40,4,North Queensland Cowboys (W),10,16,3
+NRLW,NRLW 2023,Round 9,2023-09-16,8:10 PM,20:10:00,57053,23,1736,St George Illawarra Dragons (W),6,12,4,Brisbane Broncos (W),22,46,5
+NRLW,NRLW 2023,Round 9,2023-09-17,1:00 PM,13:00:00,57054,4,2889,Parramatta Eels (W),0,6,4,Cronulla Sharks (W),34,56,7
+NRLW,NRLW 2023,Round 9,2023-09-17,3:15 PM,15:15:00,57055,4,2889,Canberra Raiders (W),0,6,3,Gold Coast Titans (W),22,30,4
+NRLW,NRLW 2023,Semi Final,2023-09-24,2:05 PM,14:05:00,58464,11,12689,Newcastle Knights (W),18,30,5,Brisbane Broncos (W),4,24,5
+NRLW,NRLW 2023,Semi Final,2023-09-24,4:15 PM,16:15:00,58465,1096,3028,Sydney Roosters (W),0,0,4,Gold Coast Titans (W),6,12,6
+NRLW,NRLW 2023,Grand Final,2023-10-01,3:55 PM,15:55:00,58466,20,40649,Newcastle Knights (W),12,24,4,Gold Coast Titans (W),8,18,6
+NRLW,NRLW 2024,Round 1,2024-07-25,7:45 PM,19:45:00,63019,11,3921,Newcastle Knights (W),10,12,7,Sydney Roosters (W),0,10,5
+NRLW,NRLW 2024,Round 1,2024-07-27,11:00 AM,11:00:00,63020,9,1257,Cronulla Sharks (W),14,14,7,North Queensland Cowboys (W),0,0,5
+NRLW,NRLW 2024,Round 1,2024-07-27,12:45 PM,12:45:00,63021,1097,10382,Brisbane Broncos (W),4,10,3,Parramatta Eels (W),10,22,12
+NRLW,NRLW 2024,Round 1,2024-07-28,12:00 PM,12:00:00,63022,21,10728,St George Illawarra Dragons (W),0,10,7,Gold Coast Titans (W),10,18,5
+NRLW,NRLW 2024,Round 1,2024-07-28,1:45 PM,13:45:00,63023,19,1506,Wests Tigers (W),6,12,6,Canberra Raiders (W),28,32,3
+NRLW,NRLW 2024,Round 2,2024-08-03,11:00 AM,11:00:00,63024,4,1791,Canberra Raiders (W),12,20,6,Newcastle Knights (W),10,26,4
+NRLW,NRLW 2024,Round 2,2024-08-03,12:45 PM,12:45:00,63025,149,11105,Gold Coast Titans (W),16,28,3,Wests Tigers (W),12,12,6
+NRLW,NRLW 2024,Round 2,2024-08-04,12:00 PM,12:00:00,63026,1096,1166,Parramatta Eels (W),10,16,7,Cronulla Sharks (W),6,18,4
+NRLW,NRLW 2024,Round 2,2024-08-04,1:45 PM,13:45:00,63027,1096,2899,Sydney Roosters (W),16,28,7,Brisbane Broncos (W),6,12,3
+NRLW,NRLW 2024,Round 2,2024-08-04,6:10 PM,18:10:00,63028,985,2427,North Queensland Cowboys (W),22,38,2,St George Illawarra Dragons (W),12,34,8
+NRLW,NRLW 2024,Round 3,2024-08-10,11:00 AM,11:00:00,63033,26,1898,Sydney Roosters (W),0,20,6,Wests Tigers (W),4,4,10
+NRLW,NRLW 2024,Round 3,2024-08-10,12:45 PM,12:45:00,63032,4,5831,Canberra Raiders (W),8,12,9,Cronulla Sharks (W),0,24,6
+NRLW,NRLW 2024,Round 3,2024-08-11,12:00 PM,12:00:00,63029,972,1393,North Queensland Cowboys (W),6,6,5,Parramatta Eels (W),12,20,7
+NRLW,NRLW 2024,Round 3,2024-08-11,1:45 PM,13:45:00,63030,972,1788,Brisbane Broncos (W),22,44,5,Gold Coast Titans (W),0,4,5
+NRLW,NRLW 2024,Round 3,2024-08-11,6:10 PM,18:10:00,63031,11,9479,Newcastle Knights (W),10,10,7,St George Illawarra Dragons (W),10,18,7
+NRLW,NRLW 2024,Round 4,2024-08-17,11:00 AM,11:00:00,63034,972,NA,Brisbane Broncos (W),12,28,7,Canberra Raiders (W),6,22,5
+NRLW,NRLW 2024,Round 4,2024-08-17,12:45 PM,12:45:00,63035,985,1458,North Queensland Cowboys (W),10,11,8,Gold Coast Titans (W),4,10,10
+NRLW,NRLW 2024,Round 4,2024-08-18,12:00 PM,12:00:00,63036,21,NA,St George Illawarra Dragons (W),4,8,7,Sydney Roosters (W),18,28,7
+NRLW,NRLW 2024,Round 4,2024-08-18,1:45 PM,13:45:00,63037,9,NA,Cronulla Sharks (W),6,14,4,Newcastle Knights (W),8,12,7
+NRLW,NRLW 2024,Round 4,2024-08-18,6:10 PM,18:10:00,63038,19,NA,Wests Tigers (W),6,10,4,Parramatta Eels (W),6,12,7
+NRLW,NRLW 2024,Round 5,2024-08-24,11:40 AM,11:40:00,63039,1293,NA,Parramatta Eels (W),4,16,7,Newcastle Knights (W),20,36,9
+NRLW,NRLW 2024,Round 5,2024-08-24,12:45 PM,12:45:00,63040,4,4177,Canberra Raiders (W),6,18,8,North Queensland Cowboys (W),18,28,5
+NRLW,NRLW 2024,Round 5,2024-08-25,12:00 PM,12:00:00,63041,149,NA,Gold Coast Titans (W),8,26,7,Sydney Roosters (W),0,6,8
+NRLW,NRLW 2024,Round 5,2024-08-25,1:45 PM,13:45:00,63042,7,1022,Wests Tigers (W),14,14,5,Brisbane Broncos (W),6,44,6
+NRLW,NRLW 2024,Round 5,2024-08-25,6:10 PM,18:10:00,63043,21,3741,St George Illawarra Dragons (W),4,4,7,Cronulla Sharks (W),12,28,7
+NRLW,NRLW 2024,Round 6,2024-08-31,11:00 AM,11:00:00,63044,149,NA,Gold Coast Titans (W),6,6,4,Cronulla Sharks (W),10,22,2
+NRLW,NRLW 2024,Round 6,2024-08-31,12:45 PM,12:45:00,63045,940,NA,Parramatta Eels (W),8,14,3,St George Illawarra Dragons (W),14,42,5
+NRLW,NRLW 2024,Round 6,2024-09-01,12:00 PM,12:00:00,63046,11,NA,Newcastle Knights (W),26,34,10,Wests Tigers (W),0,6,5
+NRLW,NRLW 2024,Round 6,2024-09-01,1:45 PM,13:45:00,63047,972,NA,Brisbane Broncos (W),18,38,3,North Queensland Cowboys (W),12,12,4
+NRLW,NRLW 2024,Round 6,2024-09-01,6:30 PM,18:30:00,63048,1096,NA,Sydney Roosters (W),16,34,9,Canberra Raiders (W),10,20,5
+NRLW,NRLW 2024,Round 7,2024-09-07,11:00 AM,11:00:00,63053,985,1314,North Queensland Cowboys (W),12,24,3,Wests Tigers (W),4,22,5
+NRLW,NRLW 2024,Round 7,2024-09-07,12:45 PM,12:45:00,63049,23,5570,St George Illawarra Dragons (W),16,34,5,Canberra Raiders (W),16,38,5
+NRLW,NRLW 2024,Round 7,2024-09-08,12:00 PM,12:00:00,63050,9,1901,Cronulla Sharks (W),0,0,6,Sydney Roosters (W),22,40,4
+NRLW,NRLW 2024,Round 7,2024-09-08,1:45 PM,13:45:00,63051,1293,734,Parramatta Eels (W),12,24,5,Gold Coast Titans (W),8,14,9
+NRLW,NRLW 2024,Round 7,2024-09-08,6:10 PM,18:10:00,63052,11,NA,Newcastle Knights (W),12,24,3,Brisbane Broncos (W),4,32,3
+NRLW,NRLW 2024,Round 8,2024-09-12,7:45 PM,19:45:00,63054,7,506,Wests Tigers (W),14,16,5,St George Illawarra Dragons (W),0,14,7
+NRLW,NRLW 2024,Round 8,2024-09-14,12:00 PM,12:00:00,63055,149,NA,Brisbane Broncos (W),10,20,7,Cronulla Sharks (W),6,16,3
+NRLW,NRLW 2024,Round 8,2024-09-14,1:45 PM,13:45:00,63056,149,2219,Gold Coast Titans (W),0,10,2,Newcastle Knights (W),34,46,5
+NRLW,NRLW 2024,Round 8,2024-09-15,12:00 PM,12:00:00,63057,26,2927,Sydney Roosters (W),18,24,4,North Queensland Cowboys (W),12,12,5
+NRLW,NRLW 2024,Round 8,2024-09-15,1:45 PM,13:45:00,63058,4,1928,Canberra Raiders (W),0,16,4,Parramatta Eels (W),12,18,7
+NRLW,NRLW 2024,Round 9,2024-09-19,7:45 PM,19:45:00,63059,9,NA,Cronulla Sharks (W),6,10,5,Wests Tigers (W),6,12,8
+NRLW,NRLW 2024,Round 9,2024-09-21,1:30 PM,13:30:00,63060,985,1224,St George Illawarra Dragons (W),10,14,2,Brisbane Broncos (W),20,44,5
+NRLW,NRLW 2024,Round 9,2024-09-21,3:15 PM,15:15:00,63061,985,NA,North Queensland Cowboys (W),0,6,4,Newcastle Knights (W),18,38,7
+NRLW,NRLW 2024,Round 9,2024-09-22,1:30 PM,13:30:00,63062,940,NA,Canberra Raiders (W),10,16,4,Gold Coast Titans (W),4,12,6
+NRLW,NRLW 2024,Round 9,2024-09-22,3:15 PM,15:15:00,63063,940,1425,Parramatta Eels (W),6,18,4,Sydney Roosters (W),18,32,4
+NRLW,NRLW 2024,Semi Final,2024-09-29,2:05 PM,14:05:00,103141,972,2327,Brisbane Broncos (W),0,0,3,Cronulla Sharks (W),6,14,5
+NRLW,NRLW 2024,Semi Final,2024-09-29,4:15 PM,16:15:00,103142,1096,2271,Sydney Roosters (W),22,25,6,Newcastle Knights (W),4,16,7
+NRLW,NRLW 2024,Grand Final,2024-10-06,3:55 PM,15:55:00,103148,20,NA,Sydney Roosters (W),24,32,4,Cronulla Sharks (W),0,28,2

@@ -1,0 +1,213 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1958,Round 1,"Saturday, 5th April, 1958",3:00pm (local time),11483,24,"22,415","Manly Warringah
+SEA EAGLES",6,21,,"St George
+DRAGONS",10,15,
+0,NSWRFL 1958,Round 1,"Saturday, 5th April, 1958",3:00pm (local time),11484,111,"5,647","Parramatta
+EELS",2,9,,CANTERBURY BANKSTOWN,2,17,
+0,NSWRFL 1958,Round 1,"Monday, 7th April, 1958",3:00pm (local time),11487,76,"6,996",NEWTOWN,16,23,,EASTERN SUBURBS,2,4,
+0,NSWRFL 1958,Round 1,"Monday, 7th April, 1958",3:00pm (local time),11486,25,"13,079",NORTH SYDNEY,9,19,,"Balmain
+TIGERS",7,22,
+0,NSWRFL 1958,Round 1,"Monday, 7th April, 1958",3:00pm (local time),11485,24,"21,754","South Sydney
+RABBITOHS",6,16,,"Western Suburbs
+MAGPIES",10,24,
+0,NSWRFL 1958,Round 2,"Saturday, 12th April, 1958",3:00pm (local time),11489,24,"20,360","Balmain
+TIGERS",13,21,,"Manly Warringah
+SEA EAGLES",6,15,
+0,NSWRFL 1958,Round 2,"Saturday, 12th April, 1958",3:00pm (local time),11490,27,"5,358",CANTERBURY BANKSTOWN,3,8,,NEWTOWN,7,12,
+0,NSWRFL 1958,Round 2,"Saturday, 12th April, 1958",3:00pm (local time),11491,111,"5,316","Parramatta
+EELS",4,17,,NORTH SYDNEY,14,39,
+0,NSWRFL 1958,Round 2,"Saturday, 12th April, 1958",3:00pm (local time),11488,23,"13,226","St George
+DRAGONS",19,36,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1958,Round 2,"Sunday, 13th April, 1958",3:00pm (local time),11492,109,"20,422",EASTERN SUBURBS,5,7,,"South Sydney
+RABBITOHS",4,16,
+0,NSWRFL 1958,Round 3,"Saturday, 19th April, 1958",3:00pm (local time),11494,24,"27,374","Balmain
+TIGERS",2,5,,"St George
+DRAGONS",5,26,
+0,NSWRFL 1958,Round 3,"Saturday, 19th April, 1958",3:00pm (local time),11493,5,"3,849","Manly Warringah
+SEA EAGLES",10,41,,"Parramatta
+EELS",9,14,
+0,NSWRFL 1958,Round 3,"Saturday, 19th April, 1958",3:00pm (local time),11495,25,"9,450",NORTH SYDNEY,7,17,,NEWTOWN,10,23,
+0,NSWRFL 1958,Round 3,"Saturday, 19th April, 1958",3:00pm (local time),11496,112,"7,410","Western Suburbs
+MAGPIES",5,17,,EASTERN SUBURBS,7,10,
+0,NSWRFL 1958,Round 3,"Sunday, 20th April, 1958",3:00pm (local time),11497,44,"14,525","South Sydney
+RABBITOHS",11,25,,CANTERBURY BANKSTOWN,8,10,
+0,NSWRFL 1958,Round 4,"Friday, 25th April, 1958",3:00pm (local time),11498,24,"24,907",NEWTOWN,2,7,,"Manly Warringah
+SEA EAGLES",6,12,
+0,NSWRFL 1958,Round 4,"Friday, 25th April, 1958",3:00pm (local time),11499,111,"5,853","Parramatta
+EELS",5,5,,"Balmain
+TIGERS",5,7,
+0,NSWRFL 1958,Round 4,"Saturday, 26th April, 1958",3:00pm (local time),11502,23,"7,118","St George
+DRAGONS",10,28,19,EASTERN SUBURBS,0,3,23
+0,NSWRFL 1958,Round 4,"Saturday, 26th April, 1958",3:00pm (local time),11500,24,"25,571","South Sydney
+RABBITOHS",2,5,23,NORTH SYDNEY,17,20,7
+0,NSWRFL 1958,Round 4,"Saturday, 26th April, 1958",3:00pm (local time),11501,112,"6,758","Western Suburbs
+MAGPIES",6,15,,CANTERBURY BANKSTOWN,12,12,
+0,NSWRFL 1958,Round 5,"Saturday, 3rd May, 1958",3:00pm (local time),11504,7,"10,213","Balmain
+TIGERS",4,14,,NEWTOWN,8,13,
+0,NSWRFL 1958,Round 5,"Saturday, 3rd May, 1958",3:00pm (local time),11505,27,"3,690",CANTERBURY BANKSTOWN,4,16,,EASTERN SUBURBS,16,22,
+0,NSWRFL 1958,Round 5,"Saturday, 3rd May, 1958",3:00pm (local time),11503,5,"7,257","Manly Warringah
+SEA EAGLES",22,45,,"South Sydney
+RABBITOHS",6,16,
+0,NSWRFL 1958,Round 5,"Saturday, 3rd May, 1958",3:00pm (local time),11507,23,"5,267","St George
+DRAGONS",22,45,,"Parramatta
+EELS",9,11,
+0,NSWRFL 1958,Round 5,"Saturday, 3rd May, 1958",3:00pm (local time),11506,24,"26,793","Western Suburbs
+MAGPIES",29,52,,NORTH SYDNEY,2,4,
+0,NSWRFL 1958,Round 6,"Sunday, 18th May, 1958",3:00pm (local time),11510,7,"13,662","Balmain
+TIGERS",18,23,,"South Sydney
+RABBITOHS",2,14,
+0,NSWRFL 1958,Round 6,"Sunday, 18th May, 1958",3:00pm (local time),11511,27,"7,195",CANTERBURY BANKSTOWN,4,6,,"St George
+DRAGONS",5,10,
+0,NSWRFL 1958,Round 6,"Sunday, 18th May, 1958",3:00pm (local time),11512,109,"9,768",EASTERN SUBURBS,10,27,,NORTH SYDNEY,9,11,
+0,NSWRFL 1958,Round 6,"Sunday, 18th May, 1958",3:00pm (local time),11508,5,"10,908","Manly Warringah
+SEA EAGLES",11,21,,"Western Suburbs
+MAGPIES",12,20,
+0,NSWRFL 1958,Round 6,"Sunday, 18th May, 1958",3:00pm (local time),11509,76,"4,001",NEWTOWN,12,20,,"Parramatta
+EELS",4,15,
+0,NSWRFL 1958,Round 7,"Sunday, 25th May, 1958",3:00pm (local time),11514,7,"15,621","Balmain
+TIGERS",7,7,,"Western Suburbs
+MAGPIES",7,20,
+0,NSWRFL 1958,Round 7,"Sunday, 25th May, 1958",3:00pm (local time),11515,109,"10,922",EASTERN SUBURBS,16,26,,"Manly Warringah
+SEA EAGLES",0,7,
+0,NSWRFL 1958,Round 7,"Sunday, 25th May, 1958",3:00pm (local time),11513,76,"12,750",NEWTOWN,6,13,,"St George
+DRAGONS",11,15,
+0,NSWRFL 1958,Round 7,"Sunday, 25th May, 1958",3:00pm (local time),11517,25,"5,823",NORTH SYDNEY,13,28,,CANTERBURY BANKSTOWN,8,22,
+0,NSWRFL 1958,Round 7,"Sunday, 25th May, 1958",3:00pm (local time),11516,44,"7,224","South Sydney
+RABBITOHS",7,19,,"Parramatta
+EELS",7,15,
+0,NSWRFL 1958,Round 8,"Sunday, 8th June, 1958",3:00pm (local time),11520,7,"8,300","Balmain
+TIGERS",8,11,,EASTERN SUBURBS,2,4,
+0,NSWRFL 1958,Round 8,"Sunday, 8th June, 1958",3:00pm (local time),11522,5,"3,875","Manly Warringah
+SEA EAGLES",4,8,,CANTERBURY BANKSTOWN,0,8,
+0,NSWRFL 1958,Round 8,"Sunday, 8th June, 1958",3:00pm (local time),11518,25,"8,237",NORTH SYDNEY,5,5,,"St George
+DRAGONS",2,20,
+0,NSWRFL 1958,Round 8,"Sunday, 8th June, 1958",3:00pm (local time),11519,111,"5,609","Parramatta
+EELS",7,11,,"Western Suburbs
+MAGPIES",7,20,
+0,NSWRFL 1958,Round 8,"Sunday, 8th June, 1958",3:00pm (local time),11521,44,"14,500","South Sydney
+RABBITOHS",11,11,,NEWTOWN,14,29,
+0,NSWRFL 1958,Round 9,"Monday, 16th June, 1958",3:00pm (local time),11526,27,"5,317",CANTERBURY BANKSTOWN,0,2,,"Balmain
+TIGERS",5,9,
+0,NSWRFL 1958,Round 9,"Monday, 16th June, 1958",3:00pm (local time),11523,24,"11,365",NEWTOWN,5,20,,"Western Suburbs
+MAGPIES",5,10,
+0,NSWRFL 1958,Round 9,"Monday, 16th June, 1958",3:00pm (local time),11525,25,"5,564",NORTH SYDNEY,4,12,,"Manly Warringah
+SEA EAGLES",7,7,
+0,NSWRFL 1958,Round 9,"Monday, 16th June, 1958",3:00pm (local time),11527,111,"3,828","Parramatta
+EELS",9,11,,EASTERN SUBURBS,5,7,
+0,NSWRFL 1958,Round 9,"Monday, 16th June, 1958",3:00pm (local time),11524,23,"8,333","St George
+DRAGONS",10,18,,"South Sydney
+RABBITOHS",9,14,
+0,NSWRFL 1958,Round 10,"Saturday, 21st June, 1958",3:00pm (local time),11528,109,"13,080","Balmain
+TIGERS",3,10,,NORTH SYDNEY,12,18,
+0,NSWRFL 1958,Round 10,"Saturday, 21st June, 1958",3:00pm (local time),11529,27,"2,560",CANTERBURY BANKSTOWN,5,12,,"Parramatta
+EELS",4,8,
+0,NSWRFL 1958,Round 10,"Saturday, 21st June, 1958",3:00pm (local time),11530,23,"8,725","St George
+DRAGONS",7,24,,"Manly Warringah
+SEA EAGLES",2,7,
+0,NSWRFL 1958,Round 10,"Saturday, 21st June, 1958",3:00pm (local time),11531,112,"9,100","Western Suburbs
+MAGPIES",27,53,,"South Sydney
+RABBITOHS",3,8,
+0,NSWRFL 1958,Round 10,"Sunday, 22nd June, 1958",3:00pm (local time),11532,109,"13,768",EASTERN SUBURBS,7,16,,NEWTOWN,7,11,
+0,NSWRFL 1958,Round 11,"Saturday, 28th June, 1958",3:00pm (local time),11535,5,"3,000","Manly Warringah
+SEA EAGLES",11,19,,"Balmain
+TIGERS",0,0,
+0,NSWRFL 1958,Round 11,"Saturday, 28th June, 1958",3:00pm (local time),11536,76,"1,548",NEWTOWN,6,6,,CANTERBURY BANKSTOWN,0,9,
+0,NSWRFL 1958,Round 11,"Saturday, 28th June, 1958",3:00pm (local time),11533,25,"2,701",NORTH SYDNEY,5,13,,"Parramatta
+EELS",0,3,
+0,NSWRFL 1958,Round 11,"Saturday, 28th June, 1958",3:00pm (local time),11534,109,"8,081","Western Suburbs
+MAGPIES",7,18,24,"St George
+DRAGONS",14,24,14
+0,NSWRFL 1958,Round 12,"Saturday, 5th July, 1958",3:00pm (local time),11539,27,"4,926",CANTERBURY BANKSTOWN,0,10,,"South Sydney
+RABBITOHS",9,9,
+0,NSWRFL 1958,Round 12,"Saturday, 5th July, 1958",3:00pm (local time),11538,76,"5,033",NEWTOWN,8,10,,NORTH SYDNEY,7,11,
+0,NSWRFL 1958,Round 12,"Saturday, 5th July, 1958",3:00pm (local time),11540,111,"3,075","Parramatta
+EELS",4,9,,"Manly Warringah
+SEA EAGLES",10,21,
+0,NSWRFL 1958,Round 12,"Saturday, 5th July, 1958",3:00pm (local time),11541,24,"15,448","St George
+DRAGONS",24,42,,"Balmain
+TIGERS",0,13,
+0,NSWRFL 1958,Round 12,"Sunday, 6th July, 1958",3:00pm (local time),11542,109,"13,760",EASTERN SUBURBS,7,14,,"Western Suburbs
+MAGPIES",2,6,
+0,NSWRFL 1958,Round 13,"Saturday, 12th July, 1958",3:00pm (local time),11545,7,"3,686","Balmain
+TIGERS",12,34,,"Parramatta
+EELS",7,10,
+0,NSWRFL 1958,Round 13,"Saturday, 12th July, 1958",3:00pm (local time),11546,27,"2,049",CANTERBURY BANKSTOWN,8,12,,"Western Suburbs
+MAGPIES",4,14,
+0,NSWRFL 1958,Round 13,"Saturday, 12th July, 1958",3:00pm (local time),11547,24,"20,537",EASTERN SUBURBS,6,6,,"St George
+DRAGONS",4,9,
+0,NSWRFL 1958,Round 13,"Saturday, 12th July, 1958",3:00pm (local time),11543,5,"4,303","Manly Warringah
+SEA EAGLES",5,9,,NEWTOWN,10,17,
+0,NSWRFL 1958,Round 13,"Saturday, 12th July, 1958",3:00pm (local time),11544,25,"7,517",NORTH SYDNEY,8,29,,"South Sydney
+RABBITOHS",8,11,
+0,NSWRFL 1958,Round 14,"Sunday, 20th July, 1958",3:00pm (local time),11552,109,"7,685",EASTERN SUBURBS,12,23,,CANTERBURY BANKSTOWN,7,16,
+0,NSWRFL 1958,Round 14,"Sunday, 20th July, 1958",3:00pm (local time),11551,76,"8,390",NEWTOWN,12,14,,"Balmain
+TIGERS",10,12,
+0,NSWRFL 1958,Round 14,"Sunday, 20th July, 1958",3:00pm (local time),11548,25,"10,353",NORTH SYDNEY,2,16,,"Western Suburbs
+MAGPIES",17,17,
+0,NSWRFL 1958,Round 14,"Sunday, 20th July, 1958",3:00pm (local time),11549,111,"3,868","Parramatta
+EELS",10,19,,"St George
+DRAGONS",8,18,
+0,NSWRFL 1958,Round 14,"Sunday, 20th July, 1958",3:00pm (local time),11550,44,"7,463","South Sydney
+RABBITOHS",4,10,,"Manly Warringah
+SEA EAGLES",12,17,
+0,NSWRFL 1958,Round 15,"Saturday, 26th July, 1958",3:00pm (local time),11557,25,"8,319",NORTH SYDNEY,2,9,,EASTERN SUBURBS,5,13,
+0,NSWRFL 1958,Round 15,"Saturday, 26th July, 1958",3:00pm (local time),11554,111,"4,476","Parramatta
+EELS",5,5,,NEWTOWN,12,31,
+0,NSWRFL 1958,Round 15,"Saturday, 26th July, 1958",3:00pm (local time),11556,23,"5,280","St George
+DRAGONS",5,22,,CANTERBURY BANKSTOWN,4,11,
+0,NSWRFL 1958,Round 15,"Saturday, 26th July, 1958",3:00pm (local time),11555,44,"6,870","South Sydney
+RABBITOHS",5,12,,"Balmain
+TIGERS",5,10,
+0,NSWRFL 1958,Round 15,"Saturday, 26th July, 1958",3:00pm (local time),11553,24,"13,949","Western Suburbs
+MAGPIES",10,34,,"Manly Warringah
+SEA EAGLES",3,7,
+0,NSWRFL 1958,Round 11,"Tuesday, 29th July, 1958",3:00pm (local time),11537,44,"9,939","South Sydney
+RABBITOHS",12,23,,EASTERN SUBURBS,7,9,
+0,NSWRFL 1958,Round 16,"Saturday, 2nd August, 1958",3:00pm (local time),11559,27,"4,095",CANTERBURY BANKSTOWN,6,18,,NORTH SYDNEY,12,19,
+0,NSWRFL 1958,Round 16,"Saturday, 2nd August, 1958",3:00pm (local time),11558,111,"4,795","Parramatta
+EELS",7,17,,"South Sydney
+RABBITOHS",6,10,
+0,NSWRFL 1958,Round 16,"Saturday, 2nd August, 1958",3:00pm (local time),11560,24,"19,250","St George
+DRAGONS",19,50,,NEWTOWN,4,19,
+0,NSWRFL 1958,Round 16,"Saturday, 2nd August, 1958",3:00pm (local time),11561,112,"7,028","Western Suburbs
+MAGPIES",7,23,,"Balmain
+TIGERS",10,15,
+0,NSWRFL 1958,Round 16,"Sunday, 3rd August, 1958",3:00pm (local time),11562,5,"7,134","Manly Warringah
+SEA EAGLES",4,12,,EASTERN SUBURBS,2,6,
+0,NSWRFL 1958,Round 17,"Saturday, 9th August, 1958",3:00pm (local time),11564,27,"3,764",CANTERBURY BANKSTOWN,4,10,9,"Manly Warringah
+SEA EAGLES",7,15,19
+0,NSWRFL 1958,Round 17,"Saturday, 9th August, 1958",3:00pm (local time),11563,76,"4,337",NEWTOWN,6,15,,"South Sydney
+RABBITOHS",10,23,
+0,NSWRFL 1958,Round 17,"Saturday, 9th August, 1958",3:00pm (local time),11565,24,"17,707","St George
+DRAGONS",10,38,,NORTH SYDNEY,5,7,
+0,NSWRFL 1958,Round 17,"Saturday, 9th August, 1958",3:00pm (local time),11566,112,"4,711","Western Suburbs
+MAGPIES",11,20,,"Parramatta
+EELS",14,16,
+0,NSWRFL 1958,Round 17,"Sunday, 10th August, 1958",3:00pm (local time),11567,109,"11,965",EASTERN SUBURBS,2,9,,"Balmain
+TIGERS",7,19,
+0,NSWRFL 1958,Round 18,"Saturday, 16th August, 1958",3:00pm (local time),11569,7,"5,660","Balmain
+TIGERS",8,22,,CANTERBURY BANKSTOWN,5,8,
+0,NSWRFL 1958,Round 18,"Saturday, 16th August, 1958",3:00pm (local time),11568,5,"6,362","Manly Warringah
+SEA EAGLES",5,7,,NORTH SYDNEY,2,2,
+0,NSWRFL 1958,Round 18,"Saturday, 16th August, 1958",3:00pm (local time),11571,24,"16,216","South Sydney
+RABBITOHS",4,4,,"St George
+DRAGONS",22,40,
+0,NSWRFL 1958,Round 18,"Saturday, 16th August, 1958",3:00pm (local time),11570,112,"7,214","Western Suburbs
+MAGPIES",6,11,,NEWTOWN,9,14,
+0,NSWRFL 1958,Round 18,"Sunday, 17th August, 1958",3:00pm (local time),11572,109,"8,448",EASTERN SUBURBS,10,38,,"Parramatta
+EELS",5,7,
+0,NSWRFL 1958,Playoff,"Tuesday, 19th August, 1958",3:00pm (local time),11573,44,"10,430","Balmain
+TIGERS",9,15,,NEWTOWN,2,4,
+0,NSWRFL 1958,Minor Semi,"Saturday, 23rd August, 1958",3:00pm (local time),11574,24,"27,985","Balmain
+TIGERS",10,22,,"Manly Warringah
+SEA EAGLES",5,10,
+0,NSWRFL 1958,Major Semi,"Saturday, 30th August, 1958",3:00pm (local time),11575,24,"38,857","Western Suburbs
+MAGPIES",19,34,13,"St George
+DRAGONS",0,10,16
+0,NSWRFL 1958,Prelim Final,"Saturday, 6th September, 1958",3:00pm (local time),11576,24,"39,132","St George
+DRAGONS",18,26,9,"Balmain
+TIGERS",4,21,20
+0,NSWRFL 1958,Grand Final,"Saturday, 13th September, 1958",3:00pm (local time),11577,24,"62,283","St George
+DRAGONS",10,20,7,"Western Suburbs
+MAGPIES",5,9,18

@@ -1,0 +1,121 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1939,Round 1,"Saturday, 22nd April, 1939",3:15pm (local time),9970,7,,"Balmain
+TIGERS",3,13,,NEWTOWN,7,9,
+0,NSWRFL 1939,Round 1,"Saturday, 22nd April, 1939",3:15pm (local time),9972,24,"10,000",EASTERN SUBURBS,7,20,,CANTERBURY BANKSTOWN,7,9,
+0,NSWRFL 1939,Round 1,"Saturday, 22nd April, 1939",3:15pm (local time),9969,154,,"St George
+DRAGONS",16,33,,"South Sydney
+RABBITOHS",2,15,
+0,NSWRFL 1939,Round 1,"Saturday, 22nd April, 1939",3:15pm (local time),9971,112,"2,000","Western Suburbs
+MAGPIES",0,8,,NORTH SYDNEY,10,15,
+0,NSWRFL 1939,Round 2,"Tuesday, 25th April, 1939",3:15pm (local time),9975,27,"6,500",CANTERBURY BANKSTOWN,0,10,,"Balmain
+TIGERS",17,30,
+0,NSWRFL 1939,Round 2,"Tuesday, 25th April, 1939",3:15pm (local time),9973,76,"6,000",NEWTOWN,10,10,,"St George
+DRAGONS",8,32,
+0,NSWRFL 1939,Round 2,"Tuesday, 25th April, 1939",3:15pm (local time),9976,24,"12,000",NORTH SYDNEY,2,7,,EASTERN SUBURBS,11,27,
+0,NSWRFL 1939,Round 2,"Tuesday, 25th April, 1939",3:15pm (local time),9974,109,"3,000","South Sydney
+RABBITOHS",8,8,,"Western Suburbs
+MAGPIES",2,6,
+0,NSWRFL 1939,Round 3,"Saturday, 29th April, 1939",3:15pm (local time),9978,7,"5,000","Balmain
+TIGERS",12,34,,NORTH SYDNEY,0,0,
+0,NSWRFL 1939,Round 3,"Saturday, 29th April, 1939",3:15pm (local time),9979,24,"9,000",CANTERBURY BANKSTOWN,6,17,,"St George
+DRAGONS",2,7,
+0,NSWRFL 1939,Round 3,"Saturday, 29th April, 1939",3:15pm (local time),9980,109,,EASTERN SUBURBS,6,9,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1939,Round 3,"Saturday, 29th April, 1939",3:15pm (local time),9977,76,"6,000",NEWTOWN,10,2,,"South Sydney
+RABBITOHS",8,24,
+0,NSWRFL 1939,Round 4,"Saturday, 6th May, 1939",3:15pm (local time),9982,27,"3,000",CANTERBURY BANKSTOWN,6,14,,NEWTOWN,5,5,
+0,NSWRFL 1939,Round 4,"Saturday, 6th May, 1939",3:15pm (local time),9983,24,"8,000",EASTERN SUBURBS,0,0,,"South Sydney
+RABBITOHS",7,12,
+0,NSWRFL 1939,Round 4,"Saturday, 6th May, 1939",3:15pm (local time),9981,25,,NORTH SYDNEY,4,4,,"St George
+DRAGONS",0,10,
+0,NSWRFL 1939,Round 4,"Saturday, 6th May, 1939",3:15pm (local time),9984,112,,"Western Suburbs
+MAGPIES",7,10,,"Balmain
+TIGERS",8,15,
+0,NSWRFL 1939,Round 5,"Saturday, 13th May, 1939",3:15pm (local time),9986,24,"9,000","Balmain
+TIGERS",5,16,,EASTERN SUBURBS,4,7,
+0,NSWRFL 1939,Round 5,"Saturday, 13th May, 1939",3:15pm (local time),9987,25,,NORTH SYDNEY,5,13,,NEWTOWN,5,7,
+0,NSWRFL 1939,Round 5,"Saturday, 13th May, 1939",3:15pm (local time),9985,154,,"St George
+DRAGONS",13,26,,"Western Suburbs
+MAGPIES",8,8,
+0,NSWRFL 1939,Round 5,"Saturday, 13th May, 1939",3:15pm (local time),9988,109,"6,000","South Sydney
+RABBITOHS",4,4,,CANTERBURY BANKSTOWN,2,9,
+0,NSWRFL 1939,Round 6,"Saturday, 20th May, 1939",3:15pm (local time),9990,27,"4,090",CANTERBURY BANKSTOWN,3,11,,NORTH SYDNEY,7,7,
+0,NSWRFL 1939,Round 6,"Saturday, 20th May, 1939",3:15pm (local time),9989,76,,NEWTOWN,10,10,,"Western Suburbs
+MAGPIES",5,18,
+0,NSWRFL 1939,Round 6,"Saturday, 20th May, 1939",3:15pm (local time),9992,154,"6,000","St George
+DRAGONS",14,32,,EASTERN SUBURBS,0,5,
+0,NSWRFL 1939,Round 6,"Saturday, 20th May, 1939",3:15pm (local time),9991,24,"18,743","South Sydney
+RABBITOHS",10,13,,"Balmain
+TIGERS",3,11,
+0,NSWRFL 1939,Round 7,"Saturday, 27th May, 1939",3:15pm (local time),9994,24,"24,037","Balmain
+TIGERS",12,23,,"St George
+DRAGONS",2,5,
+0,NSWRFL 1939,Round 7,"Saturday, 27th May, 1939",3:15pm (local time),9995,109,,EASTERN SUBURBS,14,27,,NEWTOWN,4,4,
+0,NSWRFL 1939,Round 7,"Saturday, 27th May, 1939",3:15pm (local time),9993,25,"5,500",NORTH SYDNEY,3,12,,"South Sydney
+RABBITOHS",8,26,
+0,NSWRFL 1939,Round 7,"Saturday, 27th May, 1939",3:15pm (local time),9996,112,"4,000","Western Suburbs
+MAGPIES",6,8,,CANTERBURY BANKSTOWN,5,19,
+0,NSWRFL 1939,Round 8,"Saturday, 17th June, 1939",3:15pm (local time),9998,27,,CANTERBURY BANKSTOWN,14,21,,EASTERN SUBURBS,2,8,
+0,NSWRFL 1939,Round 8,"Saturday, 17th June, 1939",3:15pm (local time),10000,76,,NEWTOWN,3,3,,"Balmain
+TIGERS",11,39,
+0,NSWRFL 1939,Round 8,"Saturday, 17th June, 1939",3:15pm (local time),9997,25,,NORTH SYDNEY,3,8,,"Western Suburbs
+MAGPIES",8,8,
+0,NSWRFL 1939,Round 8,"Saturday, 17th June, 1939",3:15pm (local time),9999,109,"8,000","South Sydney
+RABBITOHS",3,8,,"St George
+DRAGONS",2,21,
+0,NSWRFL 1939,Round 9,"Saturday, 24th June, 1939",3:15pm (local time),10001,24,"15,690","Balmain
+TIGERS",3,3,,CANTERBURY BANKSTOWN,0,18,
+0,NSWRFL 1939,Round 9,"Saturday, 24th June, 1939",3:15pm (local time),10002,109,"1,110",EASTERN SUBURBS,14,22,,NORTH SYDNEY,13,18,
+0,NSWRFL 1939,Round 9,"Saturday, 24th June, 1939",3:15pm (local time),10003,154,,"St George
+DRAGONS",10,26,,NEWTOWN,2,14,
+0,NSWRFL 1939,Round 9,"Saturday, 24th June, 1939",3:15pm (local time),10004,112,,"Western Suburbs
+MAGPIES",2,19,,"South Sydney
+RABBITOHS",8,8,
+0,NSWRFL 1939,Round 10,"Saturday, 1st July, 1939",3:15pm (local time),10006,25,,NORTH SYDNEY,0,7,,"Balmain
+TIGERS",5,7,
+0,NSWRFL 1939,Round 10,"Saturday, 1st July, 1939",3:15pm (local time),10007,109,"11,875","St George
+DRAGONS",17,20,,CANTERBURY BANKSTOWN,0,10,
+0,NSWRFL 1939,Round 10,"Saturday, 1st July, 1939",3:15pm (local time),10005,154,,"South Sydney
+RABBITOHS",3,13,,NEWTOWN,3,8,
+0,NSWRFL 1939,Round 10,"Saturday, 1st July, 1939",3:15pm (local time),10008,112,,"Western Suburbs
+MAGPIES",2,16,,EASTERN SUBURBS,19,19,
+0,NSWRFL 1939,Round 11,"Saturday, 8th July, 1939",3:15pm (local time),10009,7,"6,000","Balmain
+TIGERS",8,13,,"Western Suburbs
+MAGPIES",9,13,
+0,NSWRFL 1939,Round 11,"Saturday, 8th July, 1939",3:15pm (local time),10011,76,,NEWTOWN,6,11,,CANTERBURY BANKSTOWN,23,30,
+0,NSWRFL 1939,Round 11,"Saturday, 8th July, 1939",3:15pm (local time),10010,154,"6,000","St George
+DRAGONS",5,24,,NORTH SYDNEY,9,17,
+0,NSWRFL 1939,Round 11,"Saturday, 8th July, 1939",3:15pm (local time),10012,109,"7,000","South Sydney
+RABBITOHS",11,13,,EASTERN SUBURBS,4,6,
+0,NSWRFL 1939,Round 12,"Saturday, 15th July, 1939",3:15pm (local time),10014,24,"10,634",CANTERBURY BANKSTOWN,5,12,,"South Sydney
+RABBITOHS",7,17,
+0,NSWRFL 1939,Round 12,"Saturday, 15th July, 1939",3:15pm (local time),10016,109,,EASTERN SUBURBS,2,5,,"Balmain
+TIGERS",5,15,
+0,NSWRFL 1939,Round 12,"Saturday, 15th July, 1939",3:15pm (local time),10013,76,,NEWTOWN,10,13,,NORTH SYDNEY,5,11,
+0,NSWRFL 1939,Round 12,"Saturday, 15th July, 1939",3:15pm (local time),10015,112,"5,000","Western Suburbs
+MAGPIES",6,14,,"St George
+DRAGONS",17,17,
+0,NSWRFL 1939,Round 13,"Saturday, 5th August, 1939",3:15pm (local time),10017,24,"11,224","Balmain
+TIGERS",5,19,,"South Sydney
+RABBITOHS",3,5,
+0,NSWRFL 1939,Round 13,"Saturday, 5th August, 1939",3:15pm (local time),10018,109,,EASTERN SUBURBS,2,13,,"St George
+DRAGONS",5,5,
+0,NSWRFL 1939,Round 13,"Saturday, 5th August, 1939",3:15pm (local time),10020,25,,NORTH SYDNEY,5,10,,CANTERBURY BANKSTOWN,6,22,
+0,NSWRFL 1939,Round 13,"Saturday, 5th August, 1939",3:15pm (local time),10019,112,,"Western Suburbs
+MAGPIES",8,13,,NEWTOWN,9,14,
+0,NSWRFL 1939,Round 14,"Saturday, 12th August, 1939",3:15pm (local time),10021,27,,CANTERBURY BANKSTOWN,13,32,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1939,Round 14,"Saturday, 12th August, 1939",3:15pm (local time),10024,76,,NEWTOWN,9,14,,EASTERN SUBURBS,9,24,
+0,NSWRFL 1939,Round 14,"Saturday, 12th August, 1939",3:15pm (local time),10023,24,"17,650","St George
+DRAGONS",4,10,,"Balmain
+TIGERS",8,11,
+0,NSWRFL 1939,Round 14,"Saturday, 12th August, 1939",3:15pm (local time),10022,109,,"South Sydney
+RABBITOHS",28,53,,NORTH SYDNEY,0,0,
+0,NSWRFL 1939,Semi Final,"Saturday, 19th August, 1939",3:15pm (local time),10025,24,"23,774","Balmain
+TIGERS",5,13,,CANTERBURY BANKSTOWN,7,9,
+0,NSWRFL 1939,Semi Final,"Saturday, 26th August, 1939",3:15pm (local time),10026,24,"21,722","South Sydney
+RABBITOHS",7,23,,"St George
+DRAGONS",10,10,
+0,NSWRFL 1939,Final,"Saturday, 2nd September, 1939",3:15pm (local time),10027,24,"26,972","Balmain
+TIGERS",7,33,,"South Sydney
+RABBITOHS",2,4,

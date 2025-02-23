@@ -1,0 +1,19 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRLW 2019,Round 1,"Saturday, 14th September, 2019",3:05 PM (local time),44903,251,,"Sydney (W)
+ROOSTERS",6,12,,NEW ZEALAND WARRIORS (W),6,16,
+0,NRLW 2019,Round 1,"Sunday, 15th September, 2019",2:05 PM (local time),44904,940,"6,609","St George Illawarra (W)
+DRAGONS",4,4,,"Brisbane (W)
+BRONCOS",4,14,
+0,NRLW 2019,Round 2,"Saturday, 21st September, 2019",5:05 PM (local time),44905,251,,"Brisbane (W)
+BRONCOS",10,20,,"Sydney (W)
+ROOSTERS",0,0,
+0,NRLW 2019,Round 2,"Sunday, 22nd September, 2019",1:15 PM (local time),44906,6,"2,518",NEW ZEALAND WARRIORS (W),6,6,,"St George Illawarra (W)
+DRAGONS",0,26,
+0,NRLW 2019,Round 3,"Saturday, 28th September, 2019",5:05 PM (local time),44907,24,"6,208","Brisbane (W)
+BRONCOS",0,8,,NEW ZEALAND WARRIORS (W),10,10,
+0,NRLW 2019,Round 3,"Sunday, 29th September, 2019",1:15 PM (local time),44908,7,"2,293","St George Illawarra (W)
+DRAGONS",16,24,,"Sydney (W)
+ROOSTERS",10,16,
+0,NRLW 2019,Grand Final,"Sunday, 6th October, 2019",4:05 PM (local time),44909,20,,"Brisbane (W)
+BRONCOS",10,30,,"St George Illawarra (W)
+DRAGONS",0,6,

@@ -1,0 +1,547 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1992,Round 1,"Friday, 20th March, 1992",,6183,22,"19,577","Brisbane
+BRONCOS",6,30,6,"Cronulla Sutherland
+SHARKS",0,2,6
+0,NSWRL 1992,Round 1,"Saturday, 21st March, 1992",,6184,1,"12,610","Eastern Suburbs
+ROOSTERS",2,20,5,"St George
+DRAGONS",8,8,6
+0,NSWRL 1992,Round 1,"Saturday, 21st March, 1992",,6185,25,"7,804","North Sydney
+BEARS",6,30,6,"Canterbury Bankstown
+BULLDOGS",10,10,5
+0,NSWRL 1992,Round 1,"Sunday, 22nd March, 1992",,6187,7,"10,788","Balmain
+TIGERS",8,15,3,"Western Suburbs
+MAGPIES",8,8,4
+0,NSWRL 1992,Round 1,"Sunday, 22nd March, 1992",,6188,4,"14,936","Canberra
+RAIDERS",,14,8,"Penrith
+PANTHERS",,10,7
+0,NSWRL 1992,Round 1,"Sunday, 22nd March, 1992",,6189,5,"10,188","Manly Warringah
+SEA EAGLES",,28,11,"Gold Coast
+SEAGULLS",,22,7
+0,NSWRL 1992,Round 1,"Sunday, 22nd March, 1992",,6190,11,"13,115","Newcastle
+KNIGHTS",,14,3,"Illawarra
+STEELERS",,14,7
+0,NSWRL 1992,Round 1,"Sunday, 22nd March, 1992",,6186,8,"11,247","Parramatta
+EELS",,26,3,"South Sydney
+RABBITOHS",,20,4
+0,NSWRL 1992,Round 2,"Friday, 27th March, 1992",,6192,27,"12,518","Canterbury Bankstown
+BULLDOGS",,20,5,"Balmain
+TIGERS",,16,9
+0,NSWRL 1992,Round 2,"Friday, 27th March, 1992",,6191,1,"10,674","South Sydney
+RABBITOHS",,8,8,"North Sydney
+BEARS",,22,9
+0,NSWRL 1992,Round 2,"Saturday, 28th March, 1992",,6193,23,"6,482","St George
+DRAGONS",,43,3,"Parramatta
+EELS",,14,7
+0,NSWRL 1992,Round 2,"Saturday, 28th March, 1992",,6194,19,"11,145","Western Suburbs
+MAGPIES",,4,9,"Eastern Suburbs
+ROOSTERS",,18,6
+0,NSWRL 1992,Round 2,"Sunday, 29th March, 1992",,6195,22,"23,192","Brisbane
+BRONCOS",,24,4,"Gold Coast
+SEAGULLS",,18,9
+0,NSWRL 1992,Round 2,"Sunday, 29th March, 1992",,6198,21,"11,202","Illawarra
+STEELERS",,12,6,"Cronulla Sutherland
+SHARKS",,4,5
+0,NSWRL 1992,Round 2,"Sunday, 29th March, 1992",,6197,5,"16,216","Manly Warringah
+SEA EAGLES",,28,9,"Canberra
+RAIDERS",,16,5
+0,NSWRL 1992,Round 2,"Sunday, 29th March, 1992",,6196,3,"7,755","Penrith
+PANTHERS",,2,9,"Newcastle
+KNIGHTS",,14,5
+0,NSWRL 1992,Round 3,"Friday, 3rd April, 1992",,6199,3,"11,650","Penrith
+PANTHERS",,18,5,"Manly Warringah
+SEA EAGLES",,10,7
+0,NSWRL 1992,Round 3,"Saturday, 4th April, 1992",,6201,7,"6,273","Balmain
+TIGERS",,12,5,"Eastern Suburbs
+ROOSTERS",,18,9
+0,NSWRL 1992,Round 3,"Saturday, 4th April, 1992",6:30pm (local time),6200,34,"8,371","Gold Coast
+SEAGULLS",6,18,5,"Illawarra
+STEELERS",8,8,5
+0,NSWRL 1992,Round 3,"Sunday, 5th April, 1992",,6205,4,"16,037","Canberra
+RAIDERS",,16,6,"Brisbane
+BRONCOS",,24,3
+0,NSWRL 1992,Round 3,"Sunday, 5th April, 1992",,6204,27,"10,172","Canterbury Bankstown
+BULLDOGS",,18,6,"South Sydney
+RABBITOHS",,30,4
+0,NSWRL 1992,Round 3,"Sunday, 5th April, 1992",,6206,11,"19,443","Newcastle
+KNIGHTS",,22,9,"Cronulla Sutherland
+SHARKS",,4,4
+0,NSWRL 1992,Round 3,"Sunday, 5th April, 1992",,6202,25,"17,613","North Sydney
+BEARS",,16,4,"St George
+DRAGONS",,21,8
+0,NSWRL 1992,Round 3,"Sunday, 5th April, 1992",,6203,8,"13,253","Parramatta
+EELS",,16,4,"Western Suburbs
+MAGPIES",,22,5
+0,NSWRL 1992,Round 4,"Friday, 10th April, 1992",,6207,1,"13,759","South Sydney
+RABBITOHS",,26,9,"Balmain
+TIGERS",,24,6
+0,NSWRL 1992,Round 4,"Saturday, 11th April, 1992",,6208,22,"18,550","Brisbane
+BRONCOS",,10,5,"Penrith
+PANTHERS",,24,9
+0,NSWRL 1992,Round 4,"Saturday, 11th April, 1992",,6209,34,"11,048","Gold Coast
+SEAGULLS",,0,10,"Cronulla Sutherland
+SHARKS",,20,9
+0,NSWRL 1992,Round 4,"Sunday, 12th April, 1992",,6210,1,"9,482","Eastern Suburbs
+ROOSTERS",,30,2,"Parramatta
+EELS",,6,6
+0,NSWRL 1992,Round 4,"Sunday, 12th April, 1992",,6212,21,"14,881","Illawarra
+STEELERS",,29,4,"Canberra
+RAIDERS",,10,4
+0,NSWRL 1992,Round 4,"Sunday, 12th April, 1992",,6213,23,"15,216","St George
+DRAGONS",,16,7,"Canterbury Bankstown
+BULLDOGS",,6,6
+0,NSWRL 1992,Round 4,"Sunday, 12th April, 1992",,6211,19,"7,453","Western Suburbs
+MAGPIES",,26,2,"North Sydney
+BEARS",,16,6
+0,NSWRL 1992,Round 4,"Sunday, 12th April, 1992",1:00pm (local time),6214,114,"17,368","Newcastle
+KNIGHTS",8,16,4,"Manly Warringah
+SEA EAGLES",6,13,12
+0,NSWRL 1992,Round 5,"Saturday, 18th April, 1992",,6215,27,"8,653","Canterbury Bankstown
+BULLDOGS",,20,13,"Western Suburbs
+MAGPIES",,6,11
+0,NSWRL 1992,Round 5,"Saturday, 18th April, 1992",,6216,1,"17,314","South Sydney
+RABBITOHS",,14,7,"St George
+DRAGONS",,26,7
+0,NSWRL 1992,Round 5,"Sunday, 19th April, 1992",,6217,7,"7,654","Balmain
+TIGERS",,16,8,"Parramatta
+EELS",,10,7
+0,NSWRL 1992,Round 5,"Sunday, 19th April, 1992",,6218,4,"12,180","Canberra
+RAIDERS",,40,3,"Cronulla Sutherland
+SHARKS",,16,5
+0,NSWRL 1992,Round 5,"Sunday, 19th April, 1992",,6221,5,"19,084","Manly Warringah
+SEA EAGLES",,12,6,"Brisbane
+BRONCOS",,28,3
+0,NSWRL 1992,Round 5,"Sunday, 19th April, 1992",,6219,11,"19,947","Newcastle
+KNIGHTS",,42,4,"Gold Coast
+SEAGULLS",,6,10
+0,NSWRL 1992,Round 5,"Sunday, 19th April, 1992",,6222,25,"16,704","North Sydney
+BEARS",,4,8,"Eastern Suburbs
+ROOSTERS",,16,4
+0,NSWRL 1992,Round 5,"Sunday, 19th April, 1992",,6220,3,"12,300","Penrith
+PANTHERS",,24,5,"Illawarra
+STEELERS",,12,6
+0,NSWRL 1992,Round 6,"Saturday, 25th April, 1992",,6223,21,"12,454","Illawarra
+STEELERS",,23,6,"Manly Warringah
+SEA EAGLES",,10,8
+0,NSWRL 1992,Round 6,"Sunday, 26th April, 1992",,6224,9,"10,600","Cronulla Sutherland
+SHARKS",,18,6,"Penrith
+PANTHERS",,14,9
+0,NSWRL 1992,Round 6,"Sunday, 26th April, 1992",,6230,1,"14,421","Eastern Suburbs
+ROOSTERS",,14,7,"Canterbury Bankstown
+BULLDOGS",,22,4
+0,NSWRL 1992,Round 6,"Sunday, 26th April, 1992",,6229,34,"8,240","Gold Coast
+SEAGULLS",,12,6,"Canberra
+RAIDERS",,10,3
+0,NSWRL 1992,Round 6,"Sunday, 26th April, 1992",,6228,11,"28,821","Newcastle
+KNIGHTS",,8,11,"Brisbane
+BRONCOS",,12,6
+0,NSWRL 1992,Round 6,"Sunday, 26th April, 1992",,6225,8,"9,204","Parramatta
+EELS",,2,10,"North Sydney
+BEARS",,26,6
+0,NSWRL 1992,Round 6,"Sunday, 26th April, 1992",,6227,23,"14,123","St George
+DRAGONS",,17,4,"Balmain
+TIGERS",,22,5
+0,NSWRL 1992,Round 6,"Sunday, 26th April, 1992",,6226,19,"7,819","Western Suburbs
+MAGPIES",,28,7,"South Sydney
+RABBITOHS",,12,7
+0,NSWRL 1992,Round 7,"Friday, 1st May, 1992",7:30pm (local time),6231,1,"14,955","South Sydney
+RABBITOHS",18,22,4,"Eastern Suburbs
+ROOSTERS",8,16,9
+0,NSWRL 1992,Round 7,"Saturday, 2nd May, 1992",3:05pm (local time),6232,5,"6,470","Manly Warringah
+SEA EAGLES",13,23,7,"Cronulla Sutherland
+SHARKS",6,20,2
+0,NSWRL 1992,Round 7,"Sunday, 3rd May, 1992",3:00pm (local time),6233,19,"11,046","Western Suburbs
+MAGPIES",12,19,9,"St George
+DRAGONS",6,12,9
+0,NSWRL 1992,Round 7,"Friday, 8th May, 1992",,6234,32,"15,560","Parramatta
+EELS",,18,5,"Canterbury Bankstown
+BULLDOGS",,12,6
+0,NSWRL 1992,Round 7,"Saturday, 9th May, 1992",,6235,3,"7,068","Penrith
+PANTHERS",,16,10,"Gold Coast
+SEAGULLS",,12,9
+0,NSWRL 1992,Round 7,"Sunday, 10th May, 1992",,6236,7,"10,652","Balmain
+TIGERS",,34,6,"North Sydney
+BEARS",,16,6
+0,NSWRL 1992,Round 7,"Sunday, 10th May, 1992",,6237,22,"14,524","Brisbane
+BRONCOS",,8,8,"Illawarra
+STEELERS",,10,7
+0,NSWRL 1992,Round 7,"Sunday, 10th May, 1992",,6238,4,"10,004","Canberra
+RAIDERS",,26,10,"Newcastle
+KNIGHTS",,20,9
+0,NSWRL 1992,Round 8,"Friday, 15th May, 1992",7:40pm (local time),6239,1,"14,808","South Sydney
+RABBITOHS",10,22,8,"Manly Warringah
+SEA EAGLES",10,20,4
+0,NSWRL 1992,Round 8,"Saturday, 16th May, 1992",,6240,9,"6,646","Cronulla Sutherland
+SHARKS",,14,2,"Eastern Suburbs
+ROOSTERS",,20,5
+0,NSWRL 1992,Round 8,"Sunday, 17th May, 1992",,6241,21,"16,058","Illawarra
+STEELERS",,17,4,"Western Suburbs
+MAGPIES",,2,5
+0,NSWRL 1992,Round 8,"Friday, 22nd May, 1992",,6242,11,"19,971","Newcastle
+KNIGHTS",,10,8,"Balmain
+TIGERS",,11,7
+0,NSWRL 1992,Round 8,"Saturday, 23rd May, 1992",,6244,27,"7,180","Canterbury Bankstown
+BULLDOGS",,16,10,"Penrith
+PANTHERS",,23,10
+0,NSWRL 1992,Round 8,"Saturday, 23rd May, 1992",,6243,34,"11,842","Gold Coast
+SEAGULLS",,26,7,"Parramatta
+EELS",,6,8
+0,NSWRL 1992,Round 8,"Sunday, 24th May, 1992",,6245,25,"14,062","North Sydney
+BEARS",,27,5,"Canberra
+RAIDERS",,18,2
+0,NSWRL 1992,Round 8,"Sunday, 24th May, 1992",,6246,33,"18,892","St George
+DRAGONS",,18,5,"Brisbane
+BRONCOS",,20,4
+0,NSWRL 1992,Round 9,"Friday, 29th May, 1992",,6247,1,"8,538","Eastern Suburbs
+ROOSTERS",,18,6,"Gold Coast
+SEAGULLS",,8,7
+0,NSWRL 1992,Round 9,"Saturday, 30th May, 1992",,6248,5,"5,596","Manly Warringah
+SEA EAGLES",,20,9,"Canterbury Bankstown
+BULLDOGS",,20,9
+0,NSWRL 1992,Round 9,"Saturday, 30th May, 1992",,6249,19,"6,005","Western Suburbs
+MAGPIES",,22,11,"Cronulla Sutherland
+SHARKS",,10,5
+0,NSWRL 1992,Round 9,"Sunday, 31st May, 1992",,6251,7,"10,014","Balmain
+TIGERS",,34,7,"Canberra
+RAIDERS",,20,7
+0,NSWRL 1992,Round 9,"Sunday, 31st May, 1992",,6252,22,"15,502","Brisbane
+BRONCOS",,26,10,"South Sydney
+RABBITOHS",,18,3
+0,NSWRL 1992,Round 9,"Sunday, 31st May, 1992",,6250,21,"17,469","Illawarra
+STEELERS",,8,4,"St George
+DRAGONS",,21,9
+0,NSWRL 1992,Round 9,"Sunday, 31st May, 1992",,6253,8,"9,446","Parramatta
+EELS",,22,9,"Newcastle
+KNIGHTS",,16,4
+0,NSWRL 1992,Round 9,"Sunday, 31st May, 1992",,6254,3,"10,731","Penrith
+PANTHERS",,2,7,"North Sydney
+BEARS",,8,3
+0,NSWRL 1992,Round 10,"Friday, 5th June, 1992",,6255,1,"11,848","South Sydney
+RABBITOHS",,6,6,"Illawarra
+STEELERS",,17,6
+0,NSWRL 1992,Round 10,"Saturday, 6th June, 1992",,6256,11,"16,239","Newcastle
+KNIGHTS",,10,8,"Eastern Suburbs
+ROOSTERS",,0,12
+0,NSWRL 1992,Round 10,"Sunday, 7th June, 1992",,6258,4,"7,000","Canberra
+RAIDERS",,31,4,"Parramatta
+EELS",,12,10
+0,NSWRL 1992,Round 10,"Sunday, 7th June, 1992",,6261,27,"10,626","Canterbury Bankstown
+BULLDOGS",,28,8,"Brisbane
+BRONCOS",,24,7
+0,NSWRL 1992,Round 10,"Sunday, 7th June, 1992",,6257,34,"10,432","Gold Coast
+SEAGULLS",,8,5,"Western Suburbs
+MAGPIES",,15,7
+0,NSWRL 1992,Round 10,"Sunday, 7th June, 1992",,6259,25,"18,076","North Sydney
+BEARS",,24,10,"Manly Warringah
+SEA EAGLES",,10,9
+0,NSWRL 1992,Round 10,"Sunday, 7th June, 1992",,6260,3,"17,864","Penrith
+PANTHERS",,14,9,"Balmain
+TIGERS",,12,7
+0,NSWRL 1992,Round 10,"Sunday, 7th June, 1992",,6262,23,"15,709","St George
+DRAGONS",,18,7,"Cronulla Sutherland
+SHARKS",,6,6
+0,NSWRL 1992,Round 11,"Saturday, 13th June, 1992",,6264,7,"6,674","Balmain
+TIGERS",,8,8,"Manly Warringah
+SEA EAGLES",,20,10
+0,NSWRL 1992,Round 11,"Saturday, 13th June, 1992",,6263,34,"9,640","Gold Coast
+SEAGULLS",,10,5,"St George
+DRAGONS",,20,10
+0,NSWRL 1992,Round 11,"Sunday, 14th June, 1992",,6266,22,"19,515","Brisbane
+BRONCOS",,28,9,"North Sydney
+BEARS",,22,6
+0,NSWRL 1992,Round 11,"Sunday, 14th June, 1992",,6267,9,"7,062","Cronulla Sutherland
+SHARKS",,20,7,"South Sydney
+RABBITOHS",,16,4
+0,NSWRL 1992,Round 11,"Sunday, 14th June, 1992",,6269,1,"10,388","Eastern Suburbs
+ROOSTERS",,24,11,"Canberra
+RAIDERS",,8,7
+0,NSWRL 1992,Round 11,"Sunday, 14th June, 1992",,6270,21,"12,286","Illawarra
+STEELERS",,24,12,"Canterbury Bankstown
+BULLDOGS",,8,5
+0,NSWRL 1992,Round 11,"Sunday, 14th June, 1992",,6265,8,"11,006","Parramatta
+EELS",,20,9,"Penrith
+PANTHERS",,0,7
+0,NSWRL 1992,Round 11,"Sunday, 14th June, 1992",,6268,19,"7,080","Western Suburbs
+MAGPIES",,20,7,"Newcastle
+KNIGHTS",,18,6
+0,NSWRL 1992,Round 12,"Saturday, 20th June, 1992",,6271,27,"7,880","Canterbury Bankstown
+BULLDOGS",,30,4,"Cronulla Sutherland
+SHARKS",,2,7
+0,NSWRL 1992,Round 12,"Saturday, 20th June, 1992",,6272,23,"7,517","St George
+DRAGONS",,12,9,"Newcastle
+KNIGHTS",,23,4
+0,NSWRL 1992,Round 12,"Sunday, 21st June, 1992",,6277,22,"24,902","Brisbane
+BRONCOS",,26,10,"Balmain
+TIGERS",,10,3
+0,NSWRL 1992,Round 12,"Sunday, 21st June, 1992",,6274,4,"12,064","Canberra
+RAIDERS",,27,7,"Western Suburbs
+MAGPIES",,18,7
+0,NSWRL 1992,Round 12,"Sunday, 21st June, 1992",,6273,5,"7,306","Manly Warringah
+SEA EAGLES",,20,4,"Parramatta
+EELS",,0,8
+0,NSWRL 1992,Round 12,"Sunday, 21st June, 1992",,6276,25,"8,309","North Sydney
+BEARS",,11,8,"Illawarra
+STEELERS",,4,4
+0,NSWRL 1992,Round 12,"Sunday, 21st June, 1992",,6278,3,"10,811","Penrith
+PANTHERS",,23,8,"Eastern Suburbs
+ROOSTERS",,10,7
+0,NSWRL 1992,Round 12,"Sunday, 21st June, 1992",,6275,1,"6,515","South Sydney
+RABBITOHS",,6,10,"Gold Coast
+SEAGULLS",,20,6
+0,NSWRL 1992,Round 13,"Saturday, 27th June, 1992",,6279,7,"5,806","Balmain
+TIGERS",,22,2,"Illawarra
+STEELERS",,12,2
+0,NSWRL 1992,Round 13,"Saturday, 27th June, 1992",,6280,34,"8,072","Gold Coast
+SEAGULLS",,16,5,"Canterbury Bankstown
+BULLDOGS",,20,5
+0,NSWRL 1992,Round 13,"Sunday, 28th June, 1992",,6282,4,"13,225","Canberra
+RAIDERS",,16,7,"St George
+DRAGONS",,10,12
+0,NSWRL 1992,Round 13,"Sunday, 28th June, 1992",,6283,9,"4,709","Cronulla Sutherland
+SHARKS",,18,9,"North Sydney
+BEARS",,6,8
+0,NSWRL 1992,Round 13,"Sunday, 28th June, 1992",,6284,1,"11,431","Eastern Suburbs
+ROOSTERS",,4,7,"Manly Warringah
+SEA EAGLES",,18,5
+0,NSWRL 1992,Round 13,"Sunday, 28th June, 1992",,6281,11,"8,303","Newcastle
+KNIGHTS",,16,10,"South Sydney
+RABBITOHS",,12,4
+0,NSWRL 1992,Round 13,"Sunday, 28th June, 1992",,6286,8,"8,034","Parramatta
+EELS",,4,7,"Brisbane
+BRONCOS",,20,2
+0,NSWRL 1992,Round 13,"Sunday, 28th June, 1992",,6285,19,"6,183","Western Suburbs
+MAGPIES",,10,7,"Penrith
+PANTHERS",,18,9
+0,NSWRL 1992,Round 14,"Saturday, 4th July, 1992",,6287,21,"10,876","Illawarra
+STEELERS",,24,4,"Parramatta
+EELS",,2,7
+0,NSWRL 1992,Round 14,"Saturday, 4th July, 1992",,6288,5,"6,471","Manly Warringah
+SEA EAGLES",,6,5,"Western Suburbs
+MAGPIES",,6,5
+0,NSWRL 1992,Round 14,"Sunday, 5th July, 1992",,6289,22,"23,906","Brisbane
+BRONCOS",,46,2,"Eastern Suburbs
+ROOSTERS",,22,4
+0,NSWRL 1992,Round 14,"Sunday, 5th July, 1992",,6290,27,"10,124","Canterbury Bankstown
+BULLDOGS",,11,5,"Newcastle
+KNIGHTS",,12,9
+0,NSWRL 1992,Round 14,"Sunday, 5th July, 1992",,6293,9,"10,373","Cronulla Sutherland
+SHARKS",,10,5,"Balmain
+TIGERS",,34,8
+0,NSWRL 1992,Round 14,"Sunday, 5th July, 1992",,6291,25,"6,190","North Sydney
+BEARS",,19,7,"Gold Coast
+SEAGULLS",,6,5
+0,NSWRL 1992,Round 14,"Sunday, 5th July, 1992",,6292,23,"10,762","St George
+DRAGONS",,14,8,"Penrith
+PANTHERS",,6,6
+0,NSWRL 1992,Round 14,"Sunday, 5th July, 1992",,6294,1,"9,177","South Sydney
+RABBITOHS",,22,9,"Canberra
+RAIDERS",,24,6
+0,NSWRL 1992,Round 15,"Friday, 10th July, 1992",,6295,1,"8,216","Eastern Suburbs
+ROOSTERS",,6,1,"Illawarra
+STEELERS",,18,6
+0,NSWRL 1992,Round 15,"Saturday, 11th July, 1992",,6296,11,"16,606","Newcastle
+KNIGHTS",,10,9,"North Sydney
+BEARS",,2,10
+0,NSWRL 1992,Round 15,"Saturday, 11th July, 1992",,6297,35,"8,900","Penrith
+PANTHERS",,24,5,"South Sydney
+RABBITOHS",,20,4
+0,NSWRL 1992,Round 15,"Sunday, 12th July, 1992",,6299,7,"9,050","Balmain
+TIGERS",,14,10,"Gold Coast
+SEAGULLS",,26,9
+0,NSWRL 1992,Round 15,"Sunday, 12th July, 1992",,6300,4,"14,319","Canberra
+RAIDERS",,39,5,"Canterbury Bankstown
+BULLDOGS",,14,6
+0,NSWRL 1992,Round 15,"Sunday, 12th July, 1992",,6298,5,"16,308","Manly Warringah
+SEA EAGLES",,4,3,"St George
+DRAGONS",,12,8
+0,NSWRL 1992,Round 15,"Sunday, 12th July, 1992",,6302,8,"9,024","Parramatta
+EELS",,26,8,"Cronulla Sutherland
+SHARKS",,10,4
+0,NSWRL 1992,Round 15,"Sunday, 12th July, 1992",3:00pm (local time),6301,19,"10,171","Western Suburbs
+MAGPIES",,25,6,"Brisbane
+BRONCOS",,16,6
+0,NSWRL 1992,Round 16,"Friday, 17th July, 1992",,6303,19,"11,842","Western Suburbs
+MAGPIES",,9,10,"Balmain
+TIGERS",,6,5
+0,NSWRL 1992,Round 16,"Saturday, 18th July, 1992",,6304,34,"8,025","Gold Coast
+SEAGULLS",,2,3,"Manly Warringah
+SEA EAGLES",,16,3
+0,NSWRL 1992,Round 16,"Saturday, 18th July, 1992",,6305,23,"6,475","St George
+DRAGONS",,23,7,"Eastern Suburbs
+ROOSTERS",,6,8
+0,NSWRL 1992,Round 16,"Sunday, 19th July, 1992",,6307,27,"5,981","Canterbury Bankstown
+BULLDOGS",,36,5,"North Sydney
+BEARS",,28,5
+0,NSWRL 1992,Round 16,"Sunday, 19th July, 1992",,6309,9,"6,246","Cronulla Sutherland
+SHARKS",,16,7,"Brisbane
+BRONCOS",,20,6
+0,NSWRL 1992,Round 16,"Sunday, 19th July, 1992",,6306,21,"14,611","Illawarra
+STEELERS",,8,6,"Newcastle
+KNIGHTS",,6,7
+0,NSWRL 1992,Round 16,"Sunday, 19th July, 1992",,6310,3,"12,876","Penrith
+PANTHERS",,10,6,"Canberra
+RAIDERS",,8,8
+0,NSWRL 1992,Round 16,"Sunday, 19th July, 1992",,6308,1,"7,873","South Sydney
+RABBITOHS",,28,8,"Parramatta
+EELS",,16,7
+0,NSWRL 1992,Round 17,"Friday, 24th July, 1992",,6311,7,"7,383","Balmain
+TIGERS",,10,8,"Canterbury Bankstown
+BULLDOGS",,30,6
+0,NSWRL 1992,Round 17,"Saturday, 25th July, 1992",,6312,4,"8,631","Canberra
+RAIDERS",,14,4,"Manly Warringah
+SEA EAGLES",,15,7
+0,NSWRL 1992,Round 17,"Sunday, 26th July, 1992",,6316,9,"7,893","Cronulla Sutherland
+SHARKS",,10,4,"Illawarra
+STEELERS",,6,3
+0,NSWRL 1992,Round 17,"Sunday, 26th July, 1992",,6317,1,"9,039","Eastern Suburbs
+ROOSTERS",,6,3,"Western Suburbs
+MAGPIES",,14,8
+0,NSWRL 1992,Round 17,"Sunday, 26th July, 1992",,6318,34,"13,401","Gold Coast
+SEAGULLS",,10,10,"Brisbane
+BRONCOS",,30,8
+0,NSWRL 1992,Round 17,"Sunday, 26th July, 1992",,6313,11,"22,258","Newcastle
+KNIGHTS",,26,4,"Penrith
+PANTHERS",,4,7
+0,NSWRL 1992,Round 17,"Sunday, 26th July, 1992",,6314,25,"7,109","North Sydney
+BEARS",,20,7,"South Sydney
+RABBITOHS",,52,6
+0,NSWRL 1992,Round 17,"Sunday, 26th July, 1992",,6315,8,"14,055","Parramatta
+EELS",,6,4,"St George
+DRAGONS",,21,5
+0,NSWRL 1992,Round 18,"Friday, 31st July, 1992",,6319,22,"24,192","Brisbane
+BRONCOS",,28,5,"Canberra
+RAIDERS",,12,3
+0,NSWRL 1992,Round 18,"Saturday, 1st August, 1992",,6320,1,"6,289","Eastern Suburbs
+ROOSTERS",,32,12,"Balmain
+TIGERS",,6,5
+0,NSWRL 1992,Round 18,"Sunday, 2nd August, 1992",,6322,9,"6,710","Cronulla Sutherland
+SHARKS",,6,5,"Newcastle
+KNIGHTS",,14,8
+0,NSWRL 1992,Round 18,"Sunday, 2nd August, 1992",,6321,5,"14,131","Manly Warringah
+SEA EAGLES",,21,5,"Penrith
+PANTHERS",,8,6
+0,NSWRL 1992,Round 18,"Sunday, 2nd August, 1992",,6324,23,"10,027","St George
+DRAGONS",,26,5,"North Sydney
+BEARS",,12,5
+0,NSWRL 1992,Round 18,"Sunday, 2nd August, 1992",,6326,1,"11,279","South Sydney
+RABBITOHS",,31,5,"Canterbury Bankstown
+BULLDOGS",,26,4
+0,NSWRL 1992,Round 18,"Sunday, 2nd August, 1992",,6325,19,"9,402","Western Suburbs
+MAGPIES",,16,7,"Parramatta
+EELS",,26,3
+0,NSWRL 1992,Round 18,"Sunday, 2nd August, 1992",3:00pm (local time),6323,21,"12,312","Illawarra
+STEELERS",18,36,6,"Gold Coast
+SEAGULLS",10,14,5
+0,NSWRL 1992,Round 19,"Friday, 7th August, 1992",,6327,3,"12,852","Penrith
+PANTHERS",,6,6,"Brisbane
+BRONCOS",,12,7
+0,NSWRL 1992,Round 19,"Saturday, 8th August, 1992",,6328,27,"10,242","Canterbury Bankstown
+BULLDOGS",,19,6,"St George
+DRAGONS",,6,5
+0,NSWRL 1992,Round 19,"Sunday, 9th August, 1992",,6330,7,"6,477","Balmain
+TIGERS",,32,4,"South Sydney
+RABBITOHS",,26,7
+0,NSWRL 1992,Round 19,"Sunday, 9th August, 1992",,6331,4,"7,944","Canberra
+RAIDERS",,38,7,"Illawarra
+STEELERS",,2,5
+0,NSWRL 1992,Round 19,"Sunday, 9th August, 1992",,6332,9,"4,800","Cronulla Sutherland
+SHARKS",,14,9,"Gold Coast
+SEAGULLS",,12,7
+0,NSWRL 1992,Round 19,"Sunday, 9th August, 1992",,6333,11,"24,884","Newcastle
+KNIGHTS",,12,6,"Manly Warringah
+SEA EAGLES",,14,5
+0,NSWRL 1992,Round 19,"Sunday, 9th August, 1992",,6329,25,"6,535","North Sydney
+BEARS",,19,4,"Western Suburbs
+MAGPIES",,14,8
+0,NSWRL 1992,Round 19,"Sunday, 9th August, 1992",,6334,8,"9,003","Parramatta
+EELS",,6,5,"Eastern Suburbs
+ROOSTERS",,30,6
+0,NSWRL 1992,Round 20,"Friday, 14th August, 1992",,6335,22,"25,867","Brisbane
+BRONCOS",,22,7,"Manly Warringah
+SEA EAGLES",,10,8
+0,NSWRL 1992,Round 20,"Saturday, 15th August, 1992",,6336,19,"8,811","Western Suburbs
+MAGPIES",,28,11,"Canterbury Bankstown
+BULLDOGS",,16,6
+0,NSWRL 1992,Round 20,"Sunday, 16th August, 1992",,6342,9,"5,070","Cronulla Sutherland
+SHARKS",,22,7,"Canberra
+RAIDERS",,4,9
+0,NSWRL 1992,Round 20,"Sunday, 16th August, 1992",,6340,1,"8,139","Eastern Suburbs
+ROOSTERS",,18,6,"North Sydney
+BEARS",,6,11
+0,NSWRL 1992,Round 20,"Sunday, 16th August, 1992",,6337,34,"4,920","Gold Coast
+SEAGULLS",,20,4,"Newcastle
+KNIGHTS",,20,7
+0,NSWRL 1992,Round 20,"Sunday, 16th August, 1992",,6338,21,"14,586","Illawarra
+STEELERS",,16,7,"Penrith
+PANTHERS",,2,7
+0,NSWRL 1992,Round 20,"Sunday, 16th August, 1992",,6341,8,"11,393","Parramatta
+EELS",,14,6,"Balmain
+TIGERS",,36,4
+0,NSWRL 1992,Round 20,"Sunday, 16th August, 1992",,6339,23,"12,165","St George
+DRAGONS",,24,7,"South Sydney
+RABBITOHS",,10,8
+0,NSWRL 1992,Round 21,"Friday, 21st August, 1992",7:40pm (local time),6343,5,"18,294","Manly Warringah
+SEA EAGLES",0,8,9,"Illawarra
+STEELERS",4,10,8
+0,NSWRL 1992,Round 21,"Saturday, 22nd August, 1992",,6344,27,"7,217","Canterbury Bankstown
+BULLDOGS",,25,10,"Eastern Suburbs
+ROOSTERS",,8,6
+0,NSWRL 1992,Round 21,"Sunday, 23rd August, 1992",,6347,7,"17,365","Balmain
+TIGERS",,14,7,"St George
+DRAGONS",,20,8
+0,NSWRL 1992,Round 21,"Sunday, 23rd August, 1992",,6348,22,"28,828","Brisbane
+BRONCOS",,37,6,"Newcastle
+KNIGHTS",,12,11
+0,NSWRL 1992,Round 21,"Sunday, 23rd August, 1992",,6349,4,"5,788","Canberra
+RAIDERS",,33,8,"Gold Coast
+SEAGULLS",,10,12
+0,NSWRL 1992,Round 21,"Sunday, 23rd August, 1992",,6345,25,"5,389","North Sydney
+BEARS",,28,2,"Parramatta
+EELS",,8,5
+0,NSWRL 1992,Round 21,"Sunday, 23rd August, 1992",,6350,3,"7,833","Penrith
+PANTHERS",,18,5,"Cronulla Sutherland
+SHARKS",,14,4
+0,NSWRL 1992,Round 21,"Sunday, 23rd August, 1992",,6346,1,"11,432","South Sydney
+RABBITOHS",,12,6,"Western Suburbs
+MAGPIES",,32,7
+0,NSWRL 1992,Round 22,"Friday, 28th August, 1992",,6351,21,"14,512","Illawarra
+STEELERS",,8,5,"Brisbane
+BRONCOS",,15,6
+0,NSWRL 1992,Round 22,"Saturday, 29th August, 1992",,6352,34,"10,160","Gold Coast
+SEAGULLS",,12,4,"Penrith
+PANTHERS",,8,3
+0,NSWRL 1992,Round 22,"Saturday, 29th August, 1992",,6353,23,"10,121","St George
+DRAGONS",,13,10,"Western Suburbs
+MAGPIES",,12,9
+0,NSWRL 1992,Round 22,"Sunday, 30th August, 1992",,6354,9,"10,284","Cronulla Sutherland
+SHARKS",,28,7,"Manly Warringah
+SEA EAGLES",,8,12
+0,NSWRL 1992,Round 22,"Sunday, 30th August, 1992",,6355,1,"10,904","Eastern Suburbs
+ROOSTERS",,56,4,"South Sydney
+RABBITOHS",,16,3
+0,NSWRL 1992,Round 22,"Sunday, 30th August, 1992",,6357,11,"23,617","Newcastle
+KNIGHTS",,22,7,"Canberra
+RAIDERS",,11,6
+0,NSWRL 1992,Round 22,"Sunday, 30th August, 1992",,6356,25,"7,707","North Sydney
+BEARS",,14,6,"Balmain
+TIGERS",,14,7
+0,NSWRL 1992,Round 22,"Sunday, 30th August, 1992",,6358,8,"10,244","Parramatta
+EELS",,16,7,"Canterbury Bankstown
+BULLDOGS",,16,4
+0,NSWRL 1992,Minor Prelim Semi,"Saturday, 5th September, 1992",,6359,1,"28,571","Newcastle
+KNIGHTS",4,21,7,"Western Suburbs
+MAGPIES",2,2,4
+0,NSWRL 1992,Major Prelim Semi,"Saturday, 5th September, 1992",3:00pm (local time),6360,1,"28,521","Illawarra
+STEELERS",12,18,4,"St George
+DRAGONS",6,16,4
+0,NSWRL 1992,Minor Semi,"Saturday, 12th September, 1992",,6361,1,"38,772","St George
+DRAGONS",,3,8,"Newcastle
+KNIGHTS",,2,6
+0,NSWRL 1992,Major Semi,"Sunday, 13th September, 1992",,6362,1,"38,859","Brisbane
+BRONCOS",,22,5,"Illawarra
+STEELERS",,12,1
+0,NSWRL 1992,Prelim Final,"Sunday, 20th September, 1992",,6363,1,"38,928","St George
+DRAGONS",,4,2,"Illawarra
+STEELERS",,0,2
+0,NSWRL 1992,Grand Final,"Sunday, 27th September, 1992",,6364,1,"41,560","Brisbane
+BRONCOS",6,28,4,"St George
+DRAGONS",4,8,6

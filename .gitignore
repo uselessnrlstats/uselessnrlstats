@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+/posts/
+
+/images/matches
+/images/players
+/images/venues
+/images/miscellaneous
+
+/analysis_scripts/extra_data/shapefiles
+
+/scraping_scripts_home

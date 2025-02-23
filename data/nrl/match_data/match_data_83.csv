@@ -1,0 +1,550 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1991,Round 1,"Friday, 15th March, 1991",,6000,22,"25,126","Brisbane
+BRONCOS",,12,4,"Manly Warringah
+SEA EAGLES",,2,5
+0,NSWRL 1991,Round 1,"Saturday, 16th March, 1991",,6002,11,"14,165","Newcastle
+KNIGHTS",,28,9,"Cronulla Sutherland
+SHARKS",,8,10
+0,NSWRL 1991,Round 1,"Saturday, 16th March, 1991",6:30pm (local time),6001,34,"7,164","Gold Coast
+SEAGULLS",8,14,4,"Western Suburbs
+MAGPIES",6,20,10
+0,NSWRL 1991,Round 1,"Sunday, 17th March, 1991",,6006,1,"9,470","Eastern Suburbs
+ROOSTERS",,10,10,"South Sydney
+RABBITOHS",,16,5
+0,NSWRL 1991,Round 1,"Sunday, 17th March, 1991",,6003,21,"13,602","Illawarra
+STEELERS",,10,3,"Penrith
+PANTHERS",,32,6
+0,NSWRL 1991,Round 1,"Sunday, 17th March, 1991",,6007,25,"15,127","North Sydney
+BEARS",,11,10,"Canberra
+RAIDERS",,6,12
+0,NSWRL 1991,Round 1,"Sunday, 17th March, 1991",,6004,8,"14,022","Parramatta
+EELS",,8,2,"St George
+DRAGONS",,34,8
+0,NSWRL 1991,Round 1,"Sunday, 17th March, 1991",3:00pm (local time),6005,7,"8,711","Balmain
+TIGERS",10,16,8,"Canterbury Bankstown
+BULLDOGS",6,26,11
+0,NSWRL 1991,Round 2,"Friday, 22nd March, 1991",,6008,3,"17,000","Penrith
+PANTHERS",,18,12,"Newcastle
+KNIGHTS",,18,8
+0,NSWRL 1991,Round 2,"Saturday, 23rd March, 1991",3:05pm (local time),6009,23,"6,829","St George
+DRAGONS",14,20,4,"Brisbane
+BRONCOS",8,12,6
+0,NSWRL 1991,Round 2,"Sunday, 24th March, 1991",,6015,9,"10,389","Cronulla Sutherland
+SHARKS",,44,7,"Balmain
+TIGERS",,4,6
+0,NSWRL 1991,Round 2,"Sunday, 24th March, 1991",,6012,5,"10,047","Manly Warringah
+SEA EAGLES",,26,7,"Gold Coast
+SEAGULLS",,8,10
+0,NSWRL 1991,Round 2,"Sunday, 24th March, 1991",,6013,1,"6,902","South Sydney
+RABBITOHS",,10,3,"Illawarra
+STEELERS",,28,9
+0,NSWRL 1991,Round 2,"Sunday, 24th March, 1991",,6014,19,"8,263","Western Suburbs
+MAGPIES",,15,14,"North Sydney
+BEARS",,18,7
+0,NSWRL 1991,Round 2,"Sunday, 24th March, 1991",3:00pm (local time),6010,4,"14,781","Canberra
+RAIDERS",16,48,4,"Parramatta
+EELS",6,10,4
+0,NSWRL 1991,Round 2,"Sunday, 24th March, 1991",3:00pm (local time),6011,27,"8,154","Canterbury Bankstown
+BULLDOGS",6,22,3,"Eastern Suburbs
+ROOSTERS",8,12,7
+0,NSWRL 1991,Round 3,"Saturday, 30th March, 1991",,6016,19,"6,017","Western Suburbs
+MAGPIES",,4,8,"Manly Warringah
+SEA EAGLES",,8,7
+0,NSWRL 1991,Round 3,"Sunday, 31st March, 1991",,6019,22,"23,801","Brisbane
+BRONCOS",,26,9,"Canberra
+RAIDERS",,12,7
+0,NSWRL 1991,Round 3,"Sunday, 31st March, 1991",,6017,34,"13,412","Gold Coast
+SEAGULLS",,12,10,"St George
+DRAGONS",,12,7
+0,NSWRL 1991,Round 3,"Sunday, 31st March, 1991",,6021,21,"11,021","Illawarra
+STEELERS",,44,10,"Canterbury Bankstown
+BULLDOGS",,4,9
+0,NSWRL 1991,Round 3,"Sunday, 31st March, 1991",,6018,3,"7,988","Penrith
+PANTHERS",,36,7,"South Sydney
+RABBITOHS",,22,9
+0,NSWRL 1991,Round 3,"Sunday, 31st March, 1991",3:00pm (local time),6022,1,"8,107","Eastern Suburbs
+ROOSTERS",,18,4,"Cronulla Sutherland
+SHARKS",,14,6
+0,NSWRL 1991,Round 3,"Sunday, 31st March, 1991",3:00pm (local time),6020,11,"27,904","Newcastle
+KNIGHTS",6,12,8,"Balmain
+TIGERS",8,12,8
+0,NSWRL 1991,Round 3,"Monday, 1st April, 1991",,6023,25,"18,627","North Sydney
+BEARS",,30,3,"Parramatta
+EELS",,16,5
+0,NSWRL 1991,Round 4,"Friday, 5th April, 1991",,6024,8,"13,009","Parramatta
+EELS",,13,6,"Brisbane
+BRONCOS",,26,4
+0,NSWRL 1991,Round 4,"Saturday, 6th April, 1991",,6025,5,"13,398","Manly Warringah
+SEA EAGLES",,14,11,"North Sydney
+BEARS",,10,7
+0,NSWRL 1991,Round 4,"Sunday, 7th April, 1991",,6027,7,"9,056","Balmain
+TIGERS",,9,7,"Eastern Suburbs
+ROOSTERS",,18,9
+0,NSWRL 1991,Round 4,"Sunday, 7th April, 1991",,6028,4,"12,215","Canberra
+RAIDERS",,20,3,"Gold Coast
+SEAGULLS",,18,15
+0,NSWRL 1991,Round 4,"Sunday, 7th April, 1991",,6029,27,"7,305","Canterbury Bankstown
+BULLDOGS",,6,9,"Penrith
+PANTHERS",,26,10
+0,NSWRL 1991,Round 4,"Sunday, 7th April, 1991",,6031,1,"8,170","South Sydney
+RABBITOHS",,8,6,"Newcastle
+KNIGHTS",,18,13
+0,NSWRL 1991,Round 4,"Sunday, 7th April, 1991",3:00pm (local time),6030,9,"8,094","Cronulla Sutherland
+SHARKS",0,2,6,"Illawarra
+STEELERS",0,2,10
+0,NSWRL 1991,Round 4,"Sunday, 7th April, 1991",3:00pm (local time),6026,23,"9,237","St George
+DRAGONS",2,20,6,"Western Suburbs
+MAGPIES",14,18,8
+0,NSWRL 1991,Round 5,"Friday, 12th April, 1991",,6032,19,"13,129","Western Suburbs
+MAGPIES",,24,9,"Canberra
+RAIDERS",,12,6
+0,NSWRL 1991,Round 5,"Saturday, 13th April, 1991",,6033,34,"10,630","Gold Coast
+SEAGULLS",,16,6,"Parramatta
+EELS",,8,9
+0,NSWRL 1991,Round 5,"Saturday, 13th April, 1991",,6034,25,"9,478","North Sydney
+BEARS",,21,7,"Brisbane
+BRONCOS",,16,4
+0,NSWRL 1991,Round 5,"Sunday, 14th April, 1991",,6036,21,"14,591","Illawarra
+STEELERS",6,12,14,"Balmain
+TIGERS",2,9,6
+0,NSWRL 1991,Round 5,"Sunday, 14th April, 1991",,6035,5,"17,616","Manly Warringah
+SEA EAGLES",,11,4,"St George
+DRAGONS",,8,7
+0,NSWRL 1991,Round 5,"Sunday, 14th April, 1991",,6039,11,"23,518","Newcastle
+KNIGHTS",,7,15,"Eastern Suburbs
+ROOSTERS",,7,12
+0,NSWRL 1991,Round 5,"Sunday, 14th April, 1991",,6038,3,"10,355","Penrith
+PANTHERS",,17,11,"Cronulla Sutherland
+SHARKS",,10,7
+0,NSWRL 1991,Round 5,"Sunday, 14th April, 1991",,6037,1,"9,438","South Sydney
+RABBITOHS",,19,3,"Canterbury Bankstown
+BULLDOGS",,12,11
+0,NSWRL 1991,Round 6,"Friday, 19th April, 1991",,6040,35,"13,246","Penrith
+PANTHERS",,14,8,"Balmain
+TIGERS",,0,10
+0,NSWRL 1991,Round 6,"Saturday, 20th April, 1991",,6041,4,"14,180","Canberra
+RAIDERS",,12,7,"Manly Warringah
+SEA EAGLES",,46,6
+0,NSWRL 1991,Round 6,"Sunday, 21st April, 1991",,6045,27,"7,429","Canterbury Bankstown
+BULLDOGS",,36,8,"Newcastle
+KNIGHTS",,8,8
+0,NSWRL 1991,Round 6,"Sunday, 21st April, 1991",,6046,9,"8,946","Cronulla Sutherland
+SHARKS",,32,7,"South Sydney
+RABBITOHS",,18,6
+0,NSWRL 1991,Round 6,"Sunday, 21st April, 1991",,6047,1,"9,041","Eastern Suburbs
+ROOSTERS",,10,3,"Illawarra
+STEELERS",,31,6
+0,NSWRL 1991,Round 6,"Sunday, 21st April, 1991",,6042,25,"15,419","North Sydney
+BEARS",,25,6,"St George
+DRAGONS",,18,6
+0,NSWRL 1991,Round 6,"Sunday, 21st April, 1991",,6043,8,"13,281","Parramatta
+EELS",,12,9,"Western Suburbs
+MAGPIES",,47,6
+0,NSWRL 1991,Round 6,"Sunday, 21st April, 1991",3:00pm (local time),6044,22,"23,849","Brisbane
+BRONCOS",14,30,4,"Gold Coast
+SEAGULLS",0,4,8
+0,NSWRL 1991,Round 7,"Friday, 26th April, 1991",7:40pm (local time),6048,19,"10,357","Western Suburbs
+MAGPIES",11,17,5,"Brisbane
+BRONCOS",6,16,8
+0,NSWRL 1991,Round 7,"Saturday, 27th April, 1991",,6049,34,"7,982","Gold Coast
+SEAGULLS",,0,10,"North Sydney
+BEARS",,10,9
+0,NSWRL 1991,Round 7,"Saturday, 27th April, 1991",,6050,11,"10,798","Newcastle
+KNIGHTS",,16,5,"Illawarra
+STEELERS",,2,7
+0,NSWRL 1991,Round 7,"Sunday, 28th April, 1991",,6054,9,"9,428","Cronulla Sutherland
+SHARKS",,20,4,"Canterbury Bankstown
+BULLDOGS",,20,5
+0,NSWRL 1991,Round 7,"Sunday, 28th April, 1991",,6051,5,"13,348","Manly Warringah
+SEA EAGLES",,30,7,"Parramatta
+EELS",,18,6
+0,NSWRL 1991,Round 7,"Sunday, 28th April, 1991",,6055,3,"9,339","Penrith
+PANTHERS",,32,4,"Eastern Suburbs
+ROOSTERS",,6,7
+0,NSWRL 1991,Round 7,"Sunday, 28th April, 1991",,6052,1,"15,228","South Sydney
+RABBITOHS",,23,5,"Balmain
+TIGERS",,18,6
+0,NSWRL 1991,Round 7,"Sunday, 28th April, 1991",3:00pm (local time),6053,23,"10,800","St George
+DRAGONS",8,12,5,"Canberra
+RAIDERS",12,28,5
+0,NSWRL 1991,Round 8,"Friday, 3rd May, 1991",,6056,27,"12,396","Canterbury Bankstown
+BULLDOGS",,22,9,"St George
+DRAGONS",,12,10
+0,NSWRL 1991,Round 8,"Saturday, 4th May, 1991",,6057,21,"7,182","Illawarra
+STEELERS",,46,7,"Gold Coast
+SEAGULLS",,4,5
+0,NSWRL 1991,Round 8,"Sunday, 5th May, 1991",,6058,25,"17,838","North Sydney
+BEARS",,23,7,"Newcastle
+KNIGHTS",,8,7
+0,NSWRL 1991,Round 8,"Friday, 10th May, 1991",7:40pm (local time),6059,4,"12,599","Canberra
+RAIDERS",14,22,6,"Cronulla Sutherland
+SHARKS",0,6,3
+0,NSWRL 1991,Round 8,"Saturday, 11th May, 1991",,6060,22,"13,156","Brisbane
+BRONCOS",,16,8,"Eastern Suburbs
+ROOSTERS",,24,6
+0,NSWRL 1991,Round 8,"Sunday, 12th May, 1991",,6063,8,"14,053","Parramatta
+EELS",,16,9,"Balmain
+TIGERS",,15,6
+0,NSWRL 1991,Round 8,"Sunday, 12th May, 1991",,6061,3,"11,557","Penrith
+PANTHERS",,8,11,"Western Suburbs
+MAGPIES",,12,9
+0,NSWRL 1991,Round 8,"Sunday, 12th May, 1991",,6062,1,"13,740","South Sydney
+RABBITOHS",6,15,3,"Manly Warringah
+SEA EAGLES",6,24,1
+0,NSWRL 1991,Round 9,"Friday, 17th May, 1991",,6064,32,"18,680","Parramatta
+EELS",,22,3,"Cronulla Sutherland
+SHARKS",,12,7
+0,NSWRL 1991,Round 9,"Saturday, 18th May, 1991",3:05pm (local time),6065,19,"8,188","Western Suburbs
+MAGPIES",12,13,6,"Illawarra
+STEELERS",0,12,5
+0,NSWRL 1991,Round 9,"Sunday, 19th May, 1991",,6068,7,"7,023","Balmain
+TIGERS",,14,7,"Brisbane
+BRONCOS",,4,12
+0,NSWRL 1991,Round 9,"Sunday, 19th May, 1991",,6069,4,"15,977","Canberra
+RAIDERS",,18,2,"Canterbury Bankstown
+BULLDOGS",,16,9
+0,NSWRL 1991,Round 9,"Sunday, 19th May, 1991",,6066,5,"20,793","Manly Warringah
+SEA EAGLES",,8,2,"Penrith
+PANTHERS",,32,8
+0,NSWRL 1991,Round 9,"Sunday, 19th May, 1991",,6071,11,"14,974","Newcastle
+KNIGHTS",,12,6,"Gold Coast
+SEAGULLS",,16,6
+0,NSWRL 1991,Round 9,"Sunday, 19th May, 1991",,6067,23,"14,143","St George
+DRAGONS",,30,12,"South Sydney
+RABBITOHS",,6,11
+0,NSWRL 1991,Round 9,"Sunday, 19th May, 1991",3:00pm (local time),6070,1,"15,157","Eastern Suburbs
+ROOSTERS",14,16,9,"North Sydney
+BEARS",12,14,10
+0,NSWRL 1991,Round 10,"Friday, 24th May, 1991",,6072,34,"6,214","Gold Coast
+SEAGULLS",,4,9,"Eastern Suburbs
+ROOSTERS",,30,8
+0,NSWRL 1991,Round 10,"Saturday, 25th May, 1991",,6073,27,"9,415","Canterbury Bankstown
+BULLDOGS",,40,5,"Parramatta
+EELS",,22,4
+0,NSWRL 1991,Round 10,"Sunday, 26th May, 1991",3:00pm (local time),6074,19,"10,151","Western Suburbs
+MAGPIES",24,41,9,"Newcastle
+KNIGHTS",6,12,2
+0,NSWRL 1991,Round 10,"Friday, 31st May, 1991",,6075,22,"17,546","Brisbane
+BRONCOS",,40,6,"Cronulla Sutherland
+SHARKS",,2,7
+0,NSWRL 1991,Round 10,"Saturday, 1st June, 1991",,6076,3,"10,513","Penrith
+PANTHERS",,14,7,"St George
+DRAGONS",,12,10
+0,NSWRL 1991,Round 10,"Sunday, 2nd June, 1991",,6077,21,"14,204","Illawarra
+STEELERS",14,28,8,"Manly Warringah
+SEA EAGLES",2,14,4
+0,NSWRL 1991,Round 10,"Sunday, 2nd June, 1991",,6078,25,"19,427","North Sydney
+BEARS",10,22,8,"Balmain
+TIGERS",2,12,7
+0,NSWRL 1991,Round 10,"Sunday, 2nd June, 1991",3:00pm (local time),6079,1,"10,056","South Sydney
+RABBITOHS",10,22,7,"Canberra
+RAIDERS",10,14,6
+0,NSWRL 1991,Round 11,"Friday, 7th June, 1991",,6080,1,"11,366","Eastern Suburbs
+ROOSTERS",,20,3,"Western Suburbs
+MAGPIES",,12,4
+0,NSWRL 1991,Round 11,"Saturday, 8th June, 1991",,6081,23,"5,059","St George
+DRAGONS",,10,6,"Illawarra
+STEELERS",,2,7
+0,NSWRL 1991,Round 11,"Sunday, 9th June, 1991",,6083,7,"3,693","Balmain
+TIGERS",,14,6,"Gold Coast
+SEAGULLS",,6,8
+0,NSWRL 1991,Round 11,"Sunday, 9th June, 1991",,6086,9,"5,115","Cronulla Sutherland
+SHARKS",,10,7,"North Sydney
+BEARS",,19,7
+0,NSWRL 1991,Round 11,"Sunday, 9th June, 1991",,6082,8,"10,026","Parramatta
+EELS",,14,11,"South Sydney
+RABBITOHS",,22,8
+0,NSWRL 1991,Round 11,"Sunday, 9th June, 1991",3:00pm (local time),6084,22,"18,922","Brisbane
+BRONCOS",0,18,7,"Canterbury Bankstown
+BULLDOGS",8,20,12
+0,NSWRL 1991,Round 11,"Sunday, 9th June, 1991",3:00pm (local time),6085,4,"10,282","Canberra
+RAIDERS",4,20,9,"Penrith
+PANTHERS",0,0,9
+0,NSWRL 1991,Round 11,"Sunday, 9th June, 1991",3:00pm (local time),6087,11,"17,218","Newcastle
+KNIGHTS",,9,3,"Manly Warringah
+SEA EAGLES",,8,6
+0,NSWRL 1991,Round 12,"Friday, 14th June, 1991",7:40pm (local time),6088,27,"8,891","Canterbury Bankstown
+BULLDOGS",6,19,5,"North Sydney
+BEARS",2,10,7
+0,NSWRL 1991,Round 12,"Saturday, 15th June, 1991",,6089,34,"4,200","Gold Coast
+SEAGULLS",,22,9,"Cronulla Sutherland
+SHARKS",,26,7
+0,NSWRL 1991,Round 12,"Saturday, 15th June, 1991",3:05pm (local time),6090,5,"7,404","Manly Warringah
+SEA EAGLES",4,20,6,"Eastern Suburbs
+ROOSTERS",6,12,6
+0,NSWRL 1991,Round 12,"Sunday, 16th June, 1991",,6095,21,"13,021","Illawarra
+STEELERS",,19,7,"Canberra
+RAIDERS",,12,2
+0,NSWRL 1991,Round 12,"Sunday, 16th June, 1991",,6092,3,"12,349","Penrith
+PANTHERS",,20,4,"Parramatta
+EELS",,14,8
+0,NSWRL 1991,Round 12,"Sunday, 16th June, 1991",,6091,23,"9,176","St George
+DRAGONS",,22,7,"Newcastle
+KNIGHTS",,14,5
+0,NSWRL 1991,Round 12,"Sunday, 16th June, 1991",,6094,1,"12,698","South Sydney
+RABBITOHS",,20,4,"Brisbane
+BRONCOS",,36,2
+0,NSWRL 1991,Round 12,"Sunday, 16th June, 1991",,6093,19,"14,705","Western Suburbs
+MAGPIES",,8,8,"Balmain
+TIGERS",,21,3
+0,NSWRL 1991,Round 13,"Friday, 21st June, 1991",,6096,1,"14,575","Eastern Suburbs
+ROOSTERS",,14,7,"St George
+DRAGONS",,28,6
+0,NSWRL 1991,Round 13,"Saturday, 22nd June, 1991",,6098,34,"7,218","Gold Coast
+SEAGULLS",,10,6,"Canterbury Bankstown
+BULLDOGS",,14,7
+0,NSWRL 1991,Round 13,"Saturday, 22nd June, 1991",3:05pm (local time),6097,25,"9,509","North Sydney
+BEARS",,16,9,"South Sydney
+RABBITOHS",,14,6
+0,NSWRL 1991,Round 13,"Sunday, 23rd June, 1991",,6099,7,"11,047","Balmain
+TIGERS",,24,6,"Manly Warringah
+SEA EAGLES",,8,8
+0,NSWRL 1991,Round 13,"Sunday, 23rd June, 1991",,6100,22,"26,165","Brisbane
+BRONCOS",,20,7,"Penrith
+PANTHERS",,12,7
+0,NSWRL 1991,Round 13,"Sunday, 23rd June, 1991",,6101,9,"7,997","Cronulla Sutherland
+SHARKS",,8,6,"Western Suburbs
+MAGPIES",,10,6
+0,NSWRL 1991,Round 13,"Sunday, 23rd June, 1991",,6103,11,"19,042","Newcastle
+KNIGHTS",,16,5,"Canberra
+RAIDERS",,28,5
+0,NSWRL 1991,Round 13,"Sunday, 23rd June, 1991",,6102,8,"8,572","Parramatta
+EELS",,18,4,"Illawarra
+STEELERS",,16,5
+0,NSWRL 1991,Round 14,"Friday, 28th June, 1991",,6104,33,"28,884","St George
+DRAGONS",,16,3,"Balmain
+TIGERS",,2,5
+0,NSWRL 1991,Round 14,"Saturday, 29th June, 1991",3:00pm (local time),6105,27,"10,197","Canterbury Bankstown
+BULLDOGS",2,6,8,"Western Suburbs
+MAGPIES",2,15,7
+0,NSWRL 1991,Round 14,"Sunday, 30th June, 1991",,6106,4,"12,377","Canberra
+RAIDERS",,14,4,"Eastern Suburbs
+ROOSTERS",,22,7
+0,NSWRL 1991,Round 14,"Sunday, 30th June, 1991",,6110,21,"15,246","Illawarra
+STEELERS",,19,2,"Brisbane
+BRONCOS",,2,3
+0,NSWRL 1991,Round 14,"Sunday, 30th June, 1991",,6111,5,"10,072","Manly Warringah
+SEA EAGLES",,22,8,"Cronulla Sutherland
+SHARKS",,22,4
+0,NSWRL 1991,Round 14,"Sunday, 30th June, 1991",,6108,8,"10,465","Parramatta
+EELS",,30,9,"Newcastle
+KNIGHTS",,0,4
+0,NSWRL 1991,Round 14,"Sunday, 30th June, 1991",,6109,3,"14,815","Penrith
+PANTHERS",,8,10,"North Sydney
+BEARS",,0,9
+0,NSWRL 1991,Round 14,"Sunday, 30th June, 1991",,6107,1,"8,542","South Sydney
+RABBITOHS",,34,8,"Gold Coast
+SEAGULLS",,18,8
+0,NSWRL 1991,Round 15,"Friday, 5th July, 1991",,6112,11,"22,682","Newcastle
+KNIGHTS",,10,6,"Brisbane
+BRONCOS",,20,5
+0,NSWRL 1991,Round 15,"Saturday, 6th July, 1991",,6113,34,"8,764","Gold Coast
+SEAGULLS",,6,6,"Penrith
+PANTHERS",,32,7
+0,NSWRL 1991,Round 15,"Saturday, 6th July, 1991",,6114,25,"10,106","North Sydney
+BEARS",,28,7,"Illawarra
+STEELERS",,6,6
+0,NSWRL 1991,Round 15,"Sunday, 7th July, 1991",,6115,7,"7,939","Balmain
+TIGERS",,16,4,"Canberra
+RAIDERS",,36,8
+0,NSWRL 1991,Round 15,"Sunday, 7th July, 1991",,6116,9,"16,674","Cronulla Sutherland
+SHARKS",,16,5,"St George
+DRAGONS",,14,8
+0,NSWRL 1991,Round 15,"Sunday, 7th July, 1991",,6117,1,"10,515","Eastern Suburbs
+ROOSTERS",,12,6,"Parramatta
+EELS",,34,9
+0,NSWRL 1991,Round 15,"Sunday, 7th July, 1991",,6119,5,"12,160","Manly Warringah
+SEA EAGLES",,22,6,"Canterbury Bankstown
+BULLDOGS",,12,7
+0,NSWRL 1991,Round 15,"Sunday, 7th July, 1991",,6118,19,"10,274","Western Suburbs
+MAGPIES",,18,14,"South Sydney
+RABBITOHS",,16,8
+0,NSWRL 1991,Round 16,"Friday, 12th July, 1991",7:30pm (local time),6120,4,"9,966","Canberra
+RAIDERS",4,20,3,"North Sydney
+BEARS",4,4,7
+0,NSWRL 1991,Round 16,"Saturday, 13th July, 1991",,6122,3,"7,735","Penrith
+PANTHERS",,26,7,"Illawarra
+STEELERS",,20,6
+0,NSWRL 1991,Round 16,"Saturday, 13th July, 1991",,6121,19,"11,129","Western Suburbs
+MAGPIES",,18,10,"Gold Coast
+SEAGULLS",,4,7
+0,NSWRL 1991,Round 16,"Sunday, 14th July, 1991",,6125,27,"11,983","Canterbury Bankstown
+BULLDOGS",,16,6,"Balmain
+TIGERS",,14,4
+0,NSWRL 1991,Round 16,"Sunday, 14th July, 1991",,6123,9,"7,136","Cronulla Sutherland
+SHARKS",,18,6,"Newcastle
+KNIGHTS",,10,14
+0,NSWRL 1991,Round 16,"Sunday, 14th July, 1991",,6126,5,"18,689","Manly Warringah
+SEA EAGLES",,26,8,"Brisbane
+BRONCOS",,0,5
+0,NSWRL 1991,Round 16,"Sunday, 14th July, 1991",,6124,23,"13,733","St George
+DRAGONS",,34,8,"Parramatta
+EELS",,6,2
+0,NSWRL 1991,Round 16,"Sunday, 14th July, 1991",,6127,1,"13,166","South Sydney
+RABBITOHS",,18,11,"Eastern Suburbs
+ROOSTERS",,20,8
+0,NSWRL 1991,Round 17,"Friday, 19th July, 1991",,6128,1,"10,295","Eastern Suburbs
+ROOSTERS",,34,10,"Canterbury Bankstown
+BULLDOGS",,14,6
+0,NSWRL 1991,Round 17,"Saturday, 20th July, 1991",,6130,22,"18,367","Brisbane
+BRONCOS",,26,4,"St George
+DRAGONS",,28,5
+0,NSWRL 1991,Round 17,"Saturday, 20th July, 1991",,6129,34,"7,593","Gold Coast
+SEAGULLS",,12,8,"Manly Warringah
+SEA EAGLES",,16,9
+0,NSWRL 1991,Round 17,"Sunday, 21st July, 1991",,6134,7,"6,106","Balmain
+TIGERS",,34,10,"Cronulla Sutherland
+SHARKS",,20,9
+0,NSWRL 1991,Round 17,"Sunday, 21st July, 1991",,6131,21,"11,940","Illawarra
+STEELERS",,26,8,"South Sydney
+RABBITOHS",,14,2
+0,NSWRL 1991,Round 17,"Sunday, 21st July, 1991",,6132,11,"20,085","Newcastle
+KNIGHTS",,12,9,"Penrith
+PANTHERS",,26,9
+0,NSWRL 1991,Round 17,"Sunday, 21st July, 1991",,6133,25,"19,289","North Sydney
+BEARS",,22,2,"Western Suburbs
+MAGPIES",,18,4
+0,NSWRL 1991,Round 17,"Sunday, 21st July, 1991",,6135,8,"11,571","Parramatta
+EELS",,2,10,"Canberra
+RAIDERS",,16,6
+0,NSWRL 1991,Round 18,"Friday, 26th July, 1991",,6136,8,"10,010","Parramatta
+EELS",,6,4,"North Sydney
+BEARS",,12,4
+0,NSWRL 1991,Round 18,"Saturday, 27th July, 1991",,6137,27,"6,305","Canterbury Bankstown
+BULLDOGS",,19,7,"Illawarra
+STEELERS",,12,6
+0,NSWRL 1991,Round 18,"Sunday, 28th July, 1991",,6139,7,"5,602","Balmain
+TIGERS",,25,8,"Newcastle
+KNIGHTS",,16,12
+0,NSWRL 1991,Round 18,"Sunday, 28th July, 1991",,6140,9,"7,071","Cronulla Sutherland
+SHARKS",,48,3,"Eastern Suburbs
+ROOSTERS",,14,4
+0,NSWRL 1991,Round 18,"Sunday, 28th July, 1991",,6138,5,"15,225","Manly Warringah
+SEA EAGLES",,8,7,"Western Suburbs
+MAGPIES",,9,10
+0,NSWRL 1991,Round 18,"Sunday, 28th July, 1991",,6141,23,"8,504","St George
+DRAGONS",,14,11,"Gold Coast
+SEAGULLS",,6,9
+0,NSWRL 1991,Round 18,"Sunday, 28th July, 1991",,6142,1,"9,101","South Sydney
+RABBITOHS",,12,5,"Penrith
+PANTHERS",,23,12
+0,NSWRL 1991,Round 18,"Sunday, 28th July, 1991",3:00pm (local time),6143,4,"17,245","Canberra
+RAIDERS",2,8,7,"Brisbane
+BRONCOS",4,18,6
+0,NSWRL 1991,Round 19,"Friday, 2nd August, 1991",,6144,19,"17,286","Western Suburbs
+MAGPIES",,6,10,"St George
+DRAGONS",,6,8
+0,NSWRL 1991,Round 19,"Saturday, 3rd August, 1991",,6146,3,"9,803","Penrith
+PANTHERS",,12,7,"Canterbury Bankstown
+BULLDOGS",,8,5
+0,NSWRL 1991,Round 19,"Saturday, 3rd August, 1991",6:30pm (local time),6145,34,"8,252","Gold Coast
+SEAGULLS",4,10,4,"Canberra
+RAIDERS",8,16,8
+0,NSWRL 1991,Round 19,"Sunday, 4th August, 1991",,6148,22,"14,906","Brisbane
+BRONCOS",,40,4,"Parramatta
+EELS",,16,2
+0,NSWRL 1991,Round 19,"Sunday, 4th August, 1991",,6150,1,"10,788","Eastern Suburbs
+ROOSTERS",,18,7,"Balmain
+TIGERS",,36,7
+0,NSWRL 1991,Round 19,"Sunday, 4th August, 1991",,6151,21,"13,240","Illawarra
+STEELERS",,44,5,"Cronulla Sutherland
+SHARKS",,6,8
+0,NSWRL 1991,Round 19,"Sunday, 4th August, 1991",,6147,11,"14,302","Newcastle
+KNIGHTS",,32,4,"South Sydney
+RABBITOHS",,16,7
+0,NSWRL 1991,Round 19,"Sunday, 4th August, 1991",,6149,25,"22,032","North Sydney
+BEARS",,0,9,"Manly Warringah
+SEA EAGLES",,15,10
+0,NSWRL 1991,Round 20,"Friday, 9th August, 1991",,6152,22,"17,622","Brisbane
+BRONCOS",,44,4,"North Sydney
+BEARS",,6,7
+0,NSWRL 1991,Round 20,"Saturday, 10th August, 1991",,6153,7,"5,119","Balmain
+TIGERS",,26,4,"Illawarra
+STEELERS",,16,8
+0,NSWRL 1991,Round 20,"Sunday, 11th August, 1991",,6154,4,"16,380","Canberra
+RAIDERS",,36,7,"Western Suburbs
+MAGPIES",,8,4
+0,NSWRL 1991,Round 20,"Sunday, 11th August, 1991",,6155,27,"8,980","Canterbury Bankstown
+BULLDOGS",,40,7,"South Sydney
+RABBITOHS",,2,10
+0,NSWRL 1991,Round 20,"Sunday, 11th August, 1991",,6156,9,"8,015","Cronulla Sutherland
+SHARKS",,14,6,"Penrith
+PANTHERS",,12,10
+0,NSWRL 1991,Round 20,"Sunday, 11th August, 1991",,6157,1,"4,562","Eastern Suburbs
+ROOSTERS",,12,6,"Newcastle
+KNIGHTS",,22,2
+0,NSWRL 1991,Round 20,"Sunday, 11th August, 1991",,6158,8,"9,010","Parramatta
+EELS",,42,4,"Gold Coast
+SEAGULLS",,22,1
+0,NSWRL 1991,Round 20,"Sunday, 11th August, 1991",,6159,23,"20,050","St George
+DRAGONS",,18,4,"Manly Warringah
+SEA EAGLES",,20,6
+0,NSWRL 1991,Round 21,"Friday, 16th August, 1991",7:35pm (local time),6160,11,"21,573","Newcastle
+KNIGHTS",12,12,9,"Canterbury Bankstown
+BULLDOGS",10,26,10
+0,NSWRL 1991,Round 21,"Saturday, 17th August, 1991",,6161,34,"12,620","Gold Coast
+SEAGULLS",,18,6,"Brisbane
+BRONCOS",,20,7
+0,NSWRL 1991,Round 21,"Sunday, 18th August, 1991",,6167,21,"9,414","Illawarra
+STEELERS",,34,5,"Eastern Suburbs
+ROOSTERS",,0,6
+0,NSWRL 1991,Round 21,"Sunday, 18th August, 1991",,6165,5,"21,258","Manly Warringah
+SEA EAGLES",5,13,6,"Canberra
+RAIDERS",6,14,7
+0,NSWRL 1991,Round 21,"Sunday, 18th August, 1991",,6164,3,"18,827","Penrith
+PANTHERS",,41,11,"Balmain
+TIGERS",,12,11
+0,NSWRL 1991,Round 21,"Sunday, 18th August, 1991",,6162,23,"9,167","St George
+DRAGONS",,12,11,"North Sydney
+BEARS",,12,6
+0,NSWRL 1991,Round 21,"Sunday, 18th August, 1991",,6166,1,"7,895","South Sydney
+RABBITOHS",,23,8,"Cronulla Sutherland
+SHARKS",,30,5
+0,NSWRL 1991,Round 21,"Sunday, 18th August, 1991",,6163,19,"11,341","Western Suburbs
+MAGPIES",,12,8,"Parramatta
+EELS",,4,4
+0,NSWRL 1991,Round 22,"Friday, 23rd August, 1991",7:30pm (local time),6168,8,"20,629","Parramatta
+EELS",10,20,7,"Manly Warringah
+SEA EAGLES",18,30,8
+0,NSWRL 1991,Round 22,"Saturday, 24th August, 1991",3:05pm (local time),6169,22,"14,628","Brisbane
+BRONCOS",12,28,9,"Western Suburbs
+MAGPIES",4,14,7
+0,NSWRL 1991,Round 22,"Sunday, 25th August, 1991",3:00pm (local time),6171,7,"7,757","Balmain
+TIGERS",9,18,11,"South Sydney
+RABBITOHS",9,20,8
+0,NSWRL 1991,Round 22,"Sunday, 25th August, 1991",3:00pm (local time),6172,4,"24,460","Canberra
+RAIDERS",10,40,7,"St George
+DRAGONS",2,8,11
+0,NSWRL 1991,Round 22,"Sunday, 25th August, 1991",3:00pm (local time),6173,27,"15,324","Canterbury Bankstown
+BULLDOGS",0,26,5,"Cronulla Sutherland
+SHARKS",12,16,15
+0,NSWRL 1991,Round 22,"Sunday, 25th August, 1991",3:00pm (local time),6174,1,"6,591","Eastern Suburbs
+ROOSTERS",4,8,4,"Penrith
+PANTHERS",24,42,5
+0,NSWRL 1991,Round 22,"Sunday, 25th August, 1991",3:00pm (local time),6170,21,"11,224","Illawarra
+STEELERS",10,22,7,"Newcastle
+KNIGHTS",0,16,3
+0,NSWRL 1991,Round 22,"Sunday, 25th August, 1991",3:00pm (local time),6175,25,"11,420","North Sydney
+BEARS",18,32,5,"Gold Coast
+SEAGULLS",0,10,4
+0,NSWRL 1991,Playoff,"Tuesday, 27th August, 1991",7:30pm (local time),6176,8,"17,022","Western Suburbs
+MAGPIES",4,19,8,"Canterbury Bankstown
+BULLDOGS",2,14,8
+0,NSWRL 1991,Minor Prelim Semi,"Saturday, 31st August, 1991",3:00pm (local time),6177,1,"24,792","Canberra
+RAIDERS",12,22,10,"Western Suburbs
+MAGPIES",6,8,6
+0,NSWRL 1991,Major Prelim Semi,"Sunday, 1st September, 1991",3:00pm (local time),6178,1,"32,878","North Sydney
+BEARS",14,28,5,"Manly Warringah
+SEA EAGLES",10,16,3
+0,NSWRL 1991,Minor Semi,"Saturday, 7th September, 1991",,6179,1,"34,707","Canberra
+RAIDERS",,34,5,"Manly Warringah
+SEA EAGLES",,26,3
+0,NSWRL 1991,Major Semi,"Sunday, 8th September, 1991",,6180,1,"38,635","Penrith
+PANTHERS",12,16,11,"North Sydney
+BEARS",0,14,10
+0,NSWRL 1991,Prelim Final,"Sunday, 15th September, 1991",,6181,1,"39,665","Canberra
+RAIDERS",,30,3,"North Sydney
+BEARS",,14,3
+0,NSWRL 1991,Grand Final,"Sunday, 22nd September, 1991",,6182,1,"41,815","Penrith
+PANTHERS",6,19,5,"Canberra
+RAIDERS",12,12,7

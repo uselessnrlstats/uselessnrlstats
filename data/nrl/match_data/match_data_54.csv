@@ -1,0 +1,227 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1962,Round 1,"Saturday, 7th April, 1962",3:00pm (local time),11867,76,"3,665",NEWTOWN,8,15,,CANTERBURY BANKSTOWN,2,12,
+0,NSWRFL 1962,Round 1,"Saturday, 7th April, 1962",3:00pm (local time),11866,24,"16,901","St George
+DRAGONS",10,17,,"Balmain
+TIGERS",13,25,
+0,NSWRFL 1962,Round 1,"Saturday, 7th April, 1962",3:00pm (local time),11865,44,"9,227","South Sydney
+RABBITOHS",3,14,16,"Parramatta
+EELS",4,7,16
+0,NSWRFL 1962,Round 1,"Saturday, 7th April, 1962",3:00pm (local time),11864,112,"6,236","Western Suburbs
+MAGPIES",9,20,,"North Sydney
+BEARS",7,17,
+0,NSWRFL 1962,Round 1,"Sunday, 8th April, 1962",3:00pm (local time),11868,109,"11,086",EASTERN SUBURBS,10,10,,"Manly Warringah
+SEA EAGLES",0,14,
+0,NSWRFL 1962,Round 2,"Saturday, 14th April, 1962",3:00pm (local time),11871,27,"4,641",CANTERBURY BANKSTOWN,9,24,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1962,Round 2,"Saturday, 14th April, 1962",3:00pm (local time),11869,25,"6,176","North Sydney
+BEARS",5,12,,"St George
+DRAGONS",8,20,
+0,NSWRFL 1962,Round 2,"Saturday, 14th April, 1962",3:00pm (local time),11870,111,"9,000","Parramatta
+EELS",4,4,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1962,Round 2,"Saturday, 14th April, 1962",3:00pm (local time),11872,24,"14,115","South Sydney
+RABBITOHS",7,10,15,NEWTOWN,5,12,10
+0,NSWRFL 1962,Round 2,"Sunday, 15th April, 1962",3:00pm (local time),11873,109,"18,522","Manly Warringah
+SEA EAGLES",4,11,,"Balmain
+TIGERS",8,11,
+0,NSWRFL 1962,Round 3,"Saturday, 21st April, 1962",3:00pm (local time),11874,7,"6,552","Balmain
+TIGERS",7,12,,CANTERBURY BANKSTOWN,9,29,
+0,NSWRFL 1962,Round 3,"Saturday, 21st April, 1962",3:00pm (local time),11877,111,"8,929","Parramatta
+EELS",10,15,,"North Sydney
+BEARS",10,15,
+0,NSWRFL 1962,Round 3,"Saturday, 21st April, 1962",3:00pm (local time),11875,24,"14,162","St George
+DRAGONS",13,20,,"Manly Warringah
+SEA EAGLES",5,8,
+0,NSWRFL 1962,Round 3,"Saturday, 21st April, 1962",3:00pm (local time),11878,44,"7,707","South Sydney
+RABBITOHS",2,11,,EASTERN SUBURBS,11,11,
+0,NSWRFL 1962,Round 3,"Saturday, 21st April, 1962",3:00pm (local time),11876,112,"4,706","Western Suburbs
+MAGPIES",7,16,,NEWTOWN,3,12,
+0,NSWRFL 1962,Round 4,"Wednesday, 25th April, 1962",3:00pm (local time),11879,27,"7,195",CANTERBURY BANKSTOWN,9,26,7,"Manly Warringah
+SEA EAGLES",0,3,19
+0,NSWRFL 1962,Round 4,"Wednesday, 25th April, 1962",3:00pm (local time),11880,25,"7,218","North Sydney
+BEARS",9,19,,NEWTOWN,8,27,
+0,NSWRFL 1962,Round 4,"Wednesday, 25th April, 1962",3:00pm (local time),11881,24,"21,366","St George
+DRAGONS",7,30,,"Parramatta
+EELS",9,9,
+0,NSWRFL 1962,Round 4,"Wednesday, 25th April, 1962",3:00pm (local time),11882,44,"12,137","South Sydney
+RABBITOHS",13,23,,"Balmain
+TIGERS",7,16,
+0,NSWRFL 1962,Round 4,"Wednesday, 25th April, 1962",3:00pm (local time),11883,112,"7,218","Western Suburbs
+MAGPIES",15,24,,EASTERN SUBURBS,4,11,
+0,NSWRFL 1962,Round 5,"Saturday, 28th April, 1962",3:00pm (local time),11885,7,"7,877","Balmain
+TIGERS",,14,,"Western Suburbs
+MAGPIES",,35,
+0,NSWRFL 1962,Round 5,"Saturday, 28th April, 1962",3:00pm (local time),11886,24,"25,373",CANTERBURY BANKSTOWN,11,11,,"St George
+DRAGONS",17,31,
+0,NSWRFL 1962,Round 5,"Saturday, 28th April, 1962",3:00pm (local time),11884,5,"5,634","Manly Warringah
+SEA EAGLES",18,26,,"South Sydney
+RABBITOHS",8,23,
+0,NSWRFL 1962,Round 5,"Saturday, 28th April, 1962",3:00pm (local time),11887,111,"9,126","Parramatta
+EELS",0,5,,NEWTOWN,4,11,
+0,NSWRFL 1962,Round 5,"Sunday, 29th April, 1962",3:00pm (local time),11888,109,"9,908",EASTERN SUBURBS,,12,,"North Sydney
+BEARS",,28,
+0,NSWRFL 1962,Round 6,"Saturday, 5th May, 1962",3:00pm (local time),11889,24,"21,824",NEWTOWN,8,13,,"St George
+DRAGONS",16,24,
+0,NSWRFL 1962,Round 6,"Saturday, 5th May, 1962",3:00pm (local time),11890,25,"7,228","North Sydney
+BEARS",10,16,,"Balmain
+TIGERS",9,20,
+0,NSWRFL 1962,Round 6,"Saturday, 5th May, 1962",3:00pm (local time),11892,111,"7,076","Parramatta
+EELS",10,12,,EASTERN SUBURBS,0,9,
+0,NSWRFL 1962,Round 6,"Saturday, 5th May, 1962",3:00pm (local time),11891,44,"9,500","South Sydney
+RABBITOHS",5,10,,CANTERBURY BANKSTOWN,0,15,
+0,NSWRFL 1962,Round 6,"Sunday, 6th May, 1962",3:00pm (local time),11893,109,"15,711","Western Suburbs
+MAGPIES",3,20,,"Manly Warringah
+SEA EAGLES",4,11,
+0,NSWRFL 1962,Round 7,"Sunday, 20th May, 1962",3:00pm (local time),11896,7,"11,866","Balmain
+TIGERS",5,17,,"Parramatta
+EELS",23,26,
+0,NSWRFL 1962,Round 7,"Sunday, 20th May, 1962",3:00pm (local time),11897,27,"10,388",CANTERBURY BANKSTOWN,3,6,,"Western Suburbs
+MAGPIES",5,18,
+0,NSWRFL 1962,Round 7,"Sunday, 20th May, 1962",3:00pm (local time),11898,109,"6,346",EASTERN SUBURBS,12,12,,NEWTOWN,8,10,
+0,NSWRFL 1962,Round 7,"Sunday, 20th May, 1962",3:00pm (local time),11894,5,"5,689","Manly Warringah
+SEA EAGLES",15,38,,"North Sydney
+BEARS",0,12,
+0,NSWRFL 1962,Round 7,"Sunday, 20th May, 1962",3:00pm (local time),11895,23,"14,627","St George
+DRAGONS",12,21,12,"South Sydney
+RABBITOHS",4,4,14
+0,NSWRFL 1962,Round 8,"Sunday, 3rd June, 1962",3:00pm (local time),11900,109,"10,095",EASTERN SUBURBS,,10,,"St George
+DRAGONS",,13,
+0,NSWRFL 1962,Round 8,"Sunday, 3rd June, 1962",3:00pm (local time),11899,5,"7,959","Manly Warringah
+SEA EAGLES",13,18,,"Parramatta
+EELS",16,21,
+0,NSWRFL 1962,Round 8,"Sunday, 3rd June, 1962",3:00pm (local time),11901,76,"7,618",NEWTOWN,4,13,,"Balmain
+TIGERS",2,10,
+0,NSWRFL 1962,Round 8,"Monday, 4th June, 1962",3:00pm (local time),11903,25,"5,036","North Sydney
+BEARS",7,16,,CANTERBURY BANKSTOWN,0,9,
+0,NSWRFL 1962,Round 8,"Monday, 4th June, 1962",3:00pm (local time),11902,44,"12,613","South Sydney
+RABBITOHS",10,14,,"Western Suburbs
+MAGPIES",14,19,
+0,NSWRFL 1962,Round 9,"Saturday, 16th June, 1962",3:00pm (local time),11905,76,"2,661",NEWTOWN,9,23,,"Manly Warringah
+SEA EAGLES",7,17,
+0,NSWRFL 1962,Round 9,"Saturday, 16th June, 1962",3:00pm (local time),11904,25,"7,463","North Sydney
+BEARS",4,17,,"South Sydney
+RABBITOHS",14,16,
+0,NSWRFL 1962,Round 9,"Saturday, 16th June, 1962",3:00pm (local time),11906,24,"32,020","Western Suburbs
+MAGPIES",8,12,,"St George
+DRAGONS",11,20,
+0,NSWRFL 1962,Round 9,"Sunday, 17th June, 1962",3:00pm (local time),11907,7,"5,800","Balmain
+TIGERS",0,13,,EASTERN SUBURBS,6,16,
+0,NSWRFL 1962,Round 9,"Sunday, 17th June, 1962",3:00pm (local time),11908,109,"11,553","Parramatta
+EELS",6,6,,CANTERBURY BANKSTOWN,3,6,
+0,NSWRFL 1962,Round 10,"Saturday, 23rd June, 1962",3:00pm (local time),11911,7,"6,032","Balmain
+TIGERS",6,16,15,"St George
+DRAGONS",11,16,11
+0,NSWRFL 1962,Round 10,"Saturday, 23rd June, 1962",3:00pm (local time),11909,24,"13,408","North Sydney
+BEARS",5,12,,"Western Suburbs
+MAGPIES",9,25,
+0,NSWRFL 1962,Round 10,"Saturday, 23rd June, 1962",3:00pm (local time),11910,111,"10,314","Parramatta
+EELS",5,29,,"South Sydney
+RABBITOHS",2,2,
+0,NSWRFL 1962,Round 10,"Sunday, 24th June, 1962",3:00pm (local time),11912,109,"8,629",CANTERBURY BANKSTOWN,,5,,NEWTOWN,,27,
+0,NSWRFL 1962,Round 10,"Sunday, 24th June, 1962",3:00pm (local time),11913,5,"4,932","Manly Warringah
+SEA EAGLES",5,17,,EASTERN SUBURBS,6,11,
+0,NSWRFL 1962,Round 11,"Saturday, 30th June, 1962",3:00pm (local time),11915,7,"3,724","Balmain
+TIGERS",5,13,,"Manly Warringah
+SEA EAGLES",0,5,
+0,NSWRFL 1962,Round 11,"Saturday, 30th June, 1962",3:00pm (local time),11914,76,"3,395",NEWTOWN,16,23,,"South Sydney
+RABBITOHS",7,11,
+0,NSWRFL 1962,Round 11,"Saturday, 30th June, 1962",3:00pm (local time),11916,23,"5,166","St George
+DRAGONS",15,33,,"North Sydney
+BEARS",8,8,
+0,NSWRFL 1962,Round 11,"Saturday, 30th June, 1962",3:00pm (local time),11917,24,"19,743","Western Suburbs
+MAGPIES",8,11,,"Parramatta
+EELS",8,23,
+0,NSWRFL 1962,Round 11,"Sunday, 1st July, 1962",3:00pm (local time),11918,109,"7,087",EASTERN SUBURBS,4,12,,CANTERBURY BANKSTOWN,7,7,
+0,NSWRFL 1962,Round 12,"Sunday, 8th July, 1962",3:00pm (local time),11923,27,"4,954",CANTERBURY BANKSTOWN,2,12,,"Balmain
+TIGERS",2,7,
+0,NSWRFL 1962,Round 12,"Sunday, 8th July, 1962",3:00pm (local time),11922,109,"7,211",EASTERN SUBURBS,9,19,,"South Sydney
+RABBITOHS",0,2,
+0,NSWRFL 1962,Round 12,"Sunday, 8th July, 1962",3:00pm (local time),11919,5,"4,650","Manly Warringah
+SEA EAGLES",5,5,,"St George
+DRAGONS",3,17,
+0,NSWRFL 1962,Round 12,"Sunday, 8th July, 1962",3:00pm (local time),11920,76,"8,136",NEWTOWN,10,10,,"Western Suburbs
+MAGPIES",15,17,
+0,NSWRFL 1962,Round 12,"Sunday, 8th July, 1962",3:00pm (local time),11921,25,"8,536","North Sydney
+BEARS",13,15,,"Parramatta
+EELS",12,22,
+0,NSWRFL 1962,Round 13,"Sunday, 15th July, 1962",3:00pm (local time),11926,7,"4,770","Balmain
+TIGERS",0,9,18,"South Sydney
+RABBITOHS",5,10,11
+0,NSWRFL 1962,Round 13,"Sunday, 15th July, 1962",3:00pm (local time),11927,109,"7,467",EASTERN SUBURBS,3,11,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1962,Round 13,"Sunday, 15th July, 1962",3:00pm (local time),11928,5,"2,935","Manly Warringah
+SEA EAGLES",10,17,,CANTERBURY BANKSTOWN,8,15,
+0,NSWRFL 1962,Round 13,"Sunday, 15th July, 1962",3:00pm (local time),11924,76,"3,375",NEWTOWN,10,27,,"North Sydney
+BEARS",7,14,
+0,NSWRFL 1962,Round 13,"Sunday, 15th July, 1962",3:00pm (local time),11925,111,"18,522","Parramatta
+EELS",7,19,,"St George
+DRAGONS",0,8,
+0,NSWRFL 1962,Round 14,"Saturday, 21st July, 1962",3:00pm (local time),11929,24,"21,575",NEWTOWN,3,6,,"Parramatta
+EELS",3,10,
+0,NSWRFL 1962,Round 14,"Saturday, 21st July, 1962",3:00pm (local time),11931,25,"4,401","North Sydney
+BEARS",,15,,EASTERN SUBURBS,,19,
+0,NSWRFL 1962,Round 14,"Saturday, 21st July, 1962",3:00pm (local time),11930,112,"5,565","Western Suburbs
+MAGPIES",15,25,,"Balmain
+TIGERS",0,5,
+0,NSWRFL 1962,Round 14,"Sunday, 22nd July, 1962",3:00pm (local time),11933,23,"6,135","St George
+DRAGONS",14,28,,CANTERBURY BANKSTOWN,3,7,
+0,NSWRFL 1962,Round 14,"Sunday, 22nd July, 1962",3:00pm (local time),11932,109,"4,911","South Sydney
+RABBITOHS",11,14,,"Manly Warringah
+SEA EAGLES",10,20,
+0,NSWRFL 1962,Round 15,"Saturday, 28th July, 1962",3:00pm (local time),11934,7,"3,324","Balmain
+TIGERS",2,20,,"North Sydney
+BEARS",7,10,
+0,NSWRFL 1962,Round 15,"Saturday, 28th July, 1962",3:00pm (local time),11935,27,"3,454",CANTERBURY BANKSTOWN,3,10,,"South Sydney
+RABBITOHS",2,12,
+0,NSWRFL 1962,Round 15,"Saturday, 28th July, 1962",3:00pm (local time),11936,24,"16,799","St George
+DRAGONS",9,12,,NEWTOWN,2,13,
+0,NSWRFL 1962,Round 15,"Sunday, 29th July, 1962",3:00pm (local time),11938,109,"16,198",EASTERN SUBURBS,,19,,"Parramatta
+EELS",,4,
+0,NSWRFL 1962,Round 15,"Sunday, 29th July, 1962",3:00pm (local time),11937,5,"5,624","Manly Warringah
+SEA EAGLES",2,2,,"Western Suburbs
+MAGPIES",2,5,
+0,NSWRFL 1962,Round 16,"Saturday, 4th August, 1962",3:00pm (local time),11942,24,"17,451",NEWTOWN,5,23,,EASTERN SUBURBS,11,13,
+0,NSWRFL 1962,Round 16,"Saturday, 4th August, 1962",3:00pm (local time),11939,25,"4,201","North Sydney
+BEARS",4,13,,"Manly Warringah
+SEA EAGLES",2,2,
+0,NSWRFL 1962,Round 16,"Saturday, 4th August, 1962",3:00pm (local time),11940,111,"7,878","Parramatta
+EELS",7,9,,"Balmain
+TIGERS",8,14,
+0,NSWRFL 1962,Round 16,"Saturday, 4th August, 1962",3:00pm (local time),11941,112,"3,993","Western Suburbs
+MAGPIES",0,9,,CANTERBURY BANKSTOWN,7,9,
+0,NSWRFL 1962,Round 16,"Sunday, 5th August, 1962",3:00pm (local time),11943,109,"12,663","South Sydney
+RABBITOHS",5,5,,"St George
+DRAGONS",15,39,
+0,NSWRFL 1962,Round 17,"Saturday, 11th August, 1962",3:00pm (local time),11944,27,"2,087",CANTERBURY BANKSTOWN,16,16,,"North Sydney
+BEARS",2,4,
+0,NSWRFL 1962,Round 17,"Saturday, 11th August, 1962",3:00pm (local time),11945,111,"4,438","Parramatta
+EELS",5,7,,"Manly Warringah
+SEA EAGLES",5,12,
+0,NSWRFL 1962,Round 17,"Saturday, 11th August, 1962",3:00pm (local time),11947,24,"10,870","St George
+DRAGONS",2,6,,EASTERN SUBURBS,5,7,
+0,NSWRFL 1962,Round 17,"Saturday, 11th August, 1962",3:00pm (local time),11946,112,"3,039","Western Suburbs
+MAGPIES",8,24,,"South Sydney
+RABBITOHS",6,11,
+0,NSWRFL 1962,Round 17,"Sunday, 12th August, 1962",3:00pm (local time),11948,109,"9,301","Balmain
+TIGERS",9,15,,NEWTOWN,10,16,
+0,NSWRFL 1962,Round 18,"Saturday, 18th August, 1962",3:00pm (local time),11951,27,"3,894",CANTERBURY BANKSTOWN,5,9,,"Parramatta
+EELS",5,8,
+0,NSWRFL 1962,Round 18,"Saturday, 18th August, 1962",3:00pm (local time),11949,5,"2,858","Manly Warringah
+SEA EAGLES",3,8,,NEWTOWN,0,9,
+0,NSWRFL 1962,Round 18,"Saturday, 18th August, 1962",3:00pm (local time),11950,24,"33,949","St George
+DRAGONS",10,18,,"Western Suburbs
+MAGPIES",7,10,
+0,NSWRFL 1962,Round 18,"Saturday, 18th August, 1962",3:00pm (local time),11952,44,"3,583","South Sydney
+RABBITOHS",13,20,,"North Sydney
+BEARS",5,20,
+0,NSWRFL 1962,Round 18,"Sunday, 19th August, 1962",3:00pm (local time),11953,109,"4,429",EASTERN SUBURBS,8,11,,"Balmain
+TIGERS",0,0,
+0,NSWRFL 1962,Minor Semi,"Saturday, 25th August, 1962",3:00pm (local time),11954,24,"26,281","Western Suburbs
+MAGPIES",6,6,10,"Parramatta
+EELS",0,0,9
+0,NSWRFL 1962,Major Semi,"Saturday, 1st September, 1962",3:00pm (local time),11955,24,"36,058","St George
+DRAGONS",17,30,,NEWTOWN,6,9,
+0,NSWRFL 1962,Prelim Final,"Saturday, 8th September, 1962",3:00pm (local time),11956,24,"26,554","Western Suburbs
+MAGPIES",4,25,10,NEWTOWN,7,13,9
+0,NSWRFL 1962,Grand Final,"Saturday, 15th September, 1962",3:00pm (local time),11957,24,"41,184","St George
+DRAGONS",7,9,,"Western Suburbs
+MAGPIES",2,6,

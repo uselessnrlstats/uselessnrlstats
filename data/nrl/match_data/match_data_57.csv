@@ -1,0 +1,229 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1965,Round 1,"Saturday, 3rd April, 1965",3:00pm (local time),12146,27,"6,355",CANTERBURY BANKSTOWN,5,16,7,"South Sydney
+RABBITOHS",2,6,12
+0,NSWRFL 1965,Round 1,"Saturday, 3rd April, 1965",3:00pm (local time),12147,111,"7,639","Parramatta
+EELS",6,9,19,NEWTOWN,4,9,15
+0,NSWRFL 1965,Round 1,"Saturday, 3rd April, 1965",3:00pm (local time),12148,24,"17,748","Western Suburbs
+MAGPIES",9,9,,"St George
+DRAGONS",0,13,
+0,NSWRFL 1965,Round 1,"Sunday, 4th April, 1965",3:00pm (local time),12149,109,"6,823",EASTERN SUBURBS,2,5,,"Manly Warringah
+SEA EAGLES",13,26,
+0,NSWRFL 1965,Round 1,"Sunday, 4th April, 1965",3:00pm (local time),12150,25,"13,377","North Sydney
+BEARS",,14,21,"Balmain
+TIGERS",,14,16
+0,NSWRFL 1965,Round 2,"Saturday, 10th April, 1965",3:00pm (local time),12152,7,"8,404","Balmain
+TIGERS",7,17,,EASTERN SUBURBS,2,2,
+0,NSWRFL 1965,Round 2,"Saturday, 10th April, 1965",3:00pm (local time),12151,24,"12,091",NEWTOWN,0,0,,"St George
+DRAGONS",0,11,
+0,NSWRFL 1965,Round 2,"Sunday, 11th April, 1965",3:00pm (local time),12153,111,"10,899","Parramatta
+EELS",,6,,"North Sydney
+BEARS",,29,
+0,NSWRFL 1965,Round 2,"Sunday, 11th April, 1965",3:00pm (local time),12154,109,"7,088","Western Suburbs
+MAGPIES",6,15,13,CANTERBURY BANKSTOWN,11,18,11
+0,NSWRFL 1965,Round 2,"Sunday, 18th April, 1965",3:00pm (local time),12155,44,"16,758","South Sydney
+RABBITOHS",4,4,21,"Manly Warringah
+SEA EAGLES",2,17,13
+0,NSWRFL 1965,Round 3,"Saturday, 24th April, 1965",3:00pm (local time),12157,27,"5,490",CANTERBURY BANKSTOWN,7,23,,EASTERN SUBURBS,3,7,
+0,NSWRFL 1965,Round 3,"Saturday, 24th April, 1965",3:00pm (local time),12156,24,"17,160","Manly Warringah
+SEA EAGLES",0,2,,"North Sydney
+BEARS",10,23,
+0,NSWRFL 1965,Round 3,"Sunday, 25th April, 1965",3:00pm (local time),12159,23,"16,600","St George
+DRAGONS",19,24,,"Parramatta
+EELS",0,5,
+0,NSWRFL 1965,Round 3,"Sunday, 25th April, 1965",3:00pm (local time),12158,109,"12,463","South Sydney
+RABBITOHS",0,8,22,"Western Suburbs
+MAGPIES",0,4,23
+0,NSWRFL 1965,Round 3,"Monday, 26th April, 1965",3:00pm (local time),12160,24,"21,196","Balmain
+TIGERS",0,4,,NEWTOWN,7,15,
+0,NSWRFL 1965,Round 4,"Saturday, 1st May, 1965",3:00pm (local time),12164,5,"4,383","Manly Warringah
+SEA EAGLES",,10,,CANTERBURY BANKSTOWN,,11,
+0,NSWRFL 1965,Round 4,"Saturday, 1st May, 1965",3:00pm (local time),12161,24,"31,417","North Sydney
+BEARS",10,17,,"St George
+DRAGONS",9,14,
+0,NSWRFL 1965,Round 4,"Saturday, 1st May, 1965",3:00pm (local time),12162,111,"7,130","Parramatta
+EELS",7,14,9,"South Sydney
+RABBITOHS",10,23,13
+0,NSWRFL 1965,Round 4,"Saturday, 1st May, 1965",3:00pm (local time),12163,112,"7,628","Western Suburbs
+MAGPIES",2,11,,"Balmain
+TIGERS",10,14,
+0,NSWRFL 1965,Round 4,"Sunday, 2nd May, 1965",3:00pm (local time),12165,109,"7,062",EASTERN SUBURBS,4,11,15,NEWTOWN,7,17,9
+0,NSWRFL 1965,Round 5,"Saturday, 8th May, 1965",3:00pm (local time),12168,109,"11,263",CANTERBURY BANKSTOWN,2,10,,"Balmain
+TIGERS",6,15,
+0,NSWRFL 1965,Round 5,"Saturday, 8th May, 1965",3:00pm (local time),12166,23,"6,272","St George
+DRAGONS",5,7,23,"Manly Warringah
+SEA EAGLES",3,5,12
+0,NSWRFL 1965,Round 5,"Saturday, 8th May, 1965",3:00pm (local time),12167,112,"6,156","Western Suburbs
+MAGPIES",4,12,,"Parramatta
+EELS",2,2,
+0,NSWRFL 1965,Round 5,"Sunday, 9th May, 1965",3:00pm (local time),12170,109,"7,375",EASTERN SUBURBS,0,5,,"North Sydney
+BEARS",5,27,
+0,NSWRFL 1965,Round 5,"Sunday, 9th May, 1965",3:00pm (local time),12169,76,"9,135",NEWTOWN,0,8,16,"South Sydney
+RABBITOHS",3,10,14
+0,NSWRFL 1965,Round 6,"Saturday, 15th May, 1965",3:00pm (local time),12171,76,"5,031",NEWTOWN,4,7,,"Western Suburbs
+MAGPIES",4,15,
+0,NSWRFL 1965,Round 6,"Saturday, 15th May, 1965",3:00pm (local time),12173,111,"5,308","Parramatta
+EELS",14,19,,CANTERBURY BANKSTOWN,2,11,
+0,NSWRFL 1965,Round 6,"Saturday, 15th May, 1965",3:00pm (local time),12172,24,"29,651","South Sydney
+RABBITOHS",4,19,13,"North Sydney
+BEARS",2,17,12
+0,NSWRFL 1965,Round 6,"Sunday, 16th May, 1965",3:00pm (local time),12174,109,"14,601","Manly Warringah
+SEA EAGLES",2,6,,"Balmain
+TIGERS",8,8,
+0,NSWRFL 1965,Round 6,"Sunday, 16th May, 1965",3:00pm (local time),12175,23,"8,945","St George
+DRAGONS",12,44,,EASTERN SUBURBS,7,7,
+0,NSWRFL 1965,Round 7,"Saturday, 5th June, 1965",3:00pm (local time),12177,24,"23,753","Balmain
+TIGERS",4,12,11,"St George
+DRAGONS",10,14,12
+0,NSWRFL 1965,Round 7,"Saturday, 5th June, 1965",3:00pm (local time),12178,27,"6,419",CANTERBURY BANKSTOWN,5,7,,NEWTOWN,2,22,
+0,NSWRFL 1965,Round 7,"Saturday, 5th June, 1965",3:00pm (local time),12176,25,"10,522","North Sydney
+BEARS",8,15,,"Western Suburbs
+MAGPIES",4,14,
+0,NSWRFL 1965,Round 7,"Saturday, 5th June, 1965",3:00pm (local time),12179,44,"7,900","South Sydney
+RABBITOHS",16,24,3,EASTERN SUBURBS,2,7,12
+0,NSWRFL 1965,Round 7,"Sunday, 6th June, 1965",3:00pm (local time),12180,109,"14,015","Manly Warringah
+SEA EAGLES",9,11,,"Parramatta
+EELS",2,19,
+0,NSWRFL 1965,Round 8,"Saturday, 12th June, 1965",3:00pm (local time),12182,76,"2,731",NEWTOWN,4,11,19,"Manly Warringah
+SEA EAGLES",5,5,11
+0,NSWRFL 1965,Round 8,"Saturday, 12th June, 1965",3:00pm (local time),12181,24,"23,918","St George
+DRAGONS",2,4,11,"South Sydney
+RABBITOHS",9,14,13
+0,NSWRFL 1965,Round 8,"Sunday, 13th June, 1965",3:00pm (local time),12183,109,"5,560",EASTERN SUBURBS,8,15,,"Western Suburbs
+MAGPIES",4,8,
+0,NSWRFL 1965,Round 8,"Sunday, 13th June, 1965",3:00pm (local time),12184,25,"10,231","North Sydney
+BEARS",7,19,,CANTERBURY BANKSTOWN,7,9,
+0,NSWRFL 1965,Round 8,"Monday, 14th June, 1965",3:00pm (local time),12185,24,"26,022","Balmain
+TIGERS",,7,16,"Parramatta
+EELS",,12,12
+0,NSWRFL 1965,Round 9,"Saturday, 19th June, 1965",3:00pm (local time),12186,76,"7,364",NEWTOWN,4,16,21,"North Sydney
+BEARS",10,12,14
+0,NSWRFL 1965,Round 9,"Saturday, 19th June, 1965",3:00pm (local time),12188,111,"7,515","Parramatta
+EELS",17,28,,EASTERN SUBURBS,4,4,
+0,NSWRFL 1965,Round 9,"Saturday, 19th June, 1965",3:00pm (local time),12187,112,"3,760","Western Suburbs
+MAGPIES",6,12,,"Manly Warringah
+SEA EAGLES",7,11,
+0,NSWRFL 1965,Round 9,"Sunday, 20th June, 1965",3:00pm (local time),12189,27,"10,602",CANTERBURY BANKSTOWN,7,13,,"St George
+DRAGONS",12,19,
+0,NSWRFL 1965,Round 9,"Sunday, 20th June, 1965",3:00pm (local time),12190,109,"21,203","South Sydney
+RABBITOHS",7,7,,"Balmain
+TIGERS",9,20,
+0,NSWRFL 1965,Round 10,"Saturday, 26th June, 1965",3:00pm (local time),12191,24,"12,085","Balmain
+TIGERS",9,18,,"North Sydney
+BEARS",4,9,
+0,NSWRFL 1965,Round 10,"Sunday, 27th June, 1965",3:00pm (local time),12192,109,"13,175",NEWTOWN,2,10,12,"Parramatta
+EELS",9,11,15
+0,NSWRFL 1965,Round 11,"Saturday, 3rd July, 1965",3:00pm (local time),12198,27,"4,613",CANTERBURY BANKSTOWN,7,11,,"Western Suburbs
+MAGPIES",2,10,
+0,NSWRFL 1965,Round 11,"Saturday, 3rd July, 1965",3:00pm (local time),12196,5,"4,600","Manly Warringah
+SEA EAGLES",11,18,,"South Sydney
+RABBITOHS",2,15,
+0,NSWRFL 1965,Round 11,"Saturday, 3rd July, 1965",3:00pm (local time),12197,109,"11,671","North Sydney
+BEARS",11,16,11,"Parramatta
+EELS",8,17,12
+0,NSWRFL 1965,Round 11,"Sunday, 4th July, 1965",3:00pm (local time),12200,109,"8,006",EASTERN SUBURBS,2,14,17,"Balmain
+TIGERS",6,21,19
+0,NSWRFL 1965,Round 11,"Sunday, 4th July, 1965",3:00pm (local time),12199,23,"13,859","St George
+DRAGONS",15,36,11,NEWTOWN,5,5,11
+0,NSWRFL 1965,Round 10,"Tuesday, 6th July, 1965",3:00pm (local time),12193,44,"7,107","South Sydney
+RABBITOHS",12,22,,CANTERBURY BANKSTOWN,4,12,
+0,NSWRFL 1965,Round 10,"Tuesday, 6th July, 1965",9:00pm (local time),12194,5,"3,520","Manly Warringah
+SEA EAGLES",5,7,,EASTERN SUBURBS,7,17,
+0,NSWRFL 1965,Round 10,"Wednesday, 7th July, 1965",3:00pm (local time),12195,23,"6,597","St George
+DRAGONS",14,32,,"Western Suburbs
+MAGPIES",4,4,
+0,NSWRFL 1965,Round 12,"Saturday, 10th July, 1965",3:00pm (local time),12201,24,"33,706","Parramatta
+EELS",5,10,,"St George
+DRAGONS",2,18,
+0,NSWRFL 1965,Round 12,"Saturday, 10th July, 1965",3:00pm (local time),12202,112,"4,699","Western Suburbs
+MAGPIES",10,15,,"South Sydney
+RABBITOHS",5,8,
+0,NSWRFL 1965,Round 12,"Sunday, 11th July, 1965",3:00pm (local time),12205,109,"4,177",EASTERN SUBURBS,2,11,,CANTERBURY BANKSTOWN,9,9,
+0,NSWRFL 1965,Round 12,"Sunday, 11th July, 1965",3:00pm (local time),12204,76,"9,150",NEWTOWN,4,14,,"Balmain
+TIGERS",4,6,
+0,NSWRFL 1965,Round 12,"Sunday, 11th July, 1965",3:00pm (local time),12203,25,"9,255","North Sydney
+BEARS",11,20,,"Manly Warringah
+SEA EAGLES",7,12,
+0,NSWRFL 1965,Round 13,"Saturday, 17th July, 1965",3:00pm (local time),12206,27,"2,760",CANTERBURY BANKSTOWN,10,15,,"Manly Warringah
+SEA EAGLES",14,35,
+0,NSWRFL 1965,Round 13,"Saturday, 17th July, 1965",3:00pm (local time),12208,76,"2,177",NEWTOWN,5,11,,EASTERN SUBURBS,11,11,
+0,NSWRFL 1965,Round 13,"Saturday, 17th July, 1965",3:00pm (local time),12207,24,"25,903","St George
+DRAGONS",11,23,,"North Sydney
+BEARS",2,11,
+0,NSWRFL 1965,Round 13,"Sunday, 18th July, 1965",3:00pm (local time),12209,7,"4,100","Balmain
+TIGERS",7,7,,"Western Suburbs
+MAGPIES",2,9,
+0,NSWRFL 1965,Round 13,"Sunday, 18th July, 1965",3:00pm (local time),12210,109,"7,757","South Sydney
+RABBITOHS",0,2,,"Parramatta
+EELS",0,0,
+0,NSWRFL 1965,Round 14,"Saturday, 24th July, 1965",3:00pm (local time),12211,7,"4,246","Balmain
+TIGERS",6,20,,CANTERBURY BANKSTOWN,0,3,
+0,NSWRFL 1965,Round 14,"Saturday, 24th July, 1965",3:00pm (local time),12212,24,"16,588","South Sydney
+RABBITOHS",7,10,10,NEWTOWN,2,6,17
+0,NSWRFL 1965,Round 14,"Sunday, 25th July, 1965",3:00pm (local time),12213,5,"5,774","Manly Warringah
+SEA EAGLES",3,7,18,"St George
+DRAGONS",6,16,10
+0,NSWRFL 1965,Round 14,"Sunday, 25th July, 1965",3:00pm (local time),12215,25,"6,731","North Sydney
+BEARS",4,13,,EASTERN SUBURBS,4,11,
+0,NSWRFL 1965,Round 14,"Sunday, 25th July, 1965",3:00pm (local time),12214,109,"16,325","Parramatta
+EELS",7,18,,"Western Suburbs
+MAGPIES",4,4,
+0,NSWRFL 1965,Round 15,"Saturday, 31st July, 1965",3:00pm (local time),12217,27,"6,182",CANTERBURY BANKSTOWN,7,11,,"Parramatta
+EELS",9,17,
+0,NSWRFL 1965,Round 15,"Saturday, 31st July, 1965",3:00pm (local time),12216,24,"23,482","North Sydney
+BEARS",9,22,,"South Sydney
+RABBITOHS",7,13,
+0,NSWRFL 1965,Round 15,"Saturday, 31st July, 1965",3:00pm (local time),12218,112,"3,005","Western Suburbs
+MAGPIES",4,11,,NEWTOWN,11,21,
+0,NSWRFL 1965,Round 15,"Sunday, 1st August, 1965",3:00pm (local time),12219,7,"9,044","Balmain
+TIGERS",6,17,,"Manly Warringah
+SEA EAGLES",4,4,
+0,NSWRFL 1965,Round 15,"Sunday, 1st August, 1965",3:00pm (local time),12220,109,"9,804",EASTERN SUBURBS,4,4,,"St George
+DRAGONS",13,24,
+0,NSWRFL 1965,Round 16,"Saturday, 7th August, 1965",3:00pm (local time),12221,111,"8,483","Parramatta
+EELS",5,14,,"Manly Warringah
+SEA EAGLES",7,10,
+0,NSWRFL 1965,Round 16,"Saturday, 7th August, 1965",3:00pm (local time),12223,24,"18,826","St George
+DRAGONS",21,41,,"Balmain
+TIGERS",0,0,
+0,NSWRFL 1965,Round 16,"Saturday, 7th August, 1965",3:00pm (local time),12222,112,"3,175","Western Suburbs
+MAGPIES",0,8,,"North Sydney
+BEARS",9,20,
+0,NSWRFL 1965,Round 16,"Sunday, 8th August, 1965",3:00pm (local time),12224,109,"11,015",EASTERN SUBURBS,2,4,,"South Sydney
+RABBITOHS",10,18,
+0,NSWRFL 1965,Round 16,"Sunday, 8th August, 1965",3:00pm (local time),12225,76,"4,320",NEWTOWN,4,15,,CANTERBURY BANKSTOWN,2,7,
+0,NSWRFL 1965,Round 17,"Saturday, 14th August, 1965",3:00pm (local time),12226,27,"4,762",CANTERBURY BANKSTOWN,4,6,,"North Sydney
+BEARS",8,23,
+0,NSWRFL 1965,Round 17,"Saturday, 14th August, 1965",3:00pm (local time),12228,111,"17,341","Parramatta
+EELS",7,19,12,"Balmain
+TIGERS",10,10,3
+0,NSWRFL 1965,Round 17,"Saturday, 14th August, 1965",3:00pm (local time),12227,24,"23,770","South Sydney
+RABBITOHS",2,17,,"St George
+DRAGONS",3,8,
+0,NSWRFL 1965,Round 17,"Saturday, 14th August, 1965",3:00pm (local time),12229,112,"1,541","Western Suburbs
+MAGPIES",7,13,,EASTERN SUBURBS,3,5,
+0,NSWRFL 1965,Round 17,"Sunday, 15th August, 1965",3:00pm (local time),12230,109,"6,464","Manly Warringah
+SEA EAGLES",10,23,,NEWTOWN,11,14,
+0,NSWRFL 1965,Round 18,"Saturday, 21st August, 1965",3:00pm (local time),12232,24,"22,682","Balmain
+TIGERS",8,13,11,"South Sydney
+RABBITOHS",2,7,13
+0,NSWRFL 1965,Round 18,"Saturday, 21st August, 1965",3:00pm (local time),12231,5,"2,955","Manly Warringah
+SEA EAGLES",8,19,,"Western Suburbs
+MAGPIES",4,7,
+0,NSWRFL 1965,Round 18,"Saturday, 21st August, 1965",3:00pm (local time),12233,25,"6,432","North Sydney
+BEARS",7,11,,NEWTOWN,2,11,
+0,NSWRFL 1965,Round 18,"Saturday, 21st August, 1965",3:00pm (local time),12234,23,"5,646","St George
+DRAGONS",20,46,,CANTERBURY BANKSTOWN,2,2,
+0,NSWRFL 1965,Round 18,"Sunday, 22nd August, 1965",3:00pm (local time),12235,109,"12,707",EASTERN SUBURBS,4,9,,"Parramatta
+EELS",7,23,
+0,NSWRFL 1965,Minor Semi,"Saturday, 28th August, 1965",3:00pm (local time),12236,24,"54,626","South Sydney
+RABBITOHS",7,17,7,"Parramatta
+EELS",2,2,11
+0,NSWRFL 1965,Major Semi,"Saturday, 4th September, 1965",3:00pm (local time),12237,24,"38,944","St George
+DRAGONS",28,47,5,"North Sydney
+BEARS",2,7,13
+0,NSWRFL 1965,Prelim Final,"Saturday, 11th September, 1965",3:00pm (local time),12238,24,"36,695","South Sydney
+RABBITOHS",11,14,7,"North Sydney
+BEARS",5,9,15
+0,NSWRFL 1965,Grand Final,"Saturday, 18th September, 1965",3:00pm (local time),12239,24,"78,056","St George
+DRAGONS",5,12,12,"South Sydney
+RABBITOHS",4,8,15

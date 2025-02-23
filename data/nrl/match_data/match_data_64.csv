@@ -1,0 +1,365 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1972,Round 1,"Saturday, 25th March, 1972",2:30pm (local time),13015,9,"5,327","Cronulla Sutherland
+SHARKS",9,26,14,"North Sydney
+BEARS",5,13,15
+0,NSWRFL 1972,Round 1,"Saturday, 25th March, 1972",2:30pm (local time),13016,44,"9,962","South Sydney
+RABBITOHS",23,37,10,"Parramatta
+EELS",3,3,8
+0,NSWRFL 1972,Round 1,"Sunday, 26th March, 1972",2:30pm (local time),13018,109,"7,591","Balmain
+TIGERS",4,15,18,"Western Suburbs
+MAGPIES",8,11,7
+0,NSWRFL 1972,Round 1,"Sunday, 26th March, 1972",2:30pm (local time),13019,27,"15,943",CANTERBURY BANKSTOWN,5,18,6,"St George
+DRAGONS",2,14,15
+0,NSWRFL 1972,Round 1,"Sunday, 26th March, 1972",2:30pm (local time),13017,5,"13,437","Manly Warringah
+SEA EAGLES",20,34,17,"Penrith
+PANTHERS",2,6,5
+0,NSWRFL 1972,Round 1,"Sunday, 26th March, 1972",2:30pm (local time),13020,76,"5,584",NEWTOWN,0,12,7,"Eastern Suburbs
+ROOSTERS",7,35,8
+0,NSWRFL 1972,Round 2,"Saturday, 1st April, 1972",2:30pm (local time),13021,9,"4,942","Cronulla Sutherland
+SHARKS",2,2,14,"Penrith
+PANTHERS",2,5,16
+0,NSWRFL 1972,Round 2,"Saturday, 1st April, 1972",2:30pm (local time),13022,76,"6,306",NEWTOWN,9,22,9,CANTERBURY BANKSTOWN,10,10,17
+0,NSWRFL 1972,Round 2,"Sunday, 2nd April, 1972",2:30pm (local time),13026,25,"5,598","North Sydney
+BEARS",7,10,17,"Balmain
+TIGERS",0,0,17
+0,NSWRFL 1972,Round 2,"Sunday, 2nd April, 1972",2:30pm (local time),13023,111,"6,309","Parramatta
+EELS",7,9,14,"Western Suburbs
+MAGPIES",7,9,9
+0,NSWRFL 1972,Round 2,"Sunday, 2nd April, 1972",2:30pm (local time),13024,24,"21,638","South Sydney
+RABBITOHS",9,21,12,"Eastern Suburbs
+ROOSTERS",7,12,7
+0,NSWRFL 1972,Round 2,"Monday, 3rd April, 1972",2:30pm (local time),13025,23,"6,182","St George
+DRAGONS",6,18,13,"Manly Warringah
+SEA EAGLES",0,0,7
+0,NSWRFL 1972,Round 3,"Saturday, 8th April, 1972",2:30pm (local time),13027,24,"18,215",CANTERBURY BANKSTOWN,3,12,7,"South Sydney
+RABBITOHS",14,26,12
+0,NSWRFL 1972,Round 3,"Saturday, 8th April, 1972",2:30pm (local time),13028,110,"4,454","Western Suburbs
+MAGPIES",7,7,11,"Eastern Suburbs
+ROOSTERS",5,23,14
+0,NSWRFL 1972,Round 3,"Sunday, 9th April, 1972",2:30pm (local time),13030,109,"8,015","Balmain
+TIGERS",15,28,11,"Parramatta
+EELS",13,28,16
+0,NSWRFL 1972,Round 3,"Sunday, 9th April, 1972",2:30pm (local time),13029,5,"13,732","Manly Warringah
+SEA EAGLES",0,14,15,NEWTOWN,5,13,5
+0,NSWRFL 1972,Round 3,"Sunday, 9th April, 1972",2:30pm (local time),13031,3,"6,623","Penrith
+PANTHERS",7,22,8,"North Sydney
+BEARS",19,41,9
+0,NSWRFL 1972,Round 3,"Sunday, 9th April, 1972",2:30pm (local time),13032,23,"13,484","St George
+DRAGONS",17,37,14,"Cronulla Sutherland
+SHARKS",0,0,7
+0,NSWRFL 1972,Round 4,"Saturday, 15th April, 1972",2:30pm (local time),13033,24,"25,536","Manly Warringah
+SEA EAGLES",15,23,10,"South Sydney
+RABBITOHS",13,16,9
+0,NSWRFL 1972,Round 4,"Saturday, 15th April, 1972",2:30pm (local time),13034,25,"10,556","North Sydney
+BEARS",2,7,16,"St George
+DRAGONS",10,15,9
+0,NSWRFL 1972,Round 4,"Sunday, 16th April, 1972",2:30pm (local time),13035,9,"5,704","Cronulla Sutherland
+SHARKS",7,12,12,NEWTOWN,7,27,8
+0,NSWRFL 1972,Round 4,"Sunday, 16th April, 1972",2:30pm (local time),13036,109,"10,649","Eastern Suburbs
+ROOSTERS",32,50,5,"Parramatta
+EELS",7,12,9
+0,NSWRFL 1972,Round 4,"Sunday, 16th April, 1972",2:30pm (local time),13037,3,"6,400","Penrith
+PANTHERS",12,20,12,"Balmain
+TIGERS",10,15,16
+0,NSWRFL 1972,Round 4,"Sunday, 16th April, 1972",2:30pm (local time),13038,110,"7,749","Western Suburbs
+MAGPIES",5,13,10,CANTERBURY BANKSTOWN,5,9,10
+0,NSWRFL 1972,Round 5,"Saturday, 22nd April, 1972",2:30pm (local time),13039,24,"8,610",NEWTOWN,9,21,8,"North Sydney
+BEARS",18,21,6
+0,NSWRFL 1972,Round 5,"Saturday, 22nd April, 1972",2:30pm (local time),13040,44,"5,221","South Sydney
+RABBITOHS",10,30,14,"Cronulla Sutherland
+SHARKS",11,16,8
+0,NSWRFL 1972,Round 5,"Sunday, 23rd April, 1972",2:30pm (local time),13043,109,"11,577","Eastern Suburbs
+ROOSTERS",13,28,10,"Balmain
+TIGERS",4,17,13
+0,NSWRFL 1972,Round 5,"Sunday, 23rd April, 1972",2:30pm (local time),13041,5,"14,840","Manly Warringah
+SEA EAGLES",12,18,12,"Western Suburbs
+MAGPIES",5,14,9
+0,NSWRFL 1972,Round 5,"Sunday, 23rd April, 1972",2:30pm (local time),13044,111,"8,255","Parramatta
+EELS",9,14,10,CANTERBURY BANKSTOWN,18,24,10
+0,NSWRFL 1972,Round 5,"Sunday, 23rd April, 1972",2:30pm (local time),13042,23,"9,652","St George
+DRAGONS",9,31,18,"Penrith
+PANTHERS",2,7,6
+0,NSWRFL 1972,Round 6,"Tuesday, 25th April, 1972",2:30pm (local time),13047,109,"14,912","Balmain
+TIGERS",5,8,13,"St George
+DRAGONS",8,17,9
+0,NSWRFL 1972,Round 6,"Tuesday, 25th April, 1972",2:30pm (local time),13048,27,"13,800",CANTERBURY BANKSTOWN,8,13,7,"Eastern Suburbs
+ROOSTERS",2,7,13
+0,NSWRFL 1972,Round 6,"Tuesday, 25th April, 1972",2:30pm (local time),13049,9,"4,093","Cronulla Sutherland
+SHARKS",2,12,7,"Western Suburbs
+MAGPIES",9,18,14
+0,NSWRFL 1972,Round 6,"Tuesday, 25th April, 1972",2:30pm (local time),13045,76,"4,064",NEWTOWN,10,23,8,"Penrith
+PANTHERS",5,5,8
+0,NSWRFL 1972,Round 6,"Tuesday, 25th April, 1972",2:30pm (local time),13046,25,"12,897","North Sydney
+BEARS",12,14,11,"South Sydney
+RABBITOHS",10,19,15
+0,NSWRFL 1972,Round 6,"Tuesday, 25th April, 1972",2:30pm (local time),13050,111,"8,129","Parramatta
+EELS",7,7,13,"Manly Warringah
+SEA EAGLES",0,9,15
+0,NSWRFL 1972,Round 7,"Saturday, 29th April, 1972",2:30pm (local time),13051,24,"22,202","Eastern Suburbs
+ROOSTERS",15,24,5,"Manly Warringah
+SEA EAGLES",14,17,12
+0,NSWRFL 1972,Round 7,"Saturday, 29th April, 1972",2:30pm (local time),13052,112,"6,161","Western Suburbs
+MAGPIES",12,39,14,"North Sydney
+BEARS",5,10,9
+0,NSWRFL 1972,Round 7,"Sunday, 30th April, 1972",2:30pm (local time),13056,27,"13,233",CANTERBURY BANKSTOWN,6,16,9,"Balmain
+TIGERS",8,10,11
+0,NSWRFL 1972,Round 7,"Sunday, 30th April, 1972",2:30pm (local time),13054,9,"4,778","Cronulla Sutherland
+SHARKS",10,32,8,"Parramatta
+EELS",7,18,10
+0,NSWRFL 1972,Round 7,"Sunday, 30th April, 1972",2:30pm (local time),13053,3,"10,066","Penrith
+PANTHERS",10,20,9,"South Sydney
+RABBITOHS",9,26,9
+0,NSWRFL 1972,Round 7,"Sunday, 30th April, 1972",2:30pm (local time),13055,23,"16,054","St George
+DRAGONS",9,24,11,NEWTOWN,10,14,11
+0,NSWRFL 1972,Round 8,"Saturday, 6th May, 1972",2:30pm (local time),13057,3,"4,142","Penrith
+PANTHERS",0,5,14,"Western Suburbs
+MAGPIES",12,23,12
+0,NSWRFL 1972,Round 8,"Saturday, 6th May, 1972",2:30pm (local time),13058,24,"47,298","South Sydney
+RABBITOHS",2,7,6,"St George
+DRAGONS",15,24,11
+0,NSWRFL 1972,Round 8,"Sunday, 7th May, 1972",2:30pm (local time),13062,109,"7,684","Eastern Suburbs
+ROOSTERS",17,38,8,"Cronulla Sutherland
+SHARKS",11,21,8
+0,NSWRFL 1972,Round 8,"Sunday, 7th May, 1972",2:30pm (local time),13061,5,"18,574","Manly Warringah
+SEA EAGLES",13,41,13,CANTERBURY BANKSTOWN,2,12,8
+0,NSWRFL 1972,Round 8,"Sunday, 7th May, 1972",2:30pm (local time),13060,76,"7,010",NEWTOWN,3,16,15,"Balmain
+TIGERS",1,21,12
+0,NSWRFL 1972,Round 8,"Sunday, 7th May, 1972",2:30pm (local time),13059,25,"4,231","North Sydney
+BEARS",17,42,7,"Parramatta
+EELS",2,18,10
+0,NSWRFL 1972,Round 9,"Saturday, 13th May, 1972",2:30pm (local time),13063,111,"3,174","Parramatta
+EELS",17,19,11,"Penrith
+PANTHERS",2,12,11
+0,NSWRFL 1972,Round 9,"Saturday, 13th May, 1972",2:30pm (local time),13064,24,"20,288","Western Suburbs
+MAGPIES",7,9,9,"St George
+DRAGONS",3,5,13
+0,NSWRFL 1972,Round 9,"Sunday, 14th May, 1972",2:30pm (local time),13066,109,"7,885","Balmain
+TIGERS",10,25,15,"Manly Warringah
+SEA EAGLES",7,15,11
+0,NSWRFL 1972,Round 9,"Sunday, 14th May, 1972",2:30pm (local time),13067,27,"4,814",CANTERBURY BANKSTOWN,14,26,15,"Cronulla Sutherland
+SHARKS",5,5,15
+0,NSWRFL 1972,Round 9,"Sunday, 14th May, 1972",2:30pm (local time),13065,76,"7,127",NEWTOWN,7,12,15,"South Sydney
+RABBITOHS",16,21,10
+0,NSWRFL 1972,Round 9,"Sunday, 14th May, 1972",2:30pm (local time),13068,25,"5,906","North Sydney
+BEARS",5,8,9,"Eastern Suburbs
+ROOSTERS",20,22,13
+0,NSWRFL 1972,Round 10,"Sunday, 21st May, 1972",2:30pm (local time),13069,109,"10,183","Balmain
+TIGERS",0,3,16,"South Sydney
+RABBITOHS",12,21,10
+0,NSWRFL 1972,Round 10,"Sunday, 21st May, 1972",2:30pm (local time),13070,27,"6,623",CANTERBURY BANKSTOWN,0,18,10,"North Sydney
+BEARS",8,19,12
+0,NSWRFL 1972,Round 10,"Sunday, 21st May, 1972",2:30pm (local time),13073,5,"6,382","Manly Warringah
+SEA EAGLES",11,19,12,"Cronulla Sutherland
+SHARKS",0,5,14
+0,NSWRFL 1972,Round 10,"Sunday, 21st May, 1972",2:30pm (local time),13074,3,"4,048","Penrith
+PANTHERS",7,7,16,"Eastern Suburbs
+ROOSTERS",12,30,7
+0,NSWRFL 1972,Round 10,"Sunday, 21st May, 1972",2:30pm (local time),13072,23,"6,982","St George
+DRAGONS",8,22,11,"Parramatta
+EELS",0,0,19
+0,NSWRFL 1972,Round 10,"Sunday, 21st May, 1972",2:30pm (local time),13071,110,"6,036","Western Suburbs
+MAGPIES",8,18,4,NEWTOWN,2,15,12
+0,NSWRFL 1972,Round 11,"Saturday, 27th May, 1972",2:30pm (local time),13075,24,"24,642","Eastern Suburbs
+ROOSTERS",2,2,10,"St George
+DRAGONS",0,2,8
+0,NSWRFL 1972,Round 11,"Sunday, 28th May, 1972",2:30pm (local time),13079,9,"3,007","Cronulla Sutherland
+SHARKS",2,10,9,"Balmain
+TIGERS",3,6,11
+0,NSWRFL 1972,Round 11,"Sunday, 28th May, 1972",2:30pm (local time),13077,25,"8,800","North Sydney
+BEARS",3,6,12,"Manly Warringah
+SEA EAGLES",6,18,17
+0,NSWRFL 1972,Round 11,"Sunday, 28th May, 1972",2:30pm (local time),13078,111,"4,003","Parramatta
+EELS",10,15,4,NEWTOWN,13,27,9
+0,NSWRFL 1972,Round 11,"Sunday, 28th May, 1972",2:30pm (local time),13080,3,"3,504","Penrith
+PANTHERS",2,14,16,CANTERBURY BANKSTOWN,22,37,8
+0,NSWRFL 1972,Round 11,"Sunday, 28th May, 1972",2:30pm (local time),13076,44,"12,294","South Sydney
+RABBITOHS",12,21,16,"Western Suburbs
+MAGPIES",5,7,15
+0,NSWRFL 1972,Round 12,"Saturday, 3rd June, 1972",2:30pm (local time),13081,24,"21,255","St George
+DRAGONS",5,16,10,CANTERBURY BANKSTOWN,5,13,9
+0,NSWRFL 1972,Round 12,"Sunday, 4th June, 1972",2:30pm (local time),13083,109,"9,601","Eastern Suburbs
+ROOSTERS",2,9,8,NEWTOWN,15,24,7
+0,NSWRFL 1972,Round 12,"Sunday, 4th June, 1972",2:30pm (local time),13086,25,"4,120","North Sydney
+BEARS",15,17,8,"Cronulla Sutherland
+SHARKS",5,15,8
+0,NSWRFL 1972,Round 12,"Sunday, 4th June, 1972",2:30pm (local time),13082,111,"9,430","Parramatta
+EELS",10,15,10,"South Sydney
+RABBITOHS",5,25,10
+0,NSWRFL 1972,Round 12,"Sunday, 4th June, 1972",2:30pm (local time),13084,3,"5,078","Penrith
+PANTHERS",2,2,10,"Manly Warringah
+SEA EAGLES",8,22,13
+0,NSWRFL 1972,Round 12,"Sunday, 4th June, 1972",2:30pm (local time),13085,110,"8,593","Western Suburbs
+MAGPIES",8,18,10,"Balmain
+TIGERS",13,27,11
+0,NSWRFL 1972,Round 13,"Saturday, 10th June, 1972",2:30pm (local time),13087,24,"25,703","Eastern Suburbs
+ROOSTERS",18,24,7,"South Sydney
+RABBITOHS",5,19,12
+0,NSWRFL 1972,Round 13,"Sunday, 11th June, 1972",2:30pm (local time),13088,109,"6,510","Balmain
+TIGERS",2,13,14,"North Sydney
+BEARS",6,6,10
+0,NSWRFL 1972,Round 13,"Sunday, 11th June, 1972",2:30pm (local time),13089,27,"10,267",CANTERBURY BANKSTOWN,3,9,12,NEWTOWN,10,11,15
+0,NSWRFL 1972,Round 13,"Sunday, 11th June, 1972",2:30pm (local time),13091,3,"2,500","Penrith
+PANTHERS",0,10,,"Cronulla Sutherland
+SHARKS",5,12,
+0,NSWRFL 1972,Round 13,"Sunday, 11th June, 1972",2:30pm (local time),13090,110,"6,840","Western Suburbs
+MAGPIES",30,52,8,"Parramatta
+EELS",5,10,9
+0,NSWRFL 1972,Round 13,"Monday, 12th June, 1972",2:30pm (local time),13092,24,"37,343","Manly Warringah
+SEA EAGLES",7,15,10,"St George
+DRAGONS",10,15,10
+0,NSWRFL 1972,Round 14,"Saturday, 17th June, 1972",2:30pm (local time),13093,25,"2,319","North Sydney
+BEARS",15,33,17,"Penrith
+PANTHERS",3,6,10
+0,NSWRFL 1972,Round 14,"Saturday, 17th June, 1972",2:30pm (local time),13094,44,"9,798","South Sydney
+RABBITOHS",14,28,15,CANTERBURY BANKSTOWN,4,12,11
+0,NSWRFL 1972,Round 14,"Sunday, 18th June, 1972",2:30pm (local time),13095,9,"9,699","Cronulla Sutherland
+SHARKS",7,13,11,"St George
+DRAGONS",9,14,14
+0,NSWRFL 1972,Round 14,"Sunday, 18th June, 1972",2:30pm (local time),13096,109,"14,116","Eastern Suburbs
+ROOSTERS",5,28,10,"Western Suburbs
+MAGPIES",6,8,11
+0,NSWRFL 1972,Round 14,"Sunday, 18th June, 1972",2:30pm (local time),13097,76,"8,838",NEWTOWN,2,9,11,"Manly Warringah
+SEA EAGLES",4,10,11
+0,NSWRFL 1972,Round 14,"Sunday, 18th June, 1972",2:30pm (local time),13098,111,"7,041","Parramatta
+EELS",8,25,10,"Balmain
+TIGERS",5,18,14
+0,NSWRFL 1972,Round 15,"Saturday, 24th June, 1972",2:30pm (local time),13099,24,"18,397","South Sydney
+RABBITOHS",2,4,12,"Manly Warringah
+SEA EAGLES",2,12,15
+0,NSWRFL 1972,Round 15,"Sunday, 25th June, 1972",2:30pm (local time),13100,109,"2,933","Balmain
+TIGERS",8,21,11,"Penrith
+PANTHERS",4,12,12
+0,NSWRFL 1972,Round 15,"Sunday, 25th June, 1972",2:30pm (local time),13101,27,"7,090",CANTERBURY BANKSTOWN,12,24,14,"Western Suburbs
+MAGPIES",7,9,18
+0,NSWRFL 1972,Round 15,"Sunday, 25th June, 1972",2:30pm (local time),13103,76,"3,745",NEWTOWN,11,16,10,"Cronulla Sutherland
+SHARKS",12,14,9
+0,NSWRFL 1972,Round 15,"Sunday, 25th June, 1972",2:30pm (local time),13104,111,"7,672","Parramatta
+EELS",7,17,10,"Eastern Suburbs
+ROOSTERS",17,38,3
+0,NSWRFL 1972,Round 15,"Sunday, 25th June, 1972",2:30pm (local time),13102,23,"9,044","St George
+DRAGONS",7,11,16,"North Sydney
+BEARS",8,8,10
+0,NSWRFL 1972,Round 16,"Saturday, 1st July, 1972",2:30pm (local time),13106,25,"3,868","North Sydney
+BEARS",0,13,10,NEWTOWN,10,23,13
+0,NSWRFL 1972,Round 16,"Saturday, 1st July, 1972",2:30pm (local time),13105,24,"10,241","Western Suburbs
+MAGPIES",2,7,11,"Manly Warringah
+SEA EAGLES",7,32,11
+0,NSWRFL 1972,Round 16,"Sunday, 2nd July, 1972",2:30pm (local time),13108,109,"10,524","Balmain
+TIGERS",3,16,15,"Eastern Suburbs
+ROOSTERS",8,23,14
+0,NSWRFL 1972,Round 16,"Sunday, 2nd July, 1972",2:30pm (local time),13109,27,"6,258",CANTERBURY BANKSTOWN,3,26,9,"Parramatta
+EELS",12,17,8
+0,NSWRFL 1972,Round 16,"Sunday, 2nd July, 1972",2:30pm (local time),13110,9,"9,389","Cronulla Sutherland
+SHARKS",5,13,18,"South Sydney
+RABBITOHS",2,2,10
+0,NSWRFL 1972,Round 16,"Sunday, 2nd July, 1972",2:30pm (local time),13107,3,"5,512","Penrith
+PANTHERS",4,12,13,"St George
+DRAGONS",11,17,13
+0,NSWRFL 1972,Round 17,"Sunday, 9th July, 1972",2:30pm (local time),13111,5,"11,451","Manly Warringah
+SEA EAGLES",10,32,8,"Parramatta
+EELS",7,10,7
+0,NSWRFL 1972,Round 17,"Sunday, 9th July, 1972",2:30pm (local time),13112,23,"12,890","St George
+DRAGONS",16,20,7,"Balmain
+TIGERS",2,12,10
+0,NSWRFL 1972,Round 17,"Saturday, 15th July, 1972",2:30pm (local time),13113,24,"11,509","Eastern Suburbs
+ROOSTERS",7,22,12,CANTERBURY BANKSTOWN,10,15,7
+0,NSWRFL 1972,Round 17,"Sunday, 16th July, 1972",2:30pm (local time),13114,3,"2,572","Penrith
+PANTHERS",14,19,7,NEWTOWN,10,19,13
+0,NSWRFL 1972,Round 17,"Sunday, 16th July, 1972",2:30pm (local time),13115,44,"9,339","South Sydney
+RABBITOHS",18,28,9,"North Sydney
+BEARS",2,2,17
+0,NSWRFL 1972,Round 17,"Sunday, 16th July, 1972",2:30pm (local time),13116,110,"3,644","Western Suburbs
+MAGPIES",4,7,7,"Cronulla Sutherland
+SHARKS",7,25,15
+0,NSWRFL 1972,Round 18,"Saturday, 22nd July, 1972",2:30pm (local time),13117,24,"30,968","Manly Warringah
+SEA EAGLES",6,17,11,"Eastern Suburbs
+ROOSTERS",7,14,13
+0,NSWRFL 1972,Round 18,"Sunday, 23rd July, 1972",2:30pm (local time),13120,109,"5,284","Balmain
+TIGERS",12,25,15,CANTERBURY BANKSTOWN,15,27,12
+0,NSWRFL 1972,Round 18,"Sunday, 23rd July, 1972",2:30pm (local time),13118,76,"9,598",NEWTOWN,2,10,14,"St George
+DRAGONS",12,30,9
+0,NSWRFL 1972,Round 18,"Sunday, 23rd July, 1972",2:30pm (local time),13119,25,"3,530","North Sydney
+BEARS",7,21,9,"Western Suburbs
+MAGPIES",2,18,8
+0,NSWRFL 1972,Round 18,"Sunday, 23rd July, 1972",2:30pm (local time),13122,111,"4,834","Parramatta
+EELS",2,10,18,"Cronulla Sutherland
+SHARKS",7,28,9
+0,NSWRFL 1972,Round 18,"Sunday, 23rd July, 1972",2:30pm (local time),13121,44,"7,399","South Sydney
+RABBITOHS",2,14,13,"Penrith
+PANTHERS",17,20,11
+0,NSWRFL 1972,Round 19,"Saturday, 29th July, 1972",2:30pm (local time),13123,24,"25,678","St George
+DRAGONS",0,7,15,"South Sydney
+RABBITOHS",9,17,8
+0,NSWRFL 1972,Round 19,"Sunday, 30th July, 1972",2:30pm (local time),13124,109,"3,854","Balmain
+TIGERS",5,13,10,NEWTOWN,8,26,11
+0,NSWRFL 1972,Round 19,"Sunday, 30th July, 1972",2:30pm (local time),13125,27,"11,579",CANTERBURY BANKSTOWN,8,16,14,"Manly Warringah
+SEA EAGLES",10,30,11
+0,NSWRFL 1972,Round 19,"Sunday, 30th July, 1972",2:30pm (local time),13126,9,"7,627","Cronulla Sutherland
+SHARKS",13,18,6,"Eastern Suburbs
+ROOSTERS",12,25,3
+0,NSWRFL 1972,Round 19,"Sunday, 30th July, 1972",2:30pm (local time),13127,111,"3,774","Parramatta
+EELS",12,22,13,"North Sydney
+BEARS",4,6,12
+0,NSWRFL 1972,Round 19,"Sunday, 30th July, 1972",2:30pm (local time),13128,110,"1,914","Western Suburbs
+MAGPIES",4,9,13,"Penrith
+PANTHERS",14,30,10
+0,NSWRFL 1972,Round 20,"Saturday, 5th August, 1972",2:30pm (local time),13129,24,"14,298","South Sydney
+RABBITOHS",14,19,8,NEWTOWN,5,27,9
+0,NSWRFL 1972,Round 20,"Sunday, 6th August, 1972",2:30pm (local time),13134,9,"5,073","Cronulla Sutherland
+SHARKS",6,9,8,CANTERBURY BANKSTOWN,2,14,10
+0,NSWRFL 1972,Round 20,"Sunday, 6th August, 1972",2:30pm (local time),13131,109,"5,799","Eastern Suburbs
+ROOSTERS",2,9,10,"North Sydney
+BEARS",2,7,10
+0,NSWRFL 1972,Round 20,"Sunday, 6th August, 1972",2:30pm (local time),13133,5,"15,297","Manly Warringah
+SEA EAGLES",16,37,9,"Balmain
+TIGERS",10,15,12
+0,NSWRFL 1972,Round 20,"Sunday, 6th August, 1972",2:30pm (local time),13132,3,"4,100","Penrith
+PANTHERS",15,27,14,"Parramatta
+EELS",5,15,7
+0,NSWRFL 1972,Round 20,"Sunday, 6th August, 1972",2:30pm (local time),13130,23,"8,505","St George
+DRAGONS",10,15,15,"Western Suburbs
+MAGPIES",6,14,10
+0,NSWRFL 1972,Round 21,"Saturday, 12th August, 1972",2:30pm (local time),13136,24,"8,752","Eastern Suburbs
+ROOSTERS",9,28,12,"Penrith
+PANTHERS",2,5,7
+0,NSWRFL 1972,Round 21,"Saturday, 12th August, 1972",2:30pm (local time),13135,76,"3,343",NEWTOWN,6,24,9,"Western Suburbs
+MAGPIES",15,18,12
+0,NSWRFL 1972,Round 21,"Sunday, 13th August, 1972",2:30pm (local time),13138,9,"8,145","Cronulla Sutherland
+SHARKS",0,10,16,"Manly Warringah
+SEA EAGLES",15,15,16
+0,NSWRFL 1972,Round 21,"Sunday, 13th August, 1972",2:30pm (local time),13140,25,"3,923","North Sydney
+BEARS",5,9,8,CANTERBURY BANKSTOWN,4,12,17
+0,NSWRFL 1972,Round 21,"Sunday, 13th August, 1972",2:30pm (local time),13137,111,"7,944","Parramatta
+EELS",2,12,17,"St George
+DRAGONS",23,30,8
+0,NSWRFL 1972,Round 21,"Sunday, 13th August, 1972",2:30pm (local time),13139,44,"11,040","South Sydney
+RABBITOHS",12,35,10,"Balmain
+TIGERS",4,14,10
+0,NSWRFL 1972,Round 22,"Saturday, 19th August, 1972",2:30pm (local time),13141,24,"33,235","St George
+DRAGONS",7,14,10,"Eastern Suburbs
+ROOSTERS",8,23,4
+0,NSWRFL 1972,Round 22,"Sunday, 20th August, 1972",2:30pm (local time),13144,109,"2,355","Balmain
+TIGERS",3,11,13,"Cronulla Sutherland
+SHARKS",13,34,6
+0,NSWRFL 1972,Round 22,"Sunday, 20th August, 1972",2:30pm (local time),13145,27,"4,246",CANTERBURY BANKSTOWN,8,19,13,"Penrith
+PANTHERS",7,12,9
+0,NSWRFL 1972,Round 22,"Sunday, 20th August, 1972",2:30pm (local time),13142,5,"15,128","Manly Warringah
+SEA EAGLES",10,30,7,"North Sydney
+BEARS",0,7,11
+0,NSWRFL 1972,Round 22,"Sunday, 20th August, 1972",2:30pm (local time),13143,76,"2,355",NEWTOWN,3,11,10,"Parramatta
+EELS",11,21,12
+0,NSWRFL 1972,Round 22,"Sunday, 20th August, 1972",2:30pm (local time),13146,110,"5,766","Western Suburbs
+MAGPIES",18,39,8,"South Sydney
+RABBITOHS",5,20,8
+0,NSWRFL 1972,Minor Semi,"Saturday, 26th August, 1972",2:30pm (local time),13147,24,"47,945","St George
+DRAGONS",10,14,9,"South Sydney
+RABBITOHS",0,10,10
+0,NSWRFL 1972,Major Semi,"Saturday, 2nd September, 1972",2:30pm (local time),13148,24,"43,695","Manly Warringah
+SEA EAGLES",10,32,8,"Eastern Suburbs
+ROOSTERS",5,8,8
+0,NSWRFL 1972,Prelim Final,"Saturday, 9th September, 1972",2:30pm (local time),13149,24,"41,313","Eastern Suburbs
+ROOSTERS",2,8,12,"St George
+DRAGONS",4,6,10
+0,NSWRFL 1972,Grand Final,"Saturday, 16th September, 1972",2:30pm (local time),13150,24,"54,357","Manly Warringah
+SEA EAGLES",4,19,9,"Eastern Suburbs
+ROOSTERS",4,14,8

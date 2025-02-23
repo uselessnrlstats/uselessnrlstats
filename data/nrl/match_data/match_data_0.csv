@@ -1,0 +1,73 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1908,Round 1,"Monday, 20th April, 1908",2:00pm (local time),8175,105,"3,000",NEWTOWN,10,16,,EASTERN SUBURBS,11,32,
+0,NSWRFL 1908,Round 1,"Monday, 20th April, 1908",2:00pm (local time),8176,150,"3,000",NORTH SYDNEY,2,7,,"South Sydney
+RABBITOHS",5,11,
+0,NSWRFL 1908,Round 1,"Monday, 20th April, 1908",3:15pm (local time),8173,105,"3,000",NEWCASTLE,3,5,,GLEBE,8,8,
+0,NSWRFL 1908,Round 1,"Monday, 20th April, 1908",3:15pm (local time),8174,150,"3,000","Western Suburbs
+MAGPIES",0,0,,"Balmain
+TIGERS",3,24,
+0,NSWRFL 1908,Round 2,"Saturday, 25th April, 1908",3:15pm (local time),8179,150,"1,500","Balmain
+TIGERS",0,5,,NORTH SYDNEY,8,10,
+0,NSWRFL 1908,Round 2,"Saturday, 25th April, 1908",3:15pm (local time),8177,105,500,GLEBE,7,7,,NEWTOWN,0,2,
+0,NSWRFL 1908,Round 2,"Saturday, 25th April, 1908",3:15pm (local time),8178,103,,"South Sydney
+RABBITOHS",26,42,,"Western Suburbs
+MAGPIES",2,7,
+0,NSWRFL 1908,Round 2,"Saturday, 9th May, 1908",2:00pm (local time),8180,103,"20,000","South Sydney
+RABBITOHS",6,23,,CUMBERLAND (AUS),2,2,
+0,NSWRFL 1908,Round 3,"Saturday, 16th May, 1908",2:00pm (local time),8183,105,"3,000",NEWCASTLE,16,37,,CUMBERLAND (AUS),0,0,
+0,NSWRFL 1908,Round 3,"Saturday, 16th May, 1908",3:15pm (local time),8182,150,"2,500","Balmain
+TIGERS",8,13,,NEWTOWN,7,13,
+0,NSWRFL 1908,Round 3,"Saturday, 16th May, 1908",3:15pm (local time),8184,103,"3,000","South Sydney
+RABBITOHS",6,12,,EASTERN SUBURBS,5,13,
+0,NSWRFL 1908,Round 3,"Saturday, 16th May, 1908",3:15pm (local time),8181,105,"3,000","Western Suburbs
+MAGPIES",0,8,,GLEBE,7,25,
+0,NSWRFL 1908,Round 4,"Saturday, 23rd May, 1908",2:00pm (local time),8186,103,"1,500","Western Suburbs
+MAGPIES",2,2,,NEWCASTLE,0,24,
+0,NSWRFL 1908,Round 4,"Saturday, 23rd May, 1908",3:15pm (local time),8187,150,,CUMBERLAND (AUS),0,6,,NEWTOWN,11,16,
+0,NSWRFL 1908,Round 4,"Saturday, 23rd May, 1908",3:15pm (local time),8188,103,"1,500",EASTERN SUBURBS,8,21,,"Balmain
+TIGERS",0,8,
+0,NSWRFL 1908,Round 4,"Saturday, 23rd May, 1908",3:15pm (local time),8185,105,"1,000",NORTH SYDNEY,2,2,,GLEBE,4,7,
+0,NSWRFL 1908,Round 5,"Saturday, 30th May, 1908",2:00pm (local time),8190,103,800,EASTERN SUBURBS,6,9,,"Western Suburbs
+MAGPIES",3,8,
+0,NSWRFL 1908,Round 5,"Saturday, 30th May, 1908",3:15pm (local time),8192,105,"1,200",GLEBE,7,22,,CUMBERLAND (AUS),0,7,
+0,NSWRFL 1908,Round 5,"Saturday, 30th May, 1908",3:15pm (local time),8189,150,700,NORTH SYDNEY,5,21,,NEWCASTLE,4,9,
+0,NSWRFL 1908,Round 5,"Saturday, 30th May, 1908",3:15pm (local time),8191,103,800,"South Sydney
+RABBITOHS",19,31,,NEWTOWN,3,3,
+0,NSWRFL 1908,Round 6,"Saturday, 13th June, 1908",2:00pm (local time),8193,103,"14,000",NEWTOWN,2,8,,NEWCASTLE,9,17,
+0,NSWRFL 1908,Round 6,"Saturday, 20th June, 1908",3:15pm (local time),8195,150,"1,200","Balmain
+TIGERS",6,16,,CUMBERLAND (AUS),2,4,
+0,NSWRFL 1908,Round 6,"Saturday, 20th June, 1908",3:30pm (local time),8194,105,"1,500",GLEBE,0,5,,"South Sydney
+RABBITOHS",8,21,
+0,NSWRFL 1908,Round 6,"Saturday, 20th June, 1908",3:15pm (local time),8196,103,"1,500",NORTH SYDNEY,0,11,,EASTERN SUBURBS,8,19,
+0,NSWRFL 1908,Round 7,"Saturday, 27th June, 1908",2:00pm (local time),8200,103,"4,000",EASTERN SUBURBS,13,26,,CUMBERLAND (AUS),2,5,
+0,NSWRFL 1908,Round 7,"Saturday, 27th June, 1908",3:15pm (local time),8198,150,"3,000","Balmain
+TIGERS",3,3,,GLEBE,3,16,
+0,NSWRFL 1908,Round 7,"Saturday, 27th June, 1908",3:15pm (local time),8197,103,"4,000","South Sydney
+RABBITOHS",8,30,,NEWCASTLE,9,11,
+0,NSWRFL 1908,Round 7,"Saturday, 27th June, 1908",3:15pm (local time),8199,105,800,"Western Suburbs
+MAGPIES",3,8,,NORTH SYDNEY,6,23,
+0,NSWRFL 1908,Round 8,"Saturday, 4th July, 1908",2:00pm (local time),8203,150,"3,000",CUMBERLAND (AUS),4,14,,"Western Suburbs
+MAGPIES",2,6,
+0,NSWRFL 1908,Round 8,"Saturday, 4th July, 1908",2:00pm (local time),8201,105,800,NEWTOWN,4,7,,NORTH SYDNEY,5,15,
+0,NSWRFL 1908,Round 8,"Saturday, 4th July, 1908",3:30pm (local time),8204,105,800,GLEBE,3,11,,EASTERN SUBURBS,5,5,
+0,NSWRFL 1908,Round 8,"Saturday, 4th July, 1908",3:15pm (local time),8202,150,"3,000",NEWCASTLE,6,28,,"Balmain
+TIGERS",3,5,
+0,NSWRFL 1908,Round 9,"Saturday, 25th July, 1908",2:00pm (local time),8205,105,200,NEWTOWN,0,5,,"Western Suburbs
+MAGPIES",0,6,
+0,NSWRFL 1908,Round 9,"Saturday, 25th July, 1908",3:15pm (local time),8206,150,800,"Balmain
+TIGERS",2,2,,"South Sydney
+RABBITOHS",10,16,
+0,NSWRFL 1908,Round 9,"Saturday, 25th July, 1908",3:15pm (local time),8207,105,200,CUMBERLAND (AUS),0,0,,NORTH SYDNEY,21,45,
+0,NSWRFL 1908,Round 9,"Saturday, 25th July, 1908",3:15pm (local time),8208,103,400,EASTERN SUBURBS,17,34,,NEWCASTLE,7,17,
+0,NSWRFL 1908,Round 10,"Saturday, 8th August, 1908",2:00pm (local time),8209,150,"3,000",NEWTOWN,0,0,,NORTH SYDNEY,5,21,
+0,NSWRFL 1908,Round 10,"Saturday, 8th August, 1908",3:15pm (local time),8211,103,200,EASTERN SUBURBS,18,24,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1908,Round 10,"Saturday, 8th August, 1908",3:15pm (local time),8212,150,"3,000",GLEBE,2,5,,"Balmain
+TIGERS",8,10,
+0,NSWRFL 1908,Round 10,"Saturday, 8th August, 1908",3:15pm (local time),8210,105,200,NEWCASTLE,0,3,,"South Sydney
+RABBITOHS",3,8,
+0,NSWRFL 1908,Semi Final,"Saturday, 15th August, 1908",3:15pm (local time),8213,103,400,EASTERN SUBURBS,10,23,,NORTH SYDNEY,5,10,
+0,NSWRFL 1908,Semi Final,"Saturday, 15th August, 1908",3:15pm (local time),8214,105,"1,200","South Sydney
+RABBITOHS",11,16,,GLEBE,0,3,
+0,NSWRFL 1908,Final,"Saturday, 29th August, 1908",3:15pm (local time),8215,103,"4,000","South Sydney
+RABBITOHS",8,14,,EASTERN SUBURBS,7,12,

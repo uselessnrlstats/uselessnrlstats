@@ -1,0 +1,556 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2016,Round 1,"Thursday, 3rd March, 2016",8:05pm (local time),30926,8,"17,324","Parramatta
+EELS",4,4,4,"Brisbane
+BRONCOS",14,17,4
+0,NRL 2016,Round 1,"Friday, 4th March, 2016",8:05pm (local time),30927,5,"16,512","Manly Warringah
+SEA EAGLES",0,6,11,"Canterbury Bankstown
+BULLDOGS",22,28,9
+0,NRL 2016,Round 1,"Saturday, 5th March, 2016",3:00pm (local time),30928,4,"11,297","Canberra
+RAIDERS",16,30,11,"Penrith
+PANTHERS",16,22,7
+0,NRL 2016,Round 1,"Saturday, 5th March, 2016",5:30pm (local time),30929,19,"10,917",WESTS TIGERS,28,34,8,WARRIORS,4,26,9
+0,NRL 2016,Round 1,"Saturday, 5th March, 2016",6:30pm (local time),30930,14,"15,519","North Queensland
+COWBOYS",12,20,8,"Cronulla Sutherland
+SHARKS",6,14,8
+0,NRL 2016,Round 1,"Sunday, 6th March, 2016",4:00pm (local time),30931,1,"25,125","Sydney
+ROOSTERS",0,10,11,"South Sydney
+RABBITOHS",26,42,6
+0,NRL 2016,Round 1,"Sunday, 6th March, 2016",5:30pm (local time),30932,149,"8,313","Gold Coast
+TITANS",12,30,9,"Newcastle
+KNIGHTS",6,12,6
+0,NRL 2016,Round 1,"Monday, 7th March, 2016",7:00pm (local time),30933,251,"12,148","Melbourne
+STORM",12,18,9,"St George Illawarra
+DRAGONS",10,16,4
+0,NRL 2016,Round 2,"Thursday, 10th March, 2016",8:05pm (local time),30934,3,"11,125","Penrith
+PANTHERS",14,16,9,"Canterbury Bankstown
+BULLDOGS",6,18,8
+0,NRL 2016,Round 2,"Friday, 11th March, 2016",7:05pm (local time),30935,1097,"34,520","Brisbane
+BRONCOS",12,25,8,WARRIORS,10,10,5
+0,NRL 2016,Round 2,"Saturday, 12th March, 2016",3:00pm (local time),30936,4,"12,423","Canberra
+RAIDERS",6,21,9,"Sydney
+ROOSTERS",16,20,9
+0,NRL 2016,Round 2,"Saturday, 12th March, 2016",5:30pm (local time),30937,20,"13,364","South Sydney
+RABBITOHS",24,48,9,"Newcastle
+KNIGHTS",0,6,9
+0,NRL 2016,Round 2,"Saturday, 12th March, 2016",7:30pm (local time),30938,8,"12,194","Parramatta
+EELS",14,20,10,"North Queensland
+COWBOYS",6,16,4
+0,NRL 2016,Round 2,"Sunday, 13th March, 2016",4:00pm (local time),30939,9,"17,946","Cronulla Sutherland
+SHARKS",18,30,7,"St George Illawarra
+DRAGONS",2,2,7
+0,NRL 2016,Round 2,"Sunday, 13th March, 2016",6:30pm (local time),30940,251,"12,637","Melbourne
+STORM",18,34,4,"Gold Coast
+TITANS",10,16,8
+0,NRL 2016,Round 2,"Monday, 14th March, 2016",7:00pm (local time),30941,7,"11,269",WESTS TIGERS,16,36,8,"Manly Warringah
+SEA EAGLES",10,22,8
+0,NRL 2016,Round 3,"Thursday, 17th March, 2016",8:05pm (local time),30942,14,"8,099","North Queensland
+COWBOYS",18,40,6,"Sydney
+ROOSTERS",0,0,8
+0,NRL 2016,Round 3,"Friday, 18th March, 2016",8:05pm (local time),30943,20,"30,018","Canterbury Bankstown
+BULLDOGS",0,6,8,"Parramatta
+EELS",6,20,6
+0,NRL 2016,Round 3,"Saturday, 19th March, 2016",5:00pm (local time),30944,11,"13,745","Newcastle
+KNIGHTS",6,24,9,"Canberra
+RAIDERS",16,24,12
+0,NRL 2016,Round 3,"Saturday, 19th March, 2016",7:30pm (local time),30945,3,"12,086","Penrith
+PANTHERS",12,23,6,"Brisbane
+BRONCOS",22,22,6
+0,NRL 2016,Round 3,"Saturday, 19th March, 2016",8:30pm (local time),30946,149,"9,975","Gold Coast
+TITANS",6,30,7,WESTS TIGERS,10,18,6
+0,NRL 2016,Round 3,"Sunday, 20th March, 2016",4:00pm (local time),30948,6,"16,214",WARRIORS,4,14,9,"Melbourne
+STORM",12,21,8
+0,NRL 2016,Round 3,"Sunday, 20th March, 2016",4:00pm (local time),30949,24,"17,824","St George Illawarra
+DRAGONS",8,8,14,"South Sydney
+RABBITOHS",6,6,7
+0,NRL 2016,Round 3,"Monday, 21st March, 2016",7:00pm (local time),30950,5,"5,122","Manly Warringah
+SEA EAGLES",6,22,8,"Cronulla Sutherland
+SHARKS",8,12,10
+0,NRL 2016,Round 4,"Friday, 25th March, 2016",4:00pm (local time),30958,20,"38,192","South Sydney
+RABBITOHS",0,12,6,"Canterbury Bankstown
+BULLDOGS",32,42,4
+0,NRL 2016,Round 4,"Friday, 25th March, 2016",8:05pm (local time),30957,1097,"46,176","Brisbane
+BRONCOS",12,21,8,"North Queensland
+COWBOYS",6,20,5
+0,NRL 2016,Round 4,"Saturday, 26th March, 2016",5:30pm (local time),30956,4,"11,039","Canberra
+RAIDERS",18,20,10,"Gold Coast
+TITANS",6,24,8
+0,NRL 2016,Round 4,"Saturday, 26th March, 2016",7:30pm (local time),30955,1,"12,271","Sydney
+ROOSTERS",10,20,9,"Manly Warringah
+SEA EAGLES",8,22,4
+0,NRL 2016,Round 4,"Sunday, 27th March, 2016",4:00pm (local time),30954,21,"12,983","St George Illawarra
+DRAGONS",2,14,10,"Penrith
+PANTHERS",0,12,8
+0,NRL 2016,Round 4,"Monday, 28th March, 2016",4:00pm (local time),30953,6,"13,895",WARRIORS,12,40,11,"Newcastle
+KNIGHTS",12,18,8
+0,NRL 2016,Round 4,"Monday, 28th March, 2016",4:00pm (local time),30952,20,"36,112",WESTS TIGERS,0,0,10,"Parramatta
+EELS",2,8,8
+0,NRL 2016,Round 4,"Monday, 28th March, 2016",7:00pm (local time),30951,9,"9,155","Cronulla Sutherland
+SHARKS",4,14,9,"Melbourne
+STORM",6,6,6
+0,NRL 2016,Round 5,"Thursday, 31st March, 2016",8:05pm (local time),30966,5,"9,603","Manly Warringah
+SEA EAGLES",6,12,8,"South Sydney
+RABBITOHS",16,16,6
+0,NRL 2016,Round 5,"Friday, 1st April, 2016",8:05pm (local time),30965,149,"21,080","Gold Coast
+TITANS",4,16,3,"Brisbane
+BRONCOS",10,24,6
+0,NRL 2016,Round 5,"Saturday, 2nd April, 2016",3:00pm (local time),30964,251,"11,443","Melbourne
+STORM",6,18,11,"Newcastle
+KNIGHTS",8,14,7
+0,NRL 2016,Round 5,"Saturday, 2nd April, 2016",5:30pm (local time),30963,19,"12,831",WESTS TIGERS,16,26,7,"Cronulla Sutherland
+SHARKS",12,34,12
+0,NRL 2016,Round 5,"Saturday, 2nd April, 2016",6:30pm (local time),30962,14,"17,444","North Queensland
+COWBOYS",12,36,3,"St George Illawarra
+DRAGONS",0,0,5
+0,NRL 2016,Round 5,"Sunday, 3rd April, 2016",2:00pm (local time),30961,26,"10,113","Sydney
+ROOSTERS",14,28,9,WARRIORS,20,32,7
+0,NRL 2016,Round 5,"Sunday, 3rd April, 2016",4:00pm (local time),30960,8,"15,600","Parramatta
+EELS",6,18,10,"Penrith
+PANTHERS",6,20,8
+0,NRL 2016,Round 5,"Sunday, 3rd April, 2016",7:00pm (local time),30959,27,"13,463","Canterbury Bankstown
+BULLDOGS",4,8,7,"Canberra
+RAIDERS",14,22,9
+0,NRL 2016,Round 6,"Thursday, 7th April, 2016",7:50pm (local time),30967,1097,"29,869","Brisbane
+BRONCOS",12,26,8,"St George Illawarra
+DRAGONS",0,0,8
+0,NRL 2016,Round 6,"Friday, 8th April, 2016",7:50pm (local time),30968,20,"18,161","South Sydney
+RABBITOHS",4,10,5,"Sydney
+ROOSTERS",10,17,3
+0,NRL 2016,Round 6,"Saturday, 9th April, 2016",3:00pm (local time),30969,8,"12,947","Parramatta
+EELS",24,36,6,"Canberra
+RAIDERS",0,6,10
+0,NRL 2016,Round 6,"Saturday, 9th April, 2016",7:30pm (local time),30970,6,"16,112",WARRIORS,6,18,10,"Manly Warringah
+SEA EAGLES",12,34,11
+0,NRL 2016,Round 6,"Saturday, 9th April, 2016",7:30pm (local time),30971,3,"13,725","Penrith
+PANTHERS",10,18,9,"North Queensland
+COWBOYS",12,23,5
+0,NRL 2016,Round 6,"Sunday, 10th April, 2016",2:00pm (local time),30972,9,"11,753","Cronulla Sutherland
+SHARKS",14,25,8,"Gold Coast
+TITANS",12,20,8
+0,NRL 2016,Round 6,"Sunday, 10th April, 2016",4:00pm (local time),30973,11,"21,653","Newcastle
+KNIGHTS",12,18,8,WESTS TIGERS,10,16,4
+0,NRL 2016,Round 6,"Monday, 11th April, 2016",7:00pm (local time),30974,251,"11,037","Melbourne
+STORM",8,12,7,"Canterbury Bankstown
+BULLDOGS",12,18,3
+0,NRL 2016,Round 7,"Thursday, 14th April, 2016",7:50pm (local time),30998,5,"14,633","Manly Warringah
+SEA EAGLES",8,10,9,"Parramatta
+EELS",8,22,7
+0,NRL 2016,Round 7,"Friday, 15th April, 2016",7:50pm (local time),30999,14,"15,487","North Queensland
+COWBOYS",18,44,4,"South Sydney
+RABBITOHS",6,18,8
+0,NRL 2016,Round 7,"Saturday, 16th April, 2016",3:00pm (local time),31000,149,"12,215","Gold Coast
+TITANS",6,14,5,"St George Illawarra
+DRAGONS",18,19,7
+0,NRL 2016,Round 7,"Saturday, 16th April, 2016",7:30pm (local time),31001,18,"18,212","Canterbury Bankstown
+BULLDOGS",14,20,5,WARRIORS,8,24,8
+0,NRL 2016,Round 7,"Saturday, 16th April, 2016",7:30pm (local time),31002,1097,"30,394","Brisbane
+BRONCOS",22,53,8,"Newcastle
+KNIGHTS",0,0,5
+0,NRL 2016,Round 7,"Sunday, 17th April, 2016",2:00pm (local time),31003,4,"12,890","Canberra
+RAIDERS",0,16,12,"Cronulla Sutherland
+SHARKS",12,40,6
+0,NRL 2016,Round 7,"Sunday, 17th April, 2016",4:00pm (local time),31004,7,"9,216",WESTS TIGERS,12,18,9,"Melbourne
+STORM",4,19,5
+0,NRL 2016,Round 7,"Monday, 18th April, 2016",7:00pm (local time),31005,1,"10,117","Sydney
+ROOSTERS",10,16,8,"Penrith
+PANTHERS",14,20,6
+0,NRL 2016,Round 8,"Friday, 22nd April, 2016",7:50pm (local time),31006,1097,"40,275","Brisbane
+BRONCOS",14,30,9,"South Sydney
+RABBITOHS",0,8,8
+0,NRL 2016,Round 8,"Saturday, 23rd April, 2016",3:00pm (local time),31007,20,"11,450","Canterbury Bankstown
+BULLDOGS",14,21,3,"Gold Coast
+TITANS",8,20,6
+0,NRL 2016,Round 8,"Saturday, 23rd April, 2016",5:30pm (local time),31008,4,"13,420","Canberra
+RAIDERS",22,60,9,WESTS TIGERS,6,6,7
+0,NRL 2016,Round 8,"Saturday, 23rd April, 2016",7:30pm (local time),31009,14,"19,308","North Queensland
+COWBOYS",14,32,9,"Parramatta
+EELS",0,16,6
+0,NRL 2016,Round 8,"Sunday, 24th April, 2016",4:00pm (local time),31010,9,"14,273","Cronulla Sutherland
+SHARKS",8,20,7,"Penrith
+PANTHERS",0,18,9
+0,NRL 2016,Round 8,"Monday, 25th April, 2016",2:00pm (local time),31011,11,"19,072","Newcastle
+KNIGHTS",6,10,9,"Manly Warringah
+SEA EAGLES",10,26,8
+0,NRL 2016,Round 8,"Monday, 25th April, 2016",4:00pm (local time),31012,1,"34,483","St George Illawarra
+DRAGONS",18,20,8,"Sydney
+ROOSTERS",0,18,4
+0,NRL 2016,Round 8,"Monday, 25th April, 2016",7:00pm (local time),31013,251,"21,233","Melbourne
+STORM",28,42,6,WARRIORS,0,0,4
+0,NRL 2016,Round 9,"Thursday, 28th April, 2016",7:50pm (local time),31026,20,"11,229","South Sydney
+RABBITOHS",6,22,5,WESTS TIGERS,20,30,2
+0,NRL 2016,Round 9,"Friday, 29th April, 2016",7:50pm (local time),31027,20,"31,815","Parramatta
+EELS",10,20,6,"Canterbury Bankstown
+BULLDOGS",12,12,4
+0,NRL 2016,Round 9,"Saturday, 30th April, 2016",3:00pm (local time),31028,108,"6,721","Penrith
+PANTHERS",12,19,7,"Canberra
+RAIDERS",6,18,7
+0,NRL 2016,Round 9,"Saturday, 30th April, 2016",5:30pm (local time),31029,1,"9,502","Sydney
+ROOSTERS",14,38,8,"Newcastle
+KNIGHTS",0,0,5
+0,NRL 2016,Round 9,"Saturday, 30th April, 2016",7:30pm (local time),31030,5,"11,734","Manly Warringah
+SEA EAGLES",6,18,10,"North Queensland
+COWBOYS",22,34,7
+0,NRL 2016,Round 9,"Sunday, 1st May, 2016",2:00pm (local time),31031,6,"12,752",WARRIORS,18,26,8,"St George Illawarra
+DRAGONS",10,10,6
+0,NRL 2016,Round 9,"Sunday, 1st May, 2016",2:00pm (local time),31032,149,"10,214","Gold Coast
+TITANS",0,0,6,"Melbourne
+STORM",20,38,9
+0,NRL 2016,Round 9,"Sunday, 1st May, 2016",4:00pm (local time),31033,9,"14,406","Cronulla Sutherland
+SHARKS",28,30,3,"Brisbane
+BRONCOS",6,28,9
+0,NRL 2016,Round 10,"Thursday, 12th May, 2016",7:50pm (local time),31041,23,"9,647","St George Illawarra
+DRAGONS",6,16,9,"Canberra
+RAIDERS",0,12,8
+0,NRL 2016,Round 10,"Friday, 13th May, 2016",7:50pm (local time),31040,8,"16,013","Parramatta
+EELS",14,20,9,"South Sydney
+RABBITOHS",6,22,5
+0,NRL 2016,Round 10,"Saturday, 14th May, 2016",5:00pm (local time),31039,134,"17,669","Penrith
+PANTHERS",14,30,9,WARRIORS,18,18,7
+0,NRL 2016,Round 10,"Saturday, 14th May, 2016",5:30pm (local time),31038,1097,"52,347","Melbourne
+STORM",12,15,4,"North Queensland
+COWBOYS",8,14,7
+0,NRL 2016,Round 10,"Saturday, 14th May, 2016",7:55pm (local time),31037,1097,"52,347","Manly Warringah
+SEA EAGLES",0,6,4,"Brisbane
+BRONCOS",12,30,5
+0,NRL 2016,Round 10,"Sunday, 15th May, 2016",2:00pm (local time),31036,11,"16,150","Newcastle
+KNIGHTS",0,0,11,"Cronulla Sutherland
+SHARKS",28,62,6
+0,NRL 2016,Round 10,"Sunday, 15th May, 2016",4:00pm (local time),31035,20,"20,936",WESTS TIGERS,4,4,5,"Canterbury Bankstown
+BULLDOGS",20,36,6
+0,NRL 2016,Round 10,"Monday, 16th May, 2016",7:00pm (local time),31034,149,"9,363","Gold Coast
+TITANS",8,26,8,"Sydney
+ROOSTERS",6,6,11
+0,NRL 2016,Round 11,"Thursday, 19th May, 2016",7:50pm (local time),31042,20,"12,054","South Sydney
+RABBITOHS",14,34,5,"St George Illawarra
+DRAGONS",12,24,6
+0,NRL 2016,Round 11,"Friday, 20th May, 2016",7:50pm (local time),31043,14,"25,163","North Queensland
+COWBOYS",6,19,4,"Brisbane
+BRONCOS",12,18,4
+0,NRL 2016,Round 11,"Saturday, 21st May, 2016",3:00pm (local time),31044,19,"8,658",WESTS TIGERS,10,20,7,"Newcastle
+KNIGHTS",6,12,8
+0,NRL 2016,Round 11,"Saturday, 21st May, 2016",7:30pm (local time),31045,713,"12,833",WARRIORS,0,12,7,"Canberra
+RAIDERS",22,38,10
+0,NRL 2016,Round 11,"Saturday, 21st May, 2016",7:30pm (local time),31046,9,"16,601","Cronulla Sutherland
+SHARKS",12,20,9,"Manly Warringah
+SEA EAGLES",4,12,6
+0,NRL 2016,Round 11,"Sunday, 22nd May, 2016",2:00pm (local time),31048,3,"11,210","Penrith
+PANTHERS",12,24,8,"Gold Coast
+TITANS",12,28,4
+0,NRL 2016,Round 11,"Sunday, 22nd May, 2016",4:00pm (local time),31049,20,"17,704","Canterbury Bankstown
+BULLDOGS",18,32,8,"Sydney
+ROOSTERS",10,20,5
+0,NRL 2016,Round 11,"Monday, 23rd May, 2016",7:00pm (local time),31047,8,"8,941","Parramatta
+EELS",0,6,5,"Melbourne
+STORM",8,18,7
+0,NRL 2016,Round 12,"Friday, 27th May, 2016",7:30pm (local time),31066,1097,"27,153","Brisbane
+BRONCOS",8,18,6,WESTS TIGERS,12,19,8
+0,NRL 2016,Round 12,"Saturday, 28th May, 2016",7:30pm (local time),31067,21,"10,032","St George Illawarra
+DRAGONS",10,14,8,"North Queensland
+COWBOYS",4,10,11
+0,NRL 2016,Round 12,"Sunday, 29th May, 2016",4:00pm (local time),31068,4,"13,907","Canberra
+RAIDERS",10,32,6,"Canterbury Bankstown
+BULLDOGS",14,20,5
+0,NRL 2016,Round 12,"Monday, 30th May, 2016",7:30pm (local time),31069,11,"12,856","Newcastle
+KNIGHTS",14,18,6,"Parramatta
+EELS",10,20,4
+0,NRL 2016,Round 13,"Friday, 3rd June, 2016",7:50pm (local time),31072,4,"9,157","Canberra
+RAIDERS",12,30,9,"Manly Warringah
+SEA EAGLES",6,18,8
+0,NRL 2016,Round 13,"Saturday, 4th June, 2016",5:00pm (local time),31073,6,"15,097",WARRIORS,18,36,6,"Brisbane
+BRONCOS",6,18,8
+0,NRL 2016,Round 13,"Saturday, 4th June, 2016",5:30pm (local time),31074,14,"14,651","North Queensland
+COWBOYS",24,46,7,"Newcastle
+KNIGHTS",6,16,4
+0,NRL 2016,Round 13,"Saturday, 4th June, 2016",7:30pm (local time),31075,251,"11,116","Melbourne
+STORM",16,24,6,"Penrith
+PANTHERS",6,6,4
+0,NRL 2016,Round 13,"Sunday, 5th June, 2016",4:00pm (local time),31076,1,"3,622","Sydney
+ROOSTERS",18,32,3,WESTS TIGERS,12,18,5
+0,NRL 2016,Round 13,"Sunday, 5th June, 2016",4:30pm (local time),31071,47,"13,142","South Sydney
+RABBITOHS",0,28,6,"Gold Coast
+TITANS",12,29,7
+0,NRL 2016,Round 13,"Monday, 6th June, 2016",7:00pm (local time),31077,20,"10,081","Canterbury Bankstown
+BULLDOGS",18,18,4,"Cronulla Sutherland
+SHARKS",10,20,8
+0,NRL 2016,Round 14,"Thursday, 9th June, 2016",7:50pm (local time),31078,1097,"25,021","Brisbane
+BRONCOS",18,26,6,"Canberra
+RAIDERS",0,18,4
+0,NRL 2016,Round 14,"Friday, 10th June, 2016",7:50pm (local time),31079,20,"14,490",WESTS TIGERS,14,30,9,"South Sydney
+RABBITOHS",4,14,5
+0,NRL 2016,Round 14,"Saturday, 11th June, 2016",3:00pm (local time),31080,11,"12,222","Newcastle
+KNIGHTS",14,14,6,WARRIORS,22,50,5
+0,NRL 2016,Round 14,"Saturday, 11th June, 2016",5:00pm (local time),31081,423,"7,722","Parramatta
+EELS",12,22,7,"Gold Coast
+TITANS",8,12,7
+0,NRL 2016,Round 14,"Saturday, 11th June, 2016",7:30pm (local time),31082,1,"8,499","Sydney
+ROOSTERS",0,0,5,"Melbourne
+STORM",18,46,4
+0,NRL 2016,Round 14,"Sunday, 12th June, 2016",4:00pm (local time),31083,5,"12,463","Manly Warringah
+SEA EAGLES",20,24,7,"Penrith
+PANTHERS",4,31,7
+0,NRL 2016,Round 14,"Monday, 13th June, 2016",4:00pm (local time),31084,20,"20,153","St George Illawarra
+DRAGONS",12,16,4,"Canterbury Bankstown
+BULLDOGS",16,34,5
+0,NRL 2016,Round 14,"Monday, 13th June, 2016",7:00pm (local time),31085,9,"13,119","Cronulla Sutherland
+SHARKS",8,13,11,"North Queensland
+COWBOYS",8,10,9
+0,NRL 2016,Round 15,"Friday, 17th June, 2016",7:50pm (local time),31086,20,"11,860","South Sydney
+RABBITOHS",12,12,5,"Parramatta
+EELS",14,30,10
+0,NRL 2016,Round 15,"Saturday, 18th June, 2016",7:30pm (local time),31087,21,"7,568","St George Illawarra
+DRAGONS",8,20,11,"Melbourne
+STORM",2,10,8
+0,NRL 2016,Round 15,"Sunday, 19th June, 2016",6:00pm (local time),31088,6,"14,026",WARRIORS,2,12,10,"Sydney
+ROOSTERS",4,10,3
+0,NRL 2016,Round 15,"Monday, 20th June, 2016",7:00pm (local time),31089,149,"8,278","Gold Coast
+TITANS",18,30,10,"Manly Warringah
+SEA EAGLES",6,10,6
+0,NRL 2016,Round 16,"Friday, 24th June, 2016",7:50pm (local time),31091,3,"13,080","Penrith
+PANTHERS",10,28,8,"South Sydney
+RABBITOHS",8,26,8
+0,NRL 2016,Round 16,"Saturday, 25th June, 2016",3:00pm (local time),31092,11,"13,777","Newcastle
+KNIGHTS",6,18,6,"St George Illawarra
+DRAGONS",22,30,5
+0,NRL 2016,Round 16,"Saturday, 25th June, 2016",5:30pm (local time),31093,9,"12,074","Cronulla Sutherland
+SHARKS",12,19,7,WARRIORS,10,18,10
+0,NRL 2016,Round 16,"Saturday, 25th June, 2016",7:30pm (local time),31094,20,"15,106","Canterbury Bankstown
+BULLDOGS",10,40,4,"Brisbane
+BRONCOS",4,14,5
+0,NRL 2016,Round 16,"Sunday, 26th June, 2016",2:00pm (local time),31095,149,"12,645","Gold Coast
+TITANS",10,22,10,"Canberra
+RAIDERS",18,30,11
+0,NRL 2016,Round 16,"Sunday, 26th June, 2016",4:00pm (local time),31096,251,"14,412","Melbourne
+STORM",26,29,7,WESTS TIGERS,0,20,7
+0,NRL 2016,Round 16,"Monday, 27th June, 2016",7:00pm (local time),31097,14,"15,854","North Queensland
+COWBOYS",18,30,6,"Manly Warringah
+SEA EAGLES",4,26,4
+0,NRL 2016,Round 17,"Thursday, 30th June, 2016",7:50pm (local time),31098,1,"7,741","Sydney
+ROOSTERS",12,20,6,"Canterbury Bankstown
+BULLDOGS",12,24,5
+0,NRL 2016,Round 17,"Friday, 1st July, 2016",7:50pm (local time),31099,1097,"44,519","Brisbane
+BRONCOS",6,6,8,"Melbourne
+STORM",30,48,4
+0,NRL 2016,Round 17,"Saturday, 2nd July, 2016",5:00pm (local time),31100,6,"15,107",WARRIORS,10,27,5,"Gold Coast
+TITANS",10,18,5
+0,NRL 2016,Round 17,"Saturday, 2nd July, 2016",5:30pm (local time),31101,20,"10,582",WESTS TIGERS,22,34,2,"Penrith
+PANTHERS",14,26,8
+0,NRL 2016,Round 17,"Saturday, 2nd July, 2016",7:30pm (local time),31102,9,"19,142","Cronulla Sutherland
+SHARKS",16,34,5,"Parramatta
+EELS",18,24,3
+0,NRL 2016,Round 17,"Sunday, 3rd July, 2016",2:00pm (local time),31103,4,"9,731","Canberra
+RAIDERS",6,29,8,"Newcastle
+KNIGHTS",22,25,6
+0,NRL 2016,Round 17,"Sunday, 3rd July, 2016",4:00pm (local time),31104,393,"14,923","South Sydney
+RABBITOHS",0,0,6,"North Queensland
+COWBOYS",14,20,10
+0,NRL 2016,Round 17,"Monday, 4th July, 2016",7:00pm (local time),31105,5,"9,048","Manly Warringah
+SEA EAGLES",22,36,9,"St George Illawarra
+DRAGONS",0,6,7
+0,NRL 2016,Round 18,"Friday, 8th July, 2016",7:50pm (local time),31142,8,"8,464","Parramatta
+EELS",6,22,5,"Sydney
+ROOSTERS",6,18,6
+0,NRL 2016,Round 18,"Saturday, 9th July, 2016",7:30pm (local time),31143,20,"16,212","Canterbury Bankstown
+BULLDOGS",16,32,5,WESTS TIGERS,16,22,7
+0,NRL 2016,Round 18,"Sunday, 10th July, 2016",4:00pm (local time),31144,3,"12,682","Penrith
+PANTHERS",6,10,10,"Cronulla Sutherland
+SHARKS",8,26,6
+0,NRL 2016,Round 18,"Monday, 11th July, 2016",7:00pm (local time),31145,4,"8,328","Canberra
+RAIDERS",14,26,8,"North Queensland
+COWBOYS",6,12,4
+0,NRL 2016,Round 19,"Friday, 15th July, 2016",7:50pm (local time),31153,23,"8,256","St George Illawarra
+DRAGONS",6,12,3,"Gold Coast
+TITANS",14,32,4
+0,NRL 2016,Round 19,"Saturday, 16th July, 2016",3:30pm (local time),31154,47,"11,109","Manly Warringah
+SEA EAGLES",14,15,6,WARRIORS,12,14,8
+0,NRL 2016,Round 19,"Saturday, 16th July, 2016",7:30pm (local time),31155,20,"13,111","South Sydney
+RABBITOHS",6,10,5,"Brisbane
+BRONCOS",18,30,4
+0,NRL 2016,Round 19,"Sunday, 17th July, 2016",2:00pm (local time),31156,11,"10,748","Newcastle
+KNIGHTS",6,16,7,"Melbourne
+STORM",8,20,7
+0,NRL 2016,Round 19,"Sunday, 17th July, 2016",4:00pm (local time),31157,3,"15,251","Penrith
+PANTHERS",6,22,7,"Parramatta
+EELS",18,18,3
+0,NRL 2016,Round 19,"Monday, 18th July, 2016",7:00pm (local time),31158,1,"9,276","Sydney
+ROOSTERS",10,20,9,"Cronulla Sutherland
+SHARKS",16,32,4
+0,NRL 2016,Round 20,"Thursday, 21st July, 2016",7:50pm (local time),31165,14,"11,630","North Queensland
+COWBOYS",16,36,5,"Canterbury Bankstown
+BULLDOGS",0,0,8
+0,NRL 2016,Round 20,"Friday, 22nd July, 2016",7:50pm (local time),31166,1097,"30,878","Brisbane
+BRONCOS",0,12,5,"Penrith
+PANTHERS",18,31,8
+0,NRL 2016,Round 20,"Saturday, 23rd July, 2016",3:00pm (local time),31167,4,"9,471","Canberra
+RAIDERS",12,26,6,WARRIORS,4,22,5
+0,NRL 2016,Round 20,"Saturday, 23rd July, 2016",5:30pm (local time),31168,149,"15,273","Gold Coast
+TITANS",14,34,8,"Parramatta
+EELS",4,14,6
+0,NRL 2016,Round 20,"Saturday, 23rd July, 2016",7:30pm (local time),31169,251,"12,604","Melbourne
+STORM",14,26,7,"Sydney
+ROOSTERS",6,10,5
+0,NRL 2016,Round 20,"Sunday, 24th July, 2016",2:00pm (local time),31170,9,"16,882","Cronulla Sutherland
+SHARKS",10,36,9,"Newcastle
+KNIGHTS",0,4,11
+0,NRL 2016,Round 20,"Sunday, 24th July, 2016",4:00pm (local time),31171,20,"15,087","St George Illawarra
+DRAGONS",8,12,7,WESTS TIGERS,18,25,9
+0,NRL 2016,Round 20,"Monday, 25th July, 2016",7:00pm (local time),31172,1,"8,273","South Sydney
+RABBITOHS",0,12,11,"Manly Warringah
+SEA EAGLES",18,20,6
+0,NRL 2016,Round 21,"Thursday, 28th July, 2016",7:50pm (local time),31173,1,"6,308","Sydney
+ROOSTERS",18,32,5,"Brisbane
+BRONCOS",6,16,4
+0,NRL 2016,Round 21,"Friday, 29th July, 2016",7:50pm (local time),31174,20,"15,008","Canterbury Bankstown
+BULLDOGS",13,13,2,"St George Illawarra
+DRAGONS",0,10,4
+0,NRL 2016,Round 21,"Saturday, 30th July, 2016",5:00pm (local time),31175,6,"13,026",WARRIORS,10,20,6,"Penrith
+PANTHERS",2,16,8
+0,NRL 2016,Round 21,"Saturday, 30th July, 2016",5:30pm (local time),31176,20,"14,428","Parramatta
+EELS",8,8,9,WESTS TIGERS,14,23,9
+0,NRL 2016,Round 21,"Saturday, 30th July, 2016",7:30pm (local time),31177,14,"20,256","North Queensland
+COWBOYS",8,8,6,"Melbourne
+STORM",16,16,5
+0,NRL 2016,Round 21,"Sunday, 31st July, 2016",2:00pm (local time),31178,20,"10,076","South Sydney
+RABBITOHS",0,4,3,"Canberra
+RAIDERS",26,54,4
+0,NRL 2016,Round 21,"Sunday, 31st July, 2016",4:00pm (local time),31179,5,"11,222","Manly Warringah
+SEA EAGLES",26,36,7,"Newcastle
+KNIGHTS",0,16,8
+0,NRL 2016,Round 21,"Monday, 1st August, 2016",7:00pm (local time),31180,149,"14,918","Gold Coast
+TITANS",6,18,6,"Cronulla Sutherland
+SHARKS",12,18,11
+0,NRL 2016,Round 22,"Thursday, 4th August, 2016",7:50pm (local time),31181,21,"5,662","St George Illawarra
+DRAGONS",2,8,6,"Brisbane
+BRONCOS",8,12,1
+0,NRL 2016,Round 22,"Friday, 5th August, 2016",7:50pm (local time),31182,8,"8,143","Parramatta
+EELS",6,10,7,"Manly Warringah
+SEA EAGLES",7,9,7
+0,NRL 2016,Round 22,"Saturday, 6th August, 2016",3:00pm (local time),31183,11,"13,318","Newcastle
+KNIGHTS",2,14,3,"Canterbury Bankstown
+BULLDOGS",14,28,6
+0,NRL 2016,Round 22,"Saturday, 6th August, 2016",5:30pm (local time),31184,9,"15,133","Cronulla Sutherland
+SHARKS",8,14,11,"Canberra
+RAIDERS",20,30,7
+0,NRL 2016,Round 22,"Saturday, 6th August, 2016",7:30pm (local time),31185,251,"13,569","Melbourne
+STORM",0,15,13,"South Sydney
+RABBITOHS",6,14,7
+0,NRL 2016,Round 22,"Sunday, 7th August, 2016",2:00pm (local time),31186,149,"25,109","Gold Coast
+TITANS",10,14,4,WARRIORS,10,24,3
+0,NRL 2016,Round 22,"Sunday, 7th August, 2016",4:00pm (local time),31187,7,"14,246",WESTS TIGERS,12,26,7,"North Queensland
+COWBOYS",6,14,7
+0,NRL 2016,Round 22,"Monday, 8th August, 2016",7:00pm (local time),31188,3,"9,653","Penrith
+PANTHERS",18,38,7,"Sydney
+ROOSTERS",6,18,6
+0,NRL 2016,Round 23,"Thursday, 11th August, 2016",7:50pm (local time),31189,20,"10,290","Canterbury Bankstown
+BULLDOGS",12,20,10,"Manly Warringah
+SEA EAGLES",6,16,8
+0,NRL 2016,Round 23,"Friday, 12th August, 2016",7:50pm (local time),31190,1097,"30,189","Brisbane
+BRONCOS",14,38,6,"Parramatta
+EELS",10,16,5
+0,NRL 2016,Round 23,"Saturday, 13th August, 2016",3:00pm (local time),31191,19,"16,783",WESTS TIGERS,10,18,9,"Gold Coast
+TITANS",12,19,5
+0,NRL 2016,Round 23,"Saturday, 13th August, 2016",7:30pm (local time),31192,6,"17,409",WARRIORS,6,22,5,"South Sydney
+RABBITOHS",31,41,7
+0,NRL 2016,Round 23,"Saturday, 13th August, 2016",7:30pm (local time),31193,23,"13,167","St George Illawarra
+DRAGONS",6,32,5,"Cronulla Sutherland
+SHARKS",12,18,2
+0,NRL 2016,Round 23,"Sunday, 14th August, 2016",2:00pm (local time),31194,11,"13,771","Newcastle
+KNIGHTS",6,6,10,"Penrith
+PANTHERS",6,42,6
+0,NRL 2016,Round 23,"Sunday, 14th August, 2016",4:00pm (local time),31195,1,"8,760","Sydney
+ROOSTERS",16,22,6,"North Queensland
+COWBOYS",4,10,6
+0,NRL 2016,Round 23,"Monday, 15th August, 2016",7:00pm (local time),31196,4,"15,707","Canberra
+RAIDERS",14,22,8,"Melbourne
+STORM",8,8,10
+0,NRL 2016,Round 24,"Thursday, 18th August, 2016",7:50pm (local time),31197,1097,"27,746","Brisbane
+BRONCOS",10,20,5,"Canterbury Bankstown
+BULLDOGS",4,10,7
+0,NRL 2016,Round 24,"Friday, 19th August, 2016",7:50pm (local time),31198,3,"14,876","Penrith
+PANTHERS",28,40,7,WESTS TIGERS,4,10,5
+0,NRL 2016,Round 24,"Saturday, 20th August, 2016",3:00pm (local time),31199,11,"10,960","Newcastle
+KNIGHTS",6,6,9,"Gold Coast
+TITANS",18,26,12
+0,NRL 2016,Round 24,"Saturday, 20th August, 2016",5:30pm (local time),31200,5,"8,241","Manly Warringah
+SEA EAGLES",6,18,4,"Melbourne
+STORM",26,38,6
+0,NRL 2016,Round 24,"Saturday, 20th August, 2016",7:30pm (local time),31201,14,"15,676","North Queensland
+COWBOYS",22,34,6,WARRIORS,6,6,3
+0,NRL 2016,Round 24,"Sunday, 21st August, 2016",2:00pm (local time),31202,4,"18,825","Canberra
+RAIDERS",4,28,10,"Parramatta
+EELS",18,18,9
+0,NRL 2016,Round 24,"Sunday, 21st August, 2016",4:00pm (local time),31203,1,"11,486","Sydney
+ROOSTERS",14,42,5,"St George Illawarra
+DRAGONS",6,6,5
+0,NRL 2016,Round 24,"Monday, 22nd August, 2016",7:00pm (local time),31204,20,"7,588","South Sydney
+RABBITOHS",8,12,9,"Cronulla Sutherland
+SHARKS",0,6,4
+0,NRL 2016,Round 25,"Thursday, 25th August, 2016",7:50pm (local time),31205,27,"10,144","Canterbury Bankstown
+BULLDOGS",4,16,8,"North Queensland
+COWBOYS",6,24,6
+0,NRL 2016,Round 25,"Friday, 26th August, 2016",7:50pm (local time),31206,251,"20,263","Melbourne
+STORM",4,16,6,"Brisbane
+BRONCOS",14,26,5
+0,NRL 2016,Round 25,"Saturday, 27th August, 2016",3:00pm (local time),31207,5,"11,137","Manly Warringah
+SEA EAGLES",10,30,7,"Canberra
+RAIDERS",18,44,5
+0,NRL 2016,Round 25,"Saturday, 27th August, 2016",5:30pm (local time),31208,149,"18,288","Gold Coast
+TITANS",0,14,9,"Penrith
+PANTHERS",14,15,7
+0,NRL 2016,Round 25,"Saturday, 27th August, 2016",7:30pm (local time),31209,9,"14,457","Cronulla Sutherland
+SHARKS",13,37,12,"Sydney
+ROOSTERS",12,12,6
+0,NRL 2016,Round 25,"Sunday, 28th August, 2016",4:00pm (local time),31210,6,"14,020",WARRIORS,18,24,4,WESTS TIGERS,12,36,6
+0,NRL 2016,Round 25,"Sunday, 28th August, 2016",4:00pm (local time),31211,11,"15,212","Newcastle
+KNIGHTS",0,12,9,"South Sydney
+RABBITOHS",16,34,7
+0,NRL 2016,Round 25,"Monday, 29th August, 2016",7:00pm (local time),31212,8,"13,553","Parramatta
+EELS",12,30,5,"St George Illawarra
+DRAGONS",6,18,4
+0,NRL 2016,Round 26,"Thursday, 1st September, 2016",7:50pm (local time),31213,1097,"37,566","Brisbane
+BRONCOS",12,24,6,"Sydney
+ROOSTERS",14,14,6
+0,NRL 2016,Round 26,"Friday, 2nd September, 2016",7:50pm (local time),31214,20,"14,731","Canterbury Bankstown
+BULLDOGS",6,10,4,"South Sydney
+RABBITOHS",12,28,8
+0,NRL 2016,Round 26,"Saturday, 3rd September, 2016",3:00pm (local time),31215,23,"8,726","St George Illawarra
+DRAGONS",22,28,5,"Newcastle
+KNIGHTS",10,26,3
+0,NRL 2016,Round 26,"Saturday, 3rd September, 2016",5:30pm (local time),31216,14,"21,495","North Queensland
+COWBOYS",12,32,8,"Gold Coast
+TITANS",6,16,7
+0,NRL 2016,Round 26,"Saturday, 3rd September, 2016",7:30pm (local time),31217,251,"24,135","Melbourne
+STORM",10,26,5,"Cronulla Sutherland
+SHARKS",2,6,6
+0,NRL 2016,Round 26,"Sunday, 4th September, 2016",2:00pm (local time),31218,7,"18,634",WESTS TIGERS,4,10,11,"Canberra
+RAIDERS",30,52,6
+0,NRL 2016,Round 26,"Sunday, 4th September, 2016",6:00pm (local time),31219,6,"11,129",WARRIORS,18,18,7,"Parramatta
+EELS",22,40,4
+0,NRL 2016,Round 26,"Sunday, 4th September, 2016",6:30pm (local time),31220,3,"15,411","Penrith
+PANTHERS",30,36,6,"Manly Warringah
+SEA EAGLES",0,6,10
+0,NRL 2016,Qualif Final,"Friday, 9th September, 2016",7:55pm (local time),31263,1097,"43,170","Brisbane
+BRONCOS",16,44,8,"Gold Coast
+TITANS",18,28,4
+0,NRL 2016,Qualif Final,"Saturday, 10th September, 2016",5:35pm (local time),31264,4,"25,592","Canberra
+RAIDERS",12,14,7,"Cronulla Sutherland
+SHARKS",6,16,7
+0,NRL 2016,Qualif Final,"Saturday, 10th September, 2016",7:55pm (local time),31265,251,"21,233","Melbourne
+STORM",6,16,6,"North Queensland
+COWBOYS",6,10,3
+0,NRL 2016,Qualif Final,"Sunday, 11th September, 2016",4:10pm (local time),31262,1,"22,631","Penrith
+PANTHERS",4,28,8,"Canterbury Bankstown
+BULLDOGS",6,12,4
+0,NRL 2016,Semi Final,"Friday, 16th September, 2016",7:55pm (local time),31266,14,"23,804","North Queensland
+COWBOYS",6,26,8,"Brisbane
+BRONCOS",14,20,6
+0,NRL 2016,Semi Final,"Saturday, 17th September, 2016",7:45pm (local time),31267,4,"21,498","Canberra
+RAIDERS",12,22,9,"Penrith
+PANTHERS",0,12,7
+0,NRL 2016,Prelim Final,"Friday, 23rd September, 2016",7:55pm (local time),31268,1,"36,717","Cronulla Sutherland
+SHARKS",14,32,8,"North Queensland
+COWBOYS",0,20,6
+0,NRL 2016,Prelim Final,"Saturday, 24th September, 2016",7:55pm (local time),31269,251,"28,161","Melbourne
+STORM",8,14,11,"Canberra
+RAIDERS",6,12,7
+0,NRL 2016,Grand Final,"Sunday, 2nd October, 2016",7:28pm (local time),31270,20,"83,625","Cronulla Sutherland
+SHARKS",8,14,5,"Melbourne
+STORM",0,12,3

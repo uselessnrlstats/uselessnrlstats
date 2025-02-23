@@ -1,0 +1,550 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRL 1989,Round 1,"Friday, 17th March, 1989",8:30pm (local time),2256,1,"15,920","South Sydney
+RABBITOHS",,0,8,"Eastern Suburbs
+ROOSTERS",,14,5
+0,NSWRL 1989,Round 1,"Saturday, 18th March, 1989",3:05pm (local time),2262,25,"7,070","North Sydney
+BEARS",12,14,11,"Balmain
+TIGERS",12,21,7
+0,NSWRL 1989,Round 1,"Sunday, 19th March, 1989",3:00pm (local time),2259,22,"14,721","Brisbane
+BRONCOS",14,28,11,"Penrith
+PANTHERS",0,8,11
+0,NSWRL 1989,Round 1,"Sunday, 19th March, 1989",3:00pm (local time),2260,9,"5,664","Cronulla Sutherland
+SHARKS",14,32,7,"Canberra
+RAIDERS",2,14,6
+0,NSWRL 1989,Round 1,"Sunday, 19th March, 1989",3:00pm (local time),2261,34,"7,341","Gold Coast/Tweed Heads
+GIANTS",2,2,11,"Canterbury Bankstown
+BULLDOGS",2,8,12
+0,NSWRL 1989,Round 1,"Sunday, 19th March, 1989",3:00pm (local time),2257,21,"8,246","Illawarra
+STEELERS",,18,8,"St George
+DRAGONS",,22,15
+0,NSWRL 1989,Round 1,"Sunday, 19th March, 1989",3:00pm (local time),2258,11,"14,201","Newcastle
+KNIGHTS",,19,8,"Western Suburbs
+MAGPIES",,10,9
+0,NSWRL 1989,Round 1,"Sunday, 19th March, 1989",3:00pm (local time),2263,8,"17,054","Parramatta
+EELS",,22,5,"Manly Warringah
+SEA EAGLES",,20,5
+0,NSWRL 1989,Round 2,"Saturday, 25th March, 1989",3:05pm (local time),2280,19,"8,378","Western Suburbs
+MAGPIES",10,10,6,"Parramatta
+EELS",6,30,5
+0,NSWRL 1989,Round 2,"Sunday, 26th March, 1989",3:00pm (local time),2284,7,"8,275","Balmain
+TIGERS",,22,7,"Newcastle
+KNIGHTS",,20,16
+0,NSWRL 1989,Round 2,"Sunday, 26th March, 1989",3:00pm (local time),2285,48,"9,560","Canberra
+RAIDERS",2,2,10,"South Sydney
+RABBITOHS",10,17,5
+0,NSWRL 1989,Round 2,"Sunday, 26th March, 1989",3:00pm (local time),2279,34,"5,255","Gold Coast/Tweed Heads
+GIANTS",,14,5,"Illawarra
+STEELERS",,10,9
+0,NSWRL 1989,Round 2,"Sunday, 26th March, 1989",3:00pm (local time),2278,5,"17,736","Manly Warringah
+SEA EAGLES",12,18,6,"Brisbane
+BRONCOS",16,22,5
+0,NSWRL 1989,Round 2,"Sunday, 26th March, 1989",3:00pm (local time),2283,3,"5,890","Penrith
+PANTHERS",10,20,9,"North Sydney
+BEARS",0,0,8
+0,NSWRL 1989,Round 2,"Sunday, 26th March, 1989",3:00pm (local time),2282,23,"15,148","St George
+DRAGONS",5,13,12,"Eastern Suburbs
+ROOSTERS",10,14,8
+0,NSWRL 1989,Round 2,"Monday, 27th March, 1989",3:00pm (local time),2281,27,"8,204","Canterbury Bankstown
+BULLDOGS",,22,3,"Cronulla Sutherland
+SHARKS",,2,5
+0,NSWRL 1989,Round 3,"Saturday, 1st April, 1989",3:05pm (local time),2287,9,"5,691","Cronulla Sutherland
+SHARKS",6,10,10,"South Sydney
+RABBITOHS",6,12,5
+0,NSWRL 1989,Round 3,"Sunday, 2nd April, 1989",3:00pm (local time),2286,22,"12,952","Brisbane
+BRONCOS",2,6,7,"Balmain
+TIGERS",8,15,4
+0,NSWRL 1989,Round 3,"Sunday, 2nd April, 1989",3:00pm (local time),2292,1,"4,742","Eastern Suburbs
+ROOSTERS",0,8,11,"Canberra
+RAIDERS",4,9,6
+0,NSWRL 1989,Round 3,"Sunday, 2nd April, 1989",3:00pm (local time),2290,21,"4,477","Illawarra
+STEELERS",,4,11,"Canterbury Bankstown
+BULLDOGS",,16,5
+0,NSWRL 1989,Round 3,"Sunday, 2nd April, 1989",3:00pm (local time),2291,11,"15,220","Newcastle
+KNIGHTS",8,14,12,"Manly Warringah
+SEA EAGLES",0,0,10
+0,NSWRL 1989,Round 3,"Sunday, 2nd April, 1989",3:00pm (local time),2288,25,"4,017","North Sydney
+BEARS",,24,11,"Western Suburbs
+MAGPIES",,0,7
+0,NSWRL 1989,Round 3,"Sunday, 2nd April, 1989",3:00pm (local time),2289,8,"12,070","Parramatta
+EELS",,8,6,"Penrith
+PANTHERS",,6,9
+0,NSWRL 1989,Round 4,"Saturday, 8th April, 1989",3:05pm (local time),2889,9,"5,370","Cronulla Sutherland
+SHARKS",4,4,7,"Eastern Suburbs
+ROOSTERS",0,0,8
+0,NSWRL 1989,Round 4,"Sunday, 9th April, 1989",3:00pm (local time),2891,7,"18,315","Balmain
+TIGERS",0,16,4,"Parramatta
+EELS",12,18,8
+0,NSWRL 1989,Round 4,"Sunday, 9th April, 1989",3:00pm (local time),2892,48,"4,989","Canberra
+RAIDERS",,24,6,"Gold Coast/Tweed Heads
+GIANTS",,0,18
+0,NSWRL 1989,Round 4,"Sunday, 9th April, 1989",3:00pm (local time),2893,27,"16,307","Canterbury Bankstown
+BULLDOGS",,8,7,"St George
+DRAGONS",,16,9
+0,NSWRL 1989,Round 4,"Sunday, 9th April, 1989",3:00pm (local time),2890,5,"14,016","Manly Warringah
+SEA EAGLES",,16,8,"North Sydney
+BEARS",,12,11
+0,NSWRL 1989,Round 4,"Sunday, 9th April, 1989",3:00pm (local time),2895,3,"7,183","Penrith
+PANTHERS",,19,6,"Newcastle
+KNIGHTS",,10,7
+0,NSWRL 1989,Round 4,"Sunday, 9th April, 1989",3:00pm (local time),2894,1,"4,863","South Sydney
+RABBITOHS",,22,8,"Illawarra
+STEELERS",,14,4
+0,NSWRL 1989,Round 4,"Sunday, 9th April, 1989",3:00pm (local time),2896,19,"5,755","Western Suburbs
+MAGPIES",,8,7,"Brisbane
+BRONCOS",,10,5
+0,NSWRL 1989,Round 5,"Saturday, 15th April, 1989",3:05pm (local time),2738,22,"13,080","Brisbane
+BRONCOS",,24,3,"Newcastle
+KNIGHTS",,12,10
+0,NSWRL 1989,Round 5,"Sunday, 16th April, 1989",3:00pm (local time),2742,48,"11,090","Canberra
+RAIDERS",10,34,6,"Canterbury Bankstown
+BULLDOGS",4,4,8
+0,NSWRL 1989,Round 5,"Sunday, 16th April, 1989",3:00pm (local time),2745,76,"5,196","Eastern Suburbs
+ROOSTERS",,48,7,"Illawarra
+STEELERS",,6,10
+0,NSWRL 1989,Round 5,"Sunday, 16th April, 1989",3:00pm (local time),2739,34,"9,032","Gold Coast/Tweed Heads
+GIANTS",,10,10,"South Sydney
+RABBITOHS",,25,5
+0,NSWRL 1989,Round 5,"Sunday, 16th April, 1989",3:00pm (local time),2740,5,"12,462","Manly Warringah
+SEA EAGLES",,12,10,"Penrith
+PANTHERS",,22,18
+0,NSWRL 1989,Round 5,"Sunday, 16th April, 1989",3:00pm (local time),2741,25,"14,247","North Sydney
+BEARS",,34,3,"Parramatta
+EELS",,18,2
+0,NSWRL 1989,Round 5,"Sunday, 16th April, 1989",3:00pm (local time),2744,23,"15,682","St George
+DRAGONS",,23,5,"Cronulla Sutherland
+SHARKS",,22,10
+0,NSWRL 1989,Round 5,"Sunday, 16th April, 1989",3:00pm (local time),2743,19,"12,339","Western Suburbs
+MAGPIES",,6,10,"Balmain
+TIGERS",,4,13
+0,NSWRL 1989,Round 6,"Saturday, 22nd April, 1989",3:05pm (local time),2746,1,"8,798","South Sydney
+RABBITOHS",,32,6,"St George
+DRAGONS",,0,12
+0,NSWRL 1989,Round 6,"Sunday, 23rd April, 1989",3:00pm (local time),2749,7,"8,200","Balmain
+TIGERS",,9,8,"Manly Warringah
+SEA EAGLES",,8,8
+0,NSWRL 1989,Round 6,"Sunday, 23rd April, 1989",3:00pm (local time),2750,9,"4,909","Cronulla Sutherland
+SHARKS",,6,7,"Gold Coast/Tweed Heads
+GIANTS",,4,10
+0,NSWRL 1989,Round 6,"Sunday, 23rd April, 1989",3:00pm (local time),2747,11,"15,948","Newcastle
+KNIGHTS",,12,9,"North Sydney
+BEARS",,0,10
+0,NSWRL 1989,Round 6,"Sunday, 23rd April, 1989",3:00pm (local time),2751,8,"17,006","Parramatta
+EELS",2,2,6,"Brisbane
+BRONCOS",6,6,5
+0,NSWRL 1989,Round 6,"Sunday, 23rd April, 1989",3:00pm (local time),2748,3,"5,142","Penrith
+PANTHERS",,30,11,"Western Suburbs
+MAGPIES",,4,7
+0,NSWRL 1989,Round 6,"Tuesday, 25th April, 1989",3:00pm (local time),2753,1,"15,622","Eastern Suburbs
+ROOSTERS",,6,7,"Canterbury Bankstown
+BULLDOGS",,30,5
+0,NSWRL 1989,Round 6,"Tuesday, 25th April, 1989",3:00pm (local time),2752,48,"7,020","Illawarra
+STEELERS",,8,6,"Canberra
+RAIDERS",,44,7
+0,NSWRL 1989,Round 7,"Saturday, 29th April, 1989",3:00pm (local time),2754,3,"10,327","Penrith
+PANTHERS",,28,8,"Balmain
+TIGERS",,8,4
+0,NSWRL 1989,Round 7,"Saturday, 29th April, 1989",7:30pm (local time),2755,34,"7,311","Gold Coast/Tweed Heads
+GIANTS",,34,10,"Eastern Suburbs
+ROOSTERS",,20,6
+0,NSWRL 1989,Round 7,"Sunday, 30th April, 1989",3:00pm (local time),2757,48,"12,082","Canberra
+RAIDERS",,42,5,"St George
+DRAGONS",,4,11
+0,NSWRL 1989,Round 7,"Sunday, 30th April, 1989",3:00pm (local time),2758,27,"15,585","Canterbury Bankstown
+BULLDOGS",,2,8,"South Sydney
+RABBITOHS",,10,7
+0,NSWRL 1989,Round 7,"Sunday, 30th April, 1989",3:00pm (local time),2761,21,"7,112","Illawarra
+STEELERS",,6,4,"Cronulla Sutherland
+SHARKS",,26,4
+0,NSWRL 1989,Round 7,"Sunday, 30th April, 1989",3:00pm (local time),2756,5,"8,047","Manly Warringah
+SEA EAGLES",,14,6,"Western Suburbs
+MAGPIES",,2,15
+0,NSWRL 1989,Round 7,"Sunday, 30th April, 1989",3:00pm (local time),2760,25,"8,390","North Sydney
+BEARS",6,10,6,"Brisbane
+BRONCOS",18,36,4
+0,NSWRL 1989,Round 7,"Sunday, 30th April, 1989",3:00pm (local time),2759,8,"13,362","Parramatta
+EELS",,6,12,"Newcastle
+KNIGHTS",,10,5
+0,NSWRL 1989,Round 8,"Saturday, 6th May, 1989",3:05pm (local time),2762,1,"9,211","Eastern Suburbs
+ROOSTERS",,8,7,"Parramatta
+EELS",,12,7
+0,NSWRL 1989,Round 8,"Sunday, 7th May, 1989",3:00pm (local time),2764,7,"8,237","Balmain
+TIGERS",,12,4,"Gold Coast/Tweed Heads
+GIANTS",,2,14
+0,NSWRL 1989,Round 8,"Sunday, 7th May, 1989",3:00pm (local time),2765,22,"12,990","Brisbane
+BRONCOS",,32,8,"Illawarra
+STEELERS",,24,9
+0,NSWRL 1989,Round 8,"Sunday, 7th May, 1989",3:00pm (local time),2766,9,"11,347","Cronulla Sutherland
+SHARKS",,22,7,"Penrith
+PANTHERS",,0,9
+0,NSWRL 1989,Round 8,"Sunday, 7th May, 1989",3:00pm (local time),2768,5,"10,724","Manly Warringah
+SEA EAGLES",6,10,7,"Canberra
+RAIDERS",10,12,9
+0,NSWRL 1989,Round 8,"Sunday, 7th May, 1989",3:00pm (local time),2769,11,"25,840","Newcastle
+KNIGHTS",,16,11,"Canterbury Bankstown
+BULLDOGS",,8,9
+0,NSWRL 1989,Round 8,"Sunday, 7th May, 1989",3:00pm (local time),2763,23,"8,574","St George
+DRAGONS",8,16,8,"Western Suburbs
+MAGPIES",12,18,7
+0,NSWRL 1989,Round 8,"Sunday, 7th May, 1989",3:00pm (local time),2767,1,"11,460","South Sydney
+RABBITOHS",,18,4,"North Sydney
+BEARS",,8,7
+0,NSWRL 1989,Round 9,"Sunday, 14th May, 1989",3:00pm (local time),2773,48,"14,460","Canberra
+RAIDERS",17,41,6,"Parramatta
+EELS",10,16,7
+0,NSWRL 1989,Round 9,"Sunday, 14th May, 1989",3:00pm (local time),2776,27,"11,804","Canterbury Bankstown
+BULLDOGS",,10,4,"Balmain
+TIGERS",,4,8
+0,NSWRL 1989,Round 9,"Sunday, 14th May, 1989",3:00pm (local time),2774,9,"7,762","Cronulla Sutherland
+SHARKS",,26,2,"Newcastle
+KNIGHTS",,0,5
+0,NSWRL 1989,Round 9,"Sunday, 14th May, 1989",3:00pm (local time),2777,1,"7,426","Eastern Suburbs
+ROOSTERS",,2,8,"Brisbane
+BRONCOS",,36,5
+0,NSWRL 1989,Round 9,"Sunday, 14th May, 1989",3:00pm (local time),2770,34,"5,632","Gold Coast/Tweed Heads
+GIANTS",,8,4,"Penrith
+PANTHERS",,31,9
+0,NSWRL 1989,Round 9,"Sunday, 14th May, 1989",3:00pm (local time),2771,21,"11,037","Illawarra
+STEELERS",,18,7,"Manly Warringah
+SEA EAGLES",,12,3
+0,NSWRL 1989,Round 9,"Sunday, 14th May, 1989",3:00pm (local time),2772,25,"6,005","North Sydney
+BEARS",,12,7,"St George
+DRAGONS",,10,9
+0,NSWRL 1989,Round 9,"Sunday, 14th May, 1989",3:00pm (local time),2775,19,"10,018","Western Suburbs
+MAGPIES",,6,6,"South Sydney
+RABBITOHS",,15,4
+0,NSWRL 1989,Round 10,"Saturday, 20th May, 1989",3:05pm (local time),2778,21,"4,490","Illawarra
+STEELERS",,2,5,"North Sydney
+BEARS",,14,6
+0,NSWRL 1989,Round 10,"Sunday, 21st May, 1989",3:00pm (local time),2779,1,"10,959","Eastern Suburbs
+ROOSTERS",6,12,9,"Western Suburbs
+MAGPIES",4,10,14
+0,NSWRL 1989,Round 3,"Sunday, 21st May, 1989",3:00pm (local time),2293,23,"5,504","St George
+DRAGONS",4,8,10,"Gold Coast/Tweed Heads
+GIANTS",4,4,5
+0,NSWRL 1989,Round 10,"Saturday, 27th May, 1989",3:05pm (local time),2780,23,"4,268","St George
+DRAGONS",10,24,5,"Balmain
+TIGERS",4,14,9
+0,NSWRL 1989,Round 10,"Sunday, 28th May, 1989",3:00pm (local time),2781,22,"19,992","Brisbane
+BRONCOS",6,16,14,"Gold Coast/Tweed Heads
+GIANTS",2,2,10
+0,NSWRL 1989,Round 10,"Sunday, 28th May, 1989",3:00pm (local time),2783,11,"22,628","Newcastle
+KNIGHTS",,10,9,"Canberra
+RAIDERS",,6,7
+0,NSWRL 1989,Round 10,"Sunday, 28th May, 1989",3:00pm (local time),2785,8,"14,622","Parramatta
+EELS",,20,7,"Cronulla Sutherland
+SHARKS",,10,11
+0,NSWRL 1989,Round 10,"Sunday, 28th May, 1989",3:00pm (local time),2784,3,"13,981","Penrith
+PANTHERS",,38,4,"Canterbury Bankstown
+BULLDOGS",,4,7
+0,NSWRL 1989,Round 10,"Sunday, 28th May, 1989",3:00pm (local time),2782,1,"18,963","South Sydney
+RABBITOHS",,36,5,"Manly Warringah
+SEA EAGLES",,10,9
+0,NSWRL 1989,Round 11,"Saturday, 3rd June, 1989",3:05pm (local time),2786,27,"6,224","Canterbury Bankstown
+BULLDOGS",,16,10,"Parramatta
+EELS",,2,9
+0,NSWRL 1989,Round 11,"Sunday, 4th June, 1989",3:00pm (local time),2787,7,"3,315","Balmain
+TIGERS",,18,9,"Illawarra
+STEELERS",,6,6
+0,NSWRL 1989,Round 11,"Sunday, 4th June, 1989",3:00pm (local time),2788,9,"2,361","Cronulla Sutherland
+SHARKS",,20,5,"North Sydney
+BEARS",,6,9
+0,NSWRL 1989,Round 11,"Sunday, 4th June, 1989",3:00pm (local time),2793,5,"5,129","Manly Warringah
+SEA EAGLES",,22,2,"Eastern Suburbs
+ROOSTERS",,12,4
+0,NSWRL 1989,Round 11,"Sunday, 4th June, 1989",3:00pm (local time),2792,3,"7,143","Penrith
+PANTHERS",,16,7,"Canberra
+RAIDERS",,6,9
+0,NSWRL 1989,Round 11,"Sunday, 4th June, 1989",3:00pm (local time),2791,23,"6,691","St George
+DRAGONS",14,20,8,"Brisbane
+BRONCOS",10,10,9
+0,NSWRL 1989,Round 11,"Sunday, 4th June, 1989",3:00pm (local time),2790,1,"9,633","South Sydney
+RABBITOHS",,18,7,"Newcastle
+KNIGHTS",,10,10
+0,NSWRL 1989,Round 11,"Sunday, 4th June, 1989",3:00pm (local time),2789,19,"3,514","Western Suburbs
+MAGPIES",,12,8,"Gold Coast/Tweed Heads
+GIANTS",,12,8
+0,NSWRL 1989,Round 12,"Saturday, 10th June, 1989",3:05pm (local time),2794,34,"6,245","Gold Coast/Tweed Heads
+GIANTS",,12,4,"Newcastle
+KNIGHTS",,6,9
+0,NSWRL 1989,Round 12,"Sunday, 11th June, 1989",3:00pm (local time),2796,25,"6,877","North Sydney
+BEARS",4,6,8,"Canterbury Bankstown
+BULLDOGS",4,6,4
+0,NSWRL 1989,Round 12,"Sunday, 11th June, 1989",3:00pm (local time),2795,8,"9,322","Parramatta
+EELS",,28,11,"Illawarra
+STEELERS",,12,9
+0,NSWRL 1989,Round 12,"Saturday, 17th June, 1989",3:05pm (local time),2797,7,"10,303","Balmain
+TIGERS",,8,7,"South Sydney
+RABBITOHS",,10,7
+0,NSWRL 1989,Round 12,"Sunday, 18th June, 1989",3:00pm (local time),2799,48,"18,272","Canberra
+RAIDERS",13,27,4,"Brisbane
+BRONCOS",6,6,7
+0,NSWRL 1989,Round 12,"Sunday, 18th June, 1989",3:00pm (local time),2798,5,"12,265","Manly Warringah
+SEA EAGLES",,24,2,"St George
+DRAGONS",,10,7
+0,NSWRL 1989,Round 12,"Sunday, 18th June, 1989",3:00pm (local time),2801,3,"9,788","Penrith
+PANTHERS",,24,8,"Eastern Suburbs
+ROOSTERS",,4,6
+0,NSWRL 1989,Round 12,"Sunday, 18th June, 1989",3:00pm (local time),2800,19,"8,406","Western Suburbs
+MAGPIES",,4,5,"Cronulla Sutherland
+SHARKS",,20,11
+0,NSWRL 1989,Round 13,"Friday, 23rd June, 1989",7:35pm (local time),2802,11,"24,110","Newcastle
+KNIGHTS",4,4,9,"St George
+DRAGONS",10,12,8
+0,NSWRL 1989,Round 13,"Saturday, 24th June, 1989",3:05pm (local time),2803,22,"17,895","Brisbane
+BRONCOS",,42,3,"Cronulla Sutherland
+SHARKS",,10,4
+0,NSWRL 1989,Round 13,"Sunday, 25th June, 1989",3:00pm (local time),2807,48,"8,289","Canberra
+RAIDERS",18,22,12,"Western Suburbs
+MAGPIES",10,25,9
+0,NSWRL 1989,Round 13,"Sunday, 25th June, 1989",3:00pm (local time),2808,1,"10,253","Eastern Suburbs
+ROOSTERS",,6,9,"Balmain
+TIGERS",,10,12
+0,NSWRL 1989,Round 13,"Sunday, 25th June, 1989",3:00pm (local time),2804,34,"6,237","Gold Coast/Tweed Heads
+GIANTS",,6,7,"North Sydney
+BEARS",,4,9
+0,NSWRL 1989,Round 13,"Sunday, 25th June, 1989",3:00pm (local time),2805,21,"8,977","Illawarra
+STEELERS",,16,7,"Penrith
+PANTHERS",,17,11
+0,NSWRL 1989,Round 13,"Sunday, 25th June, 1989",3:00pm (local time),2809,5,"11,031","Manly Warringah
+SEA EAGLES",,28,8,"Canterbury Bankstown
+BULLDOGS",,10,6
+0,NSWRL 1989,Round 13,"Sunday, 25th June, 1989",3:00pm (local time),2806,8,"24,275","Parramatta
+EELS",,16,7,"South Sydney
+RABBITOHS",,24,10
+0,NSWRL 1989,Round 14,"Friday, 30th June, 1989",7:30pm (local time),2810,7,"7,888","Balmain
+TIGERS",,28,5,"Cronulla Sutherland
+SHARKS",,6,3
+0,NSWRL 1989,Round 14,"Saturday, 1st July, 1989",3:05pm (local time),2811,27,"9,185","Canterbury Bankstown
+BULLDOGS",,22,3,"Brisbane
+BRONCOS",,8,7
+0,NSWRL 1989,Round 14,"Sunday, 2nd July, 1989",3:00pm (local time),2812,34,"8,174","Gold Coast/Tweed Heads
+GIANTS",,29,2,"Manly Warringah
+SEA EAGLES",,6,9
+0,NSWRL 1989,Round 14,"Sunday, 2nd July, 1989",3:00pm (local time),2817,11,"21,870","Newcastle
+KNIGHTS",,18,10,"Eastern Suburbs
+ROOSTERS",,8,6
+0,NSWRL 1989,Round 14,"Sunday, 2nd July, 1989",3:00pm (local time),2816,25,"5,238","North Sydney
+BEARS",,5,2,"Canberra
+RAIDERS",,14,9
+0,NSWRL 1989,Round 14,"Sunday, 2nd July, 1989",3:00pm (local time),2814,23,"15,103","St George
+DRAGONS",,8,3,"Parramatta
+EELS",,20,2
+0,NSWRL 1989,Round 14,"Sunday, 2nd July, 1989",3:00pm (local time),2815,1,"18,597","South Sydney
+RABBITOHS",,8,7,"Penrith
+PANTHERS",,19,9
+0,NSWRL 1989,Round 14,"Sunday, 2nd July, 1989",3:00pm (local time),2813,19,"6,823","Western Suburbs
+MAGPIES",,8,6,"Illawarra
+STEELERS",,6,10
+0,NSWRL 1989,Round 15,"Friday, 7th July, 1989",7:30pm (local time),2818,27,"9,496","Canterbury Bankstown
+BULLDOGS",,26,9,"Western Suburbs
+MAGPIES",,6,7
+0,NSWRL 1989,Round 15,"Saturday, 8th July, 1989",3:05pm (local time),2819,48,"7,956","Canberra
+RAIDERS",4,12,11,"Balmain
+TIGERS",16,18,4
+0,NSWRL 1989,Round 15,"Sunday, 9th July, 1989",3:00pm (local time),2822,22,"21,388","Brisbane
+BRONCOS",6,8,5,"South Sydney
+RABBITOHS",6,20,5
+0,NSWRL 1989,Round 15,"Sunday, 9th July, 1989",3:00pm (local time),2823,9,"7,721","Cronulla Sutherland
+SHARKS",,19,4,"Manly Warringah
+SEA EAGLES",,14,6
+0,NSWRL 1989,Round 15,"Sunday, 9th July, 1989",3:00pm (local time),2820,21,"6,980","Illawarra
+STEELERS",,4,5,"Newcastle
+KNIGHTS",,16,7
+0,NSWRL 1989,Round 15,"Sunday, 9th July, 1989",3:00pm (local time),2825,25,"4,002","North Sydney
+BEARS",,18,6,"Eastern Suburbs
+ROOSTERS",,24,8
+0,NSWRL 1989,Round 15,"Sunday, 9th July, 1989",3:00pm (local time),2824,8,"10,265","Parramatta
+EELS",,26,12,"Gold Coast/Tweed Heads
+GIANTS",,12,9
+0,NSWRL 1989,Round 15,"Sunday, 9th July, 1989",3:00pm (local time),2821,3,"9,446","Penrith
+PANTHERS",,12,5,"St George
+DRAGONS",,16,8
+0,NSWRL 1989,Round 16,"Friday, 14th July, 1989",7:30pm (local time),2826,7,"6,600","Balmain
+TIGERS",,32,6,"North Sydney
+BEARS",,0,8
+0,NSWRL 1989,Round 16,"Saturday, 15th July, 1989",3:05pm (local time),2827,48,"4,992","Canberra
+RAIDERS",,16,7,"Cronulla Sutherland
+SHARKS",,22,9
+0,NSWRL 1989,Round 16,"Sunday, 16th July, 1989",3:00pm (local time),2829,27,"5,289","Canterbury Bankstown
+BULLDOGS",,14,5,"Gold Coast/Tweed Heads
+GIANTS",,8,10
+0,NSWRL 1989,Round 16,"Sunday, 16th July, 1989",3:00pm (local time),2830,1,"10,235","Eastern Suburbs
+ROOSTERS",,12,9,"South Sydney
+RABBITOHS",,30,12
+0,NSWRL 1989,Round 16,"Sunday, 16th July, 1989",3:00pm (local time),2828,5,"9,196","Manly Warringah
+SEA EAGLES",,30,4,"Parramatta
+EELS",,8,7
+0,NSWRL 1989,Round 16,"Sunday, 16th July, 1989",3:00pm (local time),2833,3,"10,981","Penrith
+PANTHERS",10,18,6,"Brisbane
+BRONCOS",8,8,7
+0,NSWRL 1989,Round 16,"Sunday, 16th July, 1989",3:00pm (local time),2831,23,"4,323","St George
+DRAGONS",,16,9,"Illawarra
+STEELERS",,18,9
+0,NSWRL 1989,Round 16,"Sunday, 16th July, 1989",3:00pm (local time),2832,19,"5,114","Western Suburbs
+MAGPIES",,20,7,"Newcastle
+KNIGHTS",,2,12
+0,NSWRL 1989,Round 17,"Friday, 21st July, 1989",7:30pm (local time),2834,22,"16,100","Brisbane
+BRONCOS",6,8,3,"Manly Warringah
+SEA EAGLES",6,16,5
+0,NSWRL 1989,Round 17,"Saturday, 22nd July, 1989",3:05pm (local time),2835,11,"21,113","Newcastle
+KNIGHTS",,20,8,"Balmain
+TIGERS",,12,9
+0,NSWRL 1989,Round 17,"Sunday, 23rd July, 1989",3:00pm (local time),2840,9,"7,732","Cronulla Sutherland
+SHARKS",,25,9,"Canterbury Bankstown
+BULLDOGS",,10,7
+0,NSWRL 1989,Round 17,"Sunday, 23rd July, 1989",3:00pm (local time),2841,76,"4,150","Eastern Suburbs
+ROOSTERS",,20,13,"St George
+DRAGONS",,16,13
+0,NSWRL 1989,Round 17,"Sunday, 23rd July, 1989",3:00pm (local time),2838,21,"4,826","Illawarra
+STEELERS",,16,4,"Gold Coast/Tweed Heads
+GIANTS",,18,6
+0,NSWRL 1989,Round 17,"Sunday, 23rd July, 1989",3:00pm (local time),2836,25,"3,005","North Sydney
+BEARS",,2,10,"Penrith
+PANTHERS",,31,6
+0,NSWRL 1989,Round 17,"Sunday, 23rd July, 1989",3:00pm (local time),2837,8,"10,309","Parramatta
+EELS",,6,11,"Western Suburbs
+MAGPIES",,24,5
+0,NSWRL 1989,Round 17,"Sunday, 23rd July, 1989",3:00pm (local time),2839,1,"9,629","South Sydney
+RABBITOHS",,22,3,"Canberra
+RAIDERS",,12,5
+0,NSWRL 1989,Round 18,"Friday, 28th July, 1989",7:30pm (local time),2842,1,"13,699","South Sydney
+RABBITOHS",,4,5,"Cronulla Sutherland
+SHARKS",,6,7
+0,NSWRL 1989,Round 18,"Saturday, 29th July, 1989",3:05pm (local time),2843,3,"8,481","Penrith
+PANTHERS",,11,9,"Parramatta
+EELS",,18,7
+0,NSWRL 1989,Round 18,"Sunday, 30th July, 1989",3:00pm (local time),2846,7,"16,957","Balmain
+TIGERS",7,24,6,"Brisbane
+BRONCOS",6,6,9
+0,NSWRL 1989,Round 18,"Sunday, 30th July, 1989",3:00pm (local time),2847,48,"6,021","Canberra
+RAIDERS",,14,7,"Eastern Suburbs
+ROOSTERS",,10,10
+0,NSWRL 1989,Round 18,"Sunday, 30th July, 1989",3:00pm (local time),2848,27,"5,721","Canterbury Bankstown
+BULLDOGS",,28,8,"Illawarra
+STEELERS",,18,9
+0,NSWRL 1989,Round 18,"Sunday, 30th July, 1989",3:00pm (local time),2844,34,"8,132","Gold Coast/Tweed Heads
+GIANTS",,6,3,"St George
+DRAGONS",,38,5
+0,NSWRL 1989,Round 18,"Sunday, 30th July, 1989",3:00pm (local time),2845,5,"8,459","Manly Warringah
+SEA EAGLES",,22,8,"Newcastle
+KNIGHTS",,12,6
+0,NSWRL 1989,Round 18,"Sunday, 30th July, 1989",3:00pm (local time),2849,19,"5,008","Western Suburbs
+MAGPIES",,34,7,"North Sydney
+BEARS",,4,9
+0,NSWRL 1989,Round 19,"Friday, 4th August, 1989",7:30pm (local time),2850,25,"8,516","North Sydney
+BEARS",6,14,6,"Manly Warringah
+SEA EAGLES",6,12,6
+0,NSWRL 1989,Round 19,"Saturday, 5th August, 1989",3:05pm (local time),2852,23,"5,052","St George
+DRAGONS",,34,7,"Canterbury Bankstown
+BULLDOGS",,2,8
+0,NSWRL 1989,Round 19,"Saturday, 5th August, 1989",7:30pm (local time),2851,34,"5,145","Gold Coast/Tweed Heads
+GIANTS",0,18,8,"Canberra
+RAIDERS",26,42,5
+0,NSWRL 1989,Round 19,"Sunday, 6th August, 1989",3:00pm (local time),2855,22,"19,524","Brisbane
+BRONCOS",14,20,9,"Western Suburbs
+MAGPIES",2,8,8
+0,NSWRL 1989,Round 19,"Sunday, 6th August, 1989",3:00pm (local time),2857,1,"7,292","Eastern Suburbs
+ROOSTERS",,30,3,"Cronulla Sutherland
+SHARKS",,12,11
+0,NSWRL 1989,Round 19,"Sunday, 6th August, 1989",3:00pm (local time),2853,21,"10,082","Illawarra
+STEELERS",,12,6,"South Sydney
+RABBITOHS",,24,8
+0,NSWRL 1989,Round 19,"Sunday, 6th August, 1989",3:00pm (local time),2854,11,"19,147","Newcastle
+KNIGHTS",,16,6,"Penrith
+PANTHERS",,17,7
+0,NSWRL 1989,Round 19,"Sunday, 6th August, 1989",3:00pm (local time),2856,8,"24,550","Parramatta
+EELS",12,18,8,"Balmain
+TIGERS",16,22,6
+0,NSWRL 1989,Round 20,"Friday, 11th August, 1989",6:30pm (local time),2858,32,"21,922","Canterbury Bankstown
+BULLDOGS",,14,8,"Canberra
+RAIDERS",,18,2
+0,NSWRL 1989,Round 20,"Saturday, 12th August, 1989",3:05pm (local time),2859,9,"8,688","Cronulla Sutherland
+SHARKS",,18,6,"St George
+DRAGONS",,4,8
+0,NSWRL 1989,Round 20,"Saturday, 12th August, 1989",7:00pm (local time),2860,8,"9,086","Parramatta
+EELS",,30,10,"North Sydney
+BEARS",,6,5
+0,NSWRL 1989,Round 20,"Sunday, 13th August, 1989",3:00pm (local time),2861,7,"12,566","Balmain
+TIGERS",,40,7,"Western Suburbs
+MAGPIES",,0,8
+0,NSWRL 1989,Round 20,"Sunday, 13th August, 1989",3:00pm (local time),2865,21,"6,534","Illawarra
+STEELERS",,18,9,"Eastern Suburbs
+ROOSTERS",,18,7
+0,NSWRL 1989,Round 20,"Sunday, 13th August, 1989",3:00pm (local time),2864,11,"27,000","Newcastle
+KNIGHTS",16,16,3,"Brisbane
+BRONCOS",10,20,5
+0,NSWRL 1989,Round 20,"Sunday, 13th August, 1989",3:00pm (local time),2863,3,"9,922","Penrith
+PANTHERS",,28,6,"Manly Warringah
+SEA EAGLES",,10,5
+0,NSWRL 1989,Round 20,"Sunday, 13th August, 1989",3:00pm (local time),2862,1,"7,468","South Sydney
+RABBITOHS",,17,5,"Gold Coast/Tweed Heads
+GIANTS",,6,6
+0,NSWRL 1989,Round 21,"Friday, 18th August, 1989",7:30pm (local time),2866,34,"4,100","Gold Coast/Tweed Heads
+GIANTS",,8,8,"Cronulla Sutherland
+SHARKS",,4,8
+0,NSWRL 1989,Round 21,"Saturday, 19th August, 1989",3:05pm (local time),2867,5,"9,604","Manly Warringah
+SEA EAGLES",4,10,7,"Balmain
+TIGERS",8,10,6
+0,NSWRL 1989,Round 21,"Sunday, 20th August, 1989",3:00pm (local time),2869,22,"33,245","Brisbane
+BRONCOS",12,16,5,"Parramatta
+EELS",6,8,5
+0,NSWRL 1989,Round 21,"Sunday, 20th August, 1989",3:00pm (local time),2870,48,"6,161","Canberra
+RAIDERS",2,16,8,"Illawarra
+STEELERS",0,6,7
+0,NSWRL 1989,Round 21,"Sunday, 20th August, 1989",3:00pm (local time),2871,27,"6,155","Canterbury Bankstown
+BULLDOGS",,2,8,"Eastern Suburbs
+ROOSTERS",,34,9
+0,NSWRL 1989,Round 21,"Sunday, 20th August, 1989",3:00pm (local time),2872,25,"4,653","North Sydney
+BEARS",,1,12,"Newcastle
+KNIGHTS",,14,8
+0,NSWRL 1989,Round 21,"Sunday, 20th August, 1989",3:00pm (local time),2868,23,"10,981","St George
+DRAGONS",,4,8,"South Sydney
+RABBITOHS",,8,11
+0,NSWRL 1989,Round 21,"Sunday, 20th August, 1989",3:00pm (local time),2873,19,"6,674","Western Suburbs
+MAGPIES",,0,11,"Penrith
+PANTHERS",,37,11
+0,NSWRL 1989,Round 22,"Friday, 25th August, 1989",7:42pm (local time),2874,1,"11,274","South Sydney
+RABBITOHS",12,18,8,"Canterbury Bankstown
+BULLDOGS",4,18,10
+0,NSWRL 1989,Round 22,"Saturday, 26th August, 1989",3:05pm (local time),2875,22,"18,496","Brisbane
+BRONCOS",,30,5,"North Sydney
+BEARS",,0,8
+0,NSWRL 1989,Round 22,"Sunday, 27th August, 1989",3:00pm (local time),2877,7,"22,750","Balmain
+TIGERS",9,33,9,"Penrith
+PANTHERS",0,6,11
+0,NSWRL 1989,Round 22,"Sunday, 27th August, 1989",3:00pm (local time),2878,9,"9,688","Cronulla Sutherland
+SHARKS",,46,5,"Illawarra
+STEELERS",,14,8
+0,NSWRL 1989,Round 22,"Sunday, 27th August, 1989",3:00pm (local time),2879,1,"3,176","Eastern Suburbs
+ROOSTERS",,38,8,"Gold Coast/Tweed Heads
+GIANTS",,8,9
+0,NSWRL 1989,Round 22,"Sunday, 27th August, 1989",3:00pm (local time),2876,11,"25,898","Newcastle
+KNIGHTS",,24,10,"Parramatta
+EELS",,14,5
+0,NSWRL 1989,Round 22,"Sunday, 27th August, 1989",3:00pm (local time),2881,23,"6,478","St George
+DRAGONS",10,16,2,"Canberra
+RAIDERS",16,30,5
+0,NSWRL 1989,Round 22,"Sunday, 27th August, 1989",3:00pm (local time),2880,19,"6,692","Western Suburbs
+MAGPIES",,14,6,"Manly Warringah
+SEA EAGLES",,20,8
+0,NSWRL 1989,Playoff,"Tuesday, 29th August, 1989",7:30pm (local time),2882,8,"9,047","Cronulla Sutherland
+SHARKS",14,38,3,"Brisbane
+BRONCOS",8,14,4
+0,NSWRL 1989,Minor Prelim,"Saturday, 2nd September, 1989",3:05pm (local time),2883,1,"18,186","Canberra
+RAIDERS",10,31,3,"Cronulla Sutherland
+SHARKS",2,10,8
+0,NSWRL 1989,Major Prelim,"Sunday, 3rd September, 1989",3:00pm (local time),2884,1,"29,508","Balmain
+TIGERS",,24,12,"Penrith
+PANTHERS",,12,7
+0,NSWRL 1989,Minor Semi,"Saturday, 9th September, 1989",3:00pm (local time),2885,1,"20,314","Canberra
+RAIDERS",,27,3,"Penrith
+PANTHERS",,18,5
+0,NSWRL 1989,Major Semi,"Sunday, 10th September, 1989",3:00pm (local time),2886,1,"40,000","Balmain
+TIGERS",10,20,6,"South Sydney
+RABBITOHS",6,10,7
+0,NSWRL 1989,Prelim Final,"Sunday, 17th September, 1989",3:00pm (local time),2887,1,"31,469","Canberra
+RAIDERS",12,32,3,"South Sydney
+RABBITOHS",12,16,5
+0,NSWRL 1989,Grand Final,"Sunday, 24th September, 1989",3:00pm (local time),2888,1,"40,500","Canberra
+RAIDERS",2,19,8,"Balmain
+TIGERS",12,14,2

@@ -1,0 +1,528 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2007,Round 1,"Friday, 16th March, 2007",7:30pm (local time),7178,12,"13,535","Melbourne
+STORM",12,18,8,WESTS TIGERS,10,16,10
+0,NRL 2007,Round 1,"Friday, 16th March, 2007",8:30pm (local time),7179,1097,"50,416","Brisbane
+BRONCOS",6,16,5,"North Queensland
+COWBOYS",16,23,6
+0,NRL 2007,Round 1,"Saturday, 17th March, 2007",7:30pm (local time),7180,6,"13,587",WARRIORS,24,34,9,"Parramatta
+EELS",0,18,10
+0,NRL 2007,Round 1,"Saturday, 17th March, 2007",7:30pm (local time),7181,9,"9,032","Cronulla Sutherland
+SHARKS",6,18,9,"Penrith
+PANTHERS",0,0,9
+0,NRL 2007,Round 1,"Saturday, 17th March, 2007",7:30pm (local time),7182,5,"13,533","Manly Warringah
+SEA EAGLES",14,32,5,"Canberra
+RAIDERS",0,6,6
+0,NRL 2007,Round 1,"Sunday, 18th March, 2007",2:00pm (local time),7183,11,"18,791","Newcastle
+KNIGHTS",8,25,7,BULLDOGS,24,24,8
+0,NRL 2007,Round 1,"Sunday, 18th March, 2007",3:00pm (local time),7184,1097,"42,030","Gold Coast
+TITANS",6,18,8,"St George Illawarra
+DRAGONS",6,20,4
+0,NRL 2007,Round 1,"Monday, 19th March, 2007",7:00pm (local time),7185,1,"24,127","Sydney
+ROOSTERS",0,6,5,"South Sydney
+RABBITOHS",12,18,9
+0,NRL 2007,Round 2,"Friday, 23rd March, 2007",7:30pm (local time),7187,3,"16,652","Penrith
+PANTHERS",14,40,7,BULLDOGS,4,10,8
+0,NRL 2007,Round 2,"Friday, 23rd March, 2007",7:30pm (local time),7186,23,"12,326","St George Illawarra
+DRAGONS",6,12,9,"Newcastle
+KNIGHTS",8,16,10
+0,NRL 2007,Round 2,"Saturday, 24th March, 2007",5:30pm (local time),7188,7,"15,185",WESTS TIGERS,8,8,10,"Manly Warringah
+SEA EAGLES",10,19,5
+0,NRL 2007,Round 2,"Saturday, 24th March, 2007",7:30pm (local time),7189,4,"9,556","Canberra
+RAIDERS",10,16,7,"Melbourne
+STORM",14,32,4
+0,NRL 2007,Round 2,"Saturday, 24th March, 2007",8:30pm (local time),7190,14,"21,396","North Queensland
+COWBOYS",18,43,12,"Sydney
+ROOSTERS",6,6,6
+0,NRL 2007,Round 2,"Sunday, 25th March, 2007",1:00pm (local time),7191,6,"16,738",WARRIORS,24,24,11,"Brisbane
+BRONCOS",10,14,5
+0,NRL 2007,Round 2,"Sunday, 25th March, 2007",2:00pm (local time),7192,20,"15,165","South Sydney
+RABBITOHS",12,31,6,"Parramatta
+EELS",6,6,6
+0,NRL 2007,Round 2,"Monday, 26th March, 2007",7:00pm (local time),7193,28,"17,946","Gold Coast
+TITANS",6,18,6,"Cronulla Sutherland
+SHARKS",10,16,5
+0,NRL 2007,Round 3,"Friday, 30th March, 2007",7:30pm (local time),7206,1097,"24,582","Brisbane
+BRONCOS",14,28,8,"Penrith
+PANTHERS",20,29,5
+0,NRL 2007,Round 3,"Friday, 30th March, 2007",7:30pm (local time),7207,8,"18,142","Parramatta
+EELS",14,22,12,WESTS TIGERS,12,20,10
+0,NRL 2007,Round 3,"Saturday, 31st March, 2007",5:30pm (local time),7208,21,"10,232","St George Illawarra
+DRAGONS",0,18,10,"North Queensland
+COWBOYS",16,22,5
+0,NRL 2007,Round 3,"Saturday, 31st March, 2007",7:30pm (local time),7209,9,"17,866","Cronulla Sutherland
+SHARKS",4,16,5,"South Sydney
+RABBITOHS",20,26,4
+0,NRL 2007,Round 3,"Sunday, 1st April, 2007",12:00pm (local time),7210,12,"12,874","Melbourne
+STORM",14,30,3,WARRIORS,0,12,3
+0,NRL 2007,Round 3,"Sunday, 1st April, 2007",2:00pm (local time),7211,20,"14,675",BULLDOGS,6,22,8,"Gold Coast
+TITANS",2,6,7
+0,NRL 2007,Round 3,"Sunday, 1st April, 2007",3:00pm (local time),7212,1,"11,976","Sydney
+ROOSTERS",6,8,8,"Manly Warringah
+SEA EAGLES",6,30,8
+0,NRL 2007,Round 3,"Monday, 2nd April, 2007",7:00pm (local time),7213,4,"13,109","Canberra
+RAIDERS",16,48,7,"Newcastle
+KNIGHTS",12,18,5
+0,NRL 2007,Round 4,"Friday, 6th April, 2007",7:30pm (local time),7214,20,"34,315","South Sydney
+RABBITOHS",6,10,8,BULLDOGS,14,34,4
+0,NRL 2007,Round 4,"Friday, 6th April, 2007",7:30pm (local time),7215,1,"11,476","Sydney
+ROOSTERS",6,10,6,"Brisbane
+BRONCOS",16,32,10
+0,NRL 2007,Round 4,"Saturday, 7th April, 2007",5:30pm (local time),7216,11,"20,051","Newcastle
+KNIGHTS",12,12,9,"Melbourne
+STORM",12,22,6
+0,NRL 2007,Round 4,"Saturday, 7th April, 2007",7:30pm (local time),7217,14,"21,879","North Queensland
+COWBOYS",6,25,7,WESTS TIGERS,14,24,7
+0,NRL 2007,Round 4,"Saturday, 7th April, 2007",7:30pm (local time),7218,8,"10,092","Parramatta
+EELS",12,38,9,"Canberra
+RAIDERS",0,6,5
+0,NRL 2007,Round 4,"Sunday, 8th April, 2007",2:00pm (local time),7219,5,"16,358","Manly Warringah
+SEA EAGLES",0,13,10,WARRIORS,6,10,6
+0,NRL 2007,Round 4,"Sunday, 8th April, 2007",3:00pm (local time),7220,3,"15,022","Penrith
+PANTHERS",6,22,4,"Gold Coast
+TITANS",12,24,5
+0,NRL 2007,Round 4,"Monday, 9th April, 2007",7:00pm (local time),7221,9,"19,137","Cronulla Sutherland
+SHARKS",16,40,8,"St George Illawarra
+DRAGONS",4,4,7
+0,NRL 2007,Round 5,"Friday, 13th April, 2007",7:30pm (local time),7223,1097,"47,686","Gold Coast
+TITANS",12,28,5,"Brisbane
+BRONCOS",6,16,5
+0,NRL 2007,Round 5,"Friday, 13th April, 2007",7:30pm (local time),7222,3,"18,746","Penrith
+PANTHERS",12,14,6,"Parramatta
+EELS",14,27,10
+0,NRL 2007,Round 5,"Saturday, 14th April, 2007",5:30pm (local time),7224,23,"9,011","St George Illawarra
+DRAGONS",10,10,9,"Melbourne
+STORM",4,24,6
+0,NRL 2007,Round 5,"Saturday, 14th April, 2007",7:30pm (local time),7225,20,"20,269",BULLDOGS,6,14,6,"Manly Warringah
+SEA EAGLES",4,16,7
+0,NRL 2007,Round 5,"Sunday, 15th April, 2007",2:00pm (local time),7226,6,"11,260",WARRIORS,10,34,9,"North Queensland
+COWBOYS",10,14,8
+0,NRL 2007,Round 5,"Sunday, 15th April, 2007",2:00pm (local time),7227,26,"18,321","South Sydney
+RABBITOHS",12,22,4,"Newcastle
+KNIGHTS",10,23,4
+0,NRL 2007,Round 5,"Sunday, 15th April, 2007",3:00pm (local time),7228,19,"17,566",WESTS TIGERS,6,14,4,"Cronulla Sutherland
+SHARKS",10,12,6
+0,NRL 2007,Round 5,"Monday, 16th April, 2007",7:00pm (local time),7229,4,"15,862","Canberra
+RAIDERS",26,37,9,"Sydney
+ROOSTERS",12,28,6
+0,NRL 2007,Round 6,"Saturday, 21st April, 2007",5:30pm (local time),7230,12,"9,909","Melbourne
+STORM",12,30,9,"Penrith
+PANTHERS",8,20,11
+0,NRL 2007,Round 6,"Saturday, 21st April, 2007",7:30pm (local time),7231,9,"9,844","Cronulla Sutherland
+SHARKS",18,26,12,"Canberra
+RAIDERS",0,0,10
+0,NRL 2007,Round 6,"Sunday, 22nd April, 2007",2:00pm (local time),7232,5,"16,887","Manly Warringah
+SEA EAGLES",18,20,6,"Gold Coast
+TITANS",0,6,6
+0,NRL 2007,Round 6,"Sunday, 22nd April, 2007",3:00pm (local time),7233,8,"18,285","Parramatta
+EELS",16,18,10,BULLDOGS,12,21,6
+0,NRL 2007,Round 6,"Sunday, 22nd April, 2007",7:00pm (local time),7234,11,"25,524","Newcastle
+KNIGHTS",10,16,6,"Brisbane
+BRONCOS",16,20,5
+0,NRL 2007,Round 6,"Monday, 23rd April, 2007",7:00pm (local time),7235,14,"17,678","North Queensland
+COWBOYS",6,6,9,"South Sydney
+RABBITOHS",4,10,5
+0,NRL 2007,Round 7,"Wednesday, 25th April, 2007",3:00pm (local time),7236,1,"18,240","Sydney
+ROOSTERS",10,18,10,"St George Illawarra
+DRAGONS",0,4,8
+0,NRL 2007,Round 7,"Friday, 27th April, 2007",7:30pm (local time),7238,1097,"33,750","Brisbane
+BRONCOS",12,18,6,"Melbourne
+STORM",16,28,9
+0,NRL 2007,Round 7,"Friday, 27th April, 2007",7:30pm (local time),7237,20,"18,066",BULLDOGS,6,18,5,WESTS TIGERS,16,34,6
+0,NRL 2007,Round 7,"Saturday, 28th April, 2007",5:30pm (local time),7239,3,"8,494","Penrith
+PANTHERS",12,18,6,"Canberra
+RAIDERS",16,34,11
+0,NRL 2007,Round 7,"Saturday, 28th April, 2007",7:30pm (local time),7240,14,"18,682","North Queensland
+COWBOYS",14,30,8,"Manly Warringah
+SEA EAGLES",0,26,9
+0,NRL 2007,Round 7,"Sunday, 29th April, 2007",2:00pm (local time),7241,20,"13,044","South Sydney
+RABBITOHS",4,16,12,WARRIORS,8,18,10
+0,NRL 2007,Round 7,"Sunday, 29th April, 2007",3:00pm (local time),7242,28,"18,021","Gold Coast
+TITANS",22,38,8,"Parramatta
+EELS",0,12,5
+0,NRL 2007,Round 7,"Monday, 30th April, 2007",7:00pm (local time),7243,11,"15,453","Newcastle
+KNIGHTS",8,20,4,"Cronulla Sutherland
+SHARKS",4,16,5
+0,NRL 2007,Round 8,"Friday, 4th May, 2007",7:30pm (local time),7244,1097,"27,387","Brisbane
+BRONCOS",0,8,4,"South Sydney
+RABBITOHS",0,4,3
+0,NRL 2007,Round 8,"Friday, 4th May, 2007",7:30pm (local time),7245,23,"9,057","St George Illawarra
+DRAGONS",18,28,10,"Penrith
+PANTHERS",10,16,5
+0,NRL 2007,Round 8,"Saturday, 5th May, 2007",7:30pm (local time),7246,6,"13,587",WARRIORS,8,20,8,"Cronulla Sutherland
+SHARKS",6,22,10
+0,NRL 2007,Round 8,"Saturday, 5th May, 2007",7:30pm (local time),7247,8,"13,021","Parramatta
+EELS",22,28,9,"Sydney
+ROOSTERS",0,10,7
+0,NRL 2007,Round 8,"Saturday, 5th May, 2007",7:30pm (local time),7248,26,"19,111",WESTS TIGERS,22,30,9,"Melbourne
+STORM",0,12,4
+0,NRL 2007,Round 8,"Sunday, 6th May, 2007",2:00pm (local time),7249,4,"14,387","Canberra
+RAIDERS",12,30,3,"Manly Warringah
+SEA EAGLES",6,46,4
+0,NRL 2007,Round 8,"Sunday, 6th May, 2007",3:00pm (local time),7250,20,"12,654",BULLDOGS,12,30,9,"Newcastle
+KNIGHTS",0,16,6
+0,NRL 2007,Round 8,"Monday, 7th May, 2007",7:00pm (local time),7251,28,"17,806","Gold Coast
+TITANS",4,10,4,"North Queensland
+COWBOYS",16,24,7
+0,NRL 2007,Round 9,"Friday, 11th May, 2007",7:30pm (local time),7252,9,"12,262","Cronulla Sutherland
+SHARKS",8,16,6,"Brisbane
+BRONCOS",8,8,5
+0,NRL 2007,Round 9,"Friday, 11th May, 2007",7:30pm (local time),7253,5,"19,944","Manly Warringah
+SEA EAGLES",2,22,7,"Parramatta
+EELS",6,12,6
+0,NRL 2007,Round 9,"Saturday, 12th May, 2007",5:30pm (local time),7254,11,"15,107","Newcastle
+KNIGHTS",6,24,5,WARRIORS,12,18,6
+0,NRL 2007,Round 9,"Saturday, 12th May, 2007",5:30pm (local time),7256,14,"17,393","North Queensland
+COWBOYS",0,12,9,"Penrith
+PANTHERS",12,22,4
+0,NRL 2007,Round 9,"Saturday, 12th May, 2007",5:30pm (local time),7255,20,"11,088","South Sydney
+RABBITOHS",6,10,6,"Canberra
+RAIDERS",0,16,10
+0,NRL 2007,Round 9,"Sunday, 13th May, 2007",2:00pm (local time),7257,1,"6,246","Sydney
+ROOSTERS",10,24,5,"Gold Coast
+TITANS",0,18,6
+0,NRL 2007,Round 9,"Sunday, 13th May, 2007",3:00pm (local time),7258,20,"13,625",WESTS TIGERS,6,27,9,"St George Illawarra
+DRAGONS",8,8,3
+0,NRL 2007,Round 9,"Monday, 14th May, 2007",7:00pm (local time),7259,12,"14,066","Melbourne
+STORM",24,38,7,BULLDOGS,8,14,4
+0,NRL 2007,Round 10,"Friday, 18th May, 2007",7:30pm (local time),7260,21,"12,085","St George Illawarra
+DRAGONS",12,28,8,"Gold Coast
+TITANS",4,10,4
+0,NRL 2007,Round 10,"Saturday, 19th May, 2007",5:30pm (local time),7261,8,"10,182","Parramatta
+EELS",20,44,5,"North Queensland
+COWBOYS",4,14,7
+0,NRL 2007,Round 10,"Saturday, 19th May, 2007",7:30pm (local time),7262,12,"9,354","Melbourne
+STORM",10,26,5,"Sydney
+ROOSTERS",2,2,4
+0,NRL 2007,Round 10,"Sunday, 20th May, 2007",4:00pm (local time),7263,6,"10,282",WARRIORS,12,26,5,WESTS TIGERS,12,30,10
+0,NRL 2007,Round 10,"Sunday, 20th May, 2007",3:00pm (local time),7264,20,"12,384",BULLDOGS,6,20,5,"Cronulla Sutherland
+SHARKS",12,30,6
+0,NRL 2007,Round 10,"Monday, 21st May, 2007",7:00pm (local time),7265,5,"13,493","Manly Warringah
+SEA EAGLES",10,18,7,"Brisbane
+BRONCOS",0,6,8
+0,NRL 2007,Round 11,"Friday, 25th May, 2007",7:30pm (local time),7266,1097,"15,412",BULLDOGS,0,16,4,"North Queensland
+COWBOYS",12,26,8
+0,NRL 2007,Round 11,"Friday, 25th May, 2007",7:30pm (local time),7267,4,"13,187","Canberra
+RAIDERS",12,30,10,"St George Illawarra
+DRAGONS",0,6,5
+0,NRL 2007,Round 11,"Saturday, 26th May, 2007",5:30pm (local time),7268,5,"18,640","Manly Warringah
+SEA EAGLES",12,13,5,"Melbourne
+STORM",6,12,2
+0,NRL 2007,Round 11,"Saturday, 26th May, 2007",7:30pm (local time),7269,9,"11,193","Cronulla Sutherland
+SHARKS",6,12,8,"Sydney
+ROOSTERS",0,13,8
+0,NRL 2007,Round 11,"Saturday, 26th May, 2007",7:30pm (local time),7270,28,"17,266","Gold Coast
+TITANS",12,25,7,"South Sydney
+RABBITOHS",6,18,5
+0,NRL 2007,Round 11,"Sunday, 27th May, 2007",2:00pm (local time),7271,1097,"27,433","Brisbane
+BRONCOS",25,71,3,"Newcastle
+KNIGHTS",6,6,2
+0,NRL 2007,Round 11,"Sunday, 27th May, 2007",3:00pm (local time),7272,3,"17,337","Penrith
+PANTHERS",6,24,4,WESTS TIGERS,13,25,6
+0,NRL 2007,Round 11,"Monday, 28th May, 2007",7:00pm (local time),7273,8,"11,160","Parramatta
+EELS",12,30,7,WARRIORS,6,6,6
+0,NRL 2007,Round 12,"Friday, 1st June, 2007",7:30pm (local time),7274,3,"11,325","Penrith
+PANTHERS",16,22,5,"Manly Warringah
+SEA EAGLES",10,16,13
+0,NRL 2007,Round 12,"Friday, 1st June, 2007",7:30pm (local time),7275,23,"10,302","St George Illawarra
+DRAGONS",10,11,6,"Brisbane
+BRONCOS",4,4,4
+0,NRL 2007,Round 12,"Saturday, 2nd June, 2007",5:30pm (local time),7276,26,"11,264","Sydney
+ROOSTERS",6,18,8,"Newcastle
+KNIGHTS",10,22,6
+0,NRL 2007,Round 12,"Saturday, 2nd June, 2007",7:30pm (local time),7277,12,"11,211","Melbourne
+STORM",6,26,7,"South Sydney
+RABBITOHS",6,10,2
+0,NRL 2007,Round 12,"Saturday, 2nd June, 2007",7:30pm (local time),7278,14,"20,075","North Queensland
+COWBOYS",16,26,3,"Cronulla Sutherland
+SHARKS",6,24,9
+0,NRL 2007,Round 12,"Sunday, 3rd June, 2007",2:00pm (local time),7279,28,"13,644","Gold Coast
+TITANS",28,28,8,"Canberra
+RAIDERS",0,8,7
+0,NRL 2007,Round 12,"Sunday, 3rd June, 2007",4:00pm (local time),7280,6,"10,041",WARRIORS,14,20,9,BULLDOGS,18,40,4
+0,NRL 2007,Round 12,"Monday, 4th June, 2007",7:00pm (local time),7281,20,"22,245",WESTS TIGERS,2,8,8,"Parramatta
+EELS",16,38,5
+0,NRL 2007,Round 13,"Friday, 8th June, 2007",7:30pm (local time),7282,20,"5,053","South Sydney
+RABBITOHS",4,14,9,"Penrith
+PANTHERS",4,4,6
+0,NRL 2007,Round 13,"Saturday, 9th June, 2007",5:30pm (local time),7283,4,"11,232","Canberra
+RAIDERS",30,38,4,"Parramatta
+EELS",0,10,11
+0,NRL 2007,Round 13,"Saturday, 9th June, 2007",7:30pm (local time),7284,1,"4,186","Sydney
+ROOSTERS",28,64,7,"North Queensland
+COWBOYS",18,30,6
+0,NRL 2007,Round 13,"Sunday, 10th June, 2007",4:00pm (local time),7285,6,"6,209",WARRIORS,2,2,8,"Melbourne
+STORM",0,4,4
+0,NRL 2007,Round 13,"Sunday, 10th June, 2007",3:00pm (local time),7286,11,"13,609","Newcastle
+KNIGHTS",8,14,6,WESTS TIGERS,12,33,5
+0,NRL 2007,Round 13,"Monday, 11th June, 2007",7:00pm (local time),7287,23,"12,455","St George Illawarra
+DRAGONS",10,16,9,"Cronulla Sutherland
+SHARKS",12,20,4
+0,NRL 2007,Round 14,"Friday, 15th June, 2007",7:30pm (local time),7289,20,"10,121",BULLDOGS,6,12,8,"Brisbane
+BRONCOS",12,19,6
+0,NRL 2007,Round 14,"Friday, 15th June, 2007",7:30pm (local time),7288,5,"7,341","Manly Warringah
+SEA EAGLES",14,14,9,"South Sydney
+RABBITOHS",2,2,4
+0,NRL 2007,Round 14,"Saturday, 16th June, 2007",5:30pm (local time),7290,9,"4,202","Cronulla Sutherland
+SHARKS",2,2,10,WARRIORS,6,12,5
+0,NRL 2007,Round 14,"Saturday, 16th June, 2007",7:30pm (local time),7292,14,"20,023","North Queensland
+COWBOYS",4,12,5,"Melbourne
+STORM",40,58,3
+0,NRL 2007,Round 14,"Saturday, 16th June, 2007",7:30pm (local time),7291,3,"5,831","Penrith
+PANTHERS",10,20,4,"Sydney
+ROOSTERS",6,24,9
+0,NRL 2007,Round 14,"Sunday, 17th June, 2007",2:00pm (local time),7293,8,"12,658","Parramatta
+EELS",2,20,10,"St George Illawarra
+DRAGONS",0,12,4
+0,NRL 2007,Round 14,"Sunday, 17th June, 2007",3:00pm (local time),7294,19,"13,451",WESTS TIGERS,8,14,6,"Gold Coast
+TITANS",4,16,6
+0,NRL 2007,Round 14,"Monday, 18th June, 2007",7:00pm (local time),7295,11,"11,349","Newcastle
+KNIGHTS",4,22,7,"Canberra
+RAIDERS",0,18,4
+0,NRL 2007,Round 15,"Friday, 22nd June, 2007",8:00pm (local time),7297,6,"9,978",WARRIORS,36,54,9,"Penrith
+PANTHERS",10,14,6
+0,NRL 2007,Round 15,"Friday, 22nd June, 2007",7:30pm (local time),7296,5,"13,849","Manly Warringah
+SEA EAGLES",8,8,9,BULLDOGS,20,27,8
+0,NRL 2007,Round 15,"Saturday, 23rd June, 2007",5:30pm (local time),7298,4,"11,263","Canberra
+RAIDERS",14,24,7,"North Queensland
+COWBOYS",22,28,4
+0,NRL 2007,Round 15,"Saturday, 23rd June, 2007",7:30pm (local time),7299,28,"15,306","Gold Coast
+TITANS",10,28,5,"Newcastle
+KNIGHTS",6,22,2
+0,NRL 2007,Round 15,"Saturday, 23rd June, 2007",7:30pm (local time),7300,1,"12,211","Sydney
+ROOSTERS",0,16,9,"Parramatta
+EELS",22,36,7
+0,NRL 2007,Round 15,"Sunday, 24th June, 2007",2:00pm (local time),7301,20,"9,568","South Sydney
+RABBITOHS",14,16,8,"Cronulla Sutherland
+SHARKS",8,12,4
+0,NRL 2007,Round 15,"Sunday, 24th June, 2007",3:00pm (local time),7302,12,"13,545","Melbourne
+STORM",12,28,9,"St George Illawarra
+DRAGONS",6,6,5
+0,NRL 2007,Round 15,"Monday, 25th June, 2007",7:00pm (local time),7303,1097,"29,364","Brisbane
+BRONCOS",28,48,3,WESTS TIGERS,6,18,6
+0,NRL 2007,Round 16,"Friday, 29th June, 2007",7:30pm (local time),7304,11,"16,320","Newcastle
+KNIGHTS",16,25,7,"South Sydney
+RABBITOHS",12,28,8
+0,NRL 2007,Round 16,"Saturday, 30th June, 2007",5:30pm (local time),7305,28,"17,608","Gold Coast
+TITANS",6,6,5,WARRIORS,0,22,10
+0,NRL 2007,Round 16,"Saturday, 30th June, 2007",7:30pm (local time),7306,3,"8,553","Penrith
+PANTHERS",10,16,9,"Brisbane
+BRONCOS",18,24,5
+0,NRL 2007,Round 16,"Sunday, 1st July, 2007",2:00pm (local time),7307,4,"12,598","Canberra
+RAIDERS",4,16,9,WESTS TIGERS,10,22,9
+0,NRL 2007,Round 16,"Sunday, 1st July, 2007",3:00pm (local time),7308,23,"11,958","St George Illawarra
+DRAGONS",6,26,7,"Manly Warringah
+SEA EAGLES",6,22,4
+0,NRL 2007,Round 16,"Monday, 2nd July, 2007",7:00pm (local time),7309,20,"20,722",BULLDOGS,16,38,8,"Sydney
+ROOSTERS",6,6,9
+0,NRL 2007,Round 17,"Friday, 6th July, 2007",7:30pm (local time),7311,1097,"48,621","Brisbane
+BRONCOS",12,19,11,"Gold Coast
+TITANS",6,18,7
+0,NRL 2007,Round 17,"Friday, 6th July, 2007",7:30pm (local time),7310,20,"12,395",WESTS TIGERS,10,43,5,"Penrith
+PANTHERS",20,26,6
+0,NRL 2007,Round 17,"Saturday, 7th July, 2007",5:30pm (local time),7312,26,"14,288","South Sydney
+RABBITOHS",8,8,7,"Melbourne
+STORM",0,12,6
+0,NRL 2007,Round 17,"Saturday, 7th July, 2007",7:30pm (local time),7314,5,"9,932","Manly Warringah
+SEA EAGLES",16,56,7,"Sydney
+ROOSTERS",0,0,6
+0,NRL 2007,Round 17,"Saturday, 7th July, 2007",7:30pm (local time),7313,14,"19,684","North Queensland
+COWBOYS",12,18,6,WARRIORS,0,12,9
+0,NRL 2007,Round 17,"Sunday, 8th July, 2007",2:00pm (local time),7315,21,"7,561","St George Illawarra
+DRAGONS",22,58,6,"Canberra
+RAIDERS",10,16,8
+0,NRL 2007,Round 17,"Sunday, 8th July, 2007",3:00pm (local time),7316,9,"8,411","Cronulla Sutherland
+SHARKS",12,12,11,BULLDOGS,0,14,6
+0,NRL 2007,Round 17,"Monday, 9th July, 2007",7:00pm (local time),7317,8,"10,363","Parramatta
+EELS",0,10,13,"Newcastle
+KNIGHTS",20,34,7
+0,NRL 2007,Round 18,"Friday, 13th July, 2007",7:30pm (local time),7318,5,"15,288","Manly Warringah
+SEA EAGLES",12,34,8,WESTS TIGERS,4,4,4
+0,NRL 2007,Round 18,"Friday, 13th July, 2007",7:30pm (local time),7319,14,"25,926","North Queensland
+COWBOYS",4,16,9,"Brisbane
+BRONCOS",24,24,7
+0,NRL 2007,Round 18,"Saturday, 14th July, 2007",5:30pm (local time),7320,20,"12,465",BULLDOGS,14,20,8,"Penrith
+PANTHERS",4,30,8
+0,NRL 2007,Round 18,"Saturday, 14th July, 2007",7:30pm (local time),7321,1,"8,421","Sydney
+ROOSTERS",12,23,6,"Cronulla Sutherland
+SHARKS",12,12,8
+0,NRL 2007,Round 18,"Sunday, 15th July, 2007",2:00pm (local time),7322,6,"10,037",WARRIORS,32,44,8,"St George Illawarra
+DRAGONS",12,16,3
+0,NRL 2007,Round 18,"Sunday, 15th July, 2007",2:00pm (local time),7323,4,"9,136","Canberra
+RAIDERS",24,56,10,"Gold Coast
+TITANS",10,10,6
+0,NRL 2007,Round 18,"Sunday, 15th July, 2007",3:00pm (local time),7324,8,"15,202","Parramatta
+EELS",14,18,8,"South Sydney
+RABBITOHS",0,12,9
+0,NRL 2007,Round 18,"Monday, 16th July, 2007",7:00pm (local time),7325,12,"10,223","Melbourne
+STORM",20,44,12,"Newcastle
+KNIGHTS",0,0,4
+0,NRL 2007,Round 19,"Friday, 20th July, 2007",7:30pm (local time),7326,9,"6,494","Cronulla Sutherland
+SHARKS",14,22,11,"Manly Warringah
+SEA EAGLES",12,29,7
+0,NRL 2007,Round 19,"Friday, 20th July, 2007",7:30pm (local time),7327,28,"15,873","Gold Coast
+TITANS",6,12,7,BULLDOGS,24,36,7
+0,NRL 2007,Round 19,"Saturday, 21st July, 2007",5:30pm (local time),7328,3,"9,523","Penrith
+PANTHERS",10,20,8,"St George Illawarra
+DRAGONS",16,38,6
+0,NRL 2007,Round 19,"Saturday, 21st July, 2007",7:30pm (local time),7330,12,"8,983","Melbourne
+STORM",16,34,8,"Canberra
+RAIDERS",6,6,5
+0,NRL 2007,Round 19,"Saturday, 21st July, 2007",7:30pm (local time),7329,11,"15,171","Newcastle
+KNIGHTS",12,17,3,"Sydney
+ROOSTERS",10,20,5
+0,NRL 2007,Round 19,"Sunday, 22nd July, 2007",2:00pm (local time),7331,19,"14,012",WESTS TIGERS,4,16,9,WARRIORS,22,28,2
+0,NRL 2007,Round 19,"Sunday, 22nd July, 2007",3:00pm (local time),7332,20,"10,022","South Sydney
+RABBITOHS",8,20,11,"North Queensland
+COWBOYS",4,14,5
+0,NRL 2007,Round 19,"Monday, 23rd July, 2007",7:00pm (local time),7333,1097,"25,702","Brisbane
+BRONCOS",0,16,4,"Parramatta
+EELS",14,20,5
+0,NRL 2007,Round 20,"Friday, 27th July, 2007",7:30pm (local time),7335,4,"8,240","Canberra
+RAIDERS",18,34,7,"Penrith
+PANTHERS",10,30,4
+0,NRL 2007,Round 20,"Friday, 27th July, 2007",7:30pm (local time),7334,1,"8,824","Sydney
+ROOSTERS",20,26,8,"Melbourne
+STORM",4,16,5
+0,NRL 2007,Round 20,"Saturday, 28th July, 2007",7:30pm (local time),7336,6,"11,301",WARRIORS,30,52,6,"Newcastle
+KNIGHTS",4,10,5
+0,NRL 2007,Round 20,"Saturday, 28th July, 2007",7:30pm (local time),7337,21,"19,051","St George Illawarra
+DRAGONS",14,24,6,BULLDOGS,4,28,5
+0,NRL 2007,Round 20,"Saturday, 28th July, 2007",7:30pm (local time),7338,20,"13,351","South Sydney
+RABBITOHS",8,20,8,"Gold Coast
+TITANS",10,14,4
+0,NRL 2007,Round 20,"Sunday, 29th July, 2007",2:00pm (local time),7339,1097,"24,563","Brisbane
+BRONCOS",18,30,8,"Cronulla Sutherland
+SHARKS",4,16,7
+0,NRL 2007,Round 20,"Sunday, 29th July, 2007",3:00pm (local time),7340,8,"20,113","Parramatta
+EELS",18,24,6,"Manly Warringah
+SEA EAGLES",8,32,4
+0,NRL 2007,Round 20,"Monday, 30th July, 2007",7:00pm (local time),7341,7,"17,101",WESTS TIGERS,16,54,8,"North Queensland
+COWBOYS",4,10,3
+0,NRL 2007,Round 21,"Friday, 3rd August, 2007",7:30pm (local time),7342,20,"27,201",BULLDOGS,10,22,7,"Parramatta
+EELS",18,34,6
+0,NRL 2007,Round 21,"Friday, 3rd August, 2007",7:30pm (local time),7343,11,"12,573","Newcastle
+KNIGHTS",0,4,4,"St George Illawarra
+DRAGONS",10,20,4
+0,NRL 2007,Round 21,"Saturday, 4th August, 2007",5:30pm (local time),7344,28,"17,257","Gold Coast
+TITANS",24,30,9,WESTS TIGERS,6,14,5
+0,NRL 2007,Round 21,"Saturday, 4th August, 2007",7:30pm (local time),7345,14,"15,791","North Queensland
+COWBOYS",12,28,3,"Canberra
+RAIDERS",12,22,3
+0,NRL 2007,Round 21,"Saturday, 4th August, 2007",7:30pm (local time),7346,3,"10,845","Penrith
+PANTHERS",10,32,6,"South Sydney
+RABBITOHS",10,16,6
+0,NRL 2007,Round 21,"Sunday, 5th August, 2007",2:00pm (local time),7347,1,"15,124","Sydney
+ROOSTERS",16,31,8,WARRIORS,18,31,2
+0,NRL 2007,Round 21,"Sunday, 5th August, 2007",3:00pm (local time),7348,1097,"35,784","Brisbane
+BRONCOS",2,8,5,"Manly Warringah
+SEA EAGLES",6,21,5
+0,NRL 2007,Round 21,"Monday, 6th August, 2007",7:00pm (local time),7349,9,"7,831","Cronulla Sutherland
+SHARKS",14,16,11,"Melbourne
+STORM",12,17,9
+0,NRL 2007,Round 22,"Friday, 10th August, 2007",7:30pm (local time),7350,26,"17,122","Manly Warringah
+SEA EAGLES",26,50,4,"Newcastle
+KNIGHTS",0,16,4
+0,NRL 2007,Round 22,"Friday, 10th August, 2007",7:30pm (local time),7351,20,"25,166",WESTS TIGERS,12,22,7,"Sydney
+ROOSTERS",16,26,7
+0,NRL 2007,Round 22,"Saturday, 11th August, 2007",7:30pm (local time),7352,6,"20,609",WARRIORS,18,30,7,"Gold Coast
+TITANS",0,6,6
+0,NRL 2007,Round 22,"Saturday, 11th August, 2007",7:30pm (local time),7353,8,"13,376","Parramatta
+EELS",12,24,11,"Cronulla Sutherland
+SHARKS",12,25,7
+0,NRL 2007,Round 22,"Saturday, 11th August, 2007",7:30pm (local time),7354,21,"18,382","St George Illawarra
+DRAGONS",8,14,3,"South Sydney
+RABBITOHS",10,24,8
+0,NRL 2007,Round 22,"Sunday, 12th August, 2007",2:00pm (local time),7355,20,"12,127",BULLDOGS,30,52,7,"Canberra
+RAIDERS",4,4,2
+0,NRL 2007,Round 22,"Sunday, 12th August, 2007",3:00pm (local time),7356,12,"13,508","Melbourne
+STORM",8,14,7,"Brisbane
+BRONCOS",0,6,8
+0,NRL 2007,Round 22,"Monday, 13th August, 2007",7:00pm (local time),7357,3,"7,618","Penrith
+PANTHERS",10,26,5,"North Queensland
+COWBOYS",10,30,2
+0,NRL 2007,Round 23,"Friday, 17th August, 2007",7:30pm (local time),7359,1097,"35,199","Brisbane
+BRONCOS",12,24,9,BULLDOGS,12,25,5
+0,NRL 2007,Round 23,"Friday, 17th August, 2007",7:30pm (local time),7358,12,"11,549","Melbourne
+STORM",14,14,8,"Parramatta
+EELS",4,10,6
+0,NRL 2007,Round 23,"Saturday, 18th August, 2007",5:30pm (local time),7360,9,"12,964","Cronulla Sutherland
+SHARKS",18,28,4,WESTS TIGERS,4,29,4
+0,NRL 2007,Round 23,"Saturday, 18th August, 2007",7:30pm (local time),7362,4,"8,134","Canberra
+RAIDERS",14,26,6,WARRIORS,18,24,3
+0,NRL 2007,Round 23,"Saturday, 18th August, 2007",7:30pm (local time),7361,14,"18,721","North Queensland
+COWBOYS",12,24,8,"St George Illawarra
+DRAGONS",6,14,5
+0,NRL 2007,Round 23,"Sunday, 19th August, 2007",2:00pm (local time),7363,28,"17,423","Gold Coast
+TITANS",16,22,8,"Sydney
+ROOSTERS",10,18,8
+0,NRL 2007,Round 23,"Sunday, 19th August, 2007",3:00pm (local time),7364,11,"14,351","Newcastle
+KNIGHTS",6,12,8,"Penrith
+PANTHERS",20,46,8
+0,NRL 2007,Round 23,"Monday, 20th August, 2007",7:00pm (local time),7365,20,"12,087","South Sydney
+RABBITOHS",6,24,6,"Manly Warringah
+SEA EAGLES",18,18,3
+0,NRL 2007,Round 24,"Friday, 24th August, 2007",7:30pm (local time),7366,20,"21,756",BULLDOGS,6,6,7,"Melbourne
+STORM",8,38,6
+0,NRL 2007,Round 24,"Friday, 24th August, 2007",7:30pm (local time),7367,11,"12,264","Newcastle
+KNIGHTS",6,18,11,"North Queensland
+COWBOYS",16,34,7
+0,NRL 2007,Round 24,"Saturday, 25th August, 2007",5:30pm (local time),7368,9,"9,036","Cronulla Sutherland
+SHARKS",10,28,9,"Gold Coast
+TITANS",6,12,6
+0,NRL 2007,Round 24,"Saturday, 25th August, 2007",7:30pm (local time),7369,1,"11,326","Sydney
+ROOSTERS",6,22,8,"Penrith
+PANTHERS",20,28,6
+0,NRL 2007,Round 24,"Sunday, 26th August, 2007",2:00pm (local time),7371,6,"25,070",WARRIORS,12,36,10,"Manly Warringah
+SEA EAGLES",10,14,4
+0,NRL 2007,Round 24,"Sunday, 26th August, 2007",2:00pm (local time),7370,1097,"31,614","Brisbane
+BRONCOS",6,30,10,"Canberra
+RAIDERS",7,19,6
+0,NRL 2007,Round 24,"Sunday, 26th August, 2007",3:00pm (local time),7372,7,"20,232",WESTS TIGERS,6,12,6,"South Sydney
+RABBITOHS",18,37,7
+0,NRL 2007,Round 24,"Monday, 27th August, 2007",7:00pm (local time),7373,21,"13,488","St George Illawarra
+DRAGONS",12,14,5,"Parramatta
+EELS",0,6,8
+0,NRL 2007,Round 25,"Friday, 31st August, 2007",7:30pm (local time),7374,14,"24,050","North Queensland
+COWBOYS",20,38,7,BULLDOGS,10,32,5
+0,NRL 2007,Round 25,"Friday, 31st August, 2007",7:30pm (local time),7375,20,"13,446",WESTS TIGERS,12,24,11,"Newcastle
+KNIGHTS",6,26,7
+0,NRL 2007,Round 25,"Saturday, 1st September, 2007",5:30pm (local time),7376,20,"32,125","South Sydney
+RABBITOHS",0,12,9,"Sydney
+ROOSTERS",18,26,7
+0,NRL 2007,Round 25,"Saturday, 1st September, 2007",7:30pm (local time),7377,4,"11,440","Canberra
+RAIDERS",6,12,6,"Cronulla Sutherland
+SHARKS",12,22,6
+0,NRL 2007,Round 25,"Saturday, 1st September, 2007",7:30pm (local time),7378,3,"14,473","Penrith
+PANTHERS",14,20,7,WARRIORS,18,24,7
+0,NRL 2007,Round 25,"Sunday, 2nd September, 2007",2:00pm (local time),7379,5,"18,637","Manly Warringah
+SEA EAGLES",28,28,10,"St George Illawarra
+DRAGONS",6,24,5
+0,NRL 2007,Round 25,"Sunday, 2nd September, 2007",3:00pm (local time),7380,8,"17,112","Parramatta
+EELS",34,68,9,"Brisbane
+BRONCOS",16,22,7
+0,NRL 2007,Round 25,"Sunday, 2nd September, 2007",7:00pm (local time),7381,12,"11,770","Melbourne
+STORM",28,50,10,"Gold Coast
+TITANS",0,6,5
+0,NRL 2007,Qualif Final,"Friday, 7th September, 2007",8:30pm (local time),7740,6,"28,745",WARRIORS,0,10,5,"Parramatta
+EELS",0,12,7
+0,NRL 2007,Qualif Final,"Saturday, 8th September, 2007",6:30pm (local time),7741,14,"24,004","North Queensland
+COWBOYS",14,20,12,BULLDOGS,14,18,4
+0,NRL 2007,Qualif Final,"Saturday, 8th September, 2007",8:30pm (local time),7742,5,"19,785","Manly Warringah
+SEA EAGLES",6,30,6,"South Sydney
+RABBITOHS",2,6,7
+0,NRL 2007,Qualif Final,"Sunday, 9th September, 2007",4:00pm (local time),7743,12,"15,522","Melbourne
+STORM",28,40,7,"Brisbane
+BRONCOS",0,0,7
+0,NRL 2007,Semi Final,"Saturday, 15th September, 2007",7:45pm (local time),7744,20,"50,621","Parramatta
+EELS",12,25,8,BULLDOGS,6,6,2
+0,NRL 2007,Semi Final,"Sunday, 16th September, 2007",4:00pm (local time),7745,14,"21,847","North Queensland
+COWBOYS",18,49,9,WARRIORS,12,12,3
+0,NRL 2007,Prelim Final,"Saturday, 22nd September, 2007",7:45pm (local time),7746,1,"32,611","Manly Warringah
+SEA EAGLES",6,28,6,"North Queensland
+COWBOYS",6,6,6
+0,NRL 2007,Prelim Final,"Sunday, 23rd September, 2007",4:00pm (local time),7747,30,"33,427","Melbourne
+STORM",10,26,7,"Parramatta
+EELS",4,10,5
+0,NRL 2007,Grand Final,"Sunday, 30th September, 2007",7:15pm (local time),7748,20,"81,392","Melbourne
+STORM",10,34,5,"Manly Warringah
+SEA EAGLES",4,8,2

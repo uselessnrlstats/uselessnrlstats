@@ -1,0 +1,99 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1925,Round 1,"Saturday, 2nd May, 1925",3:15pm (local time),9103,24,"16,000","Balmain
+TIGERS",5,10,,"South Sydney
+RABBITOHS",7,16,
+0,NSWRFL 1925,Round 1,"Saturday, 2nd May, 1925",3:15pm (local time),9101,105,"1,000",GLEBE,5,11,,"St George
+DRAGONS",0,8,
+0,NSWRFL 1925,Round 1,"Saturday, 2nd May, 1925",3:15pm (local time),9102,109,"1,500",NEWTOWN,5,5,,NORTH SYDNEY,8,16,
+0,NSWRFL 1925,Round 1,"Saturday, 2nd May, 1925",3:15pm (local time),9104,112,"3,000","Western Suburbs
+MAGPIES",5,22,,UNIVERSITY,15,15,
+0,NSWRFL 1925,Round 2,"Saturday, 9th May, 1925",3:15pm (local time),9106,109,"7,000",EASTERN SUBURBS,2,5,,"Western Suburbs
+MAGPIES",5,12,
+0,NSWRFL 1925,Round 2,"Saturday, 9th May, 1925",3:15pm (local time),9108,158,"4,000",NEWTOWN,2,2,,"Balmain
+TIGERS",12,12,
+0,NSWRFL 1925,Round 2,"Saturday, 9th May, 1925",3:15pm (local time),9107,25,"4,000",NORTH SYDNEY,2,8,,GLEBE,0,6,
+0,NSWRFL 1925,Round 2,"Saturday, 9th May, 1925",3:15pm (local time),9105,24,"6,000","South Sydney
+RABBITOHS",10,13,,UNIVERSITY,0,0,
+0,NSWRFL 1925,Round 3,"Saturday, 16th May, 1925",3:15pm (local time),9111,109,"1,500","Balmain
+TIGERS",5,8,,UNIVERSITY,2,2,
+0,NSWRFL 1925,Round 3,"Saturday, 16th May, 1925",3:15pm (local time),9109,105,"1,000",GLEBE,8,10,,NEWTOWN,0,0,
+0,NSWRFL 1925,Round 3,"Saturday, 16th May, 1925",3:15pm (local time),9110,154,"5,000","St George
+DRAGONS",2,6,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1925,Round 3,"Saturday, 16th May, 1925",3:15pm (local time),9112,24,"8,000","South Sydney
+RABBITOHS",12,14,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1925,Round 4,"Saturday, 23rd May, 1925",3:15pm (local time),9115,24,"5,000","Balmain
+TIGERS",5,8,,EASTERN SUBURBS,5,13,
+0,NSWRFL 1925,Round 4,"Saturday, 23rd May, 1925",3:15pm (local time),9113,158,"1,500",NEWTOWN,3,8,,UNIVERSITY,2,17,
+0,NSWRFL 1925,Round 4,"Saturday, 23rd May, 1925",3:15pm (local time),9114,154,"8,000","St George
+DRAGONS",5,10,,"South Sydney
+RABBITOHS",2,11,
+0,NSWRFL 1925,Round 4,"Saturday, 23rd May, 1925",3:15pm (local time),9116,109,"9,000","Western Suburbs
+MAGPIES",5,12,,NORTH SYDNEY,5,21,
+0,NSWRFL 1925,Round 5,"Saturday, 6th June, 1925",3:15pm (local time),9118,150,"3,000","Balmain
+TIGERS",5,14,,"Western Suburbs
+MAGPIES",3,5,
+0,NSWRFL 1925,Round 5,"Saturday, 6th June, 1925",3:15pm (local time),9120,105,"3,000",GLEBE,5,13,,EASTERN SUBURBS,9,12,
+0,NSWRFL 1925,Round 5,"Saturday, 6th June, 1925",3:15pm (local time),9117,158,"3,000",NEWTOWN,3,12,,"South Sydney
+RABBITOHS",6,14,
+0,NSWRFL 1925,Round 5,"Saturday, 6th June, 1925",3:15pm (local time),9119,24,"8,000","St George
+DRAGONS",0,13,,NORTH SYDNEY,8,13,
+0,NSWRFL 1925,Round 6,"Saturday, 13th June, 1925",3:15pm (local time),9122,109,"1,500",EASTERN SUBURBS,3,9,,NEWTOWN,5,5,
+0,NSWRFL 1925,Round 6,"Saturday, 13th June, 1925",3:15pm (local time),9124,25,"7,000",NORTH SYDNEY,0,9,,"Balmain
+TIGERS",3,8,
+0,NSWRFL 1925,Round 6,"Saturday, 13th June, 1925",3:15pm (local time),9121,154,"3,500","St George
+DRAGONS",10,16,,UNIVERSITY,0,10,
+0,NSWRFL 1925,Round 6,"Saturday, 13th June, 1925",3:15pm (local time),9123,24,"6,000","South Sydney
+RABBITOHS",11,31,,GLEBE,2,8,
+0,NSWRFL 1925,Round 7,"Saturday, 20th June, 1925",3:15pm (local time),9127,105,"2,500",GLEBE,0,0,,"Balmain
+TIGERS",0,16,
+0,NSWRFL 1925,Round 7,"Saturday, 20th June, 1925",3:15pm (local time),9125,24,"4,000",NORTH SYDNEY,11,11,,UNIVERSITY,7,15,
+0,NSWRFL 1925,Round 7,"Saturday, 20th June, 1925",3:15pm (local time),9128,154,"3,000","St George
+DRAGONS",5,5,,EASTERN SUBURBS,0,0,
+0,NSWRFL 1925,Round 7,"Saturday, 20th June, 1925",3:15pm (local time),9126,112,"2,000","Western Suburbs
+MAGPIES",5,10,,NEWTOWN,8,13,
+0,NSWRFL 1925,Round 8,"Saturday, 27th June, 1925",3:15pm (local time),9129,105,"1,500",GLEBE,12,15,,UNIVERSITY,10,21,
+0,NSWRFL 1925,Round 8,"Saturday, 27th June, 1925",3:15pm (local time),9130,158,"3,500",NEWTOWN,12,12,,"St George
+DRAGONS",10,23,
+0,NSWRFL 1925,Round 8,"Saturday, 27th June, 1925",3:15pm (local time),9132,25,"7,000",NORTH SYDNEY,2,4,,EASTERN SUBURBS,0,3,
+0,NSWRFL 1925,Round 8,"Saturday, 27th June, 1925",3:15pm (local time),9131,24,"10,000","South Sydney
+RABBITOHS",15,23,,"Western Suburbs
+MAGPIES",7,20,
+0,NSWRFL 1925,Round 9,"Saturday, 4th July, 1925",3:15pm (local time),9133,150,"4,000","Balmain
+TIGERS",3,15,,"St George
+DRAGONS",2,11,
+0,NSWRFL 1925,Round 9,"Saturday, 4th July, 1925",3:15pm (local time),9134,109,"1,000",EASTERN SUBURBS,8,11,,UNIVERSITY,3,8,
+0,NSWRFL 1925,Round 9,"Saturday, 4th July, 1925",3:15pm (local time),9136,24,"17,000","South Sydney
+RABBITOHS",5,15,,NORTH SYDNEY,4,10,
+0,NSWRFL 1925,Round 9,"Saturday, 4th July, 1925",3:15pm (local time),9135,112,"2,000","Western Suburbs
+MAGPIES",9,14,,GLEBE,10,13,
+0,NSWRFL 1925,Round 10,"Saturday, 18th July, 1925",3:15pm (local time),9140,109,"1,500",EASTERN SUBURBS,2,10,,"Balmain
+TIGERS",11,17,
+0,NSWRFL 1925,Round 10,"Saturday, 18th July, 1925",3:15pm (local time),9137,105,"1,500",GLEBE,8,21,,NORTH SYDNEY,7,20,
+0,NSWRFL 1925,Round 10,"Saturday, 18th July, 1925",3:15pm (local time),9138,24,"8,000","South Sydney
+RABBITOHS",0,8,,UNIVERSITY,2,2,
+0,NSWRFL 1925,Round 10,"Saturday, 18th July, 1925",3:15pm (local time),9139,112,"3,000","Western Suburbs
+MAGPIES",11,21,,"St George
+DRAGONS",4,12,
+0,NSWRFL 1925,Round 11,"Saturday, 25th July, 1925",3:15pm (local time),9143,150,"1,500","Balmain
+TIGERS",0,0,,NEWTOWN,3,7,
+0,NSWRFL 1925,Round 11,"Saturday, 25th July, 1925",3:15pm (local time),9141,24,"5,000",GLEBE,0,2,,"South Sydney
+RABBITOHS",2,12,
+0,NSWRFL 1925,Round 11,"Saturday, 25th July, 1925",3:15pm (local time),9144,25,"4,000",NORTH SYDNEY,2,10,,EASTERN SUBURBS,5,11,
+0,NSWRFL 1925,Round 11,"Saturday, 25th July, 1925",3:15pm (local time),9142,154,"1,000","St George
+DRAGONS",5,20,,UNIVERSITY,10,18,
+0,NSWRFL 1925,Round 12,"Saturday, 1st August, 1925",3:15pm (local time),9145,109,"1,000",EASTERN SUBURBS,8,10,,GLEBE,2,16,
+0,NSWRFL 1925,Round 12,"Saturday, 1st August, 1925",3:15pm (local time),9146,25,"3,000",NORTH SYDNEY,11,22,,NEWTOWN,8,11,
+0,NSWRFL 1925,Round 12,"Saturday, 1st August, 1925",3:15pm (local time),9147,24,"8,000","South Sydney
+RABBITOHS",11,25,,"St George
+DRAGONS",5,8,
+0,NSWRFL 1925,Round 12,"Saturday, 1st August, 1925",3:15pm (local time),9148,112,"3,000","Western Suburbs
+MAGPIES",15,27,,"Balmain
+TIGERS",0,15,
+0,NSWRFL 1925,Round 13,"Saturday, 8th August, 1925",3:15pm (local time),9150,150,"1,000","Balmain
+TIGERS",5,10,,UNIVERSITY,5,10,
+0,NSWRFL 1925,Round 13,"Saturday, 8th August, 1925",3:15pm (local time),9151,24,"3,000",EASTERN SUBURBS,2,5,,"South Sydney
+RABBITOHS",3,8,
+0,NSWRFL 1925,Round 13,"Saturday, 8th August, 1925",3:15pm (local time),9152,158,"1,000",NEWTOWN,10,19,,GLEBE,3,3,
+0,NSWRFL 1925,Round 13,"Saturday, 8th August, 1925",3:15pm (local time),9149,25,"2,000",NORTH SYDNEY,5,13,,"Western Suburbs
+MAGPIES",8,18,

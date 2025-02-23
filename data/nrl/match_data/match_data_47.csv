@@ -1,0 +1,209 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1955,Round 1,"Saturday, 2nd April, 1955",3:15pm (local time),11201,7,,"Balmain
+TIGERS",16,26,,"Manly Warringah
+SEA EAGLES",20,24,
+0,NSWRFL 1955,Round 1,"Saturday, 2nd April, 1955",3:15pm (local time),11200,24,,NEWTOWN,14,29,,"South Sydney
+RABBITOHS",6,6,
+0,NSWRFL 1955,Round 1,"Saturday, 2nd April, 1955",3:15pm (local time),11204,111,,"Parramatta
+EELS",4,14,,EASTERN SUBURBS,20,33,
+0,NSWRFL 1955,Round 1,"Saturday, 2nd April, 1955",3:15pm (local time),11202,23,"3,948","St George
+DRAGONS",10,24,,NORTH SYDNEY,7,14,
+0,NSWRFL 1955,Round 1,"Saturday, 2nd April, 1955",3:15pm (local time),11203,112,,"Western Suburbs
+MAGPIES",2,17,36,CANTERBURY BANKSTOWN,8,8,19
+0,NSWRFL 1955,Round 2,"Saturday, 9th April, 1955",3:15pm (local time),11206,27,"5,000",CANTERBURY BANKSTOWN,0,10,,"St George
+DRAGONS",9,27,
+0,NSWRFL 1955,Round 2,"Saturday, 9th April, 1955",3:15pm (local time),11207,24,"21,065",NEWTOWN,7,14,,"Balmain
+TIGERS",13,18,
+0,NSWRFL 1955,Round 2,"Saturday, 9th April, 1955",3:15pm (local time),11205,25,"9,690",NORTH SYDNEY,2,17,,"South Sydney
+RABBITOHS",7,9,
+0,NSWRFL 1955,Round 2,"Monday, 11th April, 1955",3:15pm (local time),11208,111,"4,800","Parramatta
+EELS",2,4,,"Manly Warringah
+SEA EAGLES",4,10,
+0,NSWRFL 1955,Round 2,"Monday, 11th April, 1955",3:15pm (local time),11209,24,"17,856","Western Suburbs
+MAGPIES",12,32,,EASTERN SUBURBS,10,19,
+0,NSWRFL 1955,Round 3,"Saturday, 16th April, 1955",3:15pm (local time),11211,27,"4,000",CANTERBURY BANKSTOWN,7,19,,NORTH SYDNEY,3,17,
+0,NSWRFL 1955,Round 3,"Saturday, 16th April, 1955",3:15pm (local time),11212,109,,EASTERN SUBURBS,5,12,,"St George
+DRAGONS",9,16,
+0,NSWRFL 1955,Round 3,"Saturday, 16th April, 1955",3:15pm (local time),11210,76,,NEWTOWN,5,14,,"Parramatta
+EELS",6,11,
+0,NSWRFL 1955,Round 3,"Saturday, 16th April, 1955",3:15pm (local time),11214,44,"15,751","South Sydney
+RABBITOHS",20,36,,"Balmain
+TIGERS",5,18,
+0,NSWRFL 1955,Round 3,"Saturday, 16th April, 1955",3:15pm (local time),11213,24,"11,181","Western Suburbs
+MAGPIES",0,0,14,"Manly Warringah
+SEA EAGLES",6,46,14
+0,NSWRFL 1955,Round 4,"Saturday, 23rd April, 1955",3:15pm (local time),11216,24,"21,027","South Sydney
+RABBITOHS",10,27,,CANTERBURY BANKSTOWN,0,2,
+0,NSWRFL 1955,Round 4,"Saturday, 23rd April, 1955",3:15pm (local time),11215,112,"7,000","Western Suburbs
+MAGPIES",2,8,,NEWTOWN,10,25,
+0,NSWRFL 1955,Round 4,"Monday, 25th April, 1955",3:15pm (local time),11219,25,"7,000",NORTH SYDNEY,11,35,,EASTERN SUBURBS,8,16,
+0,NSWRFL 1955,Round 4,"Monday, 25th April, 1955",3:15pm (local time),11218,111,,"Parramatta
+EELS",18,28,,"Balmain
+TIGERS",2,16,
+0,NSWRFL 1955,Round 4,"Monday, 25th April, 1955",3:15pm (local time),11217,24,"26,559","St George
+DRAGONS",5,30,11,"Manly Warringah
+SEA EAGLES",2,12,14
+0,NSWRFL 1955,Round 5,"Saturday, 30th April, 1955",3:15pm (local time),11220,25,,NORTH SYDNEY,2,4,,"Manly Warringah
+SEA EAGLES",8,8,
+0,NSWRFL 1955,Round 5,"Saturday, 30th April, 1955",3:15pm (local time),11221,24,"13,795","St George
+DRAGONS",0,2,21,NEWTOWN,5,8,15
+0,NSWRFL 1955,Round 5,"Sunday, 15th May, 1955",3:15pm (local time),11222,7,,"Balmain
+TIGERS",12,32,,"Western Suburbs
+MAGPIES",7,10,
+0,NSWRFL 1955,Round 5,"Sunday, 15th May, 1955",3:15pm (local time),11223,27,,CANTERBURY BANKSTOWN,7,10,,EASTERN SUBURBS,6,13,
+0,NSWRFL 1955,Round 5,"Sunday, 15th May, 1955",3:15pm (local time),11224,44,"15,500","South Sydney
+RABBITOHS",7,7,,"Parramatta
+EELS",8,16,
+0,NSWRFL 1955,Round 6,"Sunday, 22nd May, 1955",3:15pm (local time),11226,7,"8,000","Balmain
+TIGERS",17,28,,"St George
+DRAGONS",16,31,
+0,NSWRFL 1955,Round 6,"Sunday, 22nd May, 1955",3:15pm (local time),11227,109,,EASTERN SUBURBS,12,18,,"South Sydney
+RABBITOHS",11,15,
+0,NSWRFL 1955,Round 6,"Sunday, 22nd May, 1955",3:15pm (local time),11229,5,,"Manly Warringah
+SEA EAGLES",8,32,,CANTERBURY BANKSTOWN,13,15,
+0,NSWRFL 1955,Round 6,"Sunday, 22nd May, 1955",3:15pm (local time),11228,25,"9,500",NORTH SYDNEY,4,20,,NEWTOWN,17,30,
+0,NSWRFL 1955,Round 6,"Sunday, 22nd May, 1955",3:15pm (local time),11225,111,,"Parramatta
+EELS",5,7,,"Western Suburbs
+MAGPIES",7,11,
+0,NSWRFL 1955,Round 7,"Sunday, 29th May, 1955",3:15pm (local time),11232,7,,"Balmain
+TIGERS",4,16,,NORTH SYDNEY,16,20,
+0,NSWRFL 1955,Round 7,"Sunday, 29th May, 1955",3:15pm (local time),11233,109,"8,500",EASTERN SUBURBS,11,11,,"Manly Warringah
+SEA EAGLES",10,18,
+0,NSWRFL 1955,Round 7,"Sunday, 29th May, 1955",3:15pm (local time),11234,76,,NEWTOWN,12,29,,CANTERBURY BANKSTOWN,2,4,
+0,NSWRFL 1955,Round 7,"Sunday, 29th May, 1955",3:15pm (local time),11230,111,"8,000","Parramatta
+EELS",10,17,,"St George
+DRAGONS",15,25,
+0,NSWRFL 1955,Round 7,"Sunday, 29th May, 1955",3:15pm (local time),11231,44,"10,442","South Sydney
+RABBITOHS",16,27,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1955,Round 8,"Sunday, 5th June, 1955",3:15pm (local time),11236,7,,"Balmain
+TIGERS",4,9,,CANTERBURY BANKSTOWN,7,15,
+0,NSWRFL 1955,Round 8,"Sunday, 5th June, 1955",3:15pm (local time),11237,109,"3,798",EASTERN SUBURBS,5,5,,NEWTOWN,5,5,
+0,NSWRFL 1955,Round 8,"Sunday, 5th June, 1955",3:15pm (local time),11235,5,,"Manly Warringah
+SEA EAGLES",5,14,,"South Sydney
+RABBITOHS",0,2,
+0,NSWRFL 1955,Round 8,"Sunday, 5th June, 1955",3:15pm (local time),11238,111,,"Parramatta
+EELS",2,2,,NORTH SYDNEY,0,9,
+0,NSWRFL 1955,Round 8,"Sunday, 5th June, 1955",3:15pm (local time),11239,44,"1,167","Western Suburbs
+MAGPIES",3,5,,"St George
+DRAGONS",8,18,
+0,NSWRFL 1955,Round 9,"Monday, 13th June, 1955",3:15pm (local time),11242,27,,CANTERBURY BANKSTOWN,3,13,,"Parramatta
+EELS",6,8,
+0,NSWRFL 1955,Round 9,"Monday, 13th June, 1955",3:15pm (local time),11244,109,,EASTERN SUBURBS,10,19,,"Balmain
+TIGERS",6,15,
+0,NSWRFL 1955,Round 9,"Monday, 13th June, 1955",3:15pm (local time),11243,24,"14,058",NEWTOWN,22,50,,"Manly Warringah
+SEA EAGLES",3,6,
+0,NSWRFL 1955,Round 9,"Monday, 13th June, 1955",3:15pm (local time),11240,25,,NORTH SYDNEY,6,33,,"Western Suburbs
+MAGPIES",11,11,
+0,NSWRFL 1955,Round 9,"Monday, 13th June, 1955",3:15pm (local time),11241,23,"11,374","St George
+DRAGONS",9,29,,"South Sydney
+RABBITOHS",5,11,
+0,NSWRFL 1955,Round 10,"Saturday, 18th June, 1955",3:15pm (local time),11246,27,,CANTERBURY BANKSTOWN,0,9,,"Western Suburbs
+MAGPIES",6,6,
+0,NSWRFL 1955,Round 10,"Saturday, 18th June, 1955",3:15pm (local time),11247,109,,EASTERN SUBURBS,19,41,,"Parramatta
+EELS",5,15,
+0,NSWRFL 1955,Round 10,"Saturday, 18th June, 1955",3:15pm (local time),11249,5,,"Manly Warringah
+SEA EAGLES",12,22,,"Balmain
+TIGERS",9,22,
+0,NSWRFL 1955,Round 10,"Saturday, 18th June, 1955",3:15pm (local time),11245,24,"16,270",NORTH SYDNEY,0,16,,"St George
+DRAGONS",17,27,
+0,NSWRFL 1955,Round 10,"Saturday, 18th June, 1955",3:15pm (local time),11248,44,,"South Sydney
+RABBITOHS",6,16,,NEWTOWN,10,17,
+0,NSWRFL 1955,Round 11,"Saturday, 25th June, 1955",3:15pm (local time),11251,24,"15,380","Balmain
+TIGERS",,13,,NEWTOWN,,9,
+0,NSWRFL 1955,Round 11,"Saturday, 25th June, 1955",3:15pm (local time),11252,112,,EASTERN SUBURBS,,26,,"Western Suburbs
+MAGPIES",,8,
+0,NSWRFL 1955,Round 11,"Saturday, 25th June, 1955",3:15pm (local time),11250,5,,"Manly Warringah
+SEA EAGLES",,9,,"Parramatta
+EELS",,11,
+0,NSWRFL 1955,Round 11,"Saturday, 25th June, 1955",3:15pm (local time),11254,23,,"St George
+DRAGONS",,24,,CANTERBURY BANKSTOWN,,6,
+0,NSWRFL 1955,Round 11,"Saturday, 25th June, 1955",3:15pm (local time),11253,44,,"South Sydney
+RABBITOHS",9,27,,NORTH SYDNEY,9,12,
+0,NSWRFL 1955,Round 12,"Saturday, 2nd July, 1955",3:15pm (local time),11256,7,,"Balmain
+TIGERS",8,10,,"South Sydney
+RABBITOHS",10,18,
+0,NSWRFL 1955,Round 12,"Saturday, 2nd July, 1955",3:15pm (local time),11255,5,,"Manly Warringah
+SEA EAGLES",10,36,,"Western Suburbs
+MAGPIES",7,10,
+0,NSWRFL 1955,Round 12,"Saturday, 2nd July, 1955",3:15pm (local time),11258,25,,NORTH SYDNEY,19,28,,CANTERBURY BANKSTOWN,0,0,
+0,NSWRFL 1955,Round 12,"Saturday, 2nd July, 1955",3:15pm (local time),11257,111,,"Parramatta
+EELS",5,11,,NEWTOWN,10,28,
+0,NSWRFL 1955,Round 12,"Saturday, 2nd July, 1955",3:15pm (local time),11259,24,,"St George
+DRAGONS",11,14,,EASTERN SUBURBS,7,7,
+0,NSWRFL 1955,Round 13,"Saturday, 9th July, 1955",3:15pm (local time),11262,7,,"Balmain
+TIGERS",,32,,"Parramatta
+EELS",,16,
+0,NSWRFL 1955,Round 13,"Saturday, 9th July, 1955",3:15pm (local time),11263,27,,CANTERBURY BANKSTOWN,5,9,,"South Sydney
+RABBITOHS",19,43,
+0,NSWRFL 1955,Round 13,"Saturday, 9th July, 1955",3:15pm (local time),11260,24,,"Manly Warringah
+SEA EAGLES",,20,,"St George
+DRAGONS",,17,
+0,NSWRFL 1955,Round 13,"Saturday, 9th July, 1955",3:15pm (local time),11261,76,,NEWTOWN,,32,,"Western Suburbs
+MAGPIES",,6,
+0,NSWRFL 1955,Round 13,"Sunday, 10th July, 1955",3:15pm (local time),11264,109,,EASTERN SUBURBS,,12,,NORTH SYDNEY,,16,
+0,NSWRFL 1955,Round 14,"Sunday, 24th July, 1955",3:15pm (local time),11269,109,,EASTERN SUBURBS,,34,,CANTERBURY BANKSTOWN,,0,
+0,NSWRFL 1955,Round 14,"Sunday, 24th July, 1955",3:15pm (local time),11265,5,,"Manly Warringah
+SEA EAGLES",9,11,,NORTH SYDNEY,9,9,
+0,NSWRFL 1955,Round 14,"Sunday, 24th July, 1955",3:15pm (local time),11266,76,"21,547",NEWTOWN,10,15,,"St George
+DRAGONS",7,10,
+0,NSWRFL 1955,Round 14,"Sunday, 24th July, 1955",3:15pm (local time),11267,111,,"Parramatta
+EELS",12,15,,"South Sydney
+RABBITOHS",18,37,
+0,NSWRFL 1955,Round 14,"Sunday, 24th July, 1955",3:15pm (local time),11268,7,,"Western Suburbs
+MAGPIES",,10,,"Balmain
+TIGERS",,23,
+0,NSWRFL 1955,Round 15,"Saturday, 30th July, 1955",3:15pm (local time),11271,27,,CANTERBURY BANKSTOWN,7,7,,"Manly Warringah
+SEA EAGLES",9,33,
+0,NSWRFL 1955,Round 15,"Saturday, 30th July, 1955",3:15pm (local time),11270,76,"7,000",NEWTOWN,5,20,,NORTH SYDNEY,6,13,
+0,NSWRFL 1955,Round 15,"Saturday, 30th July, 1955",3:15pm (local time),11273,23,,"St George
+DRAGONS",18,25,,"Balmain
+TIGERS",17,23,
+0,NSWRFL 1955,Round 15,"Saturday, 30th July, 1955",3:15pm (local time),11274,24,"28,305","South Sydney
+RABBITOHS",10,22,,EASTERN SUBURBS,4,11,
+0,NSWRFL 1955,Round 15,"Saturday, 30th July, 1955",3:15pm (local time),11272,112,,"Western Suburbs
+MAGPIES",5,12,,"Parramatta
+EELS",8,32,
+0,NSWRFL 1955,Round 16,"Saturday, 6th August, 1955",3:15pm (local time),11275,27,,CANTERBURY BANKSTOWN,0,2,,NEWTOWN,9,12,
+0,NSWRFL 1955,Round 16,"Saturday, 6th August, 1955",3:15pm (local time),11279,24,"19,452","Manly Warringah
+SEA EAGLES",2,15,,EASTERN SUBURBS,8,16,
+0,NSWRFL 1955,Round 16,"Saturday, 6th August, 1955",3:15pm (local time),11278,25,,NORTH SYDNEY,9,32,,"Balmain
+TIGERS",14,19,
+0,NSWRFL 1955,Round 16,"Saturday, 6th August, 1955",3:15pm (local time),11276,23,,"St George
+DRAGONS",10,33,,"Parramatta
+EELS",4,4,
+0,NSWRFL 1955,Round 16,"Saturday, 6th August, 1955",3:15pm (local time),11277,112,"3,000","Western Suburbs
+MAGPIES",6,17,,"South Sydney
+RABBITOHS",16,28,
+0,NSWRFL 1955,Round 17,"Saturday, 13th August, 1955",3:15pm (local time),11283,27,,CANTERBURY BANKSTOWN,4,22,,"Balmain
+TIGERS",16,26,
+0,NSWRFL 1955,Round 17,"Saturday, 13th August, 1955",3:15pm (local time),11284,24,"21,693",NEWTOWN,20,37,,EASTERN SUBURBS,4,19,
+0,NSWRFL 1955,Round 17,"Saturday, 13th August, 1955",3:15pm (local time),11280,25,,NORTH SYDNEY,11,19,,"Parramatta
+EELS",13,18,
+0,NSWRFL 1955,Round 17,"Saturday, 13th August, 1955",3:15pm (local time),11281,23,,"St George
+DRAGONS",7,27,,"Western Suburbs
+MAGPIES",7,12,
+0,NSWRFL 1955,Round 17,"Saturday, 13th August, 1955",3:15pm (local time),11282,44,"10,000","South Sydney
+RABBITOHS",4,9,,"Manly Warringah
+SEA EAGLES",2,7,
+0,NSWRFL 1955,Round 18,"Saturday, 20th August, 1955",3:15pm (local time),11286,7,,"Balmain
+TIGERS",25,38,,EASTERN SUBURBS,8,30,
+0,NSWRFL 1955,Round 18,"Saturday, 20th August, 1955",3:15pm (local time),11285,5,,"Manly Warringah
+SEA EAGLES",3,9,,NEWTOWN,2,2,
+0,NSWRFL 1955,Round 18,"Saturday, 20th August, 1955",3:15pm (local time),11289,111,,"Parramatta
+EELS",11,29,,CANTERBURY BANKSTOWN,11,16,
+0,NSWRFL 1955,Round 18,"Saturday, 20th August, 1955",3:15pm (local time),11288,24,"28,007","South Sydney
+RABBITOHS",15,27,17,"St George
+DRAGONS",12,17,12
+0,NSWRFL 1955,Round 18,"Saturday, 20th August, 1955",3:15pm (local time),11287,112,,"Western Suburbs
+MAGPIES",3,9,,NORTH SYDNEY,23,31,
+0,NSWRFL 1955,Minor Semi,"Saturday, 27th August, 1955",3:15pm (local time),11290,24,"35,677","South Sydney
+RABBITOHS",5,14,,"Manly Warringah
+SEA EAGLES",5,12,
+0,NSWRFL 1955,Major Semi,"Saturday, 3rd September, 1955",3:15pm (local time),11291,24,"34,158",NEWTOWN,5,11,,"St George
+DRAGONS",4,8,
+0,NSWRFL 1955,Prelim Final,"Saturday, 10th September, 1955",3:15pm (local time),11292,24,"41,583","South Sydney
+RABBITOHS",7,18,26,"St George
+DRAGONS",11,14,9
+0,NSWRFL 1955,Grand Final,"Saturday, 17th September, 1955",3:15pm (local time),11293,24,"42,466","South Sydney
+RABBITOHS",4,12,,NEWTOWN,8,11,

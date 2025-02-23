@@ -1,0 +1,555 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NRL 2018,Round 1,"Thursday, 8th March, 2018",8:05pm (local time),36522,23,"14,457","St George Illawarra
+DRAGONS",10,34,,"Brisbane
+BRONCOS",2,12,
+0,NRL 2018,Round 1,"Friday, 9th March, 2018",6:00pm (local time),36523,11,"23,516","Newcastle
+KNIGHTS",12,19,,"Manly Warringah
+SEA EAGLES",12,18,
+0,NRL 2018,Round 1,"Friday, 9th March, 2018",7:05pm (local time),36524,14,"15,900","North Queensland
+COWBOYS",14,20,,"Cronulla Sutherland
+SHARKS",8,14,
+0,NRL 2018,Round 1,"Saturday, 10th March, 2018",4:30pm (local time),36525,20,"18,243",WESTS TIGERS,2,10,,"Sydney
+ROOSTERS",0,8,
+0,NRL 2018,Round 1,"Saturday, 10th March, 2018",4:00pm (local time),36526,804,"38,824","South Sydney
+RABBITOHS",10,20,,WARRIORS,20,32,
+0,NRL 2018,Round 1,"Saturday, 10th March, 2018",6:05pm (local time),36527,804,"38,824","Canterbury Bankstown
+BULLDOGS",12,18,,"Melbourne
+STORM",24,36,
+0,NRL 2018,Round 1,"Sunday, 11th March, 2018",4:10pm (local time),36528,3,"21,500","Penrith
+PANTHERS",6,24,,"Parramatta
+EELS",14,14,
+0,NRL 2018,Round 1,"Sunday, 11th March, 2018",5:30pm (local time),36529,149,"10,238","Gold Coast
+TITANS",12,30,,"Canberra
+RAIDERS",24,28,
+0,NRL 2018,Round 2,"Thursday, 15th March, 2018",8:05pm (local time),36530,9,"13,517","Cronulla Sutherland
+SHARKS",14,16,,"St George Illawarra
+DRAGONS",4,20,
+0,NRL 2018,Round 2,"Friday, 16th March, 2018",6:00pm (local time),36531,1,"12,226","Sydney
+ROOSTERS",18,30,,"Canterbury Bankstown
+BULLDOGS",0,12,
+0,NRL 2018,Round 2,"Friday, 16th March, 2018",6:50pm (local time),36532,1097,"46,080","Brisbane
+BRONCOS",18,24,,"North Queensland
+COWBOYS",8,20,
+0,NRL 2018,Round 2,"Saturday, 17th March, 2018",5:00pm (local time),36533,6,"14,132",WARRIORS,12,20,,"Gold Coast
+TITANS",2,8,
+0,NRL 2018,Round 2,"Saturday, 17th March, 2018",5:30pm (local time),36534,3,"15,995","Penrith
+PANTHERS",0,18,,"South Sydney
+RABBITOHS",14,14,
+0,NRL 2018,Round 2,"Saturday, 17th March, 2018",7:35pm (local time),36535,251,"18,189","Melbourne
+STORM",0,8,,WESTS TIGERS,4,10,
+0,NRL 2018,Round 2,"Sunday, 18th March, 2018",4:10pm (local time),36536,5,"10,502","Manly Warringah
+SEA EAGLES",30,54,,"Parramatta
+EELS",0,0,
+0,NRL 2018,Round 2,"Sunday, 18th March, 2018",6:30pm (local time),36537,4,"12,626","Canberra
+RAIDERS",14,28,,"Newcastle
+KNIGHTS",14,30,
+0,NRL 2018,Round 3,"Thursday, 22nd March, 2018",8:05pm (local time),36538,251,"12,866","Melbourne
+STORM",18,30,,"North Queensland
+COWBOYS",8,14,
+0,NRL 2018,Round 3,"Friday, 23rd March, 2018",6:00pm (local time),36539,20,"11,247","Canterbury Bankstown
+BULLDOGS",20,20,,"Penrith
+PANTHERS",12,18,
+0,NRL 2018,Round 3,"Friday, 23rd March, 2018",8:05pm (local time),36540,19,"11,434",WESTS TIGERS,2,7,,"Brisbane
+BRONCOS",2,9,
+0,NRL 2018,Round 3,"Saturday, 24th March, 2018",3:00pm (local time),36541,4,"11,963","Canberra
+RAIDERS",13,19,,WARRIORS,6,20,
+0,NRL 2018,Round 3,"Saturday, 24th March, 2018",5:30pm (local time),36542,20,"12,553","South Sydney
+RABBITOHS",14,34,,"Manly Warringah
+SEA EAGLES",0,6,
+0,NRL 2018,Round 3,"Saturday, 24th March, 2018",7:35pm (local time),36543,20,"12,553","Parramatta
+EELS",4,4,,"Cronulla Sutherland
+SHARKS",12,14,
+0,NRL 2018,Round 3,"Sunday, 25th March, 2018",3:10pm (local time),36544,399,"7,297","Gold Coast
+TITANS",8,8,,"St George Illawarra
+DRAGONS",26,54,
+0,NRL 2018,Round 3,"Sunday, 25th March, 2018",6:30pm (local time),36545,1,"15,153","Sydney
+ROOSTERS",24,38,,"Newcastle
+KNIGHTS",8,8,
+0,NRL 2018,Round 4,"Thursday, 29th March, 2018",7:05pm (local time),36546,14,"11,907","North Queensland
+COWBOYS",4,14,,"Penrith
+PANTHERS",16,33,
+0,NRL 2018,Round 4,"Friday, 30th March, 2018",4:10pm (local time),36547,20,"32,471","South Sydney
+RABBITOHS",6,20,,"Canterbury Bankstown
+BULLDOGS",14,16,
+0,NRL 2018,Round 4,"Friday, 30th March, 2018",8:05pm (local time),36548,9,"13,196","Cronulla Sutherland
+SHARKS",8,14,,"Melbourne
+STORM",2,4,
+0,NRL 2018,Round 4,"Saturday, 31st March, 2018",5:30pm (local time),36549,1,"14,493","Sydney
+ROOSTERS",6,6,,WARRIORS,18,30,
+0,NRL 2018,Round 4,"Saturday, 31st March, 2018",7:35pm (local time),36550,5,"9,392","Manly Warringah
+SEA EAGLES",26,32,,"Canberra
+RAIDERS",6,16,
+0,NRL 2018,Round 4,"Sunday, 1st April, 2018",4:10pm (local time),36551,21,"18,589","St George Illawarra
+DRAGONS",20,30,,"Newcastle
+KNIGHTS",12,12,
+0,NRL 2018,Round 4,"Sunday, 1st April, 2018",6:30pm (local time),36552,1097,"30,742","Brisbane
+BRONCOS",8,14,,"Gold Coast
+TITANS",16,26,
+0,NRL 2018,Round 4,"Monday, 2nd April, 2018",4:00pm (local time),36553,20,"30,420",WESTS TIGERS,20,30,,"Parramatta
+EELS",6,20,
+0,NRL 2018,Round 5,"Thursday, 5th April, 2018",7:50pm (local time),36554,4,"11,800","Canberra
+RAIDERS",12,26,,"Canterbury Bankstown
+BULLDOGS",0,10,
+0,NRL 2018,Round 5,"Friday, 6th April, 2018",6:00pm (local time),36555,9,"11,855","Cronulla Sutherland
+SHARKS",6,10,,"Sydney
+ROOSTERS",18,28,
+0,NRL 2018,Round 5,"Friday, 6th April, 2018",7:50pm (local time),36556,23,"16,709","St George Illawarra
+DRAGONS",8,16,,"South Sydney
+RABBITOHS",2,12,
+0,NRL 2018,Round 5,"Saturday, 7th April, 2018",5:00pm (local time),36557,6,"25,600",WESTS TIGERS,4,11,,"Melbourne
+STORM",8,10,
+0,NRL 2018,Round 5,"Saturday, 7th April, 2018",7:30pm (local time),36558,6,"25,600",WARRIORS,18,22,,"North Queensland
+COWBOYS",6,12,
+0,NRL 2018,Round 5,"Saturday, 7th April, 2018",7:30pm (local time),36559,11,"21,969","Newcastle
+KNIGHTS",7,15,,"Brisbane
+BRONCOS",0,10,
+0,NRL 2018,Round 5,"Sunday, 8th April, 2018",2:00pm (local time),36560,803,"5,135","Gold Coast
+TITANS",20,32,,"Manly Warringah
+SEA EAGLES",8,20,
+0,NRL 2018,Round 5,"Sunday, 8th April, 2018",4:10pm (local time),36561,20,"10,061","Parramatta
+EELS",0,6,,"Penrith
+PANTHERS",10,12,
+0,NRL 2018,Round 6,"Thursday, 12th April, 2018",7:50pm (local time),36562,1,"15,242","Sydney
+ROOSTERS",8,14,,"South Sydney
+RABBITOHS",8,26,
+0,NRL 2018,Round 6,"Friday, 13th April, 2018",6:00pm (local time),36563,251,"12,386","Melbourne
+STORM",18,40,,"Newcastle
+KNIGHTS",8,14,
+0,NRL 2018,Round 6,"Friday, 13th April, 2018",7:50pm (local time),36564,21,"17,882","St George Illawarra
+DRAGONS",16,40,,"Cronulla Sutherland
+SHARKS",10,20,
+0,NRL 2018,Round 6,"Saturday, 14th April, 2018",5:00pm (local time),36565,6,"15,636",WARRIORS,14,18,,"Brisbane
+BRONCOS",15,27,
+0,NRL 2018,Round 6,"Saturday, 14th April, 2018",5:30pm (local time),36566,14,"14,434","North Queensland
+COWBOYS",0,10,,"Canterbury Bankstown
+BULLDOGS",19,27,
+0,NRL 2018,Round 6,"Saturday, 14th April, 2018",7:30pm (local time),36567,4,"12,328","Canberra
+RAIDERS",10,18,,"Parramatta
+EELS",2,2,
+0,NRL 2018,Round 6,"Sunday, 15th April, 2018",2:00pm (local time),36568,3,"11,091","Penrith
+PANTHERS",10,35,,"Gold Coast
+TITANS",6,12,
+0,NRL 2018,Round 6,"Sunday, 15th April, 2018",4:10pm (local time),36569,5,"15,456","Manly Warringah
+SEA EAGLES",0,12,,WESTS TIGERS,26,38,
+0,NRL 2018,Round 7,"Thursday, 19th April, 2018",7:50pm (local time),36570,20,"11,309","Canterbury Bankstown
+BULLDOGS",0,0,,"Sydney
+ROOSTERS",6,6,
+0,NRL 2018,Round 7,"Friday, 20th April, 2018",8:00pm (local time),36571,6,"18,295",WARRIORS,10,20,,"St George Illawarra
+DRAGONS",0,12,
+0,NRL 2018,Round 7,"Friday, 20th April, 2018",7:50pm (local time),36572,1097,"32,709","Brisbane
+BRONCOS",4,20,,"Melbourne
+STORM",18,34,
+0,NRL 2018,Round 7,"Saturday, 21st April, 2018",3:00pm (local time),36573,26,"15,134","South Sydney
+RABBITOHS",24,42,,"Canberra
+RAIDERS",12,22,
+0,NRL 2018,Round 7,"Saturday, 21st April, 2018",5:30pm (local time),36574,409,"10,082",WESTS TIGERS,0,20,,"Newcastle
+KNIGHTS",10,22,
+0,NRL 2018,Round 7,"Saturday, 21st April, 2018",7:30pm (local time),36575,14,"12,885","North Queensland
+COWBOYS",16,26,,"Gold Coast
+TITANS",2,14,
+0,NRL 2018,Round 7,"Sunday, 22nd April, 2018",2:00pm (local time),36576,20,"11,069","Parramatta
+EELS",20,44,,"Manly Warringah
+SEA EAGLES",0,10,
+0,NRL 2018,Round 7,"Sunday, 22nd April, 2018",4:10pm (local time),36577,9,"12,677","Cronulla Sutherland
+SHARKS",10,26,,"Penrith
+PANTHERS",6,22,
+0,NRL 2018,Round 8,"Wednesday, 25th April, 2018",4:10pm (local time),36578,1,"41,142","St George Illawarra
+DRAGONS",12,24,,"Sydney
+ROOSTERS",2,8,
+0,NRL 2018,Round 8,"Wednesday, 25th April, 2018",7:00pm (local time),36579,251,"25,731","Melbourne
+STORM",38,50,,WARRIORS,0,10,
+0,NRL 2018,Round 8,"Thursday, 26th April, 2018",7:50pm (local time),36580,20,"11,123","South Sydney
+RABBITOHS",12,20,,"Brisbane
+BRONCOS",6,24,
+0,NRL 2018,Round 8,"Friday, 27th April, 2018",6:00pm (local time),36581,5,"5,715","Manly Warringah
+SEA EAGLES",6,12,,"Newcastle
+KNIGHTS",4,18,
+0,NRL 2018,Round 8,"Friday, 27th April, 2018",7:50pm (local time),36582,3,"13,760","Penrith
+PANTHERS",8,22,,"Canterbury Bankstown
+BULLDOGS",12,14,
+0,NRL 2018,Round 8,"Saturday, 28th April, 2018",5:30pm (local time),36583,149,"12,713","Gold Coast
+TITANS",2,9,,"Cronulla Sutherland
+SHARKS",9,10,
+0,NRL 2018,Round 8,"Saturday, 28th April, 2018",7:30pm (local time),36584,14,"14,004","North Queensland
+COWBOYS",6,8,,"Canberra
+RAIDERS",6,18,
+0,NRL 2018,Round 8,"Sunday, 29th April, 2018",4:10pm (local time),36585,20,"17,555","Parramatta
+EELS",12,24,,WESTS TIGERS,10,22,
+0,NRL 2018,Round 9,"Thursday, 3rd May, 2018",7:50pm (local time),36586,1097,"22,225","Brisbane
+BRONCOS",6,22,,"Canterbury Bankstown
+BULLDOGS",14,20,
+0,NRL 2018,Round 9,"Friday, 4th May, 2018",6:00pm (local time),36587,11,"22,718","Newcastle
+KNIGHTS",12,18,,"South Sydney
+RABBITOHS",16,36,
+0,NRL 2018,Round 9,"Friday, 4th May, 2018",7:50pm (local time),36588,108,"10,289","Penrith
+PANTHERS",4,20,,"North Queensland
+COWBOYS",20,26,
+0,NRL 2018,Round 9,"Saturday, 5th May, 2018",3:00pm (local time),36589,4,"11,170","Canberra
+RAIDERS",20,32,,"Gold Coast
+TITANS",0,18,
+0,NRL 2018,Round 9,"Saturday, 5th May, 2018",7:30pm (local time),36590,6,"16,727",WARRIORS,12,26,,WESTS TIGERS,4,4,
+0,NRL 2018,Round 9,"Saturday, 5th May, 2018",7:30pm (local time),36591,9,"12,073","Cronulla Sutherland
+SHARKS",16,22,,"Parramatta
+EELS",4,20,
+0,NRL 2018,Round 9,"Sunday, 6th May, 2018",2:00pm (local time),36592,23,"19,173","St George Illawarra
+DRAGONS",12,34,,"Melbourne
+STORM",4,14,
+0,NRL 2018,Round 9,"Sunday, 6th May, 2018",4:10pm (local time),36593,1,"10,129","Sydney
+ROOSTERS",14,22,,"Manly Warringah
+SEA EAGLES",14,20,
+0,NRL 2018,Round 10,"Thursday, 10th May, 2018",7:50pm (local time),36594,7,"13,127",WESTS TIGERS,8,20,,"North Queensland
+COWBOYS",6,12,
+0,NRL 2018,Round 10,"Friday, 11th May, 2018",6:00pm (local time),36595,11,"14,801","Newcastle
+KNIGHTS",6,18,,"Penrith
+PANTHERS",18,29,
+0,NRL 2018,Round 10,"Friday, 11th May, 2018",7:50pm (local time),36596,20,"15,683","Canterbury Bankstown
+BULLDOGS",10,20,,"Parramatta
+EELS",12,12,
+0,NRL 2018,Round 10,"Saturday, 12th May, 2018",5:00pm (local time),36597,6,"14,095",WARRIORS,0,0,,"Sydney
+ROOSTERS",14,32,
+0,NRL 2018,Round 10,"Saturday, 12th May, 2018",5:30pm (local time),36598,1097,"31,118","Melbourne
+STORM",8,28,,"Gold Coast
+TITANS",14,14,
+0,NRL 2018,Round 10,"Saturday, 12th May, 2018",7:30pm (local time),36599,1097,"31,118","Manly Warringah
+SEA EAGLES",18,38,,"Brisbane
+BRONCOS",14,24,
+0,NRL 2018,Round 10,"Sunday, 13th May, 2018",2:00pm (local time),36600,20,"13,062","South Sydney
+RABBITOHS",12,24,,"St George Illawarra
+DRAGONS",0,10,
+0,NRL 2018,Round 10,"Sunday, 13th May, 2018",4:10pm (local time),36601,4,"11,047","Canberra
+RAIDERS",16,16,,"Cronulla Sutherland
+SHARKS",8,24,
+0,NRL 2018,Round 11,"Thursday, 17th May, 2018",7:50pm (local time),36602,3,"15,081","Penrith
+PANTHERS",12,16,,WESTS TIGERS,2,2,
+0,NRL 2018,Round 11,"Friday, 18th May, 2018",6:00pm (local time),36603,20,"9,467","Parramatta
+EELS",2,14,,WARRIORS,12,24,
+0,NRL 2018,Round 11,"Friday, 18th May, 2018",7:50pm (local time),36604,1097,"29,009","Brisbane
+BRONCOS",10,28,,"Sydney
+ROOSTERS",12,22,
+0,NRL 2018,Round 11,"Saturday, 19th May, 2018",3:00pm (local time),36605,149,"11,008","Gold Coast
+TITANS",12,33,,"Newcastle
+KNIGHTS",8,26,
+0,NRL 2018,Round 11,"Saturday, 19th May, 2018",5:30pm (local time),36606,14,"14,270","North Queensland
+COWBOYS",8,19,,"South Sydney
+RABBITOHS",12,20,
+0,NRL 2018,Round 11,"Saturday, 19th May, 2018",7:30pm (local time),36607,251,"13,172","Melbourne
+STORM",2,4,,"Manly Warringah
+SEA EAGLES",2,24,
+0,NRL 2018,Round 11,"Sunday, 20th May, 2018",2:00pm (local time),36608,432,"8,962","St George Illawarra
+DRAGONS",10,25,,"Canberra
+RAIDERS",10,18,
+0,NRL 2018,Round 11,"Sunday, 20th May, 2018",4:10pm (local time),36609,9,"14,004","Cronulla Sutherland
+SHARKS",10,22,,"Canterbury Bankstown
+BULLDOGS",10,16,
+0,NRL 2018,Round 12,"Thursday, 24th May, 2018",7:50pm (local time),36610,1097,"21,555","Brisbane
+BRONCOS",12,18,,"Parramatta
+EELS",2,10,
+0,NRL 2018,Round 12,"Friday, 25th May, 2018",6:00pm (local time),36611,4,"11,105","Canberra
+RAIDERS",12,21,,"Manly Warringah
+SEA EAGLES",14,20,
+0,NRL 2018,Round 12,"Friday, 25th May, 2018",7:50pm (local time),36612,14,"16,003","North Queensland
+COWBOYS",0,6,,"Melbourne
+STORM",4,7,
+0,NRL 2018,Round 12,"Saturday, 26th May, 2018",3:00pm (local time),36613,26,"10,194","Sydney
+ROOSTERS",6,34,,"Gold Coast
+TITANS",14,14,
+0,NRL 2018,Round 12,"Saturday, 26th May, 2018",7:30pm (local time),36614,6,"15,958",WARRIORS,6,10,,"South Sydney
+RABBITOHS",22,30,
+0,NRL 2018,Round 12,"Saturday, 26th May, 2018",7:30pm (local time),36615,3,"21,565","Penrith
+PANTHERS",8,28,,"St George Illawarra
+DRAGONS",0,2,
+0,NRL 2018,Round 12,"Sunday, 27th May, 2018",2:00pm (local time),36616,11,"20,913","Newcastle
+KNIGHTS",6,10,,"Cronulla Sutherland
+SHARKS",22,48,
+0,NRL 2018,Round 12,"Sunday, 27th May, 2018",4:10pm (local time),36617,20,"18,847",WESTS TIGERS,4,14,,"Canterbury Bankstown
+BULLDOGS",10,10,
+0,NRL 2018,Round 13,"Thursday, 31st May, 2018",7:50pm (local time),36618,5,"6,172","Manly Warringah
+SEA EAGLES",8,12,,"North Queensland
+COWBOYS",16,26,
+0,NRL 2018,Round 13,"Friday, 1st June, 2018",7:50pm (local time),36619,20,"10,410","South Sydney
+RABBITOHS",10,22,,"Cronulla Sutherland
+SHARKS",2,14,
+0,NRL 2018,Round 13,"Saturday, 2nd June, 2018",7:30pm (local time),36620,20,"7,719","Parramatta
+EELS",0,4,,"Newcastle
+KNIGHTS",14,30,
+0,NRL 2018,Round 13,"Sunday, 3rd June, 2018",4:10pm (local time),36621,1,"11,182","Sydney
+ROOSTERS",8,16,,WESTS TIGERS,2,14,
+0,NRL 2018,Round 14,"Friday, 8th June, 2018",6:00pm (local time),36622,4,"7,662","Canberra
+RAIDERS",8,22,,"Penrith
+PANTHERS",8,23,
+0,NRL 2018,Round 14,"Friday, 8th June, 2018",7:50pm (local time),36623,149,"11,833","Gold Coast
+TITANS",10,16,,"South Sydney
+RABBITOHS",10,18,
+0,NRL 2018,Round 14,"Saturday, 9th June, 2018",5:00pm (local time),36624,134,"17,357","Manly Warringah
+SEA EAGLES",8,14,,WARRIORS,12,34,
+0,NRL 2018,Round 14,"Saturday, 9th June, 2018",5:30pm (local time),36625,11,"18,029","Newcastle
+KNIGHTS",8,16,,"Sydney
+ROOSTERS",12,18,
+0,NRL 2018,Round 14,"Saturday, 9th June, 2018",7:30pm (local time),36626,423,"8,393","Parramatta
+EELS",4,20,,"North Queensland
+COWBOYS",4,14,
+0,NRL 2018,Round 14,"Sunday, 10th June, 2018",2:00pm (local time),36627,9,"13,093","Cronulla Sutherland
+SHARKS",2,24,,WESTS TIGERS,10,16,
+0,NRL 2018,Round 14,"Sunday, 10th June, 2018",4:10pm (local time),36628,251,"17,106","Melbourne
+STORM",8,32,,"Brisbane
+BRONCOS",12,16,
+0,NRL 2018,Round 14,"Monday, 11th June, 2018",4:00pm (local time),36629,20,"21,376","Canterbury Bankstown
+BULLDOGS",6,16,,"St George Illawarra
+DRAGONS",14,18,
+0,NRL 2018,Round 15,"Thursday, 14th June, 2018",7:50pm (local time),36630,20,"8,047","Parramatta
+EELS",14,24,,"South Sydney
+RABBITOHS",16,42,
+0,NRL 2018,Round 15,"Friday, 15th June, 2018",6:00pm (local time),36631,14,"11,062","North Queensland
+COWBOYS",8,16,,WARRIORS,18,23,
+0,NRL 2018,Round 15,"Friday, 15th June, 2018",7:50pm (local time),36632,1,"10,078","Sydney
+ROOSTERS",20,32,,"Penrith
+PANTHERS",6,6,
+0,NRL 2018,Round 15,"Saturday, 16th June, 2018",3:00pm (local time),36633,27,"6,874","Canterbury Bankstown
+BULLDOGS",4,10,,"Gold Coast
+TITANS",22,32,
+0,NRL 2018,Round 15,"Saturday, 16th June, 2018",5:30pm (local time),36634,21,"13,069","St George Illawarra
+DRAGONS",16,32,,"Manly Warringah
+SEA EAGLES",8,8,
+0,NRL 2018,Round 15,"Saturday, 16th June, 2018",7:30pm (local time),36635,9,"14,587","Cronulla Sutherland
+SHARKS",4,16,,"Brisbane
+BRONCOS",14,20,
+0,NRL 2018,Round 15,"Sunday, 17th June, 2018",2:00pm (local time),36636,11,"14,803","Newcastle
+KNIGHTS",6,10,,"Melbourne
+STORM",14,28,
+0,NRL 2018,Round 15,"Sunday, 17th June, 2018",4:10pm (local time),36637,19,"10,237",WESTS TIGERS,12,12,,"Canberra
+RAIDERS",10,48,
+0,NRL 2018,Round 16,"Thursday, 28th June, 2018",7:50pm (local time),36638,21,"6,933","St George Illawarra
+DRAGONS",8,20,,"Parramatta
+EELS",12,18,
+0,NRL 2018,Round 16,"Friday, 29th June, 2018",8:00pm (local time),36639,6,"14,195",WARRIORS,12,15,,"Cronulla Sutherland
+SHARKS",12,18,
+0,NRL 2018,Round 16,"Friday, 29th June, 2018",7:50pm (local time),36640,33,"17,728","Sydney
+ROOSTERS",2,8,,"Melbourne
+STORM",2,9,
+0,NRL 2018,Round 16,"Saturday, 30th June, 2018",3:00pm (local time),36641,3,"12,755","Penrith
+PANTHERS",8,10,,"Manly Warringah
+SEA EAGLES",6,18,
+0,NRL 2018,Round 16,"Saturday, 30th June, 2018",5:30pm (local time),36642,11,"17,755","Newcastle
+KNIGHTS",16,16,,"Canterbury Bankstown
+BULLDOGS",12,36,
+0,NRL 2018,Round 16,"Saturday, 30th June, 2018",7:30pm (local time),36643,1097,"30,495","Brisbane
+BRONCOS",0,26,,"Canberra
+RAIDERS",16,22,
+0,NRL 2018,Round 16,"Sunday, 1st July, 2018",2:00pm (local time),36644,7,"16,984",WESTS TIGERS,12,12,,"Gold Coast
+TITANS",12,30,
+0,NRL 2018,Round 16,"Sunday, 1st July, 2018",4:10pm (local time),36645,393,"7,651","South Sydney
+RABBITOHS",12,21,,"North Queensland
+COWBOYS",14,20,
+0,NRL 2018,Round 17,"Thursday, 5th July, 2018",7:50pm (local time),36646,251,"12,167","Melbourne
+STORM",22,52,,"St George Illawarra
+DRAGONS",18,30,
+0,NRL 2018,Round 17,"Friday, 6th July, 2018",7:50pm (local time),36647,3,"10,255","Penrith
+PANTHERS",12,36,,WARRIORS,0,4,
+0,NRL 2018,Round 17,"Saturday, 7th July, 2018",7:30pm (local time),36648,27,"10,145","Canterbury Bankstown
+BULLDOGS",8,28,,"Canberra
+RAIDERS",10,32,
+0,NRL 2018,Round 17,"Sunday, 8th July, 2018",4:10pm (local time),36649,149,"18,005","Gold Coast
+TITANS",0,0,,"Brisbane
+BRONCOS",20,34,
+0,NRL 2018,Round 18,"Friday, 13th July, 2018",6:00pm (local time),36650,3,"11,742","Penrith
+PANTHERS",2,12,,"Cronulla Sutherland
+SHARKS",12,24,
+0,NRL 2018,Round 18,"Friday, 13th July, 2018",7:50pm (local time),36651,11,"15,860","Newcastle
+KNIGHTS",10,18,,"Parramatta
+EELS",10,16,
+0,NRL 2018,Round 18,"Saturday, 14th July, 2018",3:00pm (local time),36652,20,"14,278","Canterbury Bankstown
+BULLDOGS",2,6,,"South Sydney
+RABBITOHS",12,24,
+0,NRL 2018,Round 18,"Saturday, 14th July, 2018",5:30pm (local time),36653,5,"9,277","Manly Warringah
+SEA EAGLES",13,13,,"Melbourne
+STORM",6,14,
+0,NRL 2018,Round 18,"Saturday, 14th July, 2018",7:30pm (local time),36654,4,"11,471","Canberra
+RAIDERS",14,38,,"North Queensland
+COWBOYS",12,12,
+0,NRL 2018,Round 18,"Sunday, 15th July, 2018",2:00pm (local time),36655,1097,"37,493","Brisbane
+BRONCOS",0,6,,WARRIORS,16,26,
+0,NRL 2018,Round 18,"Sunday, 15th July, 2018",4:10pm (local time),36656,23,"15,992","St George Illawarra
+DRAGONS",6,16,,WESTS TIGERS,6,20,
+0,NRL 2018,Round 18,"Sunday, 15th July, 2018",6:30pm (local time),36657,149,"10,074","Gold Coast
+TITANS",6,12,,"Sydney
+ROOSTERS",14,20,
+0,NRL 2018,Round 19,"Thursday, 19th July, 2018",7:50pm (local time),36658,20,"8,437","Parramatta
+EELS",6,14,,"Canterbury Bankstown
+BULLDOGS",6,8,
+0,NRL 2018,Round 19,"Friday, 20th July, 2018",6:00pm (local time),36659,9,"10,016","Cronulla Sutherland
+SHARKS",22,28,,"Canberra
+RAIDERS",6,24,
+0,NRL 2018,Round 19,"Friday, 20th July, 2018",7:50pm (local time),36660,1097,"26,357","Brisbane
+BRONCOS",32,50,,"Penrith
+PANTHERS",0,18,
+0,NRL 2018,Round 19,"Saturday, 21st July, 2018",3:00pm (local time),36661,11,"14,095","Newcastle
+KNIGHTS",10,30,,"Gold Coast
+TITANS",12,24,
+0,NRL 2018,Round 19,"Saturday, 21st July, 2018",5:30pm (local time),36662,20,"25,963",WESTS TIGERS,10,22,,"South Sydney
+RABBITOHS",0,6,
+0,NRL 2018,Round 19,"Saturday, 21st July, 2018",7:30pm (local time),36663,14,"18,068","North Queensland
+COWBOYS",10,10,,"St George Illawarra
+DRAGONS",18,24,
+0,NRL 2018,Round 19,"Sunday, 22nd July, 2018",4:00pm (local time),36664,6,"17,695",WARRIORS,6,6,,"Melbourne
+STORM",8,12,
+0,NRL 2018,Round 19,"Sunday, 22nd July, 2018",4:10pm (local time),36665,5,"9,427","Manly Warringah
+SEA EAGLES",6,24,,"Sydney
+ROOSTERS",34,56,
+0,NRL 2018,Round 20,"Thursday, 26th July, 2018",7:50pm (local time),36666,1097,"22,859","Brisbane
+BRONCOS",10,12,,"Cronulla Sutherland
+SHARKS",6,10,
+0,NRL 2018,Round 20,"Friday, 27th July, 2018",6:00pm (local time),36667,14,"11,709","North Queensland
+COWBOYS",6,20,,"Newcastle
+KNIGHTS",18,18,
+0,NRL 2018,Round 20,"Friday, 27th July, 2018",7:50pm (local time),36668,20,"9,865","Canterbury Bankstown
+BULLDOGS",6,16,,WESTS TIGERS,0,4,
+0,NRL 2018,Round 20,"Saturday, 28th July, 2018",3:00pm (local time),36669,5,"6,134","Manly Warringah
+SEA EAGLES",8,24,,"Penrith
+PANTHERS",6,28,
+0,NRL 2018,Round 20,"Saturday, 28th July, 2018",5:30pm (local time),36670,20,"15,542","South Sydney
+RABBITOHS",6,26,,"Parramatta
+EELS",18,20,
+0,NRL 2018,Round 20,"Saturday, 28th July, 2018",7:30pm (local time),36671,251,"15,298","Melbourne
+STORM",24,44,,"Canberra
+RAIDERS",4,10,
+0,NRL 2018,Round 20,"Sunday, 29th July, 2018",2:00pm (local time),36672,149,"15,149","Gold Coast
+TITANS",8,36,,WARRIORS,12,12,
+0,NRL 2018,Round 20,"Sunday, 29th July, 2018",4:10pm (local time),36673,1,"19,878","Sydney
+ROOSTERS",16,36,,"St George Illawarra
+DRAGONS",6,18,
+0,NRL 2018,Round 21,"Thursday, 2nd August, 2018",7:50pm (local time),36674,20,"6,434","Canterbury Bankstown
+BULLDOGS",16,36,,"Brisbane
+BRONCOS",12,22,
+0,NRL 2018,Round 21,"Friday, 3rd August, 2018",6:00pm (local time),36675,11,"18,561","Newcastle
+KNIGHTS",4,16,,WESTS TIGERS,16,25,
+0,NRL 2018,Round 21,"Friday, 3rd August, 2018",7:50pm (local time),36676,20,"15,132","South Sydney
+RABBITOHS",12,30,,"Melbourne
+STORM",16,20,
+0,NRL 2018,Round 21,"Saturday, 4th August, 2018",3:00pm (local time),36677,21,"13,924","St George Illawarra
+DRAGONS",0,12,,WARRIORS,18,18,
+0,NRL 2018,Round 21,"Saturday, 4th August, 2018",5:30pm (local time),36678,20,"6,158","Parramatta
+EELS",22,28,,"Gold Coast
+TITANS",8,12,
+0,NRL 2018,Round 21,"Saturday, 4th August, 2018",7:30pm (local time),36679,1,"9,721","Sydney
+ROOSTERS",16,26,,"North Queensland
+COWBOYS",8,20,
+0,NRL 2018,Round 21,"Sunday, 5th August, 2018",2:00pm (local time),36680,9,"13,273","Cronulla Sutherland
+SHARKS",18,32,,"Manly Warringah
+SEA EAGLES",20,33,
+0,NRL 2018,Round 21,"Sunday, 5th August, 2018",4:10pm (local time),36681,3,"12,915","Penrith
+PANTHERS",12,40,,"Canberra
+RAIDERS",26,31,
+0,NRL 2018,Round 22,"Thursday, 9th August, 2018",7:50pm (local time),36682,14,"19,663","North Queensland
+COWBOYS",18,34,,"Brisbane
+BRONCOS",16,30,
+0,NRL 2018,Round 22,"Friday, 10th August, 2018",8:00pm (local time),36683,6,"14,395",WARRIORS,12,20,,"Newcastle
+KNIGHTS",4,4,
+0,NRL 2018,Round 22,"Friday, 10th August, 2018",7:50pm (local time),36684,20,"26,331","South Sydney
+RABBITOHS",8,14,,"Sydney
+ROOSTERS",10,18,
+0,NRL 2018,Round 22,"Saturday, 11th August, 2018",3:00pm (local time),36685,149,"11,283","Gold Coast
+TITANS",6,16,,"Penrith
+PANTHERS",6,17,
+0,NRL 2018,Round 22,"Saturday, 11th August, 2018",5:30pm (local time),36686,5,"7,846","Manly Warringah
+SEA EAGLES",4,18,,"Canterbury Bankstown
+BULLDOGS",6,6,
+0,NRL 2018,Round 22,"Saturday, 11th August, 2018",7:30pm (local time),36687,20,"10,541","Parramatta
+EELS",22,40,,"St George Illawarra
+DRAGONS",0,4,
+0,NRL 2018,Round 22,"Sunday, 12th August, 2018",2:00pm (local time),36688,4,"14,583","Canberra
+RAIDERS",10,20,,WESTS TIGERS,20,22,
+0,NRL 2018,Round 22,"Sunday, 12th August, 2018",4:10pm (local time),36689,251,"16,709","Melbourne
+STORM",4,14,,"Cronulla Sutherland
+SHARKS",13,17,
+0,NRL 2018,Round 23,"Thursday, 16th August, 2018",7:50pm (local time),36690,1097,"29,241","Brisbane
+BRONCOS",18,38,,"South Sydney
+RABBITOHS",8,18,
+0,NRL 2018,Round 23,"Friday, 17th August, 2018",6:00pm (local time),36691,5,"6,382","Manly Warringah
+SEA EAGLES",22,34,,"Gold Coast
+TITANS",10,42,
+0,NRL 2018,Round 23,"Friday, 17th August, 2018",7:50pm (local time),36692,251,"12,136","Melbourne
+STORM",10,20,,"Parramatta
+EELS",0,4,
+0,NRL 2018,Round 23,"Saturday, 18th August, 2018",3:00pm (local time),36693,3,"14,125","Penrith
+PANTHERS",6,12,,"Newcastle
+KNIGHTS",14,20,
+0,NRL 2018,Round 23,"Saturday, 18th August, 2018",5:30pm (local time),36694,7,"18,387",WESTS TIGERS,0,10,,"St George Illawarra
+DRAGONS",6,20,
+0,NRL 2018,Round 23,"Saturday, 18th August, 2018",7:30pm (local time),36695,9,"12,270","Cronulla Sutherland
+SHARKS",6,28,,"North Queensland
+COWBOYS",6,16,
+0,NRL 2018,Round 23,"Sunday, 19th August, 2018",2:00pm (local time),36696,20,"9,688","Canterbury Bankstown
+BULLDOGS",20,27,,WARRIORS,12,26,
+0,NRL 2018,Round 23,"Sunday, 19th August, 2018",4:10pm (local time),36697,4,"10,594","Canberra
+RAIDERS",12,14,,"Sydney
+ROOSTERS",0,12,
+0,NRL 2018,Round 24,"Thursday, 23rd August, 2018",7:50pm (local time),36698,19,"8,163",WESTS TIGERS,6,22,,"Manly Warringah
+SEA EAGLES",8,20,
+0,NRL 2018,Round 24,"Friday, 24th August, 2018",8:00pm (local time),36699,6,"17,195",WARRIORS,18,36,,"Penrith
+PANTHERS",4,16,
+0,NRL 2018,Round 24,"Friday, 24th August, 2018",7:50pm (local time),36700,14,"25,095","North Queensland
+COWBOYS",32,44,,"Parramatta
+EELS",0,6,
+0,NRL 2018,Round 24,"Saturday, 25th August, 2018",3:00pm (local time),36701,4,"15,990","Canberra
+RAIDERS",4,24,,"South Sydney
+RABBITOHS",12,12,
+0,NRL 2018,Round 24,"Saturday, 25th August, 2018",5:30pm (local time),36702,149,"14,266","Gold Coast
+TITANS",8,8,,"Melbourne
+STORM",0,10,
+0,NRL 2018,Round 24,"Saturday, 25th August, 2018",7:30pm (local time),36703,1,"13,263","Sydney
+ROOSTERS",8,8,,"Brisbane
+BRONCOS",20,22,
+0,NRL 2018,Round 24,"Sunday, 26th August, 2018",2:00pm (local time),36704,9,"11,836","Cronulla Sutherland
+SHARKS",14,38,,"Newcastle
+KNIGHTS",6,12,
+0,NRL 2018,Round 24,"Sunday, 26th August, 2018",4:10pm (local time),36705,23,"12,436","St George Illawarra
+DRAGONS",0,0,,"Canterbury Bankstown
+BULLDOGS",18,38,
+0,NRL 2018,Round 25,"Thursday, 30th August, 2018",7:50pm (local time),36706,20,"12,037","South Sydney
+RABBITOHS",22,51,,WESTS TIGERS,10,10,
+0,NRL 2018,Round 25,"Friday, 31st August, 2018",8:00pm (local time),36707,6,"24,595",WARRIORS,8,20,,"Canberra
+RAIDERS",8,16,
+0,NRL 2018,Round 25,"Friday, 31st August, 2018",7:50pm (local time),36708,251,"20,637","Melbourne
+STORM",10,16,,"Penrith
+PANTHERS",6,22,
+0,NRL 2018,Round 25,"Saturday, 1st September, 2018",3:00pm (local time),36709,11,"24,662","Newcastle
+KNIGHTS",10,14,,"St George Illawarra
+DRAGONS",2,24,
+0,NRL 2018,Round 25,"Saturday, 1st September, 2018",5:30pm (local time),36710,149,"26,681","Gold Coast
+TITANS",18,26,,"North Queensland
+COWBOYS",6,30,
+0,NRL 2018,Round 25,"Saturday, 1st September, 2018",7:30pm (local time),36711,20,"11,543","Parramatta
+EELS",6,10,,"Sydney
+ROOSTERS",14,44,
+0,NRL 2018,Round 25,"Sunday, 2nd September, 2018",2:00pm (local time),36712,20,"14,189","Canterbury Bankstown
+BULLDOGS",12,18,,"Cronulla Sutherland
+SHARKS",20,30,
+0,NRL 2018,Round 25,"Sunday, 2nd September, 2018",4:10pm (local time),36713,1097,"41,538","Brisbane
+BRONCOS",20,48,,"Manly Warringah
+SEA EAGLES",10,16,
+0,NRL 2018,Qualif Final,"Friday, 7th September, 2018",7:50pm (local time),38339,251,"17,306","Melbourne
+STORM",16,29,,"South Sydney
+RABBITOHS",12,28,
+0,NRL 2018,Qualif Final,"Saturday, 8th September, 2018",5:30pm (local time),38340,20,"17,168","Penrith
+PANTHERS",18,27,,WARRIORS,12,12,
+0,NRL 2018,Qualif Final,"Saturday, 8th September, 2018",7:45pm (local time),38341,1,"24,588","Sydney
+ROOSTERS",10,21,,"Cronulla Sutherland
+SHARKS",6,12,
+0,NRL 2018,Qualif Final,"Sunday, 9th September, 2018",4:10pm (local time),38342,1097,"47,296","Brisbane
+BRONCOS",10,18,,"St George Illawarra
+DRAGONS",28,48,
+0,NRL 2018,Semi Final,"Friday, 14th September, 2018",7:40pm (local time),38343,1,"19,211","Cronulla Sutherland
+SHARKS",18,21,,"Penrith
+PANTHERS",2,20,
+0,NRL 2018,Semi Final,"Saturday, 15th September, 2018",7:40pm (local time),38344,20,"48,188","South Sydney
+RABBITOHS",2,13,,"St George Illawarra
+DRAGONS",8,12,
+0,NRL 2018,Prelim Final,"Friday, 21st September, 2018",7:40pm (local time),38345,251,"26,621","Melbourne
+STORM",20,22,,"Cronulla Sutherland
+SHARKS",0,6,
+0,NRL 2018,Prelim Final,"Saturday, 22nd September, 2018",7:40pm (local time),38346,1,"44,380","Sydney
+ROOSTERS",4,12,,"South Sydney
+RABBITOHS",4,4,
+0,NRL 2018,Grand Final,"Sunday, 30th September, 2018",7:20pm (local time),38347,20,"82,688","Sydney
+ROOSTERS",18,21,,"Melbourne
+STORM",0,6,

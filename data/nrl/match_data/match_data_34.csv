@@ -1,0 +1,123 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1942,Round 1,"Saturday, 2nd May, 1942",3:15pm (local time),10147,24,"7,000","Balmain
+TIGERS",6,19,,NEWTOWN,10,10,
+0,NSWRFL 1942,Round 1,"Saturday, 2nd May, 1942",3:15pm (local time),10148,109,"7,312",EASTERN SUBURBS,5,14,,"South Sydney
+RABBITOHS",12,18,
+0,NSWRFL 1942,Round 1,"Saturday, 2nd May, 1942",3:15pm (local time),10149,25,"5,000",NORTH SYDNEY,10,14,,CANTERBURY BANKSTOWN,7,15,
+0,NSWRFL 1942,Round 1,"Saturday, 2nd May, 1942",3:15pm (local time),10146,157,"5,000","St George
+DRAGONS",12,24,,"Western Suburbs
+MAGPIES",13,15,
+0,NSWRFL 1942,Round 2,"Saturday, 9th May, 1942",3:15pm (local time),10151,24,"5,600",CANTERBURY BANKSTOWN,0,8,,"St George
+DRAGONS",3,7,
+0,NSWRFL 1942,Round 2,"Saturday, 9th May, 1942",3:15pm (local time),10153,109,"6,125",EASTERN SUBURBS,7,9,,"Balmain
+TIGERS",5,13,
+0,NSWRFL 1942,Round 2,"Saturday, 9th May, 1942",3:15pm (local time),10150,76,"4,000",NEWTOWN,7,7,,NORTH SYDNEY,8,18,
+0,NSWRFL 1942,Round 2,"Saturday, 9th May, 1942",3:15pm (local time),10152,164,"3,000","Western Suburbs
+MAGPIES",3,9,,"South Sydney
+RABBITOHS",7,18,
+0,NSWRFL 1942,Round 3,"Saturday, 16th May, 1942",3:15pm (local time),10154,150,"3,870","Balmain
+TIGERS",6,24,,"Western Suburbs
+MAGPIES",7,12,
+0,NSWRFL 1942,Round 3,"Saturday, 16th May, 1942",3:15pm (local time),10156,76,"5,233",NEWTOWN,7,12,,CANTERBURY BANKSTOWN,8,22,
+0,NSWRFL 1942,Round 3,"Saturday, 16th May, 1942",3:15pm (local time),10157,25,"4,150",NORTH SYDNEY,7,30,,EASTERN SUBURBS,2,7,
+0,NSWRFL 1942,Round 3,"Saturday, 16th May, 1942",3:15pm (local time),10155,24,"14,155","South Sydney
+RABBITOHS",6,11,,"St George
+DRAGONS",9,13,
+0,NSWRFL 1942,Round 4,"Saturday, 23rd May, 1942",3:15pm (local time),10158,24,"14,039",CANTERBURY BANKSTOWN,21,26,,"South Sydney
+RABBITOHS",0,18,
+0,NSWRFL 1942,Round 4,"Saturday, 23rd May, 1942",3:15pm (local time),10159,109,"3,300",EASTERN SUBURBS,20,31,,NEWTOWN,5,5,
+0,NSWRFL 1942,Round 4,"Saturday, 23rd May, 1942",3:15pm (local time),10161,157,"8,325","St George
+DRAGONS",6,23,,"Balmain
+TIGERS",8,8,
+0,NSWRFL 1942,Round 4,"Saturday, 23rd May, 1942",3:15pm (local time),10160,164,"4,750","Western Suburbs
+MAGPIES",6,8,,NORTH SYDNEY,9,24,
+0,NSWRFL 1942,Round 5,"Saturday, 30th May, 1942",3:15pm (local time),10164,27,"6,250",CANTERBURY BANKSTOWN,10,16,,EASTERN SUBURBS,7,17,
+0,NSWRFL 1942,Round 5,"Saturday, 30th May, 1942",3:15pm (local time),10162,76,"2,100",NEWTOWN,10,25,,"Western Suburbs
+MAGPIES",0,0,
+0,NSWRFL 1942,Round 5,"Saturday, 30th May, 1942",3:15pm (local time),10163,24,"17,930",NORTH SYDNEY,8,23,,"St George
+DRAGONS",10,24,
+0,NSWRFL 1942,Round 5,"Saturday, 30th May, 1942",3:15pm (local time),10165,109,"6,200","South Sydney
+RABBITOHS",5,12,,"Balmain
+TIGERS",8,19,
+0,NSWRFL 1942,Round 6,"Saturday, 6th June, 1942",3:15pm (local time),10166,24,"15,688","Balmain
+TIGERS",0,11,,CANTERBURY BANKSTOWN,7,26,
+0,NSWRFL 1942,Round 6,"Saturday, 6th June, 1942",3:15pm (local time),10167,157,"5,000","St George
+DRAGONS",9,26,,NEWTOWN,10,15,
+0,NSWRFL 1942,Round 6,"Saturday, 6th June, 1942",3:15pm (local time),10168,109,"6,900","South Sydney
+RABBITOHS",2,2,,NORTH SYDNEY,10,12,
+0,NSWRFL 1942,Round 6,"Saturday, 6th June, 1942",3:15pm (local time),10169,164,"3,100","Western Suburbs
+MAGPIES",3,16,,EASTERN SUBURBS,2,7,
+0,NSWRFL 1942,Round 7,"Saturday, 13th June, 1942",3:15pm (local time),10171,27,"6,000",CANTERBURY BANKSTOWN,5,21,,"Western Suburbs
+MAGPIES",8,14,
+0,NSWRFL 1942,Round 7,"Saturday, 13th June, 1942",3:15pm (local time),10172,109,"5,750",EASTERN SUBURBS,3,9,,"St George
+DRAGONS",12,17,
+0,NSWRFL 1942,Round 7,"Saturday, 13th June, 1942",3:15pm (local time),10170,76,"2,470",NEWTOWN,5,10,,"South Sydney
+RABBITOHS",13,29,
+0,NSWRFL 1942,Round 7,"Saturday, 13th June, 1942",3:15pm (local time),10173,24,"15,400",NORTH SYDNEY,5,17,,"Balmain
+TIGERS",7,10,
+0,NSWRFL 1942,Round 8,"Saturday, 20th June, 1942",3:15pm (local time),10174,24,"18,608",CANTERBURY BANKSTOWN,5,17,,NORTH SYDNEY,5,10,
+0,NSWRFL 1942,Round 8,"Saturday, 20th June, 1942",3:15pm (local time),10176,76,"2,800",NEWTOWN,13,13,,"Balmain
+TIGERS",4,16,
+0,NSWRFL 1942,Round 8,"Saturday, 20th June, 1942",3:15pm (local time),10177,109,"2,800","South Sydney
+RABBITOHS",5,15,,EASTERN SUBURBS,7,22,
+0,NSWRFL 1942,Round 8,"Saturday, 20th June, 1942",3:15pm (local time),10175,164,"5,000","Western Suburbs
+MAGPIES",10,17,,"St George
+DRAGONS",11,26,
+0,NSWRFL 1942,Round 9,"Saturday, 27th June, 1942",3:15pm (local time),10179,150,"3,000","Balmain
+TIGERS",0,10,,EASTERN SUBURBS,11,14,
+0,NSWRFL 1942,Round 9,"Saturday, 27th June, 1942",3:15pm (local time),10180,25,"6,000",NORTH SYDNEY,10,18,,NEWTOWN,7,19,
+0,NSWRFL 1942,Round 9,"Saturday, 27th June, 1942",3:15pm (local time),10181,24,"27,052","St George
+DRAGONS",5,5,,CANTERBURY BANKSTOWN,7,19,
+0,NSWRFL 1942,Round 9,"Saturday, 27th June, 1942",3:15pm (local time),10178,109,"1,600","South Sydney
+RABBITOHS",6,18,,"Western Suburbs
+MAGPIES",6,8,
+0,NSWRFL 1942,Round 10,"Saturday, 11th July, 1942",3:15pm (local time),10183,27,"4,500",CANTERBURY BANKSTOWN,17,28,,NEWTOWN,0,5,
+0,NSWRFL 1942,Round 10,"Saturday, 11th July, 1942",3:15pm (local time),10184,24,"9,800",EASTERN SUBURBS,10,12,,NORTH SYDNEY,2,9,
+0,NSWRFL 1942,Round 10,"Saturday, 11th July, 1942",3:15pm (local time),10182,157,"4,000","St George
+DRAGONS",3,6,,"South Sydney
+RABBITOHS",9,9,
+0,NSWRFL 1942,Round 10,"Saturday, 11th July, 1942",3:15pm (local time),10185,164,"2,000","Western Suburbs
+MAGPIES",3,8,,"Balmain
+TIGERS",12,20,
+0,NSWRFL 1942,Round 11,"Saturday, 18th July, 1942",3:15pm (local time),10187,150,"3,800","Balmain
+TIGERS",9,29,,"St George
+DRAGONS",15,24,
+0,NSWRFL 1942,Round 11,"Saturday, 18th July, 1942",3:15pm (local time),10189,76,"2,000",NEWTOWN,4,15,,EASTERN SUBURBS,13,18,
+0,NSWRFL 1942,Round 11,"Saturday, 18th July, 1942",3:15pm (local time),10186,25,"4,200",NORTH SYDNEY,5,12,,"Western Suburbs
+MAGPIES",11,14,
+0,NSWRFL 1942,Round 11,"Saturday, 18th July, 1942",3:15pm (local time),10188,24,"15,463","South Sydney
+RABBITOHS",6,14,,CANTERBURY BANKSTOWN,7,12,
+0,NSWRFL 1942,Round 12,"Saturday, 25th July, 1942",3:15pm (local time),10190,24,"14,100","Balmain
+TIGERS",5,13,,"South Sydney
+RABBITOHS",3,9,
+0,NSWRFL 1942,Round 12,"Saturday, 25th July, 1942",3:15pm (local time),10193,109,"7,000",EASTERN SUBURBS,14,21,,CANTERBURY BANKSTOWN,14,16,
+0,NSWRFL 1942,Round 12,"Saturday, 25th July, 1942",3:15pm (local time),10192,157,"4,000","St George
+DRAGONS",16,44,,NORTH SYDNEY,14,17,
+0,NSWRFL 1942,Round 12,"Saturday, 25th July, 1942",3:15pm (local time),10191,164,"2,250","Western Suburbs
+MAGPIES",4,14,,NEWTOWN,10,24,
+0,NSWRFL 1942,Round 13,"Saturday, 1st August, 1942",3:15pm (local time),10197,24,"18,549",CANTERBURY BANKSTOWN,2,10,,"Balmain
+TIGERS",3,14,
+0,NSWRFL 1942,Round 13,"Saturday, 1st August, 1942",3:15pm (local time),10196,109,"2,000",EASTERN SUBURBS,10,20,,"Western Suburbs
+MAGPIES",10,13,
+0,NSWRFL 1942,Round 13,"Saturday, 1st August, 1942",3:15pm (local time),10194,76,"4,300",NEWTOWN,5,13,,"St George
+DRAGONS",8,11,
+0,NSWRFL 1942,Round 13,"Saturday, 1st August, 1942",3:15pm (local time),10195,25,"4,656",NORTH SYDNEY,8,11,,"South Sydney
+RABBITOHS",10,20,
+0,NSWRFL 1942,Round 14,"Saturday, 8th August, 1942",3:15pm (local time),10198,150,"4,000","Balmain
+TIGERS",9,17,,NORTH SYDNEY,0,5,
+0,NSWRFL 1942,Round 14,"Saturday, 8th August, 1942",3:15pm (local time),10201,24,"16,300","St George
+DRAGONS",11,21,,EASTERN SUBURBS,2,12,
+0,NSWRFL 1942,Round 14,"Saturday, 8th August, 1942",3:15pm (local time),10199,109,"4,000","South Sydney
+RABBITOHS",2,16,,NEWTOWN,9,16,
+0,NSWRFL 1942,Round 14,"Saturday, 8th August, 1942",3:15pm (local time),10200,164,"3,000","Western Suburbs
+MAGPIES",0,0,,CANTERBURY BANKSTOWN,10,28,
+0,NSWRFL 1942,Playoff,"Saturday, 15th August, 1942",3:15pm (local time),10202,24,"17,247",CANTERBURY BANKSTOWN,8,26,,"Balmain
+TIGERS",10,20,
+0,NSWRFL 1942,Semi Final,"Saturday, 22nd August, 1942",3:15pm (local time),10203,24,"26,467","St George
+DRAGONS",15,25,,CANTERBURY BANKSTOWN,2,10,
+0,NSWRFL 1942,Semi Final,"Saturday, 29th August, 1942",3:15pm (local time),10204,24,"19,782",EASTERN SUBURBS,10,20,,"Balmain
+TIGERS",8,14,
+0,NSWRFL 1942,Final,"Saturday, 5th September, 1942",3:15pm (local time),10205,24,"30,858","St George
+DRAGONS",5,18,,EASTERN SUBURBS,3,5,
+0,NSWRFL 1942,Grand Final Chall.,"Saturday, 12th September, 1942",3:15pm (local time),10206,24,"26,171",CANTERBURY BANKSTOWN,7,11,,"St George
+DRAGONS",7,9,

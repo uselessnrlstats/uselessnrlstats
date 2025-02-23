@@ -1,0 +1,102 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1916,Round 1,"Saturday, 6th May, 1916",3:15pm (local time),8599,103,"6,000","Balmain
+TIGERS",2,12,,GLEBE,2,2,
+0,NSWRFL 1916,Round 1,"Saturday, 6th May, 1916",3:15pm (local time),8600,105,"1,000",EASTERN SUBURBS,2,5,,ANNANDALE,2,2,
+0,NSWRFL 1916,Round 1,"Saturday, 6th May, 1916",3:15pm (local time),8598,155,"4,000",NEWTOWN,0,0,,"South Sydney
+RABBITOHS",3,20,
+0,NSWRFL 1916,Round 1,"Saturday, 6th May, 1916",3:15pm (local time),8601,164,"3,000","Western Suburbs
+MAGPIES",0,6,,NORTH SYDNEY,4,9,
+0,NSWRFL 1916,Round 2,"Saturday, 13th May, 1916",3:15pm (local time),8602,105,"1,000",GLEBE,6,16,,ANNANDALE,5,5,
+0,NSWRFL 1916,Round 2,"Saturday, 13th May, 1916",3:15pm (local time),8605,24,"4,000",NEWTOWN,7,11,,EASTERN SUBURBS,0,5,
+0,NSWRFL 1916,Round 2,"Saturday, 13th May, 1916",3:15pm (local time),8603,103,"3,000","South Sydney
+RABBITOHS",3,11,,NORTH SYDNEY,2,7,
+0,NSWRFL 1916,Round 2,"Saturday, 13th May, 1916",3:15pm (local time),8604,150,"4,000","Western Suburbs
+MAGPIES",0,10,,"Balmain
+TIGERS",14,19,
+0,NSWRFL 1916,Round 3,"Saturday, 20th May, 1916",3:15pm (local time),8607,105,"3,000","Balmain
+TIGERS",3,11,,ANNANDALE,0,0,
+0,NSWRFL 1916,Round 3,"Saturday, 20th May, 1916",3:15pm (local time),8608,103,"3,500",NEWTOWN,3,5,,GLEBE,5,9,
+0,NSWRFL 1916,Round 3,"Saturday, 20th May, 1916",3:15pm (local time),8606,109,"2,000",NORTH SYDNEY,6,6,,EASTERN SUBURBS,2,4,
+0,NSWRFL 1916,Round 3,"Saturday, 20th May, 1916",3:15pm (local time),8609,155,"3,000","Western Suburbs
+MAGPIES",5,5,,"South Sydney
+RABBITOHS",5,13,
+0,NSWRFL 1916,Round 4,"Saturday, 27th May, 1916",3:15pm (local time),8610,164,300,ANNANDALE,8,8,,"Western Suburbs
+MAGPIES",3,3,
+0,NSWRFL 1916,Round 4,"Saturday, 27th May, 1916",3:15pm (local time),8612,24,"3,000","Balmain
+TIGERS",2,7,,NEWTOWN,6,8,
+0,NSWRFL 1916,Round 4,"Saturday, 27th May, 1916",3:15pm (local time),8613,103,"3,000",EASTERN SUBURBS,7,7,,"South Sydney
+RABBITOHS",3,9,
+0,NSWRFL 1916,Round 4,"Saturday, 27th May, 1916",3:15pm (local time),8611,105,"3,000",GLEBE,9,12,,NORTH SYDNEY,2,5,
+0,NSWRFL 1916,Round 5,"Saturday, 3rd June, 1916",3:15pm (local time),8615,105,"2,000",NEWTOWN,10,26,,ANNANDALE,0,6,
+0,NSWRFL 1916,Round 5,"Saturday, 3rd June, 1916",3:15pm (local time),8614,150,"2,000",NORTH SYDNEY,2,2,,"Balmain
+TIGERS",8,17,
+0,NSWRFL 1916,Round 5,"Saturday, 3rd June, 1916",3:15pm (local time),8616,103,"6,000","South Sydney
+RABBITOHS",0,10,,GLEBE,2,2,
+0,NSWRFL 1916,Round 5,"Saturday, 3rd June, 1916",3:15pm (local time),8617,164,"1,500","Western Suburbs
+MAGPIES",5,5,,EASTERN SUBURBS,7,12,
+0,NSWRFL 1916,Round 6,"Monday, 5th June, 1916",3:15pm (local time),8621,103,"1,500",GLEBE,2,2,,EASTERN SUBURBS,2,2,
+0,NSWRFL 1916,Round 6,"Monday, 5th June, 1916",3:15pm (local time),8619,155,500,NEWTOWN,2,2,,"Western Suburbs
+MAGPIES",2,4,
+0,NSWRFL 1916,Round 6,"Monday, 5th June, 1916",3:15pm (local time),8618,105,300,NORTH SYDNEY,2,8,,ANNANDALE,3,3,
+0,NSWRFL 1916,Round 6,"Monday, 5th June, 1916",3:15pm (local time),8620,24,"15,000","South Sydney
+RABBITOHS",5,10,,"Balmain
+TIGERS",8,24,
+0,NSWRFL 1916,Round 7,"Saturday, 10th June, 1916",3:15pm (local time),8624,24,"5,000","Balmain
+TIGERS",5,5,,EASTERN SUBURBS,4,4,
+0,NSWRFL 1916,Round 7,"Saturday, 10th June, 1916",3:15pm (local time),8622,105,"2,000",GLEBE,17,25,,"Western Suburbs
+MAGPIES",10,13,
+0,NSWRFL 1916,Round 7,"Saturday, 10th June, 1916",3:15pm (local time),8623,155,"1,500",NEWTOWN,5,8,,NORTH SYDNEY,13,13,
+0,NSWRFL 1916,Round 7,"Saturday, 10th June, 1916",3:15pm (local time),8625,103,"1,000","South Sydney
+RABBITOHS",0,11,,ANNANDALE,2,4,
+0,NSWRFL 1916,Round 8,"Saturday, 17th June, 1916",3:15pm (local time),8626,105,500,ANNANDALE,4,6,,EASTERN SUBURBS,8,13,
+0,NSWRFL 1916,Round 8,"Saturday, 17th June, 1916",3:15pm (local time),8629,103,"4,000",GLEBE,8,16,,"Balmain
+TIGERS",0,0,
+0,NSWRFL 1916,Round 8,"Saturday, 17th June, 1916",3:15pm (local time),8628,164,500,NORTH SYDNEY,3,8,,"Western Suburbs
+MAGPIES",10,21,
+0,NSWRFL 1916,Round 8,"Saturday, 17th June, 1916",3:15pm (local time),8627,109,"4,000","South Sydney
+RABBITOHS",7,7,,NEWTOWN,0,5,
+0,NSWRFL 1916,Round 9,"Saturday, 24th June, 1916",3:15pm (local time),8630,105,"1,200",ANNANDALE,5,13,,GLEBE,13,27,
+0,NSWRFL 1916,Round 9,"Saturday, 24th June, 1916",3:15pm (local time),8631,150,"2,500","Balmain
+TIGERS",9,16,,"Western Suburbs
+MAGPIES",3,3,
+0,NSWRFL 1916,Round 9,"Saturday, 24th June, 1916",3:15pm (local time),8632,24,"3,000",EASTERN SUBURBS,7,14,,NEWTOWN,3,14,
+0,NSWRFL 1916,Round 9,"Saturday, 24th June, 1916",3:15pm (local time),8633,103,"2,500",NORTH SYDNEY,2,12,,"South Sydney
+RABBITOHS",11,24,
+0,NSWRFL 1916,Round 10,"Monday, 26th June, 1916",3:15pm (local time),8634,105,"3,000",ANNANDALE,0,6,,"Balmain
+TIGERS",7,21,
+0,NSWRFL 1916,Round 10,"Monday, 26th June, 1916",3:15pm (local time),8637,103,"1,000",EASTERN SUBURBS,4,12,,NORTH SYDNEY,0,6,
+0,NSWRFL 1916,Round 10,"Monday, 26th June, 1916",3:15pm (local time),8635,24,"7,000",GLEBE,3,17,,NEWTOWN,12,12,
+0,NSWRFL 1916,Round 10,"Monday, 26th June, 1916",3:15pm (local time),8636,155,"2,000","South Sydney
+RABBITOHS",16,19,,"Western Suburbs
+MAGPIES",0,6,
+0,NSWRFL 1916,Round 11,"Saturday, 1st July, 1916",3:15pm (local time),8640,109,"3,000",NEWTOWN,4,13,,"Balmain
+TIGERS",9,21,
+0,NSWRFL 1916,Round 11,"Saturday, 1st July, 1916",3:15pm (local time),8638,105,"2,000",NORTH SYDNEY,7,7,,GLEBE,15,36,
+0,NSWRFL 1916,Round 11,"Saturday, 1st July, 1916",3:15pm (local time),8641,24,"6,000","South Sydney
+RABBITOHS",3,10,,EASTERN SUBURBS,7,24,
+0,NSWRFL 1916,Round 11,"Saturday, 1st July, 1916",3:15pm (local time),8639,164,500,"Western Suburbs
+MAGPIES",0,0,,ANNANDALE,9,11,
+0,NSWRFL 1916,Round 12,"Saturday, 8th July, 1916",3:15pm (local time),8642,105,800,ANNANDALE,5,12,,NEWTOWN,6,6,
+0,NSWRFL 1916,Round 12,"Saturday, 8th July, 1916",3:15pm (local time),8644,150,"3,000","Balmain
+TIGERS",6,13,,NORTH SYDNEY,0,8,
+0,NSWRFL 1916,Round 12,"Saturday, 8th July, 1916",3:15pm (local time),8645,109,500,EASTERN SUBURBS,20,53,,"Western Suburbs
+MAGPIES",0,0,
+0,NSWRFL 1916,Round 12,"Saturday, 8th July, 1916",3:15pm (local time),8643,103,"10,000",GLEBE,6,11,,"South Sydney
+RABBITOHS",0,4,
+0,NSWRFL 1916,Round 13,"Saturday, 15th July, 1916",3:15pm (local time),8646,105,500,ANNANDALE,5,15,,NORTH SYDNEY,3,5,
+0,NSWRFL 1916,Round 13,"Saturday, 15th July, 1916",3:15pm (local time),8647,24,"4,000","Balmain
+TIGERS",7,7,,"South Sydney
+RABBITOHS",11,11,
+0,NSWRFL 1916,Round 13,"Saturday, 15th July, 1916",3:15pm (local time),8648,103,"10,000",EASTERN SUBURBS,5,8,,GLEBE,3,5,
+0,NSWRFL 1916,Round 13,"Saturday, 15th July, 1916",3:15pm (local time),8649,164,400,"Western Suburbs
+MAGPIES",3,6,,NEWTOWN,8,17,
+0,NSWRFL 1916,Round 14,"Saturday, 22nd July, 1916",3:15pm (local time),8650,109,"1,200",ANNANDALE,3,3,,"South Sydney
+RABBITOHS",2,11,
+0,NSWRFL 1916,Round 14,"Saturday, 22nd July, 1916",3:15pm (local time),8653,103,"12,000",EASTERN SUBURBS,0,7,,"Balmain
+TIGERS",3,8,
+0,NSWRFL 1916,Round 14,"Saturday, 22nd July, 1916",3:15pm (local time),8651,155,500,NORTH SYDNEY,8,12,,NEWTOWN,5,7,
+0,NSWRFL 1916,Round 14,"Saturday, 22nd July, 1916",3:15pm (local time),8652,105,500,"Western Suburbs
+MAGPIES",5,10,,GLEBE,16,37,
+0,NSWRFL 1916,Final,"Wednesday, 26th July, 1916",3:00pm (local time),8654,24,"7,000","Balmain
+TIGERS",5,5,,"South Sydney
+RABBITOHS",0,3,

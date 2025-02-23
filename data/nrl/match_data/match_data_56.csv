@@ -1,0 +1,229 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1964,Round 1,"Saturday, 4th April, 1964",3:00pm (local time),12052,5,"13,644","Manly Warringah
+SEA EAGLES",5,25,,NEWTOWN,10,19,
+0,NSWRFL 1964,Round 1,"Saturday, 4th April, 1964",3:00pm (local time),12054,111,"10,861","Parramatta
+EELS",0,25,,CANTERBURY BANKSTOWN,4,4,
+0,NSWRFL 1964,Round 1,"Saturday, 4th April, 1964",3:00pm (local time),12053,24,"15,665","St George
+DRAGONS",5,10,17,"North Sydney
+BEARS",14,21,11
+0,NSWRFL 1964,Round 1,"Sunday, 5th April, 1964",3:00pm (local time),12055,7,"14,400","Balmain
+TIGERS",3,17,,"Western Suburbs
+MAGPIES",7,14,
+0,NSWRFL 1964,Round 1,"Sunday, 5th April, 1964",3:00pm (local time),12056,109,"13,643",EASTERN SUBURBS,6,8,17,"South Sydney
+RABBITOHS",10,17,10
+0,NSWRFL 1964,Round 2,"Saturday, 11th April, 1964",3:00pm (local time),12058,24,"26,393","Balmain
+TIGERS",4,12,,"Parramatta
+EELS",5,8,
+0,NSWRFL 1964,Round 2,"Saturday, 11th April, 1964",3:00pm (local time),12057,25,"12,508","North Sydney
+BEARS",5,27,13,"South Sydney
+RABBITOHS",14,21,12
+0,NSWRFL 1964,Round 2,"Saturday, 11th April, 1964",3:00pm (local time),12059,112,"6,000","Western Suburbs
+MAGPIES",7,14,,"Manly Warringah
+SEA EAGLES",20,31,
+0,NSWRFL 1964,Round 2,"Sunday, 12th April, 1964",3:00pm (local time),12060,27,"13,440",CANTERBURY BANKSTOWN,0,5,,"St George
+DRAGONS",10,32,
+0,NSWRFL 1964,Round 2,"Sunday, 12th April, 1964",3:00pm (local time),12061,76,"6,973",NEWTOWN,,13,,EASTERN SUBURBS,,8,
+0,NSWRFL 1964,Round 3,"Saturday, 18th April, 1964",3:00pm (local time),12062,5,"6,877","Manly Warringah
+SEA EAGLES",2,15,,"Parramatta
+EELS",12,30,
+0,NSWRFL 1964,Round 3,"Saturday, 18th April, 1964",3:00pm (local time),12063,24,"17,778",NEWTOWN,14,19,,"North Sydney
+BEARS",11,15,
+0,NSWRFL 1964,Round 3,"Saturday, 18th April, 1964",3:00pm (local time),12064,112,"5,146","Western Suburbs
+MAGPIES",9,19,,EASTERN SUBURBS,2,16,
+0,NSWRFL 1964,Round 3,"Sunday, 19th April, 1964",3:00pm (local time),12066,27,"5,272",CANTERBURY BANKSTOWN,4,4,,"Balmain
+TIGERS",2,7,
+0,NSWRFL 1964,Round 3,"Sunday, 19th April, 1964",3:00pm (local time),12065,109,"12,984","St George
+DRAGONS",11,18,11,"South Sydney
+RABBITOHS",4,10,18
+0,NSWRFL 1964,Round 4,"Saturday, 25th April, 1964",3:00pm (local time),12067,27,"4,005",CANTERBURY BANKSTOWN,11,11,,"Manly Warringah
+SEA EAGLES",17,31,
+0,NSWRFL 1964,Round 4,"Saturday, 25th April, 1964",3:00pm (local time),12070,111,"9,435","Parramatta
+EELS",14,17,,EASTERN SUBURBS,6,11,
+0,NSWRFL 1964,Round 4,"Saturday, 25th April, 1964",3:00pm (local time),12069,24,"29,363","St George
+DRAGONS",7,14,,"Balmain
+TIGERS",0,4,
+0,NSWRFL 1964,Round 4,"Saturday, 25th April, 1964",3:00pm (local time),12068,112,"9,651","Western Suburbs
+MAGPIES",13,13,,"North Sydney
+BEARS",4,14,
+0,NSWRFL 1964,Round 4,"Sunday, 26th April, 1964",3:00pm (local time),12071,44,"21,653","South Sydney
+RABBITOHS",14,25,13,NEWTOWN,2,12,14
+0,NSWRFL 1964,Round 5,"Saturday, 2nd May, 1964",3:00pm (local time),12072,76,"7,908",NEWTOWN,2,2,,"St George
+DRAGONS",7,27,
+0,NSWRFL 1964,Round 5,"Saturday, 2nd May, 1964",3:00pm (local time),12073,109,"17,522","North Sydney
+BEARS",2,14,,"Parramatta
+EELS",9,22,
+0,NSWRFL 1964,Round 5,"Sunday, 3rd May, 1964",3:00pm (local time),12075,7,"9,910","Balmain
+TIGERS",4,16,,"Manly Warringah
+SEA EAGLES",0,4,
+0,NSWRFL 1964,Round 5,"Sunday, 3rd May, 1964",3:00pm (local time),12076,109,"4,283",EASTERN SUBURBS,14,26,,CANTERBURY BANKSTOWN,2,2,
+0,NSWRFL 1964,Round 5,"Sunday, 3rd May, 1964",3:00pm (local time),12074,44,"20,441","South Sydney
+RABBITOHS",15,20,8,"Western Suburbs
+MAGPIES",10,27,15
+0,NSWRFL 1964,Round 6,"Saturday, 9th May, 1964",3:00pm (local time),12077,5,"6,202","Manly Warringah
+SEA EAGLES",9,14,,"St George
+DRAGONS",12,27,
+0,NSWRFL 1964,Round 6,"Saturday, 9th May, 1964",3:00pm (local time),12080,25,"6,713","North Sydney
+BEARS",11,20,,CANTERBURY BANKSTOWN,7,12,
+0,NSWRFL 1964,Round 6,"Saturday, 9th May, 1964",3:00pm (local time),12078,24,"27,668","Parramatta
+EELS",5,16,,"South Sydney
+RABBITOHS",10,15,
+0,NSWRFL 1964,Round 6,"Saturday, 9th May, 1964",3:00pm (local time),12079,112,"6,451","Western Suburbs
+MAGPIES",4,13,,NEWTOWN,10,21,
+0,NSWRFL 1964,Round 6,"Sunday, 10th May, 1964",3:00pm (local time),12081,109,"13,657",EASTERN SUBURBS,2,7,,"Balmain
+TIGERS",8,24,
+0,NSWRFL 1964,Round 7,"Sunday, 24th May, 1964",3:00pm (local time),12082,5,"7,637","Manly Warringah
+SEA EAGLES",8,10,,"North Sydney
+BEARS",8,10,
+0,NSWRFL 1964,Round 7,"Sunday, 24th May, 1964",3:00pm (local time),12085,76,"3,774",NEWTOWN,8,18,,CANTERBURY BANKSTOWN,4,8,
+0,NSWRFL 1964,Round 7,"Sunday, 24th May, 1964",3:00pm (local time),12083,111,"17,757","Parramatta
+EELS",6,13,,"Western Suburbs
+MAGPIES",4,8,
+0,NSWRFL 1964,Round 7,"Sunday, 24th May, 1964",3:00pm (local time),12086,23,"9,587","St George
+DRAGONS",8,10,,EASTERN SUBURBS,5,9,
+0,NSWRFL 1964,Round 7,"Sunday, 24th May, 1964",3:00pm (local time),12084,109,"16,927","South Sydney
+RABBITOHS",4,22,8,"Balmain
+TIGERS",4,8,14
+0,NSWRFL 1964,Round 8,"Sunday, 31st May, 1964",3:00pm (local time),12087,25,"8,851","North Sydney
+BEARS",10,22,,EASTERN SUBURBS,7,16,
+0,NSWRFL 1964,Round 8,"Sunday, 7th June, 1964",3:00pm (local time),12088,7,"4,303","Balmain
+TIGERS",4,17,,NEWTOWN,0,3,
+0,NSWRFL 1964,Round 8,"Sunday, 7th June, 1964",3:00pm (local time),12089,27,"18,598",CANTERBURY BANKSTOWN,0,6,,"Western Suburbs
+MAGPIES",4,6,
+0,NSWRFL 1964,Round 8,"Sunday, 7th June, 1964",3:00pm (local time),12090,109,"25,945","St George
+DRAGONS",0,2,,"Parramatta
+EELS",5,5,
+0,NSWRFL 1964,Round 9,"Saturday, 13th June, 1964",1:00pm (local time),12092,24,"8,211","Manly Warringah
+SEA EAGLES",0,7,,EASTERN SUBURBS,10,10,
+0,NSWRFL 1964,Round 9,"Sunday, 14th June, 1964",3:00pm (local time),12093,109,"15,802",NEWTOWN,8,8,17,"Parramatta
+EELS",10,15,12
+0,NSWRFL 1964,Round 9,"Monday, 15th June, 1964",3:00pm (local time),12095,24,"18,958","North Sydney
+BEARS",0,6,,"Balmain
+TIGERS",9,15,
+0,NSWRFL 1964,Round 9,"Monday, 15th June, 1964",3:00pm (local time),12094,112,"12,407","Western Suburbs
+MAGPIES",,13,,"St George
+DRAGONS",,20,
+0,NSWRFL 1964,Round 8,"Wednesday, 17th June, 1964",9:00pm (local time),12091,44,"9,400","South Sydney
+RABBITOHS",14,25,,"Manly Warringah
+SEA EAGLES",0,5,
+0,NSWRFL 1964,Round 10,"Saturday, 20th June, 1964",3:00pm (local time),12098,27,"5,140",CANTERBURY BANKSTOWN,7,9,,"Parramatta
+EELS",7,11,
+0,NSWRFL 1964,Round 10,"Saturday, 20th June, 1964",3:00pm (local time),12097,24,"17,835","North Sydney
+BEARS",7,15,13,"St George
+DRAGONS",7,25,11
+0,NSWRFL 1964,Round 10,"Saturday, 20th June, 1964",3:00pm (local time),12099,112,"9,816","Western Suburbs
+MAGPIES",6,20,,"Balmain
+TIGERS",3,5,
+0,NSWRFL 1964,Round 10,"Sunday, 21st June, 1964",3:00pm (local time),12100,76,"3,721",NEWTOWN,7,21,,"Manly Warringah
+SEA EAGLES",3,3,
+0,NSWRFL 1964,Round 10,"Sunday, 21st June, 1964",3:00pm (local time),12101,44,"17,537","South Sydney
+RABBITOHS",4,16,,EASTERN SUBURBS,2,7,
+0,NSWRFL 1964,Round 11,"Saturday, 27th June, 1964",3:00pm (local time),12102,5,"3,057","Manly Warringah
+SEA EAGLES",0,4,,"Western Suburbs
+MAGPIES",5,7,
+0,NSWRFL 1964,Round 11,"Saturday, 27th June, 1964",3:00pm (local time),12103,24,"20,720","South Sydney
+RABBITOHS",13,21,,"North Sydney
+BEARS",2,10,
+0,NSWRFL 1964,Round 11,"Sunday, 28th June, 1964",3:00pm (local time),12104,109,"7,242",EASTERN SUBURBS,5,10,13,NEWTOWN,9,21,5
+0,NSWRFL 1964,Round 11,"Sunday, 28th June, 1964",3:00pm (local time),12105,111,"18,075","Parramatta
+EELS",7,17,14,"Balmain
+TIGERS",2,7,12
+0,NSWRFL 1964,Round 11,"Sunday, 28th June, 1964",3:00pm (local time),12106,23,"8,742","St George
+DRAGONS",8,23,,CANTERBURY BANKSTOWN,3,16,
+0,NSWRFL 1964,Round 9,"Saturday, 4th July, 1964",3:00pm (local time),12096,27,"6,630",CANTERBURY BANKSTOWN,4,4,15,"South Sydney
+RABBITOHS",11,31,10
+0,NSWRFL 1964,Round 12,"Saturday, 11th July, 1964",3:00pm (local time),12107,24,"39,500","South Sydney
+RABBITOHS",2,6,16,"St George
+DRAGONS",8,40,8
+0,NSWRFL 1964,Round 12,"Sunday, 12th July, 1964",3:00pm (local time),12108,7,"4,434","Balmain
+TIGERS",8,23,,CANTERBURY BANKSTOWN,6,8,
+0,NSWRFL 1964,Round 12,"Sunday, 12th July, 1964",3:00pm (local time),12109,109,"5,602",EASTERN SUBURBS,0,5,,"Western Suburbs
+MAGPIES",7,22,
+0,NSWRFL 1964,Round 12,"Sunday, 12th July, 1964",3:00pm (local time),12111,25,"7,373","North Sydney
+BEARS",13,13,,NEWTOWN,4,4,
+0,NSWRFL 1964,Round 12,"Sunday, 12th July, 1964",3:00pm (local time),12110,111,"8,254","Parramatta
+EELS",5,23,,"Manly Warringah
+SEA EAGLES",0,2,
+0,NSWRFL 1964,Round 13,"Sunday, 19th July, 1964",3:00pm (local time),12114,7,"10,240","Balmain
+TIGERS",9,11,,"St George
+DRAGONS",0,5,
+0,NSWRFL 1964,Round 13,"Sunday, 19th July, 1964",3:00pm (local time),12115,109,"5,617",EASTERN SUBURBS,6,6,,"Parramatta
+EELS",12,24,
+0,NSWRFL 1964,Round 13,"Sunday, 19th July, 1964",3:00pm (local time),12116,5,"1,785","Manly Warringah
+SEA EAGLES",9,21,,CANTERBURY BANKSTOWN,8,16,
+0,NSWRFL 1964,Round 13,"Sunday, 19th July, 1964",3:00pm (local time),12112,76,"8,181",NEWTOWN,4,9,,"South Sydney
+RABBITOHS",11,13,
+0,NSWRFL 1964,Round 13,"Sunday, 19th July, 1964",3:00pm (local time),12113,25,"12,080","North Sydney
+BEARS",4,19,,"Western Suburbs
+MAGPIES",5,10,
+0,NSWRFL 1964,Round 14,"Saturday, 25th July, 1964",3:00pm (local time),12117,27,"1,844",CANTERBURY BANKSTOWN,5,13,,EASTERN SUBURBS,4,11,
+0,NSWRFL 1964,Round 14,"Saturday, 25th July, 1964",3:00pm (local time),12119,24,"21,401","Parramatta
+EELS",8,16,,"North Sydney
+BEARS",3,13,
+0,NSWRFL 1964,Round 14,"Saturday, 25th July, 1964",3:00pm (local time),12118,23,"7,093","St George
+DRAGONS",14,33,,NEWTOWN,4,9,
+0,NSWRFL 1964,Round 14,"Saturday, 25th July, 1964",3:00pm (local time),12120,112,"5,940","Western Suburbs
+MAGPIES",2,12,6,"South Sydney
+RABBITOHS",4,7,5
+0,NSWRFL 1964,Round 14,"Sunday, 26th July, 1964",3:00pm (local time),12121,109,"9,494","Manly Warringah
+SEA EAGLES",,7,,"Balmain
+TIGERS",,8,
+0,NSWRFL 1964,Round 15,"Saturday, 1st August, 1964",3:00pm (local time),12122,7,"3,329","Balmain
+TIGERS",13,37,,EASTERN SUBURBS,6,6,
+0,NSWRFL 1964,Round 15,"Saturday, 1st August, 1964",3:00pm (local time),12123,27,"3,947",CANTERBURY BANKSTOWN,0,9,,"North Sydney
+BEARS",5,14,
+0,NSWRFL 1964,Round 15,"Saturday, 1st August, 1964",3:00pm (local time),12124,24,"24,198","South Sydney
+RABBITOHS",2,6,9,"Parramatta
+EELS",2,2,9
+0,NSWRFL 1964,Round 15,"Sunday, 2nd August, 1964",3:00pm (local time),12125,76,"5,888",NEWTOWN,10,15,,"Western Suburbs
+MAGPIES",2,11,
+0,NSWRFL 1964,Round 15,"Monday, 3rd August, 1964",3:15pm (local time),12126,44,"3,970","St George
+DRAGONS",20,26,,"Manly Warringah
+SEA EAGLES",2,2,
+0,NSWRFL 1964,Round 16,"Saturday, 8th August, 1964",3:00pm (local time),12127,24,"28,919","Balmain
+TIGERS",12,17,3,"South Sydney
+RABBITOHS",10,10,9
+0,NSWRFL 1964,Round 16,"Saturday, 8th August, 1964",3:00pm (local time),12128,27,"2,303",CANTERBURY BANKSTOWN,0,5,,NEWTOWN,7,27,
+0,NSWRFL 1964,Round 16,"Saturday, 8th August, 1964",3:00pm (local time),12129,25,"6,457","North Sydney
+BEARS",14,28,,"Manly Warringah
+SEA EAGLES",2,10,
+0,NSWRFL 1964,Round 16,"Saturday, 8th August, 1964",3:00pm (local time),12130,112,"7,258","Western Suburbs
+MAGPIES",5,18,,"Parramatta
+EELS",2,8,
+0,NSWRFL 1964,Round 16,"Sunday, 9th August, 1964",3:00pm (local time),12131,109,"6,563",EASTERN SUBURBS,0,2,,"St George
+DRAGONS",5,8,
+0,NSWRFL 1964,Round 17,"Saturday, 15th August, 1964",3:00pm (local time),12132,5,"2,107","Manly Warringah
+SEA EAGLES",5,8,,"South Sydney
+RABBITOHS",7,18,
+0,NSWRFL 1964,Round 17,"Saturday, 15th August, 1964",3:00pm (local time),12134,76,"4,339",NEWTOWN,6,13,,"Balmain
+TIGERS",0,5,
+0,NSWRFL 1964,Round 17,"Saturday, 15th August, 1964",3:00pm (local time),12133,24,"51,919","Parramatta
+EELS",0,0,,"St George
+DRAGONS",13,36,
+0,NSWRFL 1964,Round 17,"Saturday, 15th August, 1964",3:00pm (local time),12135,112,"2,398","Western Suburbs
+MAGPIES",9,22,,CANTERBURY BANKSTOWN,4,16,
+0,NSWRFL 1964,Round 17,"Sunday, 16th August, 1964",3:00pm (local time),12136,109,"8,390",EASTERN SUBURBS,5,10,,"North Sydney
+BEARS",25,49,
+0,NSWRFL 1964,Round 18,"Saturday, 22nd August, 1964",3:00pm (local time),12138,24,"21,804","Balmain
+TIGERS",2,14,,"North Sydney
+BEARS",7,24,
+0,NSWRFL 1964,Round 18,"Saturday, 22nd August, 1964",3:00pm (local time),12139,111,"6,371","Parramatta
+EELS",7,22,10,NEWTOWN,0,2,5
+0,NSWRFL 1964,Round 18,"Saturday, 22nd August, 1964",3:00pm (local time),12137,23,"13,012","St George
+DRAGONS",25,37,,"Western Suburbs
+MAGPIES",0,10,
+0,NSWRFL 1964,Round 18,"Saturday, 22nd August, 1964",3:00pm (local time),12140,44,"4,204","South Sydney
+RABBITOHS",2,21,,CANTERBURY BANKSTOWN,10,20,
+0,NSWRFL 1964,Round 18,"Sunday, 23rd August, 1964",3:00pm (local time),12141,109,"2,738",EASTERN SUBURBS,10,22,,"Manly Warringah
+SEA EAGLES",17,30,
+0,NSWRFL 1964,Minor Semi,"Saturday, 29th August, 1964",3:00pm (local time),12142,24,"35,082","Balmain
+TIGERS",4,11,7,"North Sydney
+BEARS",5,9,11
+0,NSWRFL 1964,Major Semi,"Saturday, 5th September, 1964",3:00pm (local time),12143,24,"33,659","St George
+DRAGONS",20,42,5,"Parramatta
+EELS",0,0,11
+0,NSWRFL 1964,Prelim Final,"Saturday, 12th September, 1964",3:00pm (local time),12144,24,"35,389","Balmain
+TIGERS",9,16,,"Parramatta
+EELS",3,7,
+0,NSWRFL 1964,Grand Final,"Saturday, 19th September, 1964",3:00pm (local time),12145,24,"61,369","St George
+DRAGONS",2,11,,"Balmain
+TIGERS",4,6,

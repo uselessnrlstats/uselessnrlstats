@@ -1,0 +1,117 @@
+,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
+0,NSWRFL 1940,Round 1,"Thursday, 25th April, 1940",3:15pm (local time),10028,109,"12,000","Balmain
+TIGERS",3,10,,"St George
+DRAGONS",2,10,
+0,NSWRFL 1940,Round 1,"Thursday, 25th April, 1940",3:15pm (local time),10031,24,"8,065",EASTERN SUBURBS,16,23,,CANTERBURY BANKSTOWN,7,9,
+0,NSWRFL 1940,Round 1,"Thursday, 25th April, 1940",3:15pm (local time),10029,25,"6,000",NORTH SYDNEY,10,13,,NEWTOWN,2,6,
+0,NSWRFL 1940,Round 1,"Thursday, 25th April, 1940",3:15pm (local time),10030,111,"5,000","Western Suburbs
+MAGPIES",3,16,,"South Sydney
+RABBITOHS",8,11,
+0,NSWRFL 1940,Round 2,"Saturday, 27th April, 1940",3:15pm (local time),10033,27,,CANTERBURY BANKSTOWN,8,19,,NORTH SYDNEY,0,3,
+0,NSWRFL 1940,Round 2,"Saturday, 27th April, 1940",3:15pm (local time),10032,76,"3,500",NEWTOWN,17,30,,"Western Suburbs
+MAGPIES",4,9,
+0,NSWRFL 1940,Round 2,"Saturday, 27th April, 1940",3:15pm (local time),10035,24,"8,329","St George
+DRAGONS",6,12,,EASTERN SUBURBS,2,9,
+0,NSWRFL 1940,Round 2,"Saturday, 27th April, 1940",3:15pm (local time),10034,109,"4,000","South Sydney
+RABBITOHS",0,9,,"Balmain
+TIGERS",0,5,
+0,NSWRFL 1940,Round 3,"Saturday, 4th May, 1940",3:15pm (local time),10036,7,"7,000","Balmain
+TIGERS",5,13,,NEWTOWN,0,2,
+0,NSWRFL 1940,Round 3,"Saturday, 4th May, 1940",3:15pm (local time),10037,109,"8,000",EASTERN SUBURBS,6,19,,"South Sydney
+RABBITOHS",5,12,
+0,NSWRFL 1940,Round 3,"Saturday, 4th May, 1940",3:15pm (local time),10039,24,"10,600","St George
+DRAGONS",9,28,,CANTERBURY BANKSTOWN,10,12,
+0,NSWRFL 1940,Round 3,"Saturday, 4th May, 1940",3:15pm (local time),10038,112,,"Western Suburbs
+MAGPIES",3,13,,NORTH SYDNEY,5,9,
+0,NSWRFL 1940,Round 4,"Saturday, 11th May, 1940",3:15pm (local time),10043,76,"3,000",NEWTOWN,13,21,,EASTERN SUBURBS,2,13,
+0,NSWRFL 1940,Round 4,"Saturday, 11th May, 1940",3:15pm (local time),10041,25,"6,000",NORTH SYDNEY,10,16,,"Balmain
+TIGERS",7,10,
+0,NSWRFL 1940,Round 4,"Saturday, 11th May, 1940",3:15pm (local time),10040,24,"13,450","South Sydney
+RABBITOHS",3,8,,"St George
+DRAGONS",19,30,
+0,NSWRFL 1940,Round 4,"Saturday, 11th May, 1940",3:15pm (local time),10042,112,"7,000","Western Suburbs
+MAGPIES",0,13,,CANTERBURY BANKSTOWN,12,20,
+0,NSWRFL 1940,Round 5,"Saturday, 18th May, 1940",3:15pm (local time),10044,7,"5,000","Balmain
+TIGERS",10,25,,"Western Suburbs
+MAGPIES",7,7,
+0,NSWRFL 1940,Round 5,"Saturday, 18th May, 1940",3:15pm (local time),10045,27,,CANTERBURY BANKSTOWN,11,16,,"South Sydney
+RABBITOHS",2,18,
+0,NSWRFL 1940,Round 5,"Saturday, 18th May, 1940",3:15pm (local time),10046,109,"3,000",EASTERN SUBURBS,16,33,,NORTH SYDNEY,3,3,
+0,NSWRFL 1940,Round 5,"Saturday, 18th May, 1940",3:15pm (local time),10047,24,"16,895","St George
+DRAGONS",17,35,,NEWTOWN,8,19,
+0,NSWRFL 1940,Round 6,"Saturday, 25th May, 1940",3:15pm (local time),10051,27,"7,000",CANTERBURY BANKSTOWN,2,9,,"Balmain
+TIGERS",7,10,
+0,NSWRFL 1940,Round 6,"Saturday, 25th May, 1940",3:15pm (local time),10050,109,,EASTERN SUBURBS,18,26,,"Western Suburbs
+MAGPIES",5,11,
+0,NSWRFL 1940,Round 6,"Saturday, 25th May, 1940",3:15pm (local time),10048,24,"10,620",NEWTOWN,8,24,,"South Sydney
+RABBITOHS",10,13,
+0,NSWRFL 1940,Round 6,"Saturday, 25th May, 1940",3:15pm (local time),10049,25,"8,000",NORTH SYDNEY,13,20,,"St George
+DRAGONS",9,15,
+0,NSWRFL 1940,Round 7,"Saturday, 1st June, 1940",3:15pm (local time),10052,24,"12,000","Balmain
+TIGERS",2,10,,EASTERN SUBURBS,6,26,
+0,NSWRFL 1940,Round 7,"Saturday, 1st June, 1940",3:15pm (local time),10055,76,"7,000",NEWTOWN,7,10,,CANTERBURY BANKSTOWN,7,12,
+0,NSWRFL 1940,Round 7,"Saturday, 1st June, 1940",3:15pm (local time),10053,109,"4,000","South Sydney
+RABBITOHS",5,17,,NORTH SYDNEY,2,4,
+0,NSWRFL 1940,Round 7,"Saturday, 1st June, 1940",3:15pm (local time),10054,112,"5,500","Western Suburbs
+MAGPIES",5,8,,"St George
+DRAGONS",5,15,
+0,NSWRFL 1940,Round 8,"Saturday, 22nd June, 1940",3:15pm (local time),10058,27,,CANTERBURY BANKSTOWN,3,13,,EASTERN SUBURBS,7,7,
+0,NSWRFL 1940,Round 8,"Saturday, 22nd June, 1940",3:15pm (local time),10056,76,"3,000",NEWTOWN,7,17,,NORTH SYDNEY,20,30,
+0,NSWRFL 1940,Round 8,"Saturday, 22nd June, 1940",3:15pm (local time),10059,24,"11,681","St George
+DRAGONS",3,12,,"Balmain
+TIGERS",14,23,
+0,NSWRFL 1940,Round 8,"Saturday, 22nd June, 1940",3:15pm (local time),10057,109,,"South Sydney
+RABBITOHS",2,4,,"Western Suburbs
+MAGPIES",2,2,
+0,NSWRFL 1940,Round 9,"Saturday, 29th June, 1940",3:15pm (local time),10060,7,"4,000","Balmain
+TIGERS",5,27,,"South Sydney
+RABBITOHS",0,0,
+0,NSWRFL 1940,Round 9,"Saturday, 29th June, 1940",3:15pm (local time),10061,24,"14,000",EASTERN SUBURBS,2,8,,"St George
+DRAGONS",6,8,
+0,NSWRFL 1940,Round 9,"Saturday, 29th June, 1940",3:15pm (local time),10063,25,"4,000",NORTH SYDNEY,3,12,,CANTERBURY BANKSTOWN,5,18,
+0,NSWRFL 1940,Round 9,"Saturday, 29th June, 1940",3:15pm (local time),10062,111,"2,500","Western Suburbs
+MAGPIES",4,14,,NEWTOWN,14,25,
+0,NSWRFL 1940,Round 10,"Saturday, 6th July, 1940",3:15pm (local time),10065,7,"2,500","Balmain
+TIGERS",8,11,,NORTH SYDNEY,3,3,
+0,NSWRFL 1940,Round 10,"Saturday, 6th July, 1940",3:15pm (local time),10066,27,,CANTERBURY BANKSTOWN,3,10,,"Western Suburbs
+MAGPIES",0,5,
+0,NSWRFL 1940,Round 10,"Saturday, 6th July, 1940",3:15pm (local time),10067,24,"4,855",EASTERN SUBURBS,3,6,,NEWTOWN,4,8,
+0,NSWRFL 1940,Round 10,"Saturday, 6th July, 1940",3:15pm (local time),10064,157,"4,000","St George
+DRAGONS",3,6,,"South Sydney
+RABBITOHS",10,13,
+0,NSWRFL 1940,Round 11,"Saturday, 13th July, 1940",3:15pm (local time),10069,27,"7,000",CANTERBURY BANKSTOWN,12,20,,"St George
+DRAGONS",15,18,
+0,NSWRFL 1940,Round 11,"Saturday, 13th July, 1940",3:15pm (local time),10070,24,"10,114",NEWTOWN,5,21,,"Balmain
+TIGERS",0,17,
+0,NSWRFL 1940,Round 11,"Saturday, 13th July, 1940",3:15pm (local time),10068,25,,NORTH SYDNEY,8,15,,"Western Suburbs
+MAGPIES",5,17,
+0,NSWRFL 1940,Round 11,"Saturday, 13th July, 1940",3:15pm (local time),10071,109,,"South Sydney
+RABBITOHS",2,7,,EASTERN SUBURBS,14,38,
+0,NSWRFL 1940,Round 12,"Saturday, 20th July, 1940",3:15pm (local time),10072,24,"10,067","Balmain
+TIGERS",7,11,,CANTERBURY BANKSTOWN,5,14,
+0,NSWRFL 1940,Round 12,"Saturday, 20th July, 1940",3:15pm (local time),10074,157,"4,000","St George
+DRAGONS",10,36,,NORTH SYDNEY,8,10,
+0,NSWRFL 1940,Round 12,"Saturday, 20th July, 1940",3:15pm (local time),10073,109,,"South Sydney
+RABBITOHS",3,8,,NEWTOWN,13,37,
+0,NSWRFL 1940,Round 12,"Saturday, 20th July, 1940",3:15pm (local time),10075,112,,"Western Suburbs
+MAGPIES",2,12,,EASTERN SUBURBS,8,16,
+0,NSWRFL 1940,Round 13,"Saturday, 27th July, 1940",3:15pm (local time),10076,24,"12,458",NEWTOWN,2,28,,"St George
+DRAGONS",5,7,
+0,NSWRFL 1940,Round 13,"Saturday, 27th July, 1940",3:15pm (local time),10079,25,"5,000",NORTH SYDNEY,5,5,,EASTERN SUBURBS,7,10,
+0,NSWRFL 1940,Round 13,"Saturday, 27th July, 1940",3:15pm (local time),10078,109,,"South Sydney
+RABBITOHS",8,24,,CANTERBURY BANKSTOWN,9,22,
+0,NSWRFL 1940,Round 13,"Saturday, 27th July, 1940",3:15pm (local time),10077,112,"3,000","Western Suburbs
+MAGPIES",4,17,,"Balmain
+TIGERS",6,22,
+0,NSWRFL 1940,Round 14,"Saturday, 3rd August, 1940",3:15pm (local time),10082,27,"7,400",CANTERBURY BANKSTOWN,10,10,,NEWTOWN,8,13,
+0,NSWRFL 1940,Round 14,"Saturday, 3rd August, 1940",3:15pm (local time),10083,24,"10,805",EASTERN SUBURBS,11,16,,"Balmain
+TIGERS",0,5,
+0,NSWRFL 1940,Round 14,"Saturday, 3rd August, 1940",3:15pm (local time),10080,25,,NORTH SYDNEY,5,13,,"South Sydney
+RABBITOHS",12,21,
+0,NSWRFL 1940,Round 14,"Saturday, 3rd August, 1940",3:15pm (local time),10081,157,"3,000","St George
+DRAGONS",7,31,,"Western Suburbs
+MAGPIES",7,15,
+0,NSWRFL 1940,Semi Final,"Saturday, 17th August, 1940",3:15pm (local time),10084,24,"17,473",EASTERN SUBURBS,10,10,16,"St George
+DRAGONS",0,3,12
+0,NSWRFL 1940,Semi Final,"Saturday, 24th August, 1940",3:15pm (local time),10085,24,"22,061",CANTERBURY BANKSTOWN,8,19,,NEWTOWN,9,11,
+0,NSWRFL 1940,Final,"Saturday, 31st August, 1940",3:15pm (local time),10086,24,"24,167",EASTERN SUBURBS,11,24,,CANTERBURY BANKSTOWN,9,14,

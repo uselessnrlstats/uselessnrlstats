@@ -1,0 +1,705 @@
+,match_id,coach_id,team
+0,5472,6110,"South Sydney
+RABBITOHS"
+0,5472,2831,"Illawarra
+STEELERS"
+0,5474,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5474,6008,"North Sydney
+BEARS"
+0,5473,6075,"Canberra
+RAIDERS"
+0,5473,3737,"Cronulla Sutherland
+SHARKS"
+0,5473,5948,"Canberra
+RAIDERS"
+0,5475,2835,"Penrith
+PANTHERS"
+0,5475,7442,"Western Suburbs
+MAGPIES"
+0,5477,7441,"St George
+DRAGONS"
+0,5477,6047,"Manly Warringah
+SEA EAGLES"
+0,5476,3554,"Parramatta
+EELS"
+0,5476,7440,"Balmain
+TIGERS"
+0,5478,1509,"Eastern Suburbs
+ROOSTERS"
+0,5478,2831,"Illawarra
+STEELERS"
+0,5479,7442,"Western Suburbs
+MAGPIES"
+0,5479,3554,"Parramatta
+EELS"
+0,5483,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5483,7440,"Balmain
+TIGERS"
+0,5481,3737,"Cronulla Sutherland
+SHARKS"
+0,5481,6008,"North Sydney
+BEARS"
+0,5480,6047,"Manly Warringah
+SEA EAGLES"
+0,5480,2835,"Penrith
+PANTHERS"
+0,5482,6110,"South Sydney
+RABBITOHS"
+0,5482,7441,"St George
+DRAGONS"
+0,5484,2831,"Illawarra
+STEELERS"
+0,5484,6075,"Canberra
+RAIDERS"
+0,5484,5948,"Canberra
+RAIDERS"
+0,5485,7440,"Balmain
+TIGERS"
+0,5485,6110,"South Sydney
+RABBITOHS"
+0,5489,6008,"North Sydney
+BEARS"
+0,5489,1509,"Eastern Suburbs
+ROOSTERS"
+0,5487,2835,"Penrith
+PANTHERS"
+0,5487,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5488,7441,"St George
+DRAGONS"
+0,5488,3737,"Cronulla Sutherland
+SHARKS"
+0,5486,7442,"Western Suburbs
+MAGPIES"
+0,5486,6047,"Manly Warringah
+SEA EAGLES"
+0,5490,7441,"St George
+DRAGONS"
+0,5490,1509,"Eastern Suburbs
+ROOSTERS"
+0,5493,3737,"Cronulla Sutherland
+SHARKS"
+0,5493,7440,"Balmain
+TIGERS"
+0,5491,6075,"Canberra
+RAIDERS"
+0,5491,6008,"North Sydney
+BEARS"
+0,5491,5948,"Canberra
+RAIDERS"
+0,5492,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5492,7442,"Western Suburbs
+MAGPIES"
+0,5494,6047,"Manly Warringah
+SEA EAGLES"
+0,5494,3554,"Parramatta
+EELS"
+0,5495,6110,"South Sydney
+RABBITOHS"
+0,5495,2835,"Penrith
+PANTHERS"
+0,5496,7440,"Balmain
+TIGERS"
+0,5496,1509,"Eastern Suburbs
+ROOSTERS"
+0,5497,6008,"North Sydney
+BEARS"
+0,5497,2831,"Illawarra
+STEELERS"
+0,5500,3554,"Parramatta
+EELS"
+0,5500,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5501,2835,"Penrith
+PANTHERS"
+0,5501,3737,"Cronulla Sutherland
+SHARKS"
+0,5499,7441,"St George
+DRAGONS"
+0,5499,6075,"Canberra
+RAIDERS"
+0,5499,5948,"Canberra
+RAIDERS"
+0,5498,7442,"Western Suburbs
+MAGPIES"
+0,5498,6110,"South Sydney
+RABBITOHS"
+0,5502,2835,"Penrith
+PANTHERS"
+0,5502,1509,"Eastern Suburbs
+ROOSTERS"
+0,5507,6075,"Canberra
+RAIDERS"
+0,5507,7440,"Balmain
+TIGERS"
+0,5507,5948,"Canberra
+RAIDERS"
+0,5504,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5504,6047,"Manly Warringah
+SEA EAGLES"
+0,5505,3737,"Cronulla Sutherland
+SHARKS"
+0,5505,7442,"Western Suburbs
+MAGPIES"
+0,5503,2831,"Illawarra
+STEELERS"
+0,5503,7441,"St George
+DRAGONS"
+0,5506,6110,"South Sydney
+RABBITOHS"
+0,5506,3554,"Parramatta
+EELS"
+0,5508,6008,"North Sydney
+BEARS"
+0,5508,7441,"St George
+DRAGONS"
+0,5510,7440,"Balmain
+TIGERS"
+0,5510,2831,"Illawarra
+STEELERS"
+0,5509,6047,"Manly Warringah
+SEA EAGLES"
+0,5509,6110,"South Sydney
+RABBITOHS"
+0,5512,3554,"Parramatta
+EELS"
+0,5512,3737,"Cronulla Sutherland
+SHARKS"
+0,5511,2835,"Penrith
+PANTHERS"
+0,5511,6075,"Canberra
+RAIDERS"
+0,5511,5948,"Canberra
+RAIDERS"
+0,5513,7442,"Western Suburbs
+MAGPIES"
+0,5513,1509,"Eastern Suburbs
+ROOSTERS"
+0,5514,6110,"South Sydney
+RABBITOHS"
+0,5514,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5516,6075,"Canberra
+RAIDERS"
+0,5516,7442,"Western Suburbs
+MAGPIES"
+0,5516,5948,"Canberra
+RAIDERS"
+0,5515,2831,"Illawarra
+STEELERS"
+0,5515,2835,"Penrith
+PANTHERS"
+0,5517,6008,"North Sydney
+BEARS"
+0,5517,7440,"Balmain
+TIGERS"
+0,5518,3554,"Parramatta
+EELS"
+0,5518,1509,"Eastern Suburbs
+ROOSTERS"
+0,5519,3737,"Cronulla Sutherland
+SHARKS"
+0,5519,6047,"Manly Warringah
+SEA EAGLES"
+0,5520,6047,"Manly Warringah
+SEA EAGLES"
+0,5520,1509,"Eastern Suburbs
+ROOSTERS"
+0,5521,7440,"Balmain
+TIGERS"
+0,5521,7441,"St George
+DRAGONS"
+0,5522,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5522,3737,"Cronulla Sutherland
+SHARKS"
+0,5525,3554,"Parramatta
+EELS"
+0,5525,6075,"Canberra
+RAIDERS"
+0,5525,5948,"Canberra
+RAIDERS"
+0,5524,2835,"Penrith
+PANTHERS"
+0,5524,6008,"North Sydney
+BEARS"
+0,5523,7442,"Western Suburbs
+MAGPIES"
+0,5523,2831,"Illawarra
+STEELERS"
+0,5526,6075,"Canberra
+RAIDERS"
+0,5526,6047,"Manly Warringah
+SEA EAGLES"
+0,5526,5948,"Canberra
+RAIDERS"
+0,5529,3737,"Cronulla Sutherland
+SHARKS"
+0,5529,6110,"South Sydney
+RABBITOHS"
+0,5531,1509,"Eastern Suburbs
+ROOSTERS"
+0,5531,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5527,2831,"Illawarra
+STEELERS"
+0,5527,3554,"Parramatta
+EELS"
+0,5528,6008,"North Sydney
+BEARS"
+0,5528,7442,"Western Suburbs
+MAGPIES"
+0,5530,7441,"St George
+DRAGONS"
+0,5530,2835,"Penrith
+PANTHERS"
+0,5532,3554,"Parramatta
+EELS"
+0,5532,6008,"North Sydney
+BEARS"
+0,5536,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5536,6075,"Canberra
+RAIDERS"
+0,5536,5948,"Canberra
+RAIDERS"
+0,5533,6047,"Manly Warringah
+SEA EAGLES"
+0,5533,2831,"Illawarra
+STEELERS"
+0,5535,2835,"Penrith
+PANTHERS"
+0,5535,7440,"Balmain
+TIGERS"
+0,5537,6110,"South Sydney
+RABBITOHS"
+0,5537,1509,"Eastern Suburbs
+ROOSTERS"
+0,5534,7442,"Western Suburbs
+MAGPIES"
+0,5534,7441,"St George
+DRAGONS"
+0,5538,7440,"Balmain
+TIGERS"
+0,5538,7442,"Western Suburbs
+MAGPIES"
+0,5539,6075,"Canberra
+RAIDERS"
+0,5539,6110,"South Sydney
+RABBITOHS"
+0,5539,5948,"Canberra
+RAIDERS"
+0,5543,1509,"Eastern Suburbs
+ROOSTERS"
+0,5543,3737,"Cronulla Sutherland
+SHARKS"
+0,5542,2831,"Illawarra
+STEELERS"
+0,5542,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5540,6008,"North Sydney
+BEARS"
+0,5540,6047,"Manly Warringah
+SEA EAGLES"
+0,5541,7441,"St George
+DRAGONS"
+0,5541,3554,"Parramatta
+EELS"
+0,5544,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5544,7441,"St George
+DRAGONS"
+0,5546,6075,"Canberra
+RAIDERS"
+0,5546,1509,"Eastern Suburbs
+ROOSTERS"
+0,5546,5948,"Canberra
+RAIDERS"
+0,5547,3737,"Cronulla Sutherland
+SHARKS"
+0,5547,2831,"Illawarra
+STEELERS"
+0,5549,6047,"Manly Warringah
+SEA EAGLES"
+0,5549,7440,"Balmain
+TIGERS"
+0,5545,3554,"Parramatta
+EELS"
+0,5545,2835,"Penrith
+PANTHERS"
+0,5548,6110,"South Sydney
+RABBITOHS"
+0,5548,6008,"North Sydney
+BEARS"
+0,5550,2831,"Illawarra
+STEELERS"
+0,5550,6110,"South Sydney
+RABBITOHS"
+0,5552,3737,"Cronulla Sutherland
+SHARKS"
+0,5552,6075,"Canberra
+RAIDERS"
+0,5552,5948,"Canberra
+RAIDERS"
+0,5551,7442,"Western Suburbs
+MAGPIES"
+0,5551,2835,"Penrith
+PANTHERS"
+0,5553,6008,"North Sydney
+BEARS"
+0,5553,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5555,7440,"Balmain
+TIGERS"
+0,5555,3554,"Parramatta
+EELS"
+0,5554,6047,"Manly Warringah
+SEA EAGLES"
+0,5554,7441,"St George
+DRAGONS"
+0,5556,7441,"St George
+DRAGONS"
+0,5556,6110,"South Sydney
+RABBITOHS"
+0,5558,7440,"Balmain
+TIGERS"
+0,5558,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5561,2831,"Illawarra
+STEELERS"
+0,5561,1509,"Eastern Suburbs
+ROOSTERS"
+0,5560,6008,"North Sydney
+BEARS"
+0,5560,3737,"Cronulla Sutherland
+SHARKS"
+0,5557,3554,"Parramatta
+EELS"
+0,5557,7442,"Western Suburbs
+MAGPIES"
+0,5559,2835,"Penrith
+PANTHERS"
+0,5559,6047,"Manly Warringah
+SEA EAGLES"
+0,5562,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5562,2835,"Penrith
+PANTHERS"
+0,5564,6075,"Canberra
+RAIDERS"
+0,5564,2831,"Illawarra
+STEELERS"
+0,5564,5948,"Canberra
+RAIDERS"
+0,5565,3737,"Cronulla Sutherland
+SHARKS"
+0,5565,7441,"St George
+DRAGONS"
+0,5566,1509,"Eastern Suburbs
+ROOSTERS"
+0,5566,6008,"North Sydney
+BEARS"
+0,5563,6047,"Manly Warringah
+SEA EAGLES"
+0,5563,7442,"Western Suburbs
+MAGPIES"
+0,5567,6110,"South Sydney
+RABBITOHS"
+0,5567,7440,"Balmain
+TIGERS"
+0,5568,7440,"Balmain
+TIGERS"
+0,5568,3737,"Cronulla Sutherland
+SHARKS"
+0,5571,6008,"North Sydney
+BEARS"
+0,5571,6075,"Canberra
+RAIDERS"
+0,5571,5948,"Canberra
+RAIDERS"
+0,5570,3554,"Parramatta
+EELS"
+0,5570,6047,"Manly Warringah
+SEA EAGLES"
+0,5569,2835,"Penrith
+PANTHERS"
+0,5569,6110,"South Sydney
+RABBITOHS"
+0,5572,7442,"Western Suburbs
+MAGPIES"
+0,5572,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5573,7441,"St George
+DRAGONS"
+0,5573,1509,"Eastern Suburbs
+ROOSTERS"
+0,5574,3737,"Cronulla Sutherland
+SHARKS"
+0,5574,2835,"Penrith
+PANTHERS"
+0,5576,6075,"Canberra
+RAIDERS"
+0,5576,7441,"St George
+DRAGONS"
+0,5576,5948,"Canberra
+RAIDERS"
+0,5577,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5577,3554,"Parramatta
+EELS"
+0,5578,1509,"Eastern Suburbs
+ROOSTERS"
+0,5578,7440,"Balmain
+TIGERS"
+0,5575,2831,"Illawarra
+STEELERS"
+0,5575,6008,"North Sydney
+BEARS"
+0,5579,7442,"Western Suburbs
+MAGPIES"
+0,5579,6110,"South Sydney
+RABBITOHS"
+0,5580,7440,"Balmain
+TIGERS"
+0,5580,6075,"Canberra
+RAIDERS"
+0,5580,5948,"Canberra
+RAIDERS"
+0,5582,6047,"Manly Warringah
+SEA EAGLES"
+0,5582,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5584,2835,"Penrith
+PANTHERS"
+0,5584,1509,"Eastern Suburbs
+ROOSTERS"
+0,5581,7441,"St George
+DRAGONS"
+0,5581,2831,"Illawarra
+STEELERS"
+0,5583,7442,"Western Suburbs
+MAGPIES"
+0,5583,3737,"Cronulla Sutherland
+SHARKS"
+0,5585,3554,"Parramatta
+EELS"
+0,5585,6110,"South Sydney
+RABBITOHS"
+0,5586,3737,"Cronulla Sutherland
+SHARKS"
+0,5586,3554,"Parramatta
+EELS"
+0,5588,6075,"Canberra
+RAIDERS"
+0,5588,2835,"Penrith
+PANTHERS"
+0,5588,5948,"Canberra
+RAIDERS"
+0,5589,1509,"Eastern Suburbs
+ROOSTERS"
+0,5589,7442,"Western Suburbs
+MAGPIES"
+0,5587,6008,"North Sydney
+BEARS"
+0,5587,7441,"St George
+DRAGONS"
+0,5590,6110,"South Sydney
+RABBITOHS"
+0,5590,6047,"Manly Warringah
+SEA EAGLES"
+0,5591,7440,"Balmain
+TIGERS"
+0,5591,2831,"Illawarra
+STEELERS"
+0,5592,3554,"Parramatta
+EELS"
+0,5592,1509,"Eastern Suburbs
+ROOSTERS"
+0,5593,7440,"Balmain
+TIGERS"
+0,5593,6008,"North Sydney
+BEARS"
+0,5596,6047,"Manly Warringah
+SEA EAGLES"
+0,5596,3737,"Cronulla Sutherland
+SHARKS"
+0,5594,2835,"Penrith
+PANTHERS"
+0,5594,2831,"Illawarra
+STEELERS"
+0,5595,7442,"Western Suburbs
+MAGPIES"
+0,5595,6075,"Canberra
+RAIDERS"
+0,5595,5948,"Canberra
+RAIDERS"
+0,5597,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5597,6110,"South Sydney
+RABBITOHS"
+0,5598,3737,"Cronulla Sutherland
+SHARKS"
+0,5598,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5601,6075,"Canberra
+RAIDERS"
+0,5601,3554,"Parramatta
+EELS"
+0,5601,5948,"Canberra
+RAIDERS"
+0,5602,1509,"Eastern Suburbs
+ROOSTERS"
+0,5602,6047,"Manly Warringah
+SEA EAGLES"
+0,5599,2831,"Illawarra
+STEELERS"
+0,5599,7442,"Western Suburbs
+MAGPIES"
+0,5600,6008,"North Sydney
+BEARS"
+0,5600,2835,"Penrith
+PANTHERS"
+0,5603,7441,"St George
+DRAGONS"
+0,5603,7440,"Balmain
+TIGERS"
+0,5604,2835,"Penrith
+PANTHERS"
+0,5604,7441,"St George
+DRAGONS"
+0,5607,6047,"Manly Warringah
+SEA EAGLES"
+0,5607,6075,"Canberra
+RAIDERS"
+0,5607,5948,"Canberra
+RAIDERS"
+0,5605,3554,"Parramatta
+EELS"
+0,5605,2831,"Illawarra
+STEELERS"
+0,5608,6110,"South Sydney
+RABBITOHS"
+0,5608,3737,"Cronulla Sutherland
+SHARKS"
+0,5606,7442,"Western Suburbs
+MAGPIES"
+0,5606,6008,"North Sydney
+BEARS"
+0,5609,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5609,1509,"Eastern Suburbs
+ROOSTERS"
+0,5610,6075,"Canberra
+RAIDERS"
+0,5610,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5610,5948,"Canberra
+RAIDERS"
+0,5614,1509,"Eastern Suburbs
+ROOSTERS"
+0,5614,6110,"South Sydney
+RABBITOHS"
+0,5611,2831,"Illawarra
+STEELERS"
+0,5611,6047,"Manly Warringah
+SEA EAGLES"
+0,5612,6008,"North Sydney
+BEARS"
+0,5612,3554,"Parramatta
+EELS"
+0,5613,7441,"St George
+DRAGONS"
+0,5613,7442,"Western Suburbs
+MAGPIES"
+0,5615,7440,"Balmain
+TIGERS"
+0,5615,2835,"Penrith
+PANTHERS"
+0,5616,3737,"Cronulla Sutherland
+SHARKS"
+0,5616,1509,"Eastern Suburbs
+ROOSTERS"
+0,5617,6047,"Manly Warringah
+SEA EAGLES"
+0,5617,6008,"North Sydney
+BEARS"
+0,5618,3554,"Parramatta
+EELS"
+0,5618,7441,"St George
+DRAGONS"
+0,5620,6110,"South Sydney
+RABBITOHS"
+0,5620,6075,"Canberra
+RAIDERS"
+0,5620,5948,"Canberra
+RAIDERS"
+0,5619,7442,"Western Suburbs
+MAGPIES"
+0,5619,7440,"Balmain
+TIGERS"
+0,5621,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5621,2831,"Illawarra
+STEELERS"
+0,5622,1509,"Eastern Suburbs
+ROOSTERS"
+0,5622,6075,"Canberra
+RAIDERS"
+0,5622,5948,"Canberra
+RAIDERS"
+0,5624,7440,"Balmain
+TIGERS"
+0,5624,6047,"Manly Warringah
+SEA EAGLES"
+0,5626,2831,"Illawarra
+STEELERS"
+0,5626,3737,"Cronulla Sutherland
+SHARKS"
+0,5623,6008,"North Sydney
+BEARS"
+0,5623,6110,"South Sydney
+RABBITOHS"
+0,5625,7441,"St George
+DRAGONS"
+0,5625,2937,"Canterbury Bankstown
+BULLDOGS"
+0,5627,2835,"Penrith
+PANTHERS"
+0,5627,3554,"Parramatta
+EELS"
+0,5628,6110,"South Sydney
+RABBITOHS"
+0,5628,7440,"Balmain
+TIGERS"
+0,5629,1509,"Eastern Suburbs
+ROOSTERS"
+0,5629,6075,"Canberra
+RAIDERS"
+0,5629,5948,"Canberra
+RAIDERS"
+0,5630,6075,"Canberra
+RAIDERS"
+0,5630,6110,"South Sydney
+RABBITOHS"
+0,5630,5948,"Canberra
+RAIDERS"
+0,5631,6047,"Manly Warringah
+SEA EAGLES"
+0,5631,1509,"Eastern Suburbs
+ROOSTERS"
+0,5632,6075,"Canberra
+RAIDERS"
+0,5632,1509,"Eastern Suburbs
+ROOSTERS"
+0,5632,5948,"Canberra
+RAIDERS"
+0,5633,6047,"Manly Warringah
+SEA EAGLES"
+0,5633,6075,"Canberra
+RAIDERS"
+0,5633,5948,"Canberra
+RAIDERS"
