@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # <img src="UNS_logos/UNS_logo2_small.png" align="left" height="150" style="padding: 20px;"/> uselessnrlstats
 
 ## Welcome to Useless NRL Stats!
@@ -11,15 +5,15 @@ editor_options:
 We are dedicated to finding and visualising the most useless NRL
 (National Rugby League) and NRLW (NRL Women's) stats possible. We have
 pages on
-[Instagram](%5Bwww.instagram.com/uselessnrlstats/%5D(https://www.instagram.com/uselessnrlstats/)%7B.uri%7D),
-[Facebook](%5Bwww.facebook.com/uselessnrlstats%5D(https://www.facebook.com/uselessnrlstats)%7B.uri%7D)
+[Instagram](www.instagram.com/uselessnrlstats),
+[Facebook](www.facebook.com/uselessnrlstats)
 and
-[BlueSky](%5Bbsky.app/profile/uselessnrlstats.bsky.social%5D(https://bsky.app/profile/uselessnrlstats.bsky.social)%7B.uri%7D) -
+[BlueSky](bsky.app/profile/uselessnrlstats.bsky.social) -
 follow us there to see regular posts!
 
 All of our data is sourced from the publicly available
 [rugbyleagueproject.org
-(RLP)](%5Bwww.rugbyleagueprjoect.org%5D(https://www.rugbyleagueproject.org/)).
+(RLP)](www.rugbyleagueprjoect.org).
 We have scraped their data using {selenium} in Python. All data
 cleaning, analysis and visualisation is performed in R, our preferred
 data science language, with an emphasis on tidy code and workflows

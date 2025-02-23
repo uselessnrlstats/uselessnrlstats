@@ -48,7 +48,8 @@ player_match_data |>
   mutate(age = time_years_days(birthday, date)) |>
   group_by(birth_decade) |>
   arrange(desc(date), desc(time)) |>
-  filter(row_number() <= 2)
+  filter(row_number() <= 2) |>
+  View()
 
 player_match_data |>
   left_join(team_data, by = c("team" = "team_name")) |>
