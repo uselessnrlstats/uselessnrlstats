@@ -38,7 +38,7 @@ ref_id,full_name,first_name,last_name,nickname,birthday,birthdate
 42086,Matt Cecchin,Matt,Cecchin,NA,NA,NA
 42079,Steve Chiddy,Steve,Chiddy,NA,NA,NA
 42305,A Christie,A,Christie,NA,NA,NA
-9057,George Clamback,George,Clamback,NA,NA,NA
+9057,George Clamback,George,Clamback,Clammy,1894-06-30,30-06
 42076,Steve Clark,Steve,Clark,NA,NA,NA
 42350,W Cole,W,Cole,NA,NA,NA
 42501,Ernie Cook,Ernie,Cook,NA,NA,NA
@@ -142,7 +142,7 @@ ref_id,full_name,first_name,last_name,nickname,birthday,birthdate
 42222,M McDermott,M,McDermott,NA,NA,NA
 42334,Joe McGauley,Joe,McGauley,NA,NA,NA
 9127,Chris McGrath,Chris,McGrath,NA,NA,NA
-12451,Thomas McIntosh,Thomas,McIntosh,NA,NA,NA
+12451,Thomas McIntosh,Thomas,McIntosh,NA,1882-03-15,15-03
 6065,Allan McKean,Allan,McKean,NA,1942-12-11,11-12
 42347,Tom McMahon Jnr,Tom,McMahon Jnr,NA,NA,NA
 42348,Tom McMahon Snr,Tom,McMahon Snr,NA,NA,NA
@@ -179,7 +179,7 @@ ref_id,full_name,first_name,last_name,nickname,birthday,birthdate
 3584,Larry O'Malley,Larry,O'Malley,NA,1883-04-02,02-04
 13238,Aub Oxford,Aub,Oxford,NA,1914-10-31,31-10
 42186,Keith Page,Keith,Page,NA,NA,NA
-10063,Keith Parkinson,Keith,Parkinson,NA,NA,NA
+10063,Keith Parkinson,Keith,Parkinson,NA,1919-02-06,06-02
 42092,Ian Parnaby,Ian,Parnaby,NA,NA,NA
 42183,Col Pearce,Col,Pearce,NA,NA,NA
 42346,Ted Pepper,Ted,Pepper,NA,NA,NA
@@ -198,7 +198,7 @@ ref_id,full_name,first_name,last_name,nickname,birthday,birthdate
 42326,G Robinson,G,Robinson,NA,NA,NA
 42089,Jason Robinson,Jason,Robinson,NA,NA,NA
 42480,Tim Roby,Tim,Roby,NA,1989-08-15,15-08
-8706,Charlie Russell,Charlie,Russell,NA,1884-12-05,05-12
+8706,Charlie Russell,Charlie,Russell,NA,1883-12-05,05-12
 42270,Les Samuelson,Les,Samuelson,NA,NA,NA
 42219,George Seabrook,George,Seabrook,NA,NA,NA
 42916,Belinda Sharpe,Belinda,Sharpe,NA,NA,NA
@@ -233,7 +233,7 @@ ref_id,full_name,first_name,last_name,nickname,birthday,birthdate
 42264,R Ward,R,Ward,NA,NA,NA
 42151,Martin Weekes,Martin,Weekes,NA,NA,NA
 42147,Geoff Weeks,Geoff,Weeks,NA,NA,NA
-20868,Aubrey Welch,Aubrey,Welch,NA,NA,NA
+20868,Aubrey Welch,Aubrey,Welch,NA,1876-09-12,12-09
 42063,Graeme West,Graeme,West,NA,NA,NA
 42105,Robin Whitfield,Robin,Whitfield,NA,1943-11-26,26-11
 42339,Les Williams,Les,Williams,NA,NA,NA

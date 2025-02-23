@@ -30,44 +30,111 @@ match_id,coach_id,team
 8214,3607,Glebe
 8215,8623,South Sydney Rabbitohs
 8216,3612,Balmain Tigers
+8216,3653,South Sydney Rabbitohs
 8223,3612,Balmain Tigers
+8221,3653,South Sydney Rabbitohs
+8226,3653,South Sydney Rabbitohs
 8227,3612,Balmain Tigers
+8231,3653,South Sydney Rabbitohs
 8230,3612,Balmain Tigers
 8234,3612,Balmain Tigers
+8232,3653,South Sydney Rabbitohs
 8238,3612,Balmain Tigers
+8237,3653,South Sydney Rabbitohs
 8241,3612,Balmain Tigers
+8242,3653,South Sydney Rabbitohs
 8244,3612,Balmain Tigers
+8247,3653,South Sydney Rabbitohs
 8251,3612,Balmain Tigers
+8248,3653,South Sydney Rabbitohs
 8252,3612,Balmain Tigers
+8255,3653,South Sydney Rabbitohs
 8256,3612,Balmain Tigers
+8257,3653,South Sydney Rabbitohs
+8712,3623,Glebe
+8714,3674,Eastern Suburbs
+8711,8775,North Sydney
 8711,3653,South Sydney Rabbitohs
+8713,8691,Western Suburbs Magpies
 8713,3582,Balmain Tigers
 8715,3653,South Sydney Rabbitohs
 8717,3582,Balmain Tigers
+8717,3623,Glebe
+8718,3674,Eastern Suburbs
+8718,8691,Western Suburbs Magpies
+8716,8775,North Sydney
 8719,3582,Balmain Tigers
 8719,3653,South Sydney Rabbitohs
+8722,3623,Glebe
+8722,3674,Eastern Suburbs
+8720,8775,North Sydney
+8721,8691,Western Suburbs Magpies
 8724,3582,Balmain Tigers
+8724,8775,North Sydney
+8725,3674,Eastern Suburbs
 8725,3653,South Sydney Rabbitohs
+8723,3623,Glebe
+8723,8691,Western Suburbs Magpies
 8727,3582,Balmain Tigers
+8728,3674,Eastern Suburbs
+8728,8775,North Sydney
+8729,3623,Glebe
+8730,8691,Western Suburbs Magpies
 8730,3653,South Sydney Rabbitohs
+8731,3674,Eastern Suburbs
 8734,3582,Balmain Tigers
+8732,8775,North Sydney
+8732,8691,Western Suburbs Magpies
 8733,3653,South Sydney Rabbitohs
+8733,3623,Glebe
 8736,3582,Balmain Tigers
+8736,3674,Eastern Suburbs
+8735,3623,Glebe
+8735,8775,North Sydney
 8738,3653,South Sydney Rabbitohs
+8737,8691,Western Suburbs Magpies
+8739,3623,Glebe
 8740,3582,Balmain Tigers
+8740,8691,Western Suburbs Magpies
+8741,3674,Eastern Suburbs
 8742,3653,South Sydney Rabbitohs
+8742,8775,North Sydney
+8745,3623,Glebe
 8745,3582,Balmain Tigers
+8744,8775,North Sydney
 8743,3653,South Sydney Rabbitohs
+8746,8691,Western Suburbs Magpies
+8746,3674,Eastern Suburbs
+8747,8775,North Sydney
+8749,3674,Eastern Suburbs
+8749,3623,Glebe
+8748,8691,Western Suburbs Magpies
 8750,3653,South Sydney Rabbitohs
 8750,3582,Balmain Tigers
+8753,8775,North Sydney
 8753,3582,Balmain Tigers
 8754,3653,South Sydney Rabbitohs
+8754,3674,Eastern Suburbs
+8752,8691,Western Suburbs Magpies
+8752,3623,Glebe
 8757,3582,Balmain Tigers
+8755,3623,Glebe
+8758,8775,North Sydney
+8758,3674,Eastern Suburbs
 8756,3653,South Sydney Rabbitohs
+8756,8691,Western Suburbs Magpies
 8760,3582,Balmain Tigers
+8761,3674,Eastern Suburbs
+8759,3623,Glebe
 8759,3653,South Sydney Rabbitohs
+8762,8691,Western Suburbs Magpies
+8762,8775,North Sydney
+8763,8691,Western Suburbs Magpies
+8766,3674,Eastern Suburbs
 8766,3582,Balmain Tigers
 8764,3653,South Sydney Rabbitohs
+8765,8775,North Sydney
+8765,3623,Glebe
 7178,902,Melbourne Storm
 7178,2835,Wests Tigers
 7179,6075,Brisbane Broncos
@@ -4089,19 +4156,61 @@ match_id,coach_id,team
 31270,1202,Cronulla Sutherland Sharks
 31270,902,Melbourne Storm
 8768,3582,Balmain Tigers
+8768,8775,North Sydney
+8769,8675,Glebe
+8770,8706,Newtown
+8773,8675,Glebe
+8772,8706,Newtown
+8772,8775,North Sydney
 8774,3582,Balmain Tigers
 8775,3582,Balmain Tigers
+8778,8775,North Sydney
+8776,8675,Glebe
+8777,8706,Newtown
 8779,3582,Balmain Tigers
+8781,8706,Newtown
+8782,8775,North Sydney
+8782,8675,Glebe
+8786,8675,Glebe
 8786,3582,Balmain Tigers
+8784,8706,Newtown
+8785,8775,North Sydney
+8787,8775,North Sydney
+8790,8706,Newtown
 8790,3582,Balmain Tigers
+8789,8675,Glebe
 8794,3582,Balmain Tigers
+8792,8675,Glebe
+8792,8706,Newtown
+8793,8775,North Sydney
+8795,8675,Glebe
+8796,8706,Newtown
+8798,8775,North Sydney
 8798,3582,Balmain Tigers
 8799,3582,Balmain Tigers
+8802,8675,Glebe
+8801,8775,North Sydney
+8801,8706,Newtown
 8803,3582,Balmain Tigers
+8806,8775,North Sydney
+8804,8675,Glebe
+8805,8706,Newtown
+8807,8706,Newtown
+8808,8675,Glebe
+8808,8775,North Sydney
 8809,3582,Balmain Tigers
 8813,3582,Balmain Tigers
+8813,8675,Glebe
+8811,8706,Newtown
+8812,8775,North Sydney
 8816,3582,Balmain Tigers
+8816,8706,Newtown
+8815,8675,Glebe
+8817,8775,North Sydney
 8822,3582,Balmain Tigers
+8820,8706,Newtown
+8820,8675,Glebe
+8821,8775,North Sydney
 35835,1202,Cronulla Sutherland Sharks
 35835,6075,Brisbane Broncos
 35836,260,Canterbury Bankstown Bulldogs
@@ -7324,193 +7433,407 @@ match_id,coach_id,team
 103131,902,Melbourne Storm
 103131,239,Penrith Panthers
 8824,3582,Balmain Tigers
+8826,3623,North Sydney
+8826,5381,Newtown
+8823,8691,Western Suburbs Magpies
+8827,8691,Western Suburbs Magpies
 8829,3582,Balmain Tigers
+8830,5381,Newtown
+8828,3623,North Sydney
+8828,5410,University
+8832,5410,University
+8834,5381,Newtown
 8834,3582,Balmain Tigers
+8833,3623,North Sydney
 8836,3582,Balmain Tigers
+8836,5410,University
+8835,5381,Newtown
+8837,8691,Western Suburbs Magpies
+8837,3623,North Sydney
+8840,8691,Western Suburbs Magpies
 8842,3582,Balmain Tigers
+8839,5381,Newtown
+8839,5410,University
+8841,3623,North Sydney
+8844,5410,University
 8845,3582,Balmain Tigers
+8845,8691,Western Suburbs Magpies
+8846,5381,Newtown
 8848,3582,Balmain Tigers
+8847,5410,University
+8850,3623,North Sydney
+8849,8691,Western Suburbs Magpies
+8849,5381,Newtown
+8851,5381,Newtown
+8854,3623,North Sydney
+8853,8691,Western Suburbs Magpies
+8853,5410,University
+8855,5410,University
+8856,8691,Western Suburbs Magpies
+8858,3623,North Sydney
 8858,3582,Balmain Tigers
 8862,3582,Balmain Tigers
+8860,5381,Newtown
+8860,3623,North Sydney
+8861,8691,Western Suburbs Magpies
+8864,5381,Newtown
+8863,3623,North Sydney
+8863,5410,University
 8866,3582,Balmain Tigers
+8865,8691,Western Suburbs Magpies
+8867,5381,Newtown
+8869,3623,North Sydney
+8870,8691,Western Suburbs Magpies
+8870,5410,University
 8872,3582,Balmain Tigers
+8872,5410,University
+8871,3623,North Sydney
+8871,8691,Western Suburbs Magpies
+8874,5381,Newtown
+8875,3623,North Sydney
 8877,3582,Balmain Tigers
+8876,5381,Newtown
+8876,5410,University
+8878,8691,Western Suburbs Magpies
+8879,5381,Newtown
+8880,5410,University
+8882,8691,Western Suburbs Magpies
 8882,3582,Balmain Tigers
 8884,5393,Balmain Tigers
+8884,5424,University
 8883,5378,St George Dragons
+8886,5406,South Sydney Rabbitohs
 8886,3623,North Sydney
+8885,5407,Western Suburbs Magpies
 8888,5393,Balmain Tigers
 8888,5378,St George Dragons
+8889,3674,Eastern Suburbs
+8889,5406,South Sydney Rabbitohs
 8887,3623,North Sydney
+8890,5407,Western Suburbs Magpies
+8890,5424,University
+8894,3674,Eastern Suburbs
 8891,3623,North Sydney
+8891,5424,University
 8892,5378,St George Dragons
+8892,5407,Western Suburbs Magpies
+8893,5406,South Sydney Rabbitohs
 8893,5393,Balmain Tigers
 8896,5393,Balmain Tigers
 8896,3623,North Sydney
 8898,5378,St George Dragons
+8898,3674,Eastern Suburbs
+8895,5406,South Sydney Rabbitohs
+8895,5424,University
+8900,3674,Eastern Suburbs
 8900,3623,North Sydney
+8899,5424,University
 8901,5378,St George Dragons
+8902,5407,Western Suburbs Magpies
+8902,5406,South Sydney Rabbitohs
+8906,3674,Eastern Suburbs
 8906,5393,Balmain Tigers
+8903,5407,Western Suburbs Magpies
 8905,3623,North Sydney
 8904,5378,St George Dragons
+8904,5424,University
+8909,3674,Eastern Suburbs
+8907,5406,South Sydney Rabbitohs
 8908,3623,North Sydney
 8908,5378,St George Dragons
+8910,5407,Western Suburbs Magpies
 8910,5393,Balmain Tigers
 8912,5393,Balmain Tigers
+8913,3674,Eastern Suburbs
+8913,5424,University
 8911,3623,North Sydney
+8911,5407,Western Suburbs Magpies
+8914,5406,South Sydney Rabbitohs
 8917,5393,Balmain Tigers
+8915,5424,University
+8916,5406,South Sydney Rabbitohs
 8916,5378,St George Dragons
+8918,5407,Western Suburbs Magpies
+8918,3674,Eastern Suburbs
 8919,5393,Balmain Tigers
 8920,5404,Eastern Suburbs
 8920,5378,St George Dragons
 8921,3623,North Sydney
+8921,3622,Newtown
+8922,9125,Western Suburbs Magpies
+8922,5406,South Sydney Rabbitohs
 8925,5393,Balmain Tigers
 8925,5404,Eastern Suburbs
 8923,3623,North Sydney
+8924,3622,Newtown
+8924,3674,University
+8926,5406,South Sydney Rabbitohs
 8926,5378,St George Dragons
+8927,3674,University
+8928,3622,Newtown
+8928,9125,Western Suburbs Magpies
 8929,3623,North Sydney
 8929,5393,Balmain Tigers
+8930,5406,South Sydney Rabbitohs
 8930,5404,Eastern Suburbs
 8932,5393,Balmain Tigers
+8932,3674,University
 8933,5404,Eastern Suburbs
 8933,3623,North Sydney
+8931,3622,Newtown
 8931,5378,St George Dragons
+8934,9125,Western Suburbs Magpies
 8937,5393,Balmain Tigers
+8937,9125,Western Suburbs Magpies
 8935,5378,St George Dragons
 8936,3623,North Sydney
+8936,3674,University
+8938,5406,South Sydney Rabbitohs
+8938,3622,Newtown
 8940,5404,Eastern Suburbs
+8940,3674,University
+8939,5406,South Sydney Rabbitohs
 8942,5378,St George Dragons
 8942,5393,Balmain Tigers
+8941,9125,Western Suburbs Magpies
 8941,3623,North Sydney
 8944,5393,Balmain Tigers
+8944,5406,South Sydney Rabbitohs
 8945,5404,Eastern Suburbs
+8945,3622,Newtown
 8943,3623,North Sydney
 8943,5378,St George Dragons
+8946,9125,Western Suburbs Magpies
+8946,3674,University
 8949,5404,Eastern Suburbs
+8949,9125,Western Suburbs Magpies
+8947,3622,Newtown
 8948,5378,St George Dragons
+8948,3674,University
+8950,5406,South Sydney Rabbitohs
 8950,3623,North Sydney
 8951,5404,Eastern Suburbs
+8953,3622,Newtown
 8953,5393,Balmain Tigers
+8952,9125,Western Suburbs Magpies
 8952,5378,St George Dragons
 8956,5393,Balmain Tigers
+8954,3622,Newtown
 8954,3623,North Sydney
 8957,5378,St George Dragons
 8957,5404,Eastern Suburbs
+8955,5406,South Sydney Rabbitohs
+8955,9125,Western Suburbs Magpies
 8961,5404,Eastern Suburbs
 8961,5393,Balmain Tigers
+8958,3622,Newtown
+8958,3674,University
 8960,3623,North Sydney
 8959,5378,St George Dragons
+8959,5406,South Sydney Rabbitohs
 8963,5393,Balmain Tigers
 8963,3623,North Sydney
 8964,5404,Eastern Suburbs
+8964,5406,South Sydney Rabbitohs
+8962,3674,University
+8965,9125,Western Suburbs Magpies
+8965,3622,Newtown
 8967,5393,Balmain Tigers
+8967,3674,University
+8966,9125,Western Suburbs Magpies
 8969,3623,North Sydney
 8969,5404,Eastern Suburbs
 8968,5378,St George Dragons
+8968,3622,Newtown
+8970,3622,Newtown
+8970,5406,South Sydney Rabbitohs
 8971,3623,North Sydney
+8971,3674,University
 8972,5378,St George Dragons
+8973,9125,Western Suburbs Magpies
 8973,5393,Balmain Tigers
 8975,5393,Balmain Tigers
 8975,5378,St George Dragons
 8976,5404,Eastern Suburbs
+8976,3674,University
 8974,3623,North Sydney
+8974,9125,Western Suburbs Magpies
+8977,5406,South Sydney Rabbitohs
+8981,3622,Newtown
 8981,5404,Eastern Suburbs
 8978,5378,St George Dragons
 8978,3623,North Sydney
+8980,5406,South Sydney Rabbitohs
 8980,5393,Balmain Tigers
+8979,9125,Western Suburbs Magpies
+8979,3674,University
+8984,3622,Newtown
 8982,3623,North Sydney
+8982,5406,South Sydney Rabbitohs
 8983,5378,St George Dragons
+8983,3674,University
+8985,9125,Western Suburbs Magpies
 8985,5404,Eastern Suburbs
 8988,5393,Balmain Tigers
+8988,3622,Newtown
 8989,5404,Eastern Suburbs
 8986,5378,St George Dragons
+8986,9125,Western Suburbs Magpies
+8987,5406,South Sydney Rabbitohs
+8987,3674,University
 8990,3623,North Sydney
 8992,5393,Balmain Tigers
 8992,5378,St George Dragons
 8993,5404,Eastern Suburbs
+8993,5424,University
+8991,5384,Glebe
 8991,3582,Newtown
 8991,5381,Newtown
+8994,8691,Western Suburbs Magpies
 8996,5393,Balmain Tigers
+8996,5424,University
 8997,5404,Eastern Suburbs
 8997,3582,Newtown
 8997,5381,Newtown
+8995,5384,Glebe
+8995,8978,South Sydney Rabbitohs
 8998,5378,St George Dragons
 9001,5393,Balmain Tigers
 9002,5404,Eastern Suburbs
+9002,8978,South Sydney Rabbitohs
+8999,5384,Glebe
+8999,8691,Western Suburbs Magpies
 9000,3582,Newtown
+9000,5424,University
 9000,5381,Newtown
 9005,5393,Balmain Tigers
 9005,3582,Newtown
 9005,5381,Newtown
+9003,5384,Glebe
 9003,5378,St George Dragons
+9004,8978,South Sydney Rabbitohs
+9004,5424,University
+9006,8691,Western Suburbs Magpies
 9006,5404,Eastern Suburbs
+9007,5384,Glebe
 9010,5378,St George Dragons
 9010,5404,Eastern Suburbs
+9008,8978,South Sydney Rabbitohs
 9008,3582,Newtown
 9008,5381,Newtown
+9009,8691,Western Suburbs Magpies
+9009,5424,University
 9013,5393,Balmain Tigers
+9013,8978,South Sydney Rabbitohs
 9014,5404,Eastern Suburbs
 9011,3582,Newtown
+9011,8691,Western Suburbs Magpies
 9011,5381,Newtown
 9012,5378,St George Dragons
+9012,5424,University
+9018,5384,Glebe
 9018,5393,Balmain Tigers
+9015,5424,University
 9017,5378,St George Dragons
 9017,3582,Newtown
 9017,5381,Newtown
+9016,8978,South Sydney Rabbitohs
+9016,8691,Western Suburbs Magpies
+9022,5384,Glebe
 9022,5404,Eastern Suburbs
 9019,3582,Newtown
 9019,5381,Newtown
 9020,5378,St George Dragons
+9020,8978,South Sydney Rabbitohs
+9021,8691,Western Suburbs Magpies
 9021,5393,Balmain Tigers
 9026,5404,Eastern Suburbs
 9026,5393,Balmain Tigers
+9023,5384,Glebe
+9023,5424,University
+9024,8978,South Sydney Rabbitohs
+9025,8691,Western Suburbs Magpies
 9025,5378,St George Dragons
 9027,5404,Eastern Suburbs
+9027,5424,University
 9028,3582,Newtown
+9028,5384,Glebe
 9028,5381,Newtown
 9030,5378,St George Dragons
 9030,5393,Balmain Tigers
+9029,8691,Western Suburbs Magpies
 9031,5393,Balmain Tigers
+9031,5424,University
 9034,3582,Newtown
 9034,5404,Eastern Suburbs
 9034,5381,Newtown
 9033,5378,St George Dragons
+9032,8978,South Sydney Rabbitohs
+9032,5384,Glebe
 9036,5393,Balmain Tigers
 9035,3582,Newtown
+9035,5424,University
 9035,5381,Newtown
+9038,8978,South Sydney Rabbitohs
 9038,5404,Eastern Suburbs
+9037,8691,Western Suburbs Magpies
+9037,5384,Glebe
 9040,5393,Balmain Tigers
 9040,3582,Newtown
 9040,5381,Newtown
 9041,5404,Eastern Suburbs
+9041,8691,Western Suburbs Magpies
 9042,5378,St George Dragons
+9042,5384,Glebe
+9039,8978,South Sydney Rabbitohs
+9039,5424,University
 9045,5404,Eastern Suburbs
 9045,5378,St George Dragons
+9043,5384,Glebe
 9044,3582,Newtown
+9044,8978,South Sydney Rabbitohs
 9044,5381,Newtown
+9046,8691,Western Suburbs Magpies
+9046,5424,University
 9048,5404,Eastern Suburbs
 9047,5378,St George Dragons
+9047,5424,University
+9050,8978,South Sydney Rabbitohs
 9050,5393,Balmain Tigers
+9049,8691,Western Suburbs Magpies
 9049,3582,Newtown
 9049,5381,Newtown
 9052,5393,Balmain Tigers
+9052,5384,Glebe
 9051,3582,Newtown
 9051,5378,St George Dragons
 9051,5381,Newtown
+9053,5424,University
+9054,8691,Western Suburbs Magpies
+9054,8978,South Sydney Rabbitohs
 9057,5404,Eastern Suburbs
+9057,5384,Glebe
 9055,3582,Newtown
 9055,5381,Newtown
 9056,5378,St George Dragons
+9056,8978,South Sydney Rabbitohs
+9058,8691,Western Suburbs Magpies
 9058,5393,Balmain Tigers
 9061,5393,Balmain Tigers
 9061,5404,Eastern Suburbs
+9059,5384,Glebe
+9059,5424,University
 9060,5378,St George Dragons
+9060,8691,Western Suburbs Magpies
+9062,8978,South Sydney Rabbitohs
 9063,5404,Eastern Suburbs
+9063,8978,South Sydney Rabbitohs
 9064,3620,Glebe
 9064,3581,North Sydney
 9067,3622,Newtown
 9067,5404,Eastern Suburbs
 9065,5378,St George Dragons
+9065,5424,University
 9066,11823,South Sydney Rabbitohs
 9066,5381,Western Suburbs Magpies
 9070,5393,Balmain Tigers
@@ -7520,9 +7843,11 @@ match_id,coach_id,team
 9068,3620,Glebe
 9068,11823,South Sydney Rabbitohs
 9069,3622,Newtown
+9069,5424,University
 9072,5393,Balmain Tigers
 9072,3622,Newtown
 9073,5404,Eastern Suburbs
+9073,5424,University
 9074,11823,South Sydney Rabbitohs
 9074,3581,North Sydney
 9075,5381,Western Suburbs Magpies
@@ -7530,6 +7855,7 @@ match_id,coach_id,team
 9077,5393,Balmain Tigers
 9077,5404,Eastern Suburbs
 9076,3581,North Sydney
+9076,5424,University
 9078,5378,St George Dragons
 9078,3620,Glebe
 9079,5381,Western Suburbs Magpies
@@ -7545,6 +7871,7 @@ match_id,coach_id,team
 9086,5404,Eastern Suburbs
 9086,11823,South Sydney Rabbitohs
 9084,3620,Glebe
+9084,5424,University
 9085,3581,North Sydney
 9085,5378,St George Dragons
 9087,5381,Western Suburbs Magpies
@@ -7556,6 +7883,7 @@ match_id,coach_id,team
 9088,3622,Newtown
 9088,11823,South Sydney Rabbitohs
 9091,5381,Western Suburbs Magpies
+9091,5424,University
 9095,3620,Glebe
 9095,5393,Balmain Tigers
 9092,3581,North Sydney
@@ -7563,7 +7891,9 @@ match_id,coach_id,team
 9094,5378,St George Dragons
 9094,3622,Newtown
 9093,11823,South Sydney Rabbitohs
+9093,5424,University
 9097,5393,Balmain Tigers
+9097,5424,University
 9098,3622,Newtown
 9098,3620,Glebe
 9096,5378,St George Dragons
@@ -7574,84 +7904,96 @@ match_id,coach_id,team
 9100,11823,South Sydney Rabbitohs
 9103,8973,Balmain Tigers
 9103,5406,South Sydney Rabbitohs
-9103,5393,Balmain Tigers
+9101,5378,St George Dragons
 9102,5381,Newtown
 9102,3581,North Sydney
 9108,5381,Newtown
 9108,8973,Balmain Tigers
-9108,5393,Balmain Tigers
 9107,3581,North Sydney
 9105,5406,South Sydney Rabbitohs
 9111,8973,Balmain Tigers
-9111,5393,Balmain Tigers
 9109,5381,Newtown
+9110,5378,St George Dragons
 9112,5406,South Sydney Rabbitohs
 9115,8973,Balmain Tigers
-9115,5393,Balmain Tigers
 9113,5381,Newtown
+9114,5378,St George Dragons
 9114,5406,South Sydney Rabbitohs
 9116,3581,North Sydney
 9118,8973,Balmain Tigers
-9118,5393,Balmain Tigers
 9117,5381,Newtown
 9117,5406,South Sydney Rabbitohs
+9119,5378,St George Dragons
 9119,3581,North Sydney
 9122,5381,Newtown
 9124,3581,North Sydney
 9124,8973,Balmain Tigers
-9124,5393,Balmain Tigers
+9121,5378,St George Dragons
 9123,5406,South Sydney Rabbitohs
 9127,8973,Balmain Tigers
-9127,5393,Balmain Tigers
 9125,3581,North Sydney
+9128,5378,St George Dragons
 9126,5381,Newtown
 9130,5381,Newtown
+9130,5378,St George Dragons
 9132,3581,North Sydney
 9131,5406,South Sydney Rabbitohs
 9133,8973,Balmain Tigers
-9133,5393,Balmain Tigers
+9133,5378,St George Dragons
 9136,5406,South Sydney Rabbitohs
 9136,3581,North Sydney
 9140,8973,Balmain Tigers
-9140,5393,Balmain Tigers
 9137,3581,North Sydney
 9138,5406,South Sydney Rabbitohs
+9139,5378,St George Dragons
 9143,8973,Balmain Tigers
 9143,5381,Newtown
-9143,5393,Balmain Tigers
 9141,5406,South Sydney Rabbitohs
 9144,3581,North Sydney
+9142,5378,St George Dragons
 9146,3581,North Sydney
 9146,5381,Newtown
 9147,5406,South Sydney Rabbitohs
+9147,5378,St George Dragons
 9148,8973,Balmain Tigers
-9148,5393,Balmain Tigers
 9150,8973,Balmain Tigers
-9150,5393,Balmain Tigers
 9151,5406,South Sydney Rabbitohs
 9152,5381,Newtown
 9149,3581,North Sydney
 9154,5406,South Sydney Rabbitohs
+9154,9160,St George Dragons
 9156,5382,Eastern Suburbs
 9156,8973,Balmain Tigers
 9155,5381,Newtown
+9155,5424,University
 9159,8973,Balmain Tigers
 9157,5381,Newtown
+9158,9160,St George Dragons
+9158,5424,University
 9160,5406,South Sydney Rabbitohs
 9160,5382,Eastern Suburbs
 9161,5382,Eastern Suburbs
+9161,9160,St George Dragons
 9164,8973,Balmain Tigers
 9162,5406,South Sydney Rabbitohs
+9163,5424,University
 9167,8973,Balmain Tigers
 9167,5381,Newtown
 9168,5382,Eastern Suburbs
+9168,5424,University
 9165,5406,South Sydney Rabbitohs
+9166,9160,St George Dragons
 9170,8973,Balmain Tigers
+9170,5424,University
 9172,5381,Newtown
 9172,5382,Eastern Suburbs
+9169,9160,St George Dragons
 9174,5382,Eastern Suburbs
+9173,5424,University
+9175,9160,St George Dragons
 9175,5381,Newtown
 9176,5406,South Sydney Rabbitohs
+9177,9160,St George Dragons
 9180,5382,Eastern Suburbs
 9178,5406,South Sydney Rabbitohs
 9178,5381,Newtown
@@ -7659,87 +8001,120 @@ match_id,coach_id,team
 9183,8973,Balmain Tigers
 9183,5406,South Sydney Rabbitohs
 9184,5382,Eastern Suburbs
+9181,5424,University
 9182,5381,Newtown
 9185,5381,Newtown
+9188,9160,St George Dragons
 9188,8973,Balmain Tigers
 9187,5406,South Sydney Rabbitohs
+9187,5424,University
 9191,8973,Balmain Tigers
 9191,5382,Eastern Suburbs
 9189,5381,Newtown
+9189,5424,University
+9190,9160,St George Dragons
 9190,5406,South Sydney Rabbitohs
 9194,5382,Eastern Suburbs
 9194,5406,South Sydney Rabbitohs
 9196,8973,Balmain Tigers
+9193,9160,St George Dragons
+9193,5424,University
 9195,5381,Newtown
 9198,8973,Balmain Tigers
 9197,5406,South Sydney Rabbitohs
+9200,9160,St George Dragons
 9200,5382,Eastern Suburbs
+9199,5424,University
 9201,5382,Eastern Suburbs
+9201,5424,University
 9204,5381,Newtown
 9204,8973,Balmain Tigers
+9203,9160,St George Dragons
 9202,5406,South Sydney Rabbitohs
 9206,8973,Balmain Tigers
+9206,5424,University
 9207,5382,Eastern Suburbs
 9207,5381,Newtown
+9208,9160,St George Dragons
 9212,5382,Eastern Suburbs
 9209,5381,Newtown
+9209,9160,St George Dragons
+9210,5424,University
 9211,5406,South Sydney Rabbitohs
 9214,8973,Balmain Tigers
 9215,5382,Eastern Suburbs
 9213,5381,Newtown
 9213,5406,South Sydney Rabbitohs
+9216,9160,St George Dragons
+9217,5424,University
 9218,5381,Newtown
 9219,5406,South Sydney Rabbitohs
 9219,8973,Balmain Tigers
 9220,5382,Eastern Suburbs
 9222,8973,Balmain Tigers
+9222,9160,St George Dragons
 9223,5381,Newtown
 9221,5406,South Sydney Rabbitohs
+9221,5424,University
+9225,5424,University
 9226,5406,South Sydney Rabbitohs
 9226,5382,Eastern Suburbs
 9227,5406,South Sydney Rabbitohs
+9227,5424,University
 9229,8973,Balmain Tigers
+9230,5381,Newtown
 9228,5384,St George Dragons
 9231,5737,South Sydney Rabbitohs
 9232,5387,Western Suburbs Magpies
+9234,5381,Newtown
 9234,8973,Balmain Tigers
 9235,5384,St George Dragons
 9236,5737,South Sydney Rabbitohs
+9237,5381,Newtown
 9237,5387,Western Suburbs Magpies
 9239,8973,Balmain Tigers
 9241,8973,Balmain Tigers
 9240,5384,St George Dragons
 9242,5737,South Sydney Rabbitohs
+9242,5381,Newtown
 9243,5387,Western Suburbs Magpies
 9246,5384,St George Dragons
 9246,8973,Balmain Tigers
 9245,5387,Western Suburbs Magpies
 9245,5737,South Sydney Rabbitohs
+9251,5381,Newtown
 9248,5384,St George Dragons
 9250,5737,South Sydney Rabbitohs
 9250,8973,Balmain Tigers
 9249,5387,Western Suburbs Magpies
 9252,5384,St George Dragons
+9252,5381,Newtown
 9253,5737,South Sydney Rabbitohs
 9254,5387,Western Suburbs Magpies
 9254,8973,Balmain Tigers
 9259,8973,Balmain Tigers
+9257,5381,Newtown
 9256,5737,South Sydney Rabbitohs
 9258,5387,Western Suburbs Magpies
 9258,5384,St George Dragons
+9260,5381,Newtown
 9261,5384,St George Dragons
 9261,5737,South Sydney Rabbitohs
 9263,5387,Western Suburbs Magpies
 9266,5737,South Sydney Rabbitohs
 9267,8973,Balmain Tigers
+9264,5381,Newtown
 9265,5384,St George Dragons
 9269,8973,Balmain Tigers
+9269,5381,Newtown
 9270,5384,St George Dragons
 9271,5387,Western Suburbs Magpies
 9272,8973,Balmain Tigers
 9274,5737,South Sydney Rabbitohs
 9275,5387,Western Suburbs Magpies
+9275,5381,Newtown
 9278,8973,Balmain Tigers
+9276,5381,Newtown
 9276,5737,South Sydney Rabbitohs
 9277,5387,Western Suburbs Magpies
 9279,5384,St George Dragons
@@ -7749,17 +8124,21 @@ match_id,coach_id,team
 9281,5387,Western Suburbs Magpies
 9285,8973,Balmain Tigers
 9285,5737,South Sydney Rabbitohs
+9286,5381,Newtown
 9284,5384,St George Dragons
 9287,5387,Western Suburbs Magpies
 9290,8973,Balmain Tigers
 9290,5387,Western Suburbs Magpies
+9288,5381,Newtown
 9288,5384,St George Dragons
 9289,5737,South Sydney Rabbitohs
 9295,8973,Balmain Tigers
+9292,5381,Newtown
 9293,5384,St George Dragons
 9293,5387,Western Suburbs Magpies
 9294,5737,South Sydney Rabbitohs
 9298,5387,Western Suburbs Magpies
+9297,5381,Newtown
 9299,5737,South Sydney Rabbitohs
 9299,5384,St George Dragons
 9300,5384,St George Dragons
@@ -7767,224 +8146,388 @@ match_id,coach_id,team
 9301,5387,Western Suburbs Magpies
 9302,5737,South Sydney Rabbitohs
 9302,5384,St George Dragons
+8258,8706,Newtown
+8259,3580,Eastern Suburbs
+8260,3623,Glebe
+8261,3653,South Sydney Rabbitohs
 8261,3612,Balmain Tigers
 8264,3612,Balmain Tigers
+8263,3580,Eastern Suburbs
+8262,8706,Newtown
+8265,3653,South Sydney Rabbitohs
+8265,3623,Glebe
+8266,3580,Eastern Suburbs
+8266,3653,South Sydney Rabbitohs
+8267,3623,Glebe
+8268,8706,Newtown
 8269,3612,Balmain Tigers
+8270,3580,Eastern Suburbs
 8272,3612,Balmain Tigers
+8271,8706,Newtown
+8271,3653,South Sydney Rabbitohs
+8273,3623,Glebe
+8275,3580,Eastern Suburbs
+8275,8706,Newtown
+8277,3623,Glebe
 8277,3612,Balmain Tigers
+8274,3653,South Sydney Rabbitohs
 8279,3612,Balmain Tigers
+8279,3580,Eastern Suburbs
+8280,8706,Newtown
+8280,3623,Glebe
+8281,3653,South Sydney Rabbitohs
+8282,3653,South Sydney Rabbitohs
+8285,3623,Glebe
+8285,3580,Eastern Suburbs
+8284,8706,Newtown
 8284,3612,Balmain Tigers
 8286,3612,Balmain Tigers
+8287,3623,Glebe
+8287,8706,Newtown
+8289,3580,Eastern Suburbs
+8288,3653,South Sydney Rabbitohs
+8290,3623,Glebe
 8291,3612,Balmain Tigers
+8293,8706,Newtown
+8293,3580,Eastern Suburbs
+8292,3653,South Sydney Rabbitohs
+8295,3580,Eastern Suburbs
+8294,3623,Glebe
 8297,3612,Balmain Tigers
+8296,3653,South Sydney Rabbitohs
+8296,8706,Newtown
 8299,3612,Balmain Tigers
+8299,8706,Newtown
+8298,3623,Glebe
+8300,3653,South Sydney Rabbitohs
+8301,3580,Eastern Suburbs
 8304,3612,Balmain Tigers
+8304,3623,Glebe
+8303,8706,Newtown
+8305,3653,South Sydney Rabbitohs
+8305,3580,Eastern Suburbs
+8309,3580,Eastern Suburbs
 8309,3612,Balmain Tigers
+8306,3623,Glebe
+8306,3653,South Sydney Rabbitohs
+8308,8706,Newtown
 8311,3612,Balmain Tigers
+8311,3653,South Sydney Rabbitohs
+8312,3580,Eastern Suburbs
+8312,3623,Glebe
+8313,8706,Newtown
+8314,3653,South Sydney Rabbitohs
+8314,8706,Newtown
+9304,5424,University
 9303,3623,Western Suburbs Magpies
+9306,11817,North Sydney
 9306,8973,Balmain Tigers
 9305,11814,South Sydney Rabbitohs
+9305,9030,Glebe
 9307,8973,Balmain Tigers
 9307,11814,South Sydney Rabbitohs
+9308,11817,North Sydney
 9309,5384,St George Dragons
 9310,3623,Western Suburbs Magpies
+9310,5424,University
 9314,8973,Balmain Tigers
+9311,9030,Glebe
 9311,3623,Western Suburbs Magpies
+9312,11817,North Sydney
 9312,5384,St George Dragons
 9313,11814,South Sydney Rabbitohs
+9313,5424,University
 9315,8973,Balmain Tigers
 9315,3623,Western Suburbs Magpies
+9317,11817,North Sydney
 9316,5384,St George Dragons
+9316,9030,Glebe
 9318,11814,South Sydney Rabbitohs
 9320,8973,Balmain Tigers
+9320,5424,University
+9322,9030,Glebe
 9319,11814,South Sydney Rabbitohs
 9321,3623,Western Suburbs Magpies
 9321,5384,St George Dragons
+9326,9030,Glebe
 9326,8973,Balmain Tigers
+9323,11817,North Sydney
+9323,5424,University
 9324,5384,St George Dragons
 9324,11814,South Sydney Rabbitohs
 9329,8973,Balmain Tigers
 9330,5384,St George Dragons
+9327,9030,Glebe
+9327,5424,University
+9328,11817,North Sydney
 9328,3623,Western Suburbs Magpies
+9331,9030,Glebe
+9331,11817,North Sydney
+9332,5424,University
 9334,5384,St George Dragons
 9334,8973,Balmain Tigers
 9333,3623,Western Suburbs Magpies
 9333,11814,South Sydney Rabbitohs
+9337,9030,Glebe
+9335,11817,North Sydney
 9335,11814,South Sydney Rabbitohs
 9336,5384,St George Dragons
+9336,5424,University
 9338,3623,Western Suburbs Magpies
 9339,5384,St George Dragons
+9339,5424,University
 9341,11814,South Sydney Rabbitohs
 9341,8973,Balmain Tigers
 9340,3623,Western Suburbs Magpies
+9340,9030,Glebe
 9345,8973,Balmain Tigers
 9345,5384,St George Dragons
 9346,3623,Western Suburbs Magpies
+9343,9030,Glebe
 9343,11814,South Sydney Rabbitohs
+9344,11817,North Sydney
+9344,5424,University
 9348,8973,Balmain Tigers
+9348,11817,North Sydney
+9349,9030,Glebe
+9347,5424,University
 9350,11814,South Sydney Rabbitohs
 9350,5384,St George Dragons
+9351,9030,Glebe
 9351,5384,St George Dragons
 9354,8973,Balmain Tigers
 9352,11814,South Sydney Rabbitohs
+9352,11817,North Sydney
 9353,3623,Western Suburbs Magpies
+9353,5424,University
+9355,5424,University
 9357,5384,St George Dragons
+9357,11817,North Sydney
 9356,11814,South Sydney Rabbitohs
 9358,3623,Western Suburbs Magpies
 9358,8973,Balmain Tigers
+9359,11817,North Sydney
 9360,11814,South Sydney Rabbitohs
 9360,5384,St George Dragons
 9361,11814,South Sydney Rabbitohs
-9364,8973,Balmain Tigers
-9364,11814,South Sydney Rabbitohs
 9364,5729,Balmain Tigers
+9364,11814,South Sydney Rabbitohs
 9365,5728,Eastern Suburbs
+9365,5424,University
+9362,3623,Glebe
+9362,52117,Newtown
 9363,5384,St George Dragons
 9363,5722,Western Suburbs Magpies
-9367,8973,Balmain Tigers
-9367,5722,Western Suburbs Magpies
 9367,5729,Balmain Tigers
+9367,5722,Western Suburbs Magpies
+9369,9252,North Sydney
 9369,5728,Eastern Suburbs
 9366,5384,St George Dragons
+9366,5424,University
 9368,11814,South Sydney Rabbitohs
-9372,8973,Balmain Tigers
+9368,3623,Glebe
+9372,3623,Glebe
 9372,5729,Balmain Tigers
+9373,52117,Newtown
 9373,5728,Eastern Suburbs
+9370,9252,North Sydney
 9370,5384,St George Dragons
 9371,5722,Western Suburbs Magpies
-9374,8973,Balmain Tigers
+9371,5424,University
 9374,5729,Balmain Tigers
+9374,5424,University
 9375,5384,St George Dragons
+9375,52117,Newtown
 9377,11814,South Sydney Rabbitohs
 9377,9180,Eastern Suburbs
 9376,5722,Western Suburbs Magpies
+9376,9252,North Sydney
+9381,3623,Glebe
 9381,9180,Eastern Suburbs
+9378,9252,North Sydney
+9378,5424,University
 9379,5384,St George Dragons
 9379,11814,South Sydney Rabbitohs
 9380,5722,Western Suburbs Magpies
+9380,52117,Newtown
+9382,3623,Glebe
 9382,5384,St George Dragons
-9385,8973,Balmain Tigers
+9383,52117,Newtown
+9383,5424,University
+9385,9252,North Sydney
 9385,5729,Balmain Tigers
 9384,11814,South Sydney Rabbitohs
 9384,5722,Western Suburbs Magpies
 9389,9180,Eastern Suburbs
-9389,8973,Balmain Tigers
 9389,5729,Balmain Tigers
+9386,52117,Newtown
+9386,9252,North Sydney
 9387,11814,South Sydney Rabbitohs
+9387,5424,University
 9388,5722,Western Suburbs Magpies
-9392,8973,Balmain Tigers
+9388,3623,Glebe
+9390,3623,Glebe
+9390,5424,University
+9392,52117,Newtown
 9392,5729,Balmain Tigers
 9393,5384,St George Dragons
 9393,9180,Eastern Suburbs
 9391,11814,South Sydney Rabbitohs
-9396,8973,Balmain Tigers
-9396,5384,St George Dragons
+9391,9252,North Sydney
 9396,5729,Balmain Tigers
+9396,5384,St George Dragons
+9394,3623,Glebe
+9394,9252,North Sydney
+9395,52117,Newtown
 9395,11814,South Sydney Rabbitohs
 9397,5722,Western Suburbs Magpies
 9397,9180,Eastern Suburbs
 9398,9180,Eastern Suburbs
+9398,5424,University
+9399,52117,Newtown
+9399,3623,Glebe
 9401,11814,South Sydney Rabbitohs
-9401,8973,Balmain Tigers
 9401,5729,Balmain Tigers
 9400,5722,Western Suburbs Magpies
 9400,5384,St George Dragons
 9404,9180,Eastern Suburbs
+9404,9252,North Sydney
+9402,3623,Glebe
 9402,11814,South Sydney Rabbitohs
 9403,5384,St George Dragons
+9403,5424,University
 9405,5722,Western Suburbs Magpies
-9405,8973,Balmain Tigers
 9405,5729,Balmain Tigers
-9406,8973,Balmain Tigers
 9406,5729,Balmain Tigers
+9406,3623,Glebe
 9407,9180,Eastern Suburbs
+9407,52117,Newtown
 9408,5384,St George Dragons
+9408,9252,North Sydney
 9409,5722,Western Suburbs Magpies
-9412,8973,Balmain Tigers
+9409,5424,University
 9412,5729,Balmain Tigers
+9412,5424,University
 9413,9180,Eastern Suburbs
 9413,11814,South Sydney Rabbitohs
+9410,52117,Newtown
 9410,5384,St George Dragons
+9411,9252,North Sydney
 9411,5722,Western Suburbs Magpies
 9416,9180,Eastern Suburbs
+9416,3623,Glebe
+9414,52117,Newtown
 9414,5722,Western Suburbs Magpies
+9415,9252,North Sydney
+9415,5424,University
 9417,11814,South Sydney Rabbitohs
 9417,5384,St George Dragons
-9419,8973,Balmain Tigers
 9419,5729,Balmain Tigers
+9419,9252,North Sydney
+9418,52117,Newtown
+9418,5424,University
 9420,5384,St George Dragons
+9420,3623,Glebe
 9421,5722,Western Suburbs Magpies
 9421,11814,South Sydney Rabbitohs
-9424,8973,Balmain Tigers
-9424,9180,Eastern Suburbs
 9424,5729,Balmain Tigers
+9424,9180,Eastern Suburbs
+9422,3623,Glebe
 9422,5722,Western Suburbs Magpies
+9425,9252,North Sydney
+9425,52117,Newtown
 9423,11814,South Sydney Rabbitohs
-9428,8973,Balmain Tigers
+9423,5424,University
 9428,5729,Balmain Tigers
+9428,52117,Newtown
 9429,9180,Eastern Suburbs
 9429,5384,St George Dragons
+9426,3623,Glebe
+9426,5424,University
+9427,9252,North Sydney
 9427,11814,South Sydney Rabbitohs
 9430,9180,Eastern Suburbs
 9430,5722,Western Suburbs Magpies
+9431,9252,North Sydney
+9431,3623,Glebe
 9433,5384,St George Dragons
-9433,8973,Balmain Tigers
 9433,5729,Balmain Tigers
 9432,11814,South Sydney Rabbitohs
+9432,52117,Newtown
+9434,52117,Newtown
 9434,5384,St George Dragons
 9435,11814,South Sydney Rabbitohs
 9435,5722,Western Suburbs Magpies
 9436,11814,South Sydney Rabbitohs
+9436,52117,Newtown
 9439,9212,Balmain Tigers
 9439,3582,Eastern Suburbs
 9439,9267,Balmain Tigers
 9437,5384,St George Dragons
 9438,11814,South Sydney Rabbitohs
+9438,5424,University
 9440,5722,Western Suburbs Magpies
+9440,8691,North Sydney
+9441,5424,University
 9444,5384,St George Dragons
 9444,3582,Eastern Suburbs
 9442,11814,South Sydney Rabbitohs
+9442,8691,North Sydney
 9443,5722,Western Suburbs Magpies
 9443,9212,Balmain Tigers
 9443,9267,Balmain Tigers
 9446,3582,Eastern Suburbs
 9446,5722,Western Suburbs Magpies
+9447,8691,North Sydney
 9445,5384,St George Dragons
+9445,5424,University
 9448,11814,South Sydney Rabbitohs
 9448,9212,Balmain Tigers
 9448,9267,Balmain Tigers
 9450,9212,Balmain Tigers
 9450,9267,Balmain Tigers
+9449,8691,North Sydney
+9449,5424,University
 9452,11814,South Sydney Rabbitohs
 9452,3582,Eastern Suburbs
 9451,5722,Western Suburbs Magpies
 9451,5384,St George Dragons
 9454,9212,Balmain Tigers
+9454,5424,University
 9454,9267,Balmain Tigers
 9456,3582,Eastern Suburbs
+9453,8691,North Sydney
 9453,5384,St George Dragons
 9455,5722,Western Suburbs Magpies
 9455,11814,South Sydney Rabbitohs
 9457,9212,Balmain Tigers
+9457,8691,North Sydney
 9457,9267,Balmain Tigers
 9458,3582,Eastern Suburbs
+9458,5424,University
 9460,11814,South Sydney Rabbitohs
 9460,5384,St George Dragons
 9459,5722,Western Suburbs Magpies
+9464,8691,North Sydney
 9464,3582,Eastern Suburbs
 9463,5384,St George Dragons
 9463,9212,Balmain Tigers
 9463,9267,Balmain Tigers
 9461,11814,South Sydney Rabbitohs
 9462,5722,Western Suburbs Magpies
+9462,5424,University
 9468,3582,Eastern Suburbs
 9468,9212,Balmain Tigers
 9468,9267,Balmain Tigers
+9465,8691,North Sydney
 9465,5722,Western Suburbs Magpies
 9467,5384,St George Dragons
 9466,11814,South Sydney Rabbitohs
+9466,5424,University
 9471,3582,Eastern Suburbs
 9471,5384,St George Dragons
+9469,5424,University
+9470,8691,North Sydney
 9470,11814,South Sydney Rabbitohs
 9472,5722,Western Suburbs Magpies
 9472,9212,Balmain Tigers
@@ -7994,22 +8537,30 @@ match_id,coach_id,team
 9475,9267,Balmain Tigers
 9476,3582,Eastern Suburbs
 9476,5722,Western Suburbs Magpies
+9473,8691,North Sydney
 9474,5384,St George Dragons
+9474,5424,University
 9479,3582,Eastern Suburbs
 9479,11814,South Sydney Rabbitohs
 9480,9212,Balmain Tigers
 9480,9267,Balmain Tigers
+9477,8691,North Sydney
+9477,5424,University
 9478,5384,St George Dragons
 9478,5722,Western Suburbs Magpies
 9482,9212,Balmain Tigers
+9482,5424,University
 9482,9267,Balmain Tigers
 9483,3582,Eastern Suburbs
 9484,5384,St George Dragons
+9484,8691,North Sydney
 9481,11814,South Sydney Rabbitohs
 9481,5722,Western Suburbs Magpies
 9487,9212,Balmain Tigers
+9487,8691,North Sydney
 9487,9267,Balmain Tigers
 9488,3582,Eastern Suburbs
+9488,5424,University
 9485,5722,Western Suburbs Magpies
 9486,5384,St George Dragons
 9486,11814,South Sydney Rabbitohs
@@ -8017,8 +8568,10 @@ match_id,coach_id,team
 9490,5384,St George Dragons
 9490,9267,Balmain Tigers
 9489,11814,South Sydney Rabbitohs
+9492,8691,North Sydney
 9492,3582,Eastern Suburbs
 9491,5722,Western Suburbs Magpies
+9491,5424,University
 9493,5384,St George Dragons
 9493,3582,Eastern Suburbs
 9494,5722,Western Suburbs Magpies
@@ -8203,28 +8756,28 @@ match_id,coach_id,team
 9617,11814,South Sydney Rabbitohs
 9618,5758,North Sydney
 9618,5381,St George Dragons
-9618,9393,St George Dragons
 9619,5771,Western Suburbs Magpies
+9619,9573,University
 9622,3582,Eastern Suburbs
 9622,8706,Newtown
 9621,5381,St George Dragons
-9621,9393,St George Dragons
+9621,9573,University
 9623,11814,South Sydney Rabbitohs
 9623,5758,North Sydney
 9624,5771,Western Suburbs Magpies
 9624,9034,Balmain Tigers
 9626,9034,Balmain Tigers
+9626,9573,University
 9625,8706,Newtown
 9625,5771,Western Suburbs Magpies
 9628,5758,North Sydney
 9628,3582,Eastern Suburbs
 9627,11814,South Sydney Rabbitohs
 9627,5381,St George Dragons
-9627,9393,St George Dragons
 9629,8706,Newtown
+9629,9573,University
 9631,5381,St George Dragons
 9631,9034,Balmain Tigers
-9631,9393,St George Dragons
 9632,11814,South Sydney Rabbitohs
 9632,3582,Eastern Suburbs
 9630,5771,Western Suburbs Magpies
@@ -8232,9 +8785,9 @@ match_id,coach_id,team
 9635,8706,Newtown
 9635,9034,Balmain Tigers
 9633,5758,North Sydney
+9633,9573,University
 9636,5381,St George Dragons
 9636,3582,Eastern Suburbs
-9636,9393,St George Dragons
 9634,11814,South Sydney Rabbitohs
 9634,5771,Western Suburbs Magpies
 9638,9034,Balmain Tigers
@@ -8243,24 +8796,24 @@ match_id,coach_id,team
 9639,5771,Western Suburbs Magpies
 9640,5381,St George Dragons
 9640,8706,Newtown
-9640,9393,St George Dragons
 9637,11814,South Sydney Rabbitohs
+9637,9573,University
 9643,9034,Balmain Tigers
 9643,11814,South Sydney Rabbitohs
 9644,3582,Eastern Suburbs
+9644,9573,University
 9641,8706,Newtown
 9641,5758,North Sydney
 9642,5381,St George Dragons
 9642,5771,Western Suburbs Magpies
-9642,9393,St George Dragons
 9645,9034,Balmain Tigers
 9645,3582,Eastern Suburbs
 9647,5381,St George Dragons
 9647,5758,North Sydney
-9647,9393,St George Dragons
 9646,11814,South Sydney Rabbitohs
 9646,8706,Newtown
 9648,5771,Western Suburbs Magpies
+9648,9573,University
 9651,9034,Balmain Tigers
 9651,5771,Western Suburbs Magpies
 9652,8706,Newtown
@@ -8268,47 +8821,47 @@ match_id,coach_id,team
 9649,5758,North Sydney
 9649,11814,South Sydney Rabbitohs
 9650,5381,St George Dragons
-9650,9393,St George Dragons
+9650,9573,University
 9654,9034,Balmain Tigers
+9654,9573,University
 9655,3582,Eastern Suburbs
 9655,5758,North Sydney
 9653,5381,St George Dragons
 9653,11814,South Sydney Rabbitohs
-9653,9393,St George Dragons
 9656,5771,Western Suburbs Magpies
 9656,8706,Newtown
 9659,9034,Balmain Tigers
 9659,5381,St George Dragons
-9659,9393,St George Dragons
 9660,3582,Eastern Suburbs
 9660,11814,South Sydney Rabbitohs
 9657,8706,Newtown
+9657,9573,University
 9658,5758,North Sydney
 9658,5771,Western Suburbs Magpies
 9662,9034,Balmain Tigers
 9662,8706,Newtown
 9663,3582,Eastern Suburbs
 9663,5381,St George Dragons
-9663,9393,St George Dragons
 9661,5758,North Sydney
+9661,9573,University
 9664,5771,Western Suburbs Magpies
 9664,11814,South Sydney Rabbitohs
 9665,8706,Newtown
 9665,5381,St George Dragons
-9665,9393,St George Dragons
 9667,5758,North Sydney
 9667,9034,Balmain Tigers
 9666,11814,South Sydney Rabbitohs
+9666,9573,University
 9668,5771,Western Suburbs Magpies
 9668,3582,Eastern Suburbs
 9669,3582,Eastern Suburbs
+9669,9573,University
 9670,5758,North Sydney
 9670,8706,Newtown
 9672,11814,South Sydney Rabbitohs
 9672,9034,Balmain Tigers
 9671,5771,Western Suburbs Magpies
 9671,5381,St George Dragons
-9671,9393,St George Dragons
 9673,8706,Newtown
 9673,11814,South Sydney Rabbitohs
 9674,5381,St George Dragons
@@ -8317,74 +8870,116 @@ match_id,coach_id,team
 9675,5381,St George Dragons
 9678,9034,Balmain Tigers
 9678,5774,Western Suburbs Magpies
+9676,8706,Newtown
 9676,5381,St George Dragons
+9677,9040,North Sydney
+9677,9573,University
 9679,11814,South Sydney Rabbitohs
 9679,3582,Eastern Suburbs
 9682,9034,Balmain Tigers
+9682,9573,University
 9683,3582,Eastern Suburbs
 9683,5381,St George Dragons
+9680,8706,Newtown
+9680,9040,North Sydney
 9681,11814,South Sydney Rabbitohs
 9681,5774,Western Suburbs Magpies
 9685,9034,Balmain Tigers
+9685,8706,Newtown
+9687,9040,North Sydney
 9687,3582,Eastern Suburbs
 9684,5381,St George Dragons
 9684,11814,South Sydney Rabbitohs
 9686,5774,Western Suburbs Magpies
+9686,9573,University
 9691,9034,Balmain Tigers
 9691,3582,Eastern Suburbs
+9688,8706,Newtown
 9688,5774,Western Suburbs Magpies
+9689,9040,North Sydney
 9689,5381,St George Dragons
 9690,11814,South Sydney Rabbitohs
+9690,9573,University
 9694,9034,Balmain Tigers
 9694,5381,St George Dragons
 9695,3582,Eastern Suburbs
 9695,5774,Western Suburbs Magpies
+9692,8706,Newtown
+9692,9573,University
+9693,9040,North Sydney
 9693,11814,South Sydney Rabbitohs
 9696,9034,Balmain Tigers
+9696,9040,North Sydney
 9697,3582,Eastern Suburbs
+9697,9573,University
 9698,11814,South Sydney Rabbitohs
+9698,8706,Newtown
 9699,5774,Western Suburbs Magpies
 9699,5381,St George Dragons
+9703,8706,Newtown
 9703,3582,Eastern Suburbs
 9700,5381,St George Dragons
+9700,9573,University
 9702,11814,South Sydney Rabbitohs
 9702,9034,Balmain Tigers
 9701,5774,Western Suburbs Magpies
+9701,9040,North Sydney
 9705,3582,Eastern Suburbs
 9705,11814,South Sydney Rabbitohs
+9704,9040,North Sydney
+9704,9573,University
 9706,5381,St George Dragons
+9706,8706,Newtown
 9707,5774,Western Suburbs Magpies
 9707,9034,Balmain Tigers
 9708,9034,Balmain Tigers
+9708,9573,University
+9709,9040,North Sydney
+9709,8706,Newtown
 9711,5381,St George Dragons
 9711,3582,Eastern Suburbs
 9710,5774,Western Suburbs Magpies
 9710,11814,South Sydney Rabbitohs
 9712,3582,Eastern Suburbs
+9712,9040,North Sydney
+9715,8706,Newtown
 9715,9034,Balmain Tigers
 9713,11814,South Sydney Rabbitohs
 9713,5381,St George Dragons
 9714,5774,Western Suburbs Magpies
+9714,9573,University
 9719,3582,Eastern Suburbs
 9719,9034,Balmain Tigers
 9718,5381,St George Dragons
+9718,9040,North Sydney
 9716,11814,South Sydney Rabbitohs
+9716,9573,University
 9717,5774,Western Suburbs Magpies
+9717,8706,Newtown
+9720,8706,Newtown
+9720,9573,University
 9722,5381,St George Dragons
 9722,9034,Balmain Tigers
 9721,11814,South Sydney Rabbitohs
+9721,9040,North Sydney
 9723,5774,Western Suburbs Magpies
 9723,3582,Eastern Suburbs
 9726,3582,Eastern Suburbs
+9726,9573,University
+9724,8706,Newtown
 9724,11814,South Sydney Rabbitohs
+9727,9040,North Sydney
 9727,9034,Balmain Tigers
 9725,5381,St George Dragons
 9725,5774,Western Suburbs Magpies
 9730,9034,Balmain Tigers
 9730,11814,South Sydney Rabbitohs
 9731,3582,Eastern Suburbs
+9731,8706,Newtown
+9728,9040,North Sydney
 9728,5774,Western Suburbs Magpies
 9729,5381,St George Dragons
+9729,9573,University
 9732,5774,Western Suburbs Magpies
 9732,3582,Eastern Suburbs
 9733,5774,Western Suburbs Magpies
@@ -8400,18 +8995,16 @@ match_id,coach_id,team
 9736,5774,Western Suburbs Magpies
 9737,11940,South Sydney Rabbitohs
 9737,5408,University
-9741,9428,Balmain Tigers
-9741,5408,University
 9741,9034,Balmain Tigers
+9741,5408,University
 9742,3582,Eastern Suburbs
 9742,5381,St George Dragons
 9740,5384,North Sydney
 9740,5774,Western Suburbs Magpies
 9743,11940,South Sydney Rabbitohs
 9743,8691,Canterbury Bankstown
-9745,9428,Balmain Tigers
-9745,8691,Canterbury Bankstown
 9745,9034,Balmain Tigers
+9745,8691,Canterbury Bankstown
 9744,5408,University
 9746,11940,South Sydney Rabbitohs
 9746,5384,North Sydney
@@ -8419,15 +9012,13 @@ match_id,coach_id,team
 9747,3582,Eastern Suburbs
 9751,8691,Canterbury Bankstown
 9750,5384,North Sydney
-9750,9428,Balmain Tigers
 9750,9034,Balmain Tigers
 9748,5381,St George Dragons
 9748,5408,University
 9749,5774,Western Suburbs Magpies
 9749,11940,South Sydney Rabbitohs
-9752,9428,Balmain Tigers
-9752,11940,South Sydney Rabbitohs
 9752,9034,Balmain Tigers
+9752,11940,South Sydney Rabbitohs
 9753,3582,Eastern Suburbs
 9753,5408,University
 9754,5384,North Sydney
@@ -8439,9 +9030,7 @@ match_id,coach_id,team
 9757,5384,North Sydney
 9756,11940,South Sydney Rabbitohs
 9758,5774,Western Suburbs Magpies
-9758,9428,Balmain Tigers
 9758,9034,Balmain Tigers
-9762,9428,Balmain Tigers
 9762,9034,Balmain Tigers
 9763,5384,North Sydney
 9763,3582,Eastern Suburbs
@@ -8453,12 +9042,10 @@ match_id,coach_id,team
 9765,5408,University
 9764,5774,Western Suburbs Magpies
 9766,5381,St George Dragons
-9766,9428,Balmain Tigers
 9766,9034,Balmain Tigers
 9767,11940,South Sydney Rabbitohs
 9767,3582,Eastern Suburbs
 9770,3582,Eastern Suburbs
-9770,9428,Balmain Tigers
 9770,9034,Balmain Tigers
 9768,5384,North Sydney
 9768,5408,University
@@ -8472,26 +9059,23 @@ match_id,coach_id,team
 9772,5408,University
 9774,5774,Western Suburbs Magpies
 9774,5381,St George Dragons
-9776,9428,Balmain Tigers
-9776,5408,University
 9776,9034,Balmain Tigers
+9776,5408,University
 9779,5381,St George Dragons
 9779,3582,Eastern Suburbs
 9778,11940,South Sydney Rabbitohs
 9778,8691,Canterbury Bankstown
 9777,5774,Western Suburbs Magpies
 9777,5384,North Sydney
-9782,9428,Balmain Tigers
-9782,8691,Canterbury Bankstown
 9782,9034,Balmain Tigers
+9782,8691,Canterbury Bankstown
 9783,3582,Eastern Suburbs
 9783,5774,Western Suburbs Magpies
 9780,5408,University
 9781,5384,North Sydney
 9781,11940,South Sydney Rabbitohs
-9786,9428,Balmain Tigers
-9786,5384,North Sydney
 9786,9034,Balmain Tigers
+9786,5384,North Sydney
 9787,8691,Canterbury Bankstown
 9784,5381,St George Dragons
 9784,5408,University
@@ -8503,17 +9087,14 @@ match_id,coach_id,team
 9791,5381,St George Dragons
 9791,8691,Canterbury Bankstown
 9790,11940,South Sydney Rabbitohs
-9790,9428,Balmain Tigers
 9790,9034,Balmain Tigers
-9794,9428,Balmain Tigers
-9794,5774,Western Suburbs Magpies
 9794,9034,Balmain Tigers
+9794,5774,Western Suburbs Magpies
 9795,3582,Eastern Suburbs
 9795,8691,Canterbury Bankstown
 9792,11940,South Sydney Rabbitohs
 9793,5384,North Sydney
 9793,5381,St George Dragons
-9797,9428,Balmain Tigers
 9797,9034,Balmain Tigers
 9798,3582,Eastern Suburbs
 9798,5384,North Sydney
@@ -8521,17 +9102,15 @@ match_id,coach_id,team
 9796,11940,South Sydney Rabbitohs
 9799,5774,Western Suburbs Magpies
 9799,5408,University
-9800,9428,Balmain Tigers
-9800,5381,St George Dragons
 9800,9034,Balmain Tigers
+9800,5381,St George Dragons
 9803,8691,Canterbury Bankstown
 9803,5408,University
 9801,3582,Eastern Suburbs
 9801,11940,South Sydney Rabbitohs
 9802,5774,Western Suburbs Magpies
-9806,9428,Balmain Tigers
-9806,3582,Eastern Suburbs
 9806,9034,Balmain Tigers
+9806,3582,Eastern Suburbs
 9804,5381,St George Dragons
 9805,5384,North Sydney
 9805,5408,University
@@ -8546,29 +9125,43 @@ match_id,coach_id,team
 9812,9428,Balmain Tigers
 9812,5760,St George Dragons
 9812,5781,St George Dragons
+9811,5424,Newtown
+9811,5408,University
 9813,5384,Canterbury Bankstown
 9813,5774,Western Suburbs Magpies
 9814,11940,South Sydney Rabbitohs
 9814,3582,Eastern Suburbs
 9816,5384,Canterbury Bankstown
+9816,5408,University
+9815,5424,Newtown
 9815,11940,South Sydney Rabbitohs
 9818,5760,St George Dragons
 9818,3582,Eastern Suburbs
 9818,5781,St George Dragons
 9817,5774,Western Suburbs Magpies
+9817,5722,North Sydney
 9821,9428,Balmain Tigers
 9821,5774,Western Suburbs Magpies
+9822,5424,Newtown
 9822,5384,Canterbury Bankstown
+9819,5722,North Sydney
+9819,5408,University
 9820,5760,St George Dragons
 9820,11940,South Sydney Rabbitohs
 9820,5781,St George Dragons
 9823,9428,Balmain Tigers
+9823,5408,University
+9824,5722,North Sydney
+9824,5424,Newtown
 9825,11940,South Sydney Rabbitohs
 9825,5384,Canterbury Bankstown
 9826,5774,Western Suburbs Magpies
 9826,3582,Eastern Suburbs
 9827,9428,Balmain Tigers
+9827,5424,Newtown
 9828,3582,Eastern Suburbs
+9828,5408,University
+9830,5722,North Sydney
 9830,5384,Canterbury Bankstown
 9829,5774,Western Suburbs Magpies
 9829,5760,St George Dragons
@@ -8576,12 +9169,17 @@ match_id,coach_id,team
 9834,5384,Canterbury Bankstown
 9834,9428,Balmain Tigers
 9833,3582,Eastern Suburbs
+9833,5424,Newtown
+9831,5722,North Sydney
 9831,11940,South Sydney Rabbitohs
 9832,5760,St George Dragons
+9832,5408,University
 9832,5781,St George Dragons
 9836,9428,Balmain Tigers
+9836,5722,North Sydney
 9838,3582,Eastern Suburbs
 9838,5384,Canterbury Bankstown
+9835,5424,Newtown
 9835,5760,St George Dragons
 9835,5781,St George Dragons
 9837,5774,Western Suburbs Magpies
@@ -8591,141 +9189,234 @@ match_id,coach_id,team
 9840,5384,Canterbury Bankstown
 9840,5760,St George Dragons
 9840,5781,St George Dragons
+9842,5722,North Sydney
 9842,3582,Eastern Suburbs
 9841,5774,Western Suburbs Magpies
+9841,5408,University
 9846,3582,Eastern Suburbs
 9846,9428,Balmain Tigers
+9843,5722,North Sydney
 9843,5760,St George Dragons
 9843,5781,St George Dragons
 9844,11940,South Sydney Rabbitohs
+9844,5408,University
 9845,5774,Western Suburbs Magpies
+9845,5424,Newtown
 9848,3582,Eastern Suburbs
 9848,11940,South Sydney Rabbitohs
+9847,5424,Newtown
+9847,5408,University
 9849,5760,St George Dragons
 9849,9428,Balmain Tigers
 9849,5781,St George Dragons
 9850,5774,Western Suburbs Magpies
 9850,5384,Canterbury Bankstown
 9852,5384,Canterbury Bankstown
+9852,5408,University
 9853,3582,Eastern Suburbs
 9853,5760,St George Dragons
 9853,5781,St George Dragons
+9851,5722,North Sydney
 9851,5774,Western Suburbs Magpies
 9854,11940,South Sydney Rabbitohs
+9854,5424,Newtown
 9856,5384,Canterbury Bankstown
+9856,5424,Newtown
+9855,5722,North Sydney
+9855,5408,University
 9857,11940,South Sydney Rabbitohs
 9857,5760,St George Dragons
 9857,5781,St George Dragons
 9858,5774,Western Suburbs Magpies
 9858,9428,Balmain Tigers
 9860,9428,Balmain Tigers
+9860,5408,University
 9861,5384,Canterbury Bankstown
 9861,11940,South Sydney Rabbitohs
 9862,3582,Eastern Suburbs
 9862,5774,Western Suburbs Magpies
+9859,5424,Newtown
+9859,5722,North Sydney
 9864,5384,Canterbury Bankstown
+9864,5722,North Sydney
 9865,3582,Eastern Suburbs
+9865,5408,University
+9866,5424,Newtown
 9866,9428,Balmain Tigers
 9863,5760,St George Dragons
 9863,5774,Western Suburbs Magpies
 9863,5781,St George Dragons
+9870,5424,Newtown
 9870,3582,Eastern Suburbs
 9868,9428,Balmain Tigers
 9868,5384,Canterbury Bankstown
 9867,5760,St George Dragons
+9867,5408,University
 9867,5781,St George Dragons
 9869,11940,South Sydney Rabbitohs
+9869,5722,North Sydney
 9871,9428,Balmain Tigers
+9871,5722,North Sydney
 9872,3582,Eastern Suburbs
 9872,5384,Canterbury Bankstown
 9873,3582,Eastern Suburbs
 9873,9428,Balmain Tigers
 9876,9387,Canterbury Bankstown
-9876,5384,St George Dragons
 9876,8795,St George Dragons
+9876,5945,St George Dragons
+9877,5424,Newtown
 9877,3582,Eastern Suburbs
 9874,5816,North Sydney
 9874,9250,Western Suburbs Magpies
 9875,11814,South Sydney Rabbitohs
-9878,9428,Balmain Tigers
-9878,9250,Western Suburbs Magpies
+9875,5408,University
 9878,9560,Balmain Tigers
+9878,9250,Western Suburbs Magpies
 9879,5816,North Sydney
-9881,5384,St George Dragons
-9881,3582,Eastern Suburbs
+9879,5424,Newtown
 9881,8795,St George Dragons
+9881,3582,Eastern Suburbs
+9881,5945,St George Dragons
 9880,11814,South Sydney Rabbitohs
 9880,9387,Canterbury Bankstown
 9883,3582,Eastern Suburbs
 9883,5816,North Sydney
-9885,9428,Balmain Tigers
+9885,5424,Newtown
 9885,9560,Balmain Tigers
-9882,5384,St George Dragons
-9882,11814,South Sydney Rabbitohs
 9882,8795,St George Dragons
+9882,11814,South Sydney Rabbitohs
+9882,5945,St George Dragons
 9884,9250,Western Suburbs Magpies
-9888,9428,Balmain Tigers
-9888,5384,St George Dragons
+9884,5408,University
 9888,9560,Balmain Tigers
 9888,8795,St George Dragons
+9888,5945,St George Dragons
 9889,3582,Eastern Suburbs
 9889,9387,Canterbury Bankstown
+9886,5424,Newtown
 9886,11814,South Sydney Rabbitohs
 9887,5816,North Sydney
+9887,5408,University
 9891,9387,Canterbury Bankstown
+9891,5424,Newtown
 9892,3582,Eastern Suburbs
+9892,5408,University
 9893,5816,North Sydney
-9893,9428,Balmain Tigers
 9893,9560,Balmain Tigers
 9890,11814,South Sydney Rabbitohs
 9890,9250,Western Suburbs Magpies
 9896,3582,Eastern Suburbs
-9896,9428,Balmain Tigers
 9896,9560,Balmain Tigers
-9895,5384,St George Dragons
-9895,5816,North Sydney
+9894,5424,Newtown
+9894,5408,University
 9895,8795,St George Dragons
+9895,5816,North Sydney
+9895,5945,St George Dragons
 9897,9250,Western Suburbs Magpies
 9897,9387,Canterbury Bankstown
-9898,9428,Balmain Tigers
 9898,9560,Balmain Tigers
+9898,5408,University
 9899,9387,Canterbury Bankstown
 9899,5816,North Sydney
 9901,11814,South Sydney Rabbitohs
 9901,3582,Eastern Suburbs
 9900,9250,Western Suburbs Magpies
-9900,5384,St George Dragons
 9900,8795,St George Dragons
+9900,5945,St George Dragons
 9905,9387,Canterbury Bankstown
-9905,9428,Balmain Tigers
 9905,9560,Balmain Tigers
 9902,5816,North Sydney
 9902,11814,South Sydney Rabbitohs
-9903,5384,St George Dragons
 9903,8795,St George Dragons
+9903,5408,University
+9903,5945,St George Dragons
 9904,9250,Western Suburbs Magpies
-9906,9428,Balmain Tigers
-9906,11814,South Sydney Rabbitohs
+9904,5424,Newtown
 9906,9560,Balmain Tigers
+9906,11814,South Sydney Rabbitohs
 9907,9387,Canterbury Bankstown
+9907,5408,University
 9908,3582,Eastern Suburbs
 9908,9250,Western Suburbs Magpies
-9909,5384,St George Dragons
 9909,8795,St George Dragons
+9909,5424,Newtown
+9909,5945,St George Dragons
+8316,3623,Glebe
+8315,8789,Annandale
+8315,3580,Eastern Suburbs
 8318,3612,Balmain Tigers
+8317,3653,South Sydney Rabbitohs
 8322,3612,Balmain Tigers
+8322,8789,Annandale
+8321,3580,Eastern Suburbs
+8319,3623,Glebe
+8319,3653,South Sydney Rabbitohs
+8326,3623,Glebe
+8326,3580,Eastern Suburbs
+8324,3653,South Sydney Rabbitohs
 8325,3612,Balmain Tigers
+8323,8789,Annandale
+8327,8789,Annandale
+8327,3653,South Sydney Rabbitohs
 8329,3612,Balmain Tigers
+8329,3623,Glebe
+8330,3580,Eastern Suburbs
+8334,3580,Eastern Suburbs
 8334,3612,Balmain Tigers
+8331,3623,Glebe
+8333,8789,Annandale
+8332,3653,South Sydney Rabbitohs
+8336,3580,Eastern Suburbs
+8337,3623,Glebe
+8337,8789,Annandale
+8338,3653,South Sydney Rabbitohs
 8338,3612,Balmain Tigers
 8339,3612,Balmain Tigers
+8340,3580,Eastern Suburbs
+8340,3653,South Sydney Rabbitohs
+8341,8789,Annandale
+8342,3623,Glebe
+8343,8789,Annandale
+8343,3623,Glebe
 8345,3612,Balmain Tigers
+8345,3580,Eastern Suburbs
+8346,3653,South Sydney Rabbitohs
 8348,3612,Balmain Tigers
+8347,3623,Glebe
+8350,3653,South Sydney Rabbitohs
+8350,8789,Annandale
+8349,3580,Eastern Suburbs
+8351,8789,Annandale
+8354,3580,Eastern Suburbs
+8353,3653,South Sydney Rabbitohs
+8353,3623,Glebe
 8352,3612,Balmain Tigers
+8355,8789,Annandale
 8356,3612,Balmain Tigers
+8357,3623,Glebe
+8358,3653,South Sydney Rabbitohs
+8358,3580,Eastern Suburbs
+8359,8789,Annandale
 8359,3612,Balmain Tigers
+8362,3580,Eastern Suburbs
+8362,3623,Glebe
+8361,3653,South Sydney Rabbitohs
+8364,3580,Eastern Suburbs
+8364,8789,Annandale
+8366,3623,Glebe
 8366,3612,Balmain Tigers
+8363,3653,South Sydney Rabbitohs
+8367,8789,Annandale
 8369,3612,Balmain Tigers
+8369,3653,South Sydney Rabbitohs
+8368,3623,Glebe
+8370,3580,Eastern Suburbs
+8371,3580,Eastern Suburbs
+8371,3653,South Sydney Rabbitohs
+8372,3580,Eastern Suburbs
+8372,3623,Glebe
+8373,3580,Eastern Suburbs
+8373,3623,Glebe
 9910,5424,Balmain Tigers
 9910,11814,South Sydney Rabbitohs
 9911,3582,Eastern Suburbs
@@ -8845,6 +9536,7 @@ match_id,coach_id,team
 9968,5722,Canterbury Bankstown
 9968,3582,Eastern Suburbs
 9970,5424,Balmain Tigers
+9970,5384,Newtown
 9972,5800,Eastern Suburbs
 9972,9250,Canterbury Bankstown
 9969,9855,St George Dragons
@@ -8853,6 +9545,7 @@ match_id,coach_id,team
 9971,5408,North Sydney
 9975,9250,Canterbury Bankstown
 9975,5424,Balmain Tigers
+9973,5384,Newtown
 9973,9855,St George Dragons
 9976,5408,North Sydney
 9976,5800,Eastern Suburbs
@@ -8864,8 +9557,10 @@ match_id,coach_id,team
 9979,9855,St George Dragons
 9980,5800,Eastern Suburbs
 9980,5722,Western Suburbs Magpies
+9977,5384,Newtown
 9977,11814,South Sydney Rabbitohs
 9982,9250,Canterbury Bankstown
+9982,5384,Newtown
 9983,5800,Eastern Suburbs
 9983,11814,South Sydney Rabbitohs
 9981,5408,North Sydney
@@ -8875,12 +9570,14 @@ match_id,coach_id,team
 9986,5424,Balmain Tigers
 9986,5800,Eastern Suburbs
 9987,5408,North Sydney
+9987,5384,Newtown
 9985,9855,St George Dragons
 9985,5722,Western Suburbs Magpies
 9988,11814,South Sydney Rabbitohs
 9988,9250,Canterbury Bankstown
 9990,9250,Canterbury Bankstown
 9990,5408,North Sydney
+9989,5384,Newtown
 9989,5722,Western Suburbs Magpies
 9992,9855,St George Dragons
 9992,5800,Eastern Suburbs
@@ -8889,12 +9586,14 @@ match_id,coach_id,team
 9994,5424,Balmain Tigers
 9994,9855,St George Dragons
 9995,5800,Eastern Suburbs
+9995,5384,Newtown
 9993,5408,North Sydney
 9993,11814,South Sydney Rabbitohs
 9996,5722,Western Suburbs Magpies
 9996,9250,Canterbury Bankstown
 9998,9250,Canterbury Bankstown
 9998,5800,Eastern Suburbs
+10000,5384,Newtown
 10000,5424,Balmain Tigers
 9997,5408,North Sydney
 9997,5722,Western Suburbs Magpies
@@ -8905,6 +9604,7 @@ match_id,coach_id,team
 10002,5800,Eastern Suburbs
 10002,5408,North Sydney
 10003,9855,St George Dragons
+10003,5384,Newtown
 10004,5722,Western Suburbs Magpies
 10004,11814,South Sydney Rabbitohs
 10006,5408,North Sydney
@@ -8912,10 +9612,12 @@ match_id,coach_id,team
 10007,9855,St George Dragons
 10007,9250,Canterbury Bankstown
 10005,11814,South Sydney Rabbitohs
+10005,5384,Newtown
 10008,5722,Western Suburbs Magpies
 10008,5800,Eastern Suburbs
 10009,5424,Balmain Tigers
 10009,5722,Western Suburbs Magpies
+10011,5384,Newtown
 10011,9250,Canterbury Bankstown
 10010,9855,St George Dragons
 10010,5408,North Sydney
@@ -8925,6 +9627,7 @@ match_id,coach_id,team
 10014,11814,South Sydney Rabbitohs
 10016,5800,Eastern Suburbs
 10016,5424,Balmain Tigers
+10013,5384,Newtown
 10013,5408,North Sydney
 10015,5722,Western Suburbs Magpies
 10015,9855,St George Dragons
@@ -8935,8 +9638,10 @@ match_id,coach_id,team
 10020,5408,North Sydney
 10020,9250,Canterbury Bankstown
 10019,5722,Western Suburbs Magpies
+10019,5384,Newtown
 10021,9250,Canterbury Bankstown
 10021,5722,Western Suburbs Magpies
+10024,5384,Newtown
 10024,5800,Eastern Suburbs
 10023,9855,St George Dragons
 10023,5424,Balmain Tigers
@@ -9072,12 +9777,10 @@ match_id,coach_id,team
 10088,9444,South Sydney Rabbitohs
 10090,3582,North Sydney
 10090,5839,Canterbury Bankstown
-10090,5834,North Sydney
 10089,9855,St George Dragons
 10089,5828,Newtown
 10091,5424,Balmain Tigers
 10091,3582,North Sydney
-10091,5834,North Sydney
 10092,9855,St George Dragons
 10092,5839,Canterbury Bankstown
 10094,5800,Eastern Suburbs
@@ -9088,7 +9791,6 @@ match_id,coach_id,team
 10095,5839,Canterbury Bankstown
 10098,3582,North Sydney
 10098,5800,Eastern Suburbs
-10098,5834,North Sydney
 10097,9444,South Sydney Rabbitohs
 10097,9855,St George Dragons
 10096,5806,Western Suburbs Magpies
@@ -9099,7 +9801,6 @@ match_id,coach_id,team
 10102,5424,Balmain Tigers
 10099,5828,Newtown
 10099,3582,North Sydney
-10099,5834,North Sydney
 10101,5806,Western Suburbs Magpies
 10101,9855,St George Dragons
 10104,5424,Balmain Tigers
@@ -9108,7 +9809,6 @@ match_id,coach_id,team
 10106,5839,Canterbury Bankstown
 10103,3582,North Sydney
 10103,9855,St George Dragons
-10103,5834,North Sydney
 10105,5806,Western Suburbs Magpies
 10105,9444,South Sydney Rabbitohs
 10107,5839,Canterbury Bankstown
@@ -9119,7 +9819,6 @@ match_id,coach_id,team
 10109,5424,Balmain Tigers
 10108,9444,South Sydney Rabbitohs
 10108,3582,North Sydney
-10108,5834,North Sydney
 10112,5424,Balmain Tigers
 10112,9444,South Sydney Rabbitohs
 10113,5800,Eastern Suburbs
@@ -9128,10 +9827,8 @@ match_id,coach_id,team
 10114,5839,Canterbury Bankstown
 10111,3582,North Sydney
 10111,5806,Western Suburbs Magpies
-10111,5834,North Sydney
 10116,5839,Canterbury Bankstown
 10116,3582,North Sydney
-10116,5834,North Sydney
 10115,5828,Newtown
 10115,9855,St George Dragons
 10118,9444,South Sydney Rabbitohs
@@ -9142,7 +9839,6 @@ match_id,coach_id,team
 10119,9855,St George Dragons
 10121,3582,North Sydney
 10121,5424,Balmain Tigers
-10121,5834,North Sydney
 10120,9444,South Sydney Rabbitohs
 10120,5828,Newtown
 10122,5806,Western Suburbs Magpies
@@ -9155,12 +9851,10 @@ match_id,coach_id,team
 10124,9444,South Sydney Rabbitohs
 10126,5800,Eastern Suburbs
 10126,3582,North Sydney
-10126,5834,North Sydney
 10128,5424,Balmain Tigers
 10128,5800,Eastern Suburbs
 10129,3582,North Sydney
 10129,5828,Newtown
-10129,5834,North Sydney
 10127,9855,St George Dragons
 10127,5806,Western Suburbs Magpies
 10130,9444,South Sydney Rabbitohs
@@ -9171,7 +9865,6 @@ match_id,coach_id,team
 10133,5828,Newtown
 10131,3582,North Sydney
 10131,9444,South Sydney Rabbitohs
-10131,5834,North Sydney
 10134,5806,Western Suburbs Magpies
 10134,5839,Canterbury Bankstown
 10135,5839,Canterbury Bankstown
@@ -9182,14 +9875,12 @@ match_id,coach_id,team
 10137,5424,Balmain Tigers
 10136,5806,Western Suburbs Magpies
 10136,3582,North Sydney
-10136,5834,North Sydney
 10140,5839,Canterbury Bankstown
 10140,5800,Eastern Suburbs
 10142,5828,Newtown
 10142,5424,Balmain Tigers
 10141,9855,St George Dragons
 10141,3582,North Sydney
-10141,5834,North Sydney
 10139,9444,South Sydney Rabbitohs
 10139,5806,Western Suburbs Magpies
 10143,5800,Eastern Suburbs
@@ -9203,13 +9894,11 @@ match_id,coach_id,team
 10148,7416,Eastern Suburbs
 10148,9444,South Sydney Rabbitohs
 10149,11813,North Sydney
-10149,5839,Canterbury Bankstown
 10149,9250,Canterbury Bankstown
 10146,9644,St George Dragons
 10146,11819,Western Suburbs Magpies
-10151,5839,Canterbury Bankstown
-10151,9644,St George Dragons
 10151,9250,Canterbury Bankstown
+10151,9644,St George Dragons
 10153,7416,Eastern Suburbs
 10153,5424,Balmain Tigers
 10150,5799,Newtown
@@ -9219,24 +9908,21 @@ match_id,coach_id,team
 10154,5424,Balmain Tigers
 10154,11819,Western Suburbs Magpies
 10156,5799,Newtown
-10156,5839,Canterbury Bankstown
 10156,9250,Canterbury Bankstown
 10157,11813,North Sydney
 10157,7416,Eastern Suburbs
 10155,9444,South Sydney Rabbitohs
 10155,9644,St George Dragons
-10158,5839,Canterbury Bankstown
-10158,9444,South Sydney Rabbitohs
 10158,9250,Canterbury Bankstown
+10158,9444,South Sydney Rabbitohs
 10159,7416,Eastern Suburbs
 10159,5799,Newtown
 10161,9644,St George Dragons
 10161,5424,Balmain Tigers
 10160,11819,Western Suburbs Magpies
 10160,11813,North Sydney
-10164,5839,Canterbury Bankstown
-10164,7416,Eastern Suburbs
 10164,9250,Canterbury Bankstown
+10164,7416,Eastern Suburbs
 10162,5799,Newtown
 10162,11819,Western Suburbs Magpies
 10163,11813,North Sydney
@@ -9244,7 +9930,6 @@ match_id,coach_id,team
 10165,9444,South Sydney Rabbitohs
 10165,5424,Balmain Tigers
 10166,5424,Balmain Tigers
-10166,5839,Canterbury Bankstown
 10166,9250,Canterbury Bankstown
 10167,9644,St George Dragons
 10167,5799,Newtown
@@ -9252,18 +9937,16 @@ match_id,coach_id,team
 10168,11813,North Sydney
 10169,11819,Western Suburbs Magpies
 10169,7416,Eastern Suburbs
-10171,5839,Canterbury Bankstown
-10171,11819,Western Suburbs Magpies
 10171,9250,Canterbury Bankstown
+10171,11819,Western Suburbs Magpies
 10172,7416,Eastern Suburbs
 10172,9644,St George Dragons
 10170,5799,Newtown
 10170,9444,South Sydney Rabbitohs
 10173,11813,North Sydney
 10173,5424,Balmain Tigers
-10174,5839,Canterbury Bankstown
-10174,11813,North Sydney
 10174,9250,Canterbury Bankstown
+10174,11813,North Sydney
 10176,5799,Newtown
 10176,5424,Balmain Tigers
 10177,9444,South Sydney Rabbitohs
@@ -9275,13 +9958,11 @@ match_id,coach_id,team
 10180,11813,North Sydney
 10180,5799,Newtown
 10181,9644,St George Dragons
-10181,5839,Canterbury Bankstown
 10181,9250,Canterbury Bankstown
 10178,9444,South Sydney Rabbitohs
 10178,11819,Western Suburbs Magpies
-10183,5839,Canterbury Bankstown
-10183,5799,Newtown
 10183,9250,Canterbury Bankstown
+10183,5799,Newtown
 10184,7416,Eastern Suburbs
 10184,11813,North Sydney
 10182,9644,St George Dragons
@@ -9295,20 +9976,17 @@ match_id,coach_id,team
 10186,11813,North Sydney
 10186,11819,Western Suburbs Magpies
 10188,9444,South Sydney Rabbitohs
-10188,5839,Canterbury Bankstown
 10188,9250,Canterbury Bankstown
 10190,5424,Balmain Tigers
 10190,9444,South Sydney Rabbitohs
 10193,7416,Eastern Suburbs
-10193,5839,Canterbury Bankstown
 10193,9250,Canterbury Bankstown
 10192,9644,St George Dragons
 10192,11813,North Sydney
 10191,11819,Western Suburbs Magpies
 10191,5799,Newtown
-10197,5839,Canterbury Bankstown
-10197,5424,Balmain Tigers
 10197,9250,Canterbury Bankstown
+10197,5424,Balmain Tigers
 10196,7416,Eastern Suburbs
 10196,11819,Western Suburbs Magpies
 10194,5799,Newtown
@@ -9322,11 +10000,9 @@ match_id,coach_id,team
 10199,9444,South Sydney Rabbitohs
 10199,5799,Newtown
 10200,11819,Western Suburbs Magpies
-10200,5839,Canterbury Bankstown
 10200,9250,Canterbury Bankstown
-10202,5839,Canterbury Bankstown
-10202,5424,Balmain Tigers
 10202,9250,Canterbury Bankstown
+10202,5424,Balmain Tigers
 10203,9644,St George Dragons
 10203,9250,Canterbury Bankstown
 10204,7416,Eastern Suburbs
@@ -9338,24 +10014,21 @@ match_id,coach_id,team
 10209,5424,Balmain Tigers
 10209,5737,Western Suburbs Magpies
 10210,7415,Eastern Suburbs
-10210,9250,Canterbury Bankstown
 10210,9860,Canterbury Bankstown
 10207,5799,Newtown
 10207,9444,South Sydney Rabbitohs
 10208,9771,North Sydney
 10208,9855,St George Dragons
-10211,9250,Canterbury Bankstown
-10211,9771,North Sydney
 10211,9860,Canterbury Bankstown
+10211,9771,North Sydney
 10214,5799,Newtown
 10214,7415,Eastern Suburbs
 10213,9444,South Sydney Rabbitohs
 10213,5424,Balmain Tigers
 10212,5737,Western Suburbs Magpies
 10212,9855,St George Dragons
-10217,9250,Canterbury Bankstown
-10217,5799,Newtown
 10217,9860,Canterbury Bankstown
+10217,5799,Newtown
 10218,7415,Eastern Suburbs
 10218,5424,Balmain Tigers
 10215,9771,North Sydney
@@ -9364,15 +10037,13 @@ match_id,coach_id,team
 10216,9444,South Sydney Rabbitohs
 10219,5424,Balmain Tigers
 10219,5799,Newtown
-10220,9250,Canterbury Bankstown
-10220,5737,Western Suburbs Magpies
 10220,9860,Canterbury Bankstown
+10220,5737,Western Suburbs Magpies
 10222,9855,St George Dragons
 10222,7415,Eastern Suburbs
 10221,9444,South Sydney Rabbitohs
 10221,9771,North Sydney
 10224,5424,Balmain Tigers
-10224,9250,Canterbury Bankstown
 10224,9860,Canterbury Bankstown
 10226,9771,North Sydney
 10226,7415,Eastern Suburbs
@@ -9380,18 +10051,16 @@ match_id,coach_id,team
 10225,5799,Newtown
 10223,9444,South Sydney Rabbitohs
 10223,5737,Western Suburbs Magpies
-10228,9250,Canterbury Bankstown
-10228,9444,South Sydney Rabbitohs
 10228,9860,Canterbury Bankstown
+10228,9444,South Sydney Rabbitohs
 10229,7415,Eastern Suburbs
 10229,5737,Western Suburbs Magpies
 10227,5799,Newtown
 10227,9771,North Sydney
 10230,9855,St George Dragons
 10230,5424,Balmain Tigers
-10232,9250,Canterbury Bankstown
-10232,9855,St George Dragons
 10232,9860,Canterbury Bankstown
+10232,9855,St George Dragons
 10233,7415,Eastern Suburbs
 10233,9444,South Sydney Rabbitohs
 10231,5799,Newtown
@@ -9403,14 +10072,12 @@ match_id,coach_id,team
 10237,7415,Eastern Suburbs
 10237,5799,Newtown
 10238,9771,North Sydney
-10238,9250,Canterbury Bankstown
 10238,9860,Canterbury Bankstown
 10235,9855,St George Dragons
 10235,5737,Western Suburbs Magpies
 10239,5424,Balmain Tigers
 10239,7415,Eastern Suburbs
 10242,5799,Newtown
-10242,9250,Canterbury Bankstown
 10242,9860,Canterbury Bankstown
 10241,9444,South Sydney Rabbitohs
 10241,9855,St George Dragons
@@ -9423,11 +10090,9 @@ match_id,coach_id,team
 10243,9771,North Sydney
 10243,9444,South Sydney Rabbitohs
 10246,5737,Western Suburbs Magpies
-10246,9250,Canterbury Bankstown
 10246,9860,Canterbury Bankstown
-10250,9250,Canterbury Bankstown
-10250,5424,Balmain Tigers
 10250,9860,Canterbury Bankstown
+10250,5424,Balmain Tigers
 10248,7415,Eastern Suburbs
 10248,9771,North Sydney
 10247,5799,Newtown
@@ -9439,22 +10104,19 @@ match_id,coach_id,team
 10252,9771,North Sydney
 10252,5799,Newtown
 10253,9444,South Sydney Rabbitohs
-10253,9250,Canterbury Bankstown
 10253,9860,Canterbury Bankstown
 10254,5737,Western Suburbs Magpies
 10254,7415,Eastern Suburbs
 10255,5424,Balmain Tigers
 10255,9771,North Sydney
 10257,9855,St George Dragons
-10257,9250,Canterbury Bankstown
 10257,9860,Canterbury Bankstown
 10258,9444,South Sydney Rabbitohs
 10258,7415,Eastern Suburbs
 10256,5737,Western Suburbs Magpies
 10256,5799,Newtown
-10259,9250,Canterbury Bankstown
-10259,7415,Eastern Suburbs
 10259,9860,Canterbury Bankstown
+10259,7415,Eastern Suburbs
 10261,9855,St George Dragons
 10261,9771,North Sydney
 10260,9444,South Sydney Rabbitohs
@@ -9597,8 +10259,9 @@ match_id,coach_id,team
 10328,5384,North Sydney
 10329,3582,Eastern Suburbs
 10329,5843,Newtown
-10329,5867,Newtown
+10329,5799,Newtown
 10330,5820,South Sydney Rabbitohs
+10330,9393,St George Dragons
 10330,5828,St George Dragons
 10331,5774,Western Suburbs Magpies
 10331,9267,Balmain Tigers
@@ -9606,78 +10269,87 @@ match_id,coach_id,team
 10335,5424,Canterbury Bankstown
 10332,5843,Newtown
 10332,5820,South Sydney Rabbitohs
-10332,5867,Newtown
+10332,5799,Newtown
 10333,5384,North Sydney
 10333,5774,Western Suburbs Magpies
-10334,5828,St George Dragons
+10334,9393,St George Dragons
 10334,9267,Balmain Tigers
+10334,5828,St George Dragons
 10336,5424,Canterbury Bankstown
 10336,5774,Western Suburbs Magpies
 10337,3582,Eastern Suburbs
 10337,5820,South Sydney Rabbitohs
 10339,5843,Newtown
 10339,9267,Balmain Tigers
-10339,5867,Newtown
-10338,5828,St George Dragons
+10339,5799,Newtown
+10338,9393,St George Dragons
 10338,5384,North Sydney
+10338,5828,St George Dragons
 10340,9267,Balmain Tigers
 10340,3582,Eastern Suburbs
 10341,5384,North Sydney
 10341,5843,Newtown
-10341,5867,Newtown
+10341,5799,Newtown
 10343,5820,South Sydney Rabbitohs
 10343,5424,Canterbury Bankstown
 10342,5774,Western Suburbs Magpies
+10342,9393,St George Dragons
 10342,5828,St George Dragons
 10344,9267,Balmain Tigers
 10344,5820,South Sydney Rabbitohs
 10345,5424,Canterbury Bankstown
+10345,9393,St George Dragons
 10345,5828,St George Dragons
 10346,3582,Eastern Suburbs
 10346,5384,North Sydney
 10347,5774,Western Suburbs Magpies
 10347,5843,Newtown
-10347,5867,Newtown
+10347,5799,Newtown
 10351,5424,Canterbury Bankstown
 10351,9267,Balmain Tigers
 10349,3582,Eastern Suburbs
 10349,5774,Western Suburbs Magpies
 10348,5384,North Sydney
 10348,5820,South Sydney Rabbitohs
-10350,5828,St George Dragons
+10350,9393,St George Dragons
 10350,5843,Newtown
-10350,5867,Newtown
+10350,5828,St George Dragons
+10350,5799,Newtown
 10354,5843,Newtown
 10354,5424,Canterbury Bankstown
-10354,5867,Newtown
+10354,5799,Newtown
 10353,5384,North Sydney
 10353,9267,Balmain Tigers
-10355,5828,St George Dragons
+10355,9393,St George Dragons
 10355,3582,Eastern Suburbs
+10355,5828,St George Dragons
 10352,5820,South Sydney Rabbitohs
 10352,5774,Western Suburbs Magpies
 10357,9267,Balmain Tigers
 10357,5774,Western Suburbs Magpies
 10359,5843,Newtown
 10359,3582,Eastern Suburbs
-10359,5867,Newtown
+10359,5799,Newtown
 10358,5384,North Sydney
 10358,5424,Canterbury Bankstown
-10356,5828,St George Dragons
+10356,9393,St George Dragons
 10356,5820,South Sydney Rabbitohs
+10356,5828,St George Dragons
 10360,9267,Balmain Tigers
+10360,9393,St George Dragons
 10360,5828,St George Dragons
 10361,5424,Canterbury Bankstown
 10361,3582,Eastern Suburbs
 10362,5820,South Sydney Rabbitohs
 10362,5843,Newtown
-10362,5867,Newtown
+10362,5799,Newtown
 10363,5774,Western Suburbs Magpies
 10363,5384,North Sydney
 10365,9267,Balmain Tigers
 10365,5843,Newtown
-10365,5867,Newtown
+10365,5799,Newtown
 10364,5384,North Sydney
+10364,9393,St George Dragons
 10364,5828,St George Dragons
 10367,5820,South Sydney Rabbitohs
 10367,3582,Eastern Suburbs
@@ -9689,14 +10361,16 @@ match_id,coach_id,team
 10371,9267,Balmain Tigers
 10368,5843,Newtown
 10368,5384,North Sydney
-10368,5867,Newtown
-10369,5828,St George Dragons
+10368,5799,Newtown
+10369,9393,St George Dragons
 10369,5774,Western Suburbs Magpies
+10369,5828,St George Dragons
 10373,9267,Balmain Tigers
 10373,5424,Canterbury Bankstown
 10372,5843,Newtown
+10372,9393,St George Dragons
+10372,5799,Newtown
 10372,5828,St George Dragons
-10372,5867,Newtown
 10374,5820,South Sydney Rabbitohs
 10374,5384,North Sydney
 10375,5774,Western Suburbs Magpies
@@ -9705,18 +10379,20 @@ match_id,coach_id,team
 10376,5384,North Sydney
 10377,5424,Canterbury Bankstown
 10377,5843,Newtown
-10377,5867,Newtown
+10377,5799,Newtown
 10378,3582,Eastern Suburbs
+10378,9393,St George Dragons
 10378,5828,St George Dragons
 10379,5774,Western Suburbs Magpies
 10379,5820,South Sydney Rabbitohs
 10380,5843,Newtown
 10380,5774,Western Suburbs Magpies
-10380,5867,Newtown
+10380,5799,Newtown
 10383,5384,North Sydney
 10383,3582,Eastern Suburbs
-10382,5828,St George Dragons
+10382,9393,St George Dragons
 10382,5424,Canterbury Bankstown
+10382,5828,St George Dragons
 10381,5820,South Sydney Rabbitohs
 10381,9267,Balmain Tigers
 10384,9267,Balmain Tigers
@@ -9725,7 +10401,7 @@ match_id,coach_id,team
 10385,5774,Western Suburbs Magpies
 10386,9267,Balmain Tigers
 10386,5843,Newtown
-10386,5867,Newtown
+10386,5799,Newtown
 10387,3582,Eastern Suburbs
 10387,9267,Balmain Tigers
 10389,9267,Balmain Tigers
@@ -9734,6 +10410,7 @@ match_id,coach_id,team
 10390,9835,Western Suburbs Magpies
 10388,5843,Newtown
 10388,3653,South Sydney Rabbitohs
+10388,5867,Newtown
 10391,9711,North Sydney
 10391,5815,Canterbury Bankstown
 10393,5815,Canterbury Bankstown
@@ -9742,6 +10419,7 @@ match_id,coach_id,team
 10392,9711,North Sydney
 10394,5838,St George Dragons
 10394,5843,Newtown
+10394,5867,Newtown
 10395,9835,Western Suburbs Magpies
 10395,3653,South Sydney Rabbitohs
 10396,5815,Canterbury Bankstown
@@ -9750,10 +10428,12 @@ match_id,coach_id,team
 10397,9267,Balmain Tigers
 10398,5843,Newtown
 10398,9835,Western Suburbs Magpies
+10398,5867,Newtown
 10399,9711,North Sydney
 10399,3653,South Sydney Rabbitohs
 10402,5843,Newtown
 10402,5815,Canterbury Bankstown
+10402,5867,Newtown
 10403,5838,St George Dragons
 10403,5800,Eastern Suburbs
 10401,3653,South Sydney Rabbitohs
@@ -9766,10 +10446,12 @@ match_id,coach_id,team
 10406,5800,Eastern Suburbs
 10407,9711,North Sydney
 10407,5843,Newtown
+10407,5867,Newtown
 10404,5838,St George Dragons
 10404,3653,South Sydney Rabbitohs
 10408,5800,Eastern Suburbs
 10408,5843,Newtown
+10408,5867,Newtown
 10410,9711,North Sydney
 10410,9267,Balmain Tigers
 10411,3653,South Sydney Rabbitohs
@@ -9782,6 +10464,7 @@ match_id,coach_id,team
 10413,3653,South Sydney Rabbitohs
 10415,5843,Newtown
 10415,9267,Balmain Tigers
+10415,5867,Newtown
 10414,5838,St George Dragons
 10414,9711,North Sydney
 10416,5815,Canterbury Bankstown
@@ -9790,12 +10473,14 @@ match_id,coach_id,team
 10418,9267,Balmain Tigers
 10417,3653,South Sydney Rabbitohs
 10417,5843,Newtown
+10417,5867,Newtown
 10419,9835,Western Suburbs Magpies
 10419,5800,Eastern Suburbs
 10422,9267,Balmain Tigers
 10422,5815,Canterbury Bankstown
 10420,5843,Newtown
 10420,5838,St George Dragons
+10420,5867,Newtown
 10423,9711,North Sydney
 10423,5800,Eastern Suburbs
 10421,3653,South Sydney Rabbitohs
@@ -9808,18 +10493,21 @@ match_id,coach_id,team
 10426,9711,North Sydney
 10425,9835,Western Suburbs Magpies
 10425,5843,Newtown
+10425,5867,Newtown
 10429,9267,Balmain Tigers
 10429,3653,South Sydney Rabbitohs
 10430,5800,Eastern Suburbs
 10430,5838,St George Dragons
 10431,5843,Newtown
 10431,5815,Canterbury Bankstown
+10431,5867,Newtown
 10428,9711,North Sydney
 10428,9835,Western Suburbs Magpies
 10433,5815,Canterbury Bankstown
 10433,5800,Eastern Suburbs
 10432,5843,Newtown
 10432,9711,North Sydney
+10432,5867,Newtown
 10434,3653,South Sydney Rabbitohs
 10434,5838,St George Dragons
 10435,9835,Western Suburbs Magpies
@@ -9830,10 +10518,12 @@ match_id,coach_id,team
 10438,3653,South Sydney Rabbitohs
 10439,5800,Eastern Suburbs
 10439,5843,Newtown
+10439,5867,Newtown
 10436,5838,St George Dragons
 10436,9835,Western Suburbs Magpies
 10441,9267,Balmain Tigers
 10441,5843,Newtown
+10441,5867,Newtown
 10440,9711,North Sydney
 10440,5838,St George Dragons
 10443,3653,South Sydney Rabbitohs
@@ -9844,6 +10534,7 @@ match_id,coach_id,team
 10444,5838,St George Dragons
 10445,5815,Canterbury Bankstown
 10445,5843,Newtown
+10445,5867,Newtown
 10446,9267,Balmain Tigers
 10446,5815,Canterbury Bankstown
 10447,9267,Balmain Tigers
@@ -9858,16 +10549,12 @@ match_id,coach_id,team
 10452,5843,Newtown
 10449,5760,St George Dragons
 10449,11940,South Sydney Rabbitohs
-10449,11814,St George Dragons
-10449,5881,St George Dragons
 10454,5815,Canterbury Bankstown
 10454,3582,Eastern Suburbs
 10455,5843,Newtown
 10455,9305,Manly Warringah Sea Eagles
 10453,5769,North Sydney
 10453,5760,St George Dragons
-10453,11814,St George Dragons
-10453,5881,St George Dragons
 10456,11940,South Sydney Rabbitohs
 10456,5774,Parramatta Eels
 10457,5384,Western Suburbs Magpies
@@ -9876,8 +10563,6 @@ match_id,coach_id,team
 10459,5815,Canterbury Bankstown
 10458,5774,Parramatta Eels
 10458,5760,St George Dragons
-10458,11814,St George Dragons
-10458,5881,St George Dragons
 10460,5384,Western Suburbs Magpies
 10460,3582,Eastern Suburbs
 10461,9267,Balmain Tigers
@@ -9895,7 +10580,6 @@ match_id,coach_id,team
 10466,5760,St George Dragons
 10466,9305,Manly Warringah Sea Eagles
 10466,11814,St George Dragons
-10466,5881,St George Dragons
 10468,9267,Balmain Tigers
 10468,5769,North Sydney
 10469,5815,Canterbury Bankstown
@@ -9907,7 +10591,6 @@ match_id,coach_id,team
 10471,5384,Western Suburbs Magpies
 10471,5760,St George Dragons
 10471,11814,St George Dragons
-10471,5881,St George Dragons
 10475,5800,Manly Warringah Sea Eagles
 10475,9267,Balmain Tigers
 10474,5769,North Sydney
@@ -9917,7 +10600,6 @@ match_id,coach_id,team
 10476,5760,St George Dragons
 10476,5815,Canterbury Bankstown
 10476,11814,St George Dragons
-10476,5881,St George Dragons
 10473,11940,South Sydney Rabbitohs
 10473,5384,Western Suburbs Magpies
 10479,5815,Canterbury Bankstown
@@ -9925,7 +10607,6 @@ match_id,coach_id,team
 10480,3582,Eastern Suburbs
 10480,5760,St George Dragons
 10480,11814,St George Dragons
-10480,5881,St George Dragons
 10478,5843,Newtown
 10478,5384,Western Suburbs Magpies
 10481,5769,North Sydney
@@ -9935,7 +10616,6 @@ match_id,coach_id,team
 10484,9267,Balmain Tigers
 10484,5760,St George Dragons
 10484,11814,St George Dragons
-10484,5881,St George Dragons
 10485,3582,Eastern Suburbs
 10485,11940,South Sydney Rabbitohs
 10483,5800,Manly Warringah Sea Eagles
@@ -9955,7 +10635,6 @@ match_id,coach_id,team
 10491,5760,St George Dragons
 10491,5843,Newtown
 10491,11814,St George Dragons
-10491,5881,St George Dragons
 10496,5815,Canterbury Bankstown
 10496,9267,Balmain Tigers
 10493,5843,Newtown
@@ -9965,7 +10644,6 @@ match_id,coach_id,team
 10495,11940,South Sydney Rabbitohs
 10495,5760,St George Dragons
 10495,11814,St George Dragons
-10495,5881,St George Dragons
 10494,5384,Western Suburbs Magpies
 10494,5800,Manly Warringah Sea Eagles
 10500,9267,Balmain Tigers
@@ -9979,7 +10657,6 @@ match_id,coach_id,team
 10501,5760,St George Dragons
 10501,5769,North Sydney
 10501,11814,St George Dragons
-10501,5881,St George Dragons
 10504,5815,Canterbury Bankstown
 10504,5769,North Sydney
 10505,3582,Eastern Suburbs
@@ -9991,11 +10668,9 @@ match_id,coach_id,team
 10506,5760,St George Dragons
 10506,5774,Parramatta Eels
 10506,11814,St George Dragons
-10506,5881,St George Dragons
 10508,5800,Manly Warringah Sea Eagles
 10508,5760,St George Dragons
 10508,11814,St George Dragons
-10508,5881,St George Dragons
 10512,5843,Newtown
 10512,3582,Eastern Suburbs
 10509,5769,North Sydney
@@ -10009,7 +10684,6 @@ match_id,coach_id,team
 10515,5815,Canterbury Bankstown
 10515,5760,St George Dragons
 10515,11814,St George Dragons
-10515,5881,St George Dragons
 10516,3582,Eastern Suburbs
 10516,5774,Parramatta Eels
 10513,5843,Newtown
@@ -10023,7 +10697,6 @@ match_id,coach_id,team
 10522,5760,St George Dragons
 10522,3582,Eastern Suburbs
 10522,11814,St George Dragons
-10522,5881,St George Dragons
 10521,11940,South Sydney Rabbitohs
 10521,5815,Canterbury Bankstown
 10520,5384,Western Suburbs Magpies
@@ -10037,7 +10710,6 @@ match_id,coach_id,team
 10526,5760,St George Dragons
 10526,9267,Balmain Tigers
 10526,11814,St George Dragons
-10526,5881,St George Dragons
 10527,11940,South Sydney Rabbitohs
 10527,3582,Eastern Suburbs
 10530,3582,Eastern Suburbs
@@ -10051,7 +10723,6 @@ match_id,coach_id,team
 10529,5760,St George Dragons
 10529,5384,Western Suburbs Magpies
 10529,11814,St George Dragons
-10529,5881,St George Dragons
 10534,9267,Balmain Tigers
 10534,3582,Eastern Suburbs
 10537,5800,Manly Warringah Sea Eagles
@@ -10059,7 +10730,6 @@ match_id,coach_id,team
 10533,5843,Newtown
 10533,5760,St George Dragons
 10533,11814,St George Dragons
-10533,5881,St George Dragons
 10535,11940,South Sydney Rabbitohs
 10535,5769,North Sydney
 10536,5384,Western Suburbs Magpies
@@ -10067,7 +10737,6 @@ match_id,coach_id,team
 10538,5384,Western Suburbs Magpies
 10538,5760,St George Dragons
 10538,11814,St George Dragons
-10538,5881,St George Dragons
 10539,5815,Canterbury Bankstown
 10539,5843,Newtown
 10540,9267,Balmain Tigers
@@ -10076,20 +10745,76 @@ match_id,coach_id,team
 10541,5815,Canterbury Bankstown
 10542,9267,Balmain Tigers
 10542,5815,Canterbury Bankstown
+8376,3580,Eastern Suburbs
+8377,3623,Glebe
 8377,3612,Balmain Tigers
+8374,3624,Newtown
+8374,8691,Western Suburbs Magpies
 8378,3612,Balmain Tigers
+8379,3623,Glebe
+8380,3624,Newtown
+8381,8691,Western Suburbs Magpies
+8381,3580,Eastern Suburbs
+8383,3580,Eastern Suburbs
+8385,3624,Newtown
+8385,3623,Glebe
+8382,8691,Western Suburbs Magpies
 8382,3612,Balmain Tigers
+8387,3580,Eastern Suburbs
+8387,3623,Glebe
+8388,3624,Newtown
+8386,8691,Western Suburbs Magpies
 8389,3612,Balmain Tigers
 8391,3612,Balmain Tigers
+8392,3580,Eastern Suburbs
+8392,3624,Newtown
+8393,3623,Glebe
+8390,8691,Western Suburbs Magpies
+8396,3580,Eastern Suburbs
+8395,3623,Glebe
+8395,8691,Western Suburbs Magpies
+8397,3624,Newtown
 8397,3612,Balmain Tigers
+8398,8691,Western Suburbs Magpies
 8400,3612,Balmain Tigers
+8400,3580,Eastern Suburbs
+8399,3624,Newtown
+8401,3623,Glebe
+8402,3580,Eastern Suburbs
 8404,3612,Balmain Tigers
+8404,3623,Glebe
+8403,8691,Western Suburbs Magpies
+8403,3624,Newtown
 8407,3612,Balmain Tigers
+8406,3580,Eastern Suburbs
+8406,8691,Western Suburbs Magpies
+8408,3623,Glebe
+8409,3624,Newtown
 8412,3612,Balmain Tigers
+8412,8691,Western Suburbs Magpies
+8411,3623,Glebe
+8411,3624,Newtown
+8413,3580,Eastern Suburbs
+8414,3624,Newtown
 8416,3612,Balmain Tigers
+8417,3623,Glebe
+8417,3580,Eastern Suburbs
+8415,8691,Western Suburbs Magpies
+8418,3623,Glebe
+8421,3624,Newtown
+8421,3580,Eastern Suburbs
 8420,3612,Balmain Tigers
+8419,8691,Western Suburbs Magpies
 8423,3612,Balmain Tigers
+8423,3624,Newtown
+8425,3580,Eastern Suburbs
+8422,8691,Western Suburbs Magpies
+8422,3623,Glebe
+8429,3580,Eastern Suburbs
 8429,3612,Balmain Tigers
+8427,3623,Glebe
+8428,3624,Newtown
+8426,8691,Western Suburbs Magpies
 10546,9703,Balmain Tigers
 10546,3582,Canterbury Bankstown
 10547,5828,Eastern Suburbs
@@ -10279,6 +11004,7 @@ match_id,coach_id,team
 10636,11818,Western Suburbs Magpies
 10636,9703,Balmain Tigers
 10639,9628,Canterbury Bankstown
+10639,5865,South Sydney Rabbitohs
 10639,11940,South Sydney Rabbitohs
 10640,5800,Eastern Suburbs
 10640,5843,Newtown
@@ -10288,8 +11014,9 @@ match_id,coach_id,team
 10641,9703,Balmain Tigers
 10638,5805,Parramatta Eels
 10638,5882,Western Suburbs Magpies
-10642,11940,South Sydney Rabbitohs
+10642,5865,South Sydney Rabbitohs
 10642,5843,Newtown
+10642,11940,South Sydney Rabbitohs
 10643,5882,Western Suburbs Magpies
 10643,9628,Canterbury Bankstown
 10645,9703,Balmain Tigers
@@ -10305,6 +11032,7 @@ match_id,coach_id,team
 10651,5800,Eastern Suburbs
 10651,9846,North Sydney
 10649,9567,Manly Warringah Sea Eagles
+10649,5865,South Sydney Rabbitohs
 10649,11940,South Sydney Rabbitohs
 10650,5843,Newtown
 10650,5882,Western Suburbs Magpies
@@ -10314,13 +11042,15 @@ match_id,coach_id,team
 10656,5800,Eastern Suburbs
 10653,9846,North Sydney
 10653,5843,Newtown
-10654,11940,South Sydney Rabbitohs
+10654,5865,South Sydney Rabbitohs
 10654,5805,Parramatta Eels
+10654,11940,South Sydney Rabbitohs
 10655,5882,Western Suburbs Magpies
 10655,9419,St George Dragons
 10657,9703,Balmain Tigers
 10657,5882,Western Suburbs Magpies
 10658,5800,Eastern Suburbs
+10658,5865,South Sydney Rabbitohs
 10658,11940,South Sydney Rabbitohs
 10659,5843,Newtown
 10659,9567,Manly Warringah Sea Eagles
@@ -10336,8 +11066,9 @@ match_id,coach_id,team
 10663,5805,Parramatta Eels
 10666,9419,St George Dragons
 10666,9703,Balmain Tigers
-10665,11940,South Sydney Rabbitohs
+10665,5865,South Sydney Rabbitohs
 10665,9846,North Sydney
+10665,11940,South Sydney Rabbitohs
 10670,5800,Eastern Suburbs
 10670,9703,Balmain Tigers
 10671,9846,North Sydney
@@ -10347,8 +11078,10 @@ match_id,coach_id,team
 10668,9419,St George Dragons
 10668,5843,Newtown
 10669,5882,Western Suburbs Magpies
+10669,5865,South Sydney Rabbitohs
 10669,11940,South Sydney Rabbitohs
 10673,9703,Balmain Tigers
+10673,5865,South Sydney Rabbitohs
 10673,11940,South Sydney Rabbitohs
 10674,9628,Canterbury Bankstown
 10674,5843,Newtown
@@ -10367,6 +11100,7 @@ match_id,coach_id,team
 10681,5805,Parramatta Eels
 10681,5800,Eastern Suburbs
 10678,9419,St George Dragons
+10678,5865,South Sydney Rabbitohs
 10678,11940,South Sydney Rabbitohs
 10682,9703,Balmain Tigers
 10682,9846,North Sydney
@@ -10374,8 +11108,9 @@ match_id,coach_id,team
 10686,5800,Eastern Suburbs
 10683,9419,St George Dragons
 10683,9567,Manly Warringah Sea Eagles
-10685,11940,South Sydney Rabbitohs
+10685,5865,South Sydney Rabbitohs
 10685,9628,Canterbury Bankstown
+10685,11940,South Sydney Rabbitohs
 10684,5882,Western Suburbs Magpies
 10684,5805,Parramatta Eels
 10688,9628,Canterbury Bankstown
@@ -10383,6 +11118,7 @@ match_id,coach_id,team
 10690,9567,Manly Warringah Sea Eagles
 10690,9703,Balmain Tigers
 10687,5843,Newtown
+10687,5865,South Sydney Rabbitohs
 10687,11940,South Sydney Rabbitohs
 10689,5805,Parramatta Eels
 10689,9846,North Sydney
@@ -10394,8 +11130,9 @@ match_id,coach_id,team
 10696,5800,Eastern Suburbs
 10695,9419,St George Dragons
 10695,9628,Canterbury Bankstown
-10693,11940,South Sydney Rabbitohs
+10693,5865,South Sydney Rabbitohs
 10693,9567,Manly Warringah Sea Eagles
+10693,11940,South Sydney Rabbitohs
 10694,5882,Western Suburbs Magpies
 10694,5843,Newtown
 10701,9628,Canterbury Bankstown
@@ -10405,6 +11142,7 @@ match_id,coach_id,team
 10697,5843,Newtown
 10697,9846,North Sydney
 10698,5805,Parramatta Eels
+10698,5865,South Sydney Rabbitohs
 10698,11940,South Sydney Rabbitohs
 10699,9419,St George Dragons
 10699,5882,Western Suburbs Magpies
@@ -10414,8 +11152,9 @@ match_id,coach_id,team
 10702,5843,Newtown
 10703,9846,North Sydney
 10703,9419,St George Dragons
-10706,11940,South Sydney Rabbitohs
+10706,5865,South Sydney Rabbitohs
 10706,5800,Eastern Suburbs
+10706,11940,South Sydney Rabbitohs
 10705,5882,Western Suburbs Magpies
 10705,9703,Balmain Tigers
 10708,9703,Balmain Tigers
@@ -10423,6 +11162,7 @@ match_id,coach_id,team
 10711,5800,Eastern Suburbs
 10711,9628,Canterbury Bankstown
 10707,9846,North Sydney
+10707,5865,South Sydney Rabbitohs
 10707,11940,South Sydney Rabbitohs
 10710,5805,Parramatta Eels
 10710,5843,Newtown
@@ -10436,16 +11176,18 @@ match_id,coach_id,team
 10712,5805,Parramatta Eels
 10713,5843,Newtown
 10713,9419,St George Dragons
-10714,11940,South Sydney Rabbitohs
+10714,5865,South Sydney Rabbitohs
 10714,5882,Western Suburbs Magpies
+10714,11940,South Sydney Rabbitohs
 10720,5843,Newtown
 10720,9628,Canterbury Bankstown
 10718,9846,North Sydney
 10718,9567,Manly Warringah Sea Eagles
 10717,5805,Parramatta Eels
 10717,9419,St George Dragons
-10719,11940,South Sydney Rabbitohs
+10719,5865,South Sydney Rabbitohs
 10719,9703,Balmain Tigers
+10719,11940,South Sydney Rabbitohs
 10721,5882,Western Suburbs Magpies
 10721,5800,Eastern Suburbs
 10722,9703,Balmain Tigers
@@ -10454,24 +11196,25 @@ match_id,coach_id,team
 10723,5805,Parramatta Eels
 10726,9567,Manly Warringah Sea Eagles
 10726,9628,Canterbury Bankstown
-10725,11940,South Sydney Rabbitohs
+10725,5865,South Sydney Rabbitohs
 10725,9419,St George Dragons
+10725,11940,South Sydney Rabbitohs
 10724,5882,Western Suburbs Magpies
 10724,9846,North Sydney
 10727,9419,St George Dragons
+10727,5865,South Sydney Rabbitohs
 10727,11940,South Sydney Rabbitohs
 10728,9703,Balmain Tigers
 10728,5882,Western Suburbs Magpies
 10729,9419,St George Dragons
 10729,9703,Balmain Tigers
 10730,9419,St George Dragons
+10730,5865,South Sydney Rabbitohs
 10730,11940,South Sydney Rabbitohs
 10733,9703,Balmain Tigers
 10733,5805,Parramatta Eels
-10734,9628,Canterbury Bankstown
-10734,5865,South Sydney Rabbitohs
 10734,9479,Canterbury Bankstown
-10734,11940,South Sydney Rabbitohs
+10734,5865,South Sydney Rabbitohs
 10731,5862,Manly Warringah Sea Eagles
 10731,5843,Newtown
 10735,9771,North Sydney
@@ -10479,7 +11222,6 @@ match_id,coach_id,team
 10732,9419,St George Dragons
 10732,11818,Western Suburbs Magpies
 10740,5789,Eastern Suburbs
-10740,9628,Canterbury Bankstown
 10740,9479,Canterbury Bankstown
 10736,5862,Manly Warringah Sea Eagles
 10736,9419,St George Dragons
@@ -10487,25 +11229,21 @@ match_id,coach_id,team
 10738,5843,Newtown
 10737,5805,Parramatta Eels
 10737,5865,South Sydney Rabbitohs
-10737,11940,South Sydney Rabbitohs
 10739,11818,Western Suburbs Magpies
 10739,9703,Balmain Tigers
 10743,9703,Balmain Tigers
 10743,5862,Manly Warringah Sea Eagles
-10744,9628,Canterbury Bankstown
-10744,9771,North Sydney
 10744,9479,Canterbury Bankstown
+10744,9771,North Sydney
 10745,5789,Eastern Suburbs
 10745,5805,Parramatta Eels
 10741,5843,Newtown
 10741,9419,St George Dragons
 10742,5865,South Sydney Rabbitohs
 10742,11818,Western Suburbs Magpies
-10742,11940,South Sydney Rabbitohs
 10748,5789,Eastern Suburbs
 10748,5843,Newtown
 10750,5862,Manly Warringah Sea Eagles
-10750,9628,Canterbury Bankstown
 10750,9479,Canterbury Bankstown
 10749,9771,North Sydney
 10749,9703,Balmain Tigers
@@ -10513,34 +11251,28 @@ match_id,coach_id,team
 10746,11818,Western Suburbs Magpies
 10747,9419,St George Dragons
 10747,5865,South Sydney Rabbitohs
-10747,11940,South Sydney Rabbitohs
 10752,9703,Balmain Tigers
 10752,5789,Eastern Suburbs
-10753,9628,Canterbury Bankstown
-10753,9419,St George Dragons
 10753,9479,Canterbury Bankstown
+10753,9419,St George Dragons
 10751,5862,Manly Warringah Sea Eagles
 10751,11818,Western Suburbs Magpies
 10754,5805,Parramatta Eels
 10754,5843,Newtown
 10755,5865,South Sydney Rabbitohs
 10755,9771,North Sydney
-10755,11940,South Sydney Rabbitohs
 10758,5789,Eastern Suburbs
 10758,5862,Manly Warringah Sea Eagles
 10756,5843,Newtown
 10756,5865,South Sydney Rabbitohs
-10756,11940,South Sydney Rabbitohs
 10757,9771,North Sydney
 10757,5805,Parramatta Eels
 10759,9419,St George Dragons
 10759,9703,Balmain Tigers
 10760,11818,Western Suburbs Magpies
-10760,9628,Canterbury Bankstown
 10760,9479,Canterbury Bankstown
-10764,9628,Canterbury Bankstown
-10764,9703,Balmain Tigers
 10764,9479,Canterbury Bankstown
+10764,9703,Balmain Tigers
 10761,5862,Manly Warringah Sea Eagles
 10761,9771,North Sydney
 10762,5843,Newtown
@@ -10549,7 +11281,6 @@ match_id,coach_id,team
 10763,5805,Parramatta Eels
 10765,5865,South Sydney Rabbitohs
 10765,5789,Eastern Suburbs
-10765,11940,South Sydney Rabbitohs
 10767,9703,Balmain Tigers
 10767,5843,Newtown
 10768,5789,Eastern Suburbs
@@ -10557,28 +11288,22 @@ match_id,coach_id,team
 10766,9771,North Sydney
 10766,9419,St George Dragons
 10770,5805,Parramatta Eels
-10770,9628,Canterbury Bankstown
 10770,9479,Canterbury Bankstown
 10769,5865,South Sydney Rabbitohs
 10769,5862,Manly Warringah Sea Eagles
-10769,11940,South Sydney Rabbitohs
-10772,9628,Canterbury Bankstown
-10772,5843,Newtown
 10772,9479,Canterbury Bankstown
+10772,5843,Newtown
 10771,5862,Manly Warringah Sea Eagles
 10771,5805,Parramatta Eels
 10775,9419,St George Dragons
 10775,5789,Eastern Suburbs
 10774,5865,South Sydney Rabbitohs
 10774,9703,Balmain Tigers
-10774,11940,South Sydney Rabbitohs
 10773,11818,Western Suburbs Magpies
 10773,9771,North Sydney
 10776,5789,Eastern Suburbs
 10776,9771,North Sydney
 10778,5865,South Sydney Rabbitohs
-10778,9628,Canterbury Bankstown
-10778,11940,South Sydney Rabbitohs
 10778,9479,Canterbury Bankstown
 10777,11818,Western Suburbs Magpies
 10777,9419,St George Dragons
@@ -10586,38 +11311,32 @@ match_id,coach_id,team
 10779,9703,Balmain Tigers
 10782,9703,Balmain Tigers
 10782,11818,Western Suburbs Magpies
-10783,9628,Canterbury Bankstown
-10783,5789,Eastern Suburbs
 10783,9479,Canterbury Bankstown
+10783,5789,Eastern Suburbs
 10781,5843,Newtown
 10781,9771,North Sydney
 10784,9419,St George Dragons
 10784,5862,Manly Warringah Sea Eagles
 10785,5865,South Sydney Rabbitohs
 10785,5805,Parramatta Eels
-10785,11940,South Sydney Rabbitohs
 10788,5862,Manly Warringah Sea Eagles
 10788,9703,Balmain Tigers
 10786,5843,Newtown
 10786,9419,St George Dragons
 10789,9771,North Sydney
-10789,9628,Canterbury Bankstown
 10789,9479,Canterbury Bankstown
 10790,5805,Parramatta Eels
 10790,5789,Eastern Suburbs
 10787,11818,Western Suburbs Magpies
 10787,5865,South Sydney Rabbitohs
-10787,11940,South Sydney Rabbitohs
 10791,9703,Balmain Tigers
 10791,9771,North Sydney
-10792,9628,Canterbury Bankstown
-10792,5862,Manly Warringah Sea Eagles
 10792,9479,Canterbury Bankstown
+10792,5862,Manly Warringah Sea Eagles
 10793,5789,Eastern Suburbs
 10793,5843,Newtown
 10795,5865,South Sydney Rabbitohs
 10795,9419,St George Dragons
-10795,11940,South Sydney Rabbitohs
 10794,11818,Western Suburbs Magpies
 10794,5805,Parramatta Eels
 10780,5843,Newtown
@@ -10626,9 +11345,7 @@ match_id,coach_id,team
 10796,5805,Parramatta Eels
 10797,9771,North Sydney
 10797,5865,South Sydney Rabbitohs
-10797,11940,South Sydney Rabbitohs
 10799,9419,St George Dragons
-10799,9628,Canterbury Bankstown
 10799,9479,Canterbury Bankstown
 10798,11818,Western Suburbs Magpies
 10798,5862,Manly Warringah Sea Eagles
@@ -10636,18 +11353,15 @@ match_id,coach_id,team
 10800,9703,Balmain Tigers
 10801,9703,Balmain Tigers
 10801,9419,St George Dragons
-10802,9628,Canterbury Bankstown
-10802,11818,Western Suburbs Magpies
 10802,9479,Canterbury Bankstown
+10802,11818,Western Suburbs Magpies
 10805,5862,Manly Warringah Sea Eagles
 10805,5789,Eastern Suburbs
 10804,5805,Parramatta Eels
 10804,9771,North Sydney
 10803,5865,South Sydney Rabbitohs
 10803,5843,Newtown
-10803,11940,South Sydney Rabbitohs
 10807,9703,Balmain Tigers
-10807,9628,Canterbury Bankstown
 10807,9479,Canterbury Bankstown
 10808,9771,North Sydney
 10808,5862,Manly Warringah Sea Eagles
@@ -10657,13 +11371,10 @@ match_id,coach_id,team
 10809,5843,Newtown
 10810,5789,Eastern Suburbs
 10810,5865,South Sydney Rabbitohs
-10810,11940,South Sydney Rabbitohs
-10812,9628,Canterbury Bankstown
-10812,5805,Parramatta Eels
 10812,9479,Canterbury Bankstown
+10812,5805,Parramatta Eels
 10811,5862,Manly Warringah Sea Eagles
 10811,5865,South Sydney Rabbitohs
-10811,11940,South Sydney Rabbitohs
 10814,5843,Newtown
 10814,9703,Balmain Tigers
 10813,9419,St George Dragons
@@ -10672,9 +11383,7 @@ match_id,coach_id,team
 10815,5789,Eastern Suburbs
 10817,9703,Balmain Tigers
 10817,5865,South Sydney Rabbitohs
-10817,11940,South Sydney Rabbitohs
 10819,5843,Newtown
-10819,9628,Canterbury Bankstown
 10819,9479,Canterbury Bankstown
 10816,9771,North Sydney
 10816,11818,Western Suburbs Magpies
@@ -10684,12 +11393,10 @@ match_id,coach_id,team
 10820,5789,Eastern Suburbs
 10821,5865,South Sydney Rabbitohs
 10821,5843,Newtown
-10821,11940,South Sydney Rabbitohs
 10822,11818,Western Suburbs Magpies
 10822,9703,Balmain Tigers
 10823,5865,South Sydney Rabbitohs
 10823,11818,Western Suburbs Magpies
-10823,11940,South Sydney Rabbitohs
 10826,5874,Canterbury Bankstown
 10826,5843,Newtown
 10828,5789,Eastern Suburbs
@@ -12008,34 +12715,118 @@ match_id,coach_id,team
 11481,5865,South Sydney Rabbitohs
 11482,5922,St George Dragons
 11482,10382,Manly Warringah Sea Eagles
+8430,5410,Annandale
 8430,3612,Balmain Tigers
+8433,8706,Newtown
+8433,3580,Eastern Suburbs
+8432,3623,Glebe
+8431,3587,Western Suburbs Magpies
 8431,3656,South Sydney Rabbitohs
+8431,8691,Western Suburbs Magpies
+8434,5410,Annandale
 8434,3656,South Sydney Rabbitohs
 8436,3612,Balmain Tigers
+8436,8706,Newtown
+8437,3580,Eastern Suburbs
+8435,3587,Western Suburbs Magpies
+8435,3623,Glebe
+8435,8691,Western Suburbs Magpies
+8440,3623,Glebe
+8440,5410,Annandale
+8438,8706,Newtown
 8441,3656,South Sydney Rabbitohs
 8441,3612,Balmain Tigers
+8439,3587,Western Suburbs Magpies
+8439,3580,Eastern Suburbs
+8439,8691,Western Suburbs Magpies
+8444,3580,Eastern Suburbs
+8444,5410,Annandale
+8445,3623,Glebe
 8445,3612,Balmain Tigers
+8442,8706,Newtown
 8442,3656,South Sydney Rabbitohs
+8443,3587,Western Suburbs Magpies
+8443,8691,Western Suburbs Magpies
+8446,5410,Annandale
 8448,3612,Balmain Tigers
+8448,3580,Eastern Suburbs
+8447,8706,Newtown
+8447,3587,Western Suburbs Magpies
+8447,8691,Western Suburbs Magpies
 8449,3656,South Sydney Rabbitohs
+8449,3623,Glebe
 8452,3612,Balmain Tigers
+8453,3580,Eastern Suburbs
 8453,3656,South Sydney Rabbitohs
+8451,3623,Glebe
+8451,8706,Newtown
+8450,3587,Western Suburbs Magpies
+8450,5410,Annandale
+8450,8691,Western Suburbs Magpies
 8454,3612,Balmain Tigers
+8454,3587,Western Suburbs Magpies
+8454,8691,Western Suburbs Magpies
+8455,3580,Eastern Suburbs
+8455,3623,Glebe
+8456,8706,Newtown
+8456,5410,Annandale
 8457,3656,South Sydney Rabbitohs
 8461,3612,Balmain Tigers
+8461,5410,Annandale
+8460,3580,Eastern Suburbs
+8460,8706,Newtown
+8458,3623,Glebe
 8459,3656,South Sydney Rabbitohs
+8459,3587,Western Suburbs Magpies
+8459,8691,Western Suburbs Magpies
+8462,3623,Glebe
+8462,3587,Western Suburbs Magpies
+8462,8691,Western Suburbs Magpies
+8464,8706,Newtown
 8464,3612,Balmain Tigers
+8465,3580,Eastern Suburbs
 8463,3656,South Sydney Rabbitohs
+8463,5410,Annandale
+8466,5410,Annandale
+8466,3623,Glebe
 8467,3612,Balmain Tigers
 8467,3656,South Sydney Rabbitohs
+8468,3580,Eastern Suburbs
+8468,3587,Western Suburbs Magpies
+8468,8691,Western Suburbs Magpies
+8469,8706,Newtown
+8470,5410,Annandale
+8470,3580,Eastern Suburbs
 8472,3612,Balmain Tigers
+8472,3623,Glebe
 8473,3656,South Sydney Rabbitohs
+8473,8706,Newtown
+8471,3587,Western Suburbs Magpies
+8471,8691,Western Suburbs Magpies
+8477,3580,Eastern Suburbs
 8477,3612,Balmain Tigers
+8474,3623,Glebe
 8474,3656,South Sydney Rabbitohs
+8476,5410,Annandale
+8475,3587,Western Suburbs Magpies
+8475,8706,Newtown
+8475,8691,Western Suburbs Magpies
+8478,5410,Annandale
+8478,3587,Western Suburbs Magpies
+8478,8691,Western Suburbs Magpies
+8479,8706,Newtown
+8479,3623,Glebe
 8480,3612,Balmain Tigers
 8481,3656,South Sydney Rabbitohs
+8481,3580,Eastern Suburbs
+8482,5410,Annandale
+8482,8706,Newtown
+8485,3623,Glebe
+8485,3580,Eastern Suburbs
 8483,3656,South Sydney Rabbitohs
+8484,3587,Western Suburbs Magpies
 8484,3612,Balmain Tigers
+8484,8691,Western Suburbs Magpies
 11483,10382,Manly Warringah Sea Eagles
 11483,5922,St George Dragons
 11484,5865,Parramatta Eels
@@ -14014,20 +14805,34 @@ match_id,coach_id,team
 12469,5977,St George Dragons
 12470,5869,South Sydney Rabbitohs
 12470,6006,Canterbury Bankstown
+8489,3623,Glebe
 8488,5424,Balmain Tigers
 8491,5424,Balmain Tigers
+8493,3623,Glebe
 8494,5424,Balmain Tigers
+8495,3623,Glebe
 8499,5424,Balmain Tigers
+8500,3623,Glebe
+8505,3623,Glebe
 8505,5424,Balmain Tigers
 8507,5424,Balmain Tigers
+8506,3623,Glebe
 8513,5424,Balmain Tigers
+8511,3623,Glebe
 8516,5424,Balmain Tigers
+8517,3623,Glebe
+8518,3623,Glebe
 8521,5424,Balmain Tigers
 8524,5424,Balmain Tigers
+8525,3623,Glebe
+8526,3623,Glebe
 8529,5424,Balmain Tigers
 8531,5424,Balmain Tigers
+8531,3623,Glebe
 8536,5424,Balmain Tigers
+8537,3623,Glebe
 8539,5424,Balmain Tigers
+8538,3623,Glebe
 12471,5869,South Sydney Rabbitohs
 12471,5938,Newtown
 12473,6006,Canterbury Bankstown
@@ -16779,19 +17584,47 @@ match_id,coach_id,team
 13844,8190,St George Dragons
 13844,3733,Parramatta Eels
 8544,5424,Balmain Tigers
+8543,3653,South Sydney Rabbitohs
+8545,3654,North Sydney
 8548,5424,Balmain Tigers
+8549,3654,North Sydney
+8547,3653,South Sydney Rabbitohs
+8550,3653,South Sydney Rabbitohs
 8552,5424,Balmain Tigers
+8553,3654,North Sydney
 8557,5424,Balmain Tigers
+8556,3654,North Sydney
+8554,3653,South Sydney Rabbitohs
 8558,5424,Balmain Tigers
+8560,3653,South Sydney Rabbitohs
+8560,3654,North Sydney
+8565,3653,South Sydney Rabbitohs
+8564,3654,North Sydney
 8564,5424,Balmain Tigers
+8567,3654,North Sydney
+8568,3653,South Sydney Rabbitohs
 8568,5424,Balmain Tigers
 8573,5424,Balmain Tigers
+8570,3654,North Sydney
+8572,3653,South Sydney Rabbitohs
+8577,3654,North Sydney
+8575,3653,South Sydney Rabbitohs
 8576,5424,Balmain Tigers
 8581,5424,Balmain Tigers
+8578,3654,North Sydney
+8579,3653,South Sydney Rabbitohs
+8582,3654,North Sydney
 8583,5424,Balmain Tigers
+8584,3653,South Sydney Rabbitohs
 8589,5424,Balmain Tigers
+8587,3654,North Sydney
+8587,3653,South Sydney Rabbitohs
 8592,5424,Balmain Tigers
+8592,3654,North Sydney
+8593,3653,South Sydney Rabbitohs
 8596,5424,Balmain Tigers
+8596,3653,South Sydney Rabbitohs
+8595,3654,North Sydney
 13845,5930,Cronulla Sutherland Sharks
 13845,3737,South Sydney Rabbitohs
 13847,3730,Canterbury Bankstown Bulldogs
@@ -17902,26 +18735,26 @@ match_id,coach_id,team
 4605,2937,Newtown Jets
 4606,5925,North Sydney Bears
 4606,7441,St George Dragons
-4607,7440,South Sydney Rabbitohs
-4607,5948,Canberra Raiders
 4608,2937,Newtown Jets
 4608,6047,Eastern Suburbs Roosters
+4607,7440,South Sydney Rabbitohs
+4607,5948,Canberra Raiders
 4612,3730,Canterbury Bankstown Bulldogs
 4612,3737,Parramatta Eels
 4611,3789,Cronulla Sutherland Sharks
 4611,6008,Balmain Tigers
-4609,7443,Illawarra Steelers
-4609,6109,Penrith Panthers
 4610,3733,Western Suburbs Magpies
 4610,5954,Manly Warringah Sea Eagles
+4609,7443,Illawarra Steelers
+4609,6109,Penrith Panthers
 4614,7440,South Sydney Rabbitohs
 4614,2937,Newtown Jets
+4617,6109,Penrith Panthers
+4617,3789,Cronulla Sutherland Sharks
 4615,6008,Balmain Tigers
 4615,3737,Parramatta Eels
 4616,5948,Canberra Raiders
 4616,3733,Western Suburbs Magpies
-4617,6109,Penrith Panthers
-4617,3789,Cronulla Sutherland Sharks
 4618,3730,Canterbury Bankstown Bulldogs
 4618,7441,St George Dragons
 4619,6047,Eastern Suburbs Roosters
@@ -18062,12 +18895,12 @@ match_id,coach_id,team
 4685,6109,Penrith Panthers
 4686,3789,Cronulla Sutherland Sharks
 4686,7443,Illawarra Steelers
+4689,5954,Manly Warringah Sea Eagles
+4689,6047,Eastern Suburbs Roosters
 4687,3737,Parramatta Eels
 4687,5925,North Sydney Bears
 4688,3733,Western Suburbs Magpies
 4688,3730,Canterbury Bankstown Bulldogs
-4689,5954,Manly Warringah Sea Eagles
-4689,6047,Eastern Suburbs Roosters
 4694,6047,Eastern Suburbs Roosters
 4694,5948,Canberra Raiders
 4693,7443,Illawarra Steelers
@@ -18276,12 +19109,12 @@ match_id,coach_id,team
 4792,6047,Eastern Suburbs Roosters
 4793,3737,Parramatta Eels
 4793,5954,Manly Warringah Sea Eagles
+4796,6047,Manly Warringah Sea Eagles
+4796,3733,Cronulla Sutherland Sharks
 4794,6008,Balmain Tigers
 4794,5925,South Sydney Rabbitohs
 4795,5948,Canberra Raiders
 4795,6109,Penrith Panthers
-4796,6047,Manly Warringah Sea Eagles
-4796,3733,Cronulla Sutherland Sharks
 4798,3730,Canterbury Bankstown Bulldogs
 4798,7443,Illawarra Steelers
 4799,7444,Eastern Suburbs Roosters
@@ -18306,22 +19139,22 @@ match_id,coach_id,team
 4805,6008,Balmain Tigers
 4808,7444,Eastern Suburbs Roosters
 4808,7443,Illawarra Steelers
+4810,3737,Parramatta Eels
+4810,6109,Penrith Panthers
 4811,6008,Balmain Tigers
 4811,3733,Cronulla Sutherland Sharks
 4812,5948,Canberra Raiders
 4812,10711,North Sydney Bears
 4809,6038,Newtown Jets
 4809,5925,South Sydney Rabbitohs
-4810,3737,Parramatta Eels
-4810,6109,Penrith Panthers
 4814,6047,Manly Warringah Sea Eagles
 4814,3730,Canterbury Bankstown Bulldogs
 4813,7441,St George Dragons
 4813,7451,Western Suburbs Magpies
-4815,6008,Balmain Tigers
-4815,7443,Illawarra Steelers
 4816,3730,Canterbury Bankstown Bulldogs
 4816,7444,Eastern Suburbs Roosters
+4815,6008,Balmain Tigers
+4815,7443,Illawarra Steelers
 4817,5925,South Sydney Rabbitohs
 4817,5948,Canberra Raiders
 4819,3733,Cronulla Sutherland Sharks
@@ -18680,8 +19513,6 @@ match_id,coach_id,team
 4993,5925,South Sydney Rabbitohs
 4995,6008,Balmain Tigers
 4995,6047,Manly Warringah Sea Eagles
-4996,2937,Canterbury Bankstown Bulldogs
-4996,2831,Illawarra Steelers
 4997,3733,Cronulla Sutherland Sharks
 4997,7441,St George Dragons
 4999,10711,North Sydney Bears
@@ -18690,6 +19521,8 @@ match_id,coach_id,team
 5000,7444,Eastern Suburbs Roosters
 4998,5925,South Sydney Rabbitohs
 4998,3554,Parramatta Eels
+4996,2937,Canterbury Bankstown Bulldogs
+4996,2831,Illawarra Steelers
 5005,6008,Balmain Tigers
 5005,7444,Eastern Suburbs Roosters
 5002,5948,Canberra Raiders
@@ -18698,10 +19531,10 @@ match_id,coach_id,team
 5001,2835,Penrith Panthers
 5004,3554,Parramatta Eels
 5004,3733,Cronulla Sutherland Sharks
-5006,7441,St George Dragons
-5006,2937,Canterbury Bankstown Bulldogs
 5003,11816,Western Suburbs Magpies
 5003,10711,North Sydney Bears
+5006,7441,St George Dragons
+5006,2937,Canterbury Bankstown Bulldogs
 5007,10711,North Sydney Bears
 5007,7441,St George Dragons
 5008,2937,Canterbury Bankstown Bulldogs
@@ -18838,14 +19671,14 @@ match_id,coach_id,team
 5073,6008,Balmain Tigers
 5075,5948,Canberra Raiders
 5075,10711,North Sydney Bears
-5076,7444,Eastern Suburbs Roosters
-5076,2835,Penrith Panthers
 5077,2831,Illawarra Steelers
 5077,2937,Canterbury Bankstown Bulldogs
 5074,3554,Parramatta Eels
 5074,5925,South Sydney Rabbitohs
 5078,7441,St George Dragons
 5078,3733,Cronulla Sutherland Sharks
+5076,7444,Eastern Suburbs Roosters
+5076,2835,Penrith Panthers
 5079,2835,Penrith Panthers
 5079,6047,Manly Warringah Sea Eagles
 5081,2937,Canterbury Bankstown Bulldogs
@@ -18948,12 +19781,12 @@ match_id,coach_id,team
 5128,2835,Penrith Panthers
 5132,2831,Illawarra Steelers
 5132,7444,Eastern Suburbs Roosters
-5131,10711,North Sydney Bears
-5131,3733,Cronulla Sutherland Sharks
 5129,7441,St George Dragons
 5129,6047,Manly Warringah Sea Eagles
 5130,11816,Western Suburbs Magpies
 5130,2937,Canterbury Bankstown Bulldogs
+5131,10711,North Sydney Bears
+5131,3733,Cronulla Sutherland Sharks
 5133,2937,Canterbury Bankstown Bulldogs
 5133,5948,Canberra Raiders
 5134,6008,Balmain Tigers
@@ -19985,19 +20818,33 @@ match_id,coach_id,team
 5633,6075,Canberra Raiders
 5633,5948,Canberra Raiders
 8599,3582,Balmain Tigers
+8601,3654,North Sydney
+8603,3654,North Sydney
 8604,3582,Balmain Tigers
 8607,3582,Balmain Tigers
+8606,3654,North Sydney
 8612,3582,Balmain Tigers
+8611,3654,North Sydney
+8614,3654,North Sydney
 8614,3582,Balmain Tigers
+8618,3654,North Sydney
 8620,3582,Balmain Tigers
 8624,3582,Balmain Tigers
+8623,3654,North Sydney
 8629,3582,Balmain Tigers
+8628,3654,North Sydney
 8631,3582,Balmain Tigers
+8633,3654,North Sydney
 8634,3582,Balmain Tigers
+8637,3654,North Sydney
 8640,3582,Balmain Tigers
+8638,3654,North Sydney
 8644,3582,Balmain Tigers
+8644,3654,North Sydney
+8646,3654,North Sydney
 8647,3582,Balmain Tigers
 8653,3582,Balmain Tigers
+8651,3654,North Sydney
 8654,3582,Balmain Tigers
 5634,1509,Eastern Suburbs Roosters
 5634,3730,St George Dragons
@@ -20797,8 +21644,6 @@ match_id,coach_id,team
 5847,6089,Parramatta Eels
 5849,6075,Brisbane Broncos
 5849,3134,Penrith Panthers
-5853,2835,Canberra Raiders
-5853,3952,Eastern Suburbs Roosters
 5850,1538,Illawarra Steelers
 5850,6110,South Sydney Rabbitohs
 5851,3738,Manly Warringah Sea Eagles
@@ -20807,6 +21652,8 @@ match_id,coach_id,team
 5852,6089,Parramatta Eels
 5855,1523,St George Dragons
 5855,6059,Gold Coast Seagulls
+5853,2835,Canberra Raiders
+5853,3952,Eastern Suburbs Roosters
 5854,1515,Canterbury Bankstown Bulldogs
 5854,7443,Cronulla Sutherland Sharks
 5856,2937,Balmain Tigers
@@ -20981,12 +21828,12 @@ match_id,coach_id,team
 5940,6059,Gold Coast Seagulls
 5944,7446,Eastern Suburbs Roosters
 5944,1538,Illawarra Steelers
-5942,3738,Manly Warringah Sea Eagles
-5942,2937,Balmain Tigers
 5941,6141,North Sydney Bears
 5941,3807,Newcastle Knights
 5943,1523,St George Dragons
 5943,2835,Canberra Raiders
+5942,3738,Manly Warringah Sea Eagles
+5942,2937,Balmain Tigers
 5945,2937,Balmain Tigers
 5945,3134,Penrith Panthers
 5947,6059,Gold Coast Seagulls
@@ -21155,12 +22002,12 @@ match_id,coach_id,team
 6028,7448,Gold Coast Seagulls
 6029,1515,Canterbury Bankstown Bulldogs
 6029,3134,Penrith Panthers
-6026,2831,St George Dragons
-6026,2937,Western Suburbs Magpies
 6031,12006,South Sydney Rabbitohs
 6031,3807,Newcastle Knights
 6030,7443,Cronulla Sutherland Sharks
 6030,2826,Illawarra Steelers
+6026,2831,St George Dragons
+6026,2937,Western Suburbs Magpies
 6032,2937,Western Suburbs Magpies
 6032,2835,Canberra Raiders
 6033,7448,Gold Coast Seagulls
@@ -21265,8 +22112,6 @@ match_id,coach_id,team
 6083,7448,Gold Coast Seagulls
 6086,7443,Cronulla Sutherland Sharks
 6086,6141,North Sydney Bears
-6087,3807,Newcastle Knights
-6087,3738,Manly Warringah Sea Eagles
 6082,6089,Parramatta Eels
 6082,12006,South Sydney Rabbitohs
 6084,6075,Brisbane Broncos
@@ -21274,6 +22119,9 @@ match_id,coach_id,team
 6085,14141,Canberra Raiders
 6085,3134,Penrith Panthers
 6085,2835,Canberra Raiders
+6087,3807,Newcastle Knights
+6087,3738,Manly Warringah Sea Eagles
+6087,6008,Manly Warringah Sea Eagles
 6088,1515,Canterbury Bankstown Bulldogs
 6088,6141,North Sydney Bears
 6089,7448,Gold Coast Seagulls
@@ -21376,8 +22224,6 @@ match_id,coach_id,team
 6137,2826,Illawarra Steelers
 6139,5578,Balmain Tigers
 6139,6097,Newcastle Knights
-6143,2835,Canberra Raiders
-6143,6075,Brisbane Broncos
 6140,7443,Cronulla Sutherland Sharks
 6140,1533,Eastern Suburbs Roosters
 6138,3738,Manly Warringah Sea Eagles
@@ -21386,12 +22232,14 @@ match_id,coach_id,team
 6141,7448,Gold Coast Seagulls
 6142,12006,South Sydney Rabbitohs
 6142,3134,Penrith Panthers
+6143,2835,Canberra Raiders
+6143,6075,Brisbane Broncos
 6144,2937,Western Suburbs Magpies
 6144,2831,St George Dragons
-6145,7448,Gold Coast Seagulls
-6145,2835,Canberra Raiders
 6146,3134,Penrith Panthers
 6146,1515,Canterbury Bankstown Bulldogs
+6145,7448,Gold Coast Seagulls
+6145,2835,Canberra Raiders
 6148,6075,Brisbane Broncos
 6148,6089,Parramatta Eels
 6150,1533,Eastern Suburbs Roosters
@@ -21518,8 +22366,6 @@ match_id,coach_id,team
 6208,3134,Penrith Panthers
 6209,892,Gold Coast Seagulls
 6209,1509,Cronulla Sutherland Sharks
-6214,6097,Newcastle Knights
-6214,3738,Manly Warringah Sea Eagles
 6210,1533,Eastern Suburbs Roosters
 6210,6089,Parramatta Eels
 6212,2826,Illawarra Steelers
@@ -21528,6 +22374,8 @@ match_id,coach_id,team
 6213,1515,Canterbury Bankstown Bulldogs
 6211,2937,Western Suburbs Magpies
 6211,6141,North Sydney Bears
+6214,6097,Newcastle Knights
+6214,3738,Manly Warringah Sea Eagles
 6215,1515,Canterbury Bankstown Bulldogs
 6215,2937,Western Suburbs Magpies
 6216,12006,South Sydney Rabbitohs
@@ -21742,8 +22590,6 @@ match_id,coach_id,team
 6320,5578,Balmain Tigers
 6322,1509,Cronulla Sutherland Sharks
 6322,6097,Newcastle Knights
-6323,2826,Illawarra Steelers
-6323,892,Gold Coast Seagulls
 6321,3738,Manly Warringah Sea Eagles
 6321,3134,Penrith Panthers
 6324,2831,St George Dragons
@@ -21752,6 +22598,8 @@ match_id,coach_id,team
 6326,1515,Canterbury Bankstown Bulldogs
 6325,2937,Western Suburbs Magpies
 6325,6089,Parramatta Eels
+6323,2826,Illawarra Steelers
+6323,892,Gold Coast Seagulls
 6327,3134,Penrith Panthers
 6327,6075,Brisbane Broncos
 6328,1515,Canterbury Bankstown Bulldogs
@@ -21847,10 +22695,10 @@ match_id,coach_id,team
 6370,6089,Parramatta Eels
 6373,1515,Canterbury Bankstown Bulldogs
 6373,6075,Brisbane Broncos
-6375,2835,Canberra Raiders
-6375,3134,Penrith Panthers
 6374,892,Gold Coast Seagulls
 6374,2826,Illawarra Steelers
+6375,2835,Canberra Raiders
+6375,3134,Penrith Panthers
 6378,1509,Cronulla Sutherland Sharks
 6378,6089,Parramatta Eels
 6379,1533,Eastern Suburbs Roosters
@@ -22027,8 +22875,6 @@ match_id,coach_id,team
 6462,1533,Eastern Suburbs Roosters
 6463,6047,Manly Warringah Sea Eagles
 6463,6075,Brisbane Broncos
-6466,1515,Canterbury Bankstown Bulldogs
-6466,5579,North Sydney Bears
 6464,892,Gold Coast Seagulls
 6464,2831,St George Dragons
 6468,6097,Newcastle Knights
@@ -22037,6 +22883,8 @@ match_id,coach_id,team
 6465,2937,Western Suburbs Magpies
 6467,12006,South Sydney Rabbitohs
 6467,3134,Penrith Panthers
+6466,1515,Canterbury Bankstown Bulldogs
+6466,5579,North Sydney Bears
 6469,6075,Brisbane Broncos
 6469,12006,South Sydney Rabbitohs
 6471,892,Gold Coast Seagulls
@@ -22047,12 +22895,12 @@ match_id,coach_id,team
 6472,2826,Illawarra Steelers
 6473,1533,Eastern Suburbs Roosters
 6473,6089,Parramatta Eels
-6475,5579,North Sydney Bears
-6475,2835,Canberra Raiders
 6474,3134,Penrith Panthers
 6474,6097,Newcastle Knights
 6476,2937,Western Suburbs Magpies
 6476,1515,Canterbury Bankstown Bulldogs
+6475,5579,North Sydney Bears
+6475,2835,Canberra Raiders
 6477,6047,Manly Warringah Sea Eagles
 6477,1509,Cronulla Sutherland Sharks
 6478,1515,Canterbury Bankstown Bulldogs
@@ -22097,10 +22945,10 @@ match_id,coach_id,team
 6500,1509,Cronulla Sutherland Sharks
 6499,3134,Penrith Panthers
 6499,2835,Canberra Raiders
-6498,2937,Western Suburbs Magpies
-6498,6097,Newcastle Knights
 6497,12006,South Sydney Rabbitohs
 6497,6047,Manly Warringah Sea Eagles
+6498,2937,Western Suburbs Magpies
+6498,6097,Newcastle Knights
 6501,6089,Parramatta Eels
 6501,6075,Brisbane Broncos
 6502,1515,Canterbury Bankstown Bulldogs
@@ -22713,10 +23561,10 @@ match_id,coach_id,team
 8,7450,North Queensland Cowboys
 433,1001,South Queensland Crushers
 433,1538,Parramatta Eels
-432,1515,Sydney Bulldogs
-432,5579,North Sydney Bears
 434,1520,Western Suburbs Magpies
 434,873,Sydney Tigers
+432,1515,Sydney Bulldogs
+432,5579,North Sydney Bears
 436,3849,Gold Coast Seagulls
 436,1510,Cronulla Sutherland Sharks
 9,1538,Parramatta Eels
@@ -23461,6 +24309,240 @@ match_id,coach_id,team
 774,1510,Cronulla Sutherland Sharks
 775,6047,Manly Warringah Sea Eagles
 775,6097,St George Dragons
+776,6075,Brisbane Broncos
+776,3554,Auckland Warriors
+258,2835,North Queensland Cowboys
+258,1507,Adelaide Rams
+777,2826,Hunter Mariners
+777,1515,Canterbury Bankstown Bulldogs
+778,1144,Penrith Panthers
+778,915,Western Reds
+779,1510,Cronulla Sutherland Sharks
+779,918,Canberra Raiders
+259,2835,North Queensland Cowboys
+259,915,Western Reds
+781,3554,Auckland Warriors
+781,2826,Hunter Mariners
+784,918,Canberra Raiders
+784,1144,Penrith Panthers
+785,6075,Brisbane Broncos
+785,1507,Adelaide Rams
+789,1515,Canterbury Bankstown Bulldogs
+789,1510,Cronulla Sutherland Sharks
+790,1507,Adelaide Rams
+790,2826,Hunter Mariners
+260,2835,North Queensland Cowboys
+260,1144,Penrith Panthers
+795,1515,Canterbury Bankstown Bulldogs
+795,918,Canberra Raiders
+794,915,Western Reds
+794,6075,Brisbane Broncos
+799,1510,Cronulla Sutherland Sharks
+799,3554,Auckland Warriors
+800,3554,Auckland Warriors
+800,1507,Adelaide Rams
+47,2826,Hunter Mariners
+47,2835,North Queensland Cowboys
+806,1144,Penrith Panthers
+806,1510,Cronulla Sutherland Sharks
+805,915,Western Reds
+805,1515,Canterbury Bankstown Bulldogs
+809,6075,Brisbane Broncos
+809,918,Canberra Raiders
+810,1507,Adelaide Rams
+810,915,Western Reds
+813,3554,Auckland Warriors
+813,1144,Penrith Panthers
+816,918,Canberra Raiders
+816,2826,Hunter Mariners
+48,1515,Canterbury Bankstown Bulldogs
+48,2835,North Queensland Cowboys
+819,6075,Brisbane Broncos
+819,1510,Cronulla Sutherland Sharks
+820,1144,Penrith Panthers
+820,2826,Hunter Mariners
+261,2835,North Queensland Cowboys
+261,6075,Brisbane Broncos
+825,1515,Canterbury Bankstown Bulldogs
+825,1507,Adelaide Rams
+824,915,Western Reds
+824,1510,Cronulla Sutherland Sharks
+829,918,Canberra Raiders
+829,3554,Auckland Warriors
+831,2826,Hunter Mariners
+831,3554,Auckland Warriors
+50,915,Western Reds
+50,2835,North Queensland Cowboys
+834,1507,Adelaide Rams
+834,6075,Brisbane Broncos
+835,1144,Penrith Panthers
+835,918,Canberra Raiders
+839,1510,Cronulla Sutherland Sharks
+839,1515,Canterbury Bankstown Bulldogs
+840,2826,Hunter Mariners
+840,915,Western Reds
+843,1510,Cronulla Sutherland Sharks
+843,1507,Adelaide Rams
+842,3554,Auckland Warriors
+842,1515,Canterbury Bankstown Bulldogs
+51,918,Canberra Raiders
+51,2835,North Queensland Cowboys
+849,1144,Penrith Panthers
+849,6075,Brisbane Broncos
+851,1510,Cronulla Sutherland Sharks
+851,2826,Hunter Mariners
+854,1144,Penrith Panthers
+854,1507,Adelaide Rams
+262,2835,North Queensland Cowboys
+262,3554,Auckland Warriors
+859,6075,Brisbane Broncos
+859,1515,Canterbury Bankstown Bulldogs
+858,918,Canberra Raiders
+858,915,Western Reds
+53,1507,Adelaide Rams
+53,2835,North Queensland Cowboys
+864,2960,Auckland Warriors
+864,6075,Brisbane Broncos
+863,915,Western Reds
+863,1144,Penrith Panthers
+868,918,Canberra Raiders
+868,1510,Cronulla Sutherland Sharks
+874,1515,Canterbury Bankstown Bulldogs
+874,2826,Hunter Mariners
+875,2826,Hunter Mariners
+875,1144,Penrith Panthers
+882,1507,Adelaide Rams
+882,1515,Canterbury Bankstown Bulldogs
+884,1510,Cronulla Sutherland Sharks
+884,915,Western Reds
+54,6075,Brisbane Broncos
+54,2835,North Queensland Cowboys
+887,2960,Auckland Warriors
+887,918,Canberra Raiders
+888,2826,Hunter Mariners
+888,6075,Brisbane Broncos
+263,2835,North Queensland Cowboys
+263,1510,Cronulla Sutherland Sharks
+891,1507,Adelaide Rams
+891,918,Canberra Raiders
+892,915,Western Reds
+892,2960,Auckland Warriors
+894,1515,Canterbury Bankstown Bulldogs
+894,1144,Penrith Panthers
+904,2826,Hunter Mariners
+904,918,Canberra Raiders
+264,2835,North Queensland Cowboys
+264,1515,Canterbury Bankstown Bulldogs
+907,1144,Penrith Panthers
+907,2960,Auckland Warriors
+908,915,Western Reds
+908,1507,Adelaide Rams
+910,1510,Cronulla Sutherland Sharks
+910,6075,Brisbane Broncos
+57,1144,Penrith Panthers
+57,2835,North Queensland Cowboys
+912,2826,Hunter Mariners
+912,1507,Adelaide Rams
+916,2960,Auckland Warriors
+916,1510,Cronulla Sutherland Sharks
+915,6075,Brisbane Broncos
+915,915,Western Reds
+920,918,Canberra Raiders
+920,1515,Canterbury Bankstown Bulldogs
+921,1507,Adelaide Rams
+921,2960,Auckland Warriors
+922,1510,Cronulla Sutherland Sharks
+922,1144,Penrith Panthers
+924,1515,Canterbury Bankstown Bulldogs
+924,915,Western Reds
+265,2835,North Queensland Cowboys
+265,2826,Hunter Mariners
+926,918,Canberra Raiders
+926,6075,Brisbane Broncos
+944,1507,Adelaide Rams
+944,1510,Cronulla Sutherland Sharks
+266,2835,North Queensland Cowboys
+266,918,Canberra Raiders
+948,6075,Brisbane Broncos
+948,1144,Penrith Panthers
+949,915,Western Reds
+949,2826,Hunter Mariners
+953,1515,Canterbury Bankstown Bulldogs
+953,2960,Auckland Warriors
+954,1144,Penrith Panthers
+954,1515,Canterbury Bankstown Bulldogs
+956,2960,Auckland Warriors
+956,915,Western Reds
+60,1510,Cronulla Sutherland Sharks
+60,2835,North Queensland Cowboys
+959,918,Canberra Raiders
+959,1507,Adelaide Rams
+963,6075,Brisbane Broncos
+963,2826,Hunter Mariners
+964,1507,Adelaide Rams
+964,1144,Penrith Panthers
+966,915,Western Reds
+966,918,Canberra Raiders
+61,2960,Auckland Warriors
+61,2835,North Queensland Cowboys
+969,2826,Hunter Mariners
+969,1510,Cronulla Sutherland Sharks
+973,1515,Canterbury Bankstown Bulldogs
+973,6075,Brisbane Broncos
+975,1510,Cronulla Sutherland Sharks
+975,918,Canberra Raiders
+981,1515,Canterbury Bankstown Bulldogs
+981,1144,Penrith Panthers
+983,6075,Brisbane Broncos
+983,1510,Cronulla Sutherland Sharks
+986,918,Canberra Raiders
+986,1144,Penrith Panthers
+988,1510,Cronulla Sutherland Sharks
+988,918,Canberra Raiders
+991,6075,Brisbane Broncos
+991,1510,Cronulla Sutherland Sharks
+8656,3582,Balmain Tigers
+8658,8675,Glebe
+8658,3623,Glebe
+8661,3582,Balmain Tigers
+8662,8675,Glebe
+8662,3623,Glebe
+8665,3582,Balmain Tigers
+8664,8675,Glebe
+8664,3623,Glebe
+8667,3582,Balmain Tigers
+8668,8675,Glebe
+8668,3623,Glebe
+8674,3582,Balmain Tigers
+8672,8675,Glebe
+8672,3623,Glebe
+8677,8675,Glebe
+8677,3582,Balmain Tigers
+8677,3623,Glebe
+8680,3582,Balmain Tigers
+8682,8675,Glebe
+8682,3623,Glebe
+8683,8675,Glebe
+8683,3623,Glebe
+8686,3582,Balmain Tigers
+8688,3582,Balmain Tigers
+8689,8675,Glebe
+8689,3623,Glebe
+8691,8675,Glebe
+8691,3623,Glebe
+8693,3582,Balmain Tigers
+8695,3582,Balmain Tigers
+8696,8675,Glebe
+8696,3623,Glebe
+8700,3582,Balmain Tigers
+8699,8675,Glebe
+8699,3623,Glebe
+8704,3582,Balmain Tigers
+8704,8675,Glebe
+8704,3623,Glebe
+8707,8675,Glebe
+8707,3623,Glebe
+8710,3582,Balmain Tigers
 780,2831,Parramatta Eels
 780,5579,North Sydney Bears
 783,873,Balmain Tigers
@@ -23743,226 +24825,20 @@ match_id,coach_id,team
 993,3134,Sydney City Roosters
 994,5594,Newcastle Knights
 994,6047,Manly Warringah Sea Eagles
-8656,3582,Balmain Tigers
-8661,3582,Balmain Tigers
-8665,3582,Balmain Tigers
-8667,3582,Balmain Tigers
-8674,3582,Balmain Tigers
-8677,3582,Balmain Tigers
-8680,3582,Balmain Tigers
-8686,3582,Balmain Tigers
-8688,3582,Balmain Tigers
-8693,3582,Balmain Tigers
-8695,3582,Balmain Tigers
-8700,3582,Balmain Tigers
-8704,3582,Balmain Tigers
-8710,3582,Balmain Tigers
-776,6075,Brisbane Broncos
-776,3554,Auckland Warriors
-258,2835,North Queensland Cowboys
-258,1507,Adelaide Rams
-777,2826,Hunter Mariners
-777,1515,Canterbury Bankstown Bulldogs
-778,1144,Penrith Panthers
-778,915,Western Reds
-779,1510,Cronulla Sutherland Sharks
-779,918,Canberra Raiders
-259,2835,North Queensland Cowboys
-259,915,Western Reds
-781,3554,Auckland Warriors
-781,2826,Hunter Mariners
-784,918,Canberra Raiders
-784,1144,Penrith Panthers
-785,6075,Brisbane Broncos
-785,1507,Adelaide Rams
-789,1515,Canterbury Bankstown Bulldogs
-789,1510,Cronulla Sutherland Sharks
-790,1507,Adelaide Rams
-790,2826,Hunter Mariners
-260,2835,North Queensland Cowboys
-260,1144,Penrith Panthers
-795,1515,Canterbury Bankstown Bulldogs
-795,918,Canberra Raiders
-794,915,Western Reds
-794,6075,Brisbane Broncos
-799,1510,Cronulla Sutherland Sharks
-799,3554,Auckland Warriors
-800,3554,Auckland Warriors
-800,1507,Adelaide Rams
-47,2826,Hunter Mariners
-47,2835,North Queensland Cowboys
-806,1144,Penrith Panthers
-806,1510,Cronulla Sutherland Sharks
-805,915,Western Reds
-805,1515,Canterbury Bankstown Bulldogs
-809,6075,Brisbane Broncos
-809,918,Canberra Raiders
-810,1507,Adelaide Rams
-810,915,Western Reds
-813,3554,Auckland Warriors
-813,1144,Penrith Panthers
-816,918,Canberra Raiders
-816,2826,Hunter Mariners
-48,1515,Canterbury Bankstown Bulldogs
-48,2835,North Queensland Cowboys
-819,6075,Brisbane Broncos
-819,1510,Cronulla Sutherland Sharks
-820,1144,Penrith Panthers
-820,2826,Hunter Mariners
-261,2835,North Queensland Cowboys
-261,6075,Brisbane Broncos
-825,1515,Canterbury Bankstown Bulldogs
-825,1507,Adelaide Rams
-824,915,Western Reds
-824,1510,Cronulla Sutherland Sharks
-829,918,Canberra Raiders
-829,3554,Auckland Warriors
-831,2826,Hunter Mariners
-831,3554,Auckland Warriors
-50,915,Western Reds
-50,2835,North Queensland Cowboys
-834,1507,Adelaide Rams
-834,6075,Brisbane Broncos
-835,1144,Penrith Panthers
-835,918,Canberra Raiders
-839,1510,Cronulla Sutherland Sharks
-839,1515,Canterbury Bankstown Bulldogs
-840,2826,Hunter Mariners
-840,915,Western Reds
-843,1510,Cronulla Sutherland Sharks
-843,1507,Adelaide Rams
-842,3554,Auckland Warriors
-842,1515,Canterbury Bankstown Bulldogs
-51,918,Canberra Raiders
-51,2835,North Queensland Cowboys
-849,1144,Penrith Panthers
-849,6075,Brisbane Broncos
-851,1510,Cronulla Sutherland Sharks
-851,2826,Hunter Mariners
-854,1144,Penrith Panthers
-854,1507,Adelaide Rams
-262,2835,North Queensland Cowboys
-262,3554,Auckland Warriors
-859,6075,Brisbane Broncos
-859,1515,Canterbury Bankstown Bulldogs
-858,918,Canberra Raiders
-858,915,Western Reds
-53,1507,Adelaide Rams
-53,2835,North Queensland Cowboys
-864,2960,Auckland Warriors
-864,6075,Brisbane Broncos
-863,915,Western Reds
-863,1144,Penrith Panthers
-868,918,Canberra Raiders
-868,1510,Cronulla Sutherland Sharks
-874,1515,Canterbury Bankstown Bulldogs
-874,2826,Hunter Mariners
-875,2826,Hunter Mariners
-875,1144,Penrith Panthers
-882,1507,Adelaide Rams
-882,1515,Canterbury Bankstown Bulldogs
-884,1510,Cronulla Sutherland Sharks
-884,915,Western Reds
-54,6075,Brisbane Broncos
-54,2835,North Queensland Cowboys
-887,2960,Auckland Warriors
-887,918,Canberra Raiders
-888,2826,Hunter Mariners
-888,6075,Brisbane Broncos
-263,2835,North Queensland Cowboys
-263,1510,Cronulla Sutherland Sharks
-891,1507,Adelaide Rams
-891,918,Canberra Raiders
-892,915,Western Reds
-892,2960,Auckland Warriors
-894,1515,Canterbury Bankstown Bulldogs
-894,1144,Penrith Panthers
-904,2826,Hunter Mariners
-904,918,Canberra Raiders
-264,2835,North Queensland Cowboys
-264,1515,Canterbury Bankstown Bulldogs
-907,1144,Penrith Panthers
-907,2960,Auckland Warriors
-908,915,Western Reds
-908,1507,Adelaide Rams
-910,1510,Cronulla Sutherland Sharks
-910,6075,Brisbane Broncos
-57,1144,Penrith Panthers
-57,2835,North Queensland Cowboys
-912,2826,Hunter Mariners
-912,1507,Adelaide Rams
-916,2960,Auckland Warriors
-916,1510,Cronulla Sutherland Sharks
-915,6075,Brisbane Broncos
-915,915,Western Reds
-920,918,Canberra Raiders
-920,1515,Canterbury Bankstown Bulldogs
-921,1507,Adelaide Rams
-921,2960,Auckland Warriors
-922,1510,Cronulla Sutherland Sharks
-922,1144,Penrith Panthers
-924,1515,Canterbury Bankstown Bulldogs
-924,915,Western Reds
-265,2835,North Queensland Cowboys
-265,2826,Hunter Mariners
-926,918,Canberra Raiders
-926,6075,Brisbane Broncos
-944,1507,Adelaide Rams
-944,1510,Cronulla Sutherland Sharks
-266,2835,North Queensland Cowboys
-266,918,Canberra Raiders
-948,6075,Brisbane Broncos
-948,1144,Penrith Panthers
-949,915,Western Reds
-949,2826,Hunter Mariners
-953,1515,Canterbury Bankstown Bulldogs
-953,2960,Auckland Warriors
-954,1144,Penrith Panthers
-954,1515,Canterbury Bankstown Bulldogs
-956,2960,Auckland Warriors
-956,915,Western Reds
-60,1510,Cronulla Sutherland Sharks
-60,2835,North Queensland Cowboys
-959,918,Canberra Raiders
-959,1507,Adelaide Rams
-963,6075,Brisbane Broncos
-963,2826,Hunter Mariners
-964,1507,Adelaide Rams
-964,1144,Penrith Panthers
-966,915,Western Reds
-966,918,Canberra Raiders
-61,2960,Auckland Warriors
-61,2835,North Queensland Cowboys
-969,2826,Hunter Mariners
-969,1510,Cronulla Sutherland Sharks
-973,1515,Canterbury Bankstown Bulldogs
-973,6075,Brisbane Broncos
-975,1510,Cronulla Sutherland Sharks
-975,918,Canberra Raiders
-981,1515,Canterbury Bankstown Bulldogs
-981,1144,Penrith Panthers
-983,6075,Brisbane Broncos
-983,1510,Cronulla Sutherland Sharks
-986,918,Canberra Raiders
-986,1144,Penrith Panthers
-988,1510,Cronulla Sutherland Sharks
-988,918,Canberra Raiders
-991,6075,Brisbane Broncos
-991,1510,Cronulla Sutherland Sharks
 996,2960,Auckland Warriors
 996,6141,South Sydney Rabbitohs
 62,1507,Adelaide Rams
 62,2835,North Queensland Cowboys
 995,6075,Brisbane Broncos
 995,6047,Manly Warringah Sea Eagles
+999,2831,Parramatta Eels
+999,1144,Penrith Panthers
 997,873,Balmain Tigers
 997,7449,Gold Coast Chargers
 1000,1510,Cronulla Sutherland Sharks
 1000,3134,Sydney City Roosters
 998,1235,Illawarra Steelers
 998,1515,Melbourne Storm
-999,2831,Parramatta Eels
-999,1144,Penrith Panthers
 1002,1236,Canterbury Bankstown Bulldogs
 1002,918,Canberra Raiders
 1001,5579,North Sydney Bears
@@ -23971,10 +24847,10 @@ match_id,coach_id,team
 1003,1520,Western Suburbs Magpies
 1004,3134,Sydney City Roosters
 1004,5579,North Sydney Bears
-1007,5594,Newcastle Knights
-1007,2960,Auckland Warriors
 1005,1144,Penrith Panthers
 1005,918,Canberra Raiders
+1007,5594,Newcastle Knights
+1007,2960,Auckland Warriors
 1006,7449,Gold Coast Chargers
 1006,2831,Parramatta Eels
 267,2835,North Queensland Cowboys
@@ -23991,14 +24867,14 @@ match_id,coach_id,team
 1010,1515,Melbourne Storm
 1013,2960,Auckland Warriors
 1013,3134,Sydney City Roosters
-1014,1507,Adelaide Rams
-1014,1236,Canterbury Bankstown Bulldogs
 1015,873,Balmain Tigers
 1015,6047,Manly Warringah Sea Eagles
-1018,1510,Cronulla Sutherland Sharks
-1018,1515,Melbourne Storm
+1014,1507,Adelaide Rams
+1014,1236,Canterbury Bankstown Bulldogs
 1017,1235,Illawarra Steelers
 1017,5594,Newcastle Knights
+1018,1510,Cronulla Sutherland Sharks
+1018,1515,Melbourne Storm
 1016,6075,Brisbane Broncos
 1016,1144,Penrith Panthers
 1019,918,Canberra Raiders
@@ -24017,10 +24893,10 @@ match_id,coach_id,team
 1024,1235,Illawarra Steelers
 268,2835,North Queensland Cowboys
 268,918,Canberra Raiders
-1026,6097,St George Dragons
-1026,2960,Auckland Warriors
 1025,6141,South Sydney Rabbitohs
 1025,1510,Cronulla Sutherland Sharks
+1026,6097,St George Dragons
+1026,2960,Auckland Warriors
 1030,1236,Canterbury Bankstown Bulldogs
 1030,873,Balmain Tigers
 1029,7449,Gold Coast Chargers
@@ -24029,10 +24905,10 @@ match_id,coach_id,team
 1028,1520,Western Suburbs Magpies
 1027,1144,Penrith Panthers
 1027,1507,Adelaide Rams
-1032,1507,Adelaide Rams
-1032,7449,Gold Coast Chargers
 1031,1520,Western Suburbs Magpies
 1031,3134,Sydney City Roosters
+1032,1507,Adelaide Rams
+1032,7449,Gold Coast Chargers
 1034,2960,Auckland Warriors
 1034,1515,Melbourne Storm
 1033,5594,Newcastle Knights
@@ -24059,8 +24935,6 @@ match_id,coach_id,team
 1043,873,Balmain Tigers
 269,2835,North Queensland Cowboys
 269,5594,Newcastle Knights
-1048,1236,Canterbury Bankstown Bulldogs
-1048,7449,Gold Coast Chargers
 1046,5579,North Sydney Bears
 1046,2960,Auckland Warriors
 1045,2831,Parramatta Eels
@@ -24069,14 +24943,16 @@ match_id,coach_id,team
 1047,6097,St George Dragons
 1044,6141,South Sydney Rabbitohs
 1044,1520,Western Suburbs Magpies
+1048,1236,Canterbury Bankstown Bulldogs
+1048,7449,Gold Coast Chargers
 1049,1507,Adelaide Rams
 1049,1510,Cronulla Sutherland Sharks
 1050,873,Balmain Tigers
 1050,1236,Canterbury Bankstown Bulldogs
-1051,1515,Melbourne Storm
-1051,1144,Penrith Panthers
 270,2835,North Queensland Cowboys
 270,3134,Sydney City Roosters
+1051,1515,Melbourne Storm
+1051,1144,Penrith Panthers
 1054,2960,Auckland Warriors
 1054,5594,Newcastle Knights
 1056,6075,Brisbane Broncos
@@ -24203,10 +25079,10 @@ match_id,coach_id,team
 1106,1515,Melbourne Storm
 1107,6075,Brisbane Broncos
 1107,2831,Parramatta Eels
-1110,1236,Canterbury Bankstown Bulldogs
-1110,5579,North Sydney Bears
 1109,6141,South Sydney Rabbitohs
 1109,3134,Sydney City Roosters
+1110,1236,Canterbury Bankstown Bulldogs
+1110,5579,North Sydney Bears
 1111,6047,Manly Warringah Sea Eagles
 1111,918,Canberra Raiders
 1112,3134,Sydney City Roosters
@@ -24233,12 +25109,12 @@ match_id,coach_id,team
 1122,1235,Illawarra Steelers
 1123,1510,Cronulla Sutherland Sharks
 1123,6141,South Sydney Rabbitohs
+1121,2831,Parramatta Eels
+1121,5579,North Sydney Bears
 1124,7449,Gold Coast Chargers
 1124,873,Balmain Tigers
 274,2835,North Queensland Cowboys
 274,1515,Melbourne Storm
-1121,2831,Parramatta Eels
-1121,5579,North Sydney Bears
 1126,2960,Auckland Warriors
 1126,6097,St George Dragons
 1127,6075,Brisbane Broncos
@@ -24269,10 +25145,10 @@ match_id,coach_id,team
 1136,1144,Penrith Panthers
 1138,3134,Sydney City Roosters
 1138,918,Canberra Raiders
-1140,915,Adelaide Rams
-1140,873,Balmain Tigers
 1139,6075,Brisbane Broncos
 1139,1515,Melbourne Storm
+1140,915,Adelaide Rams
+1140,873,Balmain Tigers
 1141,2960,Auckland Warriors
 1141,1235,Illawarra Steelers
 275,2835,North Queensland Cowboys
@@ -24293,10 +25169,10 @@ match_id,coach_id,team
 1149,6047,Manly Warringah Sea Eagles
 1148,2831,Parramatta Eels
 1148,1510,Cronulla Sutherland Sharks
-79,873,Balmain Tigers
-79,2835,North Queensland Cowboys
 1150,7449,Gold Coast Chargers
 1150,2960,Auckland Warriors
+79,873,Balmain Tigers
+79,2835,North Queensland Cowboys
 1151,1144,Penrith Panthers
 1151,3134,Sydney City Roosters
 1155,918,Canberra Raiders
@@ -24313,12 +25189,12 @@ match_id,coach_id,team
 1157,873,Balmain Tigers
 1158,5579,North Sydney Bears
 1158,1515,Melbourne Storm
+1160,6047,Manly Warringah Sea Eagles
+1160,1235,Illawarra Steelers
 1159,1236,Canterbury Bankstown Bulldogs
 1159,2831,Parramatta Eels
 1161,1510,Cronulla Sutherland Sharks
 1161,1144,Penrith Panthers
-1160,6047,Manly Warringah Sea Eagles
-1160,1235,Illawarra Steelers
 276,2835,North Queensland Cowboys
 276,915,Adelaide Rams
 1162,6075,Brisbane Broncos
@@ -24331,12 +25207,12 @@ match_id,coach_id,team
 1164,1520,Western Suburbs Magpies
 1166,1515,Melbourne Storm
 1166,5594,Newcastle Knights
+1169,1235,Illawarra Steelers
+1169,5579,North Sydney Bears
 1167,873,Balmain Tigers
 1167,6075,Brisbane Broncos
 1168,7449,Gold Coast Chargers
 1168,6047,Manly Warringah Sea Eagles
-1169,1235,Illawarra Steelers
-1169,5579,North Sydney Bears
 277,2835,North Queensland Cowboys
 277,448,South Sydney Rabbitohs
 1170,1520,Western Suburbs Magpies
@@ -24455,10 +25331,10 @@ match_id,coach_id,team
 1222,2831,Parramatta Eels
 1223,6075,Brisbane Broncos
 1223,1236,Canterbury Bankstown Bulldogs
-1224,918,Canberra Raiders
-1224,6075,Brisbane Broncos
 1225,1515,Melbourne Storm
 1225,1144,Penrith Panthers
+1224,918,Canberra Raiders
+1224,6075,Brisbane Broncos
 1226,6047,Manly Warringah Sea Eagles
 1226,2937,Newcastle Knights
 1227,2831,Parramatta Eels
@@ -24479,12 +25355,12 @@ match_id,coach_id,team
 1234,1515,Melbourne Storm
 86,1144,Penrith Panthers
 86,2835,North Queensland Cowboys
-1237,6097,St George Illawarra Dragons
-1237,1236,Canterbury Bankstown Bulldogs
 1235,3134,Sydney City Roosters
 1235,6047,Manly Warringah Sea Eagles
 1236,6075,Brisbane Broncos
 1236,1510,Cronulla Sutherland Sharks
+1237,6097,St George Illawarra Dragons
+1237,1236,Canterbury Bankstown Bulldogs
 1238,448,South Sydney Rabbitohs
 1238,918,Canberra Raiders
 1239,2831,Parramatta Eels
@@ -24689,12 +25565,12 @@ match_id,coach_id,team
 1326,6075,Brisbane Broncos
 1327,1515,Melbourne Storm
 1327,3134,Sydney City Roosters
+1330,1510,Cronulla Sutherland Sharks
+1330,2839,Manly Warringah Sea Eagles
 1329,2936,Auckland Warriors
 1329,1236,Canterbury Bankstown Bulldogs
 1328,918,Canberra Raiders
 1328,2831,Parramatta Eels
-1330,1510,Cronulla Sutherland Sharks
-1330,2839,Manly Warringah Sea Eagles
 1331,873,Balmain Tigers
 1331,1144,Penrith Panthers
 99,2937,Newcastle Knights
@@ -24855,12 +25731,12 @@ match_id,coach_id,team
 1398,1144,Penrith Panthers
 1399,6097,St George Illawarra Dragons
 1399,2839,Manly Warringah Sea Eagles
+1400,2831,Parramatta Eels
+1400,448,South Sydney Rabbitohs
 1402,918,Canberra Raiders
 1402,873,Balmain Tigers
 1403,2937,Newcastle Knights
 1403,3134,Sydney City Roosters
-1400,2831,Parramatta Eels
-1400,448,South Sydney Rabbitohs
 1401,1520,Western Suburbs Magpies
 1401,2936,Auckland Warriors
 1404,3134,Sydney City Roosters

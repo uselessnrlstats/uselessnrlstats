@@ -56,11 +56,10 @@ venue_id,venue_name,non-commercial_name,location,country,states,cities
 110,Lidcombe Oval,Lidcombe Oval,"Lidcombe, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
 24,Sydney Cricket Ground,Sydney Cricket Ground,"Moore Park, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
 155,Erskineville Oval,Erskineville Oval,"Erskineville, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
-115,Concord Oval,Concord Oval,"Concord, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
 3,BlueBet Stadium,Penrith Park,"Penrith, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
 165,Sutherland Oval,Sutherland Oval,"Sutherland, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
 156,Goulburn Showground,Goulburn Showground,"Goulburn, New South Wales, Australia",Australia,New South Wales,Goulburn
-9,Pointsbet Stadium,Endeavour Field,"Cronulla, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
+9,Sharks Stadium,Endeavour Field,"Cronulla, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
 166,Trumper Oval,Trumper Oval,"Paddington, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
 21,WIN Stadium,Wollongong Showground,"Wollongong, New South Wales, Australia",Australia,New South Wales,Wollongong
 48,Seiffert Oval,Seiffert Oval,"Queanbeyan, New South Wales, Australia",Australia,New South Wales,Queanbeyan
@@ -80,6 +79,7 @@ venue_id,venue_name,non-commercial_name,location,country,states,cities
 12,Olympic Park Stadium,Olympic Park,"Jolimont, Melbourne, Victoria, Australia",Australia,Victoria,Melbourne
 28,Metricon Stadium,Carrara,"Gold Coast, Queensland, Australia",Australia,Queensland,Gold Coast
 49,Ikon Park,Princes Park,"Carlton North, Melbourne, Victoria, Australia",Australia,Victoria,Melbourne
+115,Concord Oval,Concord Oval,"Concord, Sydney, New South Wales, Australia",Australia,New South Wales,Sydney
 6,Go Media Stadium,Mt Smart,"Penrose, Auckland, Auckland, New Zealand",New Zealand,Auckland,Auckland
 14,Willows Sports Complex,Willows Sports Complex,"Townsville, Queensland, Australia",Australia,Queensland,Townsville
 45,AMI Stadium,Lancaster Park,"Phillipstown, Christchurch, Canterbury, New Zealand",New Zealand,Canterbury,Christchurch

@@ -15,7 +15,7 @@ coach_id,full_name,first_name,last_name,nickname,birthday,birthdate
 1509,Arthur Beetson,Arthur,Beetson,NA,1945-01-22,22-01
 10447,Dudley Beger,Dudley,Beger,NA,1928-12-30,30-12
 7450,Grant Bell,Grant,Bell,NA,1962-05-02,02-05
-902,Craig Bellamy,Craig,Bellamy,NA,1958-10-03,03-10
+902,Craig Bellamy,Craig,Bellamy,Bellyache,1958-10-03,03-10
 6075,Wayne Bennett,Wayne,Bennett,NA,1950-01-01,01-01
 6313,Tommy Bishop,Tommy,Bishop,NA,1940-10-15,15-10
 5737,Alf Blair,Alf,Blair,NA,1896-01-23,23-01
@@ -50,12 +50,12 @@ coach_id,full_name,first_name,last_name,nickname,birthday,birthdate
 52117,Jack Chaseling,Jack,Chaseling,NA,NA,NA
 5869,Clive Churchill,Clive,Churchill,NA,1927-01-21,21-01
 2824,Cameron Ciraldo,Cameron,Ciraldo,NA,1984-10-30,30-10
-11783,Jack Clare,Jack,Clare,NA,NA,NA
+11783,Jack Clare,Jack,Clare,NA,1924-06-17,17-06
 239,Ivan Cleary,Ivan,Cleary,NA,1971-03-01,01-03
 7448,Malcolm Clift,Malcolm,Clift,NA,1934-10-31,31-10
 448,Craig Coleman,Craig,Coleman,NA,1963-01-31,31-01
 10360,Cec Cooper,Cec,Cooper,NA,1926-02-21,21-02
-8691,Ed Courtney,Ed,Courtney,NA,1884-08-29,29-08
+8691,Ed Courtney,Ed,Courtney,Tedda,1884-08-29,29-08
 5722,Jim Craig,Jim,Craig,NA,1895-06-29,29-06
 6089,Michael Cronin,Michael,Cronin,Crow,1951-06-28,28-06
 12006,Frank Curry Jnr,Frank,Curry Jnr,NA,1950-05-02,02-05
@@ -93,13 +93,13 @@ coach_id,full_name,first_name,last_name,nickname,birthday,birthdate
 5799,Arthur Folwell,Arthur,Folwell,Snowy,1904-09-23,23-09
 9711,Harry Forbes,Harry,Forbes,NA,1914-03-14,14-03
 8167,Roy Francis,Roy,Francis,NA,NA,NA
-8973,Alf Fraser,Alf,Fraser,NA,1890-01-13,13-01
+8973,Alf Fraser,Alf,Fraser,NA,1891-09-25,25-09
 5393,Charles Fraser,Charles,Fraser,NA,1893-01-11,11-01
 7444,Laurie Freier,Laurie,Freier,NA,1948-12-07,07-12
 8623,Edward Fry,Edward,Fry,NA,1878-09-02,02-09
 6047,Bob Fulton,Bob,Fulton,NA,1946-12-01,01-12
 215,David Furner,David,Furner,NA,1971-02-06,06-02
-5948,Don Furner,Don,Furner,Fatty,1932-12-26,26-12
+5948,Don Furner,Don,Furner,Fatty,1931-12-26,26-12
 33752,Ben Gardiner,Ben,Gardiner,NA,NA,NA
 5907,Col Geelan,Col,Geelan,NA,1927-03-11,11-03
 11816,Ken Gentle,Ken,Gentle,NA,NA,NA
@@ -161,7 +161,7 @@ coach_id,full_name,first_name,last_name,nickname,birthday,birthdate
 5887,Ian Johnston,Ian,Johnston,NA,1927-03-01,01-03
 5578,Alan Jones,Alan,Jones,NA,1941-04-13,13-04
 161,Stacey Jones,Stacey,Jones,NA,1976-05-07,07-05
-5760,Arthur Justice,Arthur,Justice,NA,1902-10-14,14-10
+5760,Arthur Justice,Arthur,Justice,NA,1902-12-08,08-12
 9393,Harry Kadwell,Harry,Kadwell,NA,1902-12-01,01-12
 5922,Ken Kearney,Ken,Kearney,NA,1924-05-03,03-05
 350,Stephen Kearney,Stephen,Kearney,NA,1972-06-11,11-06
@@ -237,7 +237,7 @@ coach_id,full_name,first_name,last_name,nickname,birthday,birthdate
 29763,Adam O'Brien,Adam,O'Brien,NA,1977-10-26,26-10
 5862,Wally O'Connell,Wally,O'Connell,NA,1923-04-16,16-04
 5793,Frank O'Connor,Frank,O'Connor,NA,1906-11-25,25-11
-9252,Leo O'Connor,Leo,O'Connor,NA,NA,NA
+9252,Leo O'Connor,Leo,O'Connor,NA,1898-05-02,02-05
 6069,John O'Neill,John,O'Neill,NA,1943-05-09,09-05
 11813,Jack O'Reilly,Jack,O'Reilly,NA,NA,NA
 4342,John O'Toole,John,O'Toole,NA,NA,NA
@@ -278,11 +278,11 @@ coach_id,full_name,first_name,last_name,nickname,birthday,birthdate
 2924,Trent Robinson,Trent,Robinson,NA,1977-03-15,15-03
 14141,Graham Rogers,Graham,Rogers,Buck,1941-11-18,18-11
 5781,Eddie Root,Eddie,Root,NA,1902-06-26,26-06
-3656,Johnny Rosewell,Johnny,Rosewell,NA,1882-07-01,01-07
-8706,Charlie Russell,Charlie,Russell,NA,1884-12-05,05-12
+3656,Johnny Rosewell,Johnny,Rosewell,NA,1880-11-23,23-11
+8706,Charlie Russell,Charlie,Russell,NA,1883-12-05,05-12
 9937,Bruce Ryan,Bruce,Ryan,NA,1921-07-07,07-07
 6006,Kevin Ryan,Kevin,Ryan,Kandos,1934-08-26,26-08
-10064,Sid Ryan,Sid,Ryan,NA,1921-11-18,18-11
+10064,Sid Ryan,Sid,Ryan,NA,1922-03-05,05-03
 2937,Warren Ryan,Warren,Ryan,NA,1941-10-27,27-10
 810,Jason Ryles,Jason,Ryles,NA,1979-01-17,17-01
 3210,Anthony Seibold,Anthony,Seibold,NA,1974-10-03,03-10
@@ -337,6 +337,6 @@ coach_id,full_name,first_name,last_name,nickname,birthday,birthdate
 5828,Percy Williams,Percy,Williams,NA,1910-03-10,10-03
 5965,Billy Wilson,Billy,Wilson,NA,1927-05-31,31-05
 21529,Kristian Woolf,Kristian,Woolf,NA,1975-07-06,06-07
-9528,Tom Wright,Tom,Wright,NA,NA,NA
+9528,Tom Wright,Tom,Wright,NA,1900-12-07,07-12
 1523,Craig Young,Craig,Young,NA,1956-06-25,25-06
 809,Dean Young,Dean,Young,NA,1983-10-28,28-10
