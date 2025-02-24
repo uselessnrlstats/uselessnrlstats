@@ -15,4 +15,7 @@
 
 /scraping_scripts_home
 
+/plots/player_summaries
+/analysis_scripts/player_summary_plots
+
 editor_options.Rmd
