@@ -4,7 +4,7 @@
 
 We are dedicated to finding and visualising the most useless NRL (National Rugby League) and NRLW (NRL Women's) stats possible.
 
-We have pages on [Instagram](https://www.instagram.com/uselessnrlstats/), [Facebook](https://www.facebook.com/uselessnrlstats) and [BlueSky](https://bsky.app/profile/uselessnrlstats.bsky.social) - follow us there to see regular posts!
+We have pages on [Instagram](https://www.instagram.com/uselessnrlstats/), [Facebook](https://www.facebook.com/uselessnrlstats) and [Bluesky](https://bsky.app/profile/uselessnrlstats.bsky.social) - follow us there to see regular posts!
 
 All of our data is sourced from the publicly available [rugbyleagueproject.org (RLP)](https://www.rugbyleagueprjoect.org). We have scraped their data using {selenium} in Python. All data cleaning, analysis and visualisation is performed in R, our preferred data science language, with an emphasis on tidy code and workflows courtesy of {tidyverse}.
 
