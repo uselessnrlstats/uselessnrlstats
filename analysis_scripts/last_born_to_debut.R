@@ -9,7 +9,7 @@
   library(formattable)
   library(htmltools)
   library(htmlwidgets)
-  library(webshot2)
+  library(webshot)
   library(scales)
 }
 
@@ -34,10 +34,10 @@ time_years_days <- function(start_date, end_date) {
 }
 
 ##### Analysis #####
-player_match_data |>
+last_by_decade <- player_match_data |>
   select(player_id, match_id, team) |>
   left_join(player_data |> select(player_id, full_name, birthday), by = "player_id") |>
-  left_join(match_data |> select(match_id, date, time)) |>
+  left_join(match_data |> select(match_id, date, time), by = "match_id") |>
   filter(!is.na(birthday)) |>
   group_by(player_id) |>
   arrange(date) |>
@@ -48,27 +48,7 @@ player_match_data |>
   mutate(age = time_years_days(birthday, date)) |>
   group_by(birth_decade) |>
   arrange(desc(date), desc(time)) |>
-  filter(row_number() <= 2) |>
-  View()
-
-player_match_data |>
-  left_join(team_data, by = c("team" = "team_name")) |>
-  left_join(match_data, by = "match_id") |>
-  select(player_id, match_id, competition_year, date, team_unique, team_abbr) |>
-  arrange(date) |>
-  group_by(player_id) |>
-  mutate(match_number = row_number(),
-         teams_so_far = map(1:n(), ~ list(unique(team_unique[1:.x]))),
-         teams_so_far_abbr = map_chr(1:n(), ~ paste0(unique(team_abbr[1:.x]), collapse = ",")),
-         team_count = map_int(1:n(), ~ length(unique(team_abbr[1:.x])))
-         ) |>
-  filter(team_count == 3) |>
-  filter(match_number == min(match_number)) |>
-  ungroup() |>
-  left_join(player_data |> select(player_id, full_name), by = "player_id") |>
-  select(player_id, full_name, match_number, teams_so_far_abbr, team_count) |> 
-  arrange(match_number)
-
+  filter(row_number() == 1)
 
 ##### Table Formatting #####
 luminance <- function(col) {c(c(.299, .587, .114) %*% col2rgb(col)/255)}
@@ -77,7 +57,7 @@ team_formatter <-
   formatter("span", 
             style = x ~ style(
               display = "block", 
-              padding = "0 4px", 
+              padding = "2px 4px 2px 4px", 
               `border-radius` = "4px",
               font.weight = "bold", 
               `background-color` = data.frame(team_name = x) |>
@@ -94,42 +74,65 @@ team_formatter <-
 bold_formatter <- 
   formatter("span", 
             style = x ~ style(
+              font.weight = "bold",
+              display = "block"
+            ))
+
+num_formatter <- 
+  formatter("span", 
+            style = x ~ style(
+              font.size = "13px",
+              font.family = "Montserrat"
+            ))
+
+num_bold_formatter <- 
+  formatter("span", 
+            style = x ~ style(
+              font.size = "13px",
+              font.family = "Montserrat",
               font.weight = "bold"
             ))
 
 # Final table formatting
-final_table <- most_decreasing_goals |>
+final_table <- last_by_decade |>
+  arrange(birth_decade) |>
+  select(birth_decade, birthday, full_name, age, team, date) |>
+  mutate(full_name = ifelse(birth_decade >= 1990, paste0(full_name, "*"), full_name),
+         birthday = format(birthday, "%d/%m/%Y"),
+         date = format(date, "%d/%m/%Y"),
+         birth_decade = paste0(birth_decade, "s")) |>
   rename(
-    Year = competition_year,
-    Round = round,
-    `Team` = team,
-    `Opposition` = opposition_team,
-    `Player` = full_name,
-    `Goals` = goals,
-    `Match #` = career_match
+    Decade = birth_decade,
+    Birthday = birthday,
+    Player = full_name,
+    `Age at Debut` = age,
+    Team = team,
+    `Debut Date` = date
   ) |>
   formattable(
     list(
-      Player = bold_formatter,
-      Goals = bold_formatter,
-      `Team` = team_formatter,
-      `Opposition` = team_formatter
+      Decade = num_bold_formatter,
+      Team = team_formatter,
+      `Player` = bold_formatter,
+      `Age at Debut` = num_formatter
     ),
-    align = c("r", "c", "r", "l", "c", "c", "c"),
-    table.attr = 'class=\"table table-striped\" style="font-size: 12px; font-family: Helvetica"'
+    align = c("c", "c", "l", "l", "l", "c"),
+    table.attr = 'class=\"table table-striped\" style="font-size: 13px; font-family: Helvetica"'
   ) |>
   as.htmlwidget() |>
+  prependContent(tags$style("td { padding: 2px  !important;}")) |>
+  prependContent(tags$style("table thead {background-color: #120b2f; color: #ffffff; font-size: 14px; border-bottom: 3px solid #ffffff;}")) |>
+  prependContent(tags$style("table tr:nth-of-type(n) td {border-top: 0.5px solid #b8b6c1;}")) |>
+  prependContent(tags$style("table thead tr th:nth-of-type(n) {vertical-align: middle;}")) |>
   prependContent(tags$style("table tr:nth-of-type(n) td {vertical-align: middle;}")) |>
-  prependContent(h4(class = "title", 
-                    style = "font-weight: bold; font-family: Roboto; margin-left: 10px;",
-                    "Sequentially Decreasing Goals")) |>
-  prependContent(h5(class = "subtitle",
-                    style = "font-family: Roboto Regular; margin-left: 10px;",
-                    "<b>David Brooks</b> once kicked 6,5,4,3,2,1 and 0 goals in 7 consecutive matches that he played in. This 7-match decreasing sequence is an NRL/NSWRFL record." |> HTML()))
+  prependContent(tags$style("table tr:nth-child(12) td {background-color: #ffd6f0;}")) |>
+  prependContent(h5(class = "title",
+                    style = "text-align: center; font-size: 16px; font-weight: bold; font-family: Montserrat; padding: 6px 0 0 0;",
+                    "Last NRL/NSWRL player born in each decade to debut"))
 final_table
 
-saveWidget(final_table, "tables/html/decreasing_goals.html")
-webshot(url = "tables/html/decreasing_goals.html", 
-        file = "tables/png/decreasing_goals.png", 
-        selector = "body", zoom = 4,
-        vwidth = 700)
+saveWidget(final_table, "tables/html/last_born_decade.html")
+webshot(url = "tables/html/last_born_decade.html", 
+        file = "tables/png/last_born_decade.png", 
+        selector = "div", zoom = 4,
+        vwidth = 800)

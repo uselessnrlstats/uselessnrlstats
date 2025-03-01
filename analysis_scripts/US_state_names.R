@@ -32,10 +32,9 @@ extrafont::loadfonts()
 player_data <- rbind(
   read_csv("cleaned_data/nrl/player_data.csv"),
   read_csv("cleaned_data/nrlw/player_data.csv")) |>
-  select(1:4) |>
-  rbind(tibble(player_id = 52118, full_name = "Montana Clifford", first_name = "Montana", last_name = "Clifford"))
+  select(1:4)
 player_match_data <- rbind(
-  read_csv("cleaned_data/nrl/player_match_data.csv"),
+  read_csv("cleaned_data/nrl/player_match_data.csv") |> select(-sin_bins5),
   read_csv("cleaned_data/nrlw/player_match_data.csv"))
 match_data <- rbind(
   read_csv("cleaned_data/nrl/match_data.csv"),
