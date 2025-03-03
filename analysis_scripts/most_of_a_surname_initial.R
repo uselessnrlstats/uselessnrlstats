@@ -58,7 +58,7 @@ produce_team_lineups <- function(id) {
 ##### Analysis #####
 player_match_data |>
   left_join(player_initials, by = "player_id") |>
-  filter(last_name_initial == "Z") |>
+  filter(last_name_initial == "S") |>
   group_by(match_id, team) |>
   summarise(n_names = n(),
             players = list(paste0(full_name, collapse = ", ")),

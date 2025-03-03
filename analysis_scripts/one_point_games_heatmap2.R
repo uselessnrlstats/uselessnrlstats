@@ -164,7 +164,7 @@ one_point_wins_plot <- ggplot(plot_data) +
     y = "Losing Team",
     title = "NRL era matches with 1 point margins"
   )
-#one_point_wins_plot
+one_point_wins_plot
 
 ggsave(filename = "plots/1_point_margins2.pdf", plot = one_point_wins_plot, device = cairo_pdf,
        width = 10, height = 9, units = "in")

@@ -714,7 +714,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 17147,Jack Bosden,Jack,Bosden,NA,1989-01-17,17-01,"Sydney, New South Wales, Australia",8,4
 17154,Nathan Massey,Nathan,Massey,NA,1991-04-07,07-04,"Lidcombe, New South Wales, Australia",6,4
 18328,Dane Chisholm,Dane,Chisholm,NA,1990-07-04,04-07,"Manly, New South Wales, Australia",1,-
-17155,Josh Papalii,Josh,Papalii,NA,1992-05-13,13-05,"Auckland, Auckland, New Zealand",305+,256
+17155,Josh Papalii,Josh,Papalii,NA,1992-05-13,13-05,"Auckland, Auckland, New Zealand",306+,256
 17165,Marvin Filipo,Marvin,Filipo,NA,1987-03-20,20-03,"Auckland, Auckland, New Zealand",4,-
 17167,Steve Naughton,Steve,Naughton,NA,1989-01-30,30-01,NA,3,-
 17166,Stewart Mills,Stewart,Mills,NA,1991-12-11,11-12,"Sutherland, New South Wales, Australia",16,24
@@ -796,7 +796,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 19968,Jake Mullaney,Jake,Mullaney,NA,1990-05-28,28-05,"Camden, New South Wales, Australia",18,32
 20898,Nathan Smith,Nathan,Smith,NA,1988-07-17,17-07,NA,9,4
 19973,Sam Lousi,Sam,Lousi,NA,1991-07-20,20-07,"Auckland, Auckland, New Zealand",3,-
-19974,Roger Tuivasa-Sheck,Roger,Tuivasa-Sheck,NA,1993-06-05,05-06,"Apia, Apia, Samoa",213+,254
+19974,Roger Tuivasa-Sheck,Roger,Tuivasa-Sheck,NA,1993-06-05,05-06,"Apia, Apia, Samoa",214+,258
 19975,Sebastine Ikahihifo,Sebastine,Ikahihifo,NA,1991-01-27,27-01,"Auckland, Auckland, New Zealand",39,4
 19976,Marika Koroibete,Marika,Koroibete,NA,1992-07-26,26-07,"Naraiyawa, Fiji",74,184
 16867,Travis Robinson,Travis,Robinson,NA,1987-06-13,13-06,"Sydney, New South Wales, Australia",9,24
@@ -845,7 +845,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 20468,Sam Anderson,Sam,Anderson,NA,1991-03-25,25-03,"Newcastle, New South Wales, Australia",7,-
 20470,Jake Granville,Jake,Granville,NA,1989-02-07,07-02,"Rockhampton, Queensland, Australia",217,96
 20268,David Nofoaluma,David,Nofoaluma,NA,1993-11-28,28-11,"Newcastle, New South Wales, Australia",198,416
-20217,Dylan Walker,Dylan,Walker,NA,1994-09-27,27-09,"Sydney, New South Wales, Australia",229+,360
+20217,Dylan Walker,Dylan,Walker,NA,1994-09-27,27-09,"Sydney, New South Wales, Australia",230+,360
 20880,Junior Paulo,Junior,Paulo,NA,1993-11-20,20-11,"Auckland, Auckland, New Zealand",239+,68
 20252,Tyrone Peachey,Tyrone,Peachey,NA,1991-08-08,08-08,"Wellington, New South Wales, Australia",209,252
 20262,Jordan McLean,Jordan,McLean,NA,1991-10-08,08-10,"Sydney, New South Wales, Australia",223+,40
@@ -885,7 +885,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 20588,Joseph Ualesi,Joseph,Ualesi,NA,1993-09-17,17-09,"Campbelltown, New South Wales, Australia",1,-
 20253,Tupou Sopoaga,Tupou,Sopoaga,NA,1992-05-06,06-05,"Wellington, Wellington, New Zealand",21,-
 20712,Corey Thompson,Corey,Thompson,NA,1990-05-15,15-05,"Brisbane, Queensland, Australia",122,188
-20713,Isaah Yeo,Isaah,Yeo,NA,1994-11-06,06-11,"Dubbo, New South Wales, Australia",245+,124
+20713,Isaah Yeo,Isaah,Yeo,NA,1994-11-06,06-11,"Dubbo, New South Wales, Australia",246+,128
 35408,Yee-Huang Tonumaipe'a,Yee-Huang,Tonumaipe'a,NA,1992-09-06,06-09,"Apia, Apia, Samoa",65,80
 20714,Matthew Allwood,Matthew,Allwood,NA,1992-11-16,16-11,"Scone, New South Wales, Australia",18,20
 20281,Shannon Boyd,Shannon,Boyd,NA,1992-09-09,09-09,"Goulburn, New South Wales, Australia",125,36
@@ -906,7 +906,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 20790,Pauli Pauli,Pauli,Pauli,NA,1994-08-04,04-08,"Bankstown, New South Wales, Australia",48,16
 20150,Apisai Koroisau,Apisai,Koroisau,NA,1992-11-07,07-11,"Sydney, New South Wales, Australia",213+,274
 20794,Dallin Watene-Zelezniak,Dallin,Watene-Zelezniak,NA,1995-08-17,17-08,"Hamilton, Waikato, New Zealand",212+,404
-20170,Cameron McInnes,Cameron,McInnes,NA,1994-02-01,01-02,"Sydney, New South Wales, Australia",204+,96
+20170,Cameron McInnes,Cameron,McInnes,NA,1994-02-01,01-02,"Sydney, New South Wales, Australia",205+,96
 20254,Kirisome Auva'a,Kirisome,Auva'a,NA,1992-02-23,23-02,"Moto'otua, Apia, Samoa",61,84
 20799,Kurtis Rowe,Kurtis,Rowe,NA,1993-11-12,12-11,"Taranaki, Taranaki, New Zealand",8,-
 20657,Siliva Havili,Siliva,Havili,NA,1993-02-18,18-02,"Auckland, Auckland, New Zealand",150+,28
@@ -918,7 +918,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 20277,Cody Nelson,Cody,Nelson,NA,1988-11-13,13-11,"Mullumbimby, New South Wales, Australia",11,-
 20260,Kurt Mann,Kurt,Mann,NA,1993-03-01,01-03,"Winton, Queensland, Australia",195+,189
 20243,Paterika Vaivai,Paterika,Vaivai,NA,1992-02-14,14-02,"Salamumu, Samoa",16,4
-20817,Joseph Tapine,Joseph,Tapine,NA,1994-05-04,04-05,"Wellington, Wellington, New Zealand",213+,100
+20817,Joseph Tapine,Joseph,Tapine,NA,1994-05-04,04-05,"Wellington, Wellington, New Zealand",214+,100
 20645,Nene Macdonald,Nene,Macdonald,NA,1994-05-11,11-05,"Port Moresby, Central, Papua New Guinea",98,140
 3505,Rémi Casty,Rémi,Casty,NA,1985-02-05,05-02,"Narbonne, Languedoc-Roussillon, France",11,8
 20827,Francis Molo,Francis,Molo,NA,1994-09-03,03-09,"Auckland, Auckland, New Zealand",138+,40
@@ -954,7 +954,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 20879,Jy Hitchcox,Jy,Hitchcox,NA,1989-08-18,18-08,"Byron Bay, New South Wales, Australia",4,4
 20894,Jeremy Hawkins,Jeremy,Hawkins,NA,1993-05-15,15-05,"Wellington, Wellington, New Zealand",7,8
 20892,Sione Masima,Sione,Masima,NA,1993-02-24,24-02,"Camperdown, New South Wales, Australia",3,-
-20893,Scott Sorensen,Scott,Sorensen,NA,1993-03-16,16-03,"Sydney, New South Wales, Australia",121+,44
+20893,Scott Sorensen,Scott,Sorensen,NA,1993-03-16,16-03,"Sydney, New South Wales, Australia",122+,44
 20239,Tyler Randell,Tyler,Randell,NA,1992-08-31,31-08,"Scone, New South Wales, Australia",44,24
 20914,Asipeli Fine,Asipeli,Fine,NA,1992-10-26,26-10,"Sydney, New South Wales, Australia",14,-
 20636,Brenden Santi,Brenden,Santi,NA,1993-08-05,05-08,"Bankstown, New South Wales, Australia",11,-
@@ -1011,7 +1011,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 21853,Nathan Ross,Nathan,Ross,NA,1988-11-04,04-11,"Gold Coast, Queensland, Australia",60,92
 21854,Lachlan Fitzgibbon,Lachlan,Fitzgibbon,NA,1994-01-05,05-01,"North Sydney, New South Wales, Australia",119,128
 20224,Leilani Latu,Leilani,Latu,NA,1993-02-05,05-02,"Sydney, New South Wales, Australia",58,24
-21898,Mitchell Barnett,Mitchell,Barnett,NA,1994-04-15,15-04,"Taree, New South Wales, Australia",166+,140
+21898,Mitchell Barnett,Mitchell,Barnett,NA,1994-04-15,15-04,"Taree, New South Wales, Australia",167+,140
 22009,Leva Li,Leva,Li,NA,1994-11-26,26-11,"Sydney, New South Wales, Australia",1,-
 22018,Mason Lino,Mason,Lino,NA,1994-02-04,04-02,"Apia, Apia, Samoa",34,148
 22019,Coen Hess,Coen,Hess,NA,1996-08-14,14-08,"Bundaberg, Queensland, Australia",165+,136
@@ -1021,7 +1021,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 17218,Greg Eden,Greg,Eden,NA,1990-11-14,14-11,"Castleford, West Yorkshire, England",6,4
 22605,Adam Elliott,Adam,Elliott,NA,1994-10-16,16-10,"Bega, New South Wales, Australia",166+,72
 13950,Elliott Whitehead,Elliott,Whitehead,NA,1989-09-04,04-09,"Bradford, West Yorkshire, England",205,176
-22606,James Fisher-Harris,James,Fisher-Harris,NA,1996-01-05,05-01,"Rawene, Northland, New Zealand",203+,64
+22606,James Fisher-Harris,James,Fisher-Harris,NA,1996-01-05,05-01,"Rawene, Northland, New Zealand",204+,64
 22607,Josh Aloiai,Josh,Aloiai,NA,1995-11-11,11-11,"Auckland, Auckland, New Zealand",159+,64
 22608,Nathaniel Roache,Nathaniel,Roache,NA,1996-04-15,15-04,"Auckland, Auckland, New Zealand",27,8
 20212,Joe Burgess,Joe,Burgess,NA,1994-10-14,14-10,"Wigan, Greater Manchester, England",13,28
@@ -1049,7 +1049,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 22625,Abraham Papalii,Abraham,Papalii,NA,1993-06-20,20-06,"Auckland, Auckland, New Zealand",2,-
 22626,Cameron Cullen,Cameron,Cullen,NA,1993-09-09,09-09,"Brisbane, Queensland, Australia",10,8
 22627,William Pearsal,William,Pearsal,NA,1995-03-12,12-03,"Young, New South Wales, Australia",3,-
-22715,Addin Fonua-Blake,Addin,Fonua-Blake,NA,1995-11-06,06-11,"Meadowbrook, New South Wales, Australia",182+,128
+22715,Addin Fonua-Blake,Addin,Fonua-Blake,NA,1995-11-06,06-11,"Meadowbrook, New South Wales, Australia",183+,132
 22716,Josh King,Josh,King,NA,1995-02-12,12-02,"Maitland, New South Wales, Australia",155+,36
 22717,Josh Addo-Carr,Josh,Addo-Carr,NA,1995-07-28,28-07,"Blacktown, New South Wales, Australia",179+,562
 22719,Suliasi Vunivalu,Suliasi,Vunivalu,NA,1995-11-27,27-11,"Suva, Central Division, Fiji",111,344
@@ -1068,9 +1068,9 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 22772,Tevita Pangai Junior,Tevita,Pangai Junior,NA,1996-02-04,04-02,"Ashfield, New South Wales, Australia",147,80
 22773,Reimis Smith,Reimis,Smith,NA,1997-05-13,13-05,"Sydney, New South Wales, Australia",117,200
 22774,Bevan French,Bevan,French,NA,1996-01-04,04-01,"Tingha, New South Wales, Australia",47,140
-22776,Nathan Cleary,Nathan,Cleary,NA,1997-11-14,14-11,"Sydney, New South Wales, Australia",172+,"1,539"
-22775,Siosifa Talakai,Siosifa,Talakai,NA,1997-04-18,18-04,"Sydney, New South Wales, Australia",109+,102
-22777,Moses Leota,Moses,Leota,NA,1995-07-20,20-07,"Auckland, Auckland, New Zealand",175+,56
+22776,Nathan Cleary,Nathan,Cleary,NA,1997-11-14,14-11,"Sydney, New South Wales, Australia",173+,"1,547"
+22775,Siosifa Talakai,Siosifa,Talakai,NA,1997-04-18,18-04,"Sydney, New South Wales, Australia",110+,102
+22777,Moses Leota,Moses,Leota,NA,1995-07-20,20-07,"Auckland, Auckland, New Zealand",176+,56
 22778,Brodie Croft,Brodie,Croft,NA,1997-07-14,14-07,"Dalby, Queensland, Australia",65,76
 22779,Joseph Manu,Joseph,Manu,NA,1996-06-29,29-06,"Hamilton, Waikato, New Zealand",181,276
 22781,Liam Knight,Liam,Knight,NA,1995-01-15,15-01,"Alice Springs, Northern Territory, Australia",83,20
@@ -1081,8 +1081,8 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 22795,Bunty Afoa,Bunty,Afoa,NA,1996-08-20,20-08,"Auckland, Auckland, New Zealand",138+,32
 16593,Zak Hardaker,Zak,Hardaker,NA,1991-10-17,17-10,"Pontefract, West Yorkshire, England",11,4
 22806,Jacob Liddle,Jacob,Liddle,NA,1996-10-27,27-10,"Gosford, New South Wales, Australia",118+,80
-22807,Dylan Edwards,Dylan,Edwards,NA,1996-01-10,10-01,"Albury, New South Wales, Australia",151+,276
-22808,Kurt Capewell,Kurt,Capewell,NA,1993-07-12,12-07,"Charleville, Queensland, Australia",157+,125
+22807,Dylan Edwards,Dylan,Edwards,NA,1996-01-10,10-01,"Albury, New South Wales, Australia",152+,276
+22808,Kurt Capewell,Kurt,Capewell,NA,1993-07-12,12-07,"Charleville, Queensland, Australia",158+,129
 22837,Josh Chudleigh,Josh,Chudleigh,NA,1994-04-08,08-04,"Canberra, Australian Capital Territory, Australia",1,4
 22839,Brad Parker,Brad,Parker,NA,1997-02-19,19-02,"Sydney, New South Wales, Australia",117,116
 22840,Angus Crichton,Angus,Crichton,NA,1996-02-05,05-02,"Temora, New South Wales, Australia",177+,180
@@ -1142,10 +1142,10 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 17097,Dan Sarginson,Dan,Sarginson,NA,1993-05-26,26-05,"Perth, Western Australia, Australia",5,-
 19783,Joe Greenwood,Joe,Greenwood,NA,1993-04-02,02-04,"Oldham, Greater Manchester, England",22,16
 23404,Luke Yates,Luke,Yates,NA,1995-03-06,06-03,"Newcastle, New South Wales, Australia",25,-
-23403,Isaiah Papali'i,Isaiah,Papali'i,NA,1998-09-20,20-09,"Auckland, Auckland, New Zealand",155+,124
+23403,Isaiah Papali'i,Isaiah,Papali'i,NA,1998-09-20,20-09,"Auckland, Auckland, New Zealand",156+,124
 23405,Sam Stone,Sam,Stone,NA,1997-08-04,04-08,"Gold Coast, Queensland, Australia",39,20
 23406,Brian Kelly,Brian,Kelly,NA,1996-05-20,20-05,"Lismore, New South Wales, Australia",169+,256
-22763,Erin Clark,Erin,Clark,NA,1997-09-06,06-09,"Auckland, Auckland, New Zealand",95+,20
+22763,Erin Clark,Erin,Clark,NA,1997-09-06,06-09,"Auckland, Auckland, New Zealand",96+,20
 23407,Joe Stimson,Joe,Stimson,NA,1995-12-02,02-12,"Temora, New South Wales, Australia",114,58
 23408,Tyronne Roberts-Davis,Tyronne,Roberts-Davis,NA,1997-08-17,17-08,"Macksville, New South Wales, Australia",7,8
 23409,Braidon Burns,Braidon,Burns,NA,1996-06-08,08-06,"Coonamble, New South Wales, Australia",66+,84
@@ -1165,7 +1165,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 23474,Morgan Boyle,Morgan,Boyle,NA,1996-07-17,17-07,"Woden Valley, Australian Capital Territory, Australia",48,4
 23475,Corey Jensen,Corey,Jensen,NA,1994-01-08,08-01,"Townsville, Queensland, Australia",121+,8
 23476,Cameron Murray,Cameron,Murray,NA,1998-01-16,16-01,"Sydney, New South Wales, Australia",161+,140
-22069,Charnze Nicoll-Klokstad,Charnze,Nicoll-Klokstad,NA,1995-08-02,02-08,"Auckland, Auckland, New Zealand",114+,172
+22069,Charnze Nicoll-Klokstad,Charnze,Nicoll-Klokstad,NA,1995-08-02,02-08,"Auckland, Auckland, New Zealand",115+,172
 23511,Tyrell Fuimaono,Tyrell,Fuimaono,NA,1996-05-06,06-05,"Penrith, New South Wales, Australia",66,16
 23419,George Fai,George,Fai,NA,1996-10-18,18-10,"Logan City, Queensland, Australia",2,-
 23731,Francis Tualau,Francis,Tualau,NA,1994-05-23,23-05,Tonga,10,-
@@ -1176,8 +1176,8 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 23750,Phillip Sami,Phillip,Sami,NA,1997-08-02,02-08,"Ipswich, Queensland, Australia",121+,224
 23752,Kyle Laybutt,Kyle,Laybutt,NA,1995-09-26,26-09,"Bundaberg, Queensland, Australia",2,-
 23751,Dean Britt,Dean,Britt,NA,1994-03-17,17-03,"Bathurst, New South Wales, Australia",29,4
-23753,Matt Eisenhuth,Matt,Eisenhuth,NA,1992-08-20,20-08,"Auburn, New South Wales, Australia",134+,20
-23760,Jamal Fogarty,Jamal,Fogarty,NA,1993-12-13,13-12,"Beaudesert, Queensland, Australia",94+,462
+23753,Matt Eisenhuth,Matt,Eisenhuth,NA,1992-08-20,20-08,"Auburn, New South Wales, Australia",135+,20
+23760,Jamal Fogarty,Jamal,Fogarty,NA,1993-12-13,13-12,"Beaudesert, Queensland, Australia",95+,472
 23761,Blake Lawrie,Blake,Lawrie,NA,1997-01-10,10-01,"Wollongong, New South Wales, Australia",145+,12
 23762,Alex Twal,Alex,Twal,NA,1996-07-03,03-07,"Westmead, New South Wales, Australia",142+,8
 23763,Andy Saunders,Andy,Saunders,NA,1994-09-14,14-09,"Quirindi, New South Wales, Australia",1,-
@@ -1188,7 +1188,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 23900,Matt Dufty,Matt,Dufty,NA,1996-01-10,10-01,"Hurstville, New South Wales, Australia",94,180
 23901,Joey Lussick,Joey,Lussick,NA,1995-12-28,28-12,"Freshwater, New South Wales, Australia",35+,32
 23911,James Bell,James,Bell,NA,1994-05-02,02-05,"Otahuhu, Auckland, New Zealand",2,-
-23912,Braden Hamlin-Uele,Braden,Hamlin-Uele,NA,1995-01-09,09-01,"Auckland, Auckland, New Zealand",111+,60
+23912,Braden Hamlin-Uele,Braden,Hamlin-Uele,NA,1995-01-09,09-01,"Auckland, Auckland, New Zealand",112+,60
 23913,Campbell Graham,Campbell,Graham,NA,1999-06-02,02-06,"Sydney, New South Wales, Australia",131+,256
 23914,Patrick Mago,Patrick,Mago,NA,1994-12-04,04-12,"Otara, Auckland, New Zealand",37,-
 22759,Ben Nakubuwai,Ben,Nakubuwai,NA,1996-03-15,15-03,"Leeton, New South Wales, Australia",2,4
@@ -1196,7 +1196,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 23920,Shane Wright,Shane,Wright,NA,1996-03-13,13-03,"Perth, Western Australia, Australia",41,12
 23921,Bayley Sironen,Bayley,Sironen,NA,1996-12-23,23-12,"Sydney, New South Wales, Australia",80,24
 23991,Keegan Hipgrave,Keegan,Hipgrave,NA,1997-01-01,01-01,"Gold Coast, Queensland, Australia",49,12
-23420,Jesse Ramien,Jesse,Ramien,NA,1997-04-27,27-04,"Dubbo, New South Wales, Australia",146+,212
+23420,Jesse Ramien,Jesse,Ramien,NA,1997-04-27,27-04,"Dubbo, New South Wales, Australia",147+,216
 23992,Tyrone Amey,Tyrone,Amey,NA,1996-01-20,20-01,"Gosford, New South Wales, Australia",1,-
 23993,Jeremy Marshall-King,Jeremy,Marshall-King,NA,1995-12-02,02-12,"Whakatane, Bay of Plenty, New Zealand",132+,56
 24765,Sione Katoa,Sione,Katoa,NA,1997-08-21,21-08,"Hamilton, Waikato, New Zealand",113+,306
@@ -1204,7 +1204,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 24761,Tevita Tatola,Tevita,Tatola,Junior,1996-11-10,10-11,"Auburn, New South Wales, Australia",140+,36
 24102,Adam Doueihi,Adam,Doueihi,NA,1998-08-05,05-08,"Eastwood, New South Wales, Australia",94+,350
 25267,Christian Crichton,Christian,Crichton,NA,1996-07-12,12-07,"Apia, Apia, Samoa",34,28
-25627,Wayde Egan,Wayde,Egan,NA,1997-03-20,20-03,"Lithgow, New South Wales, Australia",129+,76
+25627,Wayde Egan,Wayde,Egan,NA,1997-03-20,20-03,"Lithgow, New South Wales, Australia",130+,76
 19488,Anthony Gelling,Anthony,Gelling,NA,1990-10-18,18-10,"Auckland, Auckland, New Zealand",7,8
 25747,Kurt Dillon,Kurt,Dillon,NA,1994-08-08,08-08,"Sydney, New South Wales, Australia",5,-
 25748,Kaide Ellis,Kaide,Ellis,NA,1996-08-04,04-08,"Dubbo, New South Wales, Australia",26,-
@@ -1222,7 +1222,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 26151,Tom Wright,Tom,Wright,NA,1997-07-21,21-07,"Randwick, New South Wales, Australia",4,4
 26152,Zac Lomax,Zac,Lomax,NA,1999-09-24,24-09,"Temora, New South Wales, Australia",114+,831
 26153,Jack Williams,Jack,Williams,NA,1996-09-09,09-09,"Pambula, New South Wales, Australia",124+,44
-23502,Marata Niukore,Marata,Niukore,NA,1996-07-29,29-07,"Auckland, Auckland, New Zealand",132+,56
+23502,Marata Niukore,Marata,Niukore,NA,1996-07-29,29-07,"Auckland, Auckland, New Zealand",133+,56
 26156,Kotoni Staggs,Kotoni,Staggs,NA,1998-10-29,29-10,"Wellington, New South Wales, Australia",121+,354
 26157,Harry Grant,Harry,Grant,NA,1998-02-17,17-02,"Rockhampton, Queensland, Australia",101+,146
 26159,Mitchell Dunn,Mitchell,Dunn,NA,1997-02-03,03-02,"Gold Coast, Queensland, Australia",58,12
@@ -1238,7 +1238,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 26262,Jake Turpin,Jake,Turpin,NA,1996-11-16,16-11,"Brisbane, Queensland, Australia",79+,16
 26265,Caleb Aekins,Caleb,Aekins,NA,1997-11-21,21-11,"Otaika, Northland, New Zealand",19,-
 26266,Nick Meaney,Nick,Meaney,NA,1997-09-10,10-09,"Lismore, New South Wales, Australia",137+,818
-26267,Luke Garner,Luke,Garner,NA,1995-09-06,06-09,"Dubbo, New South Wales, Australia",104+,124
+26267,Luke Garner,Luke,Garner,NA,1995-09-06,06-09,"Dubbo, New South Wales, Australia",105+,124
 26269,Paul Momirovski,Paul,Momirovski,NA,1996-07-19,19-07,"Sydney, New South Wales, Australia",60,152
 26270,Sean O'Sullivan,Sean,O'Sullivan,NA,1998-08-21,21-08,"Sydney, New South Wales, Australia",56+,38
 26268,Jai Whitbread,Jai,Whitbread,NA,1998-01-16,16-01,"Tugun, Queensland, Australia",30,-
@@ -1250,15 +1250,15 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 26512,Gehamat Shibasaki,Gehamat,Shibasaki,NA,1998-09-02,02-09,"Townsville, Queensland, Australia",30,24
 26513,Pasami Saulo,Pasami,Saulo,NA,1998-08-01,01-08,"Belmont, New South Wales, Australia",57+,-
 26515,Mawene Hiroti,Mawene,Hiroti,NA,1999-03-06,06-03,"Taranaki, Taranaki, New Zealand",25+,44
-26516,Oregon Kaufusi,Oregon,Kaufusi,NA,1999-08-20,20-08,"Auckland, Auckland, New Zealand",116+,20
+26516,Oregon Kaufusi,Oregon,Kaufusi,NA,1999-08-20,20-08,"Auckland, Auckland, New Zealand",117+,20
 26517,Ray Stone,Ray,Stone,NA,1997-06-06,06-06,"Moss Vale, New South Wales, Australia",70+,20
 26518,Emre Guler,Emre,Guler,NA,1998-01-19,19-01,"Sydney, New South Wales, Australia",93+,24
 26529,Kyle Flanagan,Kyle,Flanagan,NA,1998-09-15,15-09,"Sydney, New South Wales, Australia",99+,368
 26828,Scott Drinkwater,Scott,Drinkwater,NA,1997-05-15,15-05,"Penrith, New South Wales, Australia",120+,237
-26829,Tom Starling,Tom,Starling,NA,1998-06-04,04-06,"Windsor, New South Wales, Australia",109+,44
+26829,Tom Starling,Tom,Starling,NA,1998-06-04,04-06,"Windsor, New South Wales, Australia",110+,44
 28204,Thomas Flegler,Thomas,Flegler,NA,1999-08-19,19-08,"Townsville, Queensland, Australia",100+,24
-28205,Briton Nikora,Briton,Nikora,NA,1997-12-07,07-12,"Mt Maunganui, Bay Of Plenty, New Zealand",136+,172
-28206,Blayke Brailey,Blayke,Brailey,NA,1998-09-23,23-09,"Sydney, New South Wales, Australia",137+,60
+28205,Briton Nikora,Briton,Nikora,NA,1997-12-07,07-12,"Mt Maunganui, Bay Of Plenty, New Zealand",137+,176
+28206,Blayke Brailey,Blayke,Brailey,NA,1998-09-23,23-09,"Sydney, New South Wales, Australia",138+,60
 28207,Corey Allan,Corey,Allan,NA,1998-04-19,19-04,"Brisbane, Queensland, Australia",63+,52
 28208,Adam Keighran,Adam,Keighran,NA,1997-04-24,24-04,"Sydney, New South Wales, Australia",26,120
 28210,Reuben Garrick,Reuben,Garrick,NA,1997-06-30,30-06,"Sydney, New South Wales, Australia",136+,"1,164"
@@ -1269,34 +1269,34 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 28214,Bailey Simonsson,Bailey,Simonsson,NA,1998-02-18,18-02,"Mona Vale, New South Wales, Australia",95+,128
 17077,John Bateman,John,Bateman,NA,1993-09-30,30-09,"Bradford, West Yorkshire, England",66+,40
 20861,Ryan Sutton,Ryan,Sutton,NA,1995-08-02,02-08,"Billinge, Merseyside, England",88+,16
-28215,Corey Horsburgh,Corey,Horsburgh,NA,1998-01-03,03-01,"Caboolture, Queensland, Australia",87+,24
+28215,Corey Horsburgh,Corey,Horsburgh,NA,1998-01-03,03-01,"Caboolture, Queensland, Australia",88+,24
 28099,Josh Kerr,Josh,Kerr,NA,1996-02-11,11-02,"Brisbane, Queensland, Australia",95+,28
 28244,Marion Seve,Marion,Seve,NA,1995-05-27,27-05,"Ipswich, Queensland, Australia",47+,48
 28248,Corey Waddell,Corey,Waddell,NA,1996-10-02,02-10,"Sydney, New South Wales, Australia",112+,40
 24113,Lachlan Lam,Lachlan,Lam,NA,1998-03-25,25-03,"Sydney, New South Wales, Australia",31,12
-28257,Hudson Young,Hudson,Young,NA,1998-06-11,11-06,"Maitland, New South Wales, Australia",119+,172
-28258,Liam Martin,Liam,Martin,NA,1997-03-05,05-03,"Temora, New South Wales, Australia",126+,108
+28257,Hudson Young,Hudson,Young,NA,1998-06-11,11-06,"Maitland, New South Wales, Australia",120+,172
+28258,Liam Martin,Liam,Martin,NA,1997-03-05,05-03,"Temora, New South Wales, Australia",127+,108
 28259,Jayden Okunbor,Jayden,Okunbor,NA,1997-03-02,02-03,"Sydney, New South Wales, Australia",45,60
 28260,Rhys Kennedy,Rhys,Kennedy,NA,1994-10-11,11-10,"Moruya, New South Wales, Australia",49,12
-28262,Chanel Harris-Tavita,Chanel,Harris-Tavita,NA,1999-04-03,03-04,"Auckland, Auckland, New Zealand",71+,171
+28262,Chanel Harris-Tavita,Chanel,Harris-Tavita,NA,1999-04-03,03-04,"Auckland, Auckland, New Zealand",72+,171
 28263,Bronson Xerri,Bronson,Xerri,NA,2000-09-10,10-09,"Sydney, New South Wales, Australia",41+,92
 28264,Ryan Papenhuyzen,Ryan,Papenhuyzen,NA,1998-06-10,10-06,"Sydney, New South Wales, Australia",92+,454
 28411,Patrick Carrigan,Patrick,Carrigan,NA,1998-01-01,01-01,"Brisbane, Queensland, Australia",105+,16
-28451,William Kennedy,William,Kennedy,NA,1997-04-18,18-04,"Bathurst, New South Wales, Australia",107+,172
+28451,William Kennedy,William,Kennedy,NA,1997-04-18,18-04,"Bathurst, New South Wales, Australia",108+,172
 28452,Sam Verrills,Sam,Verrills,NA,1999-01-13,13-01,"Sydney, New South Wales, Australia",83+,36
 28453,Josh Curran,Josh,Curran,NA,1999-06-10,10-06,"Sydney, New South Wales, Australia",85+,60
 28463,Patrick Herbert,Patrick,Herbert,NA,1997-01-10,10-01,"Whakatane, Bay of Plenty, New Zealand",59,104
 28464,Hayze Perham,Hayze,Perham,NA,1999-07-02,02-07,"Taupo, Waikato, New Zealand",35,32
-28465,Ronaldo Mulitalo,Ronaldo,Mulitalo,NA,1999-11-17,17-11,"Auckland, Auckland, New Zealand",110+,332
+28465,Ronaldo Mulitalo,Ronaldo,Mulitalo,NA,1999-11-17,17-11,"Auckland, Auckland, New Zealand",111+,332
 28479,Tom Dearden,Tom,Dearden,NA,2001-03-13,13-03,"Toowoomba, Queensland, Australia",104+,132
 25328,Abbas Miski,Abbas,Miski,NA,1995-07-25,25-07,"Penrith, New South Wales, Australia",6,8
 28480,Jesse Arthars,Jesse,Arthars,NA,1998-08-07,07-08,"Auckland, Auckland, New Zealand",80+,112
 28482,Oliver Clark,Oliver,Clark,NA,1996-08-17,17-08,"Sydney, New South Wales, Australia",16,-
 28598,Brian To'o,Brian,To'o,NA,1998-08-18,18-08,"Westmead, New South Wales, Australia",117+,320
 5703,Ryan Hall,Ryan,Hall,NA,1987-11-27,27-11,"Leeds, West Yorkshire, England",11,-
-28599,Sebastian Kris,Sebastian,Kris,NA,1999-04-19,19-04,"Canberra, Australian Capital Territory, Australia",85+,148
+28599,Sebastian Kris,Sebastian,Kris,NA,1999-04-19,19-04,"Canberra, Australian Capital Territory, Australia",86+,156
 28600,Cade Cust,Cade,Cust,NA,1998-09-14,14-09,"Scone, New South Wales, Australia",27,36
-28602,Mitch Kenny,Mitch,Kenny,NA,1998-01-15,15-01,"Sydney, New South Wales, Australia",107+,16
+28602,Mitch Kenny,Mitch,Kenny,NA,1998-01-15,15-01,"Sydney, New South Wales, Australia",108+,16
 28613,Brent Naden,Brent,Naden,NA,1995-12-30,30-12,"Wellington, New South Wales, Australia",72+,132
 28614,Connor Tracey,Connor,Tracey,NA,1996-06-17,17-06,"Sydney, New South Wales, Australia",88+,136
 28615,Billy Brittain,Billy,Brittain,NA,1994-05-19,19-05,"Brisbane, Queensland, Australia",7,-
@@ -1310,7 +1310,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 28667,Xavier Coates,Xavier,Coates,NA,2001-03-12,12-03,"Port Moresby, Central, Papua New Guinea",86+,236
 28707,Keenan Palasia,Keenan,Palasia,NA,1997-01-24,24-01,"Brisbane, Queensland, Australia",68,16
 28724,Jed Cartwright,Jed,Cartwright,NA,1996-10-21,21-10,"Sydney, New South Wales, Australia",34,4
-28725,Adam Pompey,Adam,Pompey,NA,1998-08-22,22-08,"Auckland, Auckland, New Zealand",95+,182
+28725,Adam Pompey,Adam,Pompey,NA,1998-08-22,22-08,"Auckland, Auckland, New Zealand",96+,182
 28726,Murray Taulagi,Murray,Taulagi,NA,1999-03-12,12-03,"Auckland, Auckland, New Zealand",93+,196
 28727,Ethan Parry,Ethan,Parry,NA,1999-03-20,20-03,"Tamworth, New South Wales, Australia",2,8
 27281,Billy Magoulias,Billy,Magoulias,NA,1997-01-23,23-01,"Sydney, New South Wales, Australia",16,4
@@ -1320,8 +1320,8 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 28813,Stephen Crichton,Stephen,Crichton,NA,2000-09-22,22-09,"Apia, Apia, Samoa",121+,414
 28814,Matt Burton,Matt,Burton,NA,2000-03-14,14-03,"Dubbo, New South Wales, Australia",102+,543
 28815,Spencer Leniu,Spencer,Leniu,NA,2000-09-08,08-09,"Auckland, Auckland, New Zealand",100+,36
-28816,Jackson Ford,Jackson,Ford,NA,1998-02-17,17-02,"Shellharbour, New South Wales, Australia",76+,36
-28817,Nicho Hynes,Nicho,Hynes,NA,1996-06-18,18-06,"Gosford, New South Wales, Australia",100+,676
+28816,Jackson Ford,Jackson,Ford,NA,1998-02-17,17-02,"Shellharbour, New South Wales, Australia",77+,36
+28817,Nicho Hynes,Nicho,Hynes,NA,1996-06-18,18-06,"Gosford, New South Wales, Australia",101+,676
 28822,Tommy Talau,Tommy,Talau,NA,2000-04-03,03-04,"Sydney, New South Wales, Australia",70+,152
 28823,Izaia Perese,Izaia,Perese,NA,1997-05-17,17-05,"Brisbane, Queensland, Australia",2,-
 28828,Bradman Best,Bradman,Best,NA,2001-08-09,09-08,"Gosford, New South Wales, Australia",87+,148
@@ -1370,15 +1370,15 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 29915,Andrew Davey,Andrew,Davey,NA,1991-11-29,29-11,"Maryborough, Queensland, Australia",44,20
 29916,Daejarn Asi,Daejarn,Asi,NA,2000-08-15,15-08,"Christchurch, Canterbury, New Zealand",42,59
 29962,Shawn Blore,Shawn,Blore,NA,2000-08-01,01-08,"Sydney, New South Wales, Australia",57+,12
-29963,Teig Wilton,Teig,Wilton,NA,1999-09-25,25-09,"Narooma, New South Wales, Australia",85+,76
+29963,Teig Wilton,Teig,Wilton,NA,1999-09-25,25-09,"Narooma, New South Wales, Australia",86+,76
 24095,Jack Johns,Jack,Johns,NA,1997-10-15,15-10,"Newcastle, New South Wales, Australia",16,8
 29964,Harley Smith-Shields,Harley,Smith-Shields,NA,2000-01-12,12-01,"Canberra, Australian Capital Territory, Australia",20+,20
 29965,Jackson Ferris,Jackson,Ferris,NA,1998-02-25,25-02,"Palmerston North, Manawatu-Wanganui, New Zealand",1,4
-29966,Braydon Trindall,Braydon,Trindall,NA,1999-07-11,11-07,"Wee Waa, New South Wales, Australia",71+,252
+29966,Braydon Trindall,Braydon,Trindall,NA,1999-07-11,11-07,"Wee Waa, New South Wales, Australia",72+,258
 29967,Daniel Suluka-Fifita,Daniel,Suluka-Fifita,NA,1999-08-19,19-08,"Sydney, New South Wales, Australia",35+,-
 29968,Max Bailey,Max,Bailey,NA,1997-02-03,03-02,"Wollongong, New South Wales, Australia",1,-
 29970,Asu Kepaoa,Asu,Kepaoa,NA,2000-02-02,02-02,"Auckland, Auckland, New Zealand",43+,52
-29971,Daine Laurie,Daine,Laurie,NA,1999-07-20,20-07,"Penrith, New South Wales, Australia",67+,52
+29971,Daine Laurie,Daine,Laurie,NA,1999-07-20,20-07,"Penrith, New South Wales, Australia",68+,60
 29972,Emry Pere,Emry,Pere,NA,1998-09-08,08-09,"Huntly, Waikato, New Zealand",2,-
 29973,Christian Tuipulotu,Christian,Tuipulotu,NA,2001-02-18,18-02,"Auckland, Auckland, New Zealand",45+,88
 29757,Jordan Riki,Jordan,Riki,NA,2000-01-18,18-01,"Raglan, Waikato, New Zealand",89+,72
@@ -1389,7 +1389,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 29978,Paul Turner,Paul,Turner,NA,2000-07-04,04-07,"Whangarei, Northland, New Zealand",11,8
 28654,Isaac Lumelume,Isaac,Lumelume,NA,1998-04-16,16-04,"Auburn, New South Wales, Australia",8,12
 29980,Albert Hopoate,Albert,Hopoate,NA,2001-02-25,25-02,"Sydney, New South Wales, Australia",41+,52
-29981,Matthew Timoko,Matthew,Timoko,NA,2000-01-18,18-01,"Auckland, Auckland, New Zealand",86+,96
+29981,Matthew Timoko,Matthew,Timoko,NA,2000-01-18,18-01,"Auckland, Auckland, New Zealand",87+,100
 29982,Josh Schuster,Josh,Schuster,NA,2001-05-05,05-05,"Sydney, New South Wales, Australia",50+,20
 29985,Cody Ramsey,Cody,Ramsey,NA,2000-02-15,15-02,"Molong, New South Wales, Australia",36,56
 30068,Ben Condon,Ben,Condon,NA,2000-07-13,13-07,"Roma, Queensland, Australia",17,20
@@ -1429,7 +1429,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 30902,Jock Madden,Jock,Madden,NA,2000-03-07,07-03,"Scone, New South Wales, Australia",32+,39
 30903,Jakob Arthur,Jakob,Arthur,NA,2002-09-27,27-09,"Cairns, Queensland, Australia",28+,16
 30904,J'maine Hopgood,J'maine,Hopgood,NA,1999-05-11,11-05,"Hervey Bay, Queensland, Australia",45+,20
-30906,Simi Sasagi,Simi,Sasagi,NA,2001-04-24,24-04,"Auckland, Auckland, New Zealand",27+,8
+30906,Simi Sasagi,Simi,Sasagi,NA,2001-04-24,24-04,"Auckland, Auckland, New Zealand",28+,8
 30905,Heilum Luki,Heilum,Luki,NA,2001-04-11,11-04,"Cairns, Queensland, Australia",57+,60
 30907,Jaiyden Hunt,Jaiyden,Hunt,NA,1998-07-20,20-07,NA,19+,4
 30908,Aaron Schoupp,Aaron,Schoupp,NA,2001-06-29,29-06,"Figtree, New South Wales, Australia",53+,58
@@ -1441,8 +1441,8 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 30988,Franklin Pele,Franklin,Pele,NA,2000-12-18,18-12,"Auckland, Auckland, New Zealand",7,-
 30989,Ben Trbojevic,Ben,Trbojevic,NA,2001-08-01,01-08,"Sydney, New South Wales, Australia",47+,40
 31079,Selwyn Cobbo,Selwyn,Cobbo,NA,2002-06-05,05-06,"Cherbourg, Queensland, Australia",68+,176
-31080,Lindsay Smith,Lindsay,Smith,NA,2000-01-13,13-01,"Sydney, New South Wales, Australia",54+,16
-31081,Izack Tago,Izack,Tago,NA,2002-04-05,05-04,"Sydney, New South Wales, Australia",74+,136
+31080,Lindsay Smith,Lindsay,Smith,NA,2000-01-13,13-01,"Sydney, New South Wales, Australia",55+,16
+31081,Izack Tago,Izack,Tago,NA,2002-04-05,05-04,"Sydney, New South Wales, Australia",75+,140
 31082,Jayden Campbell,Jayden,Campbell,NA,2000-02-07,07-02,"Cronulla, New South Wales, Australia",58+,154
 31083,Greg Marzhew,Greg,Marzhew,NA,1997-04-04,04-04,"Auckland, Auckland, New Zealand",69+,176
 31084,Mat Croker,Mat,Croker,NA,1999-09-11,11-09,"Nabiac, New South Wales, Australia",58+,20
@@ -1456,7 +1456,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 31334,Falakiko Manu,Falakiko,Manu,NA,1997-05-11,11-05,"Auckland, Auckland, New Zealand",4,-
 31335,Bailey Biondi-Odo,Bailey,Biondi-Odo,NA,2001-12-06,06-12,NA,17,8
 31336,Chris Patolo,Chris,Patolo,NA,2001-07-23,23-07,"Sydney, New South Wales, Australia",27,-
-31266,Xavier Savage,Xavier,Savage,NA,2002-04-24,24-04,"Cairns, Queensland, Australia",46+,96
+31266,Xavier Savage,Xavier,Savage,NA,2002-04-24,24-04,"Cairns, Queensland, Australia",47+,104
 23134,Jordan Grant,Jordan,Grant,NA,1994-08-15,15-08,"Penrith, New South Wales, Australia",7,-
 31337,Junior Pauga,Junior,Pauga,NA,1996-02-03,03-02,"Otahuhu, Auckland, New Zealand",21+,44
 31338,Tukimihia Simpkins,Tukimihia,Simpkins,NA,2001-12-24,24-12,"Rotorua, Bay of Plenty, New Zealand",5,-
@@ -1467,7 +1467,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 31346,Kelma Tuilagi,Kelma,Tuilagi,NA,1999-02-16,16-02,"Dalry, Edinburgh, Scotland",60+,24
 31347,Xavier Willison,Xavier,Willison,NA,2002-08-02,02-08,"Hamilton, Waikato, New Zealand",30+,24
 31348,Davvy Moale,Davvy,Moale,NA,2003-03-23,23-03,"Christchurch, Canterbury, New Zealand",54+,12
-31349,Luke Metcalf,Luke,Metcalf,NA,1999-03-01,01-03,"Coffs Harbour, New South Wales, Australia",26+,68
+31349,Luke Metcalf,Luke,Metcalf,NA,1999-03-01,01-03,"Coffs Harbour, New South Wales, Australia",27+,68
 31351,Elijah Anderson,Elijah,Anderson,NA,1999-01-03,03-01,NA,1,-
 31352,Taylan May,Taylan,May,NA,2001-08-19,19-08,"Sydney, New South Wales, Australia",30,68
 31353,Naufahu Whyte,Naufahu,Whyte,NA,2002-04-04,04-04,"Auckland, Auckland, New Zealand",34+,4
@@ -1479,7 +1479,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 31366,Laitia Moceidreke,Laitia,Moceidreke,NA,2000-09-06,06-09,"Camperdown, New South Wales, Australia",1,4
 31367,Moala Graham-Taufa,Moala,Graham-Taufa,NA,2002-02-22,22-02,NA,4,-
 31368,Brendan Piakura,Brendan,Piakura,NA,2002-05-16,16-05,"Newcastle, New South Wales, Australia",33+,20
-31369,Daniel Atkinson,Daniel,Atkinson,NA,2001-01-15,15-01,"Brisbane, Queensland, Australia",20+,50
+31369,Daniel Atkinson,Daniel,Atkinson,NA,2001-01-15,15-01,"Brisbane, Queensland, Australia",21+,50
 31370,Samuel Loizou,Samuel,Loizou,NA,2002-12-25,25-12,"Sydney, New South Wales, Australia",1,-
 31371,Ky Rodwell,Ky,Rodwell,NA,1999-06-21,21-06,"Bega, New South Wales, Australia",5,-
 31372,Lachlan Ilias,Lachlan,Ilias,NA,2000-05-09,09-05,"Sydney, New South Wales, Australia",53+,45
@@ -1504,7 +1504,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 33066,Michael Molo,Michael,Molo,NA,1997-02-07,07-02,"Brisbane, Queensland, Australia",31+,8
 33067,Terrell May,Terrell,May,NA,1999-04-29,29-04,"Blacktown, New South Wales, Australia",53+,28
 33068,Lachlan Miller,Lachlan,Miller,NA,1994-08-14,14-08,"Coffs Harbour, New South Wales, Australia",19,72
-33219,Thomas Hazelton,Thomas,Hazelton,NA,1999-01-22,22-01,"Goulburn, New South Wales, Australia",44+,40
+33219,Thomas Hazelton,Thomas,Hazelton,NA,1999-01-22,22-01,"Goulburn, New South Wales, Australia",45+,40
 33402,Kurt Falls,Kurt,Falls,NA,1996-08-13,13-08,"Penrith, New South Wales, Australia",3,14
 33403,Trey Mooney,Trey,Mooney,NA,2002-05-04,04-05,"Sydney, New South Wales, Australia",21+,8
 33446,Jonathon Reuben,Jonathon,Reuben,NA,1993-03-10,10-03,"Townsville, Queensland, Australia",1,-
@@ -1515,11 +1515,11 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 33713,Fonua Pole,Fonua,Pole,NA,2002-06-02,02-06,"Wellington, New South Wales, Australia",56+,32
 33714,Austin Dias,Austin,Dias,NA,1998-05-20,20-05,NA,8,-
 33719,Justin Matamua,Justin,Matamua,NA,2003-05-27,27-05,"Bankstown, New South Wales, Australia",14+,-
-33720,Zac Hosking,Zac,Hosking,NA,1997-02-26,26-02,"Manly, New South Wales, Australia",33+,20
+33720,Zac Hosking,Zac,Hosking,NA,1997-02-26,26-02,"Manly, New South Wales, Australia",34+,20
 33731,Tom Chester,Tom,Chester,NA,2001-05-11,11-05,"Townsville, Queensland, Australia",13+,16
 33732,Jesse Colquhoun,Jesse,Colquhoun,NA,2001-10-12,12-10,"Wollongong, New South Wales, Australia",11+,-
 33451,Sosefo Fifita,Sosefo,Fifita,NA,2003-01-08,08-01,"Dunedin, Otago, New Zealand",41+,64
-33751,Kaeo Weekes,Kaeo,Weekes,NA,2002-02-06,06-02,"Sydney, New South Wales, Australia",29+,48
+33751,Kaeo Weekes,Kaeo,Weekes,NA,2002-02-06,06-02,"Sydney, New South Wales, Australia",30+,48
 22991,Pio Seci,Pio,Seci,NA,1993-08-19,19-08,"Suva, Central Division, Fiji",1,-
 26659,Alfred Smalley,Alfred,Smalley,NA,1999-06-04,04-06,NA,2,4
 33756,Zac Fulton,Zac,Fulton,NA,2001-08-14,14-08,"Manly, New South Wales, Australia",1,-
@@ -1532,20 +1532,20 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 33976,Krystian Mapapalangi,Krystian,Mapapalangi,NA,2002-11-04,04-11,"Burwood, New South Wales, Australia",6,4
 33975,Oryn Keeley,Oryn,Keeley,NA,2003-01-13,13-01,"Gosford, New South Wales, Australia",8+,4
 34003,Raymond Tuaimalo Vaega,Raymond,Tuaimalo Vaega,NA,2000-04-22,22-04,"Auckland, Auckland, New Zealand",12+,12
-28641,Kayal Iro,Kayal,Iro,NA,2000-02-20,20-02,"Leeds, West Yorkshire, England",24+,24
+28641,Kayal Iro,Kayal,Iro,NA,2000-02-20,20-02,"Leeds, West Yorkshire, England",25+,28
 34004,Joshua Stuckey,Joshua,Stuckey,NA,1998-07-24,24-07,"Canberra, Australian Capital Territory, Australia",1,-
 34005,Kitione Kautoga,Kitione,Kautoga,NA,2002-09-02,02-09,NA,3,-
 28981,Klese Haas,Klese,Haas,NA,2002-03-02,02-03,"Sydney, New South Wales, Australia",39+,24
 28662,James Roumanos,James,Roumanos,NA,1999-08-10,10-08,"Greenacre, New South Wales, Australia",1,-
 34023,Thomas Jenkins,Thomas,Jenkins,NA,2001-03-16,16-03,"Boorowa, New South Wales, Australia",11,20
 34024,Liam Henry,Liam,Henry,NA,2001-07-24,24-07,"Orange, New South Wales, Australia",27+,8
-34025,Jack Cole,Jack,Cole,NA,2003-07-03,03-07,"Orange, New South Wales, Australia",10+,8
+34025,Jack Cole,Jack,Cole,NA,2003-07-03,03-07,"Orange, New South Wales, Australia",11+,8
 35233,Will Warbrick,Will,Warbrick,NA,1998-06-03,03-06,"Kawerau, Bay of Plenty, New Zealand",49+,128
 35258,Bronson Garlick,Bronson,Garlick,NA,1995-12-19,19-12,"Sydney, New South Wales, Australia",26+,4
-35607,Paul Alamoti,Paul,Alamoti,NA,2004-01-22,22-01,"Sydney, New South Wales, Australia",35+,78
+35607,Paul Alamoti,Paul,Alamoti,NA,2004-01-22,22-01,"Sydney, New South Wales, Australia",36+,82
 33450,Jayden Tanner,Jayden,Tanner,NA,2000-07-25,25-07,"Sydney, New South Wales, Australia",2,-
 35595,Jacob Preston,Jacob,Preston,NA,2001-10-11,11-10,"Wahroonga, New South Wales, Australia",38+,48
-33761,Ata Mariota,Ata,Mariota,NA,2001-12-28,28-12,"Apia, Apia, Samoa",40+,12
+33761,Ata Mariota,Ata,Mariota,NA,2001-12-28,28-12,"Apia, Apia, Samoa",41+,12
 34197,Isaiya Katoa,Isaiya,Katoa,NA,2004-02-18,18-02,"Wellington, Wellington, New Zealand",44+,18
 36819,Kurt Donoghoe,Kurt,Donoghoe,NA,2001-11-30,30-11,"Newcastle, New South Wales, Australia",18+,4
 35142,Alofiana Khan-Pereira,Alofiana,Khan-Pereira,NA,2001-11-01,01-11,"Lismore, New South Wales, Australia",44+,176
@@ -1557,7 +1557,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 37241,Thomas Cant,Thomas,Cant,NA,2002-06-13,13-06,"Maitland, New South Wales, Australia",4+,-
 35412,Jonah Pezet,Jonah,Pezet,NA,2003-01-17,17-01,"Gosford, New South Wales, Australia",10+,12
 35137,Iszac Fa'asuamaleaui,Iszac,Fa'asuamaleaui,NA,2001-12-01,01-12,"Brisbane, Queensland, Australia",14+,4
-35163,Taine Tuaupiki,Taine,Tuaupiki,NA,1999-08-31,31-08,"Manly, New South Wales, Australia",11+,10
+35163,Taine Tuaupiki,Taine,Tuaupiki,NA,1999-08-31,31-08,"Manly, New South Wales, Australia",12+,10
 35465,Brendan Hands,Brendan,Hands,NA,1999-02-12,12-02,"Castlereagh, New South Wales, Australia",38+,8
 35638,Ben Lovett,Ben,Lovett,NA,2001-12-07,07-12,"Parkes, New South Wales, Australia",3+,-
 37436,Jack Bostock,Jack,Bostock,NA,2003-08-28,28-08,"Figtree, New South Wales, Australia",27+,64
@@ -1566,7 +1566,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 20562,Kruise Leeming,Kruise,Leeming,NA,1995-09-07,07-09,"Lobamba, Swaziland",10,8
 37248,Jahream Bula,Jahream,Bula,NA,2002-01-30,30-01,"Auckland, Auckland, New Zealand",39+,60
 37234,Samuela Fainu,Samuela,Fainu,NA,2004-01-12,12-01,"Guildford, New South Wales, Australia",28+,20
-37238,Demitric Vaimauga,Demitric,Vaimauga,NA,2004-03-15,15-03,"Auckland, Auckland, New Zealand",7+,4
+37238,Demitric Vaimauga,Demitric,Vaimauga,NA,2004-03-15,15-03,"Auckland, Auckland, New Zealand",8+,4
 37232,Karl Oloapu,Karl,Oloapu,NA,2005-01-18,18-01,"Wellington, Wellington, New Zealand",7+,-
 35402,Valynce Te Whare,Valynce,Te Whare,NA,2000-09-15,15-09,"Hamilton, Waikato, New Zealand",12,24
 35431,Kulikefu Finefeuiaki,Kulikefu,Finefeuiaki,NA,2003-12-21,21-12,"Auckland, Auckland, New Zealand",37+,20
@@ -1579,7 +1579,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 35310,Max Plath,Max,Plath,NA,2001-10-03,03-10,"Brisbane, Queensland, Australia",23+,20
 35539,Sandon Smith,Sandon,Smith,NA,2002-12-06,06-12,NA,30+,20
 34166,Khaled Rajab,Khaled,Rajab,NA,2002-02-26,26-02,"Bankstown, New South Wales, Australia",4,-
-37236,Ali Leiataua,Ali,Leiataua,NA,2003-01-09,09-01,"Auckland, Auckland, New Zealand",7+,12
+37236,Ali Leiataua,Ali,Leiataua,NA,2003-01-09,09-01,"Auckland, Auckland, New Zealand",8+,12
 39348,Tallyn Da Silva,Tallyn,Da Silva,NA,2005-04-20,20-04,NA,11+,4
 35301,Brayden McGrady,Brayden,McGrady,NA,1996-12-13,13-12,"Goondiwindi, Queensland, Australia",1,4
 35162,Harrison Graham,Harrison,Graham,NA,2001-09-11,11-09,"Lismore, New South Wales, Australia",6+,-
@@ -1595,7 +1595,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 37742,Arthur Miller-Stephen,Arthur,Miller-Stephen,NA,2003-05-10,10-05,"Mackay, Queensland, Australia",1,4
 37441,Ryan Couchman,Ryan,Couchman,NA,2003-09-16,16-09,"Wollongong, New South Wales, Australia",11+,-
 35654,Luke Sommerton,Luke,Sommerton,NA,2000-02-22,22-02,NA,5+,8
-37998,Ethan Strange,Ethan,Strange,NA,2004-08-16,16-08,"Sydney, New South Wales, Australia",22+,8
+37998,Ethan Strange,Ethan,Strange,NA,2004-08-16,16-08,"Sydney, New South Wales, Australia",23+,8
 35658,Triston Reilly,Triston,Reilly,NA,1999-01-14,14-01,"Kempsey, New South Wales, Australia",3,4
 35222,Trai Fuller,Trai,Fuller,NA,1997-04-08,08-04,"Monto, Queensland, Australia",12+,20
 35425,Thomas Weaver,Thomas,Weaver,NA,2003-02-20,20-02,"Tugun, Queensland, Australia",6,2
@@ -1614,7 +1614,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 36840,Riley Jones,Riley,Jones,NA,2002-01-11,11-01,"Gosford, New South Wales, Australia",1+,-
 35545,Hohepa Puru,Hohepa,Puru,NA,2002-07-02,02-07,"Blacktown, New South Wales, Australia",2+,-
 35485,Jacob Gagai,Jacob,Gagai,NA,1995-12-20,20-12,NA,17,36
-28261,Morgan Smithies,Morgan,Smithies,NA,2000-11-07,07-11,"Halifax, West Yorkshire, England",24+,-
+28261,Morgan Smithies,Morgan,Smithies,NA,2000-11-07,07-11,"Halifax, West Yorkshire, England",25+,-
 30246,Kai Pearce-Paul,Kai,Pearce-Paul,NA,2001-02-19,19-02,"Bromley, Kent, England",22+,4
 35645,Viliami Fifita,Viliami,Fifita,NA,2001-01-09,09-01,"Fairfield, New South Wales, Australia",2+,-
 35322,Solomona Faataape,Solomona,Faataape,NA,2000-12-25,25-12,NA,17,24
@@ -1630,7 +1630,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 35288,Lachlan Hubner,Lachlan,Hubner,NA,2000-01-03,03-01,"Rockhampton, Queensland, Australia",3+,-
 47247,Jye Gray,Jye,Gray,NA,2004-03-04,04-03,NA,13+,28
 37919,Chevy Stewart,Chevy,Stewart,NA,2005-07-05,05-07,NA,3+,2
-35476,Samuel Stonestreet,Samuel,Stonestreet,NA,2002-07-08,08-07,NA,5+,32
+35476,Samuel Stonestreet,Samuel,Stonestreet,NA,2002-07-08,08-07,NA,6+,32
 37277,Zyon Maiu'u,Zyon,Maiu'u,NA,2003-06-29,29-06,NA,1+,-
 47242,Ethan Sanders,Ethan,Sanders,NA,2004-01-30,30-01,NA,2+,-
 47350,Solomon Alaimalo,Solomon,Alaimalo,NA,1995-12-27,27-12,NA,8,8
@@ -1658,11 +1658,11 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 31350,Will Pryce,Will,Pryce,NA,2002-12-05,05-12,"Bradford, West Yorkshire, England",5+,8
 44829,Matthew Arthur,Matthew,Arthur,NA,2005-02-04,04-02,NA,3+,-
 35481,Jordan Martin,Jordan,Martin,NA,2000-03-27,27-03,"Casino, New South Wales, Australia",1+,-
-48731,Casey Mclean,Casey,Mclean,NA,2006-04-24,24-04,"Blacktown, New South Wales, Australia",7+,12
-47437,Luron Patea,Luron,Patea,NA,2004-11-27,27-11,NA,3+,-
+48731,Casey Mclean,Casey,Mclean,NA,2006-04-24,24-04,"Blacktown, New South Wales, Australia",8+,12
+47437,Luron Patea,Luron,Patea,NA,2004-11-27,27-11,NA,4+,-
 35490,Jake Tago,Jake,Tago,NA,1999-02-10,10-02,NA,8,16
 44764,Charlie Guymer,Charlie,Guymer,NA,2004-11-22,22-11,NA,2+,-
-37918,Selumiela Halasima,Selumiela,Halasima,Leka,2005-09-21,21-09,"Tofoa, Tonga",4+,-
+37918,Selumiela Halasima,Selumiela,Halasima,Leka,2005-09-21,21-09,"Tofoa, Tonga",5+,-
 35538,Ethan King,Ethan,King,NA,2002-07-12,12-07,"Sydney, New South Wales, Australia",1,-
 35632,Lorenzo Mulitalo,Lorenzo,Mulitalo,NA,1999-11-17,17-11,"Auckland, Auckland, New Zealand",1,-
 35633,Jamie Humphreys,Jamie,Humphreys,NA,2002-01-10,10-01,"Sydney, New South Wales, Australia",1+,10
@@ -1685,10 +1685,11 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 47161,Tanous Sukkar,Tanous,Sukkar,NA,2004-05-25,25-05,NA,1+,-
 52106,Mark Nawaqanitawase,Mark,Nawaqanitawase,NA,2000-09-11,11-09,NA,1+,4
 49114,De La Salle Va'a,De La Salle,Va'a,NA,2005-08-16,16-08,"Fagaʻalu, American Samoa",1+,-
-38056,Savelio Tamale,Savelio,Tamale,NA,2004-12-06,06-12,NA,1+,-
+38056,Savelio Tamale,Savelio,Tamale,NA,2004-12-06,06-12,NA,2+,-
 35495,Eli Clark,Eli,Clark,NA,NA,NA,NA,1,-
 38289,Jonathan Sua,Jonathan,Sua,NA,2004-08-17,17-08,NA,1,-
 38634,Arama Hau,Arama,Hau,NA,2004-08-27,27-08,NA,1,-
+50791,Owen Pattie,Owen,Pattie,NA,NA,NA,NA,1+,-
 13425,Charlie Russell,Charlie,Russell,NA,NA,NA,NA,9,-
 9126,Albert Potter,Albert,Potter,NA,1893-11-05,05-11,"Sydney, New South Wales, Australia",11,3
 9088,Tommy James,Tommy,James,NA,NA,NA,"Glebe, New South Wales, Australia",66,51
@@ -2183,7 +2184,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 11506,T Barnes,T,Barnes,NA,NA,NA,NA,1,-
 12831,Dick Kerr,Dick,Kerr,NA,NA,NA,NA,2,-
 12635,Fletcher Jeffries,Fletcher,Jeffries,NA,1905-10-18,18-10,NA,2,-
-12713,S Sharp,S,Sharp,NA,NA,NA,NA,6,-
+12713,S Sharp,Stanley,S Sharp,NA,NA,NA,NA,6,-
 12834,Geoff Keys,Geoff,Keys,NA,1897-07-12,12-07,NA,2,-
 9426,Bert Mundy,Bert,Mundy,NA,1909-01-22,22-01,"North Sydney, New South Wales, Australia",9,6
 23020,Maurice Stevens,Maurice,Stevens,NA,1907-03-11,11-03,"Sydney, New South Wales, Australia",1,-
@@ -5440,7 +5441,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 10888,Keith Russell,Keith,Russell,NA,NA,NA,NA,14,58
 11133,Michael Ross,Michael,Ross,NA,NA,NA,NA,40,63
 12341,Ron Gallagher,Ron,Gallagher,NA,1945-01-11,11-01,"Manchester, Greater Manchester, England",4,-
-10882,Bob Doyle,Bob,Doyle,Yabba,1944-07-16,16-07,"Sydney, New South Wales, Australia",70,30
+10882,Bob Doyle,Bob,Doyle,Yabba,1944-07-16,16-07,"Sydney, New South Wales, Australia",70,27
 10898,Sid Williams,Sid,Williams,NA,1944-07-11,11-07,NA,60,91
 7904,John Walsh,John,Walsh,NA,NA,NA,NA,15,9
 12399,Ralph Grace,Ralph,Grace,NA,1946-04-17,17-04,NA,2,-
@@ -5552,7 +5553,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 11032,Derek Moritz,Derek,Moritz,NA,NA,NA,NA,80,295
 10947,Bob Gibson,Bob,Gibson,NA,NA,NA,NA,3,3
 10941,Neil Bailey,Neil,Bailey,NA,NA,NA,NA,16,22
-10981,Terry Bawden,Terry,Bawden,NA,NA,NA,NA,28,153
+10981,Terry Bawden,Terry,Bawden,NA,NA,NA,NA,28,156
 12842,Brian Kirk,Brian,Kirk,NA,NA,NA,NA,2,-
 12060,Frank Davis,Frank,Davis,NA,NA,NA,NA,1,-
 13510,Garrick Hale,Garrick,Hale,NA,NA,NA,NA,1,-

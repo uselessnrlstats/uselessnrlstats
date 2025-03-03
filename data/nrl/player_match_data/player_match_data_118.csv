@@ -1,0 +1,171 @@
+,player_id,match_id,team,opposition_team,number,position,captain
+0,33751,103171,"Canberra
+RAIDERS",WARRIORS,1,FB,False
+0,22069,103171,WARRIORS,"Canberra
+RAIDERS",1,FB,False
+0,38056,103171,"Canberra
+RAIDERS",WARRIORS,2,W,False
+0,35163,103171,WARRIORS,"Canberra
+RAIDERS",2,W,False
+0,29981,103171,"Canberra
+RAIDERS",WARRIORS,3,C,False
+0,37236,103171,WARRIORS,"Canberra
+RAIDERS",3,C,False
+0,28599,103171,"Canberra
+RAIDERS",WARRIORS,4,C,False
+0,28725,103171,WARRIORS,"Canberra
+RAIDERS",4,C,False
+0,31266,103171,"Canberra
+RAIDERS",WARRIORS,5,W,False
+0,19974,103171,WARRIORS,"Canberra
+RAIDERS",5,W,False
+0,37998,103171,"Canberra
+RAIDERS",WARRIORS,6,FE,False
+0,28262,103171,WARRIORS,"Canberra
+RAIDERS",6,FE,False
+0,23760,103171,"Canberra
+RAIDERS",WARRIORS,7,HB,False
+0,31349,103171,WARRIORS,"Canberra
+RAIDERS",7,HB,False
+0,28215,103171,"Canberra
+RAIDERS",WARRIORS,8,FR,False
+0,22606,103171,WARRIORS,"Canberra
+RAIDERS",8,FR,True
+0,26829,103171,"Canberra
+RAIDERS",WARRIORS,9,HK,False
+0,25627,103171,WARRIORS,"Canberra
+RAIDERS",9,HK,False
+0,20817,103171,"Canberra
+RAIDERS",WARRIORS,10,FR,True
+0,28816,103171,WARRIORS,"Canberra
+RAIDERS",15,FR,False
+0,28257,103171,"Canberra
+RAIDERS",WARRIORS,11,2R,False
+0,22808,103171,WARRIORS,"Canberra
+RAIDERS",11,2R,False
+0,33720,103171,"Canberra
+RAIDERS",WARRIORS,12,2R,False
+0,23502,103171,WARRIORS,"Canberra
+RAIDERS",12,2R,False
+0,17155,103171,"Canberra
+RAIDERS",WARRIORS,16,L,False
+0,21898,103171,WARRIORS,"Canberra
+RAIDERS",10,L,False
+0,28261,103171,"Canberra
+RAIDERS",WARRIORS,13,B,False
+0,22763,103171,WARRIORS,"Canberra
+RAIDERS",13,B,False
+0,50791,103171,"Canberra
+RAIDERS",WARRIORS,14,B,False
+0,20217,103171,WARRIORS,"Canberra
+RAIDERS",14,B,False
+0,30906,103171,"Canberra
+RAIDERS",WARRIORS,15,B,False
+0,37238,103171,WARRIORS,"Canberra
+RAIDERS",16,B,False
+0,33761,103171,"Canberra
+RAIDERS",WARRIORS,17,B,False
+0,37918,103171,WARRIORS,"Canberra
+RAIDERS",17,B,False
+0,22807,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",1,FB,False
+0,28451,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",1,FB,False
+0,48731,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",2,W,False
+0,35476,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",2,W,False
+0,31081,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",3,C,False
+0,23420,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",3,C,False
+0,26267,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",4,C,False
+0,28641,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",4,C,False
+0,35607,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",5,W,False
+0,28465,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",5,W,False
+0,34025,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",6,FE,False
+0,29966,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",6,FE,False
+0,22776,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",7,HB,True
+0,28817,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",7,HB,False
+0,22777,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",8,FR,False
+0,22715,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",8,FR,False
+0,28602,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",9,HK,False
+0,28206,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",9,HK,False
+0,31080,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",10,FR,False
+0,26516,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",10,FR,False
+0,20893,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",11,2R,False
+0,28205,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",11,2R,False
+0,28258,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",12,2R,False
+0,29963,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",12,2R,False
+0,20713,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",13,L,False
+0,20170,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",13,L,True
+0,29971,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",14,B,False
+0,31369,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",14,B,False
+0,23403,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",15,B,False
+0,22775,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",15,B,False
+0,23753,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",16,B,False
+0,23912,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",16,B,False
+0,47437,103172,"Penrith
+PANTHERS","Cronulla Sutherland
+SHARKS",17,B,False
+0,33219,103172,"Cronulla Sutherland
+SHARKS","Penrith
+PANTHERS",17,B,False
