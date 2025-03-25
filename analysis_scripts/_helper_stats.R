@@ -139,7 +139,7 @@ minor_premiership_winners <- ladder_data |>
   group_by(competition_year, year) |>
   filter(round == max(round)) |>
   filter(row_number() == 1) |>
-  filter(year != 2025) |>
+  filter(year != 2026) |>
   ungroup() |>
   select(competition_year, year, team)
 
@@ -148,7 +148,7 @@ wooden_spoon_winners <- ladder_data |>
   group_by(competition_year, year) |>
   filter(round == max(round)) |>
   filter(row_number() == max(row_number())) |>
-  filter(year != 2025) |>
+  filter(year != 2026) |>
   ungroup() |>
   select(competition_year, year, team)
 
@@ -177,7 +177,7 @@ premierships <- minor_premiership_winners |>
   rename(`Minor Premiership` = team) |>
   left_join(grand_final_winners |> select(competition_year, team), 
             by = "competition_year") |>
-  mutate(team = ifelse(year == 2024, "-", team),
+  mutate(team = ifelse(year == 2025, "-", team),
          team = ifelse(is.na(team) , `Minor Premiership`, team)) |>
   rename(Premiership = team) |>
   left_join(wooden_spoon_winners |> select(competition_year, team),

@@ -1658,7 +1658,7 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 31350,Will Pryce,Will,Pryce,NA,2002-12-05,05-12,"Bradford, West Yorkshire, England",5+,8
 44829,Matthew Arthur,Matthew,Arthur,NA,2005-02-04,04-02,NA,3+,-
 35481,Jordan Martin,Jordan,Martin,NA,2000-03-27,27-03,"Casino, New South Wales, Australia",1+,-
-48731,Casey Mclean,Casey,Mclean,NA,2006-04-24,24-04,"Blacktown, New South Wales, Australia",8+,12
+48731,Casey McLean,Casey,McLean,NA,2006-04-24,24-04,"Blacktown, New South Wales, Australia",8+,12
 47437,Luron Patea,Luron,Patea,NA,2004-11-27,27-11,NA,4+,-
 35490,Jake Tago,Jake,Tago,NA,1999-02-10,10-02,NA,8,16
 44764,Charlie Guymer,Charlie,Guymer,NA,2004-11-22,22-11,NA,2+,-
@@ -1689,7 +1689,34 @@ player_id,full_name,first_name,last_name,nickname,birthday,birthdate,birthplace,
 35495,Eli Clark,Eli,Clark,NA,NA,NA,NA,1,-
 38289,Jonathan Sua,Jonathan,Sua,NA,2004-08-17,17-08,NA,1,-
 38634,Arama Hau,Arama,Hau,NA,2004-08-27,27-08,NA,1,-
-50791,Owen Pattie,Owen,Pattie,NA,NA,NA,NA,1+,-
+50791,Owen Pattie,Owen,Pattie,NA,2004-01-22,22-01,NA,1+,-
+35718,Robert Toia,Robert,Toia,NA,2004-08-11,11-08,"Auckland, Auckland, New Zealand",NA,NA
+44804,Salesi Foketi,Salesi,Foketi,NA,2005-11-04,04-11,"Otahuhu, Auckland, New Zealand",NA,NA
+47347,Taylor Losalu,Taylor,Losalu,NA,2002-11-15,15-11,"Parramatta, New South Wales, Australia",NA,NA
+35156,Tristan Hope,Tristan,Hope,NA,1997-05-16,16-05,"Toowoomba, Queensland, Australia",NA,NA
+39834,Hamish Stewart,Hamish,Stewart,NA,2004-08-12,12-08,NA,NA,NA
+37313,Thomas Duffy,Thomas,Duffy,NA,2003-07-22,22-07,"Townsville, Queensland, Australia",NA,NA
+39254,Ryley Smith,Ryley,Smith,NA,2003-02-21,21-02,"Sydney, New South Wales, Australia",NA,NA
+44830,Sam Tuivaiti,Sam,Tuivaiti,NA,2005-02-17,17-02,NA,NA,NA
+39025,Hugo Savala,Hugo,Savala,NA,2002-04-08,08-04,"Sydney, New South Wales, Australia",NA,NA
+44602,Bayleigh Bentley-Hape,Bayleigh,Bentley-Hape,NA,2000-03-08,08-03,"Kawakawa, Northland, New Zealand",NA,NA
+19894,Matty Nicholson,Matty,Nicholson,NA,2003-07-18,18-07,NA,NA,NA
+39739,Jordan Samrani,Jordan,Samrani,NA,2002-01-29,29-01,"Kogarah, New South Wales, Australia",NA,NA
+36562,Brock Gray,Brock,Gray,NA,1996-07-27,27-07,NA,NA,NA
+51552,Jermaine McEwen,Jermaine,McEwen,NA,NA,NA,NA,NA,NA
+30247,Lewis Dodd,Lewis,Dodd,NA,2002-01-27,27-01,NA,NA,NA
+53472,Talanoa Penitani,Talanoa,Penitani,NA,NA,NA,NA,NA,NA
+47172,Thomas Fletcher,Thomas,Fletcher,NA,2004-01-06,06-01,"Coonamble, New South Wales, Australia",NA,NA
+47240,Salesi Ataata,Salesi,Ataata,NA,2003-02-07,07-02,NA,NA,NA
+35672,Tyler Moriarty,Tyler,Moriarty,NA,2003-04-03,03-04,"Gosford, New South Wales, Australia",NA,NA
+38057,Dylan Egan,Dylan,Egan,NA,2004-09-05,05-09,NA,NA,NA
+47171,Angus Hinchey,Angus,Hinchey,NA,NA,NA,NA,NA,NA
+35673,Jed Stuart,Jed,Stuart,NA,2001-06-22,22-06,NA,NA,NA
+39421,Joseph O'Neill,Joseph,O'Neill,NA,NA,NA,NA,NA,NA
+35644,Jack Todd,Jack,Todd,NA,NA,NA,NA,NA,NA
+47233,Luke Smith,Luke,Smith,NA,2003-03-29,29-03,NA,NA,NA
+37231,Joash Papalii,Joash,Papalii,NA,2004-06-29,29-06,"Canterbury, New South Wales, Australia",NA,NA
+39655,Samuel Healey,Samuel,Healey,NA,2002-07-30,30-07,NA,NA,NA
 13425,Charlie Russell,Charlie,Russell,NA,NA,NA,NA,9,-
 9126,Albert Potter,Albert,Potter,NA,1893-11-05,05-11,"Sydney, New South Wales, Australia",11,3
 9088,Tommy James,Tommy,James,NA,NA,NA,"Glebe, New South Wales, Australia",66,51

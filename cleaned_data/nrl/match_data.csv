@@ -3806,8 +3806,38 @@ NRL,NRL 2024,Semi Final,2024-09-21,7:50pm (local time),19:50:00,103121,1096,4081
 NRL,NRL 2024,Prelim Final,2024-09-27,7:50pm (local time),19:50:00,103129,251,29213,Melbourne Storm,22,48,5,Sydney Roosters,6,18,6
 NRL,NRL 2024,Prelim Final,2024-09-28,7:50pm (local time),19:50:00,103136,20,33753,Penrith Panthers,10,26,3,Cronulla Sutherland Sharks,2,6,7
 NRL,NRL 2024,Grand Final,2024-10-06,7:30pm (local time),19:30:00,103131,20,80156,Melbourne Storm,6,6,4,Penrith Panthers,10,14,3
-NRL,NRL 2025,Round 1,2025-03-01,4:00pm (local time),16:00:00,103171,1290,NA,Canberra Raiders,16,30,5,Warriors,4,8,7
+NRL,NRL 2025,Round 1,2025-03-01,4:00pm (local time),16:00:00,103171,1290,45209,Canberra Raiders,16,30,5,Warriors,4,8,7
 NRL,NRL 2025,Round 1,2025-03-01,8:30pm (local time),20:30:00,103172,1290,45209,Penrith Panthers,12,28,4,Cronulla Sutherland Sharks,10,22,7
+NRL,NRL 2025,Round 1,2025-03-06,8:00pm (local time),20:00:00,109354,1096,23226,Sydney Roosters,4,14,6,Brisbane Broncos,20,50,6
+NRL,NRL 2025,Round 1,2025-03-07,6:00pm (local time),18:00:00,109355,19,13160,Wests Tigers,8,8,7,Newcastle Knights,0,10,6
+NRL,NRL 2025,Round 1,2025-03-07,8:00pm (local time),20:00:00,109356,940,6738,South Sydney Rabbitohs,12,16,5,Dolphins,4,14,5
+NRL,NRL 2025,Round 1,2025-03-08,5:30pm (local time),17:30:00,109357,23,16211,St George Illawarra Dragons,6,20,6,Canterbury Bankstown Bulldogs,16,28,3
+NRL,NRL 2025,Round 1,2025-03-08,7:35pm (local time),19:35:00,109358,5,17375,Manly Warringah Sea Eagles,24,42,9,North Queensland Cowboys,0,12,5
+NRL,NRL 2025,Round 1,2025-03-09,4:05pm (local time),16:05:00,109359,251,23369,Melbourne Storm,46,56,4,Parramatta Eels,6,18,4
+NRL,NRL 2025,Round 2,2025-03-13,8:00pm (local time),20:00:00,113574,11,18531,Newcastle Knights,20,26,5,Dolphins,6,12,5
+NRL,NRL 2025,Round 2,2025-03-14,8:00pm (local time),20:00:00,113575,6,21212,Warriors,18,36,5,Manly Warringah Sea Eagles,6,16,4
+NRL,NRL 2025,Round 2,2025-03-14,8:00pm (local time),20:00:00,113576,940,12180,Penrith Panthers,18,32,8,Sydney Roosters,18,38,3
+NRL,NRL 2025,Round 2,2025-03-15,3:00pm (local time),15:00:00,113577,21,16111,St George Illawarra Dragons,14,24,3,South Sydney Rabbitohs,12,25,4
+NRL,NRL 2025,Round 2,2025-03-15,4:30pm (local time),16:30:00,113578,985,18714,North Queensland Cowboys,6,12,7,Cronulla Sutherland Sharks,16,36,7
+NRL,NRL 2025,Round 2,2025-03-15,7:35pm (local time),19:35:00,113579,4,18884,Canberra Raiders,16,32,4,Brisbane Broncos,10,22,6
+NRL,NRL 2025,Round 2,2025-03-16,4:05pm (local time),16:05:00,113580,940,18362,Parramatta Eels,0,6,8,Wests Tigers,16,32,6
+NRL,NRL 2025,Round 2,2025-03-16,6:15pm (local time),18:15:00,113581,27,17892,Canterbury Bankstown Bulldogs,22,40,5,Gold Coast Titans,12,24,5
+NRL,NRL 2025,Round 3,2025-03-20,8:00pm (local time),20:00:00,113594,251,17586,Melbourne Storm,14,30,6,Penrith Panthers,10,24,8
+NRL,NRL 2025,Round 3,2025-03-21,8:00pm (local time),20:00:00,113595,6,23219,Warriors,4,14,4,Sydney Roosters,6,6,2
+NRL,NRL 2025,Round 3,2025-03-21,7:00pm (local time),19:00:00,113596,1097,45318,Brisbane Broncos,12,26,3,North Queensland Cowboys,0,16,7
+NRL,NRL 2025,Round 3,2025-03-22,3:00pm (local time),15:00:00,113597,9,14320,Cronulla Sutherland Sharks,20,27,6,South Sydney Rabbitohs,0,12,5
+NRL,NRL 2025,Round 3,2025-03-22,4:30pm (local time),16:30:00,113598,968,10023,Dolphins,18,18,9,Wests Tigers,12,30,7
+NRL,NRL 2025,Round 3,2025-03-22,6:35pm (local time),18:35:00,113599,149,14602,Gold Coast Titans,12,26,8,Newcastle Knights,0,6,10
+NRL,NRL 2025,Round 3,2025-03-23,4:05pm (local time),16:05:00,113600,940,24059,Parramatta Eels,4,8,7,Canterbury Bankstown Bulldogs,14,16,4
+NRL,NRL 2025,Round 3,2025-03-23,6:15pm (local time),18:15:00,113601,5,16125,Manly Warringah Sea Eagles,30,40,10,Canberra Raiders,0,12,4
+NRL,NRL 2025,Round 4,2025-03-27,8:00pm (local time),20:00:00,113626,20,NA,South Sydney Rabbitohs,0,NA,NA,Penrith Panthers,0,NA,NA
+NRL,NRL 2025,Round 4,2025-03-28,6:00pm (local time),18:00:00,113627,1096,NA,Sydney Roosters,0,NA,NA,Gold Coast Titans,0,NA,NA
+NRL,NRL 2025,Round 4,2025-03-28,7:00pm (local time),19:00:00,113646,1097,NA,Dolphins,0,NA,NA,Brisbane Broncos,0,NA,NA
+NRL,NRL 2025,Round 4,2025-03-29,3:00pm (local time),15:00:00,113647,23,NA,St George Illawarra Dragons,0,NA,NA,Melbourne Storm,0,NA,NA
+NRL,NRL 2025,Round 4,2025-03-29,4:30pm (local time),16:30:00,113648,985,NA,North Queensland Cowboys,0,NA,NA,Canberra Raiders,0,NA,NA
+NRL,NRL 2025,Round 4,2025-03-29,7:35pm (local time),19:35:00,113649,9,NA,Cronulla Sutherland Sharks,0,NA,NA,Canterbury Bankstown Bulldogs,0,NA,NA
+NRL,NRL 2025,Round 4,2025-03-30,4:05pm (local time),16:05:00,113650,5,NA,Manly Warringah Sea Eagles,0,NA,NA,Parramatta Eels,0,NA,NA
+NRL,NRL 2025,Round 4,2025-03-30,6:15pm (local time),18:15:00,113651,19,NA,Wests Tigers,0,NA,NA,Warriors,0,NA,NA
 NSWRFL,NSWRFL 1920,Round 1,1920-05-01,3:15pm (local time),15:15:00,8824,24,18000,Balmain Tigers,7,9,NA,Eastern Suburbs,0,7,NA
 NSWRFL,NSWRFL 1920,Round 1,1920-05-01,3:15pm (local time),15:15:00,8825,150,600,Glebe,18,43,NA,Annandale,0,0,NA
 NSWRFL,NSWRFL 1920,Round 1,1920-05-01,3:15pm (local time),15:15:00,8826,25,4000,North Sydney,10,15,NA,Newtown,9,17,NA

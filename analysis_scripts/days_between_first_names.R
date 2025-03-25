@@ -1,5 +1,5 @@
 ##### Description #####
-# An R script to look at rounds where teams had a points diff of 0
+# An R script to look at longest time betweena  first name appearing in the NRL
 
 ##### Libraries #####
 {
@@ -58,10 +58,26 @@ time_between_first_name <- player_match_data |>
   filter(player_id != prev_player_id) |>
   select(first_name, prev_date, prev_team, prev_player, date, team, full_name, time_gap, day_gap) |>
   arrange(desc(day_gap))
+time_between_first_name
 
-time_between_first_name |>
-  filter(first_name == "Owen")
 
+##### Open gaps #####
+player_match_data |>
+  select(player_id, match_id, team) |>
+  left_join(player_data |> select(player_id, first_name, full_name), by = "player_id") |>
+  left_join(match_data |> select(match_id, competition_year, round, date), 
+            by = "match_id") |>
+  filter(first_name != "?",
+         !is.na(first_name),
+         nchar(first_name) > 1) |>
+  arrange(desc(date)) |>
+  group_by(first_name) |>
+  filter(row_number() == 1) |>
+  ungroup() |>
+  mutate(time_since = time_years_days(date, Sys.Date()),
+         days_since = difftime(Sys.Date(), date, units = "days")) |>
+  select(first_name, date, team, full_name, time_since, days_since) |>
+  arrange(desc(days_since))
 
 ##### Table Formatting #####
 luminance <- function(col) {c(c(.299, .587, .114) %*% col2rgb(col)/255)}
@@ -70,7 +86,7 @@ team_formatter <-
   formatter("span", 
             style = x ~ style(
               display = "block", 
-              padding = "0 4px", 
+              padding = "2px 4px 2px 4px", 
               `border-radius` = "4px",
               font.weight = "bold", 
               `background-color` = data.frame(team_name = x) |>
@@ -81,62 +97,72 @@ team_formatter <-
                 left_join(team_data, by = "team_name") |>
                 left_join(team_logos, by = "team_unique") |>
                 mutate(lum = luminance(team_colour),
-                       text_col = ifelse(lum < 0.35, "#F2F2F2", "#1A1A1A")) |>
+                       text_col = ifelse(lum < 0.4, "#F2F2F2", "#1A1A1A")) |>
                 pull(text_col)))
 
 bold_formatter <- 
   formatter("span", 
             style = x ~ style(
+              font.weight = "bold",
+              display = "block"
+            ))
+
+num_formatter <- 
+  formatter("span", 
+            style = x ~ style(
+              font.size = "13px",
+              font.family = "Montserrat"
+            ))
+
+num_bold_formatter <- 
+  formatter("span", 
+            style = x ~ style(
+              font.size = "13px",
+              font.family = "Montserrat",
               font.weight = "bold"
             ))
 
+
 # Final table formatting
-final_table <- points_diff_twice |>
-  mutate(
-    ladder_position = ordinal(ladder_position),
-    record = paste(wins, draws, losses, sep = "-")) |>
-  group_by(competition_year, round) |>
-  mutate(competition_year = ifelse(row_number() == 2, "", competition_year),
-         round = ifelse(row_number() == 2, "", round)) |>
-  ungroup() |>
-  select(competition_year, round, team, ladder_position, points, played, record, byes, score_for, score_against, score_diff) |>
+final_table <- time_between_first_name |>
+  mutate(` ` = "-",
+         first_name = toupper(first_name)) |>
+  select(first_name, prev_player, prev_date, ` `, date, full_name, time_gap) |>
+  filter(row_number() <= 6) |>
+  mutate(prev_date = format(prev_date, "%d/%m/%Y"),
+         date = format(date, "%d/%m/%Y")) |>
   rename(
-    `Year` = competition_year,
-    Rd = round,
-    `Team` = team,
-    `Pos.` = ladder_position,
-    Pts = points,
-    `Pld` = played,
-    `W-D-L` = record,
-    B = byes,
-    PF = score_for,
-    PA = score_against,
-    PD = score_diff
+    Name = first_name,
+    `Time Gap` = time_gap,
+    `Last Player` = prev_player,
+    `Last Date` = prev_date,
+    `Next Player` = full_name,
+    `Next Date` = date
   ) |>
   formattable(
     list(
-      `Team` = team_formatter,
-      PD = bold_formatter
+      Name = bold_formatter,
+      `Time Gap` = num_bold_formatter,
+      `Last Date` = num_formatter,
+      `Next Date` = num_formatter
     ),
-    align = c("r", "r", "r", "r", "r", "r", "c", "c", "r", "r", "c"),
-    table.attr = 'style="font-size: 12px; font-family: Helvetica"'
+    align = c("l", "r", "r", "c", "l", "l", "l"),
+    table.attr = 'class=\"table table-striped\" style="font-size: 13px; font-family: Helvetica"'
   ) |>
   as.htmlwidget() |>
-  prependContent(tags$style("table tr:nth-of-type(2n-1) td {border-top: 2px solid #ccc;}")) |>
-  prependContent(tags$style("table tr:nth-of-type(4n-2) td {border-top: 0.5px solid #ffffff;}")) |>
-  prependContent(tags$style("table tr:nth-of-type(4n) td {border-top: 0.5px solid #f5f5f5;}")) |>
-  prependContent(tags$style("table tr:nth-of-type(4n-1) td {background-color: #f5f5f5;}")) |>
-  prependContent(tags$style("table tr:nth-of-type(4n) td {background-color: #f5f5f5;}")) |>
-  prependContent(h4(class = "title", 
-                    style = "font-weight: bold; font-family: Roboto; margin-left: 25px;",
-                    "Multiple Teams with Points Difference of 0")) |>
-  prependContent(h5(class = "subtitle",
-                    style = "font-family: Roboto Regular; margin-left: 25px;",
-                    "NRL/NSWRL Rounds where two or more teams have finished with points differences of 0 each"))
+  prependContent(tags$style("td { padding: 4px  !important;}")) |>
+  prependContent(tags$style("table thead {background-color: #120b2f; color: #ffffff; font-size: 14px; border-bottom: 3px solid #ffffff;}")) |>
+  prependContent(tags$style("table tr:nth-of-type(n) td {border-top: 0.5px solid #b8b6c1;}")) |>
+  prependContent(tags$style("table thead tr th:nth-of-type(n) {vertical-align: middle;}")) |>
+  prependContent(tags$style("table tr:nth-of-type(n) td {vertical-align: middle;}")) |>
+  prependContent(tags$style("table tr:nth-child(5) td {background-color: #ffd6f0;}")) |>
+  prependContent(h5(class = "title",
+                    style = "text-align: center; font-size: 16px; font-weight: bold; font-family: Montserrat; padding: 6px 0 0 0;",
+                    "Longest gap (in days) between the same first name playing in the NSWRL/NRL"))
 final_table
 
-saveWidget(final_table, "tables/html/points_diff_0.html")
-webshot(url = "tables/html/points_diff_0.html", 
-        file = "tables/png/points_diff_0.png", 
-        selector = "body", zoom = 4,
+saveWidget(final_table, "tables/html/longest_name_gap.html")
+webshot(url = "tables/html/longest_name_gap.html", 
+        file = "tables/png/longest_name_gap.png", 
+        selector = "div", zoom = 4,
         vwidth = 700)

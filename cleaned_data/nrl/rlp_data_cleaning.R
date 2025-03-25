@@ -94,8 +94,8 @@ team_ids <- c("Adelaide Rams",
               "Cronulla Sutherland Sharks",
               "South Queensland Crushers",
               "South Sydney Rabbitohs",
-              "St George Dragons",
               "St George Illawarra Dragons",
+              "St George Dragons",
               "Sydney Roosters",
               "Canterbury Bankstown Bulldogs",
               "Sydney Roosters",
@@ -143,8 +143,8 @@ team_mascots <- c("Rams",
                   "Sharks",
                   "Crushers",
                   "Rabbitohs",
-                  "St George Dragons",
                   "Dragons",
+                  "St George Dragons",
                   "Roosters",
                   "Bulldogs",
                   "Roosters",
@@ -192,8 +192,8 @@ team_abbr <- c("ADE",
                "CRO",
                "SQC",
                "SOU",
-               "STG",
                "SGI",
+               "STG",
                "SYD",
                "CBY",
                "SYD",
@@ -207,6 +207,7 @@ team_abbr <- c("ADE",
 team_data_cleaned <- team_data |>
   unique() |>
   filter(team_name != "St George Illawarra\r\nDARGONS") |>
+  filter(team_short != "St George Illawarra") |>
   mutate(team_short = toTitleCase(tolower(team_short)),
          team_short = gsub("\n", " ", team_short),
          team_short = gsub("\r", "", team_short),
@@ -264,9 +265,11 @@ player_names_data_cleaned <- player_names_data |>
   left_join(player_summary_data |> select(-player_birthday),
             by = "player_id") |>
   select(player_id, full_name, player_name1, player_name_comma, nickname, birthday, birthdate, birthplace, total_matches, total_points) |>
+  ##%%##%%##%%##%% TEMPORARY LAST NAME FIX ##%%##%%##%%##%%
+  mutate(
+    player_name_comma = ifelse(is.na(player_name_comma), gsub("^(.+) (.+)$", "\\2, \\1", player_name1), player_name_comma)) |>
   # Fix specific issues
-  mutate(full_name = ifelse(player_id == 9712 & full_name == "H Wright", "Harold Wright", full_name),
-         player_name1 = ifelse(player_id == 9712 & full_name == "H Wright", "Harold WRIGHT", player_name1)) |>
+  mutate(full_name = ifelse(player_id == 48731, "Casey McLean", full_name)) |>
   mutate(first_name = gsub("^(.+), (.+)$","\\2", player_name_comma),
          last_name = ifelse(
            first_name == "?",

@@ -1,6 +1,85 @@
 ,competition,round,date,time,match_id,venue_id,crowd,home_team,home_team_ht_score,home_team_score,home_team_penalties,away_team,away_team_ht_score,away_team_score,away_team_penalties
-0,NRL 2025,Round 1,"Saturday, 1st March, 2025",4:00pm (local time),103171,1290,,"Canberra
+0,NRL 2025,Round 1,"Saturday, 1st March, 2025",4:00pm (local time),103171,1290,"45,209","Canberra
 RAIDERS",16,30,5,WARRIORS,4,8,7
 0,NRL 2025,Round 1,"Saturday, 1st March, 2025",8:30pm (local time),103172,1290,"45,209","Penrith
 PANTHERS",12,28,4,"Cronulla Sutherland
 SHARKS",10,22,7
+0,NRL 2025,Round 1,"Thursday, 6th March, 2025",8:00pm (local time),109354,1096,"23,226","Sydney
+ROOSTERS",4,14,6,"Brisbane
+BRONCOS",20,50,6
+0,NRL 2025,Round 1,"Friday, 7th March, 2025",6:00pm (local time),109355,19,"13,160",WESTS TIGERS,8,8,7,"Newcastle
+KNIGHTS",0,10,6
+0,NRL 2025,Round 1,"Friday, 7th March, 2025",8:00pm (local time),109356,940,"6,738","South Sydney
+RABBITOHS",12,16,5,DOLPHINS,4,14,5
+0,NRL 2025,Round 1,"Saturday, 8th March, 2025",5:30pm (local time),109357,23,"16,211","St George Illawarra
+DRAGONS",6,20,6,"Canterbury Bankstown
+BULLDOGS",16,28,3
+0,NRL 2025,Round 1,"Saturday, 8th March, 2025",7:35pm (local time),109358,5,"17,375","Manly Warringah
+SEA EAGLES",24,42,9,"North Queensland
+COWBOYS",0,12,5
+0,NRL 2025,Round 1,"Sunday, 9th March, 2025",4:05pm (local time),109359,251,"23,369","Melbourne
+STORM",46,56,4,"Parramatta
+EELS",6,18,4
+0,NRL 2025,Round 2,"Thursday, 13th March, 2025",8:00pm (local time),113574,11,"18,531","Newcastle
+KNIGHTS",20,26,5,DOLPHINS,6,12,5
+0,NRL 2025,Round 2,"Friday, 14th March, 2025",8:00pm (local time),113575,6,"21,212",WARRIORS,18,36,5,"Manly Warringah
+SEA EAGLES",6,16,4
+0,NRL 2025,Round 2,"Friday, 14th March, 2025",8:00pm (local time),113576,940,"12,180","Penrith
+PANTHERS",18,32,8,"Sydney
+ROOSTERS",18,38,3
+0,NRL 2025,Round 2,"Saturday, 15th March, 2025",3:00pm (local time),113577,21,"16,111","St George Illawarra
+DRAGONS",14,24,3,"South Sydney
+RABBITOHS",12,25,4
+0,NRL 2025,Round 2,"Saturday, 15th March, 2025",4:30pm (local time),113578,985,"18,714","North Queensland
+COWBOYS",6,12,7,"Cronulla Sutherland
+SHARKS",16,36,7
+0,NRL 2025,Round 2,"Saturday, 15th March, 2025",7:35pm (local time),113579,4,"18,884","Canberra
+RAIDERS",16,32,4,"Brisbane
+BRONCOS",10,22,6
+0,NRL 2025,Round 2,"Sunday, 16th March, 2025",4:05pm (local time),113580,940,"18,362","Parramatta
+EELS",0,6,8,WESTS TIGERS,16,32,6
+0,NRL 2025,Round 2,"Sunday, 16th March, 2025",6:15pm (local time),113581,27,"17,892","Canterbury Bankstown
+BULLDOGS",22,40,5,"Gold Coast
+TITANS",12,24,5
+0,NRL 2025,Round 3,"Thursday, 20th March, 2025",8:00pm (local time),113594,251,"17,586","Melbourne
+STORM",14,30,6,"Penrith
+PANTHERS",10,24,8
+0,NRL 2025,Round 3,"Friday, 21st March, 2025",8:00pm (local time),113595,6,"23,219",WARRIORS,4,14,4,"Sydney
+ROOSTERS",6,6,2
+0,NRL 2025,Round 3,"Friday, 21st March, 2025",7:00pm (local time),113596,1097,"45,318","Brisbane
+BRONCOS",12,26,3,"North Queensland
+COWBOYS",0,16,7
+0,NRL 2025,Round 3,"Saturday, 22nd March, 2025",3:00pm (local time),113597,9,"14,320","Cronulla Sutherland
+SHARKS",20,27,6,"South Sydney
+RABBITOHS",0,12,5
+0,NRL 2025,Round 3,"Saturday, 22nd March, 2025",4:30pm (local time),113598,968,"10,023",DOLPHINS,18,18,9,WESTS TIGERS,12,30,7
+0,NRL 2025,Round 3,"Saturday, 22nd March, 2025",6:35pm (local time),113599,149,"14,602","Gold Coast
+TITANS",12,26,8,"Newcastle
+KNIGHTS",0,6,10
+0,NRL 2025,Round 3,"Sunday, 23rd March, 2025",4:05pm (local time),113600,940,"24,059","Parramatta
+EELS",4,8,7,"Canterbury Bankstown
+BULLDOGS",14,16,4
+0,NRL 2025,Round 3,"Sunday, 23rd March, 2025",6:15pm (local time),113601,5,"16,125","Manly Warringah
+SEA EAGLES",30,40,10,"Canberra
+RAIDERS",0,12,4
+0,NRL 2025,Round 4,"Thursday, 27th March, 2025",8:00pm (local time),113626,20,,"South Sydney
+RABBITOHS",0,,,"Penrith
+PANTHERS",0,,
+0,NRL 2025,Round 4,"Friday, 28th March, 2025",6:00pm (local time),113627,1096,,"Sydney
+ROOSTERS",0,,,"Gold Coast
+TITANS",0,,
+0,NRL 2025,Round 4,"Friday, 28th March, 2025",7:00pm (local time),113646,1097,,DOLPHINS,0,,,"Brisbane
+BRONCOS",0,,
+0,NRL 2025,Round 4,"Saturday, 29th March, 2025",3:00pm (local time),113647,23,,"St George Illawarra
+DRAGONS",0,,,"Melbourne
+STORM",0,,
+0,NRL 2025,Round 4,"Saturday, 29th March, 2025",4:30pm (local time),113648,985,,"North Queensland
+COWBOYS",0,,,"Canberra
+RAIDERS",0,,
+0,NRL 2025,Round 4,"Saturday, 29th March, 2025",7:35pm (local time),113649,9,,"Cronulla Sutherland
+SHARKS",0,,,"Canterbury Bankstown
+BULLDOGS",0,,
+0,NRL 2025,Round 4,"Sunday, 30th March, 2025",4:05pm (local time),113650,5,,"Manly Warringah
+SEA EAGLES",0,,,"Parramatta
+EELS",0,,
+0,NRL 2025,Round 4,"Sunday, 30th March, 2025",6:15pm (local time),113651,19,,WESTS TIGERS,0,,,WARRIORS,0,,
